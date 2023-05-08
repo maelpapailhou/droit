@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="CE15E622-08A7-49A9-BC2E-C90E379634DE" Version="2.0" Creator="SCRMAC-3.3.1-15586" Device="MacBook-Pro-de-Mael" Author="" Modified="2023-04-26 13:39:22 +0400" ModID="26CF1864-EA61-4A4F-A2DC-417D2B49468F">
+    <Binder>
+        <BinderItem UUID="62E18536-7A63-4959-A4CF-F5CEA37A9A22" Type="DraftFolder" Created="2023-04-12 21:53:35 +0400" Modified="2023-04-12 21:53:35 +0400">
+            <Title>Ébauche</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>23B914CA-BDB4-42FE-925A-86DB9FCD1584</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="8058E0FE-FD09-489E-8D77-6D6A558DCDCD" Type="Text" Created="2023-04-12 21:53:35 +0400" Modified="2023-04-20 16:45:21 +0400">
+                    <TextSettings>
+                        <TextSelection>1043,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="468F3F1A-A61D-491E-A599-474BF8BD7F9A" Type="Text" Created="2023-04-20 16:44:44 +0400" Modified="2023-04-25 08:45:42 +0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Light Bulb</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,23640</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="23544635-F333-46F5-86F9-7998775037B6" Type="Text" Created="2023-04-20 17:11:15 +0400" Modified="2023-04-22 10:07:46 +0400">
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="23B914CA-BDB4-42FE-925A-86DB9FCD1584" Type="Folder" Created="2023-04-12 22:13:30 +0400" Modified="2023-04-12 22:13:33 +0400">
+                    <Title>Accroches</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>F5A7F931-D8AF-4E1F-AA15-B6E5F59F257A</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="F5A7F931-D8AF-4E1F-AA15-B6E5F59F257A" Type="Text" Created="2023-04-12 22:13:40 +0400" Modified="2023-04-12 22:13:57 +0400">
+                            <TextSettings>
+                                <TextSelection>221,1</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="08BA92FD-057A-43D5-A13E-5522BC0865A5" Type="Text" Created="2023-04-12 22:13:50 +0400" Modified="2023-04-12 22:13:57 +0400">
+                            <TextSettings>
+                                <TextSelection>263,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="EA1249E5-D8A5-4604-A7A0-7903F467B707" Type="Folder" Created="2023-04-13 02:26:53 +0400" Modified="2023-04-13 02:26:54 +0400">
+                    <Title>Problématiques</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>A53AC30D-C5F4-476B-976B-BFCFAB834A72</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="BF34D089-3D74-4177-A1C2-F994DFF03C79" Type="Text" Created="2023-04-13 02:23:34 +0400" Modified="2023-04-13 02:24:34 +0400">
+                            <Title>Problématiques GPT4</Title>
+                            <TextSettings>
+                                <TextSelection>1415,497</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A53AC30D-C5F4-476B-976B-BFCFAB834A72" Type="Text" Created="2023-04-13 02:26:28 +0400" Modified="2023-04-13 02:29:46 +0400">
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8193937B-E6F9-44B9-B2B2-C84B3E3F94D4" Type="Text" Created="2023-04-13 02:29:30 +0400" Modified="2023-04-13 02:34:11 +0400">
+                            <Title>"Comment l'évolution historique, les enjeux culturels, sociaux, migratoires et économiques ont-ils façonné et mis en tension l'identité européenne face à la montée du nationalisme ?"
+
+Cette problématique vous permettra d'aborder les points suivants :
+
+L'évolution historique et l'identité européenne :
+
+Analyser les fondements historiques de l'identité européenne et les valeurs qui y sont inscrites.
+Étudier l'élargissement et l'approfondissement de l'Union européenne et leur impact sur l'identité européenne.
+Les enjeux culturels et sociaux :
+
+Examiner l'interaction entre diversité culturelle et identité européenne, et les politiques de l'Union européenne pour promouvoir le dialogue interculturel.
+Analyser les défis sociaux auxquels l'Europe est confrontée (inégalités, cohésion sociale, etc.) et leur influence sur l'identité européenne.
+La crise migratoire et ses conséquences sur l'identité européenne :
+
+Étudier les politiques migratoires européennes et leur évolution face aux crises migratoires.
+Analyser les défis liés à l'intégration des migrants et leur impact sur les perceptions de l'identité européenne.
+La montée du nationalisme et ses effets sur l'identité européenne :
+
+Examiner les causes et les manifestations du nationalisme en Europe, ainsi que son impact sur les politiques européennes et les perceptions de l'identité européenne.
+Étudier les mouvements eurosceptiques et nationalistes et leur discours sur l'identité européenne.
+Les enjeux économiques et leur influence sur l'identité européenne :
+
+Analyser les politiques économiques de l'Union européenne et leurs conséquences sur les États membres et les citoyens européens.
+Étudier les défis économiques auxquels l'Europe est confrontée (globalisation, compétitivité, etc.) et leur impact sur l'identité européenne.</Title>
+                            <TextSettings>
+                                <TextSelection>900,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="42CA158E-E14B-4037-B8E1-BDFD0F0A2E1E" Type="ResearchFolder" Created="2023-04-12 21:53:35 +0400" Modified="2023-04-12 21:53:35 +0400">
+            <Title>Recherche</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="0C274D3B-5689-4F56-B863-69F49537927A" Type="Text" Created="2023-04-12 22:04:55 +0400" Modified="2023-04-13 02:34:11 +0400">
+                    <Title>Citations I.E.</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Speech Marks</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1310,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0FA37BD9-43FB-445D-97EB-ED56AA1B1AE9" Type="Text" Created="2023-04-12 22:07:14 +0400" Modified="2023-04-12 22:08:08 +0400">
+                    <Title>Cartes Ex. Droite Europe</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Locations (Map)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="AC347A2E-E706-459E-8C92-6932F6D84DED" Type="Text" Created="2023-04-12 22:08:34 +0400" Modified="2023-04-12 22:12:54 +0400">
+                    <Title>Références I.E.</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Book (Composition)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1818,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="15054786-4F38-4FAE-8626-5AD9BC49E4E8" Type="TrashFolder" Created="2023-04-12 21:53:35 +0400" Modified="2023-04-12 21:53:35 +0400">
+            <Title>Corbeille</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="52BE550F-ED93-4DA8-9359-DC655DF56C42" Color="1.0 1.0 1.0">
+            <Title>Classeur</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="C163B8F1-237A-4C88-9E43-71E485859116" Color="0.922173 0.818612 0.999627">
+            <Title>Résultats de la recherche</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="EB7D4191-4968-4EBC-9B7F-C37FC6B12F80">En-tête</Type>
+            <Type ID="9792FEA9-BEFA-4737-A63A-134475D94109">En-tête</Type>
+            <Type ID="F30BF3C2-778F-4187-8C0A-02B6C90387F2">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>EB7D4191-4968-4EBC-9B7F-C37FC6B12F80</Type>
+            </Folders>
+            <Containers>
+                <Type>F30BF3C2-778F-4187-8C0A-02B6C90387F2</Type>
+            </Containers>
+            <Files>
+                <Type>F30BF3C2-778F-4187-8C0A-02B6C90387F2</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Étiquette</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">Aucune étiquette</Label>
+            <Label ID="0" Color="0.993495 0.701227 0.732594">Rouge</Label>
+            <Label ID="1" Color="0.995418 0.790968 0.65239">Orange</Label>
+            <Label ID="2" Color="0.99772 0.892753 0.652574">Jaune</Label>
+            <Label ID="3" Color="0.715848 0.948734 0.697698">Vert</Label>
+            <Label ID="4" Color="0.702312 0.888297 0.97426">Bleu</Label>
+            <Label ID="5" Color="0.957564 0.766768 0.999625">Violet</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Statut</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">Aucun statut</Status>
+            <Status ID="0">À faire</Status>
+            <Status ID="1">En cours</Status>
+            <Status ID="2">Première ébauche</Status>
+            <Status ID="3">Ébauche révisée</Status>
+            <Status ID="4">Ébauche finale</Status>
+            <Status ID="5">Terminé</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2023-04-12 21:53:34 +0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-04-27 00:00:00 +0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2023-04-26 13:39:20 +0400"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2023-04-26 00:00:00 +0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="595.275557,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
