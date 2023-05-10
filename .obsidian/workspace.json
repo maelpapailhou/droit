@@ -33,14 +33,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Droit Constitutionnel I/test.md",
+                "file": "Institutions/Partie 2 - Les Institutions juridictionnelles/Chapitre 0 - Introduction - Qu’est-ce que les institutions juridictionnelles ?/A) Les causes historiques du dualisme juridictionnel/2) La consolidation napoléonienne et ultérieure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7dbc75299eda68e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie/Ouvrages de synthèse/HALPÉRIN J.-L., L’introduction au droit en 10 thèmes, avec exemples détaillés, Dalloz, 2e éd., 2019..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a3e69eba0ee8627",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie/Ouvrages de synthèse/MIAILLE M., Introduction critique au droit, Maspero, 1976..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b43a003c9d445366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie/Aller plus loin/JAMIN C., La cuisine du droit, L’école de science po - une expérimentation française, LGDJ, 2012.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36d68fc0543ce71f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie/Aller plus loin/DELOYE Y. et VOUTAT B. (dir.), Faire de la science politique. Pour une analyse socio-historique du politique, Paris, Belin, 2002.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c91ef3e7734aefca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie/Aller plus loin/Vidéo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e906900580e4bea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Révisions/Notions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44a70db4efe87920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Révisions/Auteurs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d5ee10566c6f041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Cours/_Sommaire.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -106,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Droit Constitutionnel I/test.md",
+                "file": "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Cours/_Sommaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Droit Constitutionnel I/test.md",
+                "file": "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Cours/_Sommaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Droit Constitutionnel I/test.md"
+                "file": "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Cours/_Sommaire.md"
               }
             }
           }
@@ -169,8 +265,25 @@
   },
   "active": "a859a7f9ac6554a1",
   "lastOpenFiles": [
-    "Droit des personnes/test.md",
+    "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Révisions/Auteurs.md",
+    "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Cours/_Sommaire.md",
+    "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Révisions/Notions.md",
+    "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie/Aller plus loin/Vidéo.md",
+    "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie/Aller plus loin/DELOYE Y. et VOUTAT B. (dir.), Faire de la science politique. Pour une analyse socio-historique du politique, Paris, Belin, 2002.md",
+    "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie/Aller plus loin/JAMIN C., La cuisine du droit, L’école de science po - une expérimentation française, LGDJ, 2012.md",
+    "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie/Ouvrages de synthèse/MIAILLE M., Introduction critique au droit, Maspero, 1976..md",
+    "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie/Aller plus loin",
+    "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie/Ouvrages de synthèse/HALPÉRIN J.-L., L’introduction au droit en 10 thèmes, avec exemples détaillés, Dalloz, 2e éd., 2019..md",
+    "Institutions/Partie 2 - Les Institutions juridictionnelles/Chapitre 0 - Introduction - Qu’est-ce que les institutions juridictionnelles ?/A) Les causes historiques du dualisme juridictionnel/2) La consolidation napoléonienne et ultérieure.md",
+    "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie/Ouvrages de synthèse",
+    "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Révisions",
+    "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie",
+    "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Cours",
+    "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?",
+    "Institutions/Partie 2 - Les Institutions juridictionnelles/Chapitre 0 - Introduction - Qu’est-ce que les institutions juridictionnelles ?/A) Les causes historiques du dualisme juridictionnel/1) L’apport de la Révolution française.md",
+    "Institutions/Partie 2 - Les Institutions juridictionnelles/Chapitre 2 - La juridiction administrative/A) Le Conseil d'Etat.md",
     "Droit Constitutionnel I/test.md",
+    "Droit des personnes/test.md",
     "Sans titre 2.md",
     "Sans titre 1.md",
     "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Fiches/_ Sommaire.md",
@@ -187,24 +300,7 @@
     "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Momento révisions",
     "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Olivier RUSSBACH \"ONU contre ONU .. Le droit international confisqué\".md",
     "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Laurie BOUSSAGUET, Une French touch dans l’analyse des politiques publiques ?.md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/FOUILLEUX, Eve, Au-delà des Etats en action... la fabrique des politiques publiques globales.md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Eve FOUILLEUX \"Au-delà des Etats en action... la fabrique des politiques publiques globales\".md",
-    "Relations Internationales/Sujets/qui est-ce qui gouverne ? Qui décide ?.md",
-    "Relations Internationales/Sujets/C2 En quoi la scène des etats est-elle de plus en plus contestée sur la scène internationale ?.md",
-    "Relations Internationales/Sujets/C0 Quelles sont les grandes théories en relations internationales ? Et quelles sen sont les principales thèses?.md",
-    "Relations Internationales/Sujets/C0 En quoi ces acteurs non étatiques sont-ils légitimes pour agir sur la scène internationale ?.md",
-    "Relations Internationales/Sujets/C3 dans quelle mesure l’émergence de la société civile monde fragilise telle la souveraineté des états nations ?Dans quelle mesure l’émergence de la société civile monde modifie elle politiques publiques des états nations ?.md",
-    "Relations Internationales/Sujets/en quoi les OI remettent elles en cause la souveraineté des etats natiosn sur la scène internationale ?.md",
-    "Relations Internationales/Sujets/C0 La France a-t-elle encore quelque chose à apporter au monde ?  quels sont les éléments de puissance de la France à l’internationale ?.md",
-    "Relations Internationales/Sujets/C2 Dans quelle mesure les organisations internationales fragilisent-elles la souveraineté des États-nations sur la scène internationale ?.md",
-    "Relations Internationales/Sujets/En quoi les OI influencent-elles les politques publiques des etats nations ?.md",
     "Relations Internationales/Chapitre 1 - La scène interétatique/Fiches",
-    "Relations Internationales/Chapitre 1 - La scène interétatique/Ouvrages",
-    "Relations Internationales/Chapitre 0 - Introduction/Ouvrages de synthèse",
-    "Relations Internationales/Chapitre 0 - Introduction/Momento révisions",
-    "Droit de la Famille/Travaux dirigés/La famille",
-    "Droit de la Famille/Travaux dirigés/L'enfant",
-    "Droit de la Famille/Travaux dirigés",
     "Culture économique/Partie 1/Pasted image 20230419003110.png",
     "Culture économique/Pasted image 20230428023108.png",
     "Culture économique/Pasted image 20230428023053.png",
