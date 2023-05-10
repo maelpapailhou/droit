@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "a5211c55dd85410c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b17f03d660e62ead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f43e731f0deeb2b0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18a610b8f7556cec",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f8f05ea89a26ef4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a859a7f9ac6554a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "459c2afba69607ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f2ea002e5de4af4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3efb3bc837ac7127",
+    "type": "split",
+    "children": [
+      {
+        "id": "17c82e9d407d5abb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce37d664eb017d13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9889a35f50a54052",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dfd4cf562b9079d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a8eb0a58de9112ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "a859a7f9ac6554a1",
+  "lastOpenFiles": [
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Fiches/_ Sommaire.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Fiches/ONU.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Fiches/Les OI.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Fiches",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Ouvrages de synthèse/TAWIL, Emmanuel, Relations internationales, 2016, p. 116-197..md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Ouvrages de synthèse/ROCHE, Jean-Jacques, Relations internationales, 2014, p. 143- 188..md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Ouvrages de synthèse/LAROCHE, Josepha, Politique internationale, 1998, p. 123-156..md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Ouvrages de synthèse",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Momento révisions/Définitions.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Momento révisions/Cours.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Momento révisions/Auteurs.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Momento révisions",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Olivier RUSSBACH \"ONU contre ONU .. Le droit international confisqué\".md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Laurie BOUSSAGUET, Une French touch dans l’analyse des politiques publiques ?.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/FOUILLEUX, Eve, Au-delà des Etats en action... la fabrique des politiques publiques globales.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Eve FOUILLEUX \"Au-delà des Etats en action... la fabrique des politiques publiques globales\".md",
+    "Relations Internationales/Sujets/qui est-ce qui gouverne ? Qui décide ?.md",
+    "Relations Internationales/Sujets/C2 En quoi la scène des etats est-elle de plus en plus contestée sur la scène internationale ?.md",
+    "Relations Internationales/Sujets/C0 Quelles sont les grandes théories en relations internationales ? Et quelles sen sont les principales thèses?.md",
+    "Relations Internationales/Sujets/C0 En quoi ces acteurs non étatiques sont-ils légitimes pour agir sur la scène internationale ?.md",
+    "Relations Internationales/Sujets/C3 dans quelle mesure l’émergence de la société civile monde fragilise telle la souveraineté des états nations ?Dans quelle mesure l’émergence de la société civile monde modifie elle politiques publiques des états nations ?.md",
+    "Relations Internationales/Sujets/en quoi les OI remettent elles en cause la souveraineté des etats natiosn sur la scène internationale ?.md",
+    "Relations Internationales/Sujets/C0 La France a-t-elle encore quelque chose à apporter au monde ?  quels sont les éléments de puissance de la France à l’internationale ?.md",
+    "Relations Internationales/Sujets/C2 Dans quelle mesure les organisations internationales fragilisent-elles la souveraineté des États-nations sur la scène internationale ?.md",
+    "Relations Internationales/Sujets/En quoi les OI influencent-elles les politques publiques des etats nations ?.md",
+    "Relations Internationales/Sujets/C1 Comment le concept de souveraineté a-t-il évolué au fil du temps et quels sont les défis actuels pour la souveraineté des Etats sur la scène internationale ?.md",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Fiches/_Sommaire.md",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Fiches/Notions.md",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Fiches",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Ouvrages/Serge SUR, Relations internationales.md",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Ouvrages",
+    "Relations Internationales/Chapitre 0 - Introduction/Ouvrages de synthèse",
+    "Relations Internationales/Chapitre 0 - Introduction/Momento révisions",
+    "Droit de la Famille/Travaux dirigés/La famille",
+    "Droit de la Famille/Travaux dirigés/L'enfant",
+    "Droit de la Famille/Travaux dirigés",
+    "Culture économique/Partie 1/Pasted image 20230419003110.png",
+    "Culture économique/Pasted image 20230428023108.png",
+    "Culture économique/Pasted image 20230428023053.png",
+    "Culture économique/Pasted image 20230428023024.png"
+  ]
+}
