@@ -1,0 +1,1 @@
+propriété individuelle, absolutisme, dogme propriétaire, inégalités, idéologie, suffrage censitaire, sociétés ternaires, communs, appropriation économique, appropriation politique, habitat participatif, propriété sociale, propriété temporaire, loi ALUR.
