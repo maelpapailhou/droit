@@ -1,9 +1,3 @@
-Brainstorming  
--territoire  
--peuple  
--pouvoir souverain  
-- Qui gouverne ? Qui décide ? Qui fabrique la loi ? - souveraineté
-
 →Y’ a pas d’état sans fiscalité Norbert Elias
 
 Y’ a t il d’autres formes d’organisations politique de l’État ?
@@ -21,79 +15,82 @@ Plan :
 ### Introduction :
 
 Il y a un paradoxe sur la définition/ concept de l’État.  
+
 Le paradoxe est le suivant ; la définition de l’État fait globalement consensus en droit là où la définition de l’État est très débattu en sciences politique.  
-En droit la définition est relativement consensuelle, il n y a pas de débat particulier dans la littérature scientifique sur le concept d’État, alors que en sciences politiques il y a énormément de définition de l’État. C’est d’ailleurs le concept le plus débattu en science politique. Comme ;  
+
+En droit la définition est relativement consensuelle, il n y a pas de débat particulier dans la littérature scientifique sur le concept d’État, alors que en sciences politiques il y a énormément de définition de l’État. C’est d’ailleurs le concept le plus débattu en science politique. 
+
+Comme :
 - avoir une approche plutôt internationaliste de l’État.  
 - approche administrative en regardant le fonctionnement des administrations publiques.  
-En droit, la définition sur l’État est l’objet de peu de controverses scientifiques. L’État est un objet en commun entre le droit et la science politique.  
-Les privatistes travaille sur l’État et les publicistes également.  
-L’État est un concept scientifique mais c’est aussi un concept très utilisé dans le sens commun. Souvent on emploi le terme d’État dans des sens assez différent d’ailleurs on lui trouve des synonymes comme le Gouvernement et Pouvoir  
-( politique ). D’un point de vue non scientifique ( profane ) s’est utilisé des définitions quotidiennes on on emploie le terme d’État comme par exemple : →La France est un État ou l’ONU est composé de 193 États.
 
+En droit, la définition sur l’État est l’objet de peu de controverses scientifiques. L’État est un objet en commun entre le droit et la science politique. Les privatistes travaille sur l’État et les publicistes également.  
+
+L’État est un concept scientifique mais c’est aussi un concept très utilisé dans le sens commun. Souvent on emploi le terme d’État dans des sens assez différent d’ailleurs on lui trouve des synonymes comme le Gouvernement et Pouvoir (politique ). 
+
+D’un point de vue non scientifique ( profane ) s’est utilisé des définitions quotidiennes on on emploie le terme d’État comme par exemple : →La France est un État ou l’ONU est composé de 193 États.
 Quand on utilise ces expressions on a une compréhension de l’État qui signifierait que l’État est un pays souverain.
 
 →Il y a un État en France
 
-On appréhende l’État sous l’angle de ces administrations publiques de ces institutions. C’est à dire tout les éléments quotidiens qui nous donne à voir l’existence de l’État.
+On appréhende l’État sous l’angle de ces **administrations publiques de ces institutions**. C’est à dire tout les éléments quotidiens qui nous donne à voir l’existence de l’État.
 
 On peut dégager deux définitions de l’État en faisant une approche juridique de l’État ( I) et l’approche de Weber (II).
 
 ### I. L’approche juridique de l’État et ces limites
 
-L’État c’est 3 éléments ; un territoire, un peuple et un gouvernement. Le droit s’intéresse énormément à l’État notamment avec ces différentes branches ( droit constitutionnel, droit administratif ) mais le concept même d’État ne pose pas de problème en droit. Il fait consensus depuis le XIXème siècle. Le Français qui incarne cette définition c’est Reymond.Karim.Malbert ( Recherches ).
+L’État c’est 3 éléments ; **un territoire, un peuple et un gouvernement**. Le droit s’intéresse énormément à l’État notamment avec ces différentes branches (droit constitutionnel, droit administratif ) mais le concept même d’État ne pose pas de problème en droit. Il fait consensus depuis le XIXème siècle. Le Français qui incarne cette définition c’est Reymond.Karim.Malbert ( Recherches ).
 
 #### A. Le territoire
+L’État est un territoire c’est à dire que c’est un **espace qui va être borné par des frontières** et ces **frontières sont reconnus par les autres États**. Il est important car c’est le lieu ou s’**applique les règles, les, normes, le droit**. C’est le lieu/l’espace où s’**exerce le pouvoir de l’État**.  
 
-L’État est un territoire c’est à dire que c’est un espace qui va être borné par des frontières et ces frontières sont reconnus par les autres États. Il est important car c’est le lieu ou s’applique les règles, les ,ormes, le droit.  
-C’est le lieu/l’espace où s’exerce le pouvoir de l’État.  
 Le droit s’applique t il de la même manière sur tout le territoire ?  
-Non, il y a des spécificités juridiques comme les outre-mer et certains acteurs dans l’espace public qui explique qu’il y a des zones de non droit.
+Non, il y a des **spécificités juridiques comme les outre-mer** et certains acteurs dans l’espace public qui explique qu’il y a des zones de non droit.
 
-Le concept de territoire/de frontière a encore un sens avec la globalisation et la mondialisation ? Est ce que l’État n’est pas mis à mal dans sa capacité de contrôler son territoire avec la globalisation et la mondialisation ?
-
-- La difficulté de l’État à contrôler les populations qui circule sur son territoire. - La difficulté pour l’État de contrôler les virus qui arrive sur son territoire.  
+Le concept de territoire/de frontière a encore un sens avec la **globalisation et la mondialisation** ? Est ce que l’État n’est pas mis à mal dans sa **capacité de contrôler son territoire** avec la globalisation et la mondialisation ?
+- La difficulté de l’État à contrôler les populations qui circule sur son territoire. 
+- La difficulté pour l’État de contrôler les virus qui arrive sur son territoire.  
 - La difficulté qu’à l’État de contrôler les flux internet qui circule sur son territoire.
 
-Mettre à mal cette notion de territoire/de frontière fragilise la définition juridique de l’État. Au XXIème siècle cette notion de territoire date.
+Mettre à mal cette notion de territoire/de frontière **fragilise la définition juridique de l’État**. Au XXIème siècle cette notion de territoire date.
 
 #### B. La population / Le peuple
 
-Le peuple ce sont les individus qui serait assujetti au droit de l’État, sur lequel le droit de l’État va s’exercer. Le peuple va formé la population de l’État. Il y a le peuple ressortissant et le peuple résident.  
+Le peuple ce sont les **individus qui serait assujetti au droit de l’État, sur lequel le droit de l’État va s’exercer**. Le peuple va formé la population de l’État. Il y a le peuple ressortissant et le peuple résident.  
+
 Donc de quel peuple parle t on ?
-
-Le peuple ressortissant(e) ; ce sont tout ceux qui vont avoir la nationalité du pays en question. On comprends très bien que tout les ressortissant par exemple français ne vivent pas en France. Jusqu’à quel point la France peut s’immiscer dans les affaires de d’autres pays ?
-
-Le peuple résident ; toute les personnes qui vivent en France ne sont pas français(e)s, la question du pouvoir des étrangers se pose.  
-Est ce que la population étrangère ( importante ) pose un pouvoir ? Est ce que cela pose un problème à L’État ?
+- **Le peuple ressortissant(e)** ; ce sont tout ceux qui vont avoir la **nationalité du pays en question**. On comprends très bien que tout les *ressortissant  français ne vivent pas en France*. Jusqu’à quel point la France peut s’immiscer dans les affaires de d’autres pays ?
+- **Le peuple résident** ; toute les personnes qui vivent en France **ne sont pas français(e)s**, la question du pouvoir des étrangers se pose. Est ce que la population étrangère (importante) pose un pouvoir ? Est ce que cela pose un problème à L’État ?
 
 #### C. Le pouvoir souverain / Gouvernement
 
-C’est l’idée que l’État déteint un pouvoir de coercition, il est censé être souverain sur son territoire, censé être souverain sur sa population.  
-Mais est ce que c’est le seul acteur à détenir un pouvoir de coercition ?  
-Est ce que c’est vraiment l’État qui gouverne et dévide ?
+C’est l’idée que l’État détient un **pouvoir de coercition**, il est censé être souverain sur son territoire, censé **être souverain sur sa population**.  
 
-Typiquement dans le cadre de la construction de l’Union Européenne, il y a de plus en plus de décisions qui sont le résultats de la construction européenne et qui potentiellement met à mal la souveraineté des États nation qui compose l’Union européenne.
+Mais est ce que c’est le seul acteur à détenir un pouvoir de coercition ?   Est ce que c’est vraiment l’État qui gouverne et dévide ?
 
-Conclusion : En droit la définition de l’État rassemble 3 éléments ( un territoire, une population, une puissance publique souveraine/gouvernement ), ces éléments nous amène à réfléchir et ce qu’on peut faire c’est proposer une autre définition.
+Typiquement dans le cadre de la construction de l’Union Européenne, il y a de plus en plus de décisions qui sont le **résultats de la construction européenne** et qui potentiellement **met à mal la souveraineté des États nation qui compose l’Union européenne**.
 
-Il existe d’autre formes d’organisations politiques. Et notamment la question qui se pose est est ce que l’état islamique est un État ? Ce qui pose problème c’est de replacer cette définition de l’État dans l’histoire. En effet il a existé d’autres manières pour les sociétés de s’organiser, du coup cette définition peut rendre difficile le raisonnement historique
+Conclusion : En droit la définition de l’État rassemble 3 éléments ( un territoire, une population, une puissance publique souveraine/gouvernement ), ces éléments nous **amène à réfléchir et ce qu’on peut faire c’est proposer une autre définition**.
+
+Il existe d’autre formes d’organisations politiques. Et notamment la question qui se pose est est ce que l’état islamique est un État ? Ce qui pose problème c’est de replacer cette définition de l’État dans l’histoire. En effet il a existé d’**autres manières pour les sociétés de s’organiser**, du coup cette définition peut rendre **difficile le raisonnement historique**.
 
 ### II. L’approche Weberienne de l’État/La définition de l’État en sciences politiques.
 
-L’une des définition les plus utilisé de l’État en science politique c’est la proposition de Weber ( sociologue allemand ), qui a également écrit le bouquin célèbre intitulé « Économie et Société » et c’est dans ce bouquin qu’il donne une définition de l’État.
+L’une des définition les plus utilisé de l’État en science politique c’est la proposition de Weber ( sociologue allemand ), qui a également écrit le bouquin célèbre intitulé **« Économie et Société » et c’est dans ce bouquin qu’il donne une définition de l’État**.
 
-→Il dit que ; « On entend par État, une entreprise politique de caractère institutionnel lorsque et tant que sa direction administrative revendique avec succès, dans l’application des règlements, le monopole de la contrainte physique légitime. »
+	*« On entend par État, une entreprise politique de caractère institutionnel lorsque et tant que sa direction administrative revendique avec succès, dans l’application des règlements, le monopole de la contrainte physique légitime. »*
 
-Entreprise politique = pour lui cela veut dire que l’État doit avoir une activité continue. Et ce qui permet cette activité continue c’est l’administration ( la direction administrative ). L’État doit donc s’inscrire dans la durée.
+Entreprise politique = pour lui cela veut dire que l’État doit avoir une **activité continue**. Et ce qui permet cette **activité continue c’est l’administration** ( la direction administrative ). L’État doit donc s’**inscrire dans la durée**.
 
-Dans l’histoire il y eu en effet des formes d’organisations politiques qui ont été mises en place mais qui disparaissait notamment avec la mort du chef. Donc l’appareil de domination ne s’inscrit pas dans la durée.  
-On doit donc distinguer la personne des institutions, les institutions sont généralement incarnée par des personnes et ces personnes ont une durée limitée,sauf que pour Weber les institutions doivent survivre.
+Dans l’histoire il y eu en effet des formes d’organisations politiques qui ont été mises en place mais qui **disparaissait notamment avec la mort du chef**. Donc l’appareil de domination *ne s’inscrit pas dans la durée*.  
 
-L’État doit survivre à la mort du souverain ou de la souveraine.
+On doit donc **distinguer la personne des institutions**, les institutions sont généralement incarnée par des personnes et ces personnes ont une durée limitée, sauf que pour Weber les institutions doivent survivre.
+
+**L’État doit survivre à la mort du souverain ou de la souveraine.**
 
 On doit distinguer le corps physique ( la personne humaine ) du corps spirituel qui serait l’institution de l’État.
 
-Pour Weber l’État repose sur une administration publique, pour Weber y a pas d’État sans administration publique. Administration publique du coup avec des fonctionnaires qui sont spécialisés dans des taches et qui vont permettre de faire fonctionner l’État tout en l’inscrivant dans la durée. Des fonctionnaires qui vont bien sur être recruter pour le compétences en passant par des concours et non pas avec les affinités politique.
+Pour Weber l’**État repose sur une administration publique**, pour Weber y a pas d’État sans administration publique. Administration publique avec des **fonctionnaires qui sont spécialisés dans des taches** et qui vont permettre de **faire fonctionner l’État tout en l’inscrivant dans la durée**. Des fonctionnaires qui vont bien sur être recruter pour le compétences en **passant par des concours et non pas avec les affinités politique**.
 
 Weber à une définition très moderne de l’État ; si on prends sa définition, si on suit Weber il n y a pas beaucoup d’État dans le monde. Il n y a pas beaucoup d’organisations politiques qui correspondent à la définition Weberienne de l’État notamment du fait de l’importance des administrations public.
 
