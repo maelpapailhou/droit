@@ -41,9 +41,9 @@ Entre cette dystopie, cette crise et cette idéalisation aujourd’hui les chif
 
 Est ce que le mérite doit encore régir nos sociétés contemporaine ?
 
-I. Le mérite comme promotion d’une organisation sociale nouvelle fondée sur l’égalité des chances et la justice sociale.
+### I. Le mérite comme promotion d’une organisation sociale nouvelle fondée sur l’égalité des chances et la justice sociale.
 
-A. De la valeur du rang à la valeur de l’individu
+#### A. De la valeur du rang à la valeur de l’individu
 
 Avant la Révolution on appelle notre société française des sociétés  
 « ternaire/tri-fonctionnel » →société où la place de chaque individu dans la société est justifiée par sa position sociale. Le mérite n’est absolument pas au cœur du système. Ce qui va déterminer la personne c’est sa classe sociale. Ces sociétés se compose de trois groupes sociaux ? chacun remplissant des fonctions différentes :
@@ -57,7 +57,7 @@ La valeur de l’individu c’est l’esprit libérale de la révolution. En 1
 
 L’un des fondement du régime républicain c’est l’égal accès des individus en fonction de leurs talents aux charges public.
 
-B. L’éloge et la compétence de l’age d’or méritocratique
+#### B. L’éloge et la compétence de l’age d’or méritocratique
 
 Dès la fin du XVIIIème siècle cette idée se diffuse et un certains nombres d’institutions sont mises en place pour rendre effectif l’accès des plus méritants. C’est l’époque où on va créer les concours d’État, et on crée également des grandes écoles POUR accéder aux différentes fonctions. On voit cette origine dans la valorisation par concours, on sort de l’héritage.
 
@@ -70,11 +70,11 @@ En 1970 plus de 60 % des fils d’ouvriers pouvaient accéder à des emplois f
 Au Xxème siècle on a plein de figures politiques intellectuelles qui incarne le sociale.  
 →Édouard Herriot, Georges Pompidou, Pierre Bourdieu, Didier Eribond. Annie Hernaud
 
-II. Le mérite comme illusion d’une organisation sociale juste et égalitaire
+### II. Le mérite comme illusion d’une organisation sociale juste et égalitaire
 
-A. La méritocratie ou l’idéologie justificative des inégalités.
+#### A. La méritocratie ou l’idéologie justificative des inégalités.
 
-Il y a tout un ensemble d’idéologie abondante pour dénoncer les inégalités. Depuis toujours l’ascenseur sociale a toujours été limité. Il y a des études depuis les années 50 qui démontre l’illusion méritocratique, INED, publié en 1961. On observe que les élites ont une socialisation primaire très favorisé dès l’enfance. Au delà des grades écoles on regarde d’où viennent les personnes qui ont un bon salaire, en réalité 85 %% des catégories supérieurs étaient favorisé au départ.
+Il y a tout un ensemble d’idéologie abondante pour dénoncer les inégalités. Depuis toujours l’ascenseur sociale a toujours été limité. Il y a des études depuis les années 50 qui démontre l’illusion méritocratique, INED, publié en 1961. On observe que les élites ont une socialisation primaire très favorisé dès l’enfance. Au delà des grades écoles on regarde d’où viennent les personnes qui ont un bon salaire, en réalité 85 % des catégories supérieurs étaient favorisé au départ.
 
 Ces travaux d’Alain Gérard sont confirmés par Bourdieu et Passeron, dans les années 60 sur l’école. Thomas Piquetit cherche à analyser le discours méritocratique , et on voit que la méritocratie est une idéologie qui va justifier
 
@@ -82,7 +82,7 @@ les inégalités au profits des dominants. Pour que les sociétés tiennent 
 
 Le problème de ce récit méritocratique est qu’il est fragilisé car il y a une explosion d’inégalité très forte. En France, 50 % de la population n’hérite jamais de rien et 10 % des revenus les plus élevés détiennent 90 % des richesses.
 
-B. Conter la méritocratie ?
+#### B. Conter la méritocratie ?
 
 Est ce que on devrait pas contrer la méritocratie du fait des effets néfastes qu’elle produit ?  
 Voir document Moodle.
