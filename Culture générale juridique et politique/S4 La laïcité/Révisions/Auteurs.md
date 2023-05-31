@@ -1,0 +1,1 @@
+M. Weber ; E. Durkheim ; F. Nietzsche ; E. Kant ; F. Fukuyama ; S. Huntington ; M. Gauchet ; O. Roy ; G. Keppel ; P. Ricoeur

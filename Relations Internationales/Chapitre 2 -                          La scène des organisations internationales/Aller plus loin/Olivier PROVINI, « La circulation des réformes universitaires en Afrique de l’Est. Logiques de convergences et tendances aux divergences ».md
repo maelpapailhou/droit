@@ -1,0 +1,13 @@
+Cahiers de la recherche sur l’éducation et les savoirs, 2016, vol. 15, p. 281-307.
+
+L'article d'Olivier Provini explore les processus de circulation des réformes universitaires dans trois pays d'**Afrique de l'Est** : **le Kenya, la Tanzanie et l'Ouganda**. En utilisant une **approche comparative**, l'auteur met en évidence les logiques de convergence et de divergence dans ces processus de réforme. Les réformes universitaires ont été initiées à la fin des années 1980 dans ces trois pays, en réponse à des pressions internationales pour réformer les systèmes d'enseignement supérieur. L'article montre que ces **pressions ont été exercées par des acteurs internationaux tels que la Banque mondiale et le Fonds monétaire international**, ainsi que par des **organisations régionales telles que l'Union africaine.**
+
+L'auteur explique que malgré des **similitudes dans les processus de réforme universitaire**, il y a eu des **différences significatives dans les résultats obtenus dans chaque pays**. Il suggère que ces différences sont dues à des **facteurs tels que les priorités nationales, les ressources disponibles et les cultures académiques**. 
+- Par exemple, au **Kenya**, la réforme universitaire a été largement axée sur l'**expansion de l'enseignement supérieur** et l'**accès à l'éducation pour les populations rurales**, 
+- tandis qu'en **Tanzanie**, l'accent a été mis sur l'**amélioration de la qualité de l'enseignement supérieur et sur la formation de cadres techniques pour répondre aux besoins de l'industrie**.
+
+L'auteur note également que les processus de réforme ont été **influencés par les relations internationales de chaque pays**, en particulier les relations avec les acteurs internationaux. Par exemple, l'efficacité des pressions internationales pour réformer les systèmes universitaires a été influencée par le niveau de dépendance des pays vis-à-vis de l'aide étrangère. 
+
+En outre, les **acteurs internationaux** ont souvent proposé des modèles de réforme qui étaient **basés sur leurs propres contextes nationaux, ce qui a entraîné des résultats différents dans chaque pays**.
+
+En conclusion, l'article d'Olivier Provinin montre que les **processus de circulation des réformes universitaires en Afrique de l'Est sont complexes et multifactoriels**, et qu'ils sont influencés par une **variété de facteurs internes et externes**. Il souligne également l'*importance de la prise en compte des contextes locaux dans les efforts de réforme universitaire* et l'importance de reconnaître les différences dans les résultats obtenus dans chaque pays en raison de facteurs tels que les priorités nationales et les ressources disponibles.

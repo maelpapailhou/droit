@@ -1,0 +1,48 @@
+La première a été créée il y a 45 ans, en 1978 : il s'agit de la Commission Nationale de l'Informatique et des Libertés (CNIL).
+
+Il est important de noter que la raison pour laquelle cette autorité administrative indépendante a été créée était son **indépendance vis-à-vis des organes du droit exécutif**. En effet, il s'agissait d'une **question politiquement sensible**, touchant **aux droits et libertés garantis par la Constitution**. Par conséquent, il était important de **garantir son indépendance**.
+
+La procédure est essentiellement libérale, mais il ne faut pas oublier qu'au **sommet de la hiérarchie administrative, il y a une organisation à la fois administrative et politique** (ministre, préfet). On pourrait craindre que l'existence d'organes à la fois politiques et administratifs au sommet du droit ne conduise à ce que ces autorités utilisent les informations et les instruments administratifs dont elles **disposent à des fins politiques**. Autrement dit, qu'elles **instrumentaliseront des questions sensibles à des fins politiques**. 
+Par exemple, des dirigeants politiques comme le Premier ministre peuvent utiliser la radio et la télévision publiques à des fins de propagande électorale. C'est pourquoi, dans les années 70, l'idée a émergé de créer des organismes de régulation, dotés d'indépendance vis-à-vis de l'exécutif. Ces organismes se sont multipliés, mais on cherche maintenant à limiter leur nombre.
+
+Les activités de régulation de ces autorités se sont diversifiées, et on peut distinguer trois catégories de régulation :
+
+Le premier type de régulation concerne les **libertés**, qui était la raison de la création de la CNIL. Dans ce secteur de régulation touchant à la communication, la régulation des libertés publiques est assurée par la CNIL, le Conseil Supérieur de l'Audiovisuel (CSA) et la Haute Autorité pour la diffusion des œuvres et la protection des droits sur Internet (HADOPI). Depuis le 1er avril 2022, ces deux autorités ont été fusionnées pour former l'ARCOM, Autorité de Régulation de la Communication Numérique.
+
+Le deuxième type de régulation concerne l'**économie, la terre et la finance**. On distingue ainsi l'Autorité de la Concurrence et l'Autorité des Marchés Financiers (AMF) pour les produits financiers ou les activités touchant à la bourse ou à d'autres opérations financières.
+
+Le troisième type de régulation concerne les **relations entre l'administration et les administrés**. C'est dans ce cadre que le Défenseur des Droits a été mis en place par la révision constitutionnelle de 2008.
+
+Exemple d'une **haute autorité de transparence de la vie publique** : la déclaration de patrimoine et de conflits d'intérêts des politiques avant les élections. Cela ne rentre pas vraiment dans les 3 cas mentionnés, sauf peut-être dans le troisième cas rapidement évoqué. Ce qui montre la diversification des autorités indépendantes depuis 45 ans.
+
+On distingue deux types d'autorités :
+1.     L'**autorité publique indépendante** (celle qui a une personnalité morale) : agit *en son propre nom*.
+2.     L'**autorité administrative indépendante** : *agit au nom de l'État*.
+
+Parfois les textes ne sont pas précis et ne disent pas clairement si une nouvelle institution créée aura une personnalité morale ou non. Les autorités mentionnées ci-dessus ont des missions de service public.
+
+Comment agit une autorité indépendante, qu'elle soit publique ou administrative, dotée ou non de personnalité morale ?
+
+Une **autorité indépendante** est en mesure de **modifier l'ordonnancement juridique et peut modifier une situation individuelle**. Elle peut prendre des actes ayant des conséquences juridiques. L'un des pouvoirs d'action importants de ces autorités est la régulation, et dans cette perspective, les moyens alloués aux autorités indépendantes sont particuliers. Ces moyens d'action dont disposent les autorités indépendantes sont les suivants :
+
+·       Pouvoir d'enquête : recueillir des informations relatives à leur champ d'activité et de compétence. Par exemple, pour le Défenseur des droits, la loi organique de 2011 qui organise sa compétence précise qu'il peut demander des explications à toute personne physique ou morale mise en cause devant lui. Par ailleurs, la même loi organique précise que le Défenseur des droits peut effectuer des vérifications, sur place, et peut recueillir toute information qui lui apparaît nécessaire sans que son caractère secret ou confidentiel lui soit opposé. Il peut passer outre le secret professionnel, etc.
+
+Note : il y a encore quelques fautes et erreurs de frappe dans le texte original, mais j'ai fait de mon mieux pour corriger et clarifier le texte.
+
+·       Droit d'influence : l'influence exercée en tant qu'autorité administrative indépendante peut être sollicitée pour rendre un avis ou par son propre programme. L'autorité peut saisir, adresser des recommandations ou des propositions. La loi organique du défenseur des droits précise que le défenseur des droits peut recommander des modifications législatives ou réglementaires qui lui paraissent utiles. Par ailleurs, l'autorité indépendante peut publier des études, adresser des injonctions ou des mises en demeure par rapport à une action des services publics. L'enquête influence les décisions. Le pouvoir décisionnel consiste à prendre des décisions d'acte individuel, tels que la nomination ou l'attribution de ressources, ou des actes réglementaires, qui exigent l'adoption d'une loi qui accorde cette possibilité à l'autorité indépendante. Il convient de tenir compte du fait que la Constitution attribue un pouvoir général au Premier ministre. Par conséquent, pour dévier de cette règle générale de compétence, il faut un niveau de pouvoir approprié, c'est pourquoi une autorité indépendante peut exercer ce type de pouvoir. L'enquête > l'influence > les décisions > la coercition.
+
+·       Coercition : ce pouvoir varie d'une autorité indépendante à l'autre ; il peut prendre la forme d'une enquête d'information (pas très coercitive, comme dans le cas du défenseur des droits) ou d'autres autorités peuvent être autorisées à agir. Par exemple, le procureur de la République en matière d'infraction pénale ou peut déposer une plainte devant une juridiction, comme dans le cas de la Commission nationale des comptes de campagne. Certaines autorités indépendantes peuvent aller jusqu'à adopter elles-mêmes des sanctions à infliger. Par exemple, la décision de l'ancien CSA ou de l'actuel ARCOM qui inflige une sanction à une chaîne de télévision qui enfreint les règles. Cela permet à l'autorité indépendante d'être efficace sans être influencée par le pouvoir politique ou d'agir pour réguler une question sensible qui est soumise au pouvoir politique en raison de son caractère.
+
+·       La multiplication des autorités indépendantes a fait l'objet de critiques et a suscité des interrogations sur la légitimité politique de ces autorités administratives. Le reproche est soit qu'elles ne sont pas vraiment ou pas suffisamment indépendantes, soit qu'elles ne sont pas suffisamment légitimes du point de vue démocratique. Par exemple, une personne nommée à la tête d'une autorité peut être très proche du pouvoir. On peut voir siéger des conseillers d'État, comme dans le cas de la CNIL, ce qui peut laisser des doutes sur l'indépendance réelle de la CNIL.
+
+Enfin, chacune de ces autorités indépendantes dépend pour budget département ministériel, donc en fin de compte on ne peut pas imaginer une vraie indépendance lorsque finalement l'activité indépendante est fixée par un acteur du système à qui il est supposé en faire le contrôle.
+
+Le caractère démocratique de ces entités : dans un état démocratique, peut-on confier le pouvoir de nature politique à des non-élus ? Donc à des non-responsables devant un organe démocratiquement élu ? Les doutes qui ont pu accompagner la multiplication des AAI ont conduit à l'adoption de la loi organique du 20 janvier 2017 AaIAPI (autorité administrative indépendante et publique), accompagnée d'une loi ordinaire (pas organique) qui vient unifier le régime dans les deux situations.
+
+En 2017, au moment de cette loi, on recense 42 autorités indépendantes administratives ou publiques. Sans que le statut de ces autorités soit cohérent, l'idée de la loi organique était d'unifier le statut. D'abord, la loi organique précise que toute nouvelle autorité administrative doit être instituée par la loi, que c'est le législateur qui peut les créer, et que c'est la loi qui doit fixer les principes qui régissent le fonctionnement de ces autorités. Ce qui affecte alors l'organisation, la déontologie, le fonctionnement et le contrôle des autorités indépendantes. Elles doivent être précisées en amont par la loi.
+
+Donc la loi organique de 2017 vient préciser que lorsqu'on parle d'autorité indépendante, cela n'exclut pas la possibilité de contrôle. L'article 21 de la loi organique précise les modalités de ce contrôle et à qui l'autorité indépendante publique ou administrative doit envoyer un rapport d'activité.
+
+En termes de déontologie, certaines compatibilités existent entre la fonction de membre de l'autorité administrative indépendante et d'autres fonctions. Par exemple, il ne peut pas être membre de l'autorité indépendante et chef de l'exécutif, ou membre du conseil de collectivité territoriale ou magistrat/juge administratif.
+
+L'exigence de déontologie couvre également la nomination et l'exercice des missions, précisé dans la loi que lors de l'exercice des attributions, les membres de l'autorité indépendante ne peuvent avoir aucune instruction d'aucune autorité. Ainsi, l'indépendance de chacun des membres est la condition de l'indépendance de l'autorité dans son ensemble.

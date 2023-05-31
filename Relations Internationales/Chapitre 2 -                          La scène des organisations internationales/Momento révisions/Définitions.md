@@ -1,0 +1,9 @@
+-   Le multilatéralisme est un principe de la coopération internationale qui consiste en la recherche d'un accord commun entre plusieurs acteurs, généralement des États, pour régler une question d'intérêt commun. Il repose sur l'idée que les problèmes mondiaux doivent être résolus collectivement et que les États doivent travailler ensemble pour atteindre des objectifs communs.
+
+-   L'unilatéralisme est une approche dans laquelle un **État prend des décisions sans consulter ni coopérer avec les autres États ou organisations internationales**. Il est souvent associé à l'idée de **puissance ou de domination et peut entraîner des tensions et des conflits entre les États**.
+
+-   Le bilatéralisme est une forme de coopération internationale dans laquelle **deux États concluent un accord ou une entente**. Contrairement au multilatéralisme, qui implique plusieurs acteurs, le **bilatéralisme implique seulement deux parties**.
+
+-   Une organisation internationale (OI) est une **entité qui regroupe des États et/ou des acteurs non étatiques** dans le but de coopérer sur des **questions d'intérêt commun**. Les OI sont souvent créées pour **faciliter la coopération multilatérale** et peuvent **jouer un rôle important dans la résolution des problèmes mondiaux**.
+
+-   Un fonctionnaire international est un individu employé par une organisation internationale pour travailler dans une ou plusieurs de ses agences ou branches. Les fonctionnaires internationaux sont **souvent responsables de la mise en œuvre de politiques et de programmes internationaux** et travaillent souvent à l'échelle mondiale.
