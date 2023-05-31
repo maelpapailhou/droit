@@ -1,2 +1,0 @@
-Droit positif ; norme ; interprétation ; cas pratique ; Commentaire de jurisprudence ; Université ; École de droit ; Double institutionnalisation  
-Phénomène politique ; épistémologie ; politisation ; méthode ; science

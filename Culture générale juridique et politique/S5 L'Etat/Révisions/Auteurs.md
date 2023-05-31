@@ -1,0 +1,1 @@
+Max Weber; R. Carré de Malberg; J. Chevallier
