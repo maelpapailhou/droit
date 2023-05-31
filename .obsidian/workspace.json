@@ -357,14 +357,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture générale juridique et politique/S La propriété/Aller plus loin/Vidéos.md",
+                "file": "Culture générale juridique et politique/S4 La laïcité/Révisions/Notions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f09f96335bf65c6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "testeuh.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -430,7 +442,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Culture générale juridique et politique/S La propriété/Aller plus loin/Vidéos.md",
+                "file": "testeuh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -447,7 +459,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Culture générale juridique et politique/S La propriété/Aller plus loin/Vidéos.md",
+                "file": "testeuh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -470,7 +482,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Culture générale juridique et politique/S La propriété/Aller plus loin/Vidéos.md"
+                "file": "testeuh.md"
               }
             }
           }
@@ -491,8 +503,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "a859a7f9ac6554a1",
+  "active": "f09f96335bf65c6b",
   "lastOpenFiles": [
+    "Culture générale juridique et politique/S4 La laïcité/Révisions/Notions.md",
+    "testeuh.md",
+    "Culture générale juridique et politique/S4 La laïcité/Révisions/Auteurs.md",
+    "Culture générale juridique et politique/S4 La laïcité/Cours/_Sommaire.md",
+    "Culture générale juridique et politique/S4 La laïcité/Aller plus loin/R. Debray, Le Feu sacré. Fonctions du religieux, Paris, Fayard, 2003..md",
+    "Culture générale juridique et politique/S4 La laïcité/Aller plus loin/O. Roy, La laïcité face à l’islam, Paris, Hachette, 2005.md",
+    "Culture générale juridique et politique/S4 La laïcité/Aller plus loin/M. Gauchet, Le désenchantement du monde, Une histoire politique de la religion, Gallimard, 1985..md",
+    "Culture générale juridique et politique/S4 La laïcité/Aller plus loin/M. Gauchet, La religion dans la démocratie - parcours de la laïcité, Paris, Gallimard, 2001..md",
+    "Culture générale juridique et politique/S4 La laïcité/Aller plus loin/M. de Certeau, La faiblesse de croire, 1987..md",
     "Culture générale juridique et politique/S La propriété/Révisions/Auteurs.md",
     "Culture générale juridique et politique/S La propriété/Aller plus loin/Vidéos.md",
     "Culture générale juridique et politique/S La propriété/Révisions/Notions.md",
@@ -503,21 +524,13 @@
     "Culture générale juridique et politique/S La propriété/Aller plus loin/XIFARAS (M.), Étude de philosophie du droit, PUF, Paris, 2004..md",
     "Culture générale juridique et politique/S La propriété/_Sommaire.md",
     "Culture générale juridique et politique/S La propriété/Aller plus loin",
-    "Culture générale juridique et politique/S4 La laïcité/Aller plus loin/R. Debray, Le Feu sacré. Fonctions du religieux, Paris, Fayard, 2003..md",
     "Culture générale juridique et politique/S La propriété",
-    "Culture générale juridique et politique/S4 La laïcité/Aller plus loin/O. Roy, La laïcité face à l’islam, Paris, Hachette, 2005.md",
-    "Culture générale juridique et politique/S4 La laïcité/Aller plus loin/M. Gauchet, Le désenchantement du monde, Une histoire politique de la religion, Gallimard, 1985..md",
-    "Culture générale juridique et politique/S4 La laïcité/Aller plus loin/M. Gauchet, La religion dans la démocratie - parcours de la laïcité, Paris, Gallimard, 2001..md",
-    "Culture générale juridique et politique/S4 La laïcité/Aller plus loin/M. de Certeau, La faiblesse de croire, 1987..md",
     "Culture générale juridique et politique/S3 La crise sanitaire du Covid-19/Ressources/Video.md",
     "Culture générale juridique et politique/S3 La crise sanitaire du Covid-19/Ressources/Notions.md",
     "Culture générale juridique et politique/S3 La crise sanitaire du Covid-19/Ressources/CALLON M., LASCOUMES P. et BARTHE Y., Agir dans un monde incertain - Essai sur la démocratie technique, Paris, Seuil, 2001.md",
     "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Cours/_Sommaire.md",
     "Culture générale juridique et politique/S3 La crise sanitaire du Covid-19/Cours/_Sommaire.md",
-    "Culture générale juridique et politique/S4 La laïcité/Cours/_Sommaire.md",
     "Culture générale juridique et politique/S4 La laïcité/Cours",
-    "Culture générale juridique et politique/S4 La laïcité/Révisions/Auteurs.md",
-    "Culture générale juridique et politique/S4 La laïcité/Révisions/Notions.md",
     "Culture générale juridique et politique/S4 La laïcité/Révisions",
     "Culture générale juridique et politique/S4 La laïcité/Aller plus loin/S. P. Huntington, Le choc des civilisations, Paris, Odile Jacob, 2000..md",
     "Culture générale juridique et politique/S4 La laïcité/Aller plus loin",
@@ -528,7 +541,6 @@
     "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Révisions/Notions.md",
     "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie/Aller plus loin/Vidéo.md",
     "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie/Aller plus loin/DELOYE Y. et VOUTAT B. (dir.), Faire de la science politique. Pour une analyse socio-historique du politique, Paris, Belin, 2002.md",
-    "Culture générale juridique et politique/S2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Bibliographie/Aller plus loin/JAMIN C., La cuisine du droit, L’école de science po - une expérimentation française, LGDJ, 2012.md",
     "Culture économique/Partie 1/Pasted image 20230419003110.png",
     "Culture économique/Pasted image 20230428023108.png",
     "Culture économique/Pasted image 20230428023053.png",
