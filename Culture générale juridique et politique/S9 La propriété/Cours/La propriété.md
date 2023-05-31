@@ -18,7 +18,7 @@ Identifier les crises que traversent ou mettent en exergue le droit et les scien
 
 Expliquer l’origine commune des maux de la propriété tenant à la reconnaissance à l’époque révolutionnaire de la propriété comme droit naturel et sacré : la construction sociale de la propriété individuelle
 
-I. Définition et enjeux de la propriété en droit et en sciences sociales
+### I. Définition et enjeux de la propriété en droit et en sciences sociales
 
 Dans le langage courant la propriété c’est le fait de posséder un bien en propre, généralement on complète cette définition avec le fait de posséder un bien en propre est d’en user comme on le désire.  
 On entend aussi par propriété : la chose elle même.  
@@ -51,7 +51,7 @@ Un des grands résultats c’est que cette question de la propriété, cet ob
 
 - les chercheurs se posent la question du fait que si toutes les sociétés sont inégalitaires comment est ce qu’on va expliquer le fonctionnement des sociétés ? Parce que autour de la propriété on a des récits, une idéologie qui doit permettre de faire accepter les inégalités de propriété.
 
-II- l’origine de la propriété individuelle : la reconnaissance du caractère naturel et sacré du droit de propriété en France
+#### II- l’origine de la propriété individuelle : la reconnaissance du caractère naturel et sacré du droit de propriété en France
 
 La propriété est le fruit d’un héritage historique qui est né à l’époque révolutionnaire. Et elle a rien de naturel, c’est une construction social que l’on va inventé à l’époque révolutionnaire.  
 Pourquoi invente t on le fait que chacun à accès à la société ?  
@@ -84,7 +84,7 @@ Deux idées fortes qui s’en dégagent ;
 
 Proudhon n’est pas absolument contre la propriété, il s’oppose contre des formes de propriétés qui ne sont pas issus du travail.
 
-III- L’enjeu des juristes : la remise en cause de l’absolutisme de la propriété
+### III- L’enjeu des juristes : la remise en cause de l’absolutisme de la propriété
 
 Dans le code civil ( de 1804 ) on consacre une vision absolutiste de la propriété. Dans les faits la propriété ne peut pas être quelque chose d’absolue, l’article 544 du code civil est donc idéaliste.
 
@@ -133,7 +133,7 @@ Tout un ensemble de textes vont doc venir restreindre le droit de propriété 
 
 Il fait des propositions dans sa thèse notamment la proposition de redéfinir la propriété, redéfinir l’article 544, de dépasser l’absolutisme.
 
-IV. L’enjeu des sciences sociales ; une discussion sur les inégalités de propriété.
+### IV. L’enjeu des sciences sociales ; une discussion sur les inégalités de propriété.
 
 Il faut garder en tête qu’on utilise plus tôt des synonyme du terme de propriété ( capital, patrimoine ). La question qui travaille les chercheurs en sciences sociales c’est la question des inégalités de propriété.  
 Les chercheurs en sciences sociales observent et quantifient les questions de propriété d’une part ( est ce que les inégalités de propriété et de patrimoine augmentent ou diminuent dans le temps ? = travaux des économistes ) et d’autres part les chercheurs malgré les inégalités structurantes des sociétés comment celles ci tiennent ?

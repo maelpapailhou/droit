@@ -1,0 +1,10 @@
+, Le Seuil, 1997, (Collection Points Essais)- chapitre 4 et 5, pp. 105-154.
+
+Le livre "Science Politique 2: L'État" de Philippe Braud, publié en 1997 dans la collection Points Essais du Seuil, aborde la notion d'État et explore son rôle et ses caractéristiques. Voici un résumé détaillé des chapitres 4 et 5, couvrant les pages 105 à 154 :
+
+Chapitre 4 : L'État et la souveraineté Dans ce chapitre, Braud examine la relation entre l'État et la souveraineté. Il commence par expliquer la notion de souveraineté et son évolution historique. Il aborde ensuite la question de l'exercice de la souveraineté et la manière dont elle se manifeste dans les États modernes. Braud explore les différentes formes de souveraineté, notamment la souveraineté interne (pouvoir sur le territoire et la population) et la souveraineté externe (pouvoir de l'État sur la scène internationale). Il examine également les défis contemporains à la souveraineté de l'État, tels que la mondialisation et l'intégration régionale.
+
+Chapitre 5 : L'État et la légitimité Le chapitre 5 se penche sur la question de la légitimité de l'État. Braud explore les différentes sources de légitimité, telles que la tradition, la religion, le consentement démocratique et l'efficacité de l'État dans la réalisation de ses objectifs. Il discute des théories de la légitimité, notamment la théorie contractuelle, la théorie de la légitimité charismatique et la théorie de la légitimité basée sur les résultats. L'auteur examine également les défis et les critiques auxquels est confrontée la légitimité de l'État dans les sociétés modernes, tels que la montée du populisme et les demandes croissantes de participation citoyenne.
+
+Dans l'ensemble, les chapitres 4 et 5 du livre de Philippe Braud, "Science Politique 2: L'État", fournissent une analyse approfondie de la souveraineté et de la légitimité de l'État. Braud explore les différentes dimensions de ces concepts et examine leurs implications pour la gouvernance et le fonctionnement des États modernes.
+

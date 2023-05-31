@@ -8,7 +8,7 @@ Objectif ;
 
 ( droit international, convention international )
 
-I. Essayer de dater la crise écologique
+### I. Essayer de dater la crise écologique
 
 La crise écologique est un problème publique, c’est à dire que c’est un problème qui appel un débat et une prise en charge des autorités publics avec l’idée que seuls les autorités publics peuvent résoudre ce problème.  
 Tout problème n’est pas un problème public mais certains problèmes deviennent des problèmes public. Ce problème public a une particularité ; c’est que c’est un problème public international ou transnational.
@@ -43,7 +43,7 @@ Le premier point à retenir est que c’est un vieux problème et que la quest
 
 Il y eu le passage de l’holocène à l’anthropocène. Donc tout un ensemble de scientifiques proposent finalement cela, caractérisé par des changement géologiques qui sont non pas liés à la nature, au fonctionnement de la Terre mais aux activités humaines.
 
-II. Les différentes dimensions de la crise écologique
+### II. Les différentes dimensions de la crise écologique
 
 Il faut garder en tête que le réchauffement climatique n’est qu’une dimension de la crise écologique. Le réchauffement climatique est aujourd’hui la dimension la plus visible de la crise écologique, c’est celle qui est le plus pris en charge par les pouvoirs publics. Pourquoi ? Car c’est la dimension qui remet en cause dans le cours terme nos mode de vie, c’est la plus urgente.
 
@@ -72,7 +72,7 @@ Elizabeth Colbert ; « L’astéroïde ce sont les yeux » en 2015.
 La troisième dimension est la pollution, on en parle peut être un petit peu moins mais on évoque souvent cette question par rapport au nucléaire, aux déchets radioactifs, on les enfuient globalement, à Bure c’est le cas.  
 Ce qu’il faut savoir c’est que quand on émet du Co2, sa reste une centaine d’année dans l’atmosphère. Sur la question des pollutions il y a eu pas mal de reportage là dessus notamment sur le plastique, il y a plus de 500 milles tonnes de quantité de plastique qui flotte dans les océans. On parle d’océan plastique. On peut également réfléchir à la pollution lumineuse, aux marrés noire, aux pesticides, à la pollution des sols etc....
 
-III. Le droit est il suffisant pour répondre à la crise écologique
+### III. Le droit est il suffisant pour répondre à la crise écologique
 
 Face à cet crise écologique, les pouvoirs publics agissent, prennent des décisions et mettent en place des politiques public et notamment à l’échelle internationale on a la mise en place d’une gouvernance globale, c’est à dire une pluralité d’acteurs public rivé ( nationaux/internationaux ) qui se réunissent et prennent des décisions pour notamment limité le réchauffement climatique/pour limiter les GES.
 
@@ -100,7 +100,7 @@ Le problème de ces accords internationaux c’est que d’un part ils ne sont 
 
 Cela pose la question de l’efficacité du droit international ( graphique ), ce qu’on observe c’est que depuis les années 70, malgré les conférences internationales et les accords internationaux, les émissions de GES ne cessent d’augmenter.
 
-IV. Pluralité d’acteurs
+### IV. Pluralité d’acteurs
 
 Et pourtant il y a une pluralité d’acteurs qui se mobilisent pour essayer de faire en sorte que les États prennent plus au sérieux la question de la crise écologiques ou du réchauffement climatique. Il y a des acteurs importants qui ne sont d’autres que les scientifiques, qui signent chaque années tout un ensembles de tribunes pour alerter les pouvoirs publics et le gouvernement.
 

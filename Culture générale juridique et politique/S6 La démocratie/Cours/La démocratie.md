@@ -20,7 +20,7 @@ Brainstorming
 Huntington  
 Montesquieu →équilibre, distinction des fonctions
 
-I. La démocratie est un régime politique
+### I. La démocratie est un régime politique
 
 Régime politique qui va permettre d’organiser le pouvoir mis en place par l’État ainsi que déterminer les relations qui s’établissent entre les différents pouvoirs, les compétences entre chaque pouvoirs ( exécutif, législatif et judiciaire ).  
 Un régime politique va désigner un ensemble de règles/des pratiques qui vont déterminer la manière dont les hommes et les femmes sont gouvernés.
@@ -40,7 +40,7 @@ presse ), l’autoritarisme est caractérisé par un pluralisme limité→ Ju
 Régime totalitaire : inventions récentes du XX ème siècles qui ont la particularité de s’organiser par des idéologies totale ( la hiérarchie de la race ou la structuration en classe. La particularité des régimes totalitaire est d’avoir une confusion entre le partie politique et l’État. Il y’ a un contrôle totale du partie au pouvoir sur l’État.  
 Avec aussi une atomisation de la société ( toutes nos identités sont progressivement éliminées autour de la structuration de l’idéologie ) →Orwell
 
-II. Approche juridique de la démocratie
+### II. Approche juridique de la démocratie
 
 Il y a différents principes qui organise /structure la démocratie :  
 demos = peuple  
@@ -53,7 +53,7 @@ Au cœur de la démocratie on a deux principes importants ;
 - le principe libéral  
 - le principe représentatif
 
-le principe libéral : le libéralisme
+#### le principe libéral : le libéralisme
 
 Le libéralisme structure la démocratique, il faut le placer dans la critique du fondement divin du pouvoir c’est à dire que les fondements du pouvoir ne doivent plus être divin mais décider par les hommes ( Rousseau, Hobbs, Locke ). C’est une critique par rapport à l’arbitraire royale, il y a donc un glissement qu’il faut repérer : la démocratie dans certain pays, a été pensé en lien avec la République.
 
@@ -75,7 +75,7 @@ Cette liberté est donc favorable au pouvoir politique
 Cette idée que l’État se soumet lui même à l’État de droit.  
 Le droit va s’appliquer à tous et à toutes de la même manière.
 
-le principe représentatif :
+#### le principe représentatif :
 
 qui s’est progressivement instauré/mis en place, on va déléguer une partie du pouvoir à des représentants qui vont être autorisés/mandater à prendre des décisions en notre nom. En contrepartie on est censé obéir à ces décisions et on est obligé de consentir à ses décision.
 
@@ -91,13 +91,13 @@ Cette démocratie représentatif censitaire symbolise cette crainte de la mass
 
 Dès 1944 les choses changent avec le droit de vote des femmes et celui des étrangers. La démocratie représentatif n’était pas un choix par défaut mais un choix réfléchi par les théoricien libéraux.
 
-III. Un rapproche de la démocratie par la sciences politique
+### III. Un rapproche de la démocratie par la sciences politique
 
 Que nous dis les travaux de science politique sur la démocratie ?
 
 Ces travaux seront plus consacrée à l’exercice empirique sur le terrain de la démocratie et ils insistent ( les sciences politiques et sociales ) sur la crise de la démocratie représentatif.
 
-A. La démocratie représentatif est un « coup de force symbolique »
+#### A. La démocratie représentatif est un « coup de force symbolique »
 
 C’est une expression de Bourdieu ( sociologue du XXème siècle ). Il va rappeler que l’élection est là pour sélectionner une élite, elle a une nature assez aristocratique. Une élite qui a aussi tendance à se reproduire. Dans ces travaux il parle de « coup de force symbolique » pour désigner le fat que les personnes élus ont la particularité de représentés l’ensemble des citoyen et des citoyennes, l’ensemble du corps électoral et non pas seulement ceux qui ont votés pour eux. C’est donc cela qu’il appel le « coup de force symbolique ».  
 Cette crise de la démocratie représentatif se donne aussi à voir à travers la crainte d’une captation du pouvoir par les élites ( ceux qui nous représentent ), cette captation est notamment liée au phénomène de professionnalisation des hommes et des femmes politiques ( ceux qui font de la politique leur métier ).  
@@ -117,7 +117,7 @@ Cette représentativité parfaite est peut être une illusion mais en tout ca
 
 Exemple ; Bien sur un homme peut représenter d’une femme mais est ce qu’on peut se satisfaire d’une si faible représentation d’une femme ?
 
-B. L’abstention
+#### B. L’abstention
 
 L’abstention fragilise le gouvernement représentatif.
 
@@ -142,6 +142,6 @@ Dans la deuxième partie de la phrase il classe les régimes, et pour lui mê
 
 A travers cette phrase il établie une hiérarchie entre les différents régimes politiques. Les frontières entres ces régimes sont poreuses, elles ne restent que des catégories d’analyse.
 
-IV. Les catégories de régimes aux frontières poreuses
+#### IV. Les catégories de régimes aux frontières poreuses
 
 L’Histoire nous démontre plutôt non pas l’existence de régimes démocratiques ou de régimes autoritaires mais plutôt l’existence de régimes hybrides c’est à dire des régimes qui varient entre des épisodes démocratiques et des épisodes autoritaires. Aujourd’hui en science politique on utilise plutôt ce concept de régime hybride, justement pour souligné la porosité des frontières entres les démocraties et les autoritarismes. Plutôt que de parler de régime démocratique ou de régime autoritaire on va plutôt observer concrètement l’exercice du régime politique ( regarder son fonctionnement concret et son quotidien ).

@@ -1,0 +1,1 @@
+Pierre Bourdieu; Abraham Lincoln; Thomas Hobbes

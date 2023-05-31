@@ -1,1 +1,0 @@
-T. Piketty ; P.-J. Proudhon ; M. Xifaras

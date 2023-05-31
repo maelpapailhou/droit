@@ -1,5 +1,3 @@
-L’État
-
 Brainstorming  
 -territoire  
 -peuple  
@@ -20,7 +18,7 @@ Plan :
 2. Maîtriser la définition en science politique de l’État.  
 3. Proposition un peu plus original de la définition de l’État.
 
-Introduction :
+### Introduction :
 
 Il y a un paradoxe sur la définition/ concept de l’État.  
 Le paradoxe est le suivant ; la définition de l’État fait globalement consensus en droit là où la définition de l’État est très débattu en sciences politique.  
@@ -40,11 +38,11 @@ On appréhende l’État sous l’angle de ces administrations publiques de ce
 
 On peut dégager deux définitions de l’État en faisant une approche juridique de l’État ( I) et l’approche de Weber (II).
 
-I. L’approche juridique de l’État et ces limites
+### I. L’approche juridique de l’État et ces limites
 
 L’État c’est 3 éléments ; un territoire, un peuple et un gouvernement. Le droit s’intéresse énormément à l’État notamment avec ces différentes branches ( droit constitutionnel, droit administratif ) mais le concept même d’État ne pose pas de problème en droit. Il fait consensus depuis le XIXème siècle. Le Français qui incarne cette définition c’est Reymond.Karim.Malbert ( Recherches ).
 
-A. Le territoire
+#### A. Le territoire
 
 L’État est un territoire c’est à dire que c’est un espace qui va être borné par des frontières et ces frontières sont reconnus par les autres États. Il est important car c’est le lieu ou s’applique les règles, les ,ormes, le droit.  
 C’est le lieu/l’espace où s’exerce le pouvoir de l’État.  
@@ -58,7 +56,7 @@ Le concept de territoire/de frontière a encore un sens avec la globalisation e
 
 Mettre à mal cette notion de territoire/de frontière fragilise la définition juridique de l’État. Au XXIème siècle cette notion de territoire date.
 
-B. La population / Le peuple
+#### B. La population / Le peuple
 
 Le peuple ce sont les individus qui serait assujetti au droit de l’État, sur lequel le droit de l’État va s’exercer. Le peuple va formé la population de l’État. Il y a le peuple ressortissant et le peuple résident.  
 Donc de quel peuple parle t on ?
@@ -68,7 +66,7 @@ Le peuple ressortissant(e) ; ce sont tout ceux qui vont avoir la nationalité d
 Le peuple résident ; toute les personnes qui vivent en France ne sont pas français(e)s, la question du pouvoir des étrangers se pose.  
 Est ce que la population étrangère ( importante ) pose un pouvoir ? Est ce que cela pose un problème à L’État ?
 
-C. Le pouvoir souverain / Gouvernement
+#### C. Le pouvoir souverain / Gouvernement
 
 C’est l’idée que l’État déteint un pouvoir de coercition, il est censé être souverain sur son territoire, censé être souverain sur sa population.  
 Mais est ce que c’est le seul acteur à détenir un pouvoir de coercition ?  
@@ -80,7 +78,7 @@ Conclusion : En droit la définition de l’État rassemble 3 éléments ( u
 
 Il existe d’autre formes d’organisations politiques. Et notamment la question qui se pose est est ce que l’état islamique est un État ? Ce qui pose problème c’est de replacer cette définition de l’État dans l’histoire. En effet il a existé d’autres manières pour les sociétés de s’organiser, du coup cette définition peut rendre difficile le raisonnement historique
 
-II. L’approche Weberienne de l’État/La définition de l’État en sciences politiques.
+### II. L’approche Weberienne de l’État/La définition de l’État en sciences politiques.
 
 L’une des définition les plus utilisé de l’État en science politique c’est la proposition de Weber ( sociologue allemand ), qui a également écrit le bouquin célèbre intitulé « Économie et Société » et c’est dans ce bouquin qu’il donne une définition de l’État.
 
@@ -117,7 +115,7 @@ Il y a en effet dans l’histoire et puis même aujourd’hui des États trè
 
 Il y a d’autres monopoles que possèdent l’État ( le monopole fiscale par exemple ). Et selon Bourdieu l’État détient aussi le monopole de l’éducation légitime.
 
-III. Une autre approche de l’État.
+### III. Une autre approche de l’État.
 
 Un juriste français Jacques Chevalier, a proposé une définition de l’État dans un bouquin qui s’intitule « L’État postmoderne » pour lui,  
 « L’État est un phénomène à la fois banale qui se vit par tous et toutes au quotidien, et complexe, dans la mesure où ce n’est qu’un concept abstrait » Ici il faut comprendre que l’État c’est un phénomène qui varie entre l’abstraction et la quotidienneté.
