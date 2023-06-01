@@ -506,9 +506,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3e16ee9fcb7b194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture générale juridique et politique/S5 L'Etat/Sujets/La notion d'État - entre définition juridique, approche politique et réalité sociale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 41
+        "currentTab": 42
       }
     ],
     "direction": "vertical"
@@ -574,7 +586,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Culture générale juridique et politique/S5 L'Etat/Cours/L'Etat.md",
+                "file": "Culture générale juridique et politique/S5 L'Etat/Sujets/La notion d'État - entre définition juridique, approche politique et réalité sociale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -591,7 +603,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Culture générale juridique et politique/S5 L'Etat/Cours/L'Etat.md",
+                "file": "Culture générale juridique et politique/S5 L'Etat/Sujets/La notion d'État - entre définition juridique, approche politique et réalité sociale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -614,7 +626,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Culture générale juridique et politique/S5 L'Etat/Cours/L'Etat.md"
+                "file": "Culture générale juridique et politique/S5 L'Etat/Sujets/La notion d'État - entre définition juridique, approche politique et réalité sociale.md"
               }
             }
           }
@@ -635,15 +647,16 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "7a9ce0382e74bf69",
+  "active": "a3e16ee9fcb7b194",
   "lastOpenFiles": [
+    "Culture générale juridique et politique/S5 L'Etat/Révisions/Notions.md",
+    "Culture générale juridique et politique/S5 L'Etat/Cours/L'Etat.md",
+    "Sans titre.md",
+    "Culture générale juridique et politique/S5 L'Etat/Aller plus loin/Bertrand Badie, L’Etat importé–L’occidentalisation de l’ordre politique.md",
     "Culture générale juridique et politique/S5 L'Etat/Sujets/Le concept de territoire, de frontière a encore un sens avec la globalisation et la mondialisation ? Est ce que l’État n’est pas mis à mal dans sa capacité de contrôler son territoire avec la globalisation et la mondialisation ?.md",
     "Culture générale juridique et politique/S5 L'Etat/Sujets/La notion d'État - entre définition juridique, approche politique et réalité sociale.md",
-    "Culture générale juridique et politique/S5 L'Etat/Aller plus loin/Bertrand Badie, L’Etat importé–L’occidentalisation de l’ordre politique.md",
-    "Culture générale juridique et politique/S5 L'Etat/Révisions/Notions.md",
     "Culture générale juridique et politique/S5 L'Etat/Révisions/Auteurs.md",
     "Culture générale juridique et politique/S5 L'Etat/Cours/_Sommaire.md",
-    "Culture générale juridique et politique/S5 L'Etat/Cours/L'Etat.md",
     "Culture générale juridique et politique/S5 L'Etat/Sujets",
     "Culture générale juridique et politique/S3 La crise sanitaire du Covid-19/Cours/_Sommaire.md",
     "Culture générale juridique et politique/S1&2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Cours/Introduction - Le droit et la science politique.md",
@@ -667,7 +680,6 @@
     "Culture générale juridique et politique/S14 Le vote/Révisions",
     "Culture générale juridique et politique/S14 Le vote/Aller plus loin/DELOYE, Yves et IHL, Olivier, L’acte de vote, Paris, Presses de Sciences Po, 2008.md",
     "Culture générale juridique et politique/S14 Le vote/Aller plus loin/MAYER, Nomma (dir.), Les modèles explicatifs du vote, Paris, L’Harmattan, 1997.md",
-    "Culture générale juridique et politique/S12 Responsabilité des magistrats/Cours/_Sommaire.md",
     "Culture générale juridique et politique/S14 Le vote/Cours",
     "Culture générale juridique et politique/S14 Le vote/Aller plus loin",
     "Culture générale juridique et politique/S12 Responsabilité des magistrats/Synthèse",
