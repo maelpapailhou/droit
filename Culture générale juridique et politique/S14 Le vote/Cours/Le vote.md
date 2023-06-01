@@ -1,23 +1,4 @@
-Le vote
-
-- Le vote est un droit/devoir ( principe )  
-- rendre le vote obligatoire à cause du taux élevé d’abstention →inégalité ( catégorie d’age et lieu de vie )
-
-- Le vote est contrôlée dans les régimes autoritaires  
-- mode de scrutin ( majoritaire, proportionnel et mixte )  
-- le vote comme moyen d’expression des citoyens mais ce n’est pas le seul moyen ( les manifestations, les pétitions les référendum )  
-- qui peut voter ?  
-Les femmes depuis 1944  
-ceux qui ont la nationalité  
-la majorité  
--différent type de suffrage ( suffrage censitaire, universel en 1848 )  
-- pourquoi vote on comme on vote ?
-
-Ouvrage : Le secret de l’isoloir.
-
-?
-
-I. Comment vote on ? Comment vote-t-on ? Une approche juridique du vote : les modes de scrutin
+### I. Comment vote on ? Comment vote-t-on ? Une approche juridique du vote : les modes de scrutin
 
 Le mode scrutin
 
@@ -30,11 +11,7 @@ Ce sont là des pays qui font des choix très différent avec des pratiques d
 
 Quel état de la littérature en droit et en science politique sur le vote
 
-L’idée à retenir c’est que les deux approches sont très complémentaires sur le
-
-vote, car elles ont comme particularité de nous rappeler..... comme de objets
-
-éminemment politique.
+L’idée à retenir c’est que les deux approches sont très complémentaires sur le vote, car elles ont comme particularité de nous rappeler..... comme de objets éminemment politique.
 
 On des modes de scrutins quand on est dans des démocraties représentatives du coup on doit voté et donc le passage du tirage au sort au vote a nécessité la mise en place du mode de scrutin.
 
@@ -80,7 +57,7 @@ L’avantage des scrutins proportionnel est qu’il correspond beaucoup plus eau
 
 Les scrutins majoritaires eux garantissent une forme de stabilité politique avec une majorité très forte qui se dégage par contre l’inconvénient c’est que cela ne reflète pas les tendances politiques, les opinions politiques et cela peut nuire à la légitimité politique.
 
-II. Qui vote ? Une approche historique du vote : l’avènement du suffrage universel
+### II. Qui vote ? Une approche historique du vote : l’avènement du suffrage universel
 
 Le choix du corps électoral est un choix éminemment politique, le corps électorale évolue dans le temps, les citoyens et citoyennes appelés à voter ne sont pas les même.s Le corps électoral est le résultat de débat éminemment politique. On est passé d’un suffrage censitaire à un suffrage dit universels.
 
@@ -131,7 +108,7 @@ Cela transforme fondamentalement la manière de faire campagne avec le changeme
 De véritable programme politique vont se développés.  
 Il est impossible de connaître qui vote avec un corps électoral de plus de 9 millions de personnes.
 
-III. Comment expliquer que les électeurs votent comme ils votent ? Les approches explicatives du vote en science politique
+### III. Comment expliquer que les électeurs votent comme ils votent ? Les approches explicatives du vote en science politique
 
 Le vote dans les représentations profanes équivaut à l’exercice du régime démocratique. C’est la manière de sélectionner les élites politiques / nos représentant(e)s là où avant ils étaient tirés au sort.
 

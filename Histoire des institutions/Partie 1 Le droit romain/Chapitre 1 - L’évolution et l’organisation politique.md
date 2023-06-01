@@ -111,31 +111,61 @@ On distingue 2 grandes périodes :
 
 #### A / Le renforcement des institutions 
 
-Dans une première phase qui couvre les deux premiers siècles de notre aire la Constitution républicaine est maintenue, August et ses successeurs conservent les apparences des institutions républicaine. Au fond, la République ne disparaît pas vraiment et l’empereur en se plaçant à sa tête, peut faire croire qu’il renforce les institutions de l’Empire. Nous verrons quelque chose de semblable en France à la fin de la Révolution française puisque Napoléon a essayer de reprendre le modèle romain. On peut dire que l’empereur romain s’est voulu le curateur de la République en réalisant d’une certaine manière les voeux des théoriciens du droit public (publicistes) du Ie siècle, comme Cicéron il sera aussi consul et impliqué dans les luttes politiques. Puisqu’il a mesurer le profondeur de la crise politique et il est persuadé que l’instabilité de la République est due à l’absence d’un pilote. Les anciens rouages politiques de la République restent en place durant un certain temps. Ainsi, le Sénat que les empereurs ménagent conservent des pouvoirs effectifs et une grande influence. Les magistratures subsistent également mais les empereurs n’hésitent pas à peser sur les élections et à désigner les titulaires des magistratures (pour pouvoir les influencer). 
+Dans une première phase qui couvre les **deux premiers siècles** de notre aire **la Constitution républicaine est maintenue**, August et ses successeurs **conservent les apparences des institutions républicaine**. 
+- Au fond, la République ne disparaît pas vraiment et l’empereur en se plaçant à sa tête, peut faire croire qu’il renforce les institutions de l’Empire. 
+- Nous verrons quelque chose de semblable en France à la fin de la Révolution française puisque Napoléon a essayer de **reprendre le modèle romain**. 
+- On peut dire que l’empereur romain s’est voulu le curateur de la République en réalisant d’une certaine manière les voeux des théoriciens du droit public (publicistes) du Ie siècle, comme Cicéron il sera aussi consul et impliqué dans les luttes politiques. 
+- Puisqu’il a mesurer le profondeur de la crise politique et il est persuadé que l’instabilité de la République est due à l’absence d’un pilote. 
+- Les anciens rouages politiques de la République restent en place durant un certain temps. 
+- Ainsi, le Sénat que les empereurs ménagent conservent des pouvoirs effectifs et une grande influence. Les magistratures subsistent également mais les empereurs n’hésitent pas à peser sur les élections et à désigner les titulaires des magistratures (pour pouvoir les influencer). 
 
 #### B / Le régime politique du principat  
 
 Dans ce système, August et ses successeurs se présentent comme les « premiers », au fond l’empereur n’est que le « premier du peuple », « princeps populi » en latin. Ce régime politique dans lequel l’empereur n’est que le premier parmi d’autre, c’est à dire le prince, on l’appelle le principat. 
   
-Du point de vue juridique, le pouvoir du prince combine divers éléments : 
-
-- Une autorité morale : un pouvoir d’influence. La « auctoritas » en latin. 
-- La puissance tribunicienne : qualité permanente du tribun par quoi l’empereur apparaît comme le protecteur naturel du petit peuple. Un tribun est un bon orateur et est capable d’arroger les foules. 
-- L’imperium proconsulaire : cette expression désigne le pouvoir suprême du consul. A cet égard, il convient de préciser que l’empereur dispose de l’autorité suprême « imperium » en permanence. Malgré les institutions républicaines maintenues, l’autorité suprême est remise à un seul homme. On est face à une sorte de formule monarchique. 
+Du point de vue juridique, le **pouvoir du prince combine divers éléments** : 
+- Une **autorité morale** : un pouvoir d’influence. La « auctoritas » en latin. 
+- La **puissance tribunicienne** : qualité permanente du tribun par quoi l’empereur apparaît comme le protecteur naturel du petit peuple. Un tribun est un bon orateur et est capable d’arroger les foules. 
+- L’**imperium proconsulaire** : cette expression désigne le pouvoir suprême du consul. 
+	- A cet égard, il convient de préciser que l’empereur dispose de l’autorité suprême « imperium » en permanence. 
+	- Malgré les institutions républicaines maintenues, l’autorité suprême est remise à un seul homme. On est face à une sorte de formule monarchique. 
   
-On va voir apparaître à Rome des dynasties telles que les Flavien, les Antonin. Il n’existe à Rome aucune règle de succession au trône et par conséquent, la désignation du prince c’est le point faible du système qui est laissé à la bonne volonté des Hommes. A Rome, il n’existe pas de lois fondamentales comme celles de l’Ancienne France. 
+On va voir apparaître à Rome des **dynasties telles que les Flavien, les Antonin**. 
+- Il n’existe à Rome aucune règle de succession au trône et par conséquent, la désignation du prince c’est le point faible du système qui est laissé à la bonne volonté des Hommes. 
+- A Rome, il n’existe pas de lois fondamentales comme celles de l’Ancienne France. 
 
-A la fin du 2e siècle, le système politique se dérègle et c’est le début de la crise politique après la dynastie des Sévère, une crise qui est à la fois politique, sociale, économique et militaire. Crise militaire parce que c’est l’époque où les frontières romaines commencent à être violée par les Barbares. L’empereur à la fin du principat n’est plus seulement le princeps, dorénavant, il devient le maître de Rome et de tous les habitants de l’Empire, le « dominus », par conséquent, il est le maître de tout les sujets romains. 
+A la **fin du 2e siècle**, le **système politique se dérègle** et c’est le **début de la crise politique** après la dynastie des Sévère, une crise qui est à la fois *politique, sociale, économique et militaire*. 
+- Crise militaire parce que c’est l’époque où les *frontières romaines commencent à être violée par les Barbares*. 
+- L’empereur à la fin du principat n’est plus seulement le princeps, dorénavant, il devient le maître de Rome et de tous les habitants de l’Empire, le « dominus », par conséquent, il est le maître de tout les sujets romains. 
 
 ### II / Le dominat ( le bas empire)
 
 #### A / Un régime autoritaire 
 
-Au cours du IIIe siècle, le pouvoir impérial a changé de nature et de contenu. C’est à dire que ce pouvoir ce n’est plus seulement un pouvoir civil et militaire mais c’est aussi une fonction de nature sacrée. César et ses successeurs avaient été diviniser après leur morts par une cérémonie dites de l’apothéose. Au fond, il s’agissait d’un culte rendu non à l’empereur lui-même mais au génie d’August, au génie de l’empereur en général. En fait, au IIIe siècle, c’est l’empereur lui-même qui devient sacré comme tout ce qu’il conserve (sa famille, ses collaborateurs et son palais). Ainsi, on revient à une sorte de monarchie d’essence divine qui en fait était la règle dans l’Ancien orient. Dans l’Ancien orient, depuis les empires Babyloniens jusqu’à l’Egypte des pharaons et même dans les royaumes hellénistiques (Alexandre Legrand). Le caractère supra humain de l’empereur se traduit dans l’étiquette de la cour. D’ailleurs, celle-ci est emprunter aux royautés orientales c’est à dire qu’on se prosterne devant l’empereur comme on se prosterne les statuts des dieux.   
+Au cours du **IIIe siècle**, le pouvoir impérial a changé de nature et de contenu. C’est à dire que ce pouvoir ce n’est plus seulement un pouvoir civil et militaire mais c’est aussi une fonction de nature sacrée. 
+- César et ses successeurs avaient été diviniser après leur morts par une cérémonie dites de l’apothéose. Au fond, il s’agissait d’un culte rendu non à l’empereur lui-même mais au génie d’August, au génie de l’empereur en général. En fait, au IIIe siècle, c’est l’empereur lui-même qui devient sacré comme tout ce qu’il conserve (sa famille, ses collaborateurs et son palais). Ainsi, on revient à une sorte de monarchie d’essence divine qui en fait était la règle dans l’Ancien orient. Dans l’Ancien orient, depuis les empires Babyloniens jusqu’à l’Egypte des pharaons et même dans les royaumes hellénistiques (Alexandre Legrand). Le caractère supra humain de l’empereur se traduit dans l’étiquette de la cour. D’ailleurs, celle-ci est emprunter aux royautés orientales c’est à dire qu’on se prosterne devant l’empereur comme on se prosterne les statuts des dieux.   
 
 #### B / Dieu et l’empereur  
 
-Avec les empereurs chrétiens, à partir de Constantin, la situation est plus complexe. Si le christianisme se situe dans un autre ordre que celui du pouvoir politique, au point de constituer dans son principe un véritable contre-pouvoir, le christianisme contribue à légitimer l’empereur. Saint Paul au Ie siècle, avait affirmé l’origine divine du pouvoir. Plus tard, au IVe siècle, certains évêques en concluront que l’empereur lui-même a reçu son pouvoir de Dieu par une sorte de choix direct. Nous somme déjà dans la doctrine de la monarchie de droit divin qui se généralisera à la fin du Moyen Age. Cette doctrine n’est pas en elle-même source d’absolutisme car si le prince est choisi par Dieu, ce n’est pas pour qu’il gouverne n’importe comment, selon son caprice. L’empereur a une mission précise, faire régner la justice. Pour les grands théologiens chrétiens des IV et Ve siècle en particulier Saint Ambroise et Saint Augustin, le premier devoir de l’empereur chrétien c’est de faire régner la loi de Dieu ce qui veut dire donner l’exemple à ses sujets en la respectant lui-même. Si le prince est « le bien aimé de Dieu » c’est seulement dans la mesure où il se conduit bien. 
+Avec les **empereurs chrétiens, à partir de Constantin**, la situation est plus complexe. Si le christianisme se situe dans un autre ordre que celui du pouvoir politique, au point de constituer dans son principe un **véritable contre-pouvoir**, le christianisme **contribue à légitimer l’empereur**. 
+- **Saint Paul au Ie siècle**, avait affirmé l’origine divine du pouvoir. 
+- Plus tard, au **IVe siècle**, certains évêques en concluront que l’*empereur lui-même a reçu son pouvoir de Dieu* par une sorte de choix direct. 
+- Nous somme déjà dans la doctrine de la monarchie de droit divin qui se généralisera à la fin du Moyen Age. Cette doctrine n’est pas en elle-même source d’absolutisme car si le prince est choisi par Dieu, ce n’est pas pour qu’il gouverne n’importe comment, selon son caprice. 
+- L’**empereur a une mission** précise, *faire régner la justice*. 
+- Pour les grands théologiens chrétiens des IV et Ve siècle en particulier Saint Ambroise et Saint Augustin, le premier devoir de l’empereur chrétien c’est de faire régner la loi de Dieu ce qui veut dire donner l’exemple à ses sujets en la respectant lui-même. 
+- Si le prince est « le bien aimé de Dieu » c’est seulement dans la mesure où il se conduit bien. 
+
+%%
+1. Saint Paul et l'origine divine du pouvoir : Au Ier siècle, l'apôtre Paul a enseigné que le pouvoir politique avait une origine divine. Selon lui, les autorités gouvernementales étaient établies par Dieu et devaient être respectées en tant que telles.
+
+2. Légitimation de l'empereur : Au IVe siècle, certains évêques chrétiens ont interprété cette origine divine du pouvoir pour inclure l'empereur lui-même. Ils ont soutenu que l'empereur avait reçu son pouvoir directement de Dieu, ce qui a contribué à légitimer son autorité et à renforcer son statut.
+
+3. La doctrine de la monarchie de droit divin : L'idée que l'empereur avait reçu son pouvoir de Dieu a jeté les bases de la doctrine de la monarchie de droit divin. Cette doctrine stipulait que le souverain était choisi par Dieu et avait une mission spécifique, celle de faire régner la justice. Cependant, cela ne signifiait pas que le prince pouvait gouverner de manière arbitraire, car il était toujours soumis à la loi divine.
+
+5. La responsabilité de l'empereur chrétien : Selon les grands théologiens chrétiens des IVe et Ve siècles, tels que saint Ambroise et saint Augustin, l'empereur chrétien avait le devoir de faire respecter la loi de Dieu. Cela signifiait qu'il devait donner l'exemple en respectant lui-même cette loi et en veillant à ce que ses sujets fassent de même.
+
+6. Le rôle de l'empereur dans la justice : L'empereur était considéré comme ayant une responsabilité particulière dans l'établissement de la justice. En tant que dirigeant chrétien, il devait s'efforcer de promouvoir la justice et de créer un environnement où la loi de Dieu serait respectée.
+%%
 
 #### C / Un empereur tout puissant 
 

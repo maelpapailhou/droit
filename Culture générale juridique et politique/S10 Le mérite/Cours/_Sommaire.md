@@ -1,9 +1,14 @@
-OBJECTIFS DU COURS
-1)Comprendre la méritocratie comme promotion d’une organisation sociale nouvelle fondée sur l’égalité des chances et la justice sociale 
-2)Saisir les discours de «l’éloge de la compétence»et de «l’âge d’or méritocratique»
-3)Analyser le poids des déterminismes sociaux dans les trajectoires individuelles 
-4)Comprendre la méritocratie comme une idéologie justificative des inégalités dans les sociétés démocratiques 
-5)S’interroger sur les alternatives à la méritocratie 
+Objectif du cours
+
+1) Comprendre la méritocratie comme promotion d’une organisation sociale nouvelle fondée sur l’égalité des chances et la justice sociale
+
+2) Saisir les discours de « l’éloge de la compétence » et de « l’âge d’or méritocratique »
+
+3) Analyser le poids des déterminismes sociaux dans les trajectoires individuelles
+
+4) Comprendre la méritocratie comme une idéologie justificative des inégalités dans les sociétés démocratiques
+
+5) S’interroger sur les alternatives à la méritocratie ....
 
 PLAN
 

@@ -5,6 +5,7 @@ Les trois grandes périodes : 
 - La Royauté qui pars de 753 av J.C et se termine vers 509 av J.C : 7 rois vont se succéder, c’est un période un peu mythologique (peu de sources). 
 
 - La République (res publica), elle début en 509 av JC à 27 av J.C : période des grands philosophe romains ( ex : Sénèque) 
+
 - L’Empire de 27 av J.C à 476 ap J.C : on distingue deux grandes périodes : l’Empire romain d’occident et l’Empire romain d’orient 
 
 Partie 1 : L’héritage du droit romain. 

@@ -1,11 +1,11 @@
 égalité des chances; responsabilité individuelle;mérite; idéologie; propriété; inégalités; discrimination positive
 
-- Égalité des chances : C'est le principe selon lequel chaque individu devrait avoir des opportunités égales pour réussir et réaliser son potentiel, indépendamment de ses caractéristiques personnelles telles que la classe sociale, le sexe, la race, etc. L'égalité des chances vise à réduire les inégalités structurelles qui peuvent empêcher certaines personnes d'accéder aux mêmes opportunités que d'autres.
-    
+- Égalité des chances : C'est le principe selon lequel chaque individu devrait avoir des opportunités égales pour réussir et réaliser son potentiel, indépendamment de ses caractéristiques personnelles telles que la classe sociale, le sexe, la race, etc. L'égalité des chances vise à **réduire les inégalités structurelles qui** peuvent empêcher certaines personnes d'accéder aux mêmes opportunités que d'autres.
+
 - Responsabilité individuelle : Cela fait référence à la notion selon laquelle chaque individu est responsable de ses propres actions et de leurs conséquences. La responsabilité individuelle met l'accent sur l'autonomie et la liberté de choix de chaque personne, et elle est souvent utilisée pour justifier les récompenses ou les sanctions en fonction des actions individuelles.
-    
+
 - Mérite : Le mérite est la reconnaissance et la récompense basées sur les compétences, le travail acharné, les talents et les accomplissements individuels. Selon le principe du mérite, ceux qui ont obtenu des résultats positifs ou atteint un certain niveau de succès le doivent à leurs propres efforts et méritent donc une reconnaissance ou des avantages.
-    
+
 - Idéologie : L'idéologie est un ensemble de croyances, de valeurs, de convictions et de concepts qui forment une vision globale du monde et de la société. Les idéologies peuvent influencer la façon dont les individus perçoivent et interprètent la réalité, et elles peuvent avoir une influence sur les politiques, les institutions et les relations de pouvoir.
     
 - Propriété : La propriété fait référence au droit légal ou moral d'un individu ou d'un groupe sur un bien ou une ressource. Elle peut inclure des biens matériels tels que des terres, des bâtiments, des objets, ainsi que des biens immatériels tels que des idées, des droits d'auteur ou des brevets. La propriété peut être privée (appartenant à un individu ou à une entreprise) ou publique (appartenant à l'État ou à la collectivité).
