@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Droit des personnes/Introduction.md",
+                "file": "Droit des personnes/Axe 1 - Personnes physiques/_Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -513,14 +513,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Droit des personnes/Introduction.md",
+                "file": "Droit des personnes/Axe 1 - Personnes physiques/Chapitre 1 - L’attribution de la personnalité juridique aux personnes physique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "678fc8438add7167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Droit des personnes/Axe 1 - Personnes physiques/Chapitre 1 - L’attribution de la personnalité juridique aux personnes physique.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 42
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -586,7 +598,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Droit des personnes/Introduction.md",
+                "file": "Droit des personnes/Axe 1 - Personnes physiques/Chapitre 1 - L’attribution de la personnalité juridique aux personnes physique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -603,7 +615,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Droit des personnes/Introduction.md",
+                "file": "Droit des personnes/Axe 1 - Personnes physiques/Chapitre 1 - L’attribution de la personnalité juridique aux personnes physique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -626,7 +638,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Droit des personnes/Introduction.md"
+                "file": "Droit des personnes/Axe 1 - Personnes physiques/Chapitre 1 - L’attribution de la personnalité juridique aux personnes physique.md"
               }
             }
           }
@@ -647,8 +659,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "a3e16ee9fcb7b194",
+  "active": "678fc8438add7167",
   "lastOpenFiles": [
+    "Droit des personnes/Axe 1 - Personnes physiques/Chapitre 3 - Les attributs de la personne physique.md",
+    "Droit des personnes/Axe 1 - Personnes physiques/Chapitre 2 - Les droits à la personnalité juridiques des personnes physiques.md",
+    "Droit des personnes/Axe 1 - Personnes physiques/Chapitre 1 - L’attribution de la personnalité juridique aux personnes physique.md",
+    "Droit des personnes/Axe 1 - Personnes physiques",
+    "Sans titre 1.md",
+    "Droit des personnes/Axe 1 - Personnes physiques/_Introduction.md",
     "Histoire des institutions/Partie 2 L'ancien droit/Chapitre 1 - L’Antiquité tardive.md",
     "Histoire des institutions/Partie 1 Le droit romain/Chapitre 3 — Le droit de l'Empire.md",
     "Histoire des institutions/Partie 1 Le droit romain/Chapitre 2 - Le droit de la République.md",
@@ -671,11 +689,6 @@
     "Culture générale juridique et politique/S6 La démocratie/Révisions/Notions.md",
     "Culture générale juridique et politique/S6 La démocratie/Révisions/Auteurs.md",
     "Culture générale juridique et politique/S6 La démocratie/Aller plus loin/Bernard Manin, Principes  du  gouvernement  représentatif.md",
-    "Culture générale juridique et politique/S5 L'Etat/Synthèses/Philippe BRAUD, Science Politique 2. - L’Etat, Paris.md",
-    "Culture générale juridique et politique/S5 L'Etat/Synthèses/CHEVALLIER, Jacques, L’Etat, Paris, Dalloz, 2011, 4èmede couverture..md",
-    "Culture générale juridique et politique/S5 L'Etat/Sujets/La notion d'État - entre définition juridique, approche politique et réalité sociale.md",
-    "Culture générale juridique et politique/S5 L'Etat/Révisions/Notions.md",
-    "Culture générale juridique et politique/S5 L'Etat/Cours/L'Etat.md",
     "Culture générale juridique et politique/S5 L'Etat/Sujets",
     "Histoire des institutions/Partie 2 L'ancien droit",
     "Histoire des institutions/Partie 1 Le droit romain",
@@ -684,7 +697,6 @@
     "Culture générale juridique et politique/S14 Le vote/Cours",
     "Culture générale juridique et politique/S14 Le vote/Aller plus loin",
     "Culture générale juridique et politique/S12 Responsabilité des magistrats/Synthèse",
-    "Culture générale juridique et politique/S12 Responsabilité des magistrats/Révisions",
     "Culture économique/Partie 1/Pasted image 20230419003110.png",
     "Culture économique/Pasted image 20230428023108.png",
     "Culture économique/Pasted image 20230428023053.png",
