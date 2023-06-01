@@ -1,28 +1,111 @@
-Il y a lieu de distinguer ici deux périodes de l’histoire constitutionnelle romaine de part et d’autre d’une charnière (césure) qui correspond a peu près à l’époque du Christ. Retenons que le premier empereur August accédera au principa en 27 av JC et mourra en 14 ap JC. Rappelons que au Moyen Age, les auteurs chrétiens, voient une coïncidence entre la naissance du Christ et le règne du nouvel empereur comme étant le résultat d’un dessin de la providence. Nous retiendrons que c’est en 753 av JC que la ville de Rome aurait été fondée par un certain Romulus (mythe). Romulus est sois disant le descendant d’Enée le roi de Troie puisque cette ville avait été prise par des grecs plusieurs siècle auparavant. Au delà de ce mythe de la fondation romaine on retient du point de vue des institutions que  Rome a été gouverné d’abord par des rois. Au VI siècle les rois sont des étrangers venus du nord appelés des étrusques. A l’instar des « tyrans » qui règne alors en Grèce, les rois étrusques disposent d’un pouvoir absolu qui s’appelle l’imperiur et il gouverne en s’appuyant sur le peuple. Il est vrai que ce pouvoir est mal supporté par les grandes familles et ces rois seront chassés en 509 av JC à l’issu d’une révolution aristocratique. Par conséquent, le roi Tarquin doit s’exiler. Dès lors, l’idéologie officielle qui va suivre, celle de la République, elle assimilera toujours la royauté à une institution tyrannique qui est incompatible avec la liberté politique. Le régime qui s’instaure après l’expulsion des rois est appelé République au sens propre, un régime où le gouvernement est la chose de tous (res publica). 
+Il y a lieu de distinguer ici deux périodes de l’histoire constitutionnelle romaine de part et d’autre d’une charnière (césure) qui correspond a peu près à l’époque du Christ. 
+- le premier empereur August accédera au principa en 27 av JC et mourra en 14 ap JC. 
+- au Moyen Age, les auteurs chrétiens, voient une coïncidence entre la naissance du Christ et le règne du nouvel empereur comme étant le résultat d’un dessin de la providence. 
+- 753 av JC que la ville de Rome aurait été fondée par un certain Romulus (mythe). Romulus est sois disant le descendant d’Enée le roi de Troie puisque cette ville avait été prise par des grecs plusieurs siècle auparavant. 
+- Au delà de ce mythe de la fondation romaine on retient du point de vue des institutions que  Rome a été gouverné d’abord par des rois. 
+- Au VI siècle les rois sont des étrangers venus du nord appelés des étrusques. A l’instar des « tyrans » qui règne alors en Grèce, les rois étrusques disposent d’un pouvoir absolu qui s’appelle l’imperiur et il gouverne en s’appuyant sur le peuple. Il est vrai que ce pouvoir est mal supporté par les grandes familles et ces rois seront chassés en 509 av JC à l’issu d’une révolution aristocratique. Par conséquent, le roi Tarquin doit s’exiler. 
+- Dès lors, l’idéologie officielle qui va suivre, celle de la République, elle assimilera toujours la royauté à une institution tyrannique qui est incompatible avec la liberté politique. Le régime qui s’instaure après l’expulsion des rois est appelé République au sens propre, un régime où le gouvernement est la chose de tous (res publica). 
 
 ## Section 1 : La République 
 
 ### I / Le pouvoir politique 
 
-Après l’exil de Tarquin, Rome est gouverné par un petit groupe de grande famille constituée en caste fermée. Elles sont formées des patriciens  et qui possède des grands domaines ruraux. Les chefs de ces familles patriciennes (aristocrates) sont appelés des patres, ceux-ci gouvernent la cité romaine dans le cadre du Sénat écartant ainsi du pouvoir le reste de la population (les plébéiens). Les luttes sociales vont opposer les patriciens et les plébéiens et celles-ci vont marquer l’évolution institutionnelle de la République. La plèbe va peu à peu conquérir des garanties politiques. Les principaux magistrats sont constitués de deux consuls choisis chaque année parmi les chefs des grandes familles. Ces consuls héritent du pouvoir suprême des anciens rois (l’imperiur) avec cette différence qu’il exerce à deux. Ils exercent le pouvoir à deux et pour seulement une année. C’est pourquoi on parle ici du principe juridique de l’annualité. A côté de ces consuls patriciens, la plèbe à tout de même obtenu dès l’année 494 av JC d’avoir ses propres magistrats, ceux-ci sont chargés de la protéger contre les excès de pouvoir des patriciens, on les appellent tribuns. Ces tribuns sont au nombre de 2 puis 4 puis 10 et sont élus par la plèbe pour 1 an et ils forment un collège. C’est donc l’origine d’un autre grand principe du droit : le principe de collégialité, un principe qui sera étendu à toutes les magistratures. La collégialité signifie que la magistrature est collective et les pouvoir qui lui sont attachés doivent être exercés conjointement par tout les membres du collège de sorte que si un seul membre fait défaut en refusant de s’associer aux autres, il paralyse l’action de ses collègues et donc c’est le blocage. Ce collège des tribuns ne participe pas directement au gouvernement de la République qui reste bien l’apanage (possession) des consuls. Ce collège est chargé de la défense collective de la plèbe mais aussi de la protection individuelle des plébéiens. Son pouvoir est surtout un pouvoir négatif, un pouvoir « d’empêcher ». Le régime républicain au fond n’a rien de démocratique puisque au fond, c’est une oligarchie, un régime dans lequel seul quelque uns gouverne. 
+**Après l’exil de Tarquin**, Rome est gouverné par un **petit groupe de grande famille** constituée en **caste fermée**. 
+- Elles sont formées des **patriciens**  et qui possède des **grands domaines ruraux**. 
+- Les *chefs de ces familles patriciennes* (**aristocrates**) sont appelés des **patres**, ceux-ci gouvernent la cité romaine dans le cadre du **Sénat** *écartant ainsi du pouvoir le reste de la population* (les **plébéiens**). 
+- Les **luttes sociales vont opposer les patriciens et les plébéiens** et celles-ci vont marquer l’*évolution institutionnelle de la République*. 
+- La **plèbe va peu à peu conquérir des garanties politiques**. 
+- Les principaux magistrats sont constitués de deux consuls choisis chaque année parmi les chefs des grandes familles. 
+
+%%
+En résumé, après l'exil de Tarquin, Rome était gouvernée par un petit groupe de grandes familles patriciennes, qui formaient une caste fermée. Les patriciens exerçaient le pouvoir politique à travers le Sénat, écartant ainsi les plébéiens. Cependant, les luttes sociales entre les patriciens et les plébéiens ont conduit à des avancées politiques pour la plèbe, notamment la création de la fonction de tribun de la plèbe. Les consuls, choisis parmi les patriciens, étaient les principaux magistrats de la République romaine.
+%%
+
+- Ces **consuls héritent du pouvoir suprême des anciens rois** (l’empereur) avec cette différence qu’il exerce à deux. Ils *exercent le pouvoir à deux et pour seulement une année*. C’est pourquoi on parle ici du **principe juridique de l’annualité**. 
+- A côté de ces consuls patriciens, la plèbe à tout de même obtenu dès l’**année 494 av JC d’avoir ses propres magistrats**, ceux-ci sont chargés de la **protéger contre les excès de pouvoir des patriciens**, on les appellent **(=tribuns**) 
+	- Ces tribuns sont au nombre de 2 puis 4 puis 10 et sont élus par la plèbe pour 1 an et ils forment un collège. 
+- C’est donc l’origine d’un autre **grand principe du droit** : le **principe de collégialité**, un principe qui **sera étendu à toutes les magistratures**. 
+	- La collégialité signifie que la magistrature est collective et les pouvoir qui lui sont attachés doivent être exercés conjointement par tout les membres du collège de sorte que si un seul membre fait défaut en refusant de s’associer aux autres, il paralyse l’action de ses collègues et donc c’est le blocage. 
+- Ce **collège des tribuns** ne **participe pas directement au gouvernement de la République** qui reste bien l’**apanage (possession) des consuls**. 
+	- Ce collège est chargé de la **défense collective de la plèbe** mais aussi de la **protection individuelle des plébéiens**. 
+	- Son pouvoir est surtout un **pouvoir négatif**, un pouvoir « d’empêcher ». 
+- Le **régime républicain** au fond n’a **rien de démocratique** puisque au fond, c’est une oligarchie, un régime dans lequel seul quelque uns gouverne. 
+
+%%
+1. Les luttes entre patriciens et plébéiens ont abouti à la mise en place de la Lex Hortensia en 287 av. J.-C. Cette loi établit que les décisions prises par l'assemblée de la plèbe (le concile de la plèbe) auraient force de loi pour l'ensemble de la population romaine, y compris les patriciens. Cela a marqué une étape importante dans l'extension des droits politiques aux plébéiens.
+
+2. La plèbe a également obtenu le droit de former ses propres assemblées, appelées comices tributes. Ces assemblées plébéiennes élisaient leurs propres magistrats, appelés tribuns de la plèbe, qui avaient le pouvoir de défendre les intérêts et les droits des plébéiens.
+
+3. Au fil du temps, les plébéiens ont réussi à gagner l'accès à certaines magistratures réservées aux patriciens, notamment la questure, l'édilité et même, plus tard, le consulat. Cela a contribué à réduire les distinctions politiques strictes entre les deux classes.
+
+4. Les luttes sociales entre patriciens et plébéiens ne se limitaient pas seulement à des questions politiques, mais aussi à des problèmes économiques. Les plébéiens étaient souvent endettés et confrontés à la saisie de leurs terres par les patriciens. Au cours des siècles, diverses lois agraires ont été promulguées pour tenter de résoudre ces problèmes et de rétablir un équilibre économique plus juste.
+
+5. En fin de compte, les divisions entre patriciens et plébéiens ont progressivement diminué au fil du temps, avec l'intégration croissante des plébéiens dans les institutions politiques romaines. Cela a finalement conduit à une période de coexistence plus stable et à la consolidation du système républicain romain.
+   %%
 
 ### II / La Constitution de la République romaine 
 
-Ce n’est pas une Constitution semblable à celle d’aujourd’hui mais nous y trouverons des prémices. Au plan institutionnel, la Constitution de la République romaine comme celle des cités du monde méditerranéen (cités Grecque) comporte 3 organes : 
+Ce n’est **pas une Constitution semblable à celle d’aujourd’hui** mais nous y trouverons des **prémices**. 
 
-- le conseil aristocratique (sénat) : réunit les chefs des grandes familles patriciennes. Ce sénat garde une autorité morale ( auctoritas) très forte jusqu’à la fin de la République et même au delà. Il est essentiellement composé de patriciens jusqu’à la fin du IVe siècle, ensuite le Sénat va s’ouvrir à la plèbe, il y aura une nouvelle noblesse. 
-- Les assemblées : celles-ci rassemblent le peuple tout entier et on les appelles les comices. D’autres assemblées rassemblent uniquement des citoyens d’origine plébéienne on les appelles les assemblées de la plèbe. Ces divers assemblées ce sont des assemblées qui votent la loi et élisent les magistrats. En théorie, tout les citoyens ont un égal accès aux assemblées. En pratique, l’organisation des comices est telle que seul les citoyens les plus aisés prennent part au décisions. 
-- Les magistratures : a côté des consuls, les magistrats les plus importants sont les préteurs qui vont jouer un rôle décisif dans l’évolution du droit. Les édiles quant à eux sont des personnes chargé de la gestion quotidienne des villes. Les questeurs sont chargés des affaires financières.  Ces magistratures sont des magistratures permanentes, et les titulaires sont élus chaque année. Les censeurs sont chargés de procédé aux recensement des citoyens mais aussi à la désignation des sénateurs, ils proposent des membres qui feront l’objet d’élections. Les censeurs évaluent la fortune des citoyens afin de les repartir en « classes ». Ils peuvent aussi exercer un contrôle sur la conduite civique et morale des citoyens. A l’apogée de la République ces magistratures seront hiérarchisées les unes par rapport aux autres (le cursus honorum = la carrière des honneurs : on ne peut pas accéder au niveau supérieur de la magistrature sans avoir au préalable exercer toutes les charges inférieures)
+Au plan institutionnel, la Constitution de la République romaine comme celle des cités du monde méditerranéen (cités Grecque) comporte 3 organes : 
+- **le conseil aristocratique (sénat) :** réunit les *chefs des grandes familles patriciennes*. 
+	- Ce sénat garde une **autorité morale** (auctoritas) très forte jusqu’à la fin de la République et même au delà. 
+	- Il est **essentiellement composé de patriciens** (jusqu’à la fin du IVe siècle), ensuite le **Sénat va s’ouvrir à la plèbe**, (il y aura une nouvelle noblesse). 
+- **Les assemblées** : celles-ci **rassemblent le peuple tout entier** et on les appelles les **comices**. 
+	- D’autres assemblées rassemblent *uniquement des citoyens d’origine plébéienne* on les appelles les **assemblées de la plèbe**. 
+	- Ces divers assemblées ce sont des assemblées qui **votent la loi et élisent les magistrats**. 
+		- En théorie, tout les citoyens ont un égal accès aux assemblées. 
+		- En pratique, l’**organisation des comices** est telle que *seul les citoyens les plus aisés prennent part au décisions*. 
+- **Les magistratures** : a côté des consuls,
+	- les magistrats les plus importants sont **les préteurs** qui vont jouer un **rôle décisif dans l’évolution du droit**. 
+	- Les **édiles** quant à eux sont des personnes chargé de la **gestion quotidienne des villes**. 
+	- Les **questeurs** sont **chargés des affaires financières**.  
+	- Ces **magistratures** sont des *magistratures permanentes*, et les **titulaires** sont *élus chaque année*. 
+	- Les **censeurs** sont chargés de procédé aux **recensement des citoyens** mais aussi à la **désignation des sénateurs**, ils proposent des membres qui feront l’objet d’élections. 
+		- Les censeurs **évaluent la fortune des citoyens** afin de les repartir en « classes ». 
+		- Ils peuvent aussi exercer un **contrôle sur la conduite civique et morale des citoyens**. 
+	- A l’apogée de la République ces **magistratures seront hiérarchisées** les unes par rapport aux autres (**le cursus honorum = la carrière des honneurs** : on *ne peut pas accéder au niveau supérieur de la magistrature sans avoir au préalable exercer toutes les charges inférieures*)
+
+%%
+1. Le concept de la séparation des pouvoirs : Bien que la République romaine n'ait pas eu une séparation formelle des pouvoirs comme on la trouve dans les constitutions modernes, il y avait une certaine répartition des responsabilités entre les différents organes. Le Sénat avait un rôle prédominant dans la politique étrangère et la gestion de l'État, tandis que les magistrats étaient responsables de l'administration quotidienne et de l'application des lois.
+    
+2. Les droits des citoyens : Les citoyens romains, qu'ils soient patriciens ou plébéiens, bénéficiaient de certains droits et privilèges, tels que le droit de vote, le droit de propriété, le droit de commerce et le droit de se pourvoir en justice. Cependant, ces droits étaient généralement réservés aux hommes libres et propriétaires, excluant ainsi les femmes, les esclaves et les non-citoyens.
+    
+3. Les provinces romaines : À mesure que la République romaine s'étendait, de nouvelles provinces étaient conquises et intégrées à l'Empire. Chaque province était gouvernée par un proconsul ou un préteur, qui représentait l'autorité romaine et administrait la région. Cela a ajouté une dimension supplémentaire à la constitution romaine, avec une structure de gouvernement provinciale distincte.
+    
+4. Les lois et les institutions juridiques : La République romaine a développé un système juridique complexe et sophistiqué. Les préteurs jouaient un rôle central dans l'administration de la justice, en édictant des édits et en présidant les tribunaux. La loi romaine était basée sur la coutume, la jurisprudence et les décrets émis par les magistrats. Au fil du temps, la jurisprudence est devenue de plus en plus influente dans l'interprétation et l'application du droit.
+    
+5. Les crises politiques et les réformes : La République romaine a connu plusieurs crises politiques au cours de son histoire, souvent liées aux tensions entre les différentes classes sociales. Ces crises ont souvent conduit à des réformes institutionnelles, telles que les lois agraires pour lutter contre les inégalités économiques, ou les réformes des comices pour élargir la participation politique.
+%%
 
 ### III / Le régime républicain 
   
-A la fin de la République vers le milieu du IIe siècle, il y a un grand théoricien grecque, Polybe, analyse le régime romain. Il analyse la constitution romaine et y voit un régime mixte au regard des institutions. Pour Polybe, le régime est mixte puisqu’il est à la fois monarchique si on considère l’imperiur des consuls, le régime est également aristocratique en raison de la auctoritas qui est reconnue au Sénat et le régime est démocratique en raison du rôle décisif que joue les assemblées populaires. Cette notion de régime mixte connaît une grande fortune du XIII au XVIe siècle. Cependant, on constate que ces institutions dont Polybe se fait le chantre, elles apparaissent de plus en plus inadaptées dès lors que Rome va se trouver à la tête d’un Empire territorial de plus en plus vaste. La machine romaine s’avère incapable de gérer les territoires conquit en raison des enjeux financiers qu’ils représentent. On observe que les institutions de la république se dérèglent étant donné que le fonctionnement des pouvoirs publiques est interrompu. On voit alterner des guerres civiles, de dictatures inconstitutionnelles, la dernière étant celle de Jules César après que il ait achever les guerres des Gaules. César, ne jouit d’un pouvoir absolu que très peu de temps, puisque dès qu’il se comportera en dictateur, il sera accusé d’aspirer à la royauté. César sera assassiné en 44 av JC et sera remplacé par son neveu Octave qui restera seul maître du jeu. Octave est stratège et en l’an 27 av JC il se fait décerner le titre d’August qui jusque là était réserver aux dieux. Octave va fondé sans bruit un nouveau régime : l’Empire.  
+A la fin de la République vers le milieu du IIe siècle, il y a un grand théoricien grecque, Polybe, analyse le régime romain. 
+- Il analyse la constitution romaine et y voit un **régime mixte au regard des institutions**. 
+- Pour Polybe, le régime est mixte puisqu’il est 
+	- **à la fois monarchique** si on considère l’imperiur des consuls, 
+	- le régime est également **aristocratique** en raison de la auctoritas qui est reconnue au Sénat 
+	- et le régime est **démocratique** en raison du *rôle décisif que joue les assemblées populaires*. 
+- Cette notion de régime mixte connaît une grande fortune du XIII au XVIe siècle. 
+- Cependant, on constate que ces institutions dont Polybe se fait le chantre, elles apparaissent de **plus en plus inadaptées dès lors que Rome va se trouver à la tête d’un Empire territorial de plus en plus vaste.** 
 
-En droit, un dictateur ou la dictature c’est une magistrature exceptionnelle qui peut être prévue par une Constitution traditionnelle pour faire face à un péril majeur mettant en danger l’Etat lui-même et ne pouvant excéder 6 mois. Si les 6 mois sont dépassé on est plus dans la dictature organisée par une Constitution traditionnelle. La dictature au sens constitutionnel. Cette hypothèse est très proche de celle qui est prévue par l’article 16 de la Constitution de 1958. La notion de dictature à une résonance particulière. 
+La machine romaine s’avère **incapable de gérer les territoires conquit en raison des enjeux financiers** qu’ils représentent. 
+- On observe que les **institutions de la république se dérèglent** étant donné que le *fonctionnement des pouvoirs publiques est interrompu*. 
+- On voit alterner des **guerres civiles, de dictatures inconstitutionnelles**, la *dernière étant celle de Jules César* après que il ait achever les guerres des Gaules. 
+- **César**, ne jouit d’un **pouvoir absolu que très peu de temps**, puisque dès qu’il se comportera en dictateur, il **sera accusé d’aspirer à la royauté**. César sera **assassiné en 44 av JC** et sera remplacé par son **neveu Octave** qui restera seul maître du jeu. 
+- **Octave est stratège** et en l’an 27 av JC il se fait **décerner le titre d’August** qui jusque là était **réserver aux dieux**. Octave va **fondé sans bruit un nouveau régime : l’Empire**.  
+
+En droit, un **dictateur** ou la dictature c’est une **magistrature exceptionnelle** qui peut être prévue par une Constitution traditionnelle pour **faire face à un péril majeur mettant en danger l’Etat lui-même et ne pouvant excéder 6 mois**. 
+- Si les 6 mois sont dépassé on est plus dans la dictature organisée par une Constitution traditionnelle. La dictature au sens constitutionnel. 
+- Cette hypothèse est très proche de celle qui est prévue par l’article 16 de la Constitution de 1958. La notion de dictature à une résonance particulière. 
 
 ## Section 2 : L’Empire
 
-Entre le moment de la fondation de l’Empire par August et celui de sa disparition au Ve siècle, l’Empire romain a beaucoup évoluer. On distingue 2 grandes périodes : le haut empire qui dure jusqu’au début du IIIe siècle et qui de point de vue politique se caractérise par le régime du principat. Et la bas empire va commencer par la crise du IIIe siècle que l’on appelle le régime du dominat.   
+Entre le moment de la fondation de l’Empire par August et celui de sa disparition au Ve siècle, l’Empire romain a beaucoup évoluer. 
+
+On distingue 2 grandes périodes : 
+- le **haut empire** qui dure jusqu’au **début du IIIe siècle** et qui de point de vue politique se caractérise par le **régime du principat**. 
+- Et la **bas empire** va commencer par la **crise du IIIe siècle** que l’on appelle le régime **du dominat**.   
 
 ### I / Le principat 
 

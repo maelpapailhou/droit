@@ -1,21 +1,3 @@
-La démocratie
-
-Brainstorming
-- Régime politique qui engage le peuple à l’inverse des régimes autoritaires et le totalitarisme  
-- La phrase de Lincoln  
-- idéal →échelle →souveraineté pour le peuple
-- idéal →valeurs →tentatives de démocratie ailleurs ( processus de démocratisation année 80 et 90 )  
-- libéral  
-- représentation
-- vote ( le vote ne suffit pas pour qualifier un régime de démocratie ) →pluralisme  
-- la démocratie se confond avec les régimes autoritaires  
-- liberté de la femme
-- citoyenneté  
-- notre démocratie se manifeste également par les pétition, les manifestations, les consultations des citoyens, participer à des délibérations.  
-- crise de la démocratie se voient grâce à la manifestations  
-Huntington  
-Montesquieu →équilibre, distinction des fonctions
-
 ### I. La démocratie est un régime politique
 
 Régime politique qui va permettre d’**organiser le pouvoir mis en place par l’État** ainsi que déterminer les relations qui s’établissent entre les différents pouvoirs, les compétences entre chaque pouvoirs ( exécutif, législatif et judiciaire ).  
@@ -127,24 +109,25 @@ L’abstention fragilise le gouvernement représentatif.
 	« Le principe du gouvernement représentatif » Bernard.M Livre
 
 Cela peut se manifester différemment comme une baisse de la participation aux élections mais sa peut être aussi une baisse de la syndicalisation.  
-Il existe également d’autres formes d’engagements politiques comme les pétitions et le fait d’aller manifester. Si on regarde les élections législatif ( celles jugées importante ) ont dépassé le taux d’abstention pour la première fois en 2017 avec 51 % et en 2022 plus de 53 %.
+Il existe également d’autres formes d’engagements politiques comme les pétitions et le fait d’aller manifester. Si on regarde les élections législatif ( celles jugées importante ) ont dépassé le taux d’abstention pour la première fois en 2017 avec 51 % et en 2022 plus de 53 %. 66 % de taux d’abstention aux élections régional.
 
-66 % de taux d’abstention aux élections régional.
+L’**abstention pose la question de la légitimité des personnes qui nous gouvernent et la légitimité des décisions qui sont prises par les personnes qui nous gouvernent**. Est ce que nos gouvernants/représentants sont légitime quand ils sont élus dans le cadre d’élection avec plus de 50 % de taux d’abstention ?
 
-L’abstention pose la question de la légitimité des personnes qui nous gouvernent et la légitimité des décisions qui sont prises par les personnes qui nous gouvernent. Est ce que nos gouvernants/représentants sont légitime quand ils sont élus dans le cadre d’élection avec plus de 50 % de taux d’abstention ?
+Il y a une vrai différence en fonction des catégories sociales, c’est les catégories **les plus populaires qui s’abstiennent le plus** et ce sont également les jeunes qui s’abstiennent le plus. 
+	Cécile Braconnier qui parle de démocratie d’abstention.
 
-Il y a une vrai différence en fonction des catégories sociales, c’est les catégories les plus populaires qui s’abstiennent le plus et ce sont également les jeunes qui s’abstiennent le plus. →Cécile Braconnier qui parle de démocratie d’abstention.
+	La démocratie ; « pire forme de gouvernement à l’exception de toutes celles qui ont été expérimenté par le passé » ? Churchill Discours de 1947 à la Chambre des Communes
 
-C. La démocratie ; « pire forme de gouvernement à l’exception de toutes celles qui ont été expérimenté par le passé » ? Churchill Discours de 1947 à la Chambre des Communes
+	« Personne ne prétend que la démocratie soit parfaite ou qu’elle est toujours raison on dit même que c’est la pire forme de gouvernement à l’exception de toutes celles qui ont été expérimenté par le passé »
 
-« Personne ne prétend que la démocratie soit parfaite ou qu’elle est toujours raison on dit même que c’est la pire forme de gouvernement à l’exception de toutes celles qui ont été expérimenté par le passé »
+Churchill souligne dans la première partie de la phrase que le **régime démocratique connaît des écueils**. Le peuple qui s’exprime a t il toujours raison ?
 
-Churchill souligne dans la première partie de la phrase que le régime démocratique connaît des écueils. Le peuple qui s’exprime a t il toujours raison ?
-
-Dans la deuxième partie de la phrase il classe les régimes, et pour lui même si la démocratie a des écueils, pour ne pas faire une mauvaise interprétation il défend la démocratie à travers cette phrase. Il l’a défend par rapport au régime totalitaire qui était d’actualité avant 1947.
+Dans la deuxième partie de la phrase il classe les régimes, et pour lui même si la démocratie a des écueils, pour ne **pas faire une mauvaise interprétation il défend la démocratie à travers cette phrase**. Il l’a défend par rapport au régime totalitaire qui était d’actualité avant 1947.
 
 A travers cette phrase il établie une hiérarchie entre les différents régimes politiques. Les frontières entres ces régimes sont poreuses, elles ne restent que des catégories d’analyse.
 
 #### IV. Les catégories de régimes aux frontières poreuses
 
-L’Histoire nous démontre plutôt non pas l’existence de régimes démocratiques ou de régimes autoritaires mais plutôt l’existence de régimes hybrides c’est à dire des régimes qui varient entre des épisodes démocratiques et des épisodes autoritaires. Aujourd’hui en science politique on utilise plutôt ce concept de régime hybride, justement pour souligné la porosité des frontières entres les démocraties et les autoritarismes. Plutôt que de parler de régime démocratique ou de régime autoritaire on va plutôt observer concrètement l’exercice du régime politique ( regarder son fonctionnement concret et son quotidien ).
+L’Histoire nous démontre plutôt non pas l’existence de régimes démocratiques ou de régimes autoritaires mais plutôt l’existence de régimes hybrides c’est à dire des régimes qui varient entre des épisodes démocratiques et des épisodes autoritaires. 
+
+Aujourd’hui en science politique on utilise plutôt ce concept de régime hybride, justement pour souligné la porosité des frontières entres les démocraties et les autoritarismes. Plutôt que de parler de régime démocratique ou de régime autoritaire on va plutôt observer concrètement l’exercice du régime politique ( regarder son fonctionnement concret et son quotidien ).

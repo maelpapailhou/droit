@@ -1,7 +1,7 @@
 , Paris, Presses de Sciences Po, 2019
  (présentation de l’ouvrage à Sciences Po Paris en présence de Yannick Jadot: https://www.youtube.com/watch?v=0SbIUQvO4oM) 
 
-L'ouvrage "L'atlas de l'anthropocène" de François Gemenne et Aleksandar Rankovic, publié en 2019, propose une analyse approfondie de l'Anthropocène, une nouvelle époque géologique marquée par l'impact des activités humaines sur l'environnement et le climat de la planète. Voici un résumé détaillé de cet ouvrage :
+L'ouvrage "L'atlas de l'anthropocène" de François Gemenne et Aleksandar Rankovic, publié en 2019, propose une analyse approfondie de l'Anthropocène, une nouvelle époque géologique marquée par l'impact des activités humaines sur l'environnement et le climat de la planète.
 
 "L'atlas de l'anthropocène" est un livre qui explore les changements environnementaux majeurs provoqués par l'humanité et les conséquences de ces changements à l'échelle mondiale. Les auteurs, François Gemenne et Aleksandar Rankovic, examinent de nombreux aspects de l'Anthropocène, en utilisant des données scientifiques, des cartes et des graphiques pour illustrer les impacts environnementaux, sociaux et économiques.
 
