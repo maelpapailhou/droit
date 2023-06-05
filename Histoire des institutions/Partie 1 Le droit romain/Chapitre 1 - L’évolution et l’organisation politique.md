@@ -4,7 +4,15 @@ Il y a lieu de distinguer ici deux périodes de l’histoire constitutionnelle r
 - 753 av JC que la ville de Rome aurait été fondée par un certain Romulus (mythe). Romulus est sois disant le descendant d’Enée le roi de Troie puisque cette ville avait été prise par des grecs plusieurs siècle auparavant. 
 - Au delà de ce mythe de la fondation romaine on retient du point de vue des institutions que  Rome a été gouverné d’abord par des rois. 
 - Au VI siècle les rois sont des étrangers venus du nord appelés des étrusques. A l’instar des « tyrans » qui règne alors en Grèce, les rois étrusques disposent d’un pouvoir absolu qui s’appelle l’imperiur et il gouverne en s’appuyant sur le peuple. Il est vrai que ce pouvoir est mal supporté par les grandes familles et ces rois seront chassés en 509 av JC à l’issu d’une révolution aristocratique. Par conséquent, le roi Tarquin doit s’exiler. 
-- Dès lors, l’idéologie officielle qui va suivre, celle de la République, elle assimilera toujours la royauté à une institution tyrannique qui est incompatible avec la liberté politique. Le régime qui s’instaure après l’expulsion des rois est appelé République au sens propre, un régime où le gouvernement est la chose de tous (res publica). 
+- Dès lors, l’idéologie officielle qui va suivre, celle de la République, **elle assimilera toujours la royauté à une institution tyrannique qui est incompatible avec la liberté politique**. Le régime qui s’instaure après l’expulsion des rois est appelé République au sens propre, un régime où le gouvernement est la chose de tous (res publica). 
+
+%%
+1. La période pré-impériale : Avant l'avènement de l'Empire romain, Rome était gouvernée par une monarchie, où des rois régnaient sur la cité. Selon la tradition mythologique, Romulus aurait été le fondateur de Rome en 753 av. J.-C., bien que cette histoire soit largement considérée comme légendaire. Au VIe siècle av. J.-C., des rois étrusques ont gouverné Rome, exerçant un pouvoir absolu appelé "imperium". Cependant, leur pouvoir tyrannique a conduit à une révolution aristocratique en 509 av. J.-C., qui a abouti à l'exil du dernier roi Tarquin et à l'établissement de la République.
+
+2. L'avènement de la République : À partir de l'expulsion des rois, la République romaine a été instaurée. Le terme "République" fait référence à un régime où le gouvernement est l'affaire de tous (res publica). Il s'agissait d'un système politique dans lequel les pouvoirs étaient partagés entre les citoyens et où les décisions importantes étaient prises par le biais d'assemblées et de magistrats élus.
+
+3. La coïncidence avec l'époque du Christ : L'idée d'une coïncidence entre la naissance du Christ et l'avènement d'un nouvel empereur est une interprétation théologique développée ultérieurement par certains auteurs chrétiens au Moyen Âge. Ils ont vu cette période comme le résultat d'un dessein divin ou de la providence.
+%%
 
 ## Section 1 : La République 
 
@@ -29,18 +37,16 @@ En résumé, après l'exil de Tarquin, Rome était gouvernée par un petit group
 - Ce **collège des tribuns** ne **participe pas directement au gouvernement de la République** qui reste bien l’**apanage (possession) des consuls**. 
 	- Ce collège est chargé de la **défense collective de la plèbe** mais aussi de la **protection individuelle des plébéiens**. 
 	- Son pouvoir est surtout un **pouvoir négatif**, un pouvoir « d’empêcher ». 
-- Le **régime républicain** au fond n’a **rien de démocratique** puisque au fond, c’est une oligarchie, un régime dans lequel seul quelque uns gouverne. 
+- Le **régime républicain** au fond n’a **rien de démocratique** puisque au fond, c’est une **oligarchie**, un régime dans lequel *seul quelque uns gouverne*. 
 
 %%
-1. Les luttes entre patriciens et plébéiens ont abouti à la mise en place de la Lex Hortensia en 287 av. J.-C. Cette loi établit que les décisions prises par l'assemblée de la plèbe (le concile de la plèbe) auraient force de loi pour l'ensemble de la population romaine, y compris les patriciens. Cela a marqué une étape importante dans l'extension des droits politiques aux plébéiens.
+1. Les consuls : Les consuls étaient les magistrats les plus élevés de la République romaine. Ils étaient choisis chaque année parmi les patriciens, les membres des grandes familles aristocratiques. Ils héritaient du pouvoir suprême des anciens rois, mais contrairement à un seul roi, ils exerçaient leur pouvoir à deux. C'est pourquoi on parle du principe juridique de l'annualité, selon lequel leur mandat ne durait qu'une année.
 
-2. La plèbe a également obtenu le droit de former ses propres assemblées, appelées comices tributes. Ces assemblées plébéiennes élisaient leurs propres magistrats, appelés tribuns de la plèbe, qui avaient le pouvoir de défendre les intérêts et les droits des plébéiens.
+2. Les tribuns de la plèbe : À partir de l'année 494 av. J.-C., la plèbe a obtenu le droit d'avoir ses propres magistrats pour la protéger contre les abus de pouvoir des patriciens. Ces magistrats, appelés tribuns de la plèbe, étaient élus par la plèbe et formaient un collège. Initialement au nombre de deux, leur nombre a augmenté au fil du temps. Les tribuns avaient le pouvoir de s'opposer aux décisions des consuls et de défendre les intérêts de la plèbe. Cela a introduit le principe de collégialité, selon lequel les magistratures devaient être exercées collectivement.
 
-3. Au fil du temps, les plébéiens ont réussi à gagner l'accès à certaines magistratures réservées aux patriciens, notamment la questure, l'édilité et même, plus tard, le consulat. Cela a contribué à réduire les distinctions politiques strictes entre les deux classes.
+3. Le pouvoir des tribuns : Le collège des tribuns ne participait pas directement au gouvernement de la République, qui restait l'apanage des consuls. Leur rôle principal était de défendre collectivement la plèbe contre les abus de pouvoir, mais aussi de fournir une protection individuelle aux plébéiens. Leur pouvoir était principalement un pouvoir de veto, leur permettant d'empêcher l'adoption de mesures préjudiciables à la plèbe.
 
-4. Les luttes sociales entre patriciens et plébéiens ne se limitaient pas seulement à des questions politiques, mais aussi à des problèmes économiques. Les plébéiens étaient souvent endettés et confrontés à la saisie de leurs terres par les patriciens. Au cours des siècles, diverses lois agraires ont été promulguées pour tenter de résoudre ces problèmes et de rétablir un équilibre économique plus juste.
-
-5. En fin de compte, les divisions entre patriciens et plébéiens ont progressivement diminué au fil du temps, avec l'intégration croissante des plébéiens dans les institutions politiques romaines. Cela a finalement conduit à une période de coexistence plus stable et à la consolidation du système républicain romain.
+4. Nature oligarchique de la République : En effet, le régime républicain romain n'était pas démocratique au sens moderne du terme, mais plutôt oligarchique. Le pouvoir était concentré entre les mains de quelques-uns, principalement les patriciens, qui dominaient la scène politique. Cependant, au fil du temps, la plèbe a obtenu des concessions politiques et des garanties pour ses droits, ce qui a conduit à une certaine ouverture du système politique.
    %%
 
 ### II / La Constitution de la République romaine 
@@ -67,17 +73,20 @@ Au plan institutionnel, la Constitution de la République romaine comme celle de
 	- A l’apogée de la République ces **magistratures seront hiérarchisées** les unes par rapport aux autres (**le cursus honorum = la carrière des honneurs** : on *ne peut pas accéder au niveau supérieur de la magistrature sans avoir au préalable exercer toutes les charges inférieures*)
 
 %%
-1. Le concept de la séparation des pouvoirs : Bien que la République romaine n'ait pas eu une séparation formelle des pouvoirs comme on la trouve dans les constitutions modernes, il y avait une certaine répartition des responsabilités entre les différents organes. Le Sénat avait un rôle prédominant dans la politique étrangère et la gestion de l'État, tandis que les magistrats étaient responsables de l'administration quotidienne et de l'application des lois.
+Dans la Constitution de la République romaine, bien qu'elle ne ressemble pas aux constitutions modernes, on peut trouver certains prémices de concepts constitutionnels. Voici une explication des organes et des mécanismes institutionnels de la Constitution romaine :
+
+1. Le conseil aristocratique (sénat) : Le sénat était l'organe central de la République romaine. Il était composé des chefs des grandes familles patriciennes, les aristocrates romains. Le sénat exerçait une autorité morale puissante et conservait son influence tout au long de la République. Au début, il était principalement composé de patriciens, mais progressivement, il s'est ouvert à la plèbe et a accueilli une nouvelle noblesse.
     
-2. Les droits des citoyens : Les citoyens romains, qu'ils soient patriciens ou plébéiens, bénéficiaient de certains droits et privilèges, tels que le droit de vote, le droit de propriété, le droit de commerce et le droit de se pourvoir en justice. Cependant, ces droits étaient généralement réservés aux hommes libres et propriétaires, excluant ainsi les femmes, les esclaves et les non-citoyens.
+2. Les assemblées : Les assemblées rassemblaient l'ensemble du peuple romain et étaient appelées les comices. Certaines assemblées étaient spécifiquement réservées aux citoyens d'origine plébéienne et étaient connues sous le nom d'assemblées de la plèbe. Ces assemblées avaient le pouvoir de voter les lois et d'élire les magistrats. En théorie, tous les citoyens avaient un accès égal aux assemblées, mais en pratique, seuls les citoyens les plus aisés étaient souvent en mesure de participer aux décisions en raison de l'organisation des comices.
     
-3. Les provinces romaines : À mesure que la République romaine s'étendait, de nouvelles provinces étaient conquises et intégrées à l'Empire. Chaque province était gouvernée par un proconsul ou un préteur, qui représentait l'autorité romaine et administrait la région. Cela a ajouté une dimension supplémentaire à la constitution romaine, avec une structure de gouvernement provinciale distincte.
+3. Les magistratures : Aux côtés des consuls, les magistrats occupaient une place importante dans la Constitution romaine. Les préteurs étaient les magistrats les plus importants après les consuls et jouaient un rôle décisif dans l'évolution du droit romain. Les édiles étaient responsables de la gestion quotidienne des villes, tandis que les questeurs s'occupaient des affaires financières. Ces magistratures étaient permanentes, et leurs titulaires étaient élus chaque année.
     
-4. Les lois et les institutions juridiques : La République romaine a développé un système juridique complexe et sophistiqué. Les préteurs jouaient un rôle central dans l'administration de la justice, en édictant des édits et en présidant les tribunaux. La loi romaine était basée sur la coutume, la jurisprudence et les décrets émis par les magistrats. Au fil du temps, la jurisprudence est devenue de plus en plus influente dans l'interprétation et l'application du droit.
+4. Les censeurs : Les censeurs étaient chargés de procéder au recensement des citoyens et de désigner les sénateurs. Ils évaluaient la fortune des citoyens afin de les répartir en différentes classes. De plus, ils exerçaient un contrôle sur la conduite civique et morale des citoyens. Les censeurs proposaient des membres pour le sénat, qui étaient ensuite soumis à des élections.
     
-5. Les crises politiques et les réformes : La République romaine a connu plusieurs crises politiques au cours de son histoire, souvent liées aux tensions entre les différentes classes sociales. Ces crises ont souvent conduit à des réformes institutionnelles, telles que les lois agraires pour lutter contre les inégalités économiques, ou les réformes des comices pour élargir la participation politique.
+5. Hiérarchie des magistratures : À l'apogée de la République, les magistratures étaient hiérarchisées les unes par rapport aux autres. Il existait une progression graduelle appelée le cursus honorum, où il était nécessaire d'exercer les charges inférieures avant de pouvoir accéder à des magistratures de plus haut niveau.
 %%
 
+///
 ### III / Le régime républicain 
   
 A la fin de la République vers le milieu du IIe siècle, il y a un grand théoricien grecque, Polybe, analyse le régime romain. 
