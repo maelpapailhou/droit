@@ -26,14 +26,14 @@ Il y a lieu de distinguer ici deux périodes de l’histoire constitutionnelle r
 - Les principaux magistrats sont constitués de deux consuls choisis chaque année parmi les chefs des grandes familles. 
 
 %%
-En résumé, après l'exil de Tarquin, Rome était gouvernée par un petit groupe de grandes familles patriciennes, qui formaient une caste fermée. Les patriciens exerçaient le pouvoir politique à travers le Sénat, écartant ainsi les plébéiens. Cependant, les luttes sociales entre les patriciens et les plébéiens ont conduit à des avancées politiques pour la plèbe, notamment la création de la fonction de tribun de la plèbe. Les consuls, choisis parmi les patriciens, étaient les principaux magistrats de la République romaine.
+Après l'exil de Tarquin, Rome était gouvernée par un petit groupe de grandes familles patriciennes, qui formaient une caste fermée. Les patriciens exerçaient le pouvoir politique à travers le Sénat, écartant ainsi les plébéiens. Cependant, les luttes sociales entre les patriciens et les plébéiens ont conduit à des avancées politiques pour la plèbe, notamment la création de la fonction de tribun de la plèbe. Les consuls, choisis parmi les patriciens, étaient les principaux magistrats de la République romaine.
 %%
 
 - Ces **consuls héritent du pouvoir suprême des anciens rois** (l’empereur) avec cette différence qu’il exerce à deux. Ils *exercent le pouvoir à deux et pour seulement une année*. C’est pourquoi on parle ici du **principe juridique de l’annualité**. 
 - A côté de ces consuls patriciens, la plèbe à tout de même obtenu dès l’**année 494 av JC d’avoir ses propres magistrats**, ceux-ci sont chargés de la **protéger contre les excès de pouvoir des patriciens**, on les appellent **(=tribuns**) 
 	- Ces tribuns sont au nombre de 2 puis 4 puis 10 et sont élus par la plèbe pour 1 an et ils forment un collège. 
 - C’est donc l’origine d’un autre **grand principe du droit** : le **principe de collégialité**, un principe qui **sera étendu à toutes les magistratures**. 
-	- La collégialité signifie que la magistrature est collective et les pouvoir qui lui sont attachés doivent être exercés conjointement par tout les membres du collège de sorte que si un seul membre fait défaut en refusant de s’associer aux autres, il paralyse l’action de ses collègues et donc c’est le blocage. 
+	- La collégialité signifie que la **magistrature est collective** et les pouvoir qui lui sont attachés doivent être **exercés conjointement** par tout les membres du collège de sorte que si un seul membre fait défaut en refusant de s’associer aux autres, il paralyse l’action de ses collègues et donc c’est le blocage. 
 - Ce **collège des tribuns** ne **participe pas directement au gouvernement de la République** qui reste bien l’**apanage (possession) des consuls**. 
 	- Ce collège est chargé de la **défense collective de la plèbe** mais aussi de la **protection individuelle des plébéiens**. 
 	- Son pouvoir est surtout un **pouvoir négatif**, un pouvoir « d’empêcher ». 
@@ -57,13 +57,13 @@ Au plan institutionnel, la Constitution de la République romaine comme celle de
 - **le conseil aristocratique (sénat) :** réunit les *chefs des grandes familles patriciennes*. 
 	- Ce sénat garde une **autorité morale** (auctoritas) très forte jusqu’à la fin de la République et même au delà. 
 	- Il est **essentiellement composé de patriciens** (jusqu’à la fin du IVe siècle), ensuite le **Sénat va s’ouvrir à la plèbe**, (il y aura une nouvelle noblesse). 
-- **Les assemblées** : celles-ci **rassemblent le peuple tout entier** et on les appelles les **comices**. 
+- **Les assemblées** (comices): celles-ci **rassemblent le peuple tout entier** et on les appelles les **comices**. 
 	- D’autres assemblées rassemblent *uniquement des citoyens d’origine plébéienne* on les appelles les **assemblées de la plèbe**. 
 	- Ces divers assemblées ce sont des assemblées qui **votent la loi et élisent les magistrats**. 
 		- En théorie, tout les citoyens ont un égal accès aux assemblées. 
 		- En pratique, l’**organisation des comices** est telle que *seul les citoyens les plus aisés prennent part au décisions*. 
 - **Les magistratures** : a côté des consuls,
-	- les magistrats les plus importants sont **les préteurs** qui vont jouer un **rôle décisif dans l’évolution du droit**. 
+	- les **préteurs** sont les magistrats les plus importants  vont jouer un **rôle décisif dans l’évolution du droit**. 
 	- Les **édiles** quant à eux sont des personnes chargé de la **gestion quotidienne des villes**. 
 	- Les **questeurs** sont **chargés des affaires financières**.  
 	- Ces **magistratures** sont des *magistratures permanentes*, et les **titulaires** sont *élus chaque année*. 
@@ -76,17 +76,16 @@ Au plan institutionnel, la Constitution de la République romaine comme celle de
 Dans la Constitution de la République romaine, bien qu'elle ne ressemble pas aux constitutions modernes, on peut trouver certains prémices de concepts constitutionnels. Voici une explication des organes et des mécanismes institutionnels de la Constitution romaine :
 
 1. Le conseil aristocratique (sénat) : Le sénat était l'organe central de la République romaine. Il était composé des chefs des grandes familles patriciennes, les aristocrates romains. Le sénat exerçait une autorité morale puissante et conservait son influence tout au long de la République. Au début, il était principalement composé de patriciens, mais progressivement, il s'est ouvert à la plèbe et a accueilli une nouvelle noblesse.
-    
+
 2. Les assemblées : Les assemblées rassemblaient l'ensemble du peuple romain et étaient appelées les comices. Certaines assemblées étaient spécifiquement réservées aux citoyens d'origine plébéienne et étaient connues sous le nom d'assemblées de la plèbe. Ces assemblées avaient le pouvoir de voter les lois et d'élire les magistrats. En théorie, tous les citoyens avaient un accès égal aux assemblées, mais en pratique, seuls les citoyens les plus aisés étaient souvent en mesure de participer aux décisions en raison de l'organisation des comices.
-    
+
 3. Les magistratures : Aux côtés des consuls, les magistrats occupaient une place importante dans la Constitution romaine. Les préteurs étaient les magistrats les plus importants après les consuls et jouaient un rôle décisif dans l'évolution du droit romain. Les édiles étaient responsables de la gestion quotidienne des villes, tandis que les questeurs s'occupaient des affaires financières. Ces magistratures étaient permanentes, et leurs titulaires étaient élus chaque année.
-    
+
 4. Les censeurs : Les censeurs étaient chargés de procéder au recensement des citoyens et de désigner les sénateurs. Ils évaluaient la fortune des citoyens afin de les répartir en différentes classes. De plus, ils exerçaient un contrôle sur la conduite civique et morale des citoyens. Les censeurs proposaient des membres pour le sénat, qui étaient ensuite soumis à des élections.
-    
+
 5. Hiérarchie des magistratures : À l'apogée de la République, les magistratures étaient hiérarchisées les unes par rapport aux autres. Il existait une progression graduelle appelée le cursus honorum, où il était nécessaire d'exercer les charges inférieures avant de pouvoir accéder à des magistratures de plus haut niveau.
 %%
 
-///
 ### III / Le régime républicain 
   
 A la fin de la République vers le milieu du IIe siècle, il y a un grand théoricien grecque, Polybe, analyse le régime romain. 
@@ -107,6 +106,24 @@ La machine romaine s’avère **incapable de gérer les territoires conquit en r
 En droit, un **dictateur** ou la dictature c’est une **magistrature exceptionnelle** qui peut être prévue par une Constitution traditionnelle pour **faire face à un péril majeur mettant en danger l’Etat lui-même et ne pouvant excéder 6 mois**. 
 - Si les 6 mois sont dépassé on est plus dans la dictature organisée par une Constitution traditionnelle. La dictature au sens constitutionnel. 
 - Cette hypothèse est très proche de celle qui est prévue par l’article 16 de la Constitution de 1958. La notion de dictature à une résonance particulière. 
+
+%%
+Polybe, un grand théoricien grec, a analysé la constitution romaine à la fin de la République, vers le milieu du IIe siècle av. J.-C. Selon Polybe, la constitution romaine peut être considérée comme un régime mixte en raison de ses institutions. Voici les éléments qu'il met en avant :
+
+1. Monarchique : Polybe considère que le régime romain possède une dimension monarchique en raison du pouvoir suprême des consuls, qui exercent l'imperiur (autorité). Les consuls, en tant que chefs de l'État, détenaient une autorité semblable à celle d'un monarque.
+
+2. Aristocratique : Le régime romain est également perçu comme aristocratique en raison de l'auctoritas, l'autorité morale et politique accordée au Sénat. Le Sénat, composé des représentants des grandes familles patriciennes, jouissait d'un pouvoir considérable et influent dans la prise de décision.
+
+3. Démocratique : Selon Polybe, le régime romain possède une dimension démocratique grâce au rôle décisif des assemblées populaires, les comices. Ces assemblées, où tous les citoyens avaient en théorie un accès égal, étaient habilitées à voter les lois et à élire les magistrats.
+
+La notion de régime mixte développée par Polybe a connu une grande popularité du XIIIe au XVIe siècle. Cependant, avec l'expansion territoriale croissante de Rome, les institutions républicaines ont commencé à montrer leurs limites. La machine politique romaine s'est révélée incapable de gérer efficacement les territoires conquis, en raison notamment des défis financiers qu'ils représentaient.
+
+Ce déséquilibre a entraîné le dérèglement des institutions républicaines, marqué par des guerres civiles et des dictatures inconstitutionnelles, la dernière en date étant celle de Jules César après sa conquête des Gaules. Bien que César ait brièvement joui d'un pouvoir absolu, son comportement dictatorial a suscité des accusations d'aspirations royales. Il a été assassiné en 44 av. J.-C., et son neveu Octave lui a succédé, devenant le maître incontesté du pouvoir.
+
+Octave, stratège politique habile, s'est vu attribuer le titre d'Auguste en 27 av. J.-C., un titre jusqu'alors réservé aux dieux. Sans faire de bruit, Octave a établi un nouveau régime : l'Empire romain.
+
+En droit, le terme "dictateur" désigne une magistrature exceptionnelle qui peut être prévue par une constitution traditionnelle afin de faire face à un péril majeur mettant en danger l'État lui-même. Cependant, cette dictature ne peut excéder six mois. Si cette durée est dépassée, cela ne relève plus de la dictature telle qu'organisée par une constitution traditionnelle. Cette notion de dictature trouve une résonance particulière, similaire à celle prévue par l'article 16 de la Constitution française de 1958.
+%%
 
 ## Section 2 : L’Empire
 
@@ -147,6 +164,23 @@ A la **fin du 2e siècle**, le **système politique se dérègle** et c’est le
 - Crise militaire parce que c’est l’époque où les *frontières romaines commencent à être violée par les Barbares*. 
 - L’empereur à la fin du principat n’est plus seulement le princeps, dorénavant, il devient le maître de Rome et de tous les habitants de l’Empire, le « dominus », par conséquent, il est le maître de tout les sujets romains. 
 
+%%
+Le principat était le régime politique en place pendant les deux premiers siècles de l'Empire romain, où les apparences de la République étaient maintenues. L'empereur Auguste et ses successeurs ont conservé les institutions républicaines, mais en réalité, l'empereur se présentait comme le curateur de la République, renforçant ainsi les institutions de l'Empire. Cette situation est comparable à celle de la fin de la Révolution française, où Napoléon a cherché à reprendre le modèle romain.
+
+Les empereurs romains se voyaient comme les premiers parmi les autres, le "princeps populi" en latin. Le régime politique du principat reposait sur une combinaison de divers éléments de pouvoir pour l'empereur :
+
+1. Autorité morale : L'empereur détenait une autorité morale, appelée "auctoritas" en latin, qui lui conférait un pouvoir d'influence sur la société.
+
+2. Puissance tribunicienne : L'empereur possédait une qualité permanente de tribun, ce qui lui permettait d'apparaître comme le protecteur naturel du petit peuple. Les tribuns étaient des orateurs habiles et capables de mobiliser les foules.
+
+3. Imperium proconsulaire : L'empereur disposait en permanence du pouvoir suprême du consul, appelé "imperium proconsulare" en latin. Cette autorité suprême, bien que les institutions républicaines soient maintenues en apparence, était dévolue à un seul homme, créant ainsi une forme de monarchie.
+
+Au fil du temps, des dynasties impériales se sont développées à Rome, telles que les Flaviens et les Antonins. Contrairement à l'Ancienne France, Rome ne possédait pas de règles de succession au trône. Par conséquent, la désignation du prince était laissée à la volonté des individus, ce qui représentait une faiblesse du système. Rome ne possédait pas de lois fondamentales comme celles de l'Ancienne France.
+
+Vers la fin du IIe siècle, le système politique a commencé à se dérégler, marquant le début d'une crise politique, sociale, économique et militaire. La crise militaire était due aux invasions barbares qui violaient les frontières romaines. À la fin du principat, l'empereur n'était plus simplement le princeps, mais il est devenu le maître de Rome et de tous les habitants de l'Empire, le "dominus", étant ainsi le souverain de tous les sujets romains.
+
+En somme, le principat était un régime politique où les institutions républicaines étaient maintenues en apparence, mais où l'empereur détenait en réalité un pouvoir centralisé et monarchique, combinant autorité morale, puissance tribunicienne et imperium proconsulaire. Cependant, au fur et à mesure que l'Empire romain faisait face à des crises politiques et militaires, le pouvoir de l'empereur évoluait vers un statut de maître absolu, marquant ainsi une transition vers le dominat.
+%%
 ### II / Le dominat ( le bas empire)
 
 #### A / Un régime autoritaire 
@@ -163,18 +197,6 @@ Avec les **empereurs chrétiens, à partir de Constantin**, la situation est plu
 - L’**empereur a une mission** précise, *faire régner la justice*. 
 - Pour les grands théologiens chrétiens des IV et Ve siècle en particulier Saint Ambroise et Saint Augustin, le premier devoir de l’empereur chrétien c’est de faire régner la loi de Dieu ce qui veut dire donner l’exemple à ses sujets en la respectant lui-même. 
 - Si le prince est « le bien aimé de Dieu » c’est seulement dans la mesure où il se conduit bien. 
-
-%%
-1. Saint Paul et l'origine divine du pouvoir : Au Ier siècle, l'apôtre Paul a enseigné que le pouvoir politique avait une origine divine. Selon lui, les autorités gouvernementales étaient établies par Dieu et devaient être respectées en tant que telles.
-
-2. Légitimation de l'empereur : Au IVe siècle, certains évêques chrétiens ont interprété cette origine divine du pouvoir pour inclure l'empereur lui-même. Ils ont soutenu que l'empereur avait reçu son pouvoir directement de Dieu, ce qui a contribué à légitimer son autorité et à renforcer son statut.
-
-3. La doctrine de la monarchie de droit divin : L'idée que l'empereur avait reçu son pouvoir de Dieu a jeté les bases de la doctrine de la monarchie de droit divin. Cette doctrine stipulait que le souverain était choisi par Dieu et avait une mission spécifique, celle de faire régner la justice. Cependant, cela ne signifiait pas que le prince pouvait gouverner de manière arbitraire, car il était toujours soumis à la loi divine.
-
-5. La responsabilité de l'empereur chrétien : Selon les grands théologiens chrétiens des IVe et Ve siècles, tels que saint Ambroise et saint Augustin, l'empereur chrétien avait le devoir de faire respecter la loi de Dieu. Cela signifiait qu'il devait donner l'exemple en respectant lui-même cette loi et en veillant à ce que ses sujets fassent de même.
-
-6. Le rôle de l'empereur dans la justice : L'empereur était considéré comme ayant une responsabilité particulière dans l'établissement de la justice. En tant que dirigeant chrétien, il devait s'efforcer de promouvoir la justice et de créer un environnement où la loi de Dieu serait respectée.
-%%
 
 #### C / Un empereur tout puissant 
 

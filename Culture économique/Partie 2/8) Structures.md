@@ -1,4 +1,4 @@
-5 Externalités positives et négatives
+### 5. Externalités positives et négatives
 
 On dit qu’il y a externalité lorsque l’activité de consommation ou de production d’un agent a une influence sur le bien-être d’un autre sans que cette interaction ne fasse l’objet d’une transaction économique.
 

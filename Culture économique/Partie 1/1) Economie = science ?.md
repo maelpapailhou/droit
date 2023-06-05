@@ -1,8 +1,10 @@
+%%
 L'économie est considérée comme **une science sociale qui étudie les comportements économiques** des *individus, des entreprises et des gouvernements* en utilisant des **méthodes scientifiques telles que des modèles économiques et des données empiriques**. 
 
 Cependant, l'économie diffère des sciences naturelles en raison de la complexité des phénomènes économiques et de l'influence des facteurs politiques et culturels. 
 
 La scientificité d'une théorie en économie dépend de **sa falsifiabilité**, c'est-à-dire de sa **capacité à être réfutée par des observations ou des expériences.**
+%%
 
 ---
 Peut-on dire que l’économie est une Science ?
@@ -25,7 +27,7 @@ L’analyse économique se fonde donc largement sur une démarche hypothétic
 
 Enfin, les théories peuvent également être vérifiées et remises en cause grâce à l’observation des faits dans une démarche inductive.
 
-**OpenAI**
+%%
 L'économie est considérée comme une science sociale. Elle se concentre sur l'étude des comportements des individus, des entreprises et des gouvernements en matière d'offre et de demande, de production, de consommation et d'échanges. Les économistes utilisent des modèles économiques et des données empiriques pour étudier les phénomènes économiques, formuler des hypothèses et des prévisions, et pour évaluer les effets des politiques économiques.
 
 Cependant, l'économie diffère des sciences naturelles comme la physique ou la biologie, car elle traite de sujets plus complexes et les données économiques sont souvent moins facilement quantifiables et prévisibles. De plus, les résultats de la recherche économique peuvent être influencés par des facteurs politiques et culturels. Cela signifie que l'économie ne peut pas toujours fournir des réponses claires et définitives aux problèmes économiques, et que les opinions et les valeurs personnelles peuvent jouer un rôle important dans les choix économiques et politiques.

@@ -6,11 +6,8 @@ Les économistes classiques ont également **défendu la liberté économiq
 
 Les principaux économistes classiques sont :
 -   Adam Smith qui a écrit "La Richesse des nations" (1776)
-    
 -   David Ricardo qui a écrit "Principles of Political Economy and Taxation" (1817)
-    
 -   Thomas Malthus qui a écrit "An Essay on the Principle of Population" (1798)
-    
 -   Jean Baptiste Say qui est l'auteur de la distinction tripartite « production – répartition – consommation » (1817)
 
 Les économistes classiques ont défendu l'idée que **les forces du marché, comme la concurrence et la loi de l'offre et de la demande**, permettraient à l'**économie de fonctionner de manière optimale et d'atteindre un état d'équilibre**.

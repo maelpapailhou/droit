@@ -1,4 +1,4 @@
-3. Pouvoir des acteurs et structures des marchés
+### 3. Pouvoir des acteurs et structures des marchés
 
 Lorsqu’on étudie les structures de marché dans lesquels le nombre d’acteurs est faible, on observe que les entreprises peuvent avoir un effet sur le prix :
 
@@ -23,11 +23,8 @@ Dans ce cas l’hypothèse d’atomicité des protagonistes n’est pas véri
 Par exemple :
 
 -   Lorsqu’il y a un vendeur unique sur un marché, on parle de monopole;
-    
 -   un acheteur unique de monopsone;
-    
 -   tandis qu’un marché avec deux entreprises est un marché de duopole.
-    
     Les marchés en situation de duopole (deux entreprises) ont été très étudiés dans la micro- économie traditionnelle parce qu’ils permettent de décrire assez facilement les interactions stratégiques entre entreprises.
 
 On distingue différents cas de duopole en fonction de la nature même de la concurrence entre les deux entreprises :
@@ -44,7 +41,7 @@ S’il y a libre-entrée sur ce marché, la possibilité de réaliser des pr
 
 Lorsque les profits deviennent trop faibles (ou nuls théoriquement), les entrées sur le marché cessent.
 
-4. Discrimination par les prix
+### 4. Discrimination par les prix
 
 On a jusqu’à maintenant sous-entendu que tous les demandeurs d’un produit achetaient l’unité du bien en question à un prix unique.
 

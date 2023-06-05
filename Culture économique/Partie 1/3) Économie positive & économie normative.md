@@ -8,7 +8,7 @@ Il est important de noter que les économistes peuvent **utiliser des méthode
 En somme l'économie positive se concentre sur l'analyse des faits, tandis que l'économie normative se concentre sur l'analyse des opinions et des préférences
 
 ---
-**OpenAI**
+%%
 L'économie peut être abordée de deux manières différentes : une approche normative et une approche positive.
 
 L'approche normative en économie cherche à **définir ce qui est "bien" ou "mauvais" en matière économique** et à **formuler des recommandations sur la manière dont les choses devraient** être. 
@@ -29,3 +29,4 @@ Voici quelques exemples pour illustrer la différence entre l'approche normative
 	- Ils pourraient également étudier les effets de cette politique économique sur la rentabilité des entreprises, la productivité et la compétitivité.
 -   Un autre exemple pourrait être l'étude des choix de consommation des ménages. L'approche normative pourrait se concentrer sur la question de savoir si les ménages devraient consommer plus de fruits et légumes frais plutôt que des aliments transformés. Les économistes qui adoptent cette approche pourraient formuler des recommandations en matière de politique publique pour encourager les ménages à adopter des habitudes alimentaires plus saines.
 -   En revanche, l'approche positive pourrait se concentrer sur la question de savoir comment les ménages prennent réellement leurs décisions de consommation. Les économistes qui adoptent cette approche pourraient étudier les facteurs qui influencent les choix alimentaires des ménages, tels que les préférences personnelles, les contraintes budgétaires et les facteurs socio-économiques. Ils pourraient également examiner les effets des politiques publiques sur les choix alimentaires des ménages, en se basant sur des données empiriques pour évaluer l'impact réel de ces politiques.
+%%

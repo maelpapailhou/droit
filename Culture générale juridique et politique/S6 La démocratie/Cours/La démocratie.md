@@ -46,7 +46,7 @@ On peut attribuer à ce principe libéral 4 sous principes ;
 2. L’**égalité fondamentale entre les Hommes** : TOUT les hommes et toutes les femmes ont les mêmes droits ( intangible, permanent ) quelque soit leurs identités ( genre religion sexe.... ).
 
 3. La **démocratie est censé garantir la liberté**, elle promeut le concept de liberté avec l’idée que cette liberté est *quelque chose de souhaitable pour la société*.  
-	On va favoriser justement les mobilisations du moins on ne va pas les contraindre et les interdire. C’est l’idée que en protégeant la liberté des individu, on garantit le pouvoir politique lui même.
+	On va favoriser justement les mobilisations du moins on ne va pas les contraindre et les interdire. C’est l’idée que en **protégeant la liberté des individu, on garantit le pouvoir politique lui même**.
 	Cette liberté est donc favorable au pouvoir politique
 
 4. **L’État de droit**, un droit qui va s’appliquer à tous et à toutes mais un droit qui va aussi s’appliquer à l’État, à ceux qui nous gouverne. C’est ce qui va permettre le **contrôle et la limitation du pouvoir des personnes qui nous gouvernent**.
@@ -128,6 +128,6 @@ A travers cette phrase il établie une hiérarchie entre les différents ré
 
 #### IV. Les catégories de régimes aux frontières poreuses
 
-L’Histoire nous démontre plutôt non pas l’existence de régimes démocratiques ou de régimes autoritaires mais plutôt l’existence de régimes hybrides c’est à dire des régimes qui varient entre des épisodes démocratiques et des épisodes autoritaires. 
+L’Histoire nous démontre plutôt non pas l’existence de régimes démocratiques ou de régimes autoritaires mais plutôt l’**existence de régimes hybrides** c’est à dire des régimes qui varient entre des épisodes démocratiques et des épisodes autoritaires. 
 
 Aujourd’hui en science politique on utilise plutôt ce concept de régime hybride, justement pour souligné la porosité des frontières entres les démocraties et les autoritarismes. Plutôt que de parler de régime démocratique ou de régime autoritaire on va plutôt observer concrètement l’exercice du régime politique ( regarder son fonctionnement concret et son quotidien ).

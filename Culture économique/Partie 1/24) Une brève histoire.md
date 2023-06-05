@@ -35,19 +35,12 @@ Les écrits des économistes écologistes exercent une influence croissante s
 Il existe de nombreux courants de pensée économique, chacun ayant ses propres idées et perspectives sur la façon dont l'économie devrait être gérée :
 
 -   L'économie mercantiliste considère le commerce international comme « un jeu à somme nulle » , défend le protectionisme et soutien l’intervention de l’Etat dans l’économie.
-    
 -   L’économie des Physiocrates s’oppose aux mercantilistes sur le commerce international et prône le libéralisme interne comme externe, soutient la propriété privée et que seule l’agriculture est productrice de richesses.
-    
 -   L'économie classique est basée sur l'idée que l'économie est auto-régulatrice et que les marchés sont efficaces.
-    
 -   L'économie keynésienne soutient que l'intervention gouvernementale peut améliorer les performances économiques en stimulant la demande globale.
-
 -   L'économie libérale prône une moindre intervention de l'Etat et une plus grande liberté économique pour les individus et les entreprises.
-    
 -   L'économie marxiste critique la propriété privée des moyens de production et propose une société sans classes.
-    
 -   L'économie écologiste met en avant l'importance de la durabilité et de la protection de l'environnement.
-    
 -   L'économie féministe critique les inégalités de genre dans l'économie et dans les politiques économiques.
-    
+
     Ce ne sont que quelques-uns des courants de pensée économique les plus importants et il en existe beaucoup d'autres.

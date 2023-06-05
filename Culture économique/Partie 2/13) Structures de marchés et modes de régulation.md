@@ -1,7 +1,5 @@
 
-Structures de marchés et modes de régulation
-
-Monopole naturelle
+### Monopole naturelle
 
 Un monopole naturel se produit lorsqu'une entreprise est capable de fournir un bien ou un service à une échelle plus efficace et à un coût plus bas que ses concurrents potentiels.
 
@@ -9,15 +7,7 @@ Cela peut être dû à des économies d'échelle importantes qui sont diffi
 
 Mais il demeure des surplus inhérents à la position de monopole qui se font au détriment de l’intérêt général et du bien-être des consommateurs.
 
-6.
-
-Quelle solution a été choisie pour répondre à ce problème ?
-
-164
-
-Structures de marchés et modes de régulation
-
-Monopole naturelle
+### Quelle solution a été choisie pour répondre à ce problème ?
 
 En France, après la seconde guerre mondiale, l’État a décidé de mettre en place des monopoles institutionnels dont l’objectif était de fournir au plus grand nombre des services à des prix abordables, tout en sauvegardant la rentabilité des entreprises : le prix fixé par la loi n’était pas égal au coût marginal de concurrence parfaite, mais au coût moyen, ce qui permet d’amortir les coûts fixes tout en offrant le service au plus grand nombre.
 
@@ -25,17 +15,7 @@ La tarification au coût moyen, dite tarification à la Ramsey-Boiteux, revena
 
 Dans cette configuration, l’État lui avait deux rôles distincts : (i) propriétaire, il est l’actionnaire unique du monopole et (ii) régulateur, il est garant de l’intérêt général.
 
-6.
-
 Ces deux objectifs sont atteints grâce à la tarification au coût moyen!
-
-165
-
-Structures de marchés et modes de régulation
-
-6.
-
-Monopole naturelle
 
 Aujourd’hui, l’Union européenne souhaite que ses États membres passent à un nouveau système, un système dit de fourniture des mêmes services mais en situation de concurrence.
 
@@ -47,13 +27,9 @@ Au Royaume-Uni, l’application de ce principe est revenue à démanteler le m
 
 La France, s’est davantage orienté vers la conservation des monopoles historiques tout en faisant émerger des concurrents nouveaux.
 
-166
+Quels sont les bénéfices d’un abandon du monopole naturel ? 
 
-Structures de marchés et modes de régulation
-
-Monopole naturelle
-
-Quels sont les bénéfices d’un abandon du monopole naturel ? La concurrence, si elle est correctement mise en place, permet de :
+La concurrence, si elle est correctement mise en place, permet de :
 
  Stimulerlesentreprisesd’unsecteur;  Améliorerlaqualitéduservicerendu;  Et/ouabaisserleurscoûtsdeproduction;  Accroissementdusurplusdesconsommateurs.
 

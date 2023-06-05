@@ -25,13 +25,9 @@ Il est important de noter que ces courants de pensée ne sont pas étanches et
 Les économistes mercantilistes les plus importants de l'époque sont:
 
 -   Thomas Mun (1571-1641) qui a écrit "England's Treasure by Forraign Trade" (1664)
-    
 -   Antoine de Montchrétien (1575-1621) qui a écrit "Traité de l'économie politique" (1615)
-    
 -   Jean-Baptiste Colbert (1619-1683) qui était le ministre des finances de Louis XIV en France et qui a mis en place des politiques mercantilistes pour développer les industries françaises.
-    
 -   Josiah Child (1630-1699) qui a écrit "A New Discourse of Trade" (1668)
-    
     Il y a eu d'autres économistes mercantilistes (William Petty / Jean Bodin), mais ceux-ci sont considérés comme les principaux représentants de cette école de pensée. Leur théorie a été critiquée par les économistes classiques pour son manque d'analyse des coûts, des bénéfices des échanges commerciaux et pour son manque de compréhension des avantages comparatifs.
-    
+
 
