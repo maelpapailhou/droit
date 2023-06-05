@@ -530,9 +530,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "88d0e1789c8d4d63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture générale juridique et politique/S4 La laïcité/Révisions/Sujet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 43
+        "currentTab": 44
       }
     ],
     "direction": "vertical"
@@ -598,7 +610,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Culture générale juridique et politique/S14 Le vote/Cours/Le vote.md",
+                "file": "Culture générale juridique et politique/S4 La laïcité/Révisions/Sujet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -615,7 +627,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Culture générale juridique et politique/S14 Le vote/Cours/Le vote.md",
+                "file": "Culture générale juridique et politique/S4 La laïcité/Révisions/Sujet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -638,7 +650,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Culture générale juridique et politique/S14 Le vote/Cours/Le vote.md"
+                "file": "Culture générale juridique et politique/S4 La laïcité/Révisions/Sujet.md"
               }
             }
           }
@@ -659,8 +671,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "678fc8438add7167",
+  "active": "88d0e1789c8d4d63",
   "lastOpenFiles": [
+    "Culture générale juridique et politique/S4 La laïcité/Cours/La Laïcité.md",
+    "Culture générale juridique et politique/S4 La laïcité/Révisions/Sujet.md",
+    "Culture générale juridique et politique/S4 La laïcité/Aller plus loin/Marcel Gauchet, La religion dans la démocratie - parcours de la laïcité, 2001..md",
     "Histoire des institutions/Partie 1 Le droit romain/Chapitre 1 - L’évolution et l’organisation politique.md",
     "Histoire des institutions/Partie 1 Le droit romain/Chapitre 2 - Le droit de la République.md",
     "Histoire des institutions/Partie 1 Le droit romain/_Préambule.md",
@@ -685,10 +700,7 @@
     "Culture générale juridique et politique/S10 Le mérite/Aller plus loin/Thomas Piketty , Capital et idéologie.md",
     "Culture générale juridique et politique/S10 Le mérite/Aller plus loin/Yves Michaud, Qu’est-ce que le mérite?.md",
     "Culture générale juridique et politique/S10 Le mérite/Aller plus loin/Pierre Bourdieu et Jean-Claude Passeron, La reproduction..md",
-    "Culture générale juridique et politique/S10 Le mérite/Aller plus loin/A. Girard (sous la dir. ), Réussite sociale en France, Presses universitaires France, Paris, 1961..md",
     "Culture générale juridique et politique/S10 Le mérite/Sujets",
-    "Culture générale juridique et politique/S9 La propriété/Aller plus loin/Thomas Piketty, Capital et idéologie.md",
-    "Culture générale juridique et politique/S9 La propriété/Aller plus loin/CHAZAL (J-P.), « La propriété, dogme ou instrument politique ? Ou comment la doctrine s’empêche de penser le réel », RTDciv, N°4, 2014..md",
     "Droit des personnes/Axe 1 - Personnes physiques",
     "Culture générale juridique et politique/S6 La démocratie/Sujets",
     "Culture générale juridique et politique/S5 L'Etat/Sujets",
