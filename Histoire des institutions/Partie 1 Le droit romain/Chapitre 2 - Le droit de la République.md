@@ -10,6 +10,18 @@ Les pontifes on d’abord eu la maîtrise du calendrier judiciaire en détermina
 
 Les pontifes se sont inspirés de la religion pour le calendrier judiciaire. Ils ont la maîtrise de la procédure dans la mesure où ils détiennent les formules précisent que les plaideurs doivent prononcer à peine de nullité pour attenter à un procès ou pour conclure un acte juridique. Chez les romains la formule est fondamentale. Tite-Live, historien dit ceci : « le droit civil était caché dans le sanctuaire des pontifes ». En effet, tout ces prêtres étaient d’origine patricienne et donc, il détenais la révélation des formules judiciaires tout comme la fixation du calendrier judiciaire. C’est la raison pour laquelle la plèbe n’auront de cesse que d’exiger la connaissance des formules judiciaire, il faudra attendre la fin du IVe siècle pour qu’ils puissent eux aussi obtenir la connaissance des textes. La plèbe obtiendra aussi d’autre victoire notamment avec l’institution du tribunat qui va limiter la toute puissance des consuls en donnant aux grandes règles du droit civil une base légale. 
 
+%%
+Au départ, dans la Rome antique, le roi était étroitement lié à la religion, et les règles étaient considérées comme étant d'origine divine. Les normes religieuses étaient désignées par le terme "fas", représentant ce qui était permis selon la volonté des dieux, tandis que le "nefas" désignait ce qui était interdit.
+
+Toutefois, les Romains ont rapidement distingué le domaine du "fas", relevant de la sphère religieuse, de celui du "jus", correspondant au droit humain. Cette distinction fondamentale a libéré le droit de son caractère exclusivement religieux et a permis son développement autonome. Malgré cette évolution, l'influence de la religion perdurait, notamment au début de la République romaine, où un collège de prêtres appelés les pontifes exerçait un contrôle important sur la vie juridique.
+
+Les pontifes avaient d'abord la maîtrise du calendrier judiciaire, déterminant les jours "fastes", propices aux procès conformément au "fas", et les jours "néfastes", où les procès étaient interdits selon le "nefas". Ces termes sont encore utilisés aujourd'hui pour désigner des jours favorables ou défavorables. De plus, les pontifes détenaient les formules précises que les plaideurs devaient prononcer lors des procès, sous peine de nullité. Ainsi, la procédure et les formules judiciaires étaient également influencées par la religion.
+
+Les pontifes, tous issus de la classe patricienne, étaient les seuls à avoir la connaissance de ces formules judiciaires et à fixer le calendrier judiciaire. Par conséquent, la plèbe, composée des citoyens romains non patriciens, revendiqua la connaissance de ces formules et d'autres droits. Ce n'est qu'à la fin du IVe siècle avant notre ère que la plèbe parvint à obtenir l'accès aux textes juridiques. Elle remporta également d'autres victoires, telles que l'institution du tribunat, qui limita le pouvoir absolu des consuls en donnant une base légale aux grands principes du droit civil.
+
+Ainsi, la distinction entre le "fas" et le "jus" a permis la séparation du droit de la sphère religieuse et a ouvert la voie au développement autonome du droit civil romain. Cette évolution a été marquée par la lutte entre les patriciens et la plèbe pour l'accès à la connaissance juridique et pour l'établissement d'un cadre législatif plus équitable.
+%%
+
 ### II / La loi des Douze Tables 
 
 C’est le premier et le plus prestigieux des monuments juridique de Rome. Il constitue le fondement du droit civil, celui réserver aux citoyens. Cette loi va être entourée par une grande vénération jusqu’à la fin de l’Empire. D’après la tradition romaine, la rédaction de la loi, c’est le résultat d’une campagne  politique menée par un tribun de la plèbe vers 462av JC. Il s’agissait de rédiger des lois sur l’imperium consulaire afin de réduire le pouvoir du prince. Les patriciens ont résister aa année aux pressions de plébéiens et finalement, ils ont acceptés en 454av JC que soit mis en place une magistrature extraordinaire constituée par un collège de 10 hommes, les decemvirs. Ces derniers sont chargés de rédiger des lois au sujet de l’imperium des consuls. Le résultat c’est qu’en 451 av JC, ont été rédigé les 10 premières tables complétées l’année suivante par les deux dernières tables. Ces tables étaient des panneaux de pierre sur lesquelles étaient transcrite des dispositions du droit et elles étaient affichées sur le forum où tous les citoyens pouvait les lire ou se les faire lire. Elles ont été détruite à plusieurs reprise notamment lors de la prise de Rome par les Gaulois. Elles auraient été remplacée par des panneaux de bronze mais dans tous les cas, lorsqu’il y a eu le saque de Rome, tout à disparu. Ces lois ne nous sont pas parvenue de manière tangible cependant, on a pu les reconstituer à partir de citations qu’on fait la littérature postérieure. 
@@ -17,6 +29,16 @@ C’est le premier et le plus prestigieux des monuments juridique de Rome. Il co
 La loi des Douze Table recensent une série de questions concrètes à propos desquelles elle donne aux particuliers « des actions », c’est à dire la possibilité dans certaines conditions de se faire rendre justice dans un procès. Ainsi, chaque fois que les conditions énoncée par la loi sont réunies, tout citoyen peut agir en demandant à un magistrat de bénéficier d’un procès. Dès lors que ce procès est bien fondé sur une action de la loi, on ne peut pas lui refuser le procès. Ainsi prend fin l’arbitraire judiciaire des consuls qui jusque là appréciaient au cas par cas la suite à, donner à une demande. En d’autres termes, chaque fois que la loi à prévu une action, le magistrat est obligé de désigner un juge qui « dira le droit » dans le cadre de la loi. 
 
 Cette loi des Douze Tables est une loi publique, égal pour tous les citoyens qui s’impose aux magistrats et qui limite leur imperium judiciaire. On peut donc dire que cette loi est une véritable révolution dans la procédure d’adoption de la loi elle-même. Et qui donne un large pouvoir au peuple romain qui avec ça va avoir le dernier mot. La loi des Douze Table c’est vraiment la première des lois votée par le peuple.
+
+%%
+La loi des Douze Tables est considérée comme le premier et le plus important monument juridique de Rome. Elle a constitué le fondement du droit civil réservé aux citoyens romains et a été vénérée jusqu'à la fin de l'Empire. Selon la tradition romaine, sa rédaction est le résultat d'une campagne politique menée par un tribun de la plèbe vers 462 av. J.-C. L'objectif était de rédiger des lois concernant l'imperium consulaire afin de limiter le pouvoir des consuls. Les patriciens ont résisté pendant plusieurs années aux pressions des plébéiens, mais finalement, en 454 av. J.-C., ils ont accepté la mise en place d'une magistrature extraordinaire composée d'un collège de dix hommes, les decemvirs. Ces derniers avaient pour mission de rédiger des lois concernant l'imperium des consuls.
+
+Le résultat fut la rédaction des dix premières tables en 451 av. J.-C., complétées l'année suivante par les deux dernières tables. Ces tables étaient des panneaux de pierre sur lesquels étaient inscrites des dispositions juridiques, et elles étaient affichées sur le forum pour que tous les citoyens puissent les lire ou se les faire lire. Elles ont été détruites à plusieurs reprises, notamment lors de la prise de Rome par les Gaulois. On pense qu'elles ont été remplacées par des panneaux de bronze, mais dans tous les cas, tout a disparu lors du sac de Rome. Les textes de ces lois ne nous sont pas parvenus de manière tangible, mais nous avons pu les reconstituer à partir de citations présentes dans la littérature ultérieure.
+
+La loi des Douze Tables recense une série de questions concrètes auxquelles elle accorde aux individus des "actions", c'est-à-dire la possibilité, dans certaines conditions, d'obtenir justice lors d'un procès. Ainsi, chaque fois que les conditions énoncées par la loi sont réunies, tout citoyen peut engager une action en demandant à un magistrat de bénéficier d'un procès. Une fois que ce procès est bien fondé sur une action prévue par la loi, il ne peut pas être refusé. Ainsi, prend fin l'arbitraire judiciaire des consuls qui, jusqu'alors, appréciaient au cas par cas s'ils devaient donner suite à une demande. En d'autres termes, chaque fois que la loi prévoit une action, le magistrat est tenu de désigner un juge qui "dira le droit" conformément à la loi.
+
+La loi des Douze Tables est une loi publique, applicable à tous les citoyens, qui s'impose aux magistrats et limite leur pouvoir judiciaire (imperium). On peut donc dire que cette loi a marqué une véritable révolution dans la procédure d'adoption de la loi elle-même. Elle confère un pouvoir important au peuple romain, qui a ainsi le dernier mot. La loi des Douze Tables est véritablement la première loi votée par le peuple et constitue un élément essentiel du développement ultérieur du droit romain.
+%%
 
 ### III / Les lois votées par le peuple
 
@@ -43,6 +65,32 @@ On admet que la loi puisse être abolie avec le temps, la désuétude : une long
 La coutume a joué un très grand rôle dans les provinces parce que les romains n’ont jamais cherché à imposer leur droit au peuple vaincu. 
 
 Le droit civil est réservé aux citoyens dans la cité, quant aux autres (étrangers), ils peuvent conserver leurs droits propres : souvent droit coutumier. 
+
+%%
+Avant la rédaction des Douze Tables, le droit romain continuait à évoluer, et lorsqu'il fallait établir de nouvelles règles, c'était le peuple (constitué en comices) qui s'en chargeait.
+
+A. Le vote de la loi :
+
+Nous nous concentrons sur les lois ordinaires à Rome, appelées "lois demandées". Ce sont des lois dont le vote est demandé, et ce sont les magistrats supérieurs (possédant l'imperium) qui ont l'initiative de proposer ces lois. Le projet de loi, rédigé par un consul ou un préteur, est soumis à l'assemblée du peuple. Au début de la République, et jusqu'à environ 339 av. J.-C., la loi votée par le peuple devait ensuite être approuvée par le Sénat pour être exécutoire. À partir de 339 av. J.-C., le Sénat perd le pouvoir de décision finale, et le dernier mot revient désormais au peuple. Le vote des comices est populaire, mais il convient de noter que les modalités d'expression des suffrages donnent une prépondérance aux citoyens les plus riches. En réalité, la démocratie romaine n'était qu'un écran de fumée pour une oligarchie.
+
+Une fois la loi votée, elle est promulguée par le magistrat qui préside l'assemblée, puis elle est gravée sur une table de marbre.
+
+B. La sanction de la loi :
+
+Contrairement à aujourd'hui, où toutes les lois ont généralement la même valeur et sont obligatoires, à Rome, toutes les lois n'avaient pas la même sanction. La formule finale de la loi indiquait comment les éventuelles violations du nouveau texte seraient réprimées. Certaines lois étaient dépourvues de sanctions et étaient appelées "lois imparfaites". Dans d'autres cas, la loi pouvait prévoir la sanction la plus forte : la nullité absolue de l'acte commis en violation de ces prescriptions, appelées "lois parfaites". Les juristes reconnaissaient également l'existence de lois "moins que parfaites", qui ne prononçaient pas la nullité des actes qui les méconnaissaient, mais infligeaient au contrevenant diverses pénalités pécuniaires.
+
+L'existence de lois imparfaites illustre bien ce que les sociologues du droit appellent l'ineffectivité des règles, car elles sont en quelque sorte acceptées à l'avance par le législateur. Cela s'explique par les réticences des comices à voter une loi de principe, mais pas plus. À Rome, la loi était un moyen plutôt exceptionnel de créer du droit, surtout en matière de droit privé.
+
+C. La loi et la coutume :
+
+Bien que la loi ait été l'expression la plus élevée du droit civil pendant un certain temps, l'activité législative du peuple n'a jamais été très intense. En réalité, la loi était un acte grave et rare, et on ne la galvaudait pas. Pendant toute la période de la République, sur environ cinq siècles, on compte environ 800 lois, dont la plupart concernent le droit public. Seulement 24 lois portent sur des questions de droit privé. Pour le reste, la grande majorité des règles régissant les relations entre particuliers, telles que la famille, relevaient du domaine de la coutume (mos maiorum). Lorsque le droit devint plus complexe, les juristes utilisèrent le terme de "consuetudo" pour désigner la coutume, c'est-à-dire le droit qui, sur une longue période, était devenu obligatoire par la volonté de tous, sans intervention de la loi. La coutume jouait un rôle important dans la vie juridique des Romains, notamment dans les domaines suivants :
+
+- On admettait que la loi pouvait être abolie avec le temps par désuétude, c'est-à-dire qu'une longue coutume négative pouvait faire disparaître la loi.
+- La coutume jouait un rôle prépondérant dans les provinces, car les Romains ne cherchaient pas à imposer leur droit aux peuples vaincus.
+- Le droit civil était réservé aux citoyens de la cité, tandis que les étrangers pouvaient conserver leurs propres droits, souvent régis par le droit coutumier.
+
+Ainsi, la coutume était une source de droit majeure dans la société romaine, notamment dans le domaine du droit privé.
+%%
 
 ## Section 2 : les transformations du droit à la fin de la République
 

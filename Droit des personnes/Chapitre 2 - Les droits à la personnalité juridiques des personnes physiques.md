@@ -1,4 +1,3 @@
-
 Les droit réels : les droits qui s’exercent sur une chose. Ex : le droit de propriété (usus, abusus, fructus).  Les démembrements du droit de propriété fait aussi parti des droits réels, on peut avoir un seul ou deux éléments (ex: usus et fructus = usufruit). Lien entre une personne et une chose 
 
 Les droits personnels ou droit de créance : à ne pas confondre avec les droits de la personnalité : il s’agit d’un lien qui unit deux personnes entre elle : le créancier et le débiteur. 
@@ -17,69 +16,39 @@ Sur le fondement de cet article il faudra prouver un triptyque : la faute, le do
 
 La jurisprudence française interne à d’abord mobilisé le droit de la responsabilité civile extra-contractuelle pour assurer la protection des droits de la personnalité mais par la suite, elle a découvert un autre fondement pour protéger ces droits parce que les exigence de la responsabilité civile extra-contractuelle en terme de preuve étaient importantes et les pouvoirs d’injonctions et de prévention du juge était limité dans ce cadre. C’est ainsi qu’on est passé de la protection fondé sur la responsabilité civile extra-contractuelle à une protection sur le fondement de l’article 9 du Code Civil. : article consacré par la loi du 17 juillet 1970 : on peut obtenir la réparation d’une atteinte à la vie privée sans qu’il soit nécessaire de démontrer l’existence d’un préjudice. Article 9 alinéa 2 : permet des sanctions de nature à faire cesser le trouble pour l’avenir. Le juge peut prescrire en référé une saisie, une mesure de séquestre, on peut avoir l’insertion d’une décision de condamnation, la suppression de passages litigieux. 
 
-  
-
-  
-
 Responsabilité civile : 
 
 Responsabilité pénale : 
 
-  
-
 ### Section 1 : La diversité des droits de la personnalité
-
-  
 
 Les droits de la personnalité sont des droits qui permettent à toutes personnes d’obtenir des autres, la reconnaissance et le respect de sa personne et de son individualité. Les droits qui vont permettre d’obtenir une protection de l’intégrité physique et morales
 
-  
-
 #### I / Le droit à la protection de l’intégrité physique. 
-
-  
 
 Le droit à l’intégrité physique comprend deux facettes, le droit à la protection de la vie humaine et ensuite le droit à la protection du corps humain. En droit français la nature juridique du corps humain a fait l’objet de nombreuses controverses. Le corps humain est-il une chose protégée ou est-il la personne elle-même ? On se demande si il faut penser la relation de la personne à son corps par le biais de l’être ou par de l’avoir. Aujourd’hui on a tendance à considérer que le corps est une chose bénéficiant d’une protection particulière en ce qu’il est étroitement lié à la personne et il est hors commerce juridique (interdiction de la GPA en France). La prostitution n’est pas interdit en France, on pénalise les clients. La protection du corps humain, de l’intégrité s’effectue évidemment du vivant de la personne. Cette protection va aussi se prolonger après le décès. 
 
-  
-
- ##### A / La protection du corps humain de son vivant 
-
-  
+##### A/ La protection du corps humain de son vivant 
 
 2 principes généraux sont affichés dans le Code Civil : La garanti de la primauté de la personne (sa dignité) / Le respect du corps, de l’intégrité corporelle. 
-
-  
 
 L’article 16 du Code Civil garanti la primauté de la personne et prohibe les atteintes à sa dignité. En conséquence, l’esclavage, la torture, sont interdit par nos Codes. Le code Pénal : article 222-1 qui prohibe la tortue et les actes de barbarie, ce sont des crimes et sont à minima 15 ans de réclusion criminelle. Protection internationale des atteintes à la personne, à sa dignité : la Convention Européenne des droits de l’Homme : article 3 répond prohibe torture et traitements inhumains
 
 Le droit à la vie est garanti par la CEDH : article 2
 
-  
-
 Le principe général de dignité de la personne humaine est apparu en droit français à la faveur d’une décision du Conseil Constitutionnel : la décision du 27 juillet 1994 : les premières loi de bioéthique. Le Conseil Constitutionnel à formalisé le principe de dignité de la personne humaine => ce principe doit avoir une valeur constitutionnelle. 
-
-  
 
 Affaire du conseil d’Etat du 27 octobre 1995 : l’affaire dite du lancer de nain : même si la personne l’a consenti elle ne peut pas car c’est une atteinte, le Conseil d’Etat refuse le jeu de la volonté individuelle sous prétexte que les fait porterai atteinte à la dignité de la personne humaine différente. 
 
 Affaire tranchée par la Cour d’appel de Paris le 28 mai 1996 : l’affaire Benetton : HIV positive : présentation dans la pub : les corps humains était tatoué HIV positive => interdiction de ce spot publicitaire qui portait atteinte à la personne humaine. 
 
-  
-
 La dignité irrigue aujourd’hui tout le droit des personnes français. C’est une notion qui reste globalement insaisissable : on ne veut pas la figée, elle est évolutive. Elle va dépendre de l’époque, de la société considérée, à un moment donnée. 
 
 La dignité est une notion instrumentalisée, elle peut permettre de justifier tout et son contraire. On va au nom de la dignité « prolongé » une partie de la personnalité juridique après décès. Au nom de la dignité on porte des revendications en faveur de l’euthanasie et le législateur jusqu’à présent les refuses. 
 
-  
-
 L’article 16-1 du Code Civil va reconnaître le droit pour tout individus au respect de son corps, de son intégrité corporelle. Ces deux grands principes vont être complétés par deux règles fondamentales : la règle de l’inviolabilité du corps humain et l’indisponibilité du corps humain. 
 
-  
-
 L’inviolabilité envisage les atteintes au corps causés par un tiers. L’indisponibilité envisage les atteinte au corps causés par la personne elle même. 
-
-  
 
 Inviolabilité, la règle est posée à l’article 16-1 alinéa 2, elle a généré une protection de la vie et du corps humain à la fois au plan pénal et au plan civil. Au plan pénal, les atteintes à la vie (les homicides volontaires ou les homicides involontaires).  On a également au plan pénal des atteintes à l’intégrité de la personne (les violences, les agressions sexuelles, les tortures et actes de barbarie). Protection par le droit pénal. 
 
@@ -87,21 +56,13 @@ Au plan civil naturellement les atteintes au corps humain sont sanctionnés. Cec
 
 - en application de l’article 16-11 alinéa 3 du Code Civil est interdite l’identification d’une personne par ses empreintes génétiques sans le consentement de celle-ci. Mais, il en va différemment lorsqu’une enquête pénale est ouverte. La jurisprudence va articuler le principe de l’inviolabilité du corps humain avec des réponses attendues par les justiciables. Article 11 alinéa 1 du Code de procédure civile : le juge peut tirer toute les conséquences qu’il souhaite d’un refus de se soumettre à une expertise médicale, et peut donc l’interpréter comme un aveu. 
 
-  
-
 - Ce principe interdit de contraindre une personne à subir un traitement ou une intervention chirurgicale quand bien même ce traitement ou intervention pourrait avoir pour effet d’améliorer son état. L’article L-1111-4 du Code de la Santé Publique prévoit une disposition générale en matière de recueil du consentement du patient : toute personne prend avec le personnel de santé et compte tenu des informations et préconisations qu’il fournit, les décisions concernant sa santé, toute personne à le droit de refuser ou de ne pas recevoir un traitement. Le suivi du malade reste cependant assuré par le médecin et notamment son accompagnement palliatif.  Le médecin à l’obligation de respecter la volonté de la personne après l’avoir informé des conséquences de ses choix et de leur gravité. Si par sa volonté de refuser ou d’interrompre tout traitement la personne met sa vie en danger, la personne doit réitéré sa décision dans un délai raisonnable. Aucun acte médical, ne peut être pratiqué sans le consentement libre et éclairé. Ce consentement peut être retiré à tout moment. C’est ce que l’on appel le principe de co-décision : loi du 4 mars 2002 sur le droit des malades. Pendant très longtemps le principe paternaliste était appliqué en relation de soin. Principe de l’autonomie de la volonté. Auparavant avant la loi du 2 février 2016, le texte était dirigé différemment. Le médecin devait tout mettre en oeuvre pour convaincre son patient. En parallèle, notons l’obligation déontologique des médecins qui au terme de l’article R-4127-9 du Code de la Santé Publique : tout médecin qui se trouve en présence d’un malade ou d’un blessé en péril doit lui porter assistance ou s’assurer qu’il reçoit les soins nécessaires.  Cette obligation de porté secours se retrouve dans le Code Pénal : non assistance à personne en péril : article 223-6. Double obligation. Seul la nécessité médicale semble permettre une atteinte au corps humain sans le consentement de l’intéressé : article 16-3 du Code Civil. Les juges ont du se positionner. La question des témoins de Jéhovah : une jurisprudence contra legem s’est développée et permet de justifier une intervention médicale à laquelle le patient ou son représentant légal, s’est opposé si cette intervention permet de lui sauver la vie. Le refus des transfusions sanguine, en principe le corps médicale devrait respecter ce choix qu’il soit fait pour soi même ou les enfants, la jurisprudence, le conseil d’Etat dans un arrêt du 26 octobre 2001 a considérer que le médecin pouvait valablement passer outre le refus d’un patient d’être transfuser et de recevoir des soins si 4 conditions cumulatives étaient remplie : un pronostic vital en jeu, aucune autre alternative thérapeutique n’existe, les actes accomplis sont indispensable à la survie, les actes sont proportionnés à l’Etat. Par la suite, postérieurement à l’application de la loi 2002, en décision référée du 16 aout 2002, le Conseil d’Etat a fait injonction à un établissement hospitalier de ne pas procéder une transfusion sanguine sur une patiente qui l’avait refusé mais le Conseil d’Etat précise que cette injection cesserai de s’appliquer si la patiente venait à se trouver dans une situation extrême mettant en jeu son pronostic vital. Arrêt de la cour administrative d’appel de Nantes du 20 avril 2006 : la cour refuse d’accorder une réparation au titre du préjudice moral à une patiente qui était témoin Jéhovah qui avait été transfusée malgré son opposition, il est démontré que les transfusions étaient indispensable à sa survie. Quand le refus de soin concerne un adulte pour lui même on muscle l’argumentaire juridique. Cette position jurisprudenciel : arrêt du Conseil d’Etat du 20 mai 2022, dans un référé : l’équipe médical s’est écartée des instructions écrites dont le patient était porteur dès son admission à l’hôpital. On relève que les actes réalisés étaient indispensable à la survie du patient et proportionnés à son état alors qu’il était hors d’état d’exprimé sa volonté. En tout état de cause, le médecin peut se dispenser du consentement de l’intéressé quand il est hors d’état de la manifester à condition qu’il n’y ai pas de directive anticipée, pas de personnes de confiance ou qu’on soit face à une urgence. On peut également se dispenser du consentement de l’intéressé s’agissant des vaccinations obligatoires. Le Conseil d’Etat a été amener à se prononcer sur la question de conformité à notre droit de disposition pendant la vaccination obligatoire. Son argumentaire repose pour la validation sur des motifs de santé publique qui vont l’emporter sur le consentement individuel. Le Conseil d’Etat ne nie pas les complications éventuelles des vaccins mais qu’elles sont rares et que donc la balance bénéfice risque est positive. Arrêt du Conseil d’Etat du 26 novembre 2001 : obligation obligatoire des jeunes enfants : le Conseil d’Etat souligne que les dispositions qui vont rendre obligatoire la vaccination ont pour effet une atteinte limitée au principe d’inviolabilité et d’intégrité du corps humain mais elles sont mises en oeuvre dans le but d’assurer la protection de la santé, un principe constitutionnel garanti. Ces disposition ne porte pas atteinte au principe constitutionnel de dignité humaine. Loi du 30 décembre 2017 : 8 nouveaux vaccins obligatoire (11 au total) pour les jeunes enfants. Arguments mobilisés : l’insuffisance de la couverture vaccinale en France, la réapparition d’épidémie en France. Le consentement au soin prend une dimension particulière dans l’hypothèse des troubles psychiatriques, décret du 23 mars 2022 qui vient poser un nouveau cadre concernant isolement et contention des personnes atteinte de troubles psychiques : le Conseil Constitutionnel le 4 juin 2021 via une QPC a déclaré : si une personne est atteinte de troubles psychiatrique et qu’elle doit être placée à l’isolement pour une certaines durée sans son consentement, il faut une intervention d’un juge judiciaire : le juge des libertés et de la détention. 
-
-  
 
 - La cour de cassation a été saisi d’une demande d’avis rendu le 18 mai 2022 : règle de l’inviolabilité du corps humain. La personne n’a pas de droits absolu sur son corps, elle n’en ai que l’usufruitière. La propriété est composée de la nue propriété et de l’usufruit. Si la personne est propriétaire de son corps, elle peut en disposer jusqu’à le détruire. Ce n’est pas véritablement l’approche du droit français puisqu’on considère que la personne doit assurer la conservation de son corps. Une personne ne peut pas disposer totalement librement de son corps, le consentement de l’intéressé ne peut pas légitimer toute les atteintes au corps. Notre droit et notre jurisprudence sont fluctuants. Ex interdiction nuancée d’une libre disposition de soi-même : question des pratiques sadomasochistes librement consenties. 2 arrêts de la CEDH sur la question : 19 février 1997 = affaire Laskey et autres contre Royaume-Uni : les coups et blessures infligées entre adultes consentements dans le cadre de pratiques sadomasochistes ne peuvent être légitimés par le consentement de l’intéressé. // 17 février 2005 = affaire K.A et A.D contre Belgique : la CEDH reconnaît le principe d’autonomie personnelle justifiant les atteintes consenties contre soi-même sauf si des raisons particulièrement graves justifient l’ingérence des pouvoirs publiques. Pourquoi parlé d’auto-disposition et de limites à celle-ci dans le cadre d’une étude consacrée à l’inviolabilité du corps humain. Cela devrait plutôt relever de la règle de l’indisponibilité de la personnalité. Les choix de la personne pour elle-même font intervenir des tiers. Toutefois, de nouvelles formes d’atteintes réalisée sur la base d’un choix de l’intéressé et faisant intervenir des tiers apparaissent, se développent et sont autorisées par le droit en contradiction avec les article 16-1 et suivants du Code Civil. Ex : la question des stérilisations définitives à visé contraceptive. Notre droit admet sur la base de l’accord libre de l’intéressé ces stérilisations. On impose un délai de réflexion de 4 mois et le médecin n’est pas obligé d’accepter l’intervention mais il doit en informer l’intéressé. Elle est prévu L-2123-1 du Code de la Santé publique. Toutes ces décisions sont difficiles à articuler entre elles. La question de l’auto-mutilation exige des arbitrages entre les libertés individuelles et la protection de l’individu, de sa dignité, de l’espèce humaine. L’individu même lorsqu’il se consume lui-même n’est pas totalement libre. Problématique de la consommation de drogues et d’alcools. Une réflexion peut être mener sur le fondement de cette interdiction à géométrie variable. 
 
 Si on raisonne par rapports aux effets de l’alcool et des stupéfiants, il est le même, absence de maîtrise du comportement. Difficile d’imaginer dans ce point de vue un sort différencier entre la drogue et l’alcool. Protège-t-on la société ou la personne ? Il y a des contradictions dans notre législation dans la manière dont on appréhende la consommation de l’alcool et le drogue. Règle de l’indisponibilité du corps humain. 
 
-  
-
 Le corps humain ne peut pas faire l’objet de convention. L’aliénation du corps, et ses principaux elle est par principe interdite par article 16-1 et 16-5 du Code Civil. Le corps humain est classiquement présenter comme un hors commerce juridique. Seul les dons gratuit et anonymes d’organes, de sang, de lait mat ou encore de gamètes sont licites article 16-6.
-
-  
 
 Non patrimonialisation du corps humain + anonymat des dons = 2 grands principes clés en droit des personnes 
 
@@ -109,15 +70,9 @@ Les produits du corps (ongles, cheveux) se caractérisent par leur renouvellemen
 
 De manière tout à fait exceptionnelle, la loi du 6 aout 2004 a permit une atteinte à l’intégrité du corps humain du vivant de la personne avec son accord dans « l’intérêt thérapeutique d’autrui. Les dons d’organes se font en principe au décès de la personne, mais à titre exceptionnel, il peut y avoir des dons d’organes pratiqués sur personnes vivantes : prélèvement in vivo et ils sont extrêmement encadré L-1231-2 du Code de la Santé publique : ça ne concerne que les organes qui ne sont pas vitaux (ex : reins), le don s’effectue à un proche du donneur. 
 
-  
-
 Le corps humain est hors commerce juridiques. Les dons sont encadrés. 
 
-  
-
 La vente de la force de travail est parfaitement possible. Notre droit a une position complexe sur la question de la vente de service sexuelle. On incrimine le proxénétisme : article 225-5 et suivants du Code Pénal. Loi 13 avril 2016 : on incrimine pénalement l’achat d’acte sexuels : article 611-1 du Code Pénal : contravention qui peut aller jusqu’une amende de 3750 euros. Le Conseil Constitutionnel a décidé qu’il y a conformité à la Constitution le 1 février 2019. Cependant, notre droit ne réprime pas pénalement la prostitution en tant que telle. 
-
-  
 
 La question de la GPA (gestation pour autrui) : 2 type de mère porteuse : celle qui ne fait « que » porté l’enfant et celle qui participe aussi à sa conception. La position du droit français est une interdiction ferme de la GPA en droit interne. Avis du conseil consultatif national d’éthique le 23 octobre 1984 : plaide pour l’interdiction : une jurisprudence s’est développé. Arrêt de la cour de cassation assemblée plénière du 31 mai 1991 : il n’y a pas de texte spécifique : les juges vont mobilisés les règles de droit des contrats de l’époque et on ne fait pas de contrat sur les chose hors commerce juridique. (Pas de texte existant sur la GPA. 
 
@@ -129,13 +84,7 @@ L’application rigoureuse des principes du droit français n’a pas convaincu 
 
 La cour de cassation a fait évoluer sa jurisprudence pour accepter la transcription des actes de naissance dans la mesure où ils sont conformes à la réalité on a appliqué l’article 47 du Code Civil qui précise que seul les actes de naissance irréguliers ou falsifiés ne doivent pas être appliqués. La cour de cassation va finalement demandé un avis a la CEDH le 5 octobre 2018 et la CEDH va lui répondre le 10 avril 2019 en consacrant un droit à la filiation du parent d’intention. Le CEDH laisse au Etats le soin de décider si ce lien de filiation résulte d’une simple transcription de l’acte de naissance à l’étranger. 
 
-  
-
 Loi du 2 août 2021: révision bioéthique : modification de l’article 47 du Code Civil : la régularité d’un acte de naissance doit être apprécie au regard de la loi française. Les commentateurs analyse cette reforme comme un coup d’arrêt au transcriptions en France, des actes de naissance d’enfants nés d’une GPA à l’étranger. La libre disposition de soi-même n’est pas une évidence. 
-
-  
-
-  
 
 ##### B / La protection du corps humain après la mort 
 
@@ -147,8 +96,6 @@ Par ailleurs, la loi du 19 décembre 2008 sur la législation funéraire a réfo
 
 - Celle des prélèvement post mortem à des fins thérapeutique, scientifiques ou d’autopsie. Pour l’autopsie, les règles sont dérogatoires, peut importe que le défunt ai donné un accord ou non de son vivant. En revanche pour les prélèvement à des fins thérapeutiques ou scientifiques, il faut que le défunt ai été consentent de son vivant. On présume ce consentement. On peut s’opposer de notre vivant à un prélèvement. Article L-1232-1 du Code de la Santé publique. La question des prélèvements post mortem a notamment susciter un intérêt sur les questions de filiations : peut on refuser un prélèvement quand la filiation est en cause. Elle a été débattue à l’article 11 du Code de procédure civile. Affaire Drossart jugée par la cour d’appel de Paris le 4 juillet 1987 : TGI la déclare fille de Montant : le juge interprète ce refus. 
 - Celle du don du corps à la science : elle a été particulièrement discutée suite aux affaire de l’université de Paris Descartes à conduit à reformer l’encadrement des dons du corps à la science en l’application de la loi du 2 aout 2021 = décret du 27 avril 2022 : la dénomination change, on ne parle plus de don du corps à la science on parle de don du corps à des fins d’enseignement médical et de recherche. Article 1261-1 du Code de la Santé publique prévoit les conditions : personne majeures capable qui consent par écrit, on encadre la question du transport du corps, de leur accueil et des conditions de réalisation des opérations funéraires. 
-
-  
 
 #### II / Le droit à la protection de l’intégrité morale
 
@@ -186,8 +133,6 @@ Article 259-1 du Code Civil interdit à un époux dans le cadre d’une procédu
 Arrêt de la CEDH du 7 septembre 2021 : la CEDH a estimé que la production par un conjoint de messages électroniques échangés par son épouse/x sur un site de rencontre dans la cadre d’une procédure de divorce n’est pas attentatoire au respect de la vie privée de l’épouse/x dès lors qu’elle n’intervient que dans le cadre de procédures civiles dont l’accès au public est restreint. 
 
 Le problème est de savoir comment l’homme/la femme a accédé aux messages, ce qui peut porté atteinte à la vie privée de cette dernière. Donc la jurisprudence de la CEDH répond qu’à une partie et pas à l’ensemble de la problématique. 
-
-  
 
 Avant de fouiller dans quoi que ce soit il faut demander la permission à l’autre. On peut voir qu’il y a des espaces dans lesquels c’est quand même compliqué d’avoir une vie privée. Plus généralement quels atteintes à la vie privée peuvent être tolérées ? Des atteintes sont possibles parce que le droit à la vie privée garantie par l’article 8 de la CEDH est un droit relatif pas absolu. Des atteintes sont possibles dès lors qu’elles sont légitimes, nécessaires et proportionnées. 
 
@@ -242,8 +187,6 @@ On peut aller sonder la personne de confiance qui sera amenée à décider non p
 1ère hypothèse : l’urgence vitale : les soignants font ce qu’ils ont à faire indépendamment des directives anticipées de la personne en danger. 
 
 2ème hypothèse : la situation médicale : c’est ce qui permet d’affirmer que les directives anticipées ne lie pas le médecin. Il y a une procédure collégiale. 
-
-  
 
 La CEDH laisse les Etats libres d’organiser leur question de fin de vie en d’autres termes et c’est qu’à affirmé la CEDH le 29 avril 2002 : il n’existe pas de droits à mourir. Luxembourg : légalisation de l’euthanasie depuis 2009. Chacun fait son choix. L’objectif est de soulager la souffrance de la personne face à un décès qui est envisagé comme imminent et inévitable. 
 
