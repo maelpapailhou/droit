@@ -1,8 +1,8 @@
-Première partie : Juriste et politiste : Regard comparatiste
+# Première partie : Juriste et politiste : Regard comparatiste
 Paragraphe 1 /  
 A. Définition d’un juriste et de son objet de recherche :
 
-Dans les facultés de droit ce qu’il y a de privilégié c’est l’enseignement du
+Dans les facultés de droit ce qu’il y ça de privilégié c’est l’enseignement du
 
 droit positif ( droit en vigueur ).  
 Les juristes étudie les règles, ils ont deux casquettes principales :  
@@ -71,7 +71,7 @@ Politologue = c’est la personne qu’on va voir sur les plateaux télés qui
 
 Politiste = c’est une personne qui est chercheur en science politique, qui a fait une thèse en science politique. Il s’est spécialisé sur un objet politique en particulier.
 
-Deuxième : Juridique et Politique : Regard disciplinaire
+# Deuxième : Juridique et Politique : Regard disciplinaire
 
 A. L’émancipation du droit par rapport aux sciences sociales
 

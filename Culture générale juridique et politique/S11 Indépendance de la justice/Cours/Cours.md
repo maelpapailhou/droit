@@ -1,14 +1,3 @@
-Indépendance de la justice
-
-Bainstorming
-
-- Séparation des pouvoirs →idée d’éviter l’arbitraire  
-- L’Affaire Dupont-Moretti  
-- Impartialité  
-- différence entre les magistrats du siège et du parquet - démocratie
-
-- la main de la justice autrefois : symbole de la monopolisation du pouvoir
-
 Introduction : les ambiguë rapports entre le politique et la justice.
 
 L’indépendance c’est un sujet qui emmène à des tensions.  

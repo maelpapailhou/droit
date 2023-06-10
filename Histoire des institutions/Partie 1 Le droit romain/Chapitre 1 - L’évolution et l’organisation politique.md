@@ -26,7 +26,10 @@ Il y a lieu de distinguer ici deux périodes de l’histoire constitutionnelle r
 - Les principaux magistrats sont constitués de deux consuls choisis chaque année parmi les chefs des grandes familles. 
 
 %%
-Après l'exil de Tarquin, Rome était gouvernée par un petit groupe de grandes familles patriciennes, qui formaient une caste fermée. Les patriciens exerçaient le pouvoir politique à travers le Sénat, écartant ainsi les plébéiens. Cependant, les luttes sociales entre les patriciens et les plébéiens ont conduit à des avancées politiques pour la plèbe, notamment la création de la fonction de tribun de la plèbe. Les consuls, choisis parmi les patriciens, étaient les principaux magistrats de la République romaine.
+Après l'exil de Tarquin, Rome était gouvernée par un petit groupe de grandes familles patriciennes, qui formaient une caste fermée. 
+- Les patriciens exerçaient le pouvoir politique à travers le Sénat, écartant ainsi les plébéiens. 
+- Cependant, les luttes sociales entre les patriciens et les plébéiens ont conduit à des avancées politiques pour la plèbe, notamment la création de la fonction de tribun de la plèbe. 
+- Les consuls, choisis parmi les patriciens, étaient les principaux magistrats de la République romaine.
 %%
 
 - Ces **consuls héritent du pouvoir suprême des anciens rois** (l’empereur) avec cette différence qu’il exerce à deux. Ils *exercent le pouvoir à deux et pour seulement une année*. C’est pourquoi on parle ici du **principe juridique de l’annualité**. 
@@ -40,13 +43,22 @@ Après l'exil de Tarquin, Rome était gouvernée par un petit groupe de grandes 
 - Le **régime républicain** au fond n’a **rien de démocratique** puisque au fond, c’est une **oligarchie**, un régime dans lequel *seul quelque uns gouverne*. 
 
 %%
-1. Les consuls : Les consuls étaient les magistrats les plus élevés de la République romaine. Ils étaient choisis chaque année parmi les patriciens, les membres des grandes familles aristocratiques. Ils héritaient du pouvoir suprême des anciens rois, mais contrairement à un seul roi, ils exerçaient leur pouvoir à deux. C'est pourquoi on parle du principe juridique de l'annualité, selon lequel leur mandat ne durait qu'une année.
+1. Les consuls : Les consuls étaient les magistrats les plus élevés de la République romaine.
+	1. Ils étaient choisis chaque année parmi les patriciens, les membres des grandes familles aristocratiques. 
+	2. Ils héritaient du pouvoir suprême des anciens rois, mais contrairement à un seul roi, ils exerçaient leur pouvoir à deux. C'est pourquoi on parle du principe juridique de l'annualité, selon lequel leur mandat ne durait qu'une année.
 
-2. Les tribuns de la plèbe : À partir de l'année 494 av. J.-C., la plèbe a obtenu le droit d'avoir ses propres magistrats pour la protéger contre les abus de pouvoir des patriciens. Ces magistrats, appelés tribuns de la plèbe, étaient élus par la plèbe et formaient un collège. Initialement au nombre de deux, leur nombre a augmenté au fil du temps. Les tribuns avaient le pouvoir de s'opposer aux décisions des consuls et de défendre les intérêts de la plèbe. Cela a introduit le principe de collégialité, selon lequel les magistratures devaient être exercées collectivement.
+3. Les tribuns de la plèbe : 
+	1. À partir de l'année 494 av. J.-C., la plèbe a obtenu le droit d'avoir ses propres magistrats pour la protéger contre les abus de pouvoir des patriciens. C
+	2. es magistrats, appelés tribuns de la plèbe, étaient élus par la plèbe et formaient un collège. Initialement au nombre de deux, leur nombre a augmenté au fil du temps. 
+	3. Les tribuns avaient le pouvoir de s'opposer aux décisions des consuls et de défendre les intérêts de la plèbe. Cela a introduit le principe de collégialité, selon lequel les magistratures devaient être exercées collectivement.
 
-3. Le pouvoir des tribuns : Le collège des tribuns ne participait pas directement au gouvernement de la République, qui restait l'apanage des consuls. Leur rôle principal était de défendre collectivement la plèbe contre les abus de pouvoir, mais aussi de fournir une protection individuelle aux plébéiens. Leur pouvoir était principalement un pouvoir de veto, leur permettant d'empêcher l'adoption de mesures préjudiciables à la plèbe.
+4. Le pouvoir des tribuns : 
+	1. Le collège des tribuns ne participait pas directement au gouvernement de la République, qui restait l'apanage des consuls. Leur rôle principal était de défendre collectivement la plèbe contre les abus de pouvoir, mais aussi de fournir une protection individuelle aux plébéiens. 
+	2. Leur pouvoir était principalement un pouvoir de veto, leur permettant d'empêcher l'adoption de mesures préjudiciables à la plèbe.
 
-4. Nature oligarchique de la République : En effet, le régime républicain romain n'était pas démocratique au sens moderne du terme, mais plutôt oligarchique. Le pouvoir était concentré entre les mains de quelques-uns, principalement les patriciens, qui dominaient la scène politique. Cependant, au fil du temps, la plèbe a obtenu des concessions politiques et des garanties pour ses droits, ce qui a conduit à une certaine ouverture du système politique.
+6. Nature oligarchique de la République : En effet, le régime républicain romain n'était pas démocratique au sens moderne du terme, mais plutôt oligarchique. 
+	1. Le pouvoir était concentré entre les mains de quelques-uns, principalement les patriciens, qui dominaient la scène politique. 
+	2. Cependant, au fil du temps, la plèbe a obtenu des concessions politiques et des garanties pour ses droits, ce qui a conduit à une certaine ouverture du système politique.
    %%
 
 ### II / La Constitution de la République romaine 
@@ -75,15 +87,28 @@ Au plan institutionnel, la Constitution de la République romaine comme celle de
 %%
 Dans la Constitution de la République romaine, bien qu'elle ne ressemble pas aux constitutions modernes, on peut trouver certains prémices de concepts constitutionnels. Voici une explication des organes et des mécanismes institutionnels de la Constitution romaine :
 
-1. Le conseil aristocratique (sénat) : Le sénat était l'organe central de la République romaine. Il était composé des chefs des grandes familles patriciennes, les aristocrates romains. Le sénat exerçait une autorité morale puissante et conservait son influence tout au long de la République. Au début, il était principalement composé de patriciens, mais progressivement, il s'est ouvert à la plèbe et a accueilli une nouvelle noblesse.
+1. Le conseil aristocratique (sénat) : Le sénat était l'organe central de la République romaine. 
+	1. Il était composé des chefs des grandes familles patriciennes, les aristocrates romains. 
+	2. Le sénat exerçait une autorité morale puissante (auctoritas) et conservait son influence tout au long de la République. 
+	3. Au début, il était principalement composé de patriciens, mais progressivement, il s'est ouvert à la plèbe et a accueilli une nouvelle noblesse.
 
-2. Les assemblées : Les assemblées rassemblaient l'ensemble du peuple romain et étaient appelées les comices. Certaines assemblées étaient spécifiquement réservées aux citoyens d'origine plébéienne et étaient connues sous le nom d'assemblées de la plèbe. Ces assemblées avaient le pouvoir de voter les lois et d'élire les magistrats. En théorie, tous les citoyens avaient un accès égal aux assemblées, mais en pratique, seuls les citoyens les plus aisés étaient souvent en mesure de participer aux décisions en raison de l'organisation des comices.
+3. Les assemblées : Les assemblées rassemblaient l'ensemble du peuple romain et étaient appelées les comices. 
+	1. Certaines assemblées étaient spécifiquement réservées aux citoyens d'origine plébéienne et étaient connues sous le nom d'assemblées de la plèbe. Ces assemblées avaient le pouvoir de voter les lois et d'élire les magistrats. 
+	2. En théorie, tous les citoyens avaient un accès égal aux assemblées, mais en pratique, seuls les citoyens les plus aisés étaient souvent en mesure de participer aux décisions en raison de l'organisation des comices.
 
-3. Les magistratures : Aux côtés des consuls, les magistrats occupaient une place importante dans la Constitution romaine. Les préteurs étaient les magistrats les plus importants après les consuls et jouaient un rôle décisif dans l'évolution du droit romain. Les édiles étaient responsables de la gestion quotidienne des villes, tandis que les questeurs s'occupaient des affaires financières. Ces magistratures étaient permanentes, et leurs titulaires étaient élus chaque année.
+5. Les magistratures : Aux côtés des consuls, les magistrats occupaient une place importante dans la Constitution romaine. 
+	1. Les préteurs étaient les magistrats les plus importants après les consuls et jouaient un rôle décisif dans l'évolution du droit romain. 
+	2. Les édiles étaient responsables de la gestion quotidienne des villes, 
+	4. questeurs s'occupaient des affaires financières. 
+	5. Ces magistratures étaient permanentes, et leurs titulaires étaient élus chaque année.
 
-4. Les censeurs : Les censeurs étaient chargés de procéder au recensement des citoyens et de désigner les sénateurs. Ils évaluaient la fortune des citoyens afin de les répartir en différentes classes. De plus, ils exerçaient un contrôle sur la conduite civique et morale des citoyens. Les censeurs proposaient des membres pour le sénat, qui étaient ensuite soumis à des élections.
+7. Les censeurs : 
+	1. Les censeurs étaient chargés de procéder au recensement des citoyens et de désigner les sénateurs. 
+	2. Ils évaluaient la fortune des citoyens afin de les répartir en différentes classes. 
+	3. De plus, ils exerçaient un contrôle sur la conduite civique et morale des citoyens. 
+	4. Les censeurs proposaient des membres pour le sénat, qui étaient ensuite soumis à des élections.
 
-5. Hiérarchie des magistratures : À l'apogée de la République, les magistratures étaient hiérarchisées les unes par rapport aux autres. Il existait une progression graduelle appelée le cursus honorum, où il était nécessaire d'exercer les charges inférieures avant de pouvoir accéder à des magistratures de plus haut niveau.
+9. Hiérarchie des magistratures : À l'apogée de la République, les magistratures étaient hiérarchisées les unes par rapport aux autres. Il existait une progression graduelle appelée le cursus honorum, où il était nécessaire d'exercer les charges inférieures avant de pouvoir accéder à des magistratures de plus haut niveau.
 %%
 
 ### III / Le régime républicain 
@@ -107,7 +132,7 @@ En droit, un **dictateur** ou la dictature c’est une **magistrature exceptionn
 - Si les 6 mois sont dépassé on est plus dans la dictature organisée par une Constitution traditionnelle. La dictature au sens constitutionnel. 
 - Cette hypothèse est très proche de celle qui est prévue par l’article 16 de la Constitution de 1958. La notion de dictature à une résonance particulière. 
 
-%%
+%% R.A.D.
 Polybe, un grand théoricien grec, a analysé la constitution romaine à la fin de la République, vers le milieu du IIe siècle av. J.-C. Selon Polybe, la constitution romaine peut être considérée comme un régime mixte en raison de ses institutions. Voici les éléments qu'il met en avant :
 
 1. Monarchique : Polybe considère que le régime romain possède une dimension monarchique en raison du pouvoir suprême des consuls, qui exercent l'imperiur (autorité). Les consuls, en tant que chefs de l'État, détenaient une autorité semblable à celle d'un monarque.
@@ -175,12 +200,16 @@ Les empereurs romains se voyaient comme les premiers parmi les autres, le "princ
 
 3. Imperium proconsulaire : L'empereur disposait en permanence du pouvoir suprême du consul, appelé "imperium proconsulare" en latin. Cette autorité suprême, bien que les institutions républicaines soient maintenues en apparence, était dévolue à un seul homme, créant ainsi une forme de monarchie.
 
-Au fil du temps, des dynasties impériales se sont développées à Rome, telles que les Flaviens et les Antonins. Contrairement à l'Ancienne France, Rome ne possédait pas de règles de succession au trône. Par conséquent, la désignation du prince était laissée à la volonté des individus, ce qui représentait une faiblesse du système. Rome ne possédait pas de lois fondamentales comme celles de l'Ancienne France.
+Au fil du temps, des dynasties impériales se sont développées à Rome, telles que les Flaviens et les Antonins. 
+- Contrairement à l'Ancienne France, Rome ne possédait pas de règles de succession au trône. 
+- Par conséquent, la désignation du prince était laissée à la volonté des individus, ce qui représentait une faiblesse du système. 
+- Rome ne possédait pas de lois fondamentales comme celles de l'Ancienne France.
 
 Vers la fin du IIe siècle, le système politique a commencé à se dérégler, marquant le début d'une crise politique, sociale, économique et militaire. La crise militaire était due aux invasions barbares qui violaient les frontières romaines. À la fin du principat, l'empereur n'était plus simplement le princeps, mais il est devenu le maître de Rome et de tous les habitants de l'Empire, le "dominus", étant ainsi le souverain de tous les sujets romains.
 
 En somme, le principat était un régime politique où les institutions républicaines étaient maintenues en apparence, mais où l'empereur détenait en réalité un pouvoir centralisé et monarchique, combinant autorité morale, puissance tribunicienne et imperium proconsulaire. Cependant, au fur et à mesure que l'Empire romain faisait face à des crises politiques et militaires, le pouvoir de l'empereur évoluait vers un statut de maître absolu, marquant ainsi une transition vers le dominat.
 %%
+
 ### II / Le dominat ( le bas empire)
 
 #### A / Un régime autoritaire 
@@ -213,3 +242,13 @@ Cette organigramme administratif culmine en un gouvernement à quatre têtes don
 Si l’Empire conserve en théorie son unité, chacun des quatre tétrarque est militairement responsable d’un théâtre d’opérations. On observe une division principale de l’Empire qui oppose l’occident à l’orient. Partie latine va s’opposer à la partie grecque. Cette division va se creuser de plus en plus au cours du IV siècle et la tétrarchie va se dérégler après l’abdication de Dioclétien. Parce ce qu’à ce moment là va naître une rivalité entre les tétrarques. Certes, en 324, l’empereur Constantin rétablit l’empire. Cependant, on verra que le partage ente l’orient et l’occident est inéluctable. En 326 Constantin a fondé une nouvelle Rome à Byzance c’est à dire à Constantinople et qui sera désormais la capitale de l’Empire romain d’orient. Il y a donc désormais 2 empereurs, un en occident à Rome et un en orient à Constantinople. Ce sont donc deux empires qui sont entités politiques distinctes menant chacun « sa propre vie » politique. 
 
 C’est en 476 que disparaîtra définitivement l’Empire romain d’occident. L’empire romain d’orient va perdurer encore quelques années.
+
+%%
+Au cours du IIIe siècle, le pouvoir impérial dans le bas Empire romain a évolué vers un régime autoritaire de nature sacrée. Les empereurs étaient considérés comme divins et sacrés, et leur cour adoptait des pratiques de l'Ancien Orient, où l'empereur était vénéré comme un dieu. Avec l'avènement des empereurs chrétiens, notamment Constantin, une relation complexe s'est développée entre Dieu et l'empereur. Certains théologiens chrétiens soutenaient que l'empereur avait reçu son pouvoir directement de Dieu, légitimant ainsi son autorité. Cependant, cette légitimité n'était pas absolue, et l'empereur était censé gouverner selon la justice et les lois de Dieu.
+
+Au fur et à mesure que l'empereur devenait tout-puissant, il éliminait les pouvoirs concurrents, tels que le Sénat, qui perdait de son influence politique. Les fonctionnaires impériaux se multipliaient et assumaient toutes les fonctions publiques, l'empereur devenant la seule source du droit et de la justice. L'État romain devenait de plus en plus bureaucratique, mais en même temps, il était de plus en plus impuissant à faire face aux crises, ce qui entraînait un effondrement démographique et un repli des familles aisées dans leurs domaines ruraux pour échapper aux contraintes bureaucratiques et fiscales.
+
+L'empire romain s'est également réorganisé administrativement sous Dioclétien, avec l'introduction de la tétrarchie, un système politique dans lequel quatre empereurs partageaient le pouvoir. Cependant, cette division a conduit à une séparation croissante entre l'Occident et l'Orient, et en 476, l'Empire romain d'Occident a définitivement disparu, laissant place à l'Empire romain d'Orient, également connu sous le nom d'Empire byzantin.
+
+En résumé, le bas Empire romain a connu un régime autoritaire où l'empereur était considéré comme sacré, soutenu à la fois par des traditions païennes et chrétiennes. L'empereur était tout-puissant, éliminant les pouvoirs concurrents et devenant la seule source du droit et de la justice. Cependant, malgré une bureaucratie croissante, l'Empire romain était affaibli et divisé, ce qui a finalement conduit à la chute de l'Empire romain d'Occident.
+%%

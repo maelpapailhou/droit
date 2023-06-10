@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Institutions adm & jur/Partie 2 - Les Institutions juridictionnelles/Chapitre 0 - Introduction - Qu’est-ce que les institutions juridictionnelles ?/A) Les causes historiques du dualisme juridictionnel/2) La consolidation napoléonienne et ultérieure.md",
+                "file": "Finis/Institutions adm & jur/Partie 2 - Les Institutions juridictionnelles/Chapitre 0 - Introduction - Qu’est-ce que les institutions juridictionnelles ?/A) Les causes historiques du dualisme juridictionnel/2) La consolidation napoléonienne et ultérieure.md",
                 "mode": "source",
                 "source": false
               }
@@ -357,7 +357,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture générale juridique et politique/S1&2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Cours/Introduction - Le droit et la science politique.md",
+                "file": "Culture générale juridique et politique/S1&2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Cours/Cours.md",
                 "mode": "source",
                 "source": false
               }
@@ -369,7 +369,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture générale juridique et politique/S3 La crise sanitaire du Covid-19/Cours/Crise covid.md",
+                "file": "Culture générale juridique et politique/S3 La crise sanitaire du Covid-19/Cours/Cours.md",
                 "mode": "source",
                 "source": false
               }
@@ -465,7 +465,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture générale juridique et politique/S11 Indépendance de la justice/Cours/Indépendance de la justice.md",
+                "file": "Culture générale juridique et politique/S11 Indépendance de la justice/Cours/Cours.md",
                 "mode": "source",
                 "source": false
               }
@@ -537,7 +537,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire des institutions/Partie 1 Le droit romain/Chapitre 1 - L’évolution et l’organisation politique.md",
+                "file": "Histoire des institutions/Partie 4 La France de Napoléon/Chapitre 1 - Les constitutions de 1799 à 1814.md",
                 "mode": "source",
                 "source": false
               }
@@ -610,11 +610,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Histoire des institutions/Partie 1 Le droit romain/Chapitre 1 - L’évolution et l’organisation politique.md",
-                "collapseAll": false,
+                "file": "Histoire des institutions/Partie 4 La France de Napoléon/Chapitre 1 - Les constitutions de 1799 à 1814.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -627,7 +627,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Histoire des institutions/Partie 1 Le droit romain/Chapitre 1 - L’évolution et l’organisation politique.md",
+                "file": "Histoire des institutions/Partie 4 La France de Napoléon/Chapitre 1 - Les constitutions de 1799 à 1814.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -650,16 +650,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Histoire des institutions/Partie 1 Le droit romain/Chapitre 1 - L’évolution et l’organisation politique.md"
+                "file": "Histoire des institutions/Partie 4 La France de Napoléon/Chapitre 1 - Les constitutions de 1799 à 1814.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -673,45 +673,45 @@
   },
   "active": "88d0e1789c8d4d63",
   "lastOpenFiles": [
+    "Histoire des institutions/Partie 4 La France de Napoléon/Chapitre 1 - Questions.md",
+    "Histoire des institutions/Partie 4 La France de Napoléon/Chapitre 1 - Les constitutions de 1799 à 1814.md",
+    "Histoire des institutions/Partie 5 De la Monarchie à la République/Chapitre 1 - Questions.md",
+    "Histoire des institutions/Partie 5 De la Monarchie à la République/Chapitre 1 - La Monarchie Parlementaire de 1814.md",
     "Histoire des institutions/Partie 1 Le droit romain/Chapitre 1 - Questions.md",
-    "Histoire des institutions/Partie 2 L'ancien droit/Chapitre 2 - Les temps féodaux.md",
-    "Histoire des institutions/Partie 2 L'ancien droit/Chapitre 3 - La montée de l’Etat monarchique (période médiévale, bas Moyen-Age, XIVe au XVIe siècle).md",
-    "Histoire des institutions/Partie 1 Le droit romain/Chapitre 2 - Le droit de la République.md",
-    "Histoire des institutions/Partie 2 L'ancien droit/Chapitre 1 - L’Antiquité tardive.md",
-    "Histoire des institutions/Partie 1 Le droit romain/Chapitre 3 - Le droit de l'Empire.md",
-    "Droit des personnes/Sujets.md",
-    "Droit des personnes/Chapitre 4.md",
-    "Droit des personnes/Chapitre 3 - Les attributs de la personne physique.md",
     "Histoire des institutions/Partie 1 Le droit romain/Chapitre 1 - L’évolution et l’organisation politique.md",
-    "Droit des personnes/Chapitre 2 - Les droits à la personnalité juridiques des personnes physiques.md",
-    "Droit des personnes/Chapitre 1 - L’attribution de la personnalité juridique aux personnes physique.md",
-    "Culture générale juridique et politique/S8 L'écologie/Cours/L'écologie (La crise écologique).md",
-    "Culture générale juridique et politique/Sujet entrainement.md",
-    "Culture générale juridique et politique/S8 L'écologie/Révisions/Notions.md",
+    "Histoire des institutions/Partie 1 Le droit romain/Chapitre 2 - Le droit de la République.md",
+    "Histoire des institutions/Partie 1 Le droit romain/Chapitre 2 - Questions.md",
+    "Histoire des institutions/Partie 1 Le droit romain/Chapitre 3 - Le droit de l'Empire.md",
+    "Histoire des institutions/Partie 2 L'ancien droit/Chapitre 1 - L’Antiquité tardive.md",
+    "Histoire des institutions/Partie 4 La France de Napoléon/Chapitre 2 - L'oeuvre napoléonienne.md",
+    "Histoire des institutions/Partie 3 L'ancien régime/Chapitre 1 - L’héritage institutionnel de l’ancien régime.md",
+    "Histoire des institutions/Partie 2 L'ancien droit/Chapitre 2 - Les temps féodaux.md",
+    "Histoire des institutions/Partie 1 Le droit romain/Chapitre 3 - Questions.md",
+    "Histoire des institutions/Partie 1 Le droit romain/_Préambule.md",
+    "Histoire des institutions/Partie 5 De la Monarchie à la République",
+    "Histoire des institutions/Partie 4 La France de Napoléon",
+    "Culture générale juridique et politique/S1&2 Qu’est-ce qu’un juriste ? Qu’est-ce qu’un politiste ?/Cours/Cours.md",
+    "Histoire des institutions/Partie 3 L'ancien régime",
+    "Culture générale juridique et politique/S11 Indépendance de la justice/Révisions/Sujet.md",
+    "Culture générale juridique et politique/S11 Indépendance de la justice/Cours/Cours.md",
+    "Droit Constitutionnel I/S3",
+    "Droit Constitutionnel I/S2 La constitution",
+    "Droit Constitutionnel I/S1",
+    "Culture générale juridique et politique/S10 Le mérite/Révisions/Sujets.md",
+    "Culture générale juridique et politique/S10 Le mérite/Cours/Le mérite.md",
+    "Culture générale juridique et politique/S9 La propriété/Révisions/Sujet.md",
+    "Culture générale juridique et politique/S9 La propriété/Cours/La propriété.md",
     "Culture générale juridique et politique/S8 L'écologie/Révisions/Sujets.md",
-    "Culture économique/Partie 1/5) Une brève histoire des courants de pensées en sciences économiques.md",
-    "Sans titre.md",
+    "Culture générale juridique et politique/S8 L'écologie/Cours/L'écologie (La crise écologique).md",
+    "Culture générale juridique et politique/S6 La démocratie/Révisions/Sujet.md",
+    "Culture générale juridique et politique/S6 La démocratie/Aller plus loin/Bernard Manin, Principes  du  gouvernement  représentatif.md",
     "Finis",
-    "Culture économique/Partie 1/4) Analyse conjoncturelle & analyse structurelle.md",
-    "Culture économique/Partie 1/3) Économie positive & économie normative.md",
-    "Culture économique/Partie 1/2) Analyse économique.md",
-    "Culture économique/Partie 1/1) Economie = science ?.md",
-    "Culture économique/Partie 2/13) Structures de marchés et modes de régulation.md",
-    "Culture économique/1) Economei internationale et le phénomène de globalisation.md",
-    "Culture économique/Partie 2/12) Def rendement d'échelle.md",
-    "Culture économique/Partie 2/11) Structures de marchés et modes de régulation.md",
-    "Culture économique/Partie 1/Pasted image 20230419003110.png",
+    "Finis/Culture économique/Partie 1/Pasted image 20230419003110.png",
     "Culture générale juridique et politique/S12 Responsabilité des magistrats/Sujets",
     "Culture générale juridique et politique/S10 Le mérite/Sujets",
     "Droit des personnes/Axe 1 - Personnes physiques",
-    "Culture générale juridique et politique/S6 La démocratie/Sujets",
-    "Culture générale juridique et politique/S5 L'Etat/Sujets",
-    "Histoire des institutions/Partie 2 L'ancien droit",
-    "Histoire des institutions/Partie 1 Le droit romain",
-    "Histoire des institutions",
-    "Culture générale juridique et politique/S14 Le vote/Révisions",
-    "Culture économique/Pasted image 20230428023108.png",
-    "Culture économique/Pasted image 20230428023053.png",
-    "Culture économique/Pasted image 20230428023024.png"
+    "Finis/Culture économique/Pasted image 20230428023108.png",
+    "Finis/Culture économique/Pasted image 20230428023053.png",
+    "Finis/Culture économique/Pasted image 20230428023024.png"
   ]
 }

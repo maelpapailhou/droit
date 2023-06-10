@@ -1,3 +1,36 @@
+
+Introduction :
+
+La laïcité, en tant que choix politique visant à séparer le religieux de l'État et à encadrer juridiquement la place de la religion dans la vie sociale et politique, suscite toujours des débats et fait face à des enjeux concrets qui soulignent le caractère éminemment politique de la religion. La sécularisation, en tant que phénomène social, entraîne un recul de l'importance de la religion dans la vie des individus. Cependant, malgré ce recul, la religion continue de jouer un rôle significatif dans la société et de susciter des questions politiques. Les travaux de Max Weber et Marcel Gauchet nous permettent de mieux comprendre la relation entre politique et religion, notamment dans le processus de sortie de la religion et la naissance de l'État. Dans cette dissertation, nous examinerons d'abord la régulation de la place de la religion dans la vie sociale et politique par la laïcité, puis nous discuterons des débats entourant cette place et les difficultés d'application des principes de la laïcité. Enfin, nous aborderons le retour du religieux au tournant du XXIe siècle et la nécessité de repenser les relations entre politique et religion.
+
+I. La régulation de la place de la religion dans la vie sociale et politique par la laïcité
+
+A. Une sortie de la religion imposée par la modernité
+
+Pour comprendre la laïcité contemporaine, il est important de prendre en compte la trajectoire des sociétés dites "modernes", qui implique une sortie de la religion. Durant longtemps, la religion a joué un rôle central dans la structuration de la vie sociale, avec un lien étroit entre le pouvoir politique et le pouvoir religieux. En Europe, le christianisme a dominé, tandis qu'en Orient, l'islam a joué un rôle similaire. Cependant, à partir des Lumières du XVIIIe siècle, la religion a été remise en question par de nombreux philosophes, écrivains et hommes politiques. Pour construire une société moderne, basée sur la rationalité et les connaissances scientifiques, il était nécessaire de sortir des croyances et des récits religieux.
+
+B. Les principes de la laïcité aux origines d'un séparatisme de la religion et de l'État
+
+La loi de 1905 en France marque la séparation des églises et de l'État. Cette loi s'inscrit dans un contexte plus large de reconnaissance de la laïcité, avec des mesures telles que l'enseignement obligatoire, gratuit et laïque. Les principes de la laïcité impliquent la neutralité de l'État, la liberté religieuse et le respect du pluralisme. Cependant, l'application de ces principes donne lieu à des divergences d'interprétation. Certains considèrent que la laïcité doit refuser la place du religieux dans la société, tandis que d'autres prônent une acceptation et une tolérance de la religion. Ces différentes interprétations ont conduit à des débats et à des mesures législatives, telles que l'interdiction de la diffusion des images religieuses dans l'espace public ou l'interdiction de la
+
+ dissimulation du visage.
+
+II. La discussion de la place de la religion dans la vie sociale et politique par la laïcité
+
+A. Les disparités et les difficultés de l'application des principes de la laïcité
+
+La laïcité suscite des débats et des controverses quant à sa véritable nature et à sa portée. Certains estiment que la laïcité doit refuser toute manifestation du religieux dans la sphère publique, tandis que d'autres soutiennent qu'elle doit reconnaître et tolérer la place de la religion. Ces différentes approches peuvent entraîner des disparités dans l'application de la laïcité. Par exemple, certaines institutions scolaires choisissent d'adopter un accueil individuel des enfants, en proposant des menus sans porc. De plus, des lieux de culte peuvent bénéficier de subventions publiques, ce qui peut être considéré comme une reconnaissance de la place de la religion. Les lois et les mesures prises pour garantir la laïcité, telles que les lois Ferry en France, peuvent également susciter des débats et des critiques.
+
+B. Le retour du religieux au tournant du XXIe siècle imposant de repenser les relations entre politique et religion
+
+Depuis les années 1990, on observe un retour du religieux dans de nombreux contextes à travers le monde, ce qui nécessite une réflexion sur les relations entre politique et religion. Ce retour du religieux est souvent associé à la fin de la guerre froide et à un vide idéologique qui s'est créé. Selon certains penseurs, la fonction identitaire de la religion s'est affirmée dans ce contexte de vide idéologique, ce qui expliquerait l'importance des conflits religieux observés depuis les années 1970. Toutefois, il convient de noter que la religion n'a jamais réellement disparu, et de nombreux individus ressentent toujours le besoin du religieux, que ce soit pour apporter du réconfort ou pour répondre à des questions existentielles. Ainsi, repenser les relations entre politique et religion est essentiel pour comprendre et traiter les défis contemporains liés à la laïcité.
+
+Conclusion :
+
+La laïcité, en tant que choix politique qui vise à réguler la place de la religion dans la vie sociale et politique, reste un sujet de débat et de discussion. Alors que la sécularisation a entraîné un recul de l'importance de la religion dans la société, le religieux demeure un fait politique incontournable. Les principes de la laïcité, tels que la neutralité de l'État, la liberté religieuse et le respect du pluralisme, sont au cœur de ces débats et soulèvent des questions sur leur application concrète. De plus, le retour du religieux au tournant du XXIe siècle nécessite une réévaluation des relations entre politique et religion. Dans ce contexte, il est essentiel d'engager une réflexion approfondie pour trouver des réponses adaptées aux enjeux contemporains liés à la laïcité et à la place de la religion dans la vie sociale et politique.
+
+---
+
 La laïcité, en tant que choix politique visant à séparer le religieux de l'État et à encadrer juridiquement la place de la religion dans la vie sociale et politique, organise les relations entre la religion et la société. Cependant, ses principes font toujours l'objet de débats et son application est sujette à des enjeux concrets qui rappellent combien le religieux est un fait éminemment politique.
 
 La sortie de la religion imposée par la modernité constitue la trajectoire des sociétés dites "modernes". Cette transition se caractérise par le passage d'une domination religieuse à une société légalement rationnelle. Cependant, cette évolution a été lente et difficile, car la religion a longtemps été un mode de structuration de la vie sociale. Pendant longtemps, le pouvoir politique était étroitement lié au pouvoir religieux. En Europe, le christianisme s'est imposé et a joué un rôle essentiel dans la structuration de la société après la chute de l'Empire romain. En Orient, c'est l'islam qui s'est imposé. À partir des Lumières au XVIIIe siècle, la religion a été remise en question par de nombreux philosophes, hommes politiques et écrivains qui ont critiqué ses aspects négatifs tels que les peurs et les superstitions. Ainsi, pour devenir moderne, il fallait sortir des croyances et des mythes et s'appuyer sur des connaissances scientifiques et rationnelles.
