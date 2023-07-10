@@ -1,3 +1,11 @@
+%%
+1. La période pré-impériale : Avant l'avènement de l'Empire romain, Rome était gouvernée par une monarchie, où des rois régnaient sur la cité. Selon la tradition mythologique, Romulus aurait été le fondateur de Rome en 753 av. J.-C., bien que cette histoire soit largement considérée comme légendaire. Au VIe siècle av. J.-C., des rois étrusques ont gouverné Rome, exerçant un pouvoir absolu appelé "imperium". Cependant, leur pouvoir tyrannique a conduit à une révolution aristocratique en 509 av. J.-C., qui a abouti à l'exil du dernier roi Tarquin et à l'établissement de la République.
+
+2. L'avènement de la République : À partir de l'expulsion des rois, la République romaine a été instaurée. Le terme "République" fait référence à un régime où le gouvernement est l'affaire de tous (res publica). Il s'agissait d'un système politique dans lequel les pouvoirs étaient partagés entre les citoyens et où les décisions importantes étaient prises par le biais d'assemblées et de magistrats élus.
+
+3. La coïncidence avec l'époque du Christ : L'idée d'une coïncidence entre la naissance du Christ et l'avènement d'un nouvel empereur est une interprétation théologique développée ultérieurement par certains auteurs chrétiens au Moyen Âge. Ils ont vu cette période comme le résultat d'un dessein divin ou de la providence.
+%%
+
 **1. Quelles étaient les principales caractéristiques de la période pré-impériale de Rome ?**
 	La période pré-impériale de Rome se caractérisait par le règne des rois, dont certains étaient d'origine étrusque. Cependant, ce pouvoir monarchique a été remplacé par une révolution aristocratique en 509 av. J.-C., marquant le début de la République romaine.
 
@@ -20,6 +28,13 @@
 	Certains des rois étrusques qui auraient gouverné Rome avant l'établissement de la République sont Romulus, le fondateur légendaire de Rome
 
 ---
+%%
+Après l'exil de Tarquin, Rome était gouvernée par un petit groupe de grandes familles patriciennes, qui formaient une caste fermée. 
+- Les patriciens exerçaient le pouvoir politique à travers le Sénat, écartant ainsi les plébéiens. 
+- Cependant, les luttes sociales entre les patriciens et les plébéiens ont conduit à des avancées politiques pour la plèbe, notamment la création de la fonction de tribun de la plèbe. 
+- Les consuls, choisis parmi les patriciens, étaient les principaux magistrats de la République romaine.
+%%
+
 **1. Comment Rome était gouvernée après l'exil de Tarquin ?**
 	Après l'exil de Tarquin, Rome était gouvernée par un petit groupe de grandes familles patriciennes. Ces familles formaient une caste fermée et exerçaient le pouvoir politique à travers le Sénat. Les plébéiens étaient ainsi exclus du pouvoir.
 
@@ -36,22 +51,68 @@
 	 Les luttes entre patriciens et plébéiens ont été une caractéristique importante de la politique romaine. Ces conflits ont conduit à des concessions politiques pour la plèbe, comme la création des tribuns de la plèbe. Au fil du temps, ces luttes ont également contribué à l'évolution du système politique romain, en introduisant des mécanismes de protection des droits des plébéiens et une plus grande ouverture du pouvoir politique.
 
 ---
+%%
+1. Les consuls : Les consuls étaient les magistrats les plus élevés de la République romaine.
+	1. Ils étaient choisis chaque année parmi les patriciens, les membres des grandes familles aristocratiques. 
+	2. Ils héritaient du pouvoir suprême des anciens rois, mais contrairement à un seul roi, ils exerçaient leur pouvoir à deux. C'est pourquoi on parle du principe juridique de l'annualité, selon lequel leur mandat ne durait qu'une année.
+
+3. Les tribuns de la plèbe : 
+	1. À partir de l'année 494 av. J.-C., la plèbe a obtenu le droit d'avoir ses propres magistrats pour la protéger contre les abus de pouvoir des patriciens. C
+	2. es magistrats, appelés tribuns de la plèbe, étaient élus par la plèbe et formaient un collège. Initialement au nombre de deux, leur nombre a augmenté au fil du temps. 
+	3. Les tribuns avaient le pouvoir de s'opposer aux décisions des consuls et de défendre les intérêts de la plèbe. Cela a introduit le principe de collégialité, selon lequel les magistratures devaient être exercées collectivement.
+
+4. Le pouvoir des tribuns : 
+	1. Le collège des tribuns ne participait pas directement au gouvernement de la République, qui restait l'apanage des consuls. Leur rôle principal était de défendre collectivement la plèbe contre les abus de pouvoir, mais aussi de fournir une protection individuelle aux plébéiens. 
+	2. Leur pouvoir était principalement un pouvoir de veto, leur permettant d'empêcher l'adoption de mesures préjudiciables à la plèbe.
+
+6. Nature oligarchique de la République : En effet, le régime républicain romain n'était pas démocratique au sens moderne du terme, mais plutôt oligarchique. 
+	1. Le pouvoir était concentré entre les mains de quelques-uns, principalement les patriciens, qui dominaient la scène politique. 
+	2. Cependant, au fil du temps, la plèbe a obtenu des concessions politiques et des garanties pour ses droits, ce qui a conduit à une certaine ouverture du système politique.
+   %%
+   
 **1. Quels étaient les consuls dans la République romaine et comment étaient-ils choisis ?**
 	Les consuls étaient les magistrats les plus élevés de la République romaine. Chaque année, deux consuls étaient choisis parmi les patriciens, les membres des grandes familles aristocratiques. Contrairement à un seul roi, les consuls exerçaient leur pouvoir à deux, conformément au principe de l'annualité.
 
 **2. Quel était le rôle des tribuns de la plèbe dans la République romaine ?**
 	Les tribuns de la plèbe étaient des magistrats élus par la plèbe à partir de l'année 494 av. J.-C. Leur rôle principal était de protéger la plèbe contre les abus de pouvoir des patriciens. Les tribuns formaient un collège et avaient le pouvoir de s'opposer aux décisions des consuls, introduisant ainsi le principe de collégialité.
 
-3. Comment les tribuns de la plèbe exerçaient-ils leur pouvoir dans la République romaine ?
-   - Le collège des tribuns de la plèbe ne participait pas directement au gouvernement de la République. Leur pouvoir était principalement un pouvoir de veto, leur permettant d'empêcher l'adoption de mesures préjudiciables à la plèbe. Ils avaient également le rôle de défendre collectivement la plèbe contre les abus de pouvoir et de fournir une protection individuelle aux plébéiens.
+**3. Comment les tribuns de la plèbe exerçaient-ils leur pouvoir dans la République romaine ?**
+	Le collège des tribuns de la plèbe ne participait pas directement au gouvernement de la République. Leur pouvoir était principalement un pouvoir de veto, leur permettant d'empêcher l'adoption de mesures préjudiciables à la plèbe. Ils avaient également le rôle de défendre collectivement la plèbe contre les abus de pouvoir et de fournir une protection individuelle aux plébéiens.
 
-4. Quelle était la nature du régime républicain romain ?
-   - Le régime républicain romain était de nature oligarchique plutôt que démocratique. Le pouvoir était concentré entre les mains de quelques-uns, principalement les patriciens qui étaient membres des grandes familles aristocratiques. Cependant, au fil du temps, la plèbe a obtenu des concessions politiques et des garanties pour ses droits, ce qui a entraîné une certaine ouverture du système politique.
+**4. Quelle était la nature du régime républicain romain ?**
+	Le régime républicain romain était de nature oligarchique plutôt que démocratique. Le pouvoir était concentré entre les mains de quelques-uns, principalement les patriciens qui étaient membres des grandes familles aristocratiques. Cependant, au fil du temps, la plèbe a obtenu des concessions politiques et des garanties pour ses droits, ce qui a entraîné une certaine ouverture du système politique.
 
-5. Comment les consuls étaient-ils différents des rois dans la République romaine ?
-   - Contrairement aux rois qui exerçaient un pouvoir absolu, les consuls exerçaient leur pouvoir à deux. Ils étaient choisis chaque année parmi les patriciens et leur mandat était limité à une année, conformément au principe de l'annualité. Ainsi, le pouvoir des consuls était plus temporaire et partagé que celui des rois.
+**5. Comment les consuls étaient-ils différents des rois dans la République romaine ?**
+	Contrairement aux rois qui exerçaient un pouvoir absolu, les consuls exerçaient leur pouvoir à deux. Ils étaient choisis chaque année parmi les patriciens et leur mandat était limité à une année, conformément au principe de l'annualité. Ainsi, le pouvoir des consuls était plus temporaire et partagé que celui des rois.
 
 ---
+%%
+Dans la Constitution de la République romaine, bien qu'elle ne ressemble pas aux constitutions modernes, on peut trouver certains prémices de concepts constitutionnels. Voici une explication des organes et des mécanismes institutionnels de la Constitution romaine :
+
+1. Le conseil aristocratique (sénat) : Le sénat était l'organe central de la République romaine. 
+	1. Il était composé des chefs des grandes familles patriciennes, les aristocrates romains. 
+	2. Le sénat exerçait une autorité morale puissante (auctoritas) et conservait son influence tout au long de la République. 
+	3. Au début, il était principalement composé de patriciens, mais progressivement, il s'est ouvert à la plèbe et a accueilli une nouvelle noblesse.
+
+3. Les assemblées : Les assemblées rassemblaient l'ensemble du peuple romain et étaient appelées les comices. 
+	1. Certaines assemblées étaient spécifiquement réservées aux citoyens d'origine plébéienne et étaient connues sous le nom d'assemblées de la plèbe. Ces assemblées avaient le pouvoir de voter les lois et d'élire les magistrats. 
+	2. En théorie, tous les citoyens avaient un accès égal aux assemblées, mais en pratique, seuls les citoyens les plus aisés étaient souvent en mesure de participer aux décisions en raison de l'organisation des comices.
+
+5. Les magistratures : Aux côtés des consuls, les magistrats occupaient une place importante dans la Constitution romaine. 
+	1. Les préteurs étaient les magistrats les plus importants après les consuls et jouaient un rôle décisif dans l'évolution du droit romain. 
+	2. Les édiles étaient responsables de la gestion quotidienne des villes, 
+	4. questeurs s'occupaient des affaires financières. 
+	5. Ces magistratures étaient permanentes, et leurs titulaires étaient élus chaque année.
+
+7. Les censeurs : 
+	1. Les censeurs étaient chargés de procéder au recensement des citoyens et de désigner les sénateurs. 
+	2. Ils évaluaient la fortune des citoyens afin de les répartir en différentes classes. 
+	3. De plus, ils exerçaient un contrôle sur la conduite civique et morale des citoyens. 
+	4. Les censeurs proposaient des membres pour le sénat, qui étaient ensuite soumis à des élections.
+
+9. Hiérarchie des magistratures : À l'apogée de la République, les magistratures étaient hiérarchisées les unes par rapport aux autres. Il existait une progression graduelle appelée le cursus honorum, où il était nécessaire d'exercer les charges inférieures avant de pouvoir accéder à des magistratures de plus haut niveau.
+%%
+
 **1. Qui composait le sénat dans la République romaine ?**
 	Le sénat était composé des chefs des grandes familles patriciennes, les aristocrates romains.
 

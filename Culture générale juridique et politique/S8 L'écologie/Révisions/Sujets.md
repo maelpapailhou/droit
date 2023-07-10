@@ -1,6 +1,7 @@
 La crise écologique est un problème public d'envergure internationale qui nécessite une prise en charge par les autorités publiques. C'est un problème complexe qui ne peut être résolu qu'à travers la coordination de plusieurs États nations. Toutefois, tous les États ne sont pas également capables de mettre en place des politiques publiques pour limiter les émissions de gaz à effet de serre (GES) et répondre à la crise écologique, ce qui soulève la question de la responsabilité des États.
 
-La crise écologique, en particulier le réchauffement climatique, trouve ses racines dans la Révolution industrielle, qui a débuté au XVIIIe et XIXe siècles en Europe. Les scientifiques, en particulier les climatologues, ont été les premiers à alerter sur les conséquences néfastes du réchauffement climatique causé par les activités humaines. Parallèlement, des économistes tels que les auteurs du rapport Meadows du Club de Rome remettaient en question les théories économiques qui ne prenaient pas en compte les contraintes physiques et les limites de la planète.
+La crise écologique, en particulier le réchauffement climatique, trouve ses racines dans la Révolution industrielle, qui a débuté au XVIIIe et XIXe siècles en Europe. Les scientifiques, en particulier les climatologues, ont été les premiers à alerter sur les conséquences néfastes du réchauffement climatique causé par les activités humaines. 
+	Parallèlement, des économistes tels que les auteurs du rapport Meadows du Club de Rome remettaient en question les théories économiques qui ne prenaient pas en compte les contraintes physiques et les limites de la planète.
 
 Au fil du temps, la crise écologique est devenue un problème public, pris en charge par les autorités publiques. Les États ont pris des décisions et mis en place des politiques publiques pour lutter contre le réchauffement climatique et répondre à la crise écologique dans son ensemble. Cependant, il est légitime de se demander ce qui a été accompli concrètement depuis les années 1970, lorsque la crise écologique a commencé à être reconnue.
 
@@ -8,9 +9,7 @@ La crise écologique comporte différentes dimensions, et le réchauffement clim
 
 Outre le réchauffement climatique, l'extinction de la biodiversité constitue une autre dimension majeure de la crise écologique. Des millions d'espèces animales et végétales sont en voie d'extinction, ce qui est qualifié d'extinction de masse. Les conséquences de cette extinction seront profondes et durables, rappelant l'extinction des dinosaures il y a des millions d'années.
 
-La pollution est également une dimension importante de la crise écologique, bien qu'elle soit parfois moins discutée. Les émissions de CO2 restent dans l'atmosphère pendant des décennies, contribuant ainsi à l'
-
-effet de serre. De plus, la pollution plastique, la pollution lumineuse, les marées noires et la pollution des sols sont autant de problèmes qui ont des conséquences néfastes sur les écosystèmes et la santé humaine.
+La pollution est également une dimension importante de la crise écologique, bien qu'elle soit parfois moins discutée. Les émissions de CO2 restent dans l'atmosphère pendant des décennies, contribuant ainsi à l'effet de serre. De plus, la pollution plastique, la pollution lumineuse, les marées noires et la pollution des sols sont autant de problèmes qui ont des conséquences néfastes sur les écosystèmes et la santé humaine.
 
 Face à cette crise, les pouvoirs publics agissent et mettent en place des politiques publiques à l'échelle nationale et internationale. Depuis les années 1970, des conférences internationales sur l'environnement se sont multipliées, aboutissant à des accords tels que le Protocole de Kyoto en 1997 et l'Accord de Paris en 2015. Ces accords visent à limiter les émissions de GES et à maintenir le réchauffement climatique bien en dessous de 2°C par rapport aux niveaux préindustriels.
 

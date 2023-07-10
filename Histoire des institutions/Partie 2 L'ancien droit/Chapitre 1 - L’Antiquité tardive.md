@@ -6,6 +6,16 @@ On a une notion de la famille très différente de celle de Gallo-romain. En eff
 
 Cette romanisation de l’élite germanique fait naître chez certains des sentiments « anti-romains ». Les germains n’ont aucune envie de détruire Rome et ils vont essayer de se mouler dans le monde romain et notamment y chercher l’inspiration sur le plan politique. Pour les francs, l’empereur Tibère est assimilé au Dieu qu’attendait les romains, d’où le nom de Romano-germanique que l’on donne souvent aux romains car ces royaumes ont hérité de la romanité mais dans une logique différente de celle de Rome.  
 
+%%
+Les nouvelles populations germaniques qui ont émergé pendant le haut moyen âge ont hérité de Rome de plusieurs manières. Tout d'abord, elles ont hérité de la culture romaine à travers des échanges commerciaux et des interactions avec les Romains. Les Romains apportaient des richesses et des idées nouvelles aux populations germaniques, ce qui les fascinait. Les barbares germains étaient attirés par la sophistication de la culture romaine et aspiraient à lui ressembler.
+
+En outre, une partie de l'élite germanique s'est romanisée, adoptant le latin comme langue et s'inspirant du modèle politique romain. Ils cherchaient à se mouler dans le monde romain et à s'assimiler à la romanité. Pour les Francs, par exemple, l'empereur Tibère était assimilé au dieu attendu par les Romains, ce qui démontre leur volonté de s'intégrer dans l'héritage romain.
+
+Cependant, il est important de noter que cette romanisation n'était pas uniforme et que certains germains ont également développé des sentiments "anti-romains". Ils ne voulaient pas détruire Rome, mais cherchaient plutôt à hériter de la romanité d'une manière qui correspondait à leur propre logique et à leurs propres besoins politiques.
+
+Ainsi, les nouvelles populations germaniques ont hérité de Rome à la fois sur le plan culturel, linguistique et politique. Elles ont adopté certaines caractéristiques de la culture romaine, tout en développant leurs propres traditions et institutions. Cette fusion entre les cultures germaniques et romaines a finalement donné naissance à un nouveau modèle de société, marquant la transition entre la fin de l'Antiquité et le début du Moyen Âge.
+%%
+
 ## Section 1 : Les royaumes Romano-germaniques
 
 => pourquoi y a t il eu un effondrement de Rome 
@@ -15,11 +25,37 @@ Cela s’explique par plusieurs choses : 
 - Rome a été attaqué de toutes parts, intérieures comme extérieures. 
 - Rome est un structure politique sans doute trop grande et du coup difficilement gouvernable. « Rome est tombée car toute chose à une fin — Voltaire ». Même si Rome s’effondre, l’idée de romanité ne tombe pas. Ceux qui ont le plus bénéficié de la culture romaine ce sont les Goths, les Burgondes et les Vandales. 
 
+%%%
+L'effondrement de l'Empire romain s'explique par plusieurs facteurs qui se sont cumulés au fil du temps.
+
+Premièrement, Rome a été confrontée à des attaques incessantes de la part de peuples barbares venant des frontières de l'empire. Ces invasions extérieures ont mis à rude épreuve les défenses romaines et ont entraîné des pertes territoriales importantes. Les peuples germaniques tels que les Goths, les Burgondes et les Vandales ont profité de la chute de Rome pour établir leurs propres royaumes en s'appropriant une partie des terres romaines.
+
+Deuxièmement, l'empire romain était une structure politique immense et complexe à gouverner. Au fil du temps, il est devenu de plus en plus difficile pour un seul empereur de contrôler efficacement l'ensemble de l'empire. Des conflits internes, des luttes de pouvoir et des guerres civiles ont affaibli l'autorité centrale et ont contribué à la fragmentation de l'empire.
+
+Troisièmement, l'empire romain était confronté à des problèmes économiques. La surcharge fiscale, la corruption et la mauvaise gestion ont entraîné un déclin économique. Les coûts de maintien de l'immense bureaucratie romaine, de l'armée et des infrastructures ont mis une pression financière considérable sur l'empire. De plus, les invasions barbares ont perturbé les échanges commerciaux et affaibli l'économie romaine.
+
+Enfin, l'effondrement de Rome peut également être attribué à des facteurs socioculturels. L'empire romain a connu des changements sociaux importants, notamment la montée du christianisme, qui a modifié les valeurs et les croyances au sein de la société romaine. Ces changements ont pu contribuer à affaiblir la cohésion sociale et l'identité romaine.
+
+Il est important de souligner que bien que Rome se soit effondrée en tant qu'empire politique, l'idée de romanité n'a pas disparu. Les peuples barbares qui ont envahi les terres romaines ont souvent adopté des aspects de la culture romaine, contribuant ainsi à la transmission et à la préservation de certains éléments de la civilisation romaine dans les royaumes germaniques qui ont émergé par la suite.
+%%
+
 ### Sous section 1 : Les Goths 
 
 #### I / Le traité de Foedus
 
 A partir de 376, les barbares vont passer dans l’empire romain après avoir traversé le Danube. Le pouvoir politique romain notamment l’empereur Honorius signe avec les Goths un traité dit « Foedus » qui fait des Goths les alliées de Rome ils vont alors peu à peu demander une reconnaissance de la part des romains mais elle est longue à venir. En effet, le pouvoir politique romain leur fait des promesses notamment obtenir une terre sur laquelle ils pourront s’installer et se gouverner avec leurs coutumes cependant le pouvoir politique romain oubli ses engagements et la conséquence en est que les Goths exaspérés s’énervent cherchant en endroit où se fixer. Ils vont donc errer longuement et vont mettre en massacre Rome en l’an 410. 
+
+%%
+Le traité de Foedus entre l'empire romain et les Goths en 376 a marqué un tournant dans les relations entre les deux parties. Les Goths, un peuple germanique, ont traversé le Danube et sont entrés dans l'empire romain, cherchant refuge face à la pression exercée par les Huns. L'empereur romain Honorius a conclu ce traité, accordant aux Goths le statut d'alliés de Rome.
+
+Ce traité prévoyait que les Goths recevraient des terres pour s'installer et vivre selon leurs propres coutumes. Cependant, la réalisation de ces promesses a été lente et problématique. Le pouvoir politique romain a souvent négligé ses engagements envers les Goths, retardant la reconnaissance officielle de leurs terres et de leur autonomie. Cette situation a frustré les Goths qui se sont sentis trahis.
+
+En conséquence, les Goths se sont retrouvés sans lieu de résidence fixe, errant à la recherche d'un endroit où s'installer. Leur frustration et leur colère ont atteint leur paroxysme, conduisant à l'événement marquant de l'histoire des Goths : le sac de Rome en 410. Les Goths, dirigés par leur roi Alaric, ont pris d'assaut la ville et ont pillé une partie de ses richesses.
+
+Ce sac de Rome a été un événement choquant et symbolique, car c'était la première fois en près de huit siècles que la ville était prise par des forces étrangères. Il a envoyé un message clair que l'empire romain était vulnérable et que même ses anciens alliés pouvaient se retourner contre lui en raison du non-respect des accords.
+
+Le sac de Rome en 410 est souvent considéré comme un tournant dans l'histoire de l'Empire romain, car il a marqué une étape importante de la désintégration de son autorité et de sa puissance. Cet événement a également illustré les défis auxquels l'empire romain était confronté, notamment la difficulté de gérer les migrations de peuples barbares et de maintenir des relations stables avec eux.
+%%
 
 #### II / Le régime juridique de l’Hospitalitas
 
@@ -29,6 +65,17 @@ Le principe de l’hospitalitas est le suivant : 
 
 L’empereur romain oblige les grands propriétaires romains à partager leurs domaines c’est à dire les terres et les esclaves avec les chefs barbares (les Goths). Ce partage s’effectue selon des règles précises puisque chez les Wisigoths le barbare prend traditionnellement les deux tiers des terres et le tiers des esclaves ce qui veut dire que le romain conserve le reste. On a là un exemple remarquable d’une gestion d’une situation de crise par le droit montrant ainsi la vertu pacificatrice du droit
 
+%%
+Après le sac de Rome en 410, l'État romain a dû réorganiser l'installation des barbares, y compris les Goths, sur le territoire romain. Un régime juridique spécifique appelé "Hospitalitas" (l'hospitalité) a été mis en place pour encadrer cette situation.
+
+Selon le principe de l'hospitalitas, les Goths, bien qu'ils n'aient pas été invités initialement, étaient considérés comme les hôtes de Rome. L'empereur romain a ordonné aux grands propriétaires romains de partager leurs domaines, y compris les terres et les esclaves, avec les chefs barbares goths. Ce partage s'est effectué selon des règles précises.
+
+Chez les Wisigoths, par exemple, le barbare prenait traditionnellement les deux tiers des terres et un tiers des esclaves, tandis que le propriétaire romain conservait le reste. Cette répartition équitable était destinée à assurer une certaine stabilité sociale et économique entre les Goths et les Romains.
+
+Le recours à un régime juridique tel que l'hospitalitas pour gérer cette situation de crise illustre la capacité de l'État romain à utiliser le droit comme un outil pacificateur. En établissant des règles claires et en répartissant les ressources de manière équitable, l'État romain espérait atténuer les tensions et favoriser une coexistence relativement harmonieuse entre les Goths et les Romains.
+
+Cette approche juridique démontre également la capacité de l'Empire romain à s'adapter et à intégrer les populations barbares sur son territoire. Plutôt que de les considérer uniquement comme des envahisseurs, l'État romain a cherché à réglementer leur présence et à les intégrer dans la société romaine existante, ce qui témoigne de la complexité des relations entre les barbares et Rome à cette époque.
+%%
 
 #### III / Les Goths : un peuple chrétien
 
@@ -38,6 +85,21 @@ Isidor de Serviles a essayé de faire une théorie de la royauté Wisigoths en r
 
 - Le premier élément politique qu’il va chercher dans l’Antiquité 
 - Le deuxième élément s’inspire alors de la bible particulièrement de l’ancien testament. 
+
+%%
+Les Goths, bien qu'arrivés en Aquitaine en petit nombre, étaient extrêmement influents sur le plan religieux. Ils étaient chrétiens, mais leur interprétation du christianisme différait de celle des Gallo-romains, car ils étaient ariens. Les Gallo-romains, quant à eux, étaient majoritairement des chrétiens catholiques.
+
+L'arianisme était une doctrine théologique qui niait la divinité égale du Fils (Jésus) par rapport au Père dans la Trinité. Cette divergence théologique a créé des tensions entre les Goths ariens et les Gallo-romains catholiques. Malgré cela, les Goths ont pu maintenir leur identité religieuse distincte au sein de la société romaine.
+
+Il est également important de souligner que les Goths ont migré vers d'autres régions, notamment l'Espagne, où ils se sont installés à Barcelone puis à Tolède. C'est là que le grand penseur Isidore de Séville a émergé. Isidore de Séville a tenté de développer une théorie de la royauté wisigothe en s'appuyant sur deux éléments principaux.
+
+Premièrement, il a puisé des références politiques dans l'Antiquité, cherchant des modèles et des principes de gouvernement qui pourraient être appliqués à la royauté wisigothe. Il a probablement étudié les écrits des philosophes et des penseurs politiques de l'Antiquité, tels que les philosophes grecs et les auteurs romains, pour s'inspirer de leurs idées sur le gouvernement et la politique.
+
+Deuxièmement, Isidore de Séville s'est appuyé sur la Bible, en particulier l'Ancien Testament, pour trouver des justifications religieuses et des exemples de gouvernance dans le contexte de la royauté wisigothe. Il a peut-être puisé dans les récits bibliques sur les rois et les dirigeants de l'ancien Israël pour trouver des parallèles et des enseignements applicables à la situation des Goths.
+
+Isidore de Séville a ainsi cherché à combiner des éléments politiques de l'Antiquité avec des références bibliques pour élaborer une théorie de la royauté wisigothe. Son travail reflète la volonté des Goths de légitimer leur gouvernement et leur royauté en s'appuyant sur des fondements historiques et religieux.
+%%
+
 
 #### IV / La transmission du pouvoir royal chez les Goths. 
 
@@ -54,6 +116,18 @@ En fait, ses agents du roi sont à la fois des chefs militaires ce sont aussi de
 Troisième constat : 
 
 La notion d’administration wisigothiques est bien romaine. Il existait dans l’administration « un cursus honorum » consistant à faire carrière dans la fonction publique. En principe chez les Goths on commence à administrer dans l’entourage du Roi puis on va vers les cités. Le Roi cherche d’abord à instruire ses contes et lorsqu’ils sont dignes de confiance ils vont dans les campagnes. Si on recherche des points communs aux deux civilisations germanique et romaine et bien constate que les deux royaumes utilisent le droit comme instrument de pouvoir, les Rois Goths sont des législateurs à l’image des romains parce qu’il refonde l’ordre juridique 
+
+%%
+Chez les Goths, la transmission du pouvoir royal et l'exercice du gouvernement étaient marqués par plusieurs caractéristiques distinctes.
+
+Tout d'abord, le roi goth choisissait une capitale pour symboliser sa puissance. Cette notion de capitale était nouvelle pour les Goths, car traditionnellement, ils n'avaient pas de concept équivalent. En outre, il n'existait pas de règles de succession fixe, bien que la primogéniture au sein d'une famille tendait à être privilégiée. Le pouvoir était principalement concentré entre les mains d'une famille, car il n'y avait pas d'assemblée du peuple. Les grands, quant à eux, ne participaient aux décisions politiques que lorsque celles-ci les concernaient directement.
+
+Deuxièmement, les successions au trône, les déclarations de guerre et les traités étaient gérés par l'entourage du roi, qui était romantisé. Le roi s'entourait de compagnons appelés "comtes", et ces agents du roi commandaient les districts urbains du royaume. Ils exerçaient également un pouvoir exécutif au niveau local. Ces agents du roi étaient à la fois des chefs militaires, des collecteurs d'impôts, des chefs de la police et des juges civils et criminels.
+
+Troisièmement, l'administration chez les Wisigoths présentait des similitudes avec l'administration romaine. Il existait une notion de "cursus honorum", qui consistait à faire carrière dans la fonction publique. Les Goths commençaient généralement leur parcours administratif dans l'entourage du roi, puis étaient progressivement envoyés dans les cités. Le roi cherchait d'abord à instruire ses comtes et, lorsqu'ils étaient dignes de confiance, ils étaient affectés aux campagnes. Ainsi, on observe une certaine continuité avec l'administration romaine dans la manière dont le pouvoir était exercé et organisé.
+
+Enfin, il est important de souligner que les rois goths étaient des législateurs, à l'image des Romains. Ils utilisaient le droit comme un instrument de pouvoir et refondaient l'ordre juridique selon leurs besoins. Cette utilisation du droit renforce les similarités entre les cultures germanique et romaine, montrant que les royaumes goths ont intégré certains éléments de l'administration et du système juridique romains.
+%%
 
 #### V / Le droit instrument du pouvoir chez les Goths
 
@@ -77,15 +151,51 @@ En effet la loi, salique elle se présente quant à sa structure comme un pacte 
 
 Un tiers de la composition pécuniaire est versée au Roi c ‘est donc ce que l’on appelle le Fredus que l’on peut traduire par : argent de paix. Le Fredus s’ajoute au Wergeld qui lui est le prix du sang représente le tiers de la composition pécuniaire et versé au roi. Le roi en effet n’a pas la possibilité de punir un homme libre pour diverses peines, il ne peut que prononcer un fredus. 
 
+%%
+La loi salique, qui a été rédigée après le baptême de Clovis en 496 et révisée à l'époque de Charlemagne vers 770, joue un rôle central dans le système juridique des Goths.
+
+1. Le principe des compositions pécuniaires : La loi salique repose largement sur le principe des compositions pécuniaires. En cas d'infraction, le coupable est tenu de composer avec sa victime en lui versant une somme d'argent ou une valeur équivalente. Il s'agit d'une approche privatisée du droit pénal, où l'indemnisation de la victime prime sur la peine publique. La loi salique énumère une liste croissante d'infractions, qu'elles portent atteinte aux biens ou aux personnes.
+
+2. Le Wergeld : Le Wergeld, que l'on pourrait traduire par "le prix de l'Homme", est un exemple de composition pécuniaire prévu par la loi salique. Il est principalement appliqué dans le cas d'un homicide. Les tarifs varient en fonction du statut de la personne. Par exemple, le prix d'un Franc ordinaire est fixé à 200 sous d'or, tandis que celui d'un Romain est de 100 sous. Un Franc sous la protection du Roi vaut 600 sous, et un Romain convive du roi vaut 300 sous. Le Wergeld s'applique également aux blessures, en fonction de leur gravité apparente. Bien que de notre point de vue moderne, cela puisse sembler un moyen de résoudre les conflits de manière très primitive dans le cas d'un homicide, la loi salique représente néanmoins un progrès par rapport au droit germanique antérieur.
+
+3. L'influence chrétienne et romaine de la loi salique : La loi salique reflète à la fois des influences chrétiennes et romaines. Avec le baptême de Clovis en 496, la loi salique intègre des principes chrétiens en matière de justice pénale, axés sur la paix et le pardon. L'objectif est de rétablir une paix durable entre les parties en litige. Ainsi, la loi salique interdit la vengeance et rend la réconciliation obligatoire. Si la loi ne peut pas imposer un véritable pardon, elle contraint au moins la victime et sa famille à renoncer à toute vengeance en acceptant la composition. Cette conception chrétienne est associée à une structure inspirée du droit romain. La loi salique se présente comme un pacte, au sens romain du terme, conclu entre les Francs et leurs chefs pour mettre fin à une spirale de violence et de vengeances privées sans fin. Ce pacte porte à la fois sur le rejet de la vengeance primitive et sur les montants des compositions destinées à la remplacer.
+
+4. Le fredus : Un tiers de la composition pécuniaire est versé au roi, ce qui est appelé le fredus, traduit par "argent de paix". Le fredus s'ajoute au Wergeld, qui représente le prix du sang, soit les deux tiers de la composition pécuniaire. Le roi n'a pas la possibilité de prononcer diverses peines contre un homme libre, il ne peut que décréter un fredus.
+
+En résumé, la loi salique des Goths repose sur le principe des compositions pécuniaires, où le coupable doit dédommager sa victime. Elle intègre des influences chrétiennes en mettant l'accent sur la réconciliation et la paix, tout en présentant une structure inspirée du droit romain. De plus, un tiers de la composition est versé au roi sous la forme du fredus.
+%%
+
 ##### B / La loi gombette
 
 La loi gombette c’est la loi nationale des burgondes, elle a été rédigée sur ordre du Roi de Burgonde, Gondebaud. Elle a subi une forme influence du droit romain cependant on peut dire que les traits germaniques sont tout de même très présents. Dans cette loi on observe une forte solidarité familiale, on a aussi un emploi du serment purgatoire (institution dans laquelle l’accusée dit qu’il est innocent), on emploi aussi le duel judiciaire typiquement allemande, c’est une procédure fondée sur les ordalies et ce duel permet de statuer sur des accusations en l’absence de témoins ou encore d’aveux. 
+
+%%
+La loi gombette, également connue sous le nom de loi nationale des Burgondes, a été rédigée sur ordre du roi Gondebaud, roi des Burgondes. Cette loi présente une combinaison d'influences du droit romain et de traits germaniques. Cependant, les caractéristiques germaniques sont prédominantes.
+
+1. Solidarité familiale : La loi gombette met en évidence une forte solidarité familiale. Les relations familiales et les droits des membres de la famille occupent une place importante dans cette loi. Les obligations et les responsabilités envers la famille sont soulignées, et les sanctions en cas de violation de ces obligations sont prévues.
+
+2. Serment purgatoire : Cette loi emploie également l'institution du serment purgatoire. L'accusé déclare solennellement son innocence en prêtant serment. Le serment purgatoire était une pratique courante dans certaines cultures germaniques, où l'accusé devait prouver son innocence par un serment solennel, souvent en présence de témoins.
+
+3. Duel judiciaire : La loi gombette fait également usage du duel judiciaire, une pratique typiquement germanique. Il s'agit d'une procédure légale dans laquelle les parties en conflit s'affrontent physiquement pour résoudre un différend. Le duel judiciaire est fondé sur l'idée que la puissance divine déterminera l'issue du combat et révélera la vérité. Cette procédure est souvent utilisée en l'absence de témoins ou d'aveux pour statuer sur des accusations.
+
+En résumé, la loi gombette, loi nationale des Burgondes, reflète une combinaison d'influences du droit romain et de coutumes germaniques. Elle met en avant la solidarité familiale, utilise le serment purgatoire pour établir l'innocence d'un accusé, et recourt au duel judiciaire pour résoudre des conflits en l'absence de preuves tangibles.
+%%
 
 ##### C / Le bréviaire d’Alaric
 
 En 506 le Roi Wisigoths qui régnait à Toulouse, Alaric promulgue une loi romaine pour ses sujets romains. L’objectif affiché dès le préambule de la loi c’est de :  « faire disparaître toute obscurités dans les lois romaines et les droits ». 
 
 A partir du XVI ème siècle, on appellera ce texte bréviaire d’Alaric. En réalité ce fameux bréviaire n’est pas une nouvelle rédaction du droit, c’est tout simplement compilation c’est-à-dire la juxtaposition de textes déjà publiés ou connus. On retrouve la majeur parti du Code Théodosien assorti de ses interprétations ainsi que des constitutions impériales postérieures au code et un certain nombre d’oeuvres doctrinales. On observe que dans les interprétations placées au début du bréviaire font apparaître que le Roi est qualifié de princeps**,** de ce fait le Roi se trouve lié par la loi. On constate que l’ensemble du bréviaire est à peine classé, il est assez hétéroclite et sa publication hâtive s’explique par le soucis du Roi Alaric de complaire à ses sujets romains et catholiques en simplifiants les sources du droit. Il fait de ce bréviaire une opération politique au moment où le baptême de Clovis en fait le champion de l’église. Plus tard, Clovis conservera ce bréviaire qui s’appliquera à tout la Gaule et c’est donc ce texte qui constituera le recueil officiel du droit romain pour tout le royaume franc jusqu’au Xe siècle. 
+
+%%
+Le bréviaire d'Alaric est une compilation de lois promulguée en 506 par Alaric, roi des Wisigoths régnant à Toulouse. Son objectif principal, tel qu'exprimé dans le préambule de la loi, était de clarifier les lois romaines et les droits pour ses sujets romains.
+
+À partir du XVIe siècle, ce texte a été appelé le bréviaire d'Alaric. En réalité, ce fameux bréviaire n'est pas une nouvelle rédaction du droit, mais plutôt une compilation de textes déjà publiés ou connus. Il comprend principalement une grande partie du Code Théodosien et de ses interprétations, ainsi que des constitutions impériales postérieures au code et plusieurs œuvres doctrinales.
+
+Les interprétations placées au début du bréviaire soulignent le statut du roi en tant que princeps, ce qui signifie que le roi lui-même est lié par la loi. La compilation du bréviaire est peu structurée et assez hétéroclite, mais sa publication rapide s'explique par le désir du roi Alaric de satisfaire ses sujets romains et catholiques en simplifiant les sources du droit. Il a utilisé ce bréviaire comme une mesure politique pour consolider son soutien, notamment après le baptême de Clovis, qui a fait de lui le champion de l'Église.
+
+Plus tard, Clovis a conservé ce bréviaire, qui s'appliquait à toute la Gaule. C'est donc ce texte qui est devenu le recueil officiel du droit romain pour l'ensemble du royaume franc jusqu'au Xe siècle. Le bréviaire d'Alaric a joué un rôle important dans l'histoire juridique de la France, en particulier pendant la période franque.
+%%
 
 ### Sous section 2 : Les francs 
 

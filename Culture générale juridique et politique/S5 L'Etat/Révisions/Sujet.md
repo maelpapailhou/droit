@@ -1,4 +1,3 @@
-
 ### Introduction :
 
 La définition de l'État est un concept paradoxal, faisant **consensus en droit alors qu'il est sujet à de nombreux débats en sciences politiques**. 
@@ -9,24 +8,32 @@ Cette divergence de définitions soulève des questionnements sur la **nature m�
 
 ### I. L'approche juridique de l'État et ses limites
 
-Selon l'approche juridique, l'État est défini par trois éléments fondamentaux : **un territoire, un peuple et un gouvernement**. Le **droit a largement traité de la question de l'État**, en particulier à travers ses *branches telles que le droit constitutionnel et le droit administratif*. Cependant, cette définition ne suscite que **peu de controverses scientifiques en droit**, bien qu'elle soit **sujette à des nuances** **et spécificités**. Le territoire, délimité par des frontières reconnues par d'autres États, constitue l'espace où s'appliquent les règles et normes juridiques et où s'exerce le pouvoir de l'État. Cependant, la **notion de territoire et de frontières est mise à mal par la mondialisation et la globalisation**, ce qui **fragilise la définition juridique de l'État.**
-
-De même, la population, composée des **individus assujettis au droit de l'État**, pose des questions complexes. Entre le peuple *ressortissant, détenteur de la nationalité du pays, et le peuple résident*, constitué de personnes vivant sur le territoire sans être nécessairement citoyens, se pose la question du **pouvoir des étrangers et de l'influence de leur présence sur l'État**.
-
-Enfin, le **pouvoir souverain ou gouvernement**, **détenteur du monopole de la contrainte physique légitime**, représente l'**autorité de l'État**. Toutefois, cette souveraineté peut être remise en question dans le *cadre de la construction de l'Union européenne*, où certaines décisions **échappent à la seule autorité des États membres**. Ainsi, l'approche juridique de l'État offre une **définition consensuelle**, mais qui nécessite une *réflexion plus approfondie pour en saisir toute la complexité et les limites*.
+Selon l'approche juridique, l'État est défini par trois éléments fondamentaux : **un territoire, un peuple et un gouvernement**. Le **droit a largement traité de la question de l'État**, en particulier à travers ses *branches telles que le droit constitutionnel et le droit administratif*. 
+- Cependant, cette définition ne suscite que **peu de controverses scientifiques en droit**, bien qu'elle soit **sujette à des nuances** **et spécificités**. 
+	- Le territoire, délimité par des frontières reconnues par d'autres États, constitue l'espace où s'appliquent les règles et normes juridiques et où s'exerce le pouvoir de l'État. 
+		- Cependant, la **notion de territoire et de frontières est mise à mal par la mondialisation et la globalisation**, ce qui **fragilise la définition juridique de l'État.**
+	- De même, la population, composée des **individus assujettis au droit de l'État**, pose des questions complexes. 
+		- Entre le peuple *ressortissant, détenteur de la nationalité du pays, et le peuple résident*, constitué de personnes vivant sur le territoire sans être nécessairement citoyens, se pose la question du **pouvoir des étrangers et de l'influence de leur présence sur l'État**.
+	- Enfin, le **pouvoir souverain ou gouvernement**, **détenteur du monopole de la contrainte physique légitime**, représente l'**autorité de l'État**. 
+		- Toutefois, cette souveraineté peut être remise en question dans le *cadre de la construction de l'Union européenne*, où certaines décisions **échappent à la seule autorité des États membres**. Ainsi, l'approche juridique de l'État offre une **définition consensuelle**, mais qui nécessite une *réflexion plus approfondie pour en saisir toute la complexité et les limites*.
 
 ### II. L'approche weberienne de l'État en sciences politiques
 
-L'approche weberienne, proposée par le sociologue allemand Max Weber, est l'une des définitions les plus utilisées en sciences politiques. Selon Weber, l*'**État est une entreprise politique de caractère institutionnel, dont la direction administrative revendique une domination légitime sur un territoire et une population donnés***. Cette approche met l'accent sur la *légitimité et le monopole de la violence exercé par l'État*, ainsi que sur l'existence d'une bureaucratie qui assure son fonctionnement.
+L'approche weberienne, proposée par le sociologue allemand Max Weber, est l'une des définitions les plus utilisées en sciences politiques. 
+	Selon Weber, l*'**État est une entreprise politique de caractère institutionnel, dont la direction administrative revendique une domination légitime sur un territoire et une population donnés**
+
+Cette approche met l'accent sur la *légitimité et le monopole de la violence exercé par l'État*, ainsi que sur l'existence d'une bureaucratie qui assure son fonctionnement.
 
 Weber distingue **trois types de légitimité** : 
 - la **légitimité traditionnelle**, basée sur des coutumes et des traditions ancestrales ; 
 - la **légitimité charismatique**, accordée à des leaders exceptionnels en raison de leur personnalité ou de leurs compétences particulières ; 
 - et enfin, la **légitimité rationnelle-légale**, qui repose sur des règles et des lois formelles.
 
-Selon Weber, l'**État moderne repose principalement sur la légitimité rationnelle-légale**, où les citoyens reconnaissent l'autorité de l'État en raison de la *légalité de ses actions*. Cette approche souligne l'**importance des institutions** et de la bureaucratie dans le **fonctionnement de l'État**, ainsi que la **nécessité de l'existence d'une structure hiérarchique** pour exercer le pouvoir de manière efficace.
+Selon Weber, l'**État moderne repose principalement sur la légitimité rationnelle-légale**, où les citoyens reconnaissent l'autorité de l'État en raison de la *légalité de ses actions*. 
+	Cette approche souligne l'**importance des institutions** et de la bureaucratie dans le **fonctionnement de l'État**, ainsi que la **nécessité de l'existence d'une structure hiérarchique** pour exercer le pouvoir de manière efficace.
 
-Toutefois, cette définition de l'État peut être critiquée pour sa **focalisation excessive sur l'aspect institutionnel et bureaucratique**, au détriment d'**autres dimensions de la réalité étatique**. Par exemple, elle *néglige les aspects culturels, économiques et sociaux* qui **contribuent également à la construction et au fonctionnement de l'État**.
+Toutefois, cette définition de l'État peut être critiquée pour sa **focalisation excessive sur l'aspect institutionnel et bureaucratique**, au détriment d'**autres dimensions de la réalité étatique**. 
+	Par exemple, elle *néglige les aspects culturels, économiques et sociaux* qui **contribuent également à la construction et au fonctionnement de l'État**.
 
 ### III. Une autre approche de l'État : entre réalité sociale et dynamiques de pouvoir
 

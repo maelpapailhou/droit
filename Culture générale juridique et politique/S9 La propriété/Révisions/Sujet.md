@@ -1,4 +1,7 @@
-La propriété est un concept complexe qui revêt à la fois une dimension juridique et une dimension sociale. Dans le langage courant, la propriété désigne le fait de posséder un bien en propre et d'en user comme on le désire. En droit, la propriété est définie par l'article 544 du code civil comme le droit de jouir et de disposer des choses de manière absolue. En sciences sociales, on préfère souvent utiliser les termes de patrimoine et de capital pour étudier les inégalités de propriété dans les sociétés.
+La propriété est un concept complexe qui revêt à la fois une **dimension juridique et une dimension sociale**. 
+- Dans le langage courant, la propriété désigne le fait de posséder un bien en propre et d'en user comme on le désire. 
+- En droit, la propriété est définie par l'article 544 du code civil comme le droit de jouir et de disposer des choses de manière absolue. 
+- En sciences sociales, on préfère souvent utiliser les termes de patrimoine et de capital pour étudier les inégalités de propriété dans les sociétés.
 
 La propriété individuelle telle qu'elle est comprise aujourd'hui est le résultat d'un héritage historique qui trouve ses racines dans la période révolutionnaire en France. Avant la Révolution, la propriété des terres était souvent attribuée par le roi à des vassaux qui les redistribuaient ensuite aux paysans. Cependant, à partir du XVIIIe siècle, les paysans ont commencé à conserver leurs terres, ce qui a conduit à une consolidation de la propriété individuelle. C'est lors de la Révolution française que l'idée d'une propriété accessible à tous a émergé, visant à abolir les privilèges de l'Ancien Régime.
 
