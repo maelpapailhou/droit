@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "a5211c55dd85410c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b17f03d660e62ead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84a4b35e0e2538d8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18a610b8f7556cec",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f8f05ea89a26ef4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a859a7f9ac6554a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "459c2afba69607ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f2ea002e5de4af4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5
+  },
+  "right": {
+    "id": "3efb3bc837ac7127",
+    "type": "split",
+    "children": [
+      {
+        "id": "17c82e9d407d5abb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce37d664eb017d13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9889a35f50a54052",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dfd4cf562b9079d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a8eb0a58de9112ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "84a4b35e0e2538d8",
+  "lastOpenFiles": [
+    "Relations Internationales/Chapitre 3 - La scène de la société monde/Aller plus loin/BRESSANT, Albert et DISTLER, Catherine, La planète relationnelle, Paris, Flammarion, 1995.md",
+    "Relations Internationales/Chapitre 3 - La scène de la société monde/Aller plus loin/BOURDIEU, Pierre, « L’opinion publique n’existe pas ».md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Ouvrages de synthèse/TAWIL, Emmanuel, Relations internationales, 2016, p. 116-197..md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Ouvrages de synthèse/ROCHE, Jean-Jacques, Relations internationales, 2014, p. 143- 188..md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Ouvrages de synthèse/LAROCHE, Josepha, Politique internationale, 1998, p. 123-156..md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Momento révisions/Définitions.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Momento révisions/Cours.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Momento révisions/Auteurs.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Fiches/_ Sommaire.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Fiches/ONU.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Fiches/Les OI.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Olivier RUSSBACH \"ONU contre ONU .. Le droit international confisqué\".md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Olivier PROVINI, « La circulation des réformes universitaires en Afrique de l’Est. Logiques de convergences et tendances aux divergences ».md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Marie-Claude SMOUTS, L’ONU et la guerre. La diplomatie en kaki.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Laurie BOUSSAGUET, Une French touch dans l’analyse des politiques publiques ?.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/FOUILLEUX, Eve, Au-delà des Etats en action... la fabrique des politiques publiques globales.md",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Eve FOUILLEUX \"Au-delà des Etats en action... la fabrique des politiques publiques globales\".md",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Ouvrages/Serge SUR, Relations internationales.md",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Ouvrages/Josepha LAROCHE, Politique internationale.md",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Ouvrages/Jean-Jacques ROCHE, Relations internationales.md",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Ouvrages/Bertrand BADIE et Marie-Claude SMOUTS, Le   retournement   du   monde-  sociologie   de   la   scène internationale.md",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Aller plus loin/Raymond ARON, Paix et guerre entre les nations, Paris, Calmann-Lévy, 1962 (2004).md",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Aller plus loin/Norbert ELIAS, La dynamique de l’Occident, Paris, Agora Pocket, 2003 (1977).md",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Aller plus loin/Francis FUKUYAMA, La fin de l’histoire et le dernier homme, Paris, Flammarion, 1992.md",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Aller plus loin/Bertrand BADIE, La fin des territoires, Paris, Fayard, 1995.md",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Fiches/_Sommaire.md",
+    "Relations Internationales/Chapitre 3 - La scène de la société monde/Aller plus loin",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Ouvrages de synthèse",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Momento révisions",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Fiches",
+    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Ouvrages",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Aller plus loin",
+    "Relations Internationales/Chapitre 1 - La scène interétatique/Fiches",
+    "Relations Internationales/Chapitre 0 - Introduction/Ouvrages de synthèse",
+    "Relations Internationales/Chapitre 0 - Introduction/Momento révisions",
+    "Culture économique/Partie 1/Pasted image 20230419003110.png",
+    "Culture économique/Pasted image 20230428023108.png",
+    "Culture économique/Pasted image 20230428023053.png",
+    "Culture économique/Pasted image 20230428023024.png"
+  ]
+}

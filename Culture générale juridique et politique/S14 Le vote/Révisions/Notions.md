@@ -1,0 +1,15 @@
+Suffrage universel; Ecole de Columbia; analyse écologique/déterministe ; électeur volatil; 21 avril 2002; électeur rationnel; vote utile
+
+- Suffrage universel : C'est un principe démocratique selon lequel chaque citoyen adulte a le droit de voter et de participer aux élections. Le suffrage universel garantit l'égalité politique en permettant à tous les citoyens de choisir leurs représentants et de participer à la prise de décision politique.
+    
+- École de Columbia : Il s'agit d'une école de pensée en sciences politiques qui se concentre sur l'analyse du comportement électoral. L'école de Columbia met l'accent sur l'étude des facteurs individuels et psychologiques qui influencent les choix électoraux des individus, tels que les attitudes, les croyances et les identités politiques.
+    
+- Analyse écologique/déterministe : C'est une approche de l'analyse politique qui étudie les relations entre les caractéristiques socio-économiques et démographiques d'une région ou d'une population et les résultats électoraux. L'analyse écologique examine comment des facteurs tels que le niveau d'éducation, le revenu, l'âge, le genre ou la composition ethnique d'une région peuvent influencer les choix électoraux.
+    
+- Électeur volatil : Un électeur volatil est un électeur dont les préférences politiques et le choix de vote peuvent changer d'une élection à l'autre. Les électeurs volatils peuvent être influencés par divers facteurs tels que les enjeux de campagne, les candidats, les événements politiques ou les performances économiques.
+    
+- 21 avril 2002 : Le 21 avril 2002 fait référence à la date du deuxième tour de l'élection présidentielle en France cette année-là. Ce jour-là, Jean-Marie Le Pen, leader du Front National, a réussi à se qualifier pour le deuxième tour, provoquant une onde de choc dans le pays. Cet événement a été considéré comme un tournant dans la politique française et a suscité de nombreux débats et discussions sur les attitudes politiques, les stratégies de vote et la montée de l'extrême droite.
+    
+- Électeur rationnel : L'électeur rationnel est une notion issue de la théorie du choix rationnel en sciences politiques. Selon cette approche, l'électeur est considéré comme un acteur rationnel qui évalue les coûts et les bénéfices des différentes options politiques avant de prendre une décision de vote. L'électeur rationnel cherche à maximiser ses intérêts personnels ou collectifs en choisissant le candidat ou le parti politique qui correspond le mieux à ses préférences et objectifs.
+    
+- Vote utile : Le vote utile est une stratégie de vote où les électeurs choisissent de soutenir le candidat ou le parti politique qui a le plus de chances de remporter l'élection, plutôt que de voter pour leur choix préféré. Les électeurs adoptent cette stratégie pour éviter le gaspillage de leur vote et pour influencer le résultat électoral en faveur du candidat ou du parti qu'ils estiment le plus favorable. Le vote utile est souvent utilisé dans les systèmes électoraux où il y a une forte compétition entre deux grands partis politiques.

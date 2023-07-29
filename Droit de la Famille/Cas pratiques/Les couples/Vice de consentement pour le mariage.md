@@ -1,0 +1,3 @@
+**Coralie a aujourd’hui 20 ans. Elle est étudiante ; il y a un an, ses tantes lui ont présenté un jeune homme, Corentin. Elle a été séduite dès la première rencontre. Ses parents lui ont conseillé de l’épouser le plus rapidement possible, mais elle jugeait la décision de se marier un peu prématurée. Ils lui ont alors précisé que si elle refusait de construire son avenir grâce à ce mariage, ils ne subviendraient plus à ses besoins. Compte tenu de cela, Coralie s’est mariée avec Corentin il y a six mois. Pensez-vous que ce mariage encourt la nullité ?**
+
+f
