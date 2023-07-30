@@ -11,8 +11,12 @@
             "id": "84a4b35e0e2538d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -141,32 +149,32 @@
   },
   "active": "84a4b35e0e2538d8",
   "lastOpenFiles": [
+    "Droit Constitutionnel II/Organisation de Droit Constitutionnel II.md",
+    "Droit Constitutionnel I/Organisation de Droit Constitutionnel I.md",
+    "Droit Constitutionnel II/S1 L’esprit de la Ve République/Séparation des pouvoirs (Souple et stricte)/Le régime présidentiel permet-il une séparation souple des pouvoirs ?.md",
+    "Droit Constitutionnel II/S1 L’esprit de la Ve République/Séparation des pouvoirs (Souple et stricte)/Le contrôle de constitutionnalité et la séparation des pouvoirs en France.md",
+    "Droit Constitutionnel II/S1 L’esprit de la Ve République/Séparation des pouvoirs (Souple et stricte)/La théorie de la séparation des pouvoirs a-t-elle encore un sens aujourd'hui ?.md",
+    "Droit Constitutionnel II/S1 L’esprit de la Ve République/Failles de l'équilibre IIIème et IVème Républiques/Le pouvoir législatif et exécutif sous les III et IVe Républiques.md",
+    "Droit Constitutionnel II/S1 L’esprit de la Ve République/Failles de l'équilibre IIIème et IVème Républiques/L'instabilité ministérielle sous la IIIe et sous la IVe République.md",
+    "Droit Constitutionnel I/S4 Démocratie et mode de scrutin/Diss élection résume-t-elle la démocratie ?.md",
+    "Droit Constitutionnel I/S4 Démocratie et mode de scrutin/Commentaires.md",
+    "Droit Constitutionnel I/S3 L'Etat de droit/Termes.md",
+    "Droit Constitutionnel I/S3 L'Etat de droit/La justice constitutionnelle est-elle une entrave à la souveraineté du peuple ? (Dissertation).md",
+    "Droit Constitutionnel I/S3 L'Etat de droit/Diss rôle justice constitutionnelle.md",
+    "Droit Constitutionnel I/S3 L'Etat de droit/Commentaires.md",
+    "Droit Constitutionnel I/S2 La constitution/Questions.md",
+    "Droit Constitutionnel I/S2 La constitution/Documents.md",
+    "Droit Constitutionnel I/S2 La constitution/Article V de la Constitution des États-Unis (Commentaire).md",
+    "Droit Constitutionnel I/S2 La constitution/Un État doit-il avoir une Constitution ? (Dissertation).md",
+    "Droit Constitutionnel I/S2 La constitution/Termes.md",
+    "Droit Constitutionnel I/S1 L'Etat/La France est-elle toujours un Etat unitaire ? (Dissertation).md",
+    "Droit Constitutionnel I/S1 L'Etat/Questions.md",
+    "Droit Constitutionnel I/S1 L'Etat/Termes.md",
+    "Droit Constitutionnel I/S1 L'Etat/Documents.md",
+    "Droit Constitutionnel I/S1 L'Etat/Dissertation La France - un État unitaire ?.md",
     "Relations Internationales/Chapitre 3 - La scène de la société monde/Aller plus loin/BRESSANT, Albert et DISTLER, Catherine, La planète relationnelle, Paris, Flammarion, 1995.md",
     "Relations Internationales/Chapitre 3 - La scène de la société monde/Aller plus loin/BOURDIEU, Pierre, « L’opinion publique n’existe pas ».md",
     "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Ouvrages de synthèse/TAWIL, Emmanuel, Relations internationales, 2016, p. 116-197..md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Ouvrages de synthèse/ROCHE, Jean-Jacques, Relations internationales, 2014, p. 143- 188..md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Ouvrages de synthèse/LAROCHE, Josepha, Politique internationale, 1998, p. 123-156..md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Momento révisions/Définitions.md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Momento révisions/Cours.md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Momento révisions/Auteurs.md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Fiches/_ Sommaire.md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Fiches/ONU.md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Fiches/Les OI.md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Olivier RUSSBACH \"ONU contre ONU .. Le droit international confisqué\".md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Olivier PROVINI, « La circulation des réformes universitaires en Afrique de l’Est. Logiques de convergences et tendances aux divergences ».md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Marie-Claude SMOUTS, L’ONU et la guerre. La diplomatie en kaki.md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Laurie BOUSSAGUET, Une French touch dans l’analyse des politiques publiques ?.md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/FOUILLEUX, Eve, Au-delà des Etats en action... la fabrique des politiques publiques globales.md",
-    "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin/Eve FOUILLEUX \"Au-delà des Etats en action... la fabrique des politiques publiques globales\".md",
-    "Relations Internationales/Chapitre 1 - La scène interétatique/Ouvrages/Serge SUR, Relations internationales.md",
-    "Relations Internationales/Chapitre 1 - La scène interétatique/Ouvrages/Josepha LAROCHE, Politique internationale.md",
-    "Relations Internationales/Chapitre 1 - La scène interétatique/Ouvrages/Jean-Jacques ROCHE, Relations internationales.md",
-    "Relations Internationales/Chapitre 1 - La scène interétatique/Ouvrages/Bertrand BADIE et Marie-Claude SMOUTS, Le   retournement   du   monde-  sociologie   de   la   scène internationale.md",
-    "Relations Internationales/Chapitre 1 - La scène interétatique/Aller plus loin/Raymond ARON, Paix et guerre entre les nations, Paris, Calmann-Lévy, 1962 (2004).md",
-    "Relations Internationales/Chapitre 1 - La scène interétatique/Aller plus loin/Norbert ELIAS, La dynamique de l’Occident, Paris, Agora Pocket, 2003 (1977).md",
-    "Relations Internationales/Chapitre 1 - La scène interétatique/Aller plus loin/Francis FUKUYAMA, La fin de l’histoire et le dernier homme, Paris, Flammarion, 1992.md",
-    "Relations Internationales/Chapitre 1 - La scène interétatique/Aller plus loin/Bertrand BADIE, La fin des territoires, Paris, Fayard, 1995.md",
-    "Relations Internationales/Chapitre 1 - La scène interétatique/Fiches/_Sommaire.md",
     "Relations Internationales/Chapitre 3 - La scène de la société monde/Aller plus loin",
     "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Ouvrages de synthèse",
     "Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Momento révisions",
