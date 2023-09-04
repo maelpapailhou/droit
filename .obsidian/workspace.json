@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Droit des Personnes/P1 les personnes physiques/C1 l’attribution de la personnalité juridique aux personnes physiques/S1 limites de la personnalité juridique des personnes physiques/P1 Acquisition de la Pers. Jur..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Droit des Personnes/P1 les personnes physiques/C1 l’attribution de la personnalité juridique aux personnes physiques/S1 limites de la personnalité juridique des personnes physiques/P1 Acquisition de la Pers. Jur..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Droit des Personnes/P1 les personnes physiques/C1 l’attribution de la personnalité juridique aux personnes physiques/S1 limites de la personnalité juridique des personnes physiques/P1 Acquisition de la Pers. Jur..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Droit des Personnes/P1 les personnes physiques/C1 l’attribution de la personnalité juridique aux personnes physiques/S1 limites de la personnalité juridique des personnes physiques/P1 Acquisition de la Pers. Jur..md"
               }
             }
           }
@@ -147,47 +147,48 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "a859a7f9ac6554a1",
+  "active": "84a4b35e0e2538d8",
   "lastOpenFiles": [
-    "Droit des personnes — Cours du 22 Août 2023.pdf",
-    "Droit des Personnes — Cours du 24 Août 2023.pdf",
-    "Droit des Personnes — Cours du 25 Août 2023.pdf",
-    "Droit des Personnes",
-    "Première année",
-    "Première année/Droit Constitutionnel II/Organisation de Droit Constitutionnel II.md",
-    "Première année/Droit Constitutionnel I/Organisation de Droit Constitutionnel I.md",
-    "Première année/Droit Constitutionnel II/S1 L’esprit de la Ve République/Séparation des pouvoirs (Souple et stricte)/Le régime présidentiel permet-il une séparation souple des pouvoirs ?.md",
-    "Première année/Droit Constitutionnel II/S1 L’esprit de la Ve République/Séparation des pouvoirs (Souple et stricte)/Le contrôle de constitutionnalité et la séparation des pouvoirs en France.md",
-    "Première année/Droit Constitutionnel II/S1 L’esprit de la Ve République/Séparation des pouvoirs (Souple et stricte)/La théorie de la séparation des pouvoirs a-t-elle encore un sens aujourd'hui ?.md",
-    "Première année/Droit Constitutionnel II/S1 L’esprit de la Ve République/Failles de l'équilibre IIIème et IVème Républiques/Le pouvoir législatif et exécutif sous les III et IVe Républiques.md",
-    "Première année/Droit Constitutionnel II/S1 L’esprit de la Ve République/Failles de l'équilibre IIIème et IVème Républiques/L'instabilité ministérielle sous la IIIe et sous la IVe République.md",
-    "Première année/Droit Constitutionnel I/S4 Démocratie et mode de scrutin/Diss élection résume-t-elle la démocratie ?.md",
-    "Première année/Droit Constitutionnel I/S4 Démocratie et mode de scrutin/Commentaires.md",
-    "Première année/Droit Constitutionnel I/S3 L'Etat de droit/Termes.md",
-    "Première année/Droit Constitutionnel I/S3 L'Etat de droit/La justice constitutionnelle est-elle une entrave à la souveraineté du peuple ? (Dissertation).md",
-    "Première année/Droit Constitutionnel I/S3 L'Etat de droit/Diss rôle justice constitutionnelle.md",
-    "Première année/Droit Constitutionnel I/S3 L'Etat de droit/Commentaires.md",
-    "Première année/Droit Constitutionnel I/S2 La constitution/Questions.md",
-    "Première année/Droit Constitutionnel I/S2 La constitution/Documents.md",
-    "Première année/Droit Constitutionnel I/S2 La constitution/Article V de la Constitution des États-Unis (Commentaire).md",
-    "Première année/Droit Constitutionnel I/S2 La constitution/Un État doit-il avoir une Constitution ? (Dissertation).md",
-    "Première année/Droit Constitutionnel I/S2 La constitution/Termes.md",
-    "Première année/Droit Constitutionnel I/S1 L'Etat/La France est-elle toujours un Etat unitaire ? (Dissertation).md",
-    "Première année/Droit Constitutionnel I/S1 L'Etat/Questions.md",
-    "Première année/Droit Constitutionnel I/S1 L'Etat/Termes.md",
-    "Première année/Droit Constitutionnel I/S1 L'Etat/Documents.md",
-    "Droit Constitutionnel I/S1 L'Etat/Dissertation La France - un État unitaire ?.md",
-    "Première année/Relations Internationales/Chapitre 3 - La scène de la société monde/Aller plus loin/BRESSANT, Albert et DISTLER, Catherine, La planète relationnelle, Paris, Flammarion, 1995.md",
-    "Première année/Relations Internationales/Chapitre 3 - La scène de la société monde/Aller plus loin/BOURDIEU, Pierre, « L’opinion publique n’existe pas ».md",
-    "Première année/Relations Internationales/Chapitre 3 - La scène de la société monde/Aller plus loin",
-    "Première année/Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Ouvrages de synthèse",
-    "Première année/Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Momento révisions",
-    "Première année/Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Fiches",
-    "Première année/Relations Internationales/Chapitre 2 -                          La scène des organisations internationales/Aller plus loin",
-    "Première année/Relations Internationales/Chapitre 1 - La scène interétatique/Ouvrages",
-    "Première année/Culture économique/Partie 1/Pasted image 20230419003110.png",
-    "Première année/Culture économique/Pasted image 20230428023108.png",
-    "Première année/Culture économique/Pasted image 20230428023053.png",
-    "Première année/Culture économique/Pasted image 20230428023024.png"
+    "Droit des Personnes/P1 les personnes physiques/C1 l’attribution de la personnalité juridique aux personnes physiques/S2 incidents de la personnalité juridique/P2 La disparition.md",
+    "Droit des Personnes/P1 les personnes physiques/C1 l’attribution de la personnalité juridique aux personnes physiques/S2 incidents de la personnalité juridique/P1 Absence - Def. & incidents.md",
+    "Droit des Personnes/_Sommaire.md",
+    "Droit des Personnes/P1 les personnes physiques/C1 l’attribution de la personnalité juridique aux personnes physiques/S1 limites de la personnalité juridique des personnes physiques/P1 Acquisition de la Pers. Jur..md",
+    "Droit des Personnes/P1 les personnes physiques/C1 l’attribution de la personnalité juridique aux personnes physiques/S1 limites de la personnalité juridique des personnes physiques/_S1.md",
+    "Droit des Personnes/P1 les personnes physiques/C1 l’attribution de la personnalité juridique aux personnes physiques/S2 incidents de la personnalité juridique",
+    "Sans titre.canvas",
+    "Histoire des Institutions/_Sommaire.md",
+    "Histoire des Institutions/P1 Le déclin de l'état/C1 la faiblesse du pouvoir royal/S1 STRUCTURE DU POUVOIR ROYAL, SOURCE DE FAIBLESSE/I) La faiblesse structurelle du roi mérovingien.md",
+    "Histoire des Institutions/P1 Le déclin de l'état/C1 la faiblesse du pouvoir royal/S1 STRUCTURE DU POUVOIR ROYAL, SOURCE DE FAIBLESSE/II) La consolidation limitée du pouvoir royal à l’époque carolingienne.md",
+    "README.md",
+    "Droit des Personnes/P1 les personnes physiques/C1 l’attribution de la personnalité juridique aux personnes physiques/S1 limites de la personnalité juridique des personnes physiques",
+    "Histoire des Institutions/Questions.md",
+    "Droit des Personnes/P1 les personnes physiques/0.md",
+    "Histoire des Institutions/P1 Le déclin de l'état/C1 la faiblesse du pouvoir royal",
+    "Histoire des Institutions/P1 Le déclin de l'état/C1 la faiblesse du pouvoir royal/S1 STRUCTURE DU POUVOIR ROYAL, SOURCE DE FAIBLESSE",
+    "Histoire des Institutions/P1 Le déclin de l'état",
+    "Histoire des Institutions",
+    "Droit des Personnes/P1 les personnes physiques/C1 l’attribution de la personnalité juridique aux personnes physiques",
+    "Droit des Personnes/0 Introduction.md",
+    "Archives",
+    "Droit des Personnes/P1 les personnes physiques",
+    "Archives/Prises de notes",
+    "Archives/Première année/Droit Constitutionnel II/Organisation de Droit Constitutionnel II.md",
+    "Archives/Première année/Droit Constitutionnel I/Organisation de Droit Constitutionnel I.md",
+    "Archives/Première année/Droit Constitutionnel II/S1 L’esprit de la Ve République/Séparation des pouvoirs (Souple et stricte)/Le régime présidentiel permet-il une séparation souple des pouvoirs ?.md",
+    "Archives/Première année/Droit Constitutionnel II/S1 L’esprit de la Ve République/Séparation des pouvoirs (Souple et stricte)/Le contrôle de constitutionnalité et la séparation des pouvoirs en France.md",
+    "Archives/Première année/Droit Constitutionnel II/S1 L’esprit de la Ve République/Séparation des pouvoirs (Souple et stricte)/La théorie de la séparation des pouvoirs a-t-elle encore un sens aujourd'hui ?.md",
+    "Archives/Première année/Droit Constitutionnel II/S1 L’esprit de la Ve République/Failles de l'équilibre IIIème et IVème Républiques/Le pouvoir législatif et exécutif sous les III et IVe Républiques.md",
+    "Archives/Première année/Droit Constitutionnel II/S1 L’esprit de la Ve République/Failles de l'équilibre IIIème et IVème Républiques/L'instabilité ministérielle sous la IIIe et sous la IVe République.md",
+    "Archives/Première année/Droit Constitutionnel I/S4 Démocratie et mode de scrutin/Diss élection résume-t-elle la démocratie ?.md",
+    "Archives/Première année/Droit Constitutionnel I/S4 Démocratie et mode de scrutin/Commentaires.md",
+    "Archives/Première année/Droit Constitutionnel I/S3 L'Etat de droit/Termes.md",
+    "Archives/Première année/Droit Constitutionnel I/S3 L'Etat de droit/La justice constitutionnelle est-elle une entrave à la souveraineté du peuple ? (Dissertation).md",
+    "Archives/Première année/Droit Constitutionnel I/S3 L'Etat de droit/Diss rôle justice constitutionnelle.md",
+    "Archives/Première année/Droit Constitutionnel I/S3 L'Etat de droit/Commentaires.md",
+    "Archives/Première année/Droit Constitutionnel I/S2 La constitution/Questions.md",
+    "Archives/Première année/Culture économique/Partie 1/Pasted image 20230419003110.png",
+    "Archives/Première année/Culture économique/Pasted image 20230428023108.png",
+    "Archives/Première année/Culture économique/Pasted image 20230428023053.png",
+    "Archives/Première année/Culture économique/Pasted image 20230428023024.png"
   ]
 }
