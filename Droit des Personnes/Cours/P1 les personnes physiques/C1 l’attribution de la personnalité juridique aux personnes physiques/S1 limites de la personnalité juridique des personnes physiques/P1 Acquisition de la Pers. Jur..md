@@ -1,3 +1,5 @@
+#Art2CEDH
+
 #Art6DUDH
 "Tout individu a droit à la reconnaissance en tous lieux de sa personnalité juridique."
 
@@ -12,59 +14,48 @@ La personnalité commence à la naissance accomplie de l’enfant vivant. Elle f
 #Loi17Janvier1975
 
 ---
-**Introduction**
+**Article 6 de la DUDH** n’indique pas a partir de quand l’être humain obtient son statut juridique. 
+- Est-ce à la naissance? Avant la naissance? Quelle position du droit français ?
 
-L'interrogation sur le statut juridique de l'être humain avant sa naissance se situe au cœur des préoccupations juridiques, éthiques, et sociétales contemporaines. Cette question délicate suscite des débats profonds et soulève des enjeux majeurs en matière de droits individuels et de réflexion éthique. Elle interroge la frontière entre le non-né et le déjà né, ainsi que les implications juridiques et éthiques qui en découlent. En effet, la reconnaissance de la personnalité juridique d'un individu avant sa naissance pose des questions fondamentales quant à la protection de ses droits et à la manière dont la société conçoit et encadre ces droits potentiels.
+**Le droit français ne contient aucune norme** explicite. 
+- Y’a pas de normes explicites sur le point de départ de la personnalité juridique des personnes physiques. 
+- **Droit comparé : les droits étrangers**. Parfois des normes explicites.
+	- article 1er du code civil italien : « la personnalité juridique s’acquiert au moment de la naissance ».  Les droits reconnus à l’enfant conçus sont subordonnés à l’avènement de la naissance.
+	- article 31 du code civil suisse : « la personnalité commence à la naissance accomplie de l’enfant vivant ». Elle finit par la mort. 2eme alinéa : l’enfant conçu joui des droits civils à condition qu’ils naissent vivant.
+- **Droit français** : personnalité juridique apparaît à la naissance, mais *naissance pas condition suffisante pour acquérir la personnalité juridique*. 
+	- On exige que l’individu soit venu au monde vivant (crier, respirer), et viable.
+	- La **viabilité** peut être déterminée par une ***approche casuistique*** (au cas par cas), en fonction par exemple de la présence et du développement des organes nécessaires à la vie, si les organes sont viables, etc.
 
-Le droit français, tout comme d'autres systèmes juridiques dans le monde, tente de répondre à cette problématique complexe en établissant des critères déterminant le moment précis où la personnalité juridique d'un individu commence à exister. Cette reconnaissance juridique avant la naissance est intimement liée à la fois à des notions médicales et biologiques, telles que la viabilité de l'embryon ou du fœtus, ainsi qu'à des considérations éthiques profondes qui touchent à la définition même de ce qui constitue un être humain à part entière.
-
-**Problématique**
-
-Face à cette problématique, la question qui se pose est la suivante : 
-- Comment le droit français aborde-t-il la question du moment où commence la personnalité juridique d'un individu, notamment avant sa naissance ? 
-- De plus, comment cette approche légale française se compare-t-elle à celle d'autres systèmes juridiques étrangers ? 
-- Enfin, quelles sont les implications éthiques, sociales et juridiques de cette reconnaissance ou de ce refus de reconnaissance de la personnalité juridique avant la naissance ?
-
----
-Article 6 de la DUDH n’indique pas a partir de quand l’être humain obtient son statut juridique. Est-ce à la naissance? Avant la naissance? Quelle position du droit français ?
-
-Le droit français ne contient aucune norme explicite. Y’a pas de normes explicites sur le point de départ de la personnalité juridique des personnes physiques. Droit comparé : les droits étrangers. Parfois des normes explicites.
-
-Exemple article 1er du code civil italien : « la personnalité juridique s’acquiert au moment de la naissance ».  Les droits reconnus à l’enfant conçus sont subordonnés à l’avènement de la naissance.
-
-Exemple : article 31 du code civil suisse : « la personnalité commence à la naissance accomplie de l’enfant vivant ». Elle finit par la mort. 2eme alinéa : l’enfant conçu joui des droits civils à condition qu’ils naissent vivant.
-
-Droit français : personnalité juridismes apparaît à la naissance, mais naissance pas condition suffisante pour acquérir la personnalité juridique. On exige que l’individu soit venu au monde vivant (crier, respirer), et viable.
-
-La viabilité peut être déterminée par une approche casuistique (au cas par cas), en fonction par exemple de la présence et du développement des organes nécessaires à la vie, si les organes sont viables, etc.
-
-2eme possibilité : OMS a opté pour une appréciation globale (pas de cas par cas) avec 2 seuils. Le premier c’est que le produit de la conception fait au moins 500 grammes, ou on est sur un âge gestationnelle minimum de 22 semaines pour la femme.
+2eme possibilité : OMS a opté pour une appréciation globale (pas de cas par cas) avec 2 seuils. 
+1. Le premier c’est que le produit de la conception fait au moins 500 grammes
+2. on est sur un âge gestationnelle minimum de 22 semaines pour la femme.
 
 **Paragraphe 2 : comment s’effectue la disparition de la personnalité juridique ?**
 
 La viabilité peut revêtir deux aspects :
-
 - Un développement minimum
-
 - Ou absence de malformation de nature a formé la vie
 
-Définitif ? Général ? Vérité définie par circulaire (explication du texte) du ministère de la santé du 22 juillet 1993, prise pour la mise en oeuvre des règles relatives à l’état civil quittaient issus de la loi du 8 janvier 1993. Circulaire s’inetersse à l’article 79 -1 al 1er du code civil. Article traite de l’inscription à l’état civil de l’enfant naît vivant et viable mais décédé avant son inscription à l’état civil. Critères du 22 juillet 1993 reprends les critères de l’OMS.
+**Circulaire du ministère de la santé du 22 juillet 1993**, prise pour la mise en oeuvre des règles relatives à l’état civil quittaient issus de la loi du 8 janvier 1993. 
+	Article 79 -1 al 1er du code civil. Article traite de l’inscription à l’état civil de l’enfant naît vivant et viable mais décédé avant son inscription à l’état civil. 
+	Critères du 22 juillet 1993 reprends les critères de l’OMS.
 
 Premier problème : quelle est la valeur, la force juridique contraignante de la circulaire ? En principe une circulaire a une force juridique contraignante nulle, elle n’a pas a ajouter à la loi. C’est un document interne d’explication pour l’administration.
 
 Deuxième : est-ce que la définition posée va au delà de l’article 79-1 ou cantonnée mais on pourrai s’interroger sur la question de la viabilité.
 
-Cette précision (entait nait vivant et viable) convie donc à faire une distinction entre la personne juridique et la personne humaine. Exemple un « enfant » mort né n’est pas une personne juridique. A l’inverse un enfant prématuré est parfaitement une personne juridique. Pour enfant mort né on peut délivrer des actes d’état civil, d’act d’enfant sans vie.
+Cette précision (entait nait vivant et viable) convie donc à faire une distinction entre la personne juridique et la personne humaine. 
 
-Débat et questionnement sur le statut de l’enfant sans vie. Conseil consultatif national d’éthique CCNE a rendu deux avis importants (pas de décisions)
+*Un « enfant » mort né n’est pas une personne juridique. A l’inverse un enfant prématuré est parfaitement une personne juridique. Pour enfant mort né on peut délivrer des actes d’état civil, d’act d’enfant sans vie.*
 
-- Avis du 23 mai 1984
+Débat et questionnement sur le statut de l’enfant sans vie. **Conseil consultatif national d’éthique CCNE** a rendu deux avis importants (pas de décisions)
+	- Avis du 23 mai 1984
+	- Avis du 15 décembre 1986
+- Il affirme que l’**embryon ou le foetus est un être vivant**, une **personne humaine potentielle** qui est ou a été vivante et dont le respect s’impose. 
+- Ce n’est **pas une personne juridique, c’est une chose protégée**. 
+- La **vie humaine** qui **commence a la conception** est **différente de la vie juridique** qui **commence à la naissance**.
 
-- Avis du 15 décembre 1986
-
-Il affirme que l’embryon ou le foetus est un être vivant, une personne humaine potentielle qui est ou a été vivante et dont le respect s’impose. Ce n’est pas une personne juridique, c’est une chose protégée. La vie humaine qui commence a la conception est différente de la vie juridique qui commence à la naissance.
-
-Le conseil constitutionnel considère que le législateur français a pu décider que le principe du respect de tout être humain dès le commencement de la vie n’est pas applicable aux embryons in vitro qui ne bénéficient que de garanties spéciales. Cette décision date du 27 juillet 1994, décision prise par rapport à la première loi bioéthique de 1994. Le conseil constitutionnel renvoie au législateur le soin de fixer le point de départ de la vie.
+Le **conseil constitutionnel** considère que le législateur français a pu décider que le principe du respect de tout être humain dès le commencement de la vie n’est pas applicable aux embryons in vitro qui ne bénéficient que de garanties spéciales. Cette décision date du 27 juillet 1994, décision prise par rapport à la première loi bioéthique de 1994. Le conseil constitutionnel renvoie au législateur le soin de fixer le point de départ de la vie.
 
 La loi du 17 janvier 1975 énonce que la loi garantie le respect de tout être humain dès le commencement de la vie. Il ne saurait être porté atteinte à ce principe qu’en cas de nécessité.  Il existe deux possibilité d’intéruption de grossesse. Loi de 1974 entérinée en 1979. Deux variétés d’interruption de grossesse (a changé depuis l’époque) (attention pas parler avortement, c’était infraction pénale)
 
@@ -81,8 +72,6 @@ Ce sont des infractions contre autrui. Questionnement qui est apparu c’est com
 1. Hypothèse d’une femme enceinte qui conduit un véhicule qui est accidenté, elle perds l’enfant qu’elle attendait. Possibilité de poursuite du conducteur fautif ou d’homicide involontaire?
 
 2. Personne frappe une femme enceinte pour lui faire perdre son enfant. Peut ils avoir homicide volontaire ou assasinat ?
-
-3.
 
 Question : comment interpréter autrui? Embryon ou foetus Peut il être cet autrui du code pénal.
 

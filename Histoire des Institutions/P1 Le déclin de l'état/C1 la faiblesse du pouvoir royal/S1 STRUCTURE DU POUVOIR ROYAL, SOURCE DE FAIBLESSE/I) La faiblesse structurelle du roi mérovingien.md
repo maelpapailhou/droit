@@ -1,6 +1,6 @@
 **Introduction :**
 
-L'époque mérovingienne, qui s'étend du 5e au 8e siècle dans ce qui est aujourd'hui la France, est marquée par une particularité structurelle du pouvoir royal. Les Mérovingiens ont hérité des institutions de la Gaule romaine, mais leur conception primitive du pouvoir a limité leur capacité à gouverner de manière efficace. Cette faiblesse structurelle se manifeste aussi bien dans la nature du roi mérovingien que dans l'administration royale. Cette dissertation se penchera sur cette faiblesse structurelle et sur ses conséquences pour le royaume mérovingien.
+L'époque mérovingienne, qui s'étend du **5e au 8e siècle** dans ce qui est aujourd'hui la France, est marquée par une **particularité structurelle du pouvoir royal**. Les Mérovingiens ont hérité des institutions de la Gaule romaine, mais leur conception primitive du pouvoir a limité leur capacité à gouverner de manière efficace. Cette faiblesse structurelle se manifeste aussi bien dans la nature du roi mérovingien que dans l'administration royale. Cette dissertation se penchera sur cette faiblesse structurelle et sur ses conséquences pour le royaume mérovingien.
 
 **Problématique :**
 
@@ -43,3 +43,5 @@ Les Mérovingiens réunissaient régulièrement des assemblées, telles que les 
 À l'échelon local, le pouvoir royal était représenté par des agents territoriaux, les comtes, qui exerçaient des pouvoirs pour appliquer les ordres royaux, maintenir la paix, rendre la justice, lever des armées et collecter des impôts. Cependant, la puissance des comtes s'est renforcée avec le temps, les amenant à rivaliser avec un pouvoir royal en déclin.
 
 Ces deux parties permettent de mieux comprendre la faiblesse structurelle du roi mérovingien et de son administration, ainsi que leurs répercussions sur le royaume mérovingien dans son ensemble.
+
+---
