@@ -1,0 +1,1 @@
+https://www.doc-du-juriste.com/droit-public-et-international/droit-constitutionnel/dissertation/democratie-representative-democratie-directe-regimes-politiques-ideaux-gouverner-etat-641227.html?utm_source=search&utm_medium=internal

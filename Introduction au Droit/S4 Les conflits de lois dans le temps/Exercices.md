@@ -1,0 +1,9 @@
+1° Paul a reçu un courrier de l’HADOPI lui reprochant d’avoir téléchargé illégalement un film sur Internet. Il doit comparaître prochainement devant la juridiction pénale. Au moment du téléchargement, la sanction encourue était de 1500 euros d’amende, et d’un mois de suspension de l’accès à Internet. Un texte nouveau est cependant venu supprimer la peine de suspension de l’accès à Internet, et a allégé la sanction à 1000 euros d’amende. Quelle est la sanction qui pourrait être infligée à Paul ?
+
+
+
+2° Hugo et Marc se sont mariés le 24 août 2012 devant le maire d’une commune du sud de la France. À l’époque, la loi réservait le mariage aux personnes de sexe différent. La loi du 17 mai 2013 ayant ouvert le mariage aux personnes de même sexe, le couple vous demande si leur mariage est valable ?
+
+3° La commune dans laquelle Maria habite lui a adressé, en août 2023, une facture en raison d’une surconsommation d’eau intervenue au cours de cette même année. Pourtant, une loi du 17 mai 2022, publiée au journal officiel le lendemain, impose clairement aux collectivités territoriales d’informer l’abonné dès qu’elle constate une augmentation anormale du volume d’eau consommée. La loi précise le taux à partir duquel l’augmentation est considérée comme anormale, et précise la procédure à suivre pour en informer le débiteur. Certes, l’entrée en vigueur de la loi est soumise à l’adoption d’un décret d’application mais celui-ci, paru en septembre 2023 seulement, n’ajoute pas véritablement de précision sur ce point.
+
+Maria refuse le versement de la somme demandée et la collectivité est sur le point d’agir en justice, conformément aux menaces formulées depuis lors. La loi du 17 mai 2022 est-elle applicable ?
