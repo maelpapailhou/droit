@@ -1,0 +1,3 @@
+Les personnes, au sens juridique du terme, sont des sujets de droit dotés de la personnalité juridique, c'est-à-dire de T'« aptitude à être titulaire de droits et assujetti à des obligations » 1.
+
+Seule une personne peut acquérir un droit - devenir, par exemple, propriétaire d'une maison - et être tenue d'une obligation - réparer, par exemple, le dommage qu'elle cause -. L'intérêt attaché à la reconnaissance de la personnalité explique qu'elle ait été accordée non seulement aux êtres faits de chair et de sang que sont les personnes physiques (CHAPITRE 1), mais aussi parfois à des entités abstraites n'ayant aucune réalité biologique : les groupements que sont les personnes morales (CHAPITRE 2).

@@ -1,0 +1,4 @@
+  
+**"Le régime présidentiel repose sur la conviction que le pouvoir exécutif doit être fort, indépendant, et capable d'agir rapidement et efficacement."** Auteur : Richard Neustadt Explication : Neustadt défend l'idée que le régime présidentiel nécessite un pouvoir exécutif fort et indépendant pour garantir une gouvernance efficace, en mettant l'accent sur la nécessité d'une action rapide.
+
+Richard Neustadt était un professeur américain en sciences politiques et un conseiller présidentiel. Il a souligné que le régime présidentiel nécessite un pouvoir exécutif fort et indépendant pour assurer une gouvernance efficace, mettant en avant la nécessité d'une action rapide.

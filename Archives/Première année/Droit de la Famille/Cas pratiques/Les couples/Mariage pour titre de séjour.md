@@ -1,0 +1,1 @@
+2/ Anna et Jérôme se sont rencontrés il y a six mois. Le coup de foudre fut immédiat et ils vivent ensemble depuis trois mois. Anna est russe et son titre de séjour expire bientôt. Le couple voudrait se marier, notamment pour permettre à Anna de rester en France, mais il se demande si leur union pourrait être remise en cause par le ministère public ?

@@ -1,0 +1,1 @@
+Vidéos:Extrait de J.-M. Jancovici au Collège de France (de 4min50 à 9min50): https://www.youtube.com/watch?v=pTemrmX1EqsConférence de J.-M. Jancovici, «Co2 ou PIB, il faut choisir!» à Sciences Po sur la transition énergétique: https://www.youtube.com/watch?v=Vjkq8V5rVy0

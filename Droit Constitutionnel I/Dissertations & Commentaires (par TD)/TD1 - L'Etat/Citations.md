@@ -1,0 +1,14 @@
+1. "Le droit, l'ordre éthique, l'État constituent la seule réalité positive et la seule satisfaction de la liberté." - **Georg Wilhelm Friedrich Hegel**¹
+   Cette citation de Hegel, un philosophe allemand influent qui a développé un système dialectique mettant l'accent sur le progrès de l'histoire et des idées¹, suggère que le droit, l'ordre éthique et l'État sont les seuls éléments qui constituent une réalité positive et qui peuvent satisfaire la liberté. En d'autres termes, la liberté ne peut être réalisée que dans le cadre de ces structures.
+
+2. "L'État est nécessaire, mais chaque fois qu'on peut s'en passer, moi, je préfère." - **François Mitterrand**⁵
+   François Mitterrand, qui a été président de la France pendant deux mandats (1981-1995) et qui a été le premier socialiste à occuper ce poste⁵, exprime ici une vision pragmatique de l'État. Il reconnaît la nécessité de l'État, mais préfère les situations où l'on peut s'en passer, **probablement en faveur de plus de liberté individuelle ou de décentralisation**.
+
+3. "L'État, c'est le plus froid de tous les monstres froids. II ment froidement ; et voici le mensonge qui s'échappe de sa bouche : « Moi, l'État, je suis le peuple »." - **Friedrich Nietzsche**⁹
+   Nietzsche, un philosophe allemand dont l'influence s'étend à un large éventail de sujets philosophiques contemporains⁹, critique ici l'État en le décrivant comme un "monstre froid" qui prétend représenter le peuple. Il suggère que l'État peut être manipulateur et déshumanisant.
+
+4. "L'État ou le Cité n'est qu'une personne morale dont la vie consiste dans l'union de ses membres." - **Jean-Jacques Rousseau**¹⁴
+   Rousseau, un philosophe suisse dont les idées politiques ont influencé la Révolution française et le développement de la théorie démocratique et socialiste¹⁴, voit l'État comme une entité morale dont la vie dépend de l'union de ses membres. Cela souligne l'importance de la coopération et de la solidarité au sein de l'État.
+
+---
+**“Cet équilibre entre les gouvernements nationaux et l’État devrait être attardé sur avec une attention particulière, car il est de la plus haute importance. Il forme une double sécurité au peuple. Si l’on empiète sur leurs droits, ils trouveront une protection puissante dans l’autre. En effet, ils seront tous deux empêchés de leurs limites constitutionnelles FRANCHISSEMENT par un certain rivalité, qui sera toujours subsistera entre eux.”** - Alexander Hamilton1 Alexander Hamilton, l’un des Pères fondateurs des États-Unis et le premier secrétaire du Trésor1, souligne ici l’importance de l’*équilibre entre les gouvernements nationaux et l’État dans un système fédéral*. Il suggère que cet équilibre offre *une double sécurité aux citoyens en protégeant leurs droits*.
