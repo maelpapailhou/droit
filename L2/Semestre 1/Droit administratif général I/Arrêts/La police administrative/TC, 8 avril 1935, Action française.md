@@ -1,0 +1,15 @@
+#### Les faits
+Le préfet de police avait fait saisir, dans la matinée du 7 février 1934, le journal L'Action française chez tous ses dépositaires à Paris et dans le département de la Seine. La société du journal engagea une instance en réparation du préjudice causé par la saisie contre le préfet devant les tribunaux judiciaires.
+
+Le préfet porta (« éleva ») le conflit devant le Tribunal des conflits afin de trancher la question de l’ordre de juridiction compétent pour connaître du litige. Dans sa décision, ce dernier qualifia la mesure de saisie incriminée de voie de fait, entraînant ainsi la compétence du juge judiciaire.
+
+#### Le sens et la portée de la décision
+Cette décision **constitue le point de départ de la théorie de la voie de fait.** Le Tribunal des conflits retient cette qualification au motif que les attributions du préfet de police ne comprenaient pas le pouvoir de pratiquer, par voie de mesures préventives, la saisie d'un journal sans qu'il soit justifié que cette saisie ait été indispensable pour assurer le maintien ou le rétablissement de l'ordre public.
+
+Depuis lors, la jurisprudence a précisé les contours de la voie de fait. Elle en reconnaît désormais l'existence en cas d'atteinte grave à une liberté fondamentale ou à la propriété privée provoquée soit par une décision administrative manifestement insusceptible de se rattacher à un pouvoir de l'administration, soit par l'exécution forcée d'une décision, même légale, lorsque l'administration n'a manifestement pas le pouvoir d'y procéder.
+
+Au titre du premier cas de figure, on peut citer l'exemple d'une décision d'un préfet ordonnant la rétention dans un bureau de poste d'objets de correspondance (T.C. 10 décembre 1956, R... et autres, n°1535, p. 591).
+
+La seconde catégorie correspond aux cas les plus fréquemment rencontrés. En vertu de la jurisprudence (voir T.C. 2 décembre 1902, Société immobilière de Saint-Just , p. 713), l'exécution forcée d'une décision administrative n'est légalement possible que si la loi le permet expressément, si une situation d'urgence le justifie ou s'il n'existe aucune sanction, notamment pénale, à la violation de cette décision.  En revanche, la consignation d'un étranger à bord du navire dans lequel il se trouve, à la suite d'une décision de refus d'entrée sur le territoire national, à la supposer illégale, n'est pas constitutive d'une voie de fait, dès lors que l'administration dispose, en vertu de l'ordonnance du 2 novembre 1945, du pouvoir de procéder à l'exécution forcée des refus d'entrée qu'elle est amenée à prendre au titre de la police des étrangers (T.C. 12 mai 1997, Préfet de police de Paris c/ Tribunal de grande instance de Paris , p. 528).
+
+En matière de voie de fait, le juge judiciaire est investi d'une plénitude de juridiction : il a compétence pour la constater, pour enjoindre à l'administration d'y mettre fin et pour assurer, par l'allocation de dommages et intérêts, la réparation des préjudices qu'elle a causés. Le juge administratif, saisi d'une décision constitutive d'une voie de fait, ne pourra, lui, que constater celle-ci, en regardant la décision comme nulle et non avenue.

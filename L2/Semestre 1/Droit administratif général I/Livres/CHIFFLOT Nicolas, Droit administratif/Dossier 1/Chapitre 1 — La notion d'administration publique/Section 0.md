@@ -1,0 +1,5 @@
+Dans le langage courant, le mot administration désigne des réalités assez nombreuses et fort diverses : on parle aussi bien de l'**administration d'une fortune ou d'une entreprise privée que de celle d'une commune ou d'un département**. 
+
+Dans le vocabulaire juridique, hormis l'expression « acte d'administration » (perception d'un loyer, par exemple) qui s'oppose à celle d'« acte de disposition » (vente ou donation, etc.) dans la gestion d'un patrimoine, l'**administration se confond presque toujours avec l'administration publique**.
+
+Il y a différentes manières de se la représenter. L'approche des sciences administratives ou de diverses sciences sociales n'est ainsi pas forcément celle résultant du développement d'une certaine « science du droit administratif ». Pour cette dernière, l'**administration publique peut être appréhendée, soit d'un point de vue fonctionnel, soit d'un point de vue organique**. Chaque fois, elle trouve sa consistance aussi bien dans des **éléments tirés du droit positif qu'en d'autres empruntés à des réflexions sur l'État**.

@@ -1,72 +1,122 @@
-Ø Rédige des phrases courtes.  
-Ø Utilise des mots simples.  
-Ø Abandonne les longues tournures compliquées.  
-Ø Place des mots de liaison (« Cependant », « Pour autant », « Or », « D’abord »).
+- Rédige des phrases courtes.  
+- Utilise des mots simples.  
+- Abandonne les longues tournures compliquées.  
+- Place des mots de liaison (« Cependant », « Pour autant », « Or », « D’abord »).
 
-Exemple phrase courte : La théorie de la séparation des pouvoirs est fondamentale dans le système juridique français. Il en ressort l’existence de 3 pouvoirs : le pouvoir législatif, le pouvoir exécutif et le pouvoir judiciaire. D’après cette théorie, chacun de ces pouvoirs doit être attribué à des organes différents.
+Exemple phrase courte : 
+- La théorie de la séparation des pouvoirs est fondamentale dans le système juridique français. Il en ressort l’existence de 3 pouvoirs : le pouvoir législatif, le pouvoir exécutif et le pouvoir judiciaire. D’après cette théorie, chacun de ces pouvoirs doit être attribué à des organes différents.
+- Eviter : « Théorie fondamentale et historique de notre système juridique français, la séparation des pouvoirs est un principe essentiel du régime politique d’après lequel chacun des trois pouvoirs (le pouvoir législatif, le pouvoir exécutif et le pouvoir judiciaire) doit être attribué à des organes différents. »
 
-Sujet : « Le Président de la République »
-Problématique : « Le Président de la République est-il véritablement la clé de voûte des institutions ? »).
+**Sujet : « Le Président de la République »**
+Problématique : « Le Président de la République est-il véritablement la clé de voûte des institutions ? ».
 
-Le correcteur d’une dissertation juridique se focalise principalement autour de 4 points : Ø Il va vérifier que tu as correctement compris le sujet qu’il t’a donné (§1)  
-Ø Il va apprécier ta capacité d’analyse et de réflexion à partir du sujet (§2)  
-Ø Il va évaluer ton expression écrite (§3)
-Ø Il va examiner ton esprit critique (§4)
+**Pas faire le plan suivant :** « *I/Le rôle du Président de la République II/Les pouvoirs du président de la République ».* En effet, ici, le plan est beaucoup trop descriptif et en plus il ne répond pas à la problématique suggérée.
 
-Majuscules :
+
+Le correcteur d’une dissertation juridique se focalise principalement autour de 4 points : 
+1. Il va vérifier que tu as correctement compris le sujet qu’il t’a donné (§1)  
+2. Il va apprécier ta capacité d’analyse et de réflexion à partir du sujet (§2)  
+3. Il va évaluer ton expression écrite (§3)
+4. Il va examiner ton esprit critique (§4)
+
+
+La dissertation juridique n’est - en aucun cas - une récitation de cours ! La dissertation ne consiste pas à recopier des tartines et des tartines de cours sur un sujet donné.
+
+
+**Majuscules**
 «État», «Premier Ministre», « ministre de l’Intérieur », « Parlement », « République », « Constitution », « Code civil », « Sénat », « Assemblée Nationale » « député », « sénateur », « Cour de cassation », « Conseil d’État », « cour d’appel de Lyon » « Conseil constitutionnel ».
 
-« Les propos de tel auteur doivent être toutefois nuancés. En effet, il apparait que... »
+**Le point de vue critique**
+- Ne pas dire : « Je ne suis pas d’accord avec cette vision des choses. »
+- « Les propos de tel auteur doivent être toutefois nuancés. En effet, il apparait que... »
 
 Introduction :
-
 - Accroche  
 - Définition des termes du sujet  
 - Contexte historique et de droit comparé - Intérêt du sujet  
 - Problématique  
 - Annonce de plan
 
-S’il s’agit d’un examen en temps limité : 1/3 du temps qui t’est imparti au travail de préparation. Autrement dit, pour un examen de 3h (ce qui est le cas généralement), la phase de préparation doit durer environ 1 heure.
+S’il s’agit d’un examen en temps limité : 1/3 du temps qui t’est imparti au travail de préparation. Autrement dit, pour un examen de 3h (ce qui est le cas généralement), **la phase de préparation doit durer environ 1 heure**.
 
-Phases :
+**Phases**
 - La lecture du sujet (fiche n° 6) : nous verrons qu’il existe plusieurs types de sujets de dissertation.
 - Une fois que le sujet a été lu attentivement, il faut ensuite attaquer l’étape de réflexion.
 - Enfin, une fois la phase de réflexion terminée, il faut délimiter le sujet en faisant une sélection au sein des idées.
 
 --- 
-**Exemple : ton sujet s’intitule « Le contrôle de constitutionnalité en France ».**
+
+**Sujet : « Le pouvoir législatif ».** 
+Tu vas alors concentrer l’essentiel de tes développements sur le pouvoir législatif, ce qui n’est pas faux au regard du sujet intégral. Cependant, tu risques de faire une analyse trop large du sujet, ce qui sera pénalisé dans la notation. Consacrer de longs développements au pouvoir législatif aux États- Unis ou en Allemagne serait par exemple hors-sujet. Le sujet que tu dois traiter doit être pris dans son intégralité : tu dois évoquer le pouvoir législatif en France sous la Ve République
+
+**Lire le sujet**
+- Lire plusieurs fois le sujet
+	- réécrire le sujet sur le brouillon
+	- noter les idées que tu as trouvées
+- Noter toutes les idées
+	- à chaque fois que tu as une idée, note la sur ton brouillon
+	- rassembler le maximum d’idées pour pouvoir ensuite établir la problématique et construire le plan en conséquence
+	- d’abord trouver la problématique avant de construire le plan
+	- tu ne dois pas te restreindre : tu dois noter toutes tes idées
+	- feras un tri dans tes idées
+	- note toutes tes idées, même si tu penses que certaines d’entre elles ne sont pas très pertinentes
+- Décortiquer chaque mot et expression du sujet
+- Faire attention à la formulation du sujet (D)
+
+**Décortiquer le sujet** 
+Exemple : ton sujet s’intitule « Le contrôle de constitutionnalité en France ».**
 Chaque mot/expression du sujet doit être décortiquée. Ici, le sujet implique de s’attarder sur 4 expressions principales :  
 « Le contrôle »  
 « Constitutionnalité »
 « France »  
 « Le contrôle de constitutionnalité »
 
-« Le contrôle » : cela peut faire référence à l’idée de la hiérarchie des normes de Kelsen. Cela peut aussi faire référence au fait qu’il y ait plusieurs types de contrôle. Cela pose aussi les questions suivantes : qui contrôle ? Comment ? Où ? Qu’est-ce qui est contrôlé ? Comme tu le vois, les premières idées apparaissent...
-« Constitutionnalité » : la constitutionnalité fait référence à la « Constitution », avec la Constitution de 1958. Cela fait aussi référence à la Constitution, en tant que norme suprême, avec ses différentes conceptions (sens formel et sens matériel). Ensuite, on peut se demander : « La constitutionnalité » de quelle norme ? De la loi ? Des traités ? Des règlements ? La dissertation va donc supposer qu’on s’attarde principalement sur la thématique de la Constitution.
-« En France » : l’ensemble de tes développements doit principalement porter sur le régime politique français. Mais, rien qu’en disant ça, une question se pose : faut-il évoquer les républiques précédentes ? Autre question : peut-on évoquer le régime pratiqué aux États-Unis ? A propos de cette dernière question, on peut mettre ponctuellement certains éléments de comparaison entre le système français et le système américain. Cependant, consacrer une partie entière (I/ ou II/) ou une sous-partie entière (A/ ou B/) au système américain serait hors-sujet. En effet, ton sujet porte sur le système français ! A la limite, tu peux consacrer certains développements dans ton introduction lorsque tu évoques le contexte de droit comparé (sur l’introduction, v. plus bas).
-« Le contrôle de constitutionnalité » : le contrôle de constitutionnalité est le contrôle par lequel on va vérifier qu’une norme (exemple : une loi) est conforme à la Constitution. Il faut donc se demander dans un premier temps si l’on doit évoquer tous les types de contrôle de constitutionnalité. En effet, il peut s’agir du contrôle de constitutionnalité des lois, du contrôle de constitutionnalité des traités ou encore du contrôle de constitutionnalité des règlements. En outre, il faudra également rappeler qu’on ne doit pas confondre le contrôle de « constitutionnalité » avec le contrôle de « conventionnalité ». En effet, le contrôle de « conventionnalité » consiste à vérifier que la loi par exemple soit conforme aux traités et conventions internationales.
+- **« Le contrôle » :** cela peut faire référence à l’idée de la hiérarchie des normes de Kelsen. Cela peut aussi faire référence au fait qu’il y ait plusieurs types de contrôle. Cela pose aussi les questions suivantes : qui contrôle ? Comment ? Où ? Qu’est-ce qui est contrôlé ? Comme tu le vois, les premières idées apparaissent...
+- **« Constitutionnalité » :** la constitutionnalité fait référence à la « Constitution », avec la Constitution de 1958. Cela fait aussi référence à la Constitution, en tant que norme suprême, avec ses différentes conceptions (sens formel et sens matériel). Ensuite, on peut se demander : « La constitutionnalité » de quelle norme ? De la loi ? Des traités ? Des règlements ? La dissertation va donc supposer qu’on s’attarde principalement sur la thématique de la Constitution.
+- **« En France » :** l’ensemble de tes développements doit principalement porter sur le régime politique français. Mais, rien qu’en disant ça, une question se pose : faut-il évoquer les républiques précédentes ? Autre question : peut-on évoquer le régime pratiqué aux États-Unis ? A propos de cette dernière question, on peut mettre ponctuellement certains éléments de comparaison entre le système français et le système américain. Cependant, consacrer une partie entière (I/ ou II/) ou une sous-partie entière (A/ ou B/) au système américain serait hors-sujet. En effet, ton sujet porte sur le système français ! A la limite, tu peux consacrer certains développements dans ton introduction lorsque tu évoques le contexte de droit comparé (sur l’introduction, v. plus bas).
+- **« Le contrôle de constitutionnalité » :** le contrôle de constitutionnalité est le contrôle par lequel on va vérifier qu’une norme (exemple : une loi) est conforme à la Constitution. Il faut donc se demander dans un premier temps si l’on doit évoquer tous les types de contrôle de constitutionnalité. En effet, il peut s’agir du contrôle de constitutionnalité des lois, du contrôle de constitutionnalité des traités ou encore du contrôle de constitutionnalité des règlements. En outre, il faudra également rappeler qu’on ne doit pas confondre le contrôle de « constitutionnalité » avec le contrôle de « conventionnalité ». En effet, le contrôle de « conventionnalité » consiste à vérifier que la loi par exemple soit conforme aux traités et conventions internationales.
 
 ---
-![[Pasted image 20231004152653.png]]
-
-Faire attention à la formulation du sujet
-- La ponctuation (1) 
+**Faire attention à la formulation du sujet**
+- La ponctuation
 	- Exemple : le sujet « Le juge, bouche de la loi. » Ce sujet ne doit pas être envisagé de la même manière que le sujet « Le juge, bouche de la loi ? ». 
 		- Dans le premier cas, tes développements doivent démontrer que le juge est véritablement la bouche de la loi. On ne te pose pas une question, c’est une affirmation !
 		- En revanche, dans le 2e sujet, tu dois beaucoup plus nuancer ton propos. Tu dois répondre à la question : « Le juge est-il vraiment la bouche de la loi ? ». La réponse que tu vas apporter sera certainement beaucoup plus nuancée que pour le 1er sujet. C’est donc primordial de bien se focaliser sur la ponctuation.
 - Les « petits mots » (2) 
+	- les « petits mots » : « et », « ou », « en matière de
+	- exemples
+		- « Le Président de la République et la loi »
+			- erreur : Président de la République (I) et une autre partie à la loi (II)
+			- étudier, tout au long des développements, les liens entre le Président de la République et la loi. 
+			- Par exemple, il peut être pertinent d’évoquer la promulgation de la loi puisque c’est bien le président de la République qui promulgue les lois en France !
+		- La hiérarchie des normes, mythe ou réalité
+			- tu dois nécessairement nuancer ton propos
+			- apporter des éléments qui permettent de dire que la hiérarchie des normes n’est en fait que purement théorique
+			- d’évoquer des éléments selon lesquels la hiérarchie des normes existe réellement
+			- enseignants attendent généralement que tu nuances tes propos (et non que tu prennes l’option pour l’un ou l’autre des camps)
+		- La faute en matière de droit civil
+			- ton sujet doit porter principalement sur l’étude de la notion de faute. 
+			- Mais, tu ne dois te focaliser que sur la conception du droit civil (et non par exemple celle du droit pénal ou du droit administratif
 - Les singuliers et pluriels (3) 
+	- Les révisions constitutionnelles sous la Ve République
+		- tout au long de tes développements, tu dois évoquer les différentes révisions constitutionnelles qui se sont produites sous la Ve République pour essayer d’en repérer les grandes lignes directrices.
+	- La révision constitutionnelle sous la Ve République
+		- tout au long de ta dissertation, tu dois plutôt te focaliser sur la procédure et le mécanisme de révision constitutionnelle prévue par la Constitution de 1958.
 - Les expressions entières du sujet (4)
 
-**Le sujet-phrase**
-Dans ce cas, tu dois prendre un angle d’attaque pour problématiser ton sujet. Tu ne peux pas te contenter de faire une récitation du cours !
-
-*« La nature juridique de l’embryon », il peut être intéressant de se demander si l’embryon appartient plutôt au monde des « personnes » ou au monde « des choses ». Pour ce sujet, il ne faudrait surtout pas faire comme plan « I/La qualification juridique de l’embryon » et « II/La protection de l’embryon ». En effet, ici, seul le I/ semble véritable répondre à la problématique. Le « II/ », en revanche, ressemble beaucoup plus à de la récitation de cours.*
+**Le sujet-phrase** 
+- Prendre un angle d’attaque pour problématiser ton sujet. Tu ne peux pas te contenter de faire une récitation du cours !
+- « La nature juridique de l’embryon » 
+	- il peut être intéressant de se demander si l’embryon appartient plutôt au monde des « personnes » ou au monde « des choses ». 
+	- Pour ce sujet, il ne faudrait surtout pas faire comme plan « I/La qualification juridique de l’embryon » et « II/La protection de l’embryon ». 
+	- En effet, ici, seul le I/ semble véritable répondre à la problématique. Le « II/ », en revanche, ressemble beaucoup plus à de la récitation de cours.*
 
 **Le sujet-mot**
 Dans ce cas-là, tu dois là aussi faire attention à ne pas tomber dans la récitation de cours. Tu dois tenter de problématiser avec un angle d’attaque intéressant.
-
-*Exemple : pour le sujet sur la « séparation des pouvoirs », il peut être intéressant de se demander si la séparation des pouvoirs est une théorie qui est encore appliquée à la lettre aujourd’hui. Il ne faudrait surtout pas, en revanche, faire un plan du genre « I/La notion de séparation des pouvoirs » et « II/L’application de la séparation des pouvoirs » car, ici, seule le « II/ » semble véritablement répondre à la problématique. Les éléments de définition sur la séparation des pouvoirs doivent plutôt apparaitre en introduction.*
+- « séparation des pouvoirs », 
+	- il peut être intéressant de se demander si la séparation des pouvoirs est une théorie qui est encore appliquée à la lettre aujourd’hui. 
+	- Il ne faudrait surtout pas, en revanche, faire un plan du genre « I/La notion de séparation des pouvoirs » et « II/L’application de la séparation des pouvoirs » car, ici, seule le « II/ » semble véritablement répondre à la problématique. 
+	- Les éléments de définition sur la séparation des pouvoirs doivent plutôt apparaitre en introduction.*
 
 **Le sujet-question**
 Dans ces différents cas, il est conseillé de répondre de façon nuancée (Oui/Non... Mais...) et argumentée à la question.

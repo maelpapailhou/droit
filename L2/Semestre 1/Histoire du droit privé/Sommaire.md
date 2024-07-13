@@ -1,0 +1,9 @@
+Partie 1 : L'invention de l'écriture, une mise en perspective politique
+
+Dans cette 1ère partie qui sert d'introduction générale, on essaie de montrer quelles ont été les conditions sociales de l'invention de l'écriture et de cette forme d'organisation sociale particulière qu'est la ville. C'est en effet dans un contexte urbain que le politique devient l'objet d'un questionnement spécifique, distinct des spéculations religieuses, métaphysiques ou morales.  
+
+Partie 2 : La Cité antique
+ 
+Partie 3 : Le sceptre et la mitre : pouvoir spirituel et pouvoir temporel dans la cité chrétienne
+
+cette 3ème partie s'intéresse aux débats de nature théologique, juridique et politique qui ont tourné autour de l'organisation des pouvoirs dans le cadre d'une "république chrétienne" (république étant à comprendre au sens premier du terme de collectivité politiquement organisée). Idéalement organisée autour de deux grands pouvoirs et de leur collaboration harmonieuse, le pouvoir spirituel, qui détient les clés du salut dans l'au-delà, et le pouvoir temporel attaché à la conservation de l'ordre social ici-bas, la république chrétienne est en fait sans cesse travaillée par leurs dissensions et leurs rivalités, chacun revendiquant la primauté sur l'autre. Nous verrons en particulier comment cette lutte a  conduit l'Église et la papauté, au fil des siècles  à promouvoir les concepts du droit romain aux côtés des enseignements puisés dans la Bible pour affirmer son unité et son monopole sacramentel. Nous verrons aussi comment, au fuir et à mesure que l'Église se dégage de la tutelle des princes laïcs, ceux-ci revendiquent une sacralité spécifiquement politique, indépendante de l'Église, et dont l'État est le dépositaire, le constituant comme une "Église" assurant l'administration du sacrement de la justice et de la paix civile à ses sujets.  
