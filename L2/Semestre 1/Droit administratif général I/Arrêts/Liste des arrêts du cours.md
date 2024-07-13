@@ -4,75 +4,42 @@
 - CE, 24 octobre 1984, Diabate
 - CE, 2 juillet 1967, Bricq
 - [[CAA, Douai, 5 juillet 2016, Ligue Française pour la défense des droits de l’homme et du citoyen]]
-
-CE, Sect., 18 décembre 1959, Société « Les films Lutétia »
-
-CE, Ass., 27 octobre 1995, Commune de Morsang-sur-Orge
-
-CE, 12 novembre 1997, Association Communauté tibétaine en France
-
-CE Sect., 11 mai 1951, Consorts Baud
-
-TC 7 juin 1951, Dame Noualek.
-
-TC, 5 décembre 1977, Demoiselle Motsch 
-
-TC 12 juin 1978, Société Le Profil 
-
-TC 23 janvier 2006, Époux Girodie contre Agent judiciaire du Trésor 
-
-CE Ass., 24 juin 1960, Société Frampar
-
-TC, 23 novembre 1956, trésor public contre Giry,
-
-CE, 18 avril 1902, Commune de Néris-les-Bains,
-
-CE 8 août 1919, Labonne
-
-CE 17 avril 2020, Commune de Sceaux, n° 440057,
-
-CE Ass. 26 octobre 2011, Commune de Saint-Denis (req. n° 326492), Commune de Pennes-Mirabeau (req. n° 329904) et SFR (req. n° 341767 et 341768). 
-
-CE Ass, 22 juin 1951, Daudignac
-
-CE 1932, Ville de Castelnaudary
-
-CE 1997, Commune d’Ostricourt
-
-CC, 15.10.2021, 2021-940 QPC, Société Air France II
-
-CE, Sect., 23 octobre 1959, Doublet
-
-CE Sect. 14 décembre 1962 Doublet,
-
+- [[CE, Sect., 18 décembre 1959, Société « Les films Lutétia »]]
+- [[CE, Ass., 27 octobre 1995, Commune de Morsang-sur-Orge, Lancé de nains]]
+- CE, 12 novembre 1997, Association Communauté tibétaine en France
+- CE Sect., 11 mai 1951, Consorts Baud
+- TC 7 juin 1951, Dame Noualek.
+- TC, 5 décembre 1977, Demoiselle Motsch 
+- TC 12 juin 1978, Société Le Profil 
+- TC 23 janvier 2006, Époux Girodie contre Agent judiciaire du Trésor 
+- CE Ass., 24 juin 1960, Société Frampar
+- TC, 23 novembre 1956, trésor public contre Giry,
+- CE, 18 avril 1902, Commune de Néris-les-Bains,
+- CE 8 août 1919, Labonne
+- CE 17 avril 2020, Commune de Sceaux, n° 440057,
+- CE Ass. 26 octobre 2011, Commune de Saint-Denis (req. n° 326492), Commune de Pennes-Mirabeau (req. n° 329904) et SFR (req. n° 341767 et 341768). 
+- CE Ass, 22 juin 1951, Daudignac
+- CE 1932, Ville de Castelnaudary
+- CE 1997, Commune d’Ostricourt
+- CC, 15.10.2021, 2021-940 QPC, Société Air France II
+- CE, Sect., 23 octobre 1959, Doublet
+- CE Sect. 14 décembre 1962 Doublet,
 - [[CE, 19 mai 1933, Benjamin]]
 - [[TC, 8 avril 1935, Action française]]
 - CE, 13 mars 1968, Époux Leroy,
 - CE, 28 juin 1918, Heyriès
-
-CE 28 février 1919, Dames Dol et Laurent.
-
-CE 10 février 1905, Tomaso Grecco
-
+- CE 28 février 1919, Dames Dol et Laurent.
+- CE 10 février 1905, Tomaso Grecco
 ### Service public
 - [[CE Ass., 13 mai 1938, Caisse primaire Aide et Protection]]
-
-
-CE, Ass. 31 juillet 1942, Monpeurt
-
-CE 20 avril 1956, Époux Bertin
-
-CE, 7 avril 1916, Astruc 
-
-TC 22 janvier 1955, Naliato
-
-CE Ass., 20 décembre 1935, Ets Vézia
-
-CE Sect. 6 avr. 2007, Cne d’Aix-en-Provence
-
-CE 28 juin 1963, Narcy
-
-CE, Sect. 22 février 2007, APREI.
+- CE, Ass. 31 juillet 1942, Monpeurt
+- CE 20 avril 1956, Époux Bertin
+- CE, 7 avril 1916, Astruc 
+- TC 22 janvier 1955, Naliato
+- CE Ass., 20 décembre 1935, Ets Vézia
+- CE Sect. 6 avr. 2007, Cne d’Aix-en-Provence
+- CE 28 juin 1963, Narcy
+- CE, Sect. 22 février 2007, APREI.
 
 CE 5 octobre 2007, Sté UGC-Ciné
 
@@ -133,10 +100,8 @@ CE 9 nov. 2016, Féd. Départementale des libres penseurs de Seine-et-Marne et
 CE, 1996, Société Direct Mail Promotion.
 
 ### Le principe de légalité
-
-CE 17 fév. 1950, Dame Lamotte
-
-CE, 26 juin 1959, Syndicat général des ingénieurs-conseils.
+- [[CE, 17 février 1950, Dame Lamotte]]
+- CE, 26 juin 1959, Syndicat général des ingénieurs-conseils.
 
 CE, ass., 16 déc. 2020, n° 440258, Fédération CFDT des Finances, Confédération générale du travail, Fédération des personnels des services publics et des services de santé Force Ouvrière 
 
