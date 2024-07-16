@@ -1,0 +1,1 @@
+[**Arrêt dit « Fraisse »**](https://aideauxtd.com/larret-fraisse-du-2-juin-2000/)**(Assemblée plénière, du 2 juin 2000, 99-60.274, Affaire Pauline Fraisse)**

@@ -1,0 +1,1 @@
+Dans l’arrêt Sarran, le Conseil d’État pose la solution de principe selon laquelle en cas de conflit entre la Constitution et une norme internationale ou européenne, la Constitution l’emporte devant le juge administratif. Il reconnait ainsi la primauté dans l’ordre interne de la Constitution sur les conventions internationales.
