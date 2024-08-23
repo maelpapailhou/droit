@@ -31,4 +31,28 @@
 		- La détermination du juge compétent  
 		- La détermination du patrimoine responsable
 - Section 2 : Le régime
+	- Paragraphe 1 : Les autorités détentrices du pouvoir de police
+		- A) Les autorités de police administrative générale
+			1. L'échelon national
+				- a) Le pouvoir de police générale du chef de l'exécutif
+				- b) Le pouvoir de police du Premier ministre
 
+			- L'échelon départemental
+				- a) Le préfet
+				- b) Le Président du Conseil départemental
+			- L'échelon communal
+				- a) La compétence du maire en matière de police municipale
+				- La compétence, par voie de substitution, du préfet
+				- Le cas des communes à police d'État
+				- Le cas parisien
+		- B) Les autorités de police administrative spéciale
+	- Paragraphe 2 : Les concours de police
+		- A) Les concours de police générale
+			- Le principe : l'aggravation de la mesure émanant de l'autorité supérieure
+			- L'exception : l'assouplissement
+		- B) Les concours entre police générale et police spéciale
+			- Hypothèse où la PG et la PS appartiennent à une même autorité
+			- Hypothèse où la PS et la PG sont détenues par des autorités différentes
+				- a) Le principe : l'intervention de l'autorité de PS n'exclut pas celle de l'autorité de PG
+				- b) L'exception : certaines PS excluent totalement l'intervention de l'autorité de PG
+				- c) L'exception de l'exception : le péril imminent
