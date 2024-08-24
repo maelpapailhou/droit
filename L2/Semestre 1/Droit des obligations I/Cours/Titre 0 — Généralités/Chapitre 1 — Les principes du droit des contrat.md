@@ -1,11 +1,17 @@
 Code civil identifie 3 principes essentielles.
 ### Section 1 : la liberté contractuelle
+
+> **Article 1102 civil**
+> Chacun est libre de contracter ou de ne pas contracter, de choisir son cocontractant et de déterminer le contenu et la forme du contrat dans les limites fixées par la loi.
+> La liberté contractuelle ne permet pas de déroger aux règles qui intéressent l'ordre public.
+
+La liberté contractuelle ne **permet pas de déroger aux règles qui intéressent l'ordre public**.
 Principe fondamental du droit du contrat, consacré par le Conseil constitutionnel. L'article 1102 du Code civil, alinéa 1, pose d'abord les éléments de la liberté contractuelle et, dans son alinéa 2, insiste sur les limites de cette liberté contractuelle.
 
 La liberté contractuelle contient 3 piliers (2 versants) :
-1. On est libre de contracter ou de ne pas contracter. On n'est jamais contraint de conclure un contrat. Certaines hypothèses dans lesquelles on est contraint de prendre un contrat, par exemple le cas de l'assurance automobile : si on conduit, on est obligé de s'assurer, donc de souscrire à une assurance. Idem pour avocat ou notaire, on est contraint par l'État.
-2. On est libre de choisir son partenaire, son cocontractant. Là encore, cette liberté de choisir son partenaire n'est en rien absolue. Exemple le plus connu est le droit de préemption urbain (DPU), où la mairie peut forcer la vente d'un immeuble à la municipalité plutôt qu'à un particulier.
-3. On est libre de déterminer ce que l'on veut dans son contrat. On est libre de fixer les clauses qui vont constituer le contenu de notre contrat. Ici aussi, ce n'est pas absolu ; même si les contractants sont d'accord sur certains éléments de leur contrat, le législateur peut décider que cela ne sera pas possible. Exemple : le droit du travail, qui fixe la durée maximale du temps de travail et l'indemnisation minimale. On est libre de contracter dans les limites de la loi.
+1. On est **libre de contracter ou de ne pas contracter**. On n'est jamais contraint de conclure un contrat. Certaines hypothèses dans lesquelles on est contraint de prendre un contrat, par exemple le cas de l'assurance automobile : *si on conduit, on est obligé de s'assurer, donc de souscrire à une assurance. Idem pour avocat ou notaire, on est contraint par l'*État.
+2. On est **libre de choisir son partenaire, son cocontractant**. Là encore, cette liberté de choisir son partenaire n'est en rien absolue. Exe*mple le plus connu est le droit de préemption urbain (DPU), où la mairie peut forcer la vente d'un immeuble à la municipalité plutôt qu'à un partic*ulier.
+3. On est **libre de déterminer ce que l'on veut dans son contrat**. On est libre de fixer les clauses qui vont constituer le contenu de notre contrat. Ici aussi, ce n'est pas absolu ; même si les contractants sont d'accord sur certains éléments de leur contrat, le législateur peut décider que cela ne sera pas possible. *Exemple : le droit du travail, qui fixe la durée maximale du temps de travail et l'indemnisation minimale. On est **libre de contracter dans les limites de la loi**.*
 
 L'alinéa 2 de l'article 1102 dispose que la liberté contractuelle ne permet pas de déroger aux règles qui intéressent l'ordre public. L'article 6 du Code civil : on ne peut par des conventions particulières déroger aux lois qui intéressent l'ordre public et les bonnes mœurs.
 Remarques :
@@ -31,8 +37,10 @@ La force obligatoire du contrat, article 1103 du Code civil, cette disposition e
 
 article 1104 civ, la bonne foie existait avant la réforme de 2016 car l'ancien article 1134 al 3 "les conventions doivent etre executés de bonne foi". Articel 1104 " les contrats doivent etre négociés, formés et exécutés de bonne foi".  AVant que executions, maintenant ,négociés formés et exécutés de bonne foi. 
 
-> Article 1104 civ : "Les contrats doivent être négociés, formés et exécutés de bonne foi. Cette disposition est d'ordre public."
+> **Article 1104 civ**
+> Les contrats doivent être négociés, formés et exécutés de bonne foi. Cette disposition est d'ordre public.
 
-> (Ancien) Article 1134 al 1 civil : "Elles doivent être exécutées de bonne foi.."
+> **(Ancien) Article 1134 al 1 civil :** 
+> Elles doivent être exécutées de bonne foi..
 
 Cette disposition est d'order public, on peut pas déroger à la bonne foie, on peut pas rédiger une clause. Dans systemes anglosaxons, libéralisme beaucoup plus fort. Originalité du droit français, on peut pas limiter la bonne foie. 2eme remarque : pas de sanctions. Arrets importants sur la question de savoir si juge pouvait sanctonner la mauvaise foi en neutralisant une clause tractuel ou juste dédommager à des dommages-interets. Ici jurisprudence nourrie qui s'est prononcée sur la question. 

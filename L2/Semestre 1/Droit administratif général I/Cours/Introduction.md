@@ -3,7 +3,6 @@
 L'administration a deux dimensions : une dimension organique (qui) et une dimension fonctionnelle (quoi). Sur le plan fonctionnel, elle a deux missions principales : la police administrative et le service public.
 
 #### Paragraphe 1 : L'administration au sens organique du terme
-
 L'administration désigne l'**organisation qui prend en charge une mission d'intérêt général**. Cela renvoie à toutes les institutions publiques qui assument des missions d'intérêt général. L'activité administrative relève majoritairement du pouvoir exécutif. L'article 20 de la Constitution stipule que "le gouvernement dispose de l'administration et de la force armée", ce qui montre **le lien entre le pouvoir exécutif et le pouvoir de l'administration**. Cependant, toutes les activités gouvernementales ne sont pas des activités administratives. **Le propre du pouvoir exécutif est de faire des choix de politique générale**. C'est l'activité du gouvernement, une activité gouvernementale exécutive.
 
 L'activité administrative consiste à **appliquer les choix politiques faits par le gouvernement**. On **distingue donc le fait de gouverner du fait d'administrer**. On exclut les deux autres pouvoirs, à savoir le Parlement (qui vote les lois et **contrôle le gouvernement**) et les organes juridictionnels.
@@ -35,7 +34,6 @@ Depuis 2010, la Société publique locale (SPL) a vu le jour : c'est une sociét
 
 **SEM (Société d'économie mixte) :** Les SEM, comme la SIDR ou la SHLMR, ont été largement utilisées pour le logement social. Elles permettent de faire appel à des fonds privés lorsque l'État n'a pas les moyens de réaliser toutes ses missions.
 #### Paragraphe 2 : La dimension fonctionnelle
-
 L'administration est une activité. Elle met en relation tous ces organes et les administre, que les administrés soient des usagers, des contribuables, des fournisseurs, ou des victimes d'accidents.
 
 Ce qui importe, c'est le but. La mission de l'administration est liée à l'intérêt général. L'intérêt général correspond à des fonctions qui ne peuvent pas être prises en charge par des particuliers, comme la défense nationale, la justice, ou encore des fonctions qui sont mieux prises en charge par l'État, comme l'enseignement gratuit et obligatoire sur l'ensemble du territoire.
@@ -53,7 +51,6 @@ Aujourd'hui, on évolue dans un paysage où l'État intervient moins, mais ce so
 Ces missions vont être complétées par une approche un peu plus doctrinale.
 
 #### Paragraphe 3 : Approche doctrinale du droit administratif
-
 Dans un premier temps, les auteurs ont estimé que l'identification du droit administratif était fondée sur la compétence de la juridiction administrative. Il s'agit ici d'une approche organique, car si une institution est administrative, alors la compétence administrative s'applique.
 
 Cela réduisait beaucoup l'intervention de la compétence judiciaire. Cette approche n'étant pas satisfaisante, la doctrine a cherché d'autres critères. 

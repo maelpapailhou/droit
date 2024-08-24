@@ -1,0 +1,1 @@
+Acte législatif ou réglementaire par lequel est définie une infraction.
