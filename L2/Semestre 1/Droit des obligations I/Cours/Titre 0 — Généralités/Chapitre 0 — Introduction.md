@@ -1,7 +1,8 @@
 ### Section 1 : la définition d'une obligation
 L'article 1100 du Code civil dispose que les obligations naissent d'actes juridiques, de faits juridiques ou de l'autorité de la loi. Ce texte évoque les sources d'obligations mais ne les définit pas.
 
-> Article 1100 civ : Les obligations naissent d'actes juridiques, de faits juridiques ou de l'autorité seule de la loi.
+> Article 1100 civ
+> Les obligations naissent d'actes juridiques, de faits juridiques ou de l'autorité seule de la loi.
 > Elles peuvent naître de l'exécution volontaire ou de la promesse d'exécution d'un devoir de conscience envers autrui.
 
 Dans le langage courant, le mot "obligation" recouvre de très nombreuses hypothèses. Pour les civilistes, le mot "obligation" a un sens beaucoup plus restreint (contre-exemple : l'obligation de rouler à droite). 

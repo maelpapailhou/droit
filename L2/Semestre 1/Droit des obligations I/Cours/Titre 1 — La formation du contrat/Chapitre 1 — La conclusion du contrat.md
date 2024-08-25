@@ -1,7 +1,7 @@
-dasn code civil de 1804, il y avait aucune dispotion consacrée à cette question de la maniere dont se conclu les contrats. Avant des que volonté contrat fait, ajd négociation,s etc. Reforme de 2016 aborde 3 questions.
+Dans le Code civil de 1804, il n'y avait aucune disposition consacrée à la manière dont se concluent les contrats. À l'époque, dès que la volonté de contracter était exprimée, le contrat était considéré comme conclu. Aujourd'hui, le processus est plus complexe, impliquant des négociations, des échanges, etc. La réforme de 2016 aborde trois questions principales concernant la formation des contrats.
 
 ### Section 1 : les négociations
-estce que un contaractant peut mettrre fin à negociations du contrat? est ce que one st oblgé de reveler à son partenaire toutes les informatons que 'on détient?
+Est-ce qu'un contractant peut mettre fin aux négociations du contrat ? Est-ce qu'on est obligé de révéler à son partenaire toutes les informations que l'on détient ?
 ##### Paragraphe 1 : la liberté de négociation
 Article 1112 du Code civil, qui dispose que l'initiative, le déroulement et la rupture des négociations contractuelles sont libres. En cas de faute commise dans les négociations, la réparation du préjudice qui en résulte ne peut avoir pour objet de compenser ni la perte des avantages attendus du contrat non conclu ni la perte de chance d'obtenir ces avantages.
 
