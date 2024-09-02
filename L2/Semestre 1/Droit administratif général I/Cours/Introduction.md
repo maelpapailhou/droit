@@ -1,7 +1,6 @@
 ### Section 1 : Tentative de définition du droit administratif
 
 L'administration a deux dimensions : une dimension organique (qui) et une dimension fonctionnelle (quoi). Sur le plan fonctionnel, elle a deux missions principales : la police administrative et le service public.
-
 #### Paragraphe 1 : L'administration au sens organique du terme
 L'administration désigne l'**organisation qui prend en charge une mission d'intérêt général**. Cela renvoie à toutes les institutions publiques qui assument des missions d'intérêt général. L'activité administrative relève majoritairement du pouvoir exécutif. L'article 20 de la Constitution stipule que "le gouvernement dispose de l'administration et de la force armée", ce qui montre **le lien entre le pouvoir exécutif et le pouvoir de l'administration**. Cependant, toutes les activités gouvernementales ne sont pas des activités administratives. **Le propre du pouvoir exécutif est de faire des choix de politique générale**. C'est l'activité du gouvernement, une activité gouvernementale exécutive.
 
@@ -62,7 +61,70 @@ Au début du XIXe siècle, deux écoles s'affrontent :
 ###### 1. École de la puissance publique
 
 Pour Hauriou, le droit administratif se détermine par les moyens mis en œuvre par l'administration. Si ces moyens relèvent de la gestion publique, alors le droit administratif s'applique, et le juge administratif est compétent. L'idée repose sur le fait que l'État est une personne morale dotée d'une qualité particulière, celle de la souveraineté, une qualité que les autres n'ont pas.
-##### A) les conceptions classiques
+#### A) Les conceptions classiques
 
-##### B) 
-### Section 2 : 
+##### 1) Le critère de la puissance publique, ou la doctrine des moyens 
+Souveraineté = pouvoir de faire ce qu'on veut sur son territoire, et que personne ne peut dicter à un État sa conduite.
+
+L'État a une qualité particulière qui est la souveraineté. Pour Horiou, les rapports entre l'État et les particuliers sont des rapports inégaux.
+
+L'idée qu'on ne pouvait pas appliquer le droit privé dans les rapports entre l'État et l'individu. Cette conception générale était complétée par une distinction fondamentale entre les actes de puissance publique (ceux qui manifestent la puissance de l'État) et les actes de gestion. Distinction fondée sur la supériorité de l'État sur l'individu.
+
+Les actes de puissance publique sont ceux qui sont utilisés par l'État lorsqu'il agit en qualité de personne publique, c'est-à-dire lorsqu'il agit par la voie d'ordre ou d'interdiction. Les actes de gestion sont des actes de l'État lorsqu'il se comporte en simple particulier.
+
+C'est uniquement lorsque l'État agit en tant que personne publique qu'il y a lieu d'intervenir.
+##### 2) Le critère du service public, ou la doctrine des fins et son histoire mouvementée
+Cette théorie pratique de la puissance publique de Hauriou s'était révélée incertaine, notamment sur la distinction entre acte d'autorité et acte de gestion. La notion de puissance publique a été contestée, ce qui a permis à une autre théorie de voir le jour, celle de Léon Duguit, fondateur de la notion de service public, qui est la gestion de l'activité de service public destinée à la satisfaction de l'intérêt général.
+
+Pour lui, l'activité de service public entraîne la mise en œuvre des règles de droit administratif, et détermine la compétence du juge administratif. Cette théorie du service public a été dégagée à la fin du 19e siècle en s'appuyant sur une décision du Tribunal des conflits du 8 février 1873, arrêt Blanco, rendu en matière de responsabilité suite à un accident dans une manufacture de tabac à l'époque gérée par l'État. Dans sa décision, "la responsabilité qui peut incomber à l'État du fait des personnes qu'il emploie dans le service public ne peut être réglée par les principes établis dans le Code civil pour les rapports de particulier à particulier, elle a ses règles spéciales". Donc, les tribunaux administratifs sont compétents. Cette décision Blanco est intéressante : 1) on va appliquer le droit spécial du droit administratif 2) on en déduit la jurisprudence du droit administratif.
+
+Cette théorie a connu une évolution assez singulière, car à une époque, il n'y avait que des personnes morales de droit public qui géraient des services publics.
+
+En 1938, avec l'arrêt Caisse primaire "Aide et Protection", la notion est élargie, affirmant que des personnes privées ou morales de droit public peuvent gérer un service public. C'est un éclatement organique.
+
+Puis, il y aura un second éclatement entre services industriels et commerciaux dans une décision du Tribunal des conflits, arrêt Bac d'Eloka de 1921 : il s'agissait de transport maritime, le bateau coule, tous les biens sont perdus, et ceux qui avaient des biens cherchent la responsabilité du transporteur. Le juge estime que c'est un service public industriel et commercial, donc dans ce cas, on appliquait les règles de droit privé, et le juge judiciaire était compétent.
+
+Cette crise va en partie se résoudre dans un arrêt du 20 avril 1956 (la renaissance du critère) grâce à un arrêt du Conseil d'État, 20 avril 1956, Époux Bertin. Ils géraient un service public, le contrat qui les lie avec la personne publique est un contrat administratif, donc on va appliquer le droit administratif, et porter le contentieux devant le juge administratif.
+##### B) La théorie du Doyen Vedel
+Théorie formulée dans la deuxième moitié du 20e siècle. Pour lui, il n'est pas concevable que le droit administratif soit conçu indépendamment de la Constitution. Comme la Constitution distingue les organes, il faut partir de ces considérations organiques pour définir le droit administratif. Ainsi, on exclut organiquement de l'administration tout ce qui relève du Parlement et des juridictions.
+
+L'article 66 de la Constitution protège la juridiction judiciaire. On exclut de l'administration tout ce qui relève du Parlement et du judiciaire. Que du gouvernement. Il exclut tout ce qui est dans l'activité gouvernementale.
+
+Le droit administratif se définit par l'exclusion des procédés de droit privé. L'administration devient donc l'ensemble des activités du gouvernement et des autorités décentralisées, étrangères à la conduite des relations internationales et à la répartition entre pouvoirs publics, et s'exerçant sous un régime de puissance publique et dans un but de service public.
+### Section 2 : les caractères du droit administratif
+C'est un droit qui a 3 caractéristiques majeures : 
+
+##### Paragraphe 1 : un droit autonome 
+Auto (soi) nome (règle) en grec signifie faire soi-même ses propres règles, par opposition à hétéro (autre) nome.
+
+Le droit administratif est autonome car c'est une branche de droit complète avec son propre système de pensée et de confection. Il ne se définit pas par rapport au droit privé.
+
+Un droit autonome a son propre système de sources, une juridiction dédiée et spécialisée, et des principes de droit qui lui sont propres. Il poursuit l'intérêt général (contrairement aux entreprises privées), et repose sur la personne publique et la souveraineté (ou la compétence de la compétence). Cela se traduit par des prérogatives de puissance publique qui n'ont pas leur pareil en droit privé. Par exemple, un bailleur ne peut pas expulser quelqu'un pour non-paiement de loyer, seul l'État peut le faire. Ces prérogatives de puissance publique, qui permettent la coercition, se manifestent par l'emploi de l'acte unilatéral qui permet à l'administration de décider unilatéralement.
+
+##### Paragraphe 2 : L’origine essentiellement jurisprudentielle du droit administratif
+##### A) L’œuvre jurisprudentielle
+Le droit administratif est désormais essentiellement jurisprudentiel, car ses règles et principes fondamentaux ont été élaborés à l’occasion d’arrêts rendus par le Conseil d’État. Ce droit prétorien n’est pas le fruit d’une volonté délibérée du Conseil d’État de se dresser en législateur (néologisme), mais plutôt la simple traduction de la nécessité devant laquelle il s’est trouvé pour doter l’administration de règles. L’action normative du Conseil d’État, bien que l’ayant fait sortir de son rôle de juge, lui a permis de construire de manière complète certaines théories, parmi lesquelles on peut compter : la théorie du pouvoir de police, la théorie du recours pour excès de pouvoir; le Conseil d’État a ainsi accompli une œuvre doctrinale. Cette œuvre ne partait pas de rien, elle s’appuyait sur la base qu’est le Code civil; elle tente d’inspirer des règles du droit privé, parfois pour mieux s’en éloigner, et parfois pour en faire des copies pures et simples (ex. théorie de la garde).
+
+D’autre part, lorsque le travail porte sur des textes, le Conseil d’État a parfois retenu des interprétations audacieuses. Notamment dans le cas de la théorie de l’expropriation, avec une jurisprudence audacieuse sur la loi de 1841.
+
+Cette nature jurisprudentielle du droit administratif le distingue encore du droit civil, qui est essentiellement un droit écrit. Aujourd’hui, le pouvoir créateur de la jurisprudence se manifeste surtout dans le détail, sur des questions de procédure, ou encore en matière de contentieux. Aujourd’hui, c’est plutôt le législateur ou l’autorité réglementaire (art. 37 de la Constitution) qui détermine les grandes évolutions du droit administratif. S’y ajoute également la part grandissante du droit de l’UE et du droit issu des traités internationaux en général.
+  
+###### B) La part du droit écrit et de la codification
+
+  
+
+Ajd le droit ecrit prends une place qui est quantitativement importante; exemple loi 22 avril 2000 loi DCRA droit des citoyens dans leurs relation avec l’administration. Cette loi a donné naissance a un code des relations le CRPR. 
+
+
+
+La part du droit ecrit c déjà que le législateur va adopter un certain nombre de loi et aussi idée que y’a un phénomène de codification. 2 modalités de codification : codification a droit constant : rangement, pas créatrice, c une compilation de texte. On ordonne des textes exisatants. On crée pas de normes nouvelles.
+
+2ème type, codification adroit non constant où on va élaborer un code comme on a élaboré un code de la commande publique sur la base d’une habilitation legislative, si on veut procéder par voie d’ordonnance, tres souvent le législateur habilite le gouvernement a codifier par voie d’ordonnance. RfDa en septembre été des ordonnances article 38
+
+  
+
+#### Paragraphe 3 : un droit évolutif
+Droit évolutif car jurisprudentiel. Avantage de pouvoir adapter constamment le droit aux besoins nouveaux. Les rapports sociaux qu’il régule se sont transformés plus rapidement que les rapports entre les particuliers.
+
+Ce qui a aussi changé, c'est la conception que l’État a de son rôle. Ce droit est également influencé par d’autres branches du droit, même s'il est autonome; influencé par le droit de la CEDH, qui a beaucoup influencé les règles de procédures et de contentieux (surtout la CEDH et non l’UE); le droit constitutionnel a également produit une mutation du droit administratif.
+##### 3) Un droit évolutif
