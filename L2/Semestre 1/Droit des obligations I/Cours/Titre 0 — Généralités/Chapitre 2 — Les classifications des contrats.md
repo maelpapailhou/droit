@@ -118,15 +118,14 @@ Le **contrat de gré à gré** est la figure du contrat sur laquelle a été bâ
 
 Le **contrat d'adhésion** se caractérise par le fait que **le contractant adhère aux conditions fixées par celui qui a rédigé le contrat, sans bénéficier de protection**. Pendant longtemps, il n'existait aucune différence de régime entre le contrat de gré à gré et le contrat d'adhésion. L'apport de la réforme de 2016 a été de donner au contrat d'adhésion un régime particulier, qui est énoncé dans deux articles.
 
-
-> Article 1190 civ
+> **Article 1190 civ**
 > Dans le doute, le contrat de gré à gré s'interprète contre le créancier et en faveur du débiteur, et le contrat d'adhésion contre celui qui l'a proposé.
 
 L'article 1190 du Code civil porte sur l'interprétation du contrat. Lorsqu'il s'agit d'un contrat de gré à gré, en cas de difficulté d'interprétation, le juge doit rechercher quelle a été la volonté des deux contractants. En revanche, si le contrat est un contrat d'adhésion, il sera nécessairement interprété contre celui qui l'a rédigé.
 
 L'appréciation du déséquilibre significatif ne porte ni sur l'objet principal du contrat ni sur l'adéquation du prix à la prestation.
 
->article 1171 du Code civil
+>**article 1171 du Code civil**
 >Dans un contrat d'adhésion, toute clause non négociable, déterminée à l'avance par l'une des parties, qui crée un déséquilibre significatif entre les droits et obligations des parties au contrat est réputée non écrite.
 
 La deuxième règle, énoncée à l'article 1171 du Code civil, permet au juge de neutraliser dans les contrats d'adhésion les clauses qui créent un déséquilibre significatif. On observe une évolution entre l'ordonnance de 2016 et la loi de 2018, qui a modifié à la fois la définition du contrat d'adhésion dans l'article 1110 et le rôle du juge dans le contrat d'adhésion à l'article 1171.
@@ -157,7 +156,7 @@ L'ordonnance a curieusement choisi d'intégrer dans la théorie générale du co
 Par exemple, une compagnie pétrolière conclut un contrat-cadre de distribution avec un pompiste détaillant prévoyant les règles générales gouvernant leur relation contractuelle (règles de détermination du prix, clause d'exclusi-vité...). Ce contrat-cadre se prolongera par des contrats d'application, qui seront des contrats de vente, chaque fois que le pompiste souhaitera se réapprovisionner
 ```
 
-#### Section 8 : les contrats à exécution instantané et les contrats à exécution successive
+### Section 8 : les contrats à exécution instantané et les contrats à exécution successive
 Les contrats d'exécution instantanée sont ceux susceptibles d'être exécutés en un instant. La vente est un contrat d'exécution instantanée. Les contrats à exécution successive sont des contrats qui ont, ontologiquement, naturellement, supposé une certaine durée. Par exemple, le contrat de bail, le contrat de travail, où tous les mois on va travailler et tous les mois on reçoit un salaire. Le contrat de travail suppose une certaine épaisseur temporelle. L'intérêt de la distinction porte sur la résolution du contrat.
 
 Pour un contrat à exécution instantanée, cela signifie que les parties doivent se restituer les prestations qu'elles ont reçues du contrat. Par exemple, dans la vente d'un objet, quelques années plus tard, si le contrat est résolu, on restitue l'argent et l'objet comme si rien n'avait été conclu, ce qui n'est pas le cas pour les contrats à exécution successive. Par exemple, dans un contrat de travail, on ne peut pas restituer le travail fourni, de même pour le contrat de bail.
@@ -180,3 +179,5 @@ Lorsque les prestations échangées ont trouvé leur utilité au fur et à mesur
 L'intérêt principal de la distinction entre contrats à durée déterminée et contrats à durée indéterminée est que traditionnellement les parties ne peuvent rompre les premiers avant l'arrivée du terme fixé, alors que chacune peut en principe résilier unilatéralement les seconds sous réserve d'un préavis raisonnable, n'engageant sa responsabilite qu'en cas d'abus. Ces solutions dégagées par la jurisprudence sont intégrées par l'ordonnance du 10 février 2016 dans le Code civil (C. civ., art. 1211 et 1212) qui consacre également le principe de prohibition des engagements perpétuels
 
 (C. civ., art. 1210), même si elles tendent parfois à être remises en cause aujourd'hui (v. ss 114). En outre, des règles spécifiques régissent le contrat à durée déterminée, l'ordonnance envisageant également de consacrer les solutions dégagées par la juris-prudence. Il peut être renouvelé par l'effet de la loi ou l'accord des parties, le renouvellement donnant naissance à un nouveau contrat dont en principe le contenu est identique au précédent mais dont la durée est indéterminée (C. civ., art. 1214). Lorsqu'à l'expiration du terme les contractants continuent d'exécuter les obligations, il y a tacite reconduction, qui produit les mêmes effets que le renouvellement du contrat (C. civ., art. 1215). Cette tacite reconduction est parfois encadrée pour éviter qu'elle ne soit imposée à une partie moins bien informée. Ainsi, l'article L. 215-1 du Code de la consommation prévoit que le professionnel prestataire de services doit informer le consommateur de la possibilité de ne pas reconduire le contrat, trois mois au plus tôt, un mois au plus tard avant le terme de la période permettant au consommateur de refuser la reconduction. À défaut, le consommateur peut mettre fin gratuitement au contrat à tout moment à compter de la date de reconduction.
+```
+

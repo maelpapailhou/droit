@@ -1,11 +1,11 @@
 - [[TC, 8 février 1873, Blanco]]
 - [[TC, 22 janvier 1921, Société commerciale de l’Ouest Bac d’Eloka]]
 ### La police administrative
-- CE, 24 octobre 1984, Diabate
+- [[CE, 24 octobre 1984, Diabate]]
 - CE, 2 juillet 1967, Bricq
-- [[CAA, Douai, 5 juillet 2016, Ligue Française pour la défense des droits de l’homme et du citoyen]]
+- [[CAA Douai, 5 juillet 2016, Ligue Française pour la défense des droits de l’homme et du citoyen]]
 - [[CE, Sect., 18 décembre 1959, Société « Les films Lutétia »]]
-- [[CE, Ass., 27 octobre 1995, Commune de Morsang-sur-Orge, Lancé de nains]]
+- [[CE Ass., 27 octobre 1995, Commune de Morsang-sur-Orge, Lancé de nains]]
 - CE, 12 novembre 1997, Association Communauté tibétaine en France
 - CE Sect., 11 mai 1951, Consorts Baud
 - TC 7 juin 1951, Dame Noualek.

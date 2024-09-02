@@ -1,3 +1,5 @@
+Un arrêté anti-coupure d'eau et anti-coupure d'électricité ne peut pas non plus trouver son fondement dans le respect de la dignité de la personne humaine. En revanche, lorsque le préfet accorde le concours de la force publique pour exécuter une décision de justice, c'est surtout le cas des expulsions, il doit adopter cette décision en tenant compte de ses conséquences au regard de la dignité humaine. Donc le préfet peut refuser d'expulser en se fondant sur le respect de la dignité de la personne humaine.
+
 Le Conseil d’État rejette le recours de la Ligue française pour la défense des droits de l’homme et du citoyen contre un arrêté municipal interdisant les fouilles de poubelles
 #### L’Essentiel
 - Par un arrêté du 29 juillet 2011, le maire de La Madeleine (département du Nord) a interdit les fouilles de poubelles, conteneurs et lieux de regroupement de déchets sur le territoire de la commune.
