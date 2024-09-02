@@ -32,41 +32,38 @@ L'intérêt est double, il est procédural.
 1. Il s'agit tout d'abord d'envisager la compétence des juridictions pénales. Compétence **ratione materiae** (compétence matérielle, c'est-à-dire quels sont les contentieux qu'une juridiction traite), quel tribunal, cour d'assises, cour criminelle ?
 2. Compétence **ratione loci** (compétence territoriale), tribunal correctionnel, mais lequel ? Paris ou autre ?
 
-Competnece ratioane maternae :
-Pour les contrevatention, generalement pas necessaire mais juridicton competente est le tribunal de police. Avant y'avait des juges de proximité, qui étaient competents pour gerer les 4 premieres classes de contravention. Supprimés par la loi du 8 aout 2016 et loi du 18 novembre 2016, supprimés. Apres ils voulaient els instaurers en 2020 avec jean castex. Dans certains tribunaux y'a des chambres de proximité. Ajd tribunal de police en cas de contestation.
+**Compétence ratione materiae :** Pour les contraventions, généralement pas nécessaire mais la juridiction compétente est le tribunal de police. Avant, il y avait des juges de proximité, qui étaient compétents pour gérer les 4 premières classes de contravention. Supprimés par la loi du 8 août 2016 et la loi du 18 novembre 2016. Après, ils voulaient les instaurer en 2020 avec Jean Castex. Dans certains tribunaux, il y a des chambres de proximité. Aujourd’hui, tribunal de police en cas de contestation.
 
-Pour lesz délits, on a vers un tribu,al correctionnel. Pour les crimes les choses ont évolué car avant que la cour d'assises. Ici un jury populaire. Mais probleme de la cour d'assises est que elle est pas permanante, y'a des sessiosn df'assises car il faut les composer, pour trouver des jurets. Encombrement des juridictions d'assises qui a conduit a allonger els délais pour etre juger en matiere criminelle.
+Pour les délits, on va vers un tribunal correctionnel. Pour les crimes, les choses ont évolué car avant c’était la cour d’assises. Ici, un jury populaire. Mais le problème de la cour d’assises est qu’elle n’est pas permanente, il y a des sessions d’assises car il faut les composer, pour trouver des jurés. Encombrement des juridictions d’assises qui a conduit à allonger les délais pour être jugé en matière criminelle.
 
-Donc idée de creer des cour criminelels départementales avec une originalité, elle comprote pas de jury populaire. Idée de juger les crimes les moins importantes (15-20 ans). Tout ce qui est passible de 30 ans à la perpétuité. 15 ou 20 : violences volontaires entarinant la mort sans intention de la donner. Les viols sauf aggravation, ex suivi d'un meutre. 3eme type de contenteiux dans les cours criminelles : le vol aggravé arrive sur des qualfication criminelles,exemplea vec arme. Ca c'est mis en place de maniere experimentale. Experimentation était territoriael et temporelle. Quelques ressors de juridiction pour un délais prévu. 
-Loi du 23 mars 2019 experimentale, experimentationd evenue effective des le 1er septembre. Experimentation devait durer 3 ans, mais avant fin une deuxieme vague d'experimetnation a été lancée en aout 2020, puis la généralisation a été prévue a tous les territoires pour octobre 2023. 
+Donc idée de créer des cours criminelles départementales avec une originalité, elle ne comporte pas de jury populaire. Idée de juger les crimes les moins importants (15-20 ans). Tout ce qui est passible de 30 ans à la perpétuité. 15 ou 20 : violences volontaires entraînant la mort sans intention de la donner. Les viols sauf aggravation, ex suivi d’un meurtre. 3ème type de contentieux dans les cours criminelles : le vol aggravé arrive sur des qualifications criminelles, exemple avec arme. Ça s’est mis en place de manière expérimentale. Expérimentation était territoriale et temporelle. Quelques ressorts de juridiction pour un délai prévu. Loi du 23 mars 2019 expérimentale, expérimentation devenue effective dès le 1er septembre. Expérimentation devait durer 3 ans, mais avant la fin une deuxième vague d’expérimentation a été lancée en août 2020, puis la généralisation a été prévue à tous les territoires pour octobre 2023.
 
-En principe on doit etre juger par cour criminelle en 1 an, ici on a pas de chiffres. Aussi savoi si difference entre les peines prononcées entre cour d'assises et cour crimonelle. 
+En principe, on doit être jugé par cour criminelle en 1 an, ici on n’a pas de chiffres. Aussi savoir s’il y a une différence entre les peines prononcées entre cour d’assises et cour criminelle.
 
-Deuxiemee enjeu : les delais de prescrption.
+Deuxième enjeu : les délais de prescription.
 
-La prescription est l'écoulemetn du temps. L'éccoulemetn du temps en droit peut avoir 2 effets tres differents. Il peut avoir soit un efefet créateur (prescriptiona acquisitive, créteur de droit), soit une effet contraire (effet exctinctif de droit), prescription exctinctive. 
+La prescription est l’écoulement du temps. L’écoulement du temps en droit peut avoir deux effets très différents. Il peut avoir soit un effet créateur (prescription acquisitive, créateur de droit), soit un effet contraire (effet extinctif de droit), prescription extinctive.
 
-Prescription acquisitive est en droit des biens.
+La prescription acquisitive est en droit des biens.
+En droit pénal, il existe deux types de prescription extinctives :
 
-En droit pénal, 2 types de prescription extinctives :
-1. la prescription de l'action publiques : les infractions doivent etre poursuivies dans un déoais déterminé a l'expiraiton duquel l'action publique est eteinte de sorte que l'acte restera impuni. Si on a pas été poursuiiv, l'acte demeurera impuni. Idée est double :
-	1. longtemps été une verité et moins ajd : disparition des preuves, avec le temps les preuves sont plsu compliqués à trouver, et moins certaines.
-	2. passé un certains temps, le trouve causé à l'ordre social par la réacrivation de cette affaire est plus dommageable que l'oubli. 
-délais differents selon le type de l'infraction loi 22 febrier 2017, on a notamment allongé les délais de prescription
-	1. en matiere de contravention : 1 an
-	2. les délits : 6 ans (avant 2017 3 ans)
-	3. en matière criminelle : 20 ans pour la plupart des crimes, parfois 30, et exceptionellement une inprescritibilité contre les crimes contre l'humanité.
+1. **La prescription de l’action publique :** les infractions doivent être poursuivies dans un délai déterminé à l’expiration duquel l’action publique est éteinte, de sorte que l’acte restera impuni. Si on n’a pas été poursuivi, l’acte demeurera impuni. L’idée est double :
+    - Cela a longtemps été une vérité, moins aujourd’hui : disparition des preuves, avec le temps les preuves sont plus compliquées à trouver et moins certaines.
+    - Passé un certain temps, le trouble causé à l’ordre social par la réactivation de cette affaire est plus dommageable que l’oubli. Les délais sont différents selon le type de l’infraction. La loi du 22 février 2017 a notamment allongé les délais de prescription :
+        1. En matière de contravention : 1 an
+        2. En matière de délit : 6 ans (avant 2017, 3 ans)
+        3. En matière criminelle : 20 ans pour la plupart des crimes, parfois 30 ans, et exceptionnellement une imprescriptibilité pour les crimes contre l’humanité.
 
-point de départ du délais en principe le jour de la comission des faits, le jour ou se consomme l'infraction. Attention en matire de harcelemtn,  le jour de la commsision se fait le denrier jour. Si hacelmetn dure 40 ans premiers faits sont pas percrits. Si mineur décalage du point d départ du délais de prescription au début de sa majorité. Pour mineur agression sexuel 30 ans. 
+Le point de départ du délai est en principe le jour de la commission des faits, le jour où se consomme l’infraction. Attention en matière de harcèlement, **le jour de la commission est le dernier jour**. _Si le harcèlement dure 40 ans, les premiers faits ne sont pas prescrits. Si la victime est mineure, le point de départ du délai de prescription est décalé au début de sa majorité. Pour une agression sexuelle sur mineur, le délai est de 30 ans._
 
-Prescription glissante : exemple 1 vicitme dans une meme stratégie, si predateurs sexuels, victimes meme prescrits on essaie de decaler les presicription.
+Prescription glissante : exemple d’une victime dans une même stratégie, si prédateurs sexuels, victimes même prescrits, on essaie de décaler les prescriptions.
 
-2. la predcription de la peine : personne poursuivie et condamné, mais que son arrestatione st impossible, soit car personne en fuite. On peut juger une personne par contumas. Ou alors elle était là physiquement pour son proces ou s'enfuie a la sortie du tribunal. Ou ^lus de place en prison on attends 6 moispour mise à execution, reviens pas. Au bout d'un déalis, la peine ne pourra plus être remsie a execution. délais ;:
-	1. contraventionel : délai est de 3 ans 
-	2. matiere delictuel : délai est de 6 ans
-	3. matiere criminelle : délais est de 20 ans, parfois 30 et imprescriptible pour crimes contre humanité. 
+2. **La prescription de la peine :** une personne poursuivie et condamnée, mais dont l’arrestation est impossible, soit parce qu’elle est en fuite. On peut juger une personne par contumace. Ou alors elle était présente physiquement pour son procès mais s’enfuit à la sortie du tribunal. Ou encore, il n’y a plus de place en prison et on attend 6 mois pour la mise à exécution, mais elle ne revient pas. Au bout d’un délai, la peine ne pourra plus être mise à exécution. Les délais sont :
+    1. En matière contraventionnelle : 3 ans
+    2. En matière délictuelle : 6 ans
+    3. En matière criminelle : 20 ans, parfois 30 ans et imprescriptible pour les crimes contre l’humanité.
 
-l'étude de la théroie générale de l'infraction va nosuc conduire à analyser successivement chacun des elements constitutifs de l'infraction. Toute infraction 3 elemnts contitutifs:
-1. Element légal
-2. elemetn mateirel de l'infraction
-3. 3. l'element moral de l'infraction
+L’étude de la théorie générale de l’infraction va nous conduire à analyser successivement chacun des éléments constitutifs de l’infraction. Toute infraction comporte trois éléments constitutifs :
+1. Élément légal
+2. Élément matériel de l’infraction
+3. Élément moral de l’infraction
