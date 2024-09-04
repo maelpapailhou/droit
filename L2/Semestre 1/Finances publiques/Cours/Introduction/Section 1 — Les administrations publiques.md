@@ -14,13 +14,31 @@ Remarques :
 - Contributions obligatoires = prélèvements obligatoires = impôts + cotisations sociales
 - On devrait dire "déficit des administrations publiques" plutôt que "dette de l'État".
 
-| Catégorie                                      | Dépenses (en milliards d'euros) | Recettes (en milliards d'euros) | Différence (en milliards d'euros) |
-| ---------------------------------------------- | ------------------------------- | ------------------------------- | --------------------------------- |
-| **État et ODAC**                               | 622,4                           | 481,9                           | **-140,5**                        |
-| **ASSO (Administrations de Sécurité Sociale)** | 704,2                           | 713,8                           | **+9,6**                          |
-| **APUL (Administrations Publiques Locales)**   | 295,3                           | 296,1                           | **+0,8**                          |
-- Une différence négative indique un déficit.
-- Une différence positive indique un excédent.
+**Liste des Administrations Publiques (APU)** :
+- **Administrations Publiques Centrales (APUC)**
+	- État
+	  - Budget général
+	  - Budgets annexes
+	  - Comptes spéciaux
+	- Organismes divers d’administrations centrales (ODAC)
+	  - Opérateurs de l’État
+- **Administrations Publiques Locales (APUL)**
+	- Collectivités territoriales
+	  - Régions
+	  - Départements
+	  - Communes
+	- Établissements publics de coopération intercommunale
+	- Organismes divers d’administration locale (ODAL)
+- **Administrations de Sécurité Sociale (ASSO)**
+	- Hôpitaux
+	- Régimes de Sécurité sociale
+	  - Régimes de base de sécurité sociale
+	  - Régimes spéciaux
+	- Régimes de retraite complémentaire
+	  - AGIRC
+	  - ARRCO
+	- Assurance chômage
+	- Divers organismes sociaux
 
 ```
 On distingue habituellement quatre sous-secteurs au sein de l’ensemble  
@@ -29,10 +47,30 @@ On distingue habituellement quatre sous-secteurs au sein de l’ensemble
 - les administrations publiques locales (APUL) qui incluent l’ensemble des collectivités territoriales mais aussi les organismes divers d’administration locale 
 - les administrations de sécurité sociale (ASSO) qui regroupent les ODASS et l’ensemble des régimes d’assurance sociale : régime général et régimes spéciaux de Sécurité sociale, régimes de retraite complémentaire ou assurance-chômage.
 ```
-#### A) Les administrations publiques centrales (APUC)
-2 composantes car on considère que c'est l'État (budget général, budgets annexes, comptes spéciaux), ce sont les budgets de l'État.
 
-État au sens de l'État et des ministères (administrations sociales).
+| Les dépenses publiques en France pour l'année 2022 selon les données de l'INSEE | Montant en milliards d'euros | Description                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Dépenses des administrations publiques locales**                              | 295,3                        | Les régions, départements, communes et groupement de communes mais aussi les centres communaux d’action sociale, collèges, lycées, etc.                                                                                    |
+| **Dépenses de l'État et des organismes divers d’administration centrale**       | 622,4                        | L’ensemble des politiques publiques gérées par l’État mais également les organismes divers d'administration centrale (ODAC) comme le CNRS, l’Inserm, l’Opéra national de Paris, les parcs nationaux, les musées nationaux. |
+| **Dépenses des administrations de sécurité sociale**                            | 704,2                        | Les hôpitaux, le régime général et les régimes spéciaux de la Sécurité sociale, les régimes de retraite et assurance-chômage ou encore Pôle emploi.                                                                        |
+
+| Catégorie                                      | Dépenses (en milliards d'euros) | Recettes (en milliards d'euros) | Différence (en milliards d'euros) |
+| ---------------------------------------------- | ------------------------------- | ------------------------------- | --------------------------------- |
+| **État et ODAC**                               | 622,4                           | 481,9                           | **-140,5**                        |
+| **ASSO (Administrations de Sécurité Sociale)** | 704,2                           | 713,8                           | **+9,6**                          |
+| **APUL (Administrations Publiques Locales)**   | 295,3                           | 296,1                           | **+0,8**                          |
+- Une différence négative indique un déficit.
+- Une différence positive indique un excédent.
+#### A) Les administrations publiques centrales (APUC)
+2 composantes car on considère que c'est l'État (budget général, budgets annexes, comptes spéciaux), ce sont les budgets de l'État. État au sens de l'État et des ministères (administrations sociales).
+
+**État et organismes divers d’administration centrale (ODAC) :**
+- Les administrations publiques centrales regroupent l’État y compris ses services déconcentrés, ainsi que les organismes divers d’administration centrale (ODAC), comme par exemple : Météo France, Pôle emploi ou les universités
+- Les ODAC sont financés principalement par des subventions de l’État ou par affectation de recettes («taxes affectées»). Ils exercent une compétence fonctionnelle spécifique au niveau national. Ce sont souvent des établissements publics à caractère administratif, et ils possèdent en général la personnalité juridique.
+
+| Dépenses (en milliards d'€) | Recettes (en milliards d'€) | Différence (en milliards d'€) |
+| --------------------------- | --------------------------- | ----------------------------- |
+| 638.8                       | 503.9                       | -134.9                        |
 
 **ODAC :** Organismes divers d'administration centrale (aussi appelés administrateurs de l'État). Ils ont les caractéristiques suivantes :
 1. Exercent une mission ou une activité de service public.
@@ -44,17 +82,12 @@ On distingue habituellement quatre sous-secteurs au sein de l’ensemble
 >Les opérateurs de l’État sont des organismes distincts de l’État, au statut juridique public ou privé, auxquels est confiée une mission de service public de l'État. Placés sous le contrôle direct de l'État, ils sont financés en majorité par lui et contribuent à la performance des programmes auxquels ils participent. On retrouve parmi les opérateurs des grands établissements publics comme les universités, Pôle emploi, Météo France, le CNRS ou l’INSERM.
 
 **Exemples d'ODAC :**
-- Universités et assimilés
-	- 13 milliards
-	- Part du financement public : 86%
-	- Part du budget : 19%
-- Pôle emploi
-	- 6 milliards
-	- Part du budget : 9%
-- CNRS
-	- 3 milliards
-	- Part du financement public : 92%
-	- Part du budget : 5%
+
+| Institution              | Budget (en milliards d'€) | Part du financement public (%) | Part du budget (%) |
+| ------------------------ | ------------------------- | ------------------------------ | ------------------ |
+| Universités et assimilés | 13                        | 86                             | 19                 |
+| Pôle emploi              | 6                         | -                              | 9                  |
+| CNRS                     | 3                         | 92                             | 5                  |
 
 Remarques : 
 - Tous les ODAC ne sont pas opérateurs de l'État, mais tous les opérateurs de l'État sont des ODAC.
@@ -78,8 +111,10 @@ Remarques :
 	- Ces organismes représentent 20 % de la dépense publique (la part la plus basse).
 
 Ce qui coûte le moins cher, ce sont les administrations locales.
-
 ##### C) Les administrations de la Sécurité Sociale
+| Régime agricole                  | Régime général                                                                               | Régimes spéciaux                 |
+| -------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------- |
+| Mutualité Sociale Agricole (MSA) | Branches famille, recouvrement, retraite, assurance maladie (branche famille, branche AT/MP) | SNCF, RATP, Fonctionnaires, etc. |
 Ce qui coûte le plus cher en France :
 - Hôpitaux
 - Les régimes de sécurité sociale (régimes de base de sécurité sociale et régimes spéciaux de la sécurité sociale)

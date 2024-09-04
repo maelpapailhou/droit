@@ -1,14 +1,15 @@
-Section 1. Les administrations publiques
-§ 1. La définition des administrations publiques
-A. Les administrations publiques centrales (APUC)
-B. Les administrations publiques locales (APUL)
-C. Les administrations de sécurité sociale (ASSO)
-§ 2. Les ressources et les dépenses des administrations publiques
-Section 2. Les recettes de l’État
-§ 1. Les recettes fiscales
-A. Les impôts
-1. La définition de l’impôt
-2. Les principaux impôts d’État
+Introduction
+- Section 1: Les administrations publiques
+	- Paragraphe 1 : La définition des administrations publiques
+		- A. Les administrations publiques centrales (APUC)
+		- B. Les administrations publiques locales (APUL)
+		- C. Les administrations de sécurité sociale (ASSO)
+	- Paragraphe 2 : Les ressources et les dépenses des administrations publiques
+- Section 2 : Les recettes de l’État
+	- Paragraphe 1 : Les recettes fiscales
+		- A) Les impôts
+			1. La définition de l’impôt
+			2. Les principaux impôts d’État
 B. Les taxes
 § 2. Les recettes non fiscales
 A. Les dividendes et recettes assimilées
