@@ -1,0 +1,10 @@
+Les juridictions civiles de premier degré en France sont les tribunaux d'instance, les tribunaux de grande instance et les juridictions de proximité.
+
+1.  Les tribunaux d'instance : Les tribunaux d'instance sont des juridictions de proximité. Ils sont compétents pour les litiges dont le montant en jeu ne dépasse pas une certaine somme (variable en fonction des cas), ainsi que pour les litiges concernant le logement, le crédit à la consommation, les baux commerciaux et les conflits entre voisins. Ils sont également compétents pour les procédures de référés, qui permettent d'obtenir rapidement une décision provisoire. Enfin, ils traitent également les affaires concernant l'état civil (mariages, PACS, divorces).
+    
+2.  Les tribunaux de grande instance : Les tribunaux de grande instance sont compétents pour les litiges qui excèdent la compétence des tribunaux d'instance (par exemple, les litiges concernant des montants importants ou des affaires complexes). Ils sont également compétents pour les litiges portant sur les droits de la famille (successions, tutelles, curatelles, etc.), les affaires commerciales et les contentieux liés au droit du travail.
+    
+3.  Les juridictions de proximité : Les juridictions de proximité ont été créées en 2002 pour traiter les affaires civiles les plus simples. Elles sont compétentes pour les litiges dont le montant en jeu ne dépasse pas une certaine somme (variable en fonction des cas), ainsi que pour les litiges de la vie quotidienne (troubles du voisinage, litiges de consommation, etc.).
+    
+
+Il est important de noter que depuis la réforme de la justice de 2019, les tribunaux d'instance et les juridictions de proximité ont été fusionnés en une seule et même juridiction appelée "tribunal judiciaire", qui est compétent pour toutes les affaires civiles de premier degré.

@@ -55,7 +55,13 @@ S’illustre dans deux hypothèses :
 	- Arrêt 1ère chambre civile 25 juin 2014 avait retenu “l’offre qui n’est pas assortie d’un délai est caduque par le décès de l’offrant”. Décision incertaine car se prête facilement à la décision a contrario. Nombreux commentateurs estimaient que l’offre non assortie d’un délai est caduque par décès de l’offrant, a contrario l’offre assortie d’un délai n’est pas caduque au décès de l’offrant et peut toujours être acceptée. Peut-être que la cour de cassation ne voulait pas parler de délai.
 	- Désormais, l’article 1117 dispose que “l’offre est caduque en cas de décès de son auteur”, sans distinguer entre offre assortie d’un délai et offre non assortie d’un délai. La loi de validation de 2018 a également apporté une clarification supplémentaire en précisant que l’offre est également caduque par le décès du destinataire de l’offre. Exemple : offre valable jusqu’au 1er octobre, celui qui se fait offrir meurt, mais les héritiers ne peuvent pas accepter.
 ##### 2) L'acceptation
+<<<<<<< HEAD
 ###### A) la notion d'acceptation
+=======
+
+###### A) la notion d'acceptation
+
+>>>>>>> 7da9e685df6b00b600df11149e3f7f3013b9a616
 l'acceptation doit rpésenter 2 caracteres :
 1. doit etre ferme : signifie qu'il doit sagir d'un oui franc et massif, pur et simple et inconditionnel. Si on dit oui j'accepte mais je voudrai mdoifier telle clause ce n'est pas une acceptation, les négociations continue. 
 2. doit etre express: ce principe est néanmoins assorti d'exceptions. Expression "qui ne dit mot ne concents", pas en droit. Cad le silence ne vaut pas acceptation. Pour accepter préalableme,t, necessaire me nanifester sa volonté. Ex en signant le contrat, en levant la main aux encheres., en commencant a executer le contrat. Dans totues hypothese acceptation se manifeste par une manifestation de sa volonté. CElui qii reste ambigue on sait pas s'il accepte ou pas. Article 1120 "le silence ne vaut pas acceptation a moins qu'il n'en resulte autrement de la loi, des usages, des relations d'affaires, ou de circonstances particuleires". C'est encor eune solution qu'avait déjà dégagé la jurisprudence. Ex en droit des assurances, quadn on assure notre maison on l'assure pour un certains montant mobilier, ex a ahauteur de 100 000 euros.  Si on achete oeuvre d'art et qu'on souhaite augmenter le plafond garanti de valeur garantie en cas d'incendit. La loi précise que si l'assureur ne réponds pas, il accepte cette augmentation sans augmenter votre cotisation. C'est le code des assurances, lorsque assurance envoie info a assureur et qu'il reste silencieux 1 mois, on paie pas plus et contrat ne change pas, plafond augmente. Ex vente de cognac, celui qui leve la main accepte pas, et vice versa. Donc usage. 
@@ -135,3 +141,6 @@ En dépit de toutes ces critiques doctrinales, la jurisprudence maintenait sa po
 Si promettant se retracte, sa retractaiton n'empechera pas la formation du contrat promis. 
 
 Sur cette question, après le 1er octobre 2016, la jurisprudence restait fermement attachée à la juriprudence Consort crous, et refusait d'opérer un revirement de jurisprudence. Ce revirement est arrivé assez tardivement, puisque c'est que par un arrêt du 23 juin 2021 et du 15 mars 2023 que la cour de cassation a opéré un revirement de jurisprudence, et qu'elle a adopté la solution nouvelle pour les pormesses convenues avant le premier octobre 2016. 
+=======
+#### Paragraphe 2 : la promesse unilatérale
+>>>>>>> 7da9e685df6b00b600df11149e3f7f3013b9a616

@@ -1,5 +1,5 @@
-#### Titre 0 : Généralités
-- **Chapitre 0 : Introduction**
+### Titre 0 : Généralités
+- Chapitre 0 : Introduction
 	- Section 1 : la définition d'une obligation
 	- Section 2 : l'importance du droit des obligations
 	- Section 3 : la classification des obligations
@@ -50,7 +50,7 @@
 	- Section 3 : les avants contrats
 		- Paragraphe 1 : le pacte de préférence
 		- Paragraphe 2 : la promesse unilatérale
-- **Chapitre 2 : La validation du contrat**
+- **Chapitre 2 : La validité du contrat**
 	- Section 1 : les conditions de validité du contrat
 		- Sous-section 1 : les conditions de fond du contrat
 			- Paragraphe 1 : le consentement
@@ -65,6 +65,19 @@
 					- *2.b) Le dol*
 					- *2.c) La violence*
 			- Paragraphe 2 : leurs capacité à contracter
+				- 1) La capacité à contracter
+				- 2) La représentation
+					- 1.a) Les action interrogatoires
+					- 2.b) les conflits d'interêts
+			- Paragraphe 3 : Le contenu du contrat
+				- 1) La licéité du contenu contractuelle
+				- 2.a) L'ordre public et les bonne moeurs
+					- 1.a.i) l'ordre public
+					- 2.a.ii) les bonnes moeurs
+				- 1.b) Le sors du contrat contraire à l'ordre public et les bonnes moeurs
 			- Paragraphe 3 : un contenu licite et certain
 		- Sous-section 2 : les conditions de forme du contrat
 	- Section 2 : les sanctions de l'invalidité du contrat
+
+
+

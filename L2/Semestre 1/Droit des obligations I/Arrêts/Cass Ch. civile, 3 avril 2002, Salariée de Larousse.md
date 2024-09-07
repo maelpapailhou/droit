@@ -1,0 +1,1 @@
+arrêt chambre civile 3 avril 2002, salariée de Larousse : “Seule l’exploitation abusive d’une situation de dépendance économique faite pour tirer profit de la crainte d’un mal menaçant directement les intérêts de la personne peut vicier de violence le consentement à l’acte juridique”. 
