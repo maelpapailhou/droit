@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #### Paragraphe 1 : Les recettes fiscales
 
 - **Recettes fiscales = Impôts + taxes**
@@ -13,14 +12,9 @@ Administration sécurité sociale : CSG-CRDS, salaires, tabac, TVA.
 
 Cotisations sociales : 384 milliards de recettes. L’État français et le Danemark, selon les années, sont les pays de l’OCDE où le taux de prélèvement obligatoire est le plus important.
 ##### A) Les impôts
-
-
-##### 1 les principaux impots de d'état
-comparatif des prelevements :
-
-Section 2 : les recettes de l'état
-
-budget de 2024 : recettes fiscales sont le plus imortant, 348 milliards d'euros proviennent des recettes fiscales. Non fiscale : 22 milliards. 
+Comparatif des prélèvements (budget de 2024) :
+- Recettes fiscales sont le plus important : 348 milliards d'euros
+- Non-fiscale : 22 milliards. 
 
 ##### A) Les impôts
 
@@ -33,7 +27,7 @@ budget de 2024 : recettes fiscales sont le plus imortant, 348 milliards d'euros 
 - Gaston Jèze (1936) : L'impôt est « une prestation pécuniaire, requise des particuliers par voie d'autorité, à titre définitif et sans contrepartie, en vue de la couverture des charges publiques»
 - Joseph Barthelemy (1941) : L'impôt est «le prélèvement d'argent que l'État exige à titre définitif, sans engagement de restitution et par voie d'autorité ou de contrainte, afin de faire face aux dépenses publiques et sans que l'État fournisse immédiatement et dans la même opération la contrepartie de ce versement»
 - Georges Vedel (1953) : L'impôt est « un prélèvement pécuniaire, de caractère obligatoire, effectué en vertu de prérogatives de puissance publique, à titre définitif, sans contrepartie déterminée, en vue d'assurer le financement des charges publiques de l'État, des collectivités territoriales et des établissements publics administratif »
-###### i) un prélèvement pécuniaire
+###### 1.a) un prélèvement pécuniaire
 Le paiement de l’impôt s’effectue sous la forme d’une remise d’une somme d’argent, mais il est progressivement dématérialisé. Le paiement au guichet est toujours possible jusqu’à 300 euros.
 
 Datation de paiement : permet de payer un impôt en remettant à l’État des œuvres d’art, des immeubles ou des valeurs immobilières. L’État a accepté, en guise de paiement de droits de succession de Picasso, de prendre des œuvres d’art.
@@ -42,78 +36,73 @@ Les composantes de l’impôt sont évaluées selon leur valeur pécuniaire, par
 
 La transmission d’un bien conduit au paiement d’un prélèvement dont le montant est calculé en fonction de la valeur du bien. Par exemple, la TVA, lorsque le bien change de propriétaire. Droit de mutation : lorsque le propriétaire d’un bien change en raison d’une vente. La dévolution, l’acquisition, la détention ou la transmission d’un bien entraînent le paiement d’un prélèvement calculé en fonction de sa valeur monétaire.
 
-###### ii) un prélèvement obligatoire.
+###### 2.b) un prélèvement obligatoire.
+Le rapport juridique entre l'État et le contribuable n'est pas contractuel. Le contribuable peut être tenu de payer le prélèvement, l'impôt en question, via des procédures d'exécution forcée. Les services fiscaux n'ont pas à recourir aux juges pour forcer le paiement.
 
-le rapport juridiqeu entre etat et ocntribuale est pas contractue. le contribuable peut etre tenu de payer leprélevement, l'impot en question, via des procédures d'execution forcé.  les services fiscaux n'ont pas a recourri raux juges pour forcer e paiement. 
+Certains impôts sont facultatifs, il s'agit des impôts dont bénéficient les collectivités territoriales.
 
-certains impots sont facultait,f ils agit des impots dont benificie les coll territoirales. 
+###### 1.c) Un prélèvement effectué à titre définitif
+L'impôt est une ressource budgétaire définitive, il n'est jamais restitué sauf s'il a été irrégulièrement perçu.
 
-C) un prelevement effectué a titre définitif
-ipot est une ressource budgétaire definitive, il n'est jamas restitué sauf si il a été irrégulierement percu. 
+###### 1.d) Un prélèvement sans contrepartie
+Il n'y a jamais de contrepartie directe. Si on paie 500 euros d'impôt, on ne reçoit pas 500 euros de service public en retour. C'est la caractéristique principale de l'impôt.
 
-D) un prelevement sans contrepartie
-jamais de contrepartie directe. paie 500eur d'impot pas 500erur de service publique.C la caracteristique principale de l'impot.
+Les articles 13, 14 et 15 de la Déclaration des Droits de l'Homme et du Citoyen (DDHC) soulignent ce point.
 
-DDHC articles 13, 14 et 15.
+L'article 13 précise que la contribution publique sert à l'entretien de la force publique et de l'administration, sans contrepartie personnalisée. L'absence de contrepartie ne constitue pas une raison valable pour refuser de payer l'impôt.
 
-articel 13 entrepritn force publique et d'administration, pas ne contrepratie qui est AUspersonnalisée.
-absence de contrepartie n econstitue pas une raison valable pour refuser de pahyer l'impot. 
+Dans un arrêt du 1er juin 1994 (_Letierce_), la Cour de cassation a jugé qu'un contribuable ne peut pas se prévaloir de l'absence de contrepartie pour refuser de payer l'impôt.
 
-1er juin 1994 arret Letierc, peut pas seprevaloir de contrepartei por pas payer impot. 
+L'impôt sert à la couverture des charges publiques. La modification des missions de l'État a enrichi cette finalité. La fiscalité peut être instrumentalisée au service des politiques publiques. L'impôt ne sert plus seulement à financer les charges publiques, il peut également être incitatif ou dissuasif.
 
-L'impot sers à la couverture des charges publiques. La modif des missions de l'état a enrichi cette finalité. a fiscalité peut etre instrumentalisée au service des politiues publiques. Impot ne sert plus qu'a financer charges publiques, il peut etre incitatif ou disuasif. 
+**Incitation fiscale** : L'incitation fiscale consiste, par des allégements fiscaux, à orienter les contribuables vers des comportements supposés vertueux.
 
-Partie incitatif : incitation fiscale conssite part des allegement fiscax à orienter le contribualbes vers des comportement supposés vertueux. 
+Exemples :
+- Le CITE (Crédit d'impôt pour la transition énergétique), qui encourage les travaux d'économie d'énergie dans l'habitation principale.
+- La réduction d'impôt Pinel, ou le crédit d'impôt lié à l'emploi d'un salarié à domicile ou au soutien des associations.
 
-Exemple CITE Credit d'impot trnasition energetique comme travaux economie d'energie dans habitation principale. Aussi réducrtion d'impot Pinel. o crédi d'impot lié à l'emploi d'un salarié à domicile. Ou association. 
+**Dissuasion fiscale** : La dissuasion fiscale consiste, par une taxation spécifique, à décourager des comportements néfastes pour le contribuable.  
+Exemples : le malus écologique, ou encore la taxe sur le tabac et l'alcool (droits d'accise), perçue sur la consommation de ces produits.
 
-La dissuasion fiscale consiste par une taxation spéfixique à dissuader ds comportments néfastes pour e contribuable. Ex malus écologique.  aussi taxe tabac et alcool, (droit d'assise) percu sur la consommation des alcool et des tabacs.
+Ainsi, l'impôt ne sert plus uniquement à couvrir les charges publiques.
 
-Donc impot ne sers plus u'a courir les charges publiques. 
+Les impôts les plus importants sont :
 
-impot sues plus importat :
-- TVA (pas taxe mais impot) 100 milliards d'euros, quasi 1/3 des recette sfiscales. 
-- impot sur le revenu 93 milliards d'ueros
-- impot sur les sociétés : imposé sur la nase des benefics de la société.
-- taxe interieur consommation produits energetiques (essence,e tc).
+- **TVA** (taxe sur la valeur ajoutée, qui est en fait un impôt) : 100 milliards d'euros, soit presque 1/3 des recettes fiscales.
+- **Impôt sur le revenu** : 93 milliards d'euros.
+- **Impôt sur les sociétés** : imposé sur la base des bénéfices des sociétés.
+- **Taxe intérieure de consommation sur les produits énergétiques** (TICPE) : perçue sur l'essence, etc.
 
-2 les principot impots d'etat.
-A La TVA
+##### 2) Les principaux impôts de d'état
+###### 2.a) La TVA
 
-Invention française, par la loi du 10 avril 1954. Il sagit d'un impot général sur la consommation directement facturée aux clients sur les biens cosommés aux services utilisé sur les territoires français. 
+Invention française, instaurée par la loi du 10 avril 1954. Il s'agit d'un impôt général sur la consommation, directement facturé aux clients sur les biens consommés et les services utilisés sur le territoire français.
 
-Voir tableau les taux de la TVA. harmonisation des taux au niveau européen. 
-- taux normal : avant 19,6 mtn 20%. Biens et prestations de services, boissons alcoolisées, cours. a domicile. 
-- taux intermediaire: transports, travaux de renovationde logement ancien, medicament san ordonnance 10%
-- taux réduit 5,5% produits premiere negecité, enegies, livres
-- taux particulier 2,1%  medicaments usr ordonnac,e journaux, spectacles vivant, theatre..
-Ce sont les taux de l'exagaune, outre mer et certins territoires tva réduit ou inexistante.
+Voir tableau des taux de la TVA. Harmonisation des taux au niveau européen.
 
-B) l'impot sur le revenu
+- **Taux normal** : avant 19,6 %, maintenant 20 %. Concerne les biens et prestations de services, boissons alcoolisées, cours à domicile.
+- **Taux intermédiaire** : 10 %. Concerne les transports, travaux de rénovation des logements anciens, médicaments sans ordonnance.
+- **Taux réduit** : 5,5 %. S'applique aux produits de première nécessité, énergies, livres.
+- **Taux particulier** : 2,1 %. Concerne les médicaments sur ordonnance, journaux, spectacles vivants, théâtre.
 
-invention anglaise, crée au 18e siecle en angleterre. 1791, arrive ne france pendnat premiere guerre mondiale pour financer depenses de l'état. 
+Ces taux s'appliquent en métropole. Outre-mer et dans certains territoires, la TVA est réduite ou inexistante.
 
-tranches pour 1 part de quotient familial.  Attention fonctionne par tranche. Impot moins oimportant en outre mer. 
+###### 2.b) L'impôt sur le revenu
 
-C) impot sur les societes
-définition
+Invention anglaise, créé au XVIIIe siècle en Angleterre. En 1791, il arrive en France et sera réinstauré pendant la Première Guerre mondiale pour financer les dépenses de l'État.
 
-25% des benefices sont taxés. Baisse depuis 2018. Avant 28% jusuqa 500 mille puis 33%. Existe depuis 1948. 
+Les tranches de l'impôt sur le revenu sont calculées par part de quotient familial. Attention, il fonctionne par tranches. Cet impôt est moins important en outre-mer.
 
-D) TICPE
-Droit d'assise,  = impot indirect sur la vente ou l'utilisation de certains produits (alcool, le tabac, l'énergie).  La TICPE porte sur les produits pétroliers qui sont utilisés comme carburant ou combustible. Gazone 57% de taxe, SP95 61%. 
-Exemple 100eur d'essence. que 45eur qui releve du produit en lui meme. TVA sur le porduit pétroe brut, et TVA sur la TICPE (taxe sur une taxe). Outre met plafonnement de la taxation, il dit que faut pas depasser.
+###### 2.c) L'impôt sur les sociétés
 
-Projet de lo finances : Etat A : (autres contributions fiscales)
+25 % des bénéfices sont taxés. Il y a eu une baisse depuis 2018, où l'impôt était de 28 % jusqu'à 500 000 euros, puis de 33 %. Cet impôt existe depuis 1948.
 
-grand B) les taxes
+###### 2.d) TICPE
+La TICPE est un droit d'accise, un impôt indirect sur la vente ou l'utilisation de certains produits (alcool, tabac, énergie). Elle porte sur les produits pétroliers utilisés comme carburant ou combustible. Par exemple, pour l'essence sans plomb 95, environ 61 % du prix est constitué de taxes.
 
-la taxe est le montant exigé en contrepartie e prestation offerte par un service public ou par l'utilisation d'un ouvrage public.
-la taxe est éxigée des usagers potentiels ou effectifs du service ou de l'ouvrage. 
-
+Exemple : pour 100 euros d'essence, seulement 45 euros concernent le produit lui-même. Il y a une TVA sur le produit pétrolier brut et une TVA sur la TICPE (une taxe sur une taxe). En outre-mer, il existe un plafonnement de la taxation, qui stipule qu'elle ne doit pas dépasser un certain seuil.
 
 #### Paragraphe 2 : Les recettes non fiscales
-
 Dérisoires par rapport aux recettes fiscales.
 Rapport d’analyse de l’exécution budgétaire, Cour des comptes.
 
@@ -140,34 +129,3 @@ Budget de l’État : 3 budgets
 Les opérations de cession, d’acquisition de dividendes et de recettes sont récapitulées dans le compte d’affectation spéciale des participations financières de l’État. Ce compte va recenser les participations de l’État, etc. en matière de dividendes. Si l’État cède ou achète des actions.
 
 #### Paragraphe 3 : les emprunts
-=======
-#### Paragraphe 1 : les recettes fiscales
-- Impots + taxes
-
-Prevelemnts fiscaux : 
-Prelevemnts non fiscaux : redevances 
-
-Contribution/prevelement obligatoir e: composé de des impots et des cotisations sociales. Ajd ont franchi la barre des 1 000 milliards en France, prelevements sont concentrés sur 6 d'entre eux, dont la CSG et la TVA.
-
-Impot le plus important pour état est la TVA,(etat importnat pour lui c'est pas de travailler mais de consommer). Pres de la moitié. Impot sur le revenu apres, impot sur les sociétés, TICPE (consommation produits energetiques). Impots transferés aux ODAC. 
-
-Collecricités locales : Taxe fonciere, taxe habitation (existe plus)
-
-Administation securité sociale : CSG-CRDS, salaires, tabac, TVA. 
-
-Cotisations sociales : 384 mds de recettes.  Etat français et avec le danemark selon les annéespays OCDE ou le taux prelevement obligatoire est le plus important. 
-##### A) Les impôts
-###### 1) La définition de l'impôt
-recettes fiscaled composees impositions de toute natutres. Art 37 cons indique tout ce qui est pas dasn article 34 competence du gouvernement. Art 34 alinéa 5 la loi fixe les regles concenrna tassiete, e taux, et les modalités de recouvrement des impositons de noutes natures: le regime d'emission de la monnaie. C au legislateur de le faire, pas au gouverneme,tn. Seule la loi peut prévoir les recettes fiscales. Le constituant n'a pas défini imposition de toutesnatures, ni recette fiscale. Conseil cont a du intervenir afin de proposer une définition négative. 2 déciisons :
-1. 23 juin 1982 executif ne s'est as opposé au parlement lors d'un transfert de competence, donc parlement peut empieter sr terrainde executif si s'oppose pas. DAns décision 2) définitions négative, cad tout ce qui releve pas impositions de toute nature : taxes parafiscales ne sont pas impositon de tote nature. Conseil cons dit que si prélevement ne constitue pas une taxe parafiscale, ou une redevance pour service rendue, cette redevance est une imposition de toute nature. 
-2. 30 decembre 1991 : Tous les prevelement qui ne sont ni cotisation sociale, ni taxe parafiscale alors impositon au sens articel 34 constitution..
-
-Taxe parafiscale (aboli en 2004) permettait au gouvernement de decider de l'assiete du taux et de l'affectation de ce prelevement
-
-Redevance poru service rendu sont des ressources non fiscales en raison de l'existence decontepartie.  La redevance est demandée aux usagers, effectif d'un service public. ou aux utilisateurs effectifs d'un ouvrage public. Ex on paie un ticket, on utilise. redevance Payé en contrepartie des charges causées par le service ou ouvrage public. 
-
-3e element: cotisations sociales sont des prelevements percus par des organismes octroyants des prestations sociales. Ces prelevements sont versés pour acquerir ou maintenir des droits à prestation sociael. 
-
-Impositons de toutes natures = impots et toutes les taxes.
-##### 1 les principaux impots de d'état
->>>>>>> 7da9e685df6b00b600df11149e3f7f3013b9a616

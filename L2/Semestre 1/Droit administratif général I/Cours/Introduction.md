@@ -121,10 +121,8 @@ La part du droit ecrit c déjà que le législateur va adopter un certain nombre
 
 2ème type, codification adroit non constant où on va élaborer un code comme on a élaboré un code de la commande publique sur la base d’une habilitation legislative, si on veut procéder par voie d’ordonnance, tres souvent le législateur habilite le gouvernement a codifier par voie d’ordonnance. RfDa en septembre été des ordonnances article 38
 
-  
-
 #### Paragraphe 3 : un droit évolutif
 Droit évolutif car jurisprudentiel. Avantage de pouvoir adapter constamment le droit aux besoins nouveaux. Les rapports sociaux qu’il régule se sont transformés plus rapidement que les rapports entre les particuliers.
 
 Ce qui a aussi changé, c'est la conception que l’État a de son rôle. Ce droit est également influencé par d’autres branches du droit, même s'il est autonome; influencé par le droit de la CEDH, qui a beaucoup influencé les règles de procédures et de contentieux (surtout la CEDH et non l’UE); le droit constitutionnel a également produit une mutation du droit administratif.
-##### 3) Un droit évolutif
+

@@ -58,7 +58,9 @@ Cette évolution est passée d’une coopération timide, prudente et méfiante 
 	- Compétence constitutionnelle et subsidiaire : La deuxième difficulté réside dans le fait que la CPI est une cour permanente, mais sa compétence est à la fois constitutionnelle et subsidiaire. Cela signifie qu'un État peut décider de juger lui-même ses ressortissants, ce qui limiterait la compétence de la CPI. Si un État refuse de présenter un ressortissant devant la CPI, la cour n'a pas de pouvoir contraignant. Ce problème est du à la structure de fonctionnement de la CPI, qui est basé sur la coopération entre les états. Si un État décide de ne pas respecter le principe de coopération, il n'existe pratiquement aucun moyen de contrainte.
 
 ---
+ABS
 
+---
 Le contrôle de la légalité des lois et des règlements est un contrôle qui appartient essentiellement au Conseil constitutionnel. Question de savoir si le texte incriminateur respecte la Constitution. Article 61, compétence exclusive du Conseil constitutionnel.
 
 Le contrôle se fait depuis toujours a priori, mais peut aussi se faire depuis les QPC a posteriori. Le juge pénal peut également inviter un contrôle en laissant passer une QPC.
@@ -199,3 +201,8 @@ Enjeu : hypothèse des infractions complexes qui vont se consommer à plusieurs 
 Dans le même esprit, l'article 113-5 permet à la France d'être compétente (juridiction + loi) pour statuer sur des actes de complicité commis en France d'une infraction réalisée à l'étranger.
 
 Réputée = fiction juridique, pas vraie, mais on fait comme si c'était le cas.
+
+---
+COURS MANQUANT 2H
+
+---

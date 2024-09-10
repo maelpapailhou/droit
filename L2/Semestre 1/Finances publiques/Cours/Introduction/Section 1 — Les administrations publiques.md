@@ -14,7 +14,6 @@ Remarques :
 - Contributions obligatoires = prélèvements obligatoires = impôts + cotisations sociales
 - On devrait dire "déficit des administrations publiques" plutôt que "dette de l'État".
 
-<<<<<<< HEAD
 **Liste des Administrations Publiques (APU)** :
 - **Administrations Publiques Centrales (APUC)**
 	- État
@@ -40,7 +39,7 @@ Remarques :
 	  - ARRCO
 	- Assurance chômage
 	- Divers organismes sociaux
-=======
+
 | Catégorie                                      | Dépenses (en milliards d'euros) | Recettes (en milliards d'euros) | Différence (en milliards d'euros) |
 | ---------------------------------------------- | ------------------------------- | ------------------------------- | --------------------------------- |
 | **État et ODAC**                               | 622,4                           | 481,9                           | **-140,5**                        |
@@ -48,7 +47,6 @@ Remarques :
 | **APUL (Administrations Publiques Locales)**   | 295,3                           | 296,1                           | **+0,8**                          |
 - Une différence négative indique un déficit.
 - Une différence positive indique un excédent.
->>>>>>> 7da9e685df6b00b600df11149e3f7f3013b9a616
 
 ```
 On distingue habituellement quatre sous-secteurs au sein de l’ensemble  
@@ -57,7 +55,6 @@ On distingue habituellement quatre sous-secteurs au sein de l’ensemble
 - les administrations publiques locales (APUL) qui incluent l’ensemble des collectivités territoriales mais aussi les organismes divers d’administration locale 
 - les administrations de sécurité sociale (ASSO) qui regroupent les ODASS et l’ensemble des régimes d’assurance sociale : régime général et régimes spéciaux de Sécurité sociale, régimes de retraite complémentaire ou assurance-chômage.
 ```
-<<<<<<< HEAD
 
 | Les dépenses publiques en France pour l'année 2022 selon les données de l'INSEE | Montant en milliards d'euros | Description                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -82,12 +79,11 @@ On distingue habituellement quatre sous-secteurs au sein de l’ensemble
 | Dépenses (en milliards d'€) | Recettes (en milliards d'€) | Différence (en milliards d'€) |
 | --------------------------- | --------------------------- | ----------------------------- |
 | 638.8                       | 503.9                       | -134.9                        |
-=======
+
 #### A) Les administrations publiques centrales (APUC)
 2 composantes car on considère que c'est l'État (budget général, budgets annexes, comptes spéciaux), ce sont les budgets de l'État.
 
 État au sens de l'État et des ministères (administrations sociales).
->>>>>>> 7da9e685df6b00b600df11149e3f7f3013b9a616
 
 **ODAC :** Organismes divers d'administration centrale (aussi appelés administrateurs de l'État). Ils ont les caractéristiques suivantes :
 1. Exercent une mission ou une activité de service public.
@@ -99,14 +95,13 @@ On distingue habituellement quatre sous-secteurs au sein de l’ensemble
 >Les opérateurs de l’État sont des organismes distincts de l’État, au statut juridique public ou privé, auxquels est confiée une mission de service public de l'État. Placés sous le contrôle direct de l'État, ils sont financés en majorité par lui et contribuent à la performance des programmes auxquels ils participent. On retrouve parmi les opérateurs des grands établissements publics comme les universités, Pôle emploi, Météo France, le CNRS ou l’INSERM.
 
 **Exemples d'ODAC :**
-<<<<<<< HEAD
 
 | Institution              | Budget (en milliards d'€) | Part du financement public (%) | Part du budget (%) |
 | ------------------------ | ------------------------- | ------------------------------ | ------------------ |
 | Universités et assimilés | 13                        | 86                             | 19                 |
 | Pôle emploi              | 6                         | -                              | 9                  |
 | CNRS                     | 3                         | 92                             | 5                  |
-=======
+
 - Universités et assimilés
 	- 13 milliards
 	- Part du financement public : 86%
@@ -118,7 +113,6 @@ On distingue habituellement quatre sous-secteurs au sein de l’ensemble
 	- 3 milliards
 	- Part du financement public : 92%
 	- Part du budget : 5%
->>>>>>> 7da9e685df6b00b600df11149e3f7f3013b9a616
 
 Remarques : 
 - Tous les ODAC ne sont pas opérateurs de l'État, mais tous les opérateurs de l'État sont des ODAC.
@@ -129,6 +123,7 @@ Remarques :
 
 >[!Définition]
 >Les administrations publiques locales, composées de toutes les collectivités territoriales (régions, départements, établissements publics de coopération intercommunale, communes) et des organismes divers d’administration locale (exemples : caisses des écoles, CCAS, chambres consulaires, etc.), représentent 20 % de la dépense publique française.
+
 
 3 composants :
 - **Collectivités territoriales** 
@@ -142,15 +137,31 @@ Remarques :
 	- Ces organismes représentent 20 % de la dépense publique (la part la plus basse).
 
 Ce qui coûte le moins cher, ce sont les administrations locales.
-<<<<<<< HEAD
-##### C) Les administrations de la Sécurité Sociale
+
+Depuis le premier acte de décentralisation de 1983, l'Etat a transféré de nombreuses compétences aux collectivités territoriales. La progression des dépenses de ces dernières tient donc en partie à l'élargissement du champ de politiques publiques dont elles ont la charge. Cela constitue l'évolution à champ courant des dépenses.
+
+Toutefois, une part significative de cette hausse ne résulte pas de la décentralisation mais se produit à champ de compétences constant. La hausse des dépenses des APUL observée depuis le début de la décentralisation s'explique donc, en partie, par la gestion locale.
+
+Depuis le début de la décentralisation, les recettes des APUL se caractérisent par un fort dynamisme : elles sont passées de 48,6 Md€ en 1983 à 270,2 Md€ en 2019. La plus grande partie de ces ressources est constituée de recettes fiscales. En 2019, les prélèvements obligatoires représentaient 156,9 Md€, soit 58 % des recettes totales des administrations publiques locales.
+
+Une partie substantielle des ressources des collectivités locales, 103,4 Md€ en 2019, provient également de l'Etat. Les dotations budgétaires, les prélèvements sur recettes de l'État et les transferts d'impôts aux collectivités permettent de financer en partie leur fonctionnement courant et leurs investissements. Ils ont également pour objectif de compenser les charges transférées aux collectivités territoriales dans le cadre de la décentralisation. L'Etat verse enfin une partie des recettes fiscales des collectivités dans le cas des dégrèvements d'impôts locaux et des compensations d'exonérations. Il a ainsi pris à sa charge 17 % des impôts locaux en 2017, ce qui fait de lui le premier contribuable local.
+
+**Les catégories de collectivités** 
+- **Les communes** constituent l'échelon de base de l'organisation territoriale de la République. Leurs dépenses se concentrent sur les actions de proximité (fonctionnement de l'enseignement, aménagement des territoires, préservation de l'environnement, infrastructures sportives et culturelles, etc.).
+- L'**intercommunalité** permet aux communes qui se regroupent au sein d'un établissement public, de gérer en commun des équipements ou des services publics et d'élaborer des projets de développement économique, d'aménagement ou d'urbanisme à l'échelle d'un territoire plus vaste que celui de la commune (traitement des déchets, organisation des transports, entretien des voiries, etc.)
+- **Les départements** assurent pour leur part l'essentiel des dépenses en matière sociale. Ces dépenses sont constituées de l'action sociale (politiques d'accompagnement des familles, de l'enfance, des personnes âgées et handicapées) et du versement de certaines prestations sociales (RSA et APA principalement).
+- L'**échelon régional** vise à permettre la conduite de politiques publiques cohérentes au niveau d'un bassin de vie (formation professionnelle, développement économique, transport, gestion des lycées, etc.).
+##### C) Les administrations de la Sécurité Sociale (ASSO)
+
+>[!Définition]
+>Les administrations de sécurité sociale regroupent les hôpitaux et l'ensemble des régimes de Sécurité sociale (régimes de base de sécurité sociale et régimes spéciaux) ainsi que les régimes de retraite complémentaire (AGIRC, ARRCO), l'assurance chômage et divers organismes sociaux.
+
+Il y a une forte socialisation de la dépense, inhérente au système français. En 2021, les dépenses des administrations de sécurité sociale (ASSO) s'élèvent à 683, Md€ (hors crédits d'impôts - source : Insee mai 2021). Plus de 80 % de ces dépenses sont des dépenses de prestations sociales et autres transferts, qui se répartissent très majoritairement entre les risques vieillesse-survie et santé-maladie.
+
 | Régime agricole                  | Régime général                                                                               | Régimes spéciaux                 |
 | -------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------- |
 | Mutualité Sociale Agricole (MSA) | Branches famille, recouvrement, retraite, assurance maladie (branche famille, branche AT/MP) | SNCF, RATP, Fonctionnaires, etc. |
-=======
 
-##### C) Les administrations de la Sécurité Sociale
->>>>>>> 7da9e685df6b00b600df11149e3f7f3013b9a616
 Ce qui coûte le plus cher en France :
 - Hôpitaux
 - Les régimes de sécurité sociale (régimes de base de sécurité sociale et régimes spéciaux de la sécurité sociale)
