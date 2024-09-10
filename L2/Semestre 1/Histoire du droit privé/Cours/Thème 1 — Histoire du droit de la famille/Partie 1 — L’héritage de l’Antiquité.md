@@ -25,7 +25,7 @@ Le mariage est une institution instable, c’est-à-dire que les mariages et les
 
 Ce mariage est créé sur un accord de volonté qui va lui donner naissance et va créer une alliance inégale.
 
-#### A) L’accord de volonté
+##### A) L’accord de volonté
   **Seul le consentement fait le mariage** ; il est donc parfait dès l’échange des consentements. Tout ce qui entoure le mariage, comme les fiançailles et autres, n’a pas de valeur juridique. De même, la consommation du mariage n’a pas d’incidence en droit.
 
 **_De quel consentement parle-t-on ?_**
@@ -39,7 +39,7 @@ Logiquement, si le mariage repose sur l’accord de volonté, cela signifie que 
 
 Ce mariage va créer une alliance imparfaite.
 
-#### B) Une alliance imparfaite
+##### B) Une alliance imparfaite
 Le droit romain ne cherche pas à réaliser une véritable union des époux ; il va juxtaposer les patrimoines des deux personnes, car à Rome, les époux ne sont pas égaux. L'homme exerce la pleine puissance, tandis que les femmes sont exclues de la plupart des postes de décision. Cette inégalité est accrue dans le cadre du mariage.
 
 Il existe **deux types de mariages** :
@@ -122,7 +122,7 @@ D’autre part, le droit germanique est un droit ritualiste. Ce qui donne force 
   
   
 
-**P1: le mariage germain**
+#### Paragraphe 1: le mariage germain
 
   
 
@@ -170,7 +170,7 @@ C’EST ermitage n’a pas les même effets que le romain. Car il va donner bais
 
   
 
-#### Paragraphe 2 : la parenté germaine 
+#### Paragraphe 2 : La parenté germaine 
 
   
 
@@ -190,7 +190,7 @@ Elle st composé des parents et des enfants, une famille quotidienne 
 
   
 
-1. **La famille élargi** 
+##### A) La famille élargie
 
 Elle apparait en cas de difficulté c’est-à-dire  lorsqu’un individu va rencontrer des problème sil va y avoir 2 manières de régler la situation. 
 
@@ -231,24 +231,12 @@ Et si personne ne veut payer, elle va être mis a mort. 
   
 
 - **POSSIBILITÉ 2: la famille règle entre elle**
-
 C’est la « **_faida_** » appelé la vengeance privé. Elle intervient dans les cas grave. La victime va proclamer la vengeance contre la famille où elles s’affronteront. Et le but est d’éliminer toute la famille adverse et peut tuer plusieurs génération. On ne peut pas refuser et s’arrête dans 2 cas:
-
 - l’élimination totale de la famille 
 - Alliance entre les familles et conclut un mariage
 
-  
-
 Il est possible de sortir de sa famille élargi par le biais d’un rituel, le « **_forisfamiliatio_** ». Il consiste. casser des branche de bois pour montrer la rupture et jeter les morceaux aux 4 coins de la pièces. C’EST par car une fois sortir on ne peut plus y avoir recours en cas de difficulté. 
-
-  
-
-  
-
-**B. La famille ordinaire**
-
-  
-
+##### B) La famille ordinaire
 Elle est composé du coupe et des enfants et donc se transmet le patrimoines des parents aux enfants sans préoccupation de sexe ni de rang. Il se transmet librement, la sippe n pas de droit de regard, de contrôle sur la transmission des biens. Il ya une mobilité importante des patrimoine dans al société germaine.
 
 Concernant la filiation germaine, il y a des feints naturel né hors mariage qui vont avoir les même droit que les enfants légitimes. Hérite donc du patrimoine sans difficulté. Cette pratique de considération ce maintient pendant plusieurs siècle en occident, son la voit encore au XIX y compris en France qui sera fortement combattu par l’église. 
