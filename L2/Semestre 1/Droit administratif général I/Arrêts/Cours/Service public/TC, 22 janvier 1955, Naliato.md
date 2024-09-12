@@ -1,0 +1,1 @@
+Le **TC, 22 janvier 1955, Naliato** inaugure une catégorie très éphémère : les services publics sociaux. La IVe République, dans son préambule, consacre de nouveaux droits (économiques et sociaux), tels que le droit de grève, la santé, le logement, l'emploi, et le droit aux loisirs. Ainsi, les activités de vacances deviennent un service public.

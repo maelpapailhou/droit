@@ -109,138 +109,84 @@ Ce système va perdurer pendant des siècles et commencera à s’infléchir à 
 C’est une évolution qui se fait tardivement, surtout pour des raisons de succession.
 
 À la fin du Ve et au début du VIe siècle, on voit apparaître cette lignée. À cette période, on commence à développer l’idée que la réalité biologique devrait avoir plus d’importance et de conséquences par rapport à la construction juridique.
-### Section 2: la famille germaine
-À partir du IIIe siècle, on connaît une vaste migration des peuples, appelée durant longtemps « les invasions barbares ». Ces invasions aboutissent à une recomposition de l’organisation politique européenne. Lorsque l’Empire romain d’Occident disparaît, il est remplacé par des entités politiques qui sont les royaumes germains, dits barbares. Ceux-ci vont procéder à la mise par écrit de leur droit ; il y a trois principaux codes :
+### Section 2 : La famille germaine
+À partir du IIIe siècle, on observe une vaste migration des peuples, longtemps appelée « les invasions barbares ». Ces invasions aboutissent à une recomposition de l’organisation politique européenne. Lorsque l’Empire romain d’Occident disparaît, il est remplacé par des entités politiques que sont les royaumes germains, dits barbares. Ceux-ci vont procéder à la mise par écrit de leur droit ; il y a trois principaux codes :
 
 - **Le Code d’Euric pour les Wisigoths**
 - **Les Lois Composites pour les Burgondes**
 - **Les Lois Salique pour les Francs**
 
-Ces **coutumes** mises par écrit sont la seule source que nous ayons pour connaître la réalité de la famille germanique. En ce qui concerne la famille germanique, il y a un grand pragmatisme ; ce qui compte, c’est la réalité biologique. Les règles de droit ne sont pas toujours respectées et ne sont pas bien définies.
+Ces **coutumes** mises par écrit sont la seule source dont nous disposons pour connaître la réalité de la famille germanique. En ce qui concerne la famille germanique, il y a un grand pragmatisme ; ce qui compte, c’est la réalité biologique. Les règles de droit ne sont pas toujours respectées et ne sont pas bien définies.
 
-D’autre part, le droit germanique est un droit ritualiste. Ce qui donne force juridique, ce n’est pas un apport de volonté, mais un rite de succession, généralement dans un ordre précis, qui crée le droit. Ainsi, le mariage germanique est différent du mariage romain et il existe une parenté étroite, mais aussi une parenté élargie (= les alliés qui intègrent la famille).
+D’autre part, le droit germanique est un droit ritualiste. Ce qui donne force juridique, ce n’est pas un apport de volonté, mais un rite de succession, généralement dans un ordre précis, qui crée le droit. Ainsi, le mariage germanique est différent du mariage romain et il existe une parenté étroite, mais aussi une parenté élargie (les alliés qui intègrent la famille).
   
-  
-
 #### Paragraphe 1: le mariage germain
+C’est une période extrêmement **instable politiquement** ; il n’y a pas d’autorité centrale forte pour assurer la paix et la sécurité à l’échelle des royaumes. Ce sont les **familles germaniques qui assurent la paix sociale** ; le mariage est donc davantage une affaire de famille que d’individus.
 
-  
+Il repose sur un rituel en plusieurs étapes à accomplir pour que les individus soient juridiquement mariés, un mariage de famille et de manière publique.
 
-C’est une période qui est extrêmes **instable politiquement,** il n’y a pas d’autorité central forte donc assuré la paix et la sécurité à l’échelle des royaume. Ce sont les **famille germaines qui assure la paix social** du coup le mariage est d’avantage une affaire de famille que d’individus. 
+- **Étape 1 : l’accord entre les familles**
 
-  
+Qui épouse qui et pour combien ? Appelée la « _desponsatio_ », contrairement à Rome où c’est l’épouse qui apporte la dot, chez les Germains, c’est l’époux qui apporte ce qu’on appelle « _la dos ex marito_ ». C’est une somme scellée de manière symbolique. À partir de là, les familles sont juridiquement engagées. Cela signifie que si l’une des familles renonce à poursuivre le mariage, elle pourra être condamnée à une amende et à des dommages et intérêts.
 
-Il repose sur un rituel de plusieurs étapes a accomplir pour que les individus soient juridiquement marié, un mariage de famille et de manière public
+- **Étape 2 : réunion de famille**
 
-  
+La réunion se fait lors du banquet et a lieu lors de la transaction « _puellae_ », où la fiancée rejoint son époux.
 
-- **Etape 1: l’accord entre les familles**
+- **Étape 3 : la nuit de noces**
 
-Qui s’épouse te pour combien? Appelé la « _desponsatio_ » contrairement à Rome chez les germain ce n’est pas l’épouse qui emmène al dot? C’EST l’époux qui emmène appelé « la dos ex marito ». C’est une somme scellé de manière symbolique. A partir de la les familles sont juridiquement engagé. Ce qui signifie que si l’une des famille renonce a poursuivre le mariage elle pourra être condamné a une amende et des dommages et intérêts. 
+Après la nuit des époux, l’époux doit offrir à son épouse un cadeau le matin, appelé le « _morgengabe_ », pour prouver qu’il est satisfait du mariage.
 
-  
+Ce n’est qu’à l’issue de ces étapes que les époux sont juridiquement mariés. Si une des étapes n’est pas réalisée, cela ne constitue pas un mariage complet. On peut parler de mariage valide seulement s’il y a volonté individuelle.
 
-  
+Il est possible et reconnu par la société qu’en l’absence de ce rituel, des situations peuvent apparaître comme un mariage. Il existe des concubinages stables qui s’apparentent à un mariage.
 
-- **Etape 2: réunion de famille**
+**Le mariage germanique n’a pas les mêmes effets que le mariage romain**, car il donne naissance à une collaboration entre les époux. L’épouse n’est pas juridiquement incapable et peut donc être active juridiquement sans difficulté. De plus, il n’existe pas chez les Germains une aspiration du père, appelée « _mundium_ », qui est un droit de correction et une idée de protection. Il y a une alliance entre eux et, lorsque le mariage prend fin, l’épouse peut avoir droit à un tiers des biens acquis par les époux dans le cadre du mariage. Cette idée se retrouve au Moyen Âge dans le régime matrimonial communautaire et dans le régime matrimonial légal actuel.
 
-La réunion se fait lors du banquet et a lieu la transaction « _puellae_ » donc Eller rejoint son époux. 
-
-  
-
-- **Etape 3: la nuit de noce**
-
-Passage de la nuit des époux et il faut que l’époux offre à son épouse un cadeau le matin a appelé le « _morgengabe_ » et il sert a prouver que le marie est satisfait. 
-
-  
-
-Ce n’est qu’a l’issue de cette étarque que les époux sont juridiquement marié. Si une des étapes n’est pas réalisé cela ne sera pas un mariage complet. On peut relouer s’il n’y a pas de volonté individuelle. 
-
-  
-
-Il est possible et reconnu par la société qu’en absence de ce rituel l’existe des situations qui peut apparenté à un mariage. Il existe des concubinage stable et s’apparente à un mariage. 
-
-  
-
-C’EST ermitage n’a pas les même effets que le romain. Car il va donner baissante a une collaboration entre les époux. Car l’épouse n’est pas juridiquement incapables et va donc pourvoir être activé juridiquement sans aucune difficulté. De plus il n’y as pas chez les germains une aspiration du père appelé le « _mundium_ » est un droit de correction et l’idée de protection Il ya une alliance entre eux et lorsque le mariage prend fin, l’épouse Eva avoir droit au tiers de collaboration le tiers des biens qui ont été acquis par les époux ana ale cadre du mariage. Cette idée on la retrouve au M-A dans le régime matrimoniale communautaire que l’on retrouve le régime matrimoniale légal aujourd’hui. 
-
-  
-
-**Le mariage germain peut être rompu** et souvent par les famille lorsque les stratégies familiales évolues. On le marie pour les raisons politique ou social et on les démarie pour la même raison. Comme il se conclut par un rituel il se rompre avec un rituel. Selon le coutumes le mariage peut être rompu par les famille (divorcer) soit par l’une des deux familles (répudiation). Cette rupture est fiât par une rituel moins grandiose que le mariage où l’épouse doit prendre les clé de la maison et les jeter pour symboliser le rejet du mariage et du mari, soit les 2 ou l’un des deux doit déchirer un linge devant la famille en public. 
-
-  
-
+**Le mariage germanique peut être rompu**, souvent par les familles lorsque les stratégies familiales évoluent. On se marie pour des raisons politiques ou sociales et on se démarie pour les mêmes raisons. Comme il se conclut par un rituel, il se rompt également par un rituel. Selon les coutumes, le mariage peut être rompu par les familles (divorce) ou par l’une des deux familles (répudiation). Cette rupture se fait par un rituel moins grandiose que le mariage ; l’épouse doit prendre les clés de la maison et les jeter pour symboliser le rejet du mariage et du mari, ou bien les deux parties doivent déchirer un linge devant la famille en public.
 #### Paragraphe 2 : La parenté germaine 
+C’est une parenté qui se décline et existe à deux niveaux :
 
-  
+- **Niveau 1 : la famille élargie « la sippe »**
 
-C’est une parenté qui se décline et existe a 2 niveaux:
+Elle se conçoit dans le cadre politique et social de l’époque. Il n’y a pas d’autorité centrale efficace, et donc la paix sociale est assurée par les familles. Cette famille comprend tous les alliés qui peuvent être mobilisés en cas de difficulté ou de problème. Elle est ponctuelle et intervient en cas de besoin.
 
-  
+- **Niveau 2 : la famille ordinaire**
 
-- **Niveau 1: une famille élargi «  la sippe »** 
-
-Elle se conçoit dans le cadre politique et sociale de l’époque. Il n’y a pas d’autorité central efficace et donc une paix sociale assuré par les familles, cette famille va être tous les alliés qui vont pouvoir être mobiliser en cas de difficulté de problème. Elle est ponctuelle en cas de difficulté
-
-  
-
-- **Niveau 2: la famille ordinaire** 
-
-Elle st composé des parents et des enfants, une famille quotidienne 
-
-  
-
+Elle est composée des parents et des enfants, constituant une famille quotidienne.
 ##### A) La famille élargie
 
-Elle apparait en cas de difficulté c’est-à-dire  lorsqu’un individu va rencontrer des problème sil va y avoir 2 manières de régler la situation. 
+Elle apparaît en cas de difficulté, c’est-à-dire lorsqu’un individu rencontre des problèmes. Il y a alors deux manières de régler la situation :
 
-Soit par le biais des tribunaux par le droit 
+Soit par le biais des tribunaux et du droit, Soit par l’intervention des familles.
 
-Soit ce sont les familles qui règle la situation 
+- **POSSIBILITÉ 1 : Les tribunaux**
 
-  
+Si les familles décident de passer par les tribunaux, la famille joue un rôle important. D’abord, dans la civilisation germanique, il existe plusieurs modes de preuve devant le tribunal, dont l’une est celle de la preuve par co-jureurs. (= Le droit pénal germanique est un droit rendu publiquement et utilise ce système car il implique ceux qui sont jugés. Avec l’accusé ou l’accusateur de bonne moralité, le principe est que plus grand est le nombre de co-jureurs, plus il y a de chances de remporter le procès. Plus il y a de monde dans la sippe, plus on sera favorisé dans les tribunaux.)
 
-- **POSSIBILITÉ 1: Les tribunaux** 
+L’exemple le plus connu de co-jureur est celui de la reine des Francs, Frédégonde, accusée d’adultère avec 300 co-jureurs, dont 3 évêques. Il y a aussi le cas où un individu est condamné et en général, la condamnation est une sorte d’amende appelée le « **_wergeld_** ». Ces amendes peuvent être importantes, notamment si la victime est issue de la noblesse.
 
-Si les famille décident de passer par les tribunaux, la famille va jouer un rôle important. D’abord an spa civilisation germaine il existe plusieurs mode de preuve devant le tribunal, une de épreuve est celle de la preuve de co-jureurs. (= le droit pénal germain est un droit qui se rend publiquement et va mettre ne place ce système car c’est celui qui va tuer. Avec l’accusé ou l’accusateur de ma bonne moralité de l’individu). L principe est que + grand est le nombre de co-jureurs + il ya de chance de remporter le procès. + il ya de monde dans la sippe + on va être favorisé dans les tribunaux.
+Cet appel à la famille élargie dans le cadre du procès se fait dans un rituel très impressionnant, détaillé comme le « _chrenecruda_ ».
 
-  
+**-> Étape 1** : La personne ne pouvant pas payer se présente avec 12 co-jureurs.
 
-L’exemple le + connu de co-jureur est celui d’une Reine francs Frédégonde accusé d’adultère avec 300 co-jureur dont 3 évêques. Il ya aussi le cas où un individus va être condamner et en général elle va être une sorte d’amende appelé le « **_wergeld_** ». Ces amendes sont parfois importante notamment si la victime fait prit de la noblesse. 
+**-> Étape 2** : Il prend les témoins, prend de la terre aux quatre coins de sa maison, sort dehors, dos à la porte, prend de la terre dans sa main gauche et la jette sur son plus proche parent. Il doit se déshabiller, retirer ceinture et chaussures, et avec un pieu à la main, il saute par-dessus la clôture et s’en va. En jetant de la terre, il effectue un transfert de paiement de l’amende.
 
-  
+Si la famille ne veut pas ou ne peut pas payer avec une petite famille élargie, le coupable sera présenté plusieurs fois au tribunal pour que quelqu’un accepte de payer à sa place. En échange de ce paiement, le coupable devient l’esclave de celui qui a payé.
 
-Cet appel à la famille élargi dan sel cas du procès se fait dans le cadre d’un rituel très impressif, détaillé le « _chrenecruda_ ».
+Si personne ne veut payer, le coupable sera mis à mort.
 
-  
+- **POSSIBILITÉ 2 : La famille règle le problème elle-même**
 
-**-> Etape 1**: la personne ne peut pas payer et se présente avec 12 co-jureurs 
+C’est la « **_faida_** », ou vengeance privée. Elle intervient dans les cas graves. La victime proclame la vengeance contre la famille adversaire, et l’objectif est d’éliminer toute la famille adverse, ce qui peut toucher plusieurs générations. On ne peut pas refuser et la vengeance s’arrête dans deux cas :
 
-**-> Etape 2:** il prend les témoins et prend la terre de 4 coins de sa maison sort dehors dos a porte, il prie dal terre dans sa main gauche et jeter sur son + proche parent, il doit se déshabillé dans ceinture ni chaussure avec chemins avec un pieux à la main il saute par dessus la clôture et partir. 
+- L’élimination totale de la famille
+- Une alliance entre les familles, souvent conclue par un mariage
 
-E n jetant de la terre cela fait un transfert de payer l’amende. 
-
-  
-
-Et si la famille ne veut pas ou ne peut pas payer avec une petite famille élargie ouais d émaille élargi et du coup de condamner va être présenté plusieurs fois au tribunal pour que quelqu’un accepte de payer à sa place. Et en échange de ce paiement le coupable devient l’esclave de celui qui a  payé. 
-
-  
-
-Et si personne ne veut payer, elle va être mis a mort. 
-
-  
-
-- **POSSIBILITÉ 2: la famille règle entre elle**
-C’est la « **_faida_** » appelé la vengeance privé. Elle intervient dans les cas grave. La victime va proclamer la vengeance contre la famille où elles s’affronteront. Et le but est d’éliminer toute la famille adverse et peut tuer plusieurs génération. On ne peut pas refuser et s’arrête dans 2 cas:
-- l’élimination totale de la famille 
-- Alliance entre les familles et conclut un mariage
-
-Il est possible de sortir de sa famille élargi par le biais d’un rituel, le « **_forisfamiliatio_** ». Il consiste. casser des branche de bois pour montrer la rupture et jeter les morceaux aux 4 coins de la pièces. C’EST par car une fois sortir on ne peut plus y avoir recours en cas de difficulté. 
+Il est possible de sortir de sa famille élargie par le biais d’un rituel appelé « **_forisfamiliatio_** ». Ce rituel consiste à casser des branches de bois pour montrer la rupture et jeter les morceaux aux quatre coins de la pièce. Une fois sorti, il n'est plus possible de revenir en arrière en cas de difficulté.
 ##### B) La famille ordinaire
-Elle est composé du coupe et des enfants et donc se transmet le patrimoines des parents aux enfants sans préoccupation de sexe ni de rang. Il se transmet librement, la sippe n pas de droit de regard, de contrôle sur la transmission des biens. Il ya une mobilité importante des patrimoine dans al société germaine.
+Elle est composée du couple et des enfants, et le patrimoine se transmet donc des parents aux enfants sans préoccupation de sexe ni de rang. Il se transmet librement, la sippe n’a pas de droit de regard ni de contrôle sur la transmission des biens. Il y a une mobilité importante du patrimoine dans la société germanique.
 
-Concernant la filiation germaine, il y a des feints naturel né hors mariage qui vont avoir les même droit que les enfants légitimes. Hérite donc du patrimoine sans difficulté. Cette pratique de considération ce maintient pendant plusieurs siècle en occident, son la voit encore au XIX y compris en France qui sera fortement combattu par l’église. 
-
-  
+Concernant la filiation germanique, les enfants naturels nés hors mariage ont les mêmes droits que les enfants légitimes. Ils héritent donc du patrimoine sans difficulté. Cette pratique de considération se maintient pendant plusieurs siècles en Occident ; on la voit encore au XIXe siècle, y compris en France, malgré la forte opposition de l’Église.
 
 Partie 2: la famille au Moyen-Age

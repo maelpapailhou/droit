@@ -25,18 +25,20 @@
 		- C) La police spéciale  
 	- Paragraphe 2 : Le caractère préventif de l’action, élément de distinction entre la police administrative et judiciaire 
 		- A) La finalité de l’opération de police, critère « finaliste » de différenciation
-			- L’opération de police visant une infraction éventuelle ou inexistante Le changement de nature d’une opération de police  
-			- La requalification d’une opération de police
+			- 1) L’opération de police visant une infraction éventuelle ou inexistante Le changement de nature d’une opération de police  
+			- 2) Le changement de nature d'une opération de police
+			- 3) La requalification d’une opération de police
 		- B) L’enjeu de la distinction entre police administrative et judiciaire 
-		- La détermination du juge compétent  
-		- La détermination du patrimoine responsable
+			- 1) La détermination du juge compétent  
+			- 2) La détermination du patrimoine responsable
+
+
 - Section 2 : Le régime
 	- Paragraphe 1 : Les autorités détentrices du pouvoir de police
 		- A) Les autorités de police administrative générale
 			1. L'échelon national
 				- a) Le pouvoir de police générale du chef de l'exécutif
 				- b) Le pouvoir de police du Premier ministre
-
 			- L'échelon départemental
 				- a) Le préfet
 				- b) Le Président du Conseil départemental

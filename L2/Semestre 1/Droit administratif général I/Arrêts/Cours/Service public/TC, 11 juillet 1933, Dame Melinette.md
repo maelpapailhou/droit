@@ -1,0 +1,1 @@
+Un autre arrêt, **, considère que l'enlèvement des ordures ménagères ne fait pas partie des fonctions publiques par nature. La conception défendue par Maurice Hauriou est donc une conception très stricte, correspondant au minimum que l'État doit accomplir, en phase avec les attentes de l'époque.

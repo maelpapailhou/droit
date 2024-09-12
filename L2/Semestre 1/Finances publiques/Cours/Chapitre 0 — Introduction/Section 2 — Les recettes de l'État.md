@@ -128,4 +128,158 @@ Budget de l’État : 3 budgets
 
 Les opérations de cession, d’acquisition de dividendes et de recettes sont récapitulées dans le compte d’affectation spéciale des participations financières de l’État. Ce compte va recenser les participations de l’État, etc. en matière de dividendes. Si l’État cède ou achète des actions.
 
-#### Paragraphe 3 : les emprunts
+
+
+##### B ) Les produits du domaine de l'état
+Ces produits sont constitués des redevances et des loyers pour l'utilisation du domaine public ou du domaine privé qu'est l'état. 
+
+Produits du domaine sur le graphique.
+
+Ce qui rapport le plus : Les redevances d'usage de fréquence radio électrique. Voir ARCEP. Etat est propriétaire du réseau, opérateurs font que louer le réseau. Ils versent des redevances.
+
+Aussi redevances d'exploitation des lines : (trucs pétroliers). Produit de consession des voies? ex le port.  Les licences de peche : consitute également une redeevance. 
+
+##### C ) Produits de la vente de biens et services
+
+Attention : faux amis. 3 composantes :
+1. Fraction non affectée des produits résultant de la mise aux encheres des actifs carbone (1,4 mds)
+2. Frais remboursés par différents tiers (1 md)
+3. Frais, rembousement par l'UE (0,7 md)
+
+Cette catégorie est composée principalement eds frais d'assietes de recouvrement et d' impots perçus par la TFGI au proffit des collectivités ou de l'UE. 
+
+Voir budget 2024 : prélevement sur les recettes de l'état.)  45 mds revercé aux coll territorales et 21 à l'UE. 
+
+DFGI = Direction générale des finances ???.
+
+Le recouvrement des impositions de toute nature est un monopole de la DGI.  C tjrs la DGFI qui va percevoir. quand elle va procederà ce recouvrement, elle facture des frais de perceptions et d'assiete aux collectivités territoriales et à l'UE. 
+
+Vidéo youtube sur les quota carbone. 
+
+Chaque industriel qui va produrie des gaz carboniques sont oligés de respecter un plafond. Pas plus de 80 tonnes par an. Si à lafin de l'année dépasse le quota, alors il devra payer une compensation financière. Tout le monde sur le marché a le meme quota. Si émis 60 tonnes, il reste 20 tonnes. ils mettent en enchere leurs quota non consommé, ceux qui émettent plus achetent aux encheres. C'est l'état qui gère ça. 50% des quotas carbones doivent être fléchés vers des actions climatiques. 
+
+##### D ) remboursement et interes des prets, avances et autres immobilisations financieres
+
+L'etat beneficie du remboursement des prets et des avances qu'il apporte à des personnes publiques ou a des peronnes privées. 
+
+Dans les comptes spécuaux. : 4 types
+1. comptes affecttation spécial
+2. comptes concours financier
+3. compte de commerce
+4. compte oépration monétaire
+
+Comptes de concours financiers : opérations de remboursement et l'interet des pre^ts et avances sont retracées dans ded comptes de concours financiers.  2 blocs : avances et prêts. Voir budget gouv, avec France Radio, France média, etc. En début d'année, ils vont bénéficier d'una avances de l'état pour régler leurs dépense. 2eme hypothse : avances colelctivités territoriales. Budget commence 1er janvier. Donc pas de budget jusqu'aux impots, donc état va avancer. Nouvelle calédonie est différent.
+
+pre^ts et avacnces à des particuliers ou a des organismes privés ; prets et avances à divers services de l'état ou organismes gérant des servces publics. 
+
+Ex Prets à l'Agence francaise de développement : soit preeteà état directemetn ou prete à AFD. Et elle va financer les états étrangers en fonction des projets. 
+
+Etat ne prete pas individuelleme,t. Elle peut preter à opérateurs privé dans unef iliere ex filiere nickel en nouvelle calédonie. Prêt modiféi : pret avec interets plus bas que le marché. Pret jamsi individuel sauf : liaison express entre paris et l'aéroport paris CDG. 
+
+Amensdes et sanctions :
+- les amendes de la circulation et du stationnement routier (1,8 md euros)
+- amendes proponcés par les AAI autorités adminisratives indépendanes. 
+
+Principe d'universalté : on digt pas ces 1000eur vont servir a financés tel. 
+
+Sauf : 
+Comptes affectations péciale : dev agricole et rural, controle de la circulation, etc.
+
+Les recettes des amendens financnet principalement les dispositif de controle et la modernisation de la polituqe de controle. 
+
+Les AAI : elels pveufent affliger des sanctiosn financieres. Conseil cons (années 90) a adopté une décision : accepte quon puisse punir ssans juger/sans etre un juge. Autorise AAI a infliger des sacntions.  Les AAI régulisent un secteur. DDHC artile 8 : principe de proportionnalité. Les recettes sont alimentés par les sacntions, les amendes, les frais de poursuite, de justice et d'instance. 
+
+Emprunt sers a financer le déficit des administrations publiques. 
+
+Voir déficit public sur moodle. (Avec PIB et dette publiques).
+
+Voir déficit public graphiques (adm public central coll locale secu etc
+
+Déficit au sens de masstrich des adm publiuqes (en % du PIB))
+
+PIB = indicateur economiques permetatn mesurer prod de richesse. 
+
+Def dette publique. 
+Critere de coneregeance de maastricht. 
+
+Actalité : frane déficit excessif UE. 
+
+La dette est pas problematique tant qu'on a pas perur de rembourser; Tant que la dette est soutenable. Voir graphique In debt we trust. Mais si on fait plus confiance y'a un probleme. 
+
+Jeudi 17h sur la dette.
+
+Est-ce qu'on peut refuser de rembourser sa dette? Argentine l'a fait en 2001 Rembourse de payer ses crénciers. Sauf que depuis 20 ans argentine va de crise en crise. Etat emprunte argent sur marchés financiers et pas une banque. .
+
+Etat besoin argent : augmenter recettes fiscales, recettes non fiscales. 
+
+Ajd argentine emprunte à un taux tres elevé. Ils doivent emprunter à la FMI. Mais FMI demande d'enlever des épenses et d'augmenter les recettes ici et là. Docn gens dansla rue. 
+
+projet de loi definances pour 2024, titre 2 dispositiosn relatiques equilibre ressources et des charges. 
+
+Déficit à finacner 144,5 mds. C'est le déficit de l'état (pas public). 
+
+
+
+
+Emission de dette : 285 mds. 
+
+#### Paragraphe 3 : l'emprunt
+
+##### A ) les acteurs
+
+Lorsque parlement adopte cet article, afin de finacer le déficit "le ministre de sifnances es autorisé à proceder, en 2024,  à des opérations d'emprunts"
+
+Le ministre des financs confie cette mission à Agence France Trésor. Chargé de prévoir et degérer la dette et la trésorrerie de l'état.  ELle ne gere que la dette de l"'état. Les APUL ont une liberté d'emprunt. 
+
+La gesion de la dette des ASSO est confiée à la CADES (caisse d'amotissement de la dette sociale). Dette des ASSO donc pas gerer par AFT. Créé par ordonnacen en 1996. Mission de financer et etiendre la dette cumulée de la sécurité sociale. 
+
+La CRDS :cotisation payée par les employeurs. La CSG ??. Voir site de la CADES a propos. 
+
+CADES était sensée exister jusqu'en 2010. 
+
+##### B ) les produits d'emprunt
+Pour financer ce déficit, le Parlement autorise le ministre des Finances à emprunter. Les emprunts peuvent se faire soit à travers la dette négociable, soit sous la forme de la dette non négociable.
+
+La dette non négociable est composée des dépôts des collectivités publiques réalisés auprès de la CDC (Caisse des Dépôts et Consignations).
+
+La dette négociable est constituée des produits d'emprunts divisés en deux catégories :
+
+- **OAT (Obligations Assimilables du Trésor)** : Instruments de financement de l'État sur le moyen et le long terme, avec une maturité comprise entre 2 et 50 ans. La maturité est la période pendant laquelle l'État a pour obligation de rembourser. Les OAT peuvent être :
+    - **OAT à taux fixe** : Le taux d'intérêt reste constant.
+    - **OAT indexées** : Leur taux peut être indexé en fonction de l'inflation.
+    - **OAT vertes** : Destinées à financer des dépenses climatiques. Voir le site de l'AFT (Agence France Trésor) pour plus d'informations sur la dette de l'État.
+    
+    - Les OAT ont une coupure nominale de 1 euro. Par exemple, pour un besoin de 10 millions d'euros, on émet 10 millions d'OAT. L'État sollicite des acheteurs d'OAT et rembourse avec intérêts. Les acheteurs d'OAT sont principalement les SVT (Spécialistes en Valeurs du Trésor).
+    - L'achat d'une OAT donne droit au remboursement du montant investi. À l'échéance, les intérêts sont remboursés progressivement. Par exemple, pour une OAT de maturité de 2 ans avec un achat de 10 000 euros et un taux d'intérêt de 2 000 euros, l'État rembourse au total 12 000 euros. Les 10 000 euros sont remboursés à la fin de la période, donc pendant la durée de maturité, l'État rembourse seulement les intérêts.
+    - C'est un système d'adjudication. L'AFT identifie le montant nécessaire d'emprunt. Cette semaine, l'AFT annonce un besoin de 1 milliard d'euros. Les banques proposent leurs offres, et l'État choisit celle avec le taux d'intérêt le plus bas.
+    - Classement des acheteurs d'OAT : 1) BNP Paribas 2) Société Générale 3) Citi
+
+- **BTF (Bons du Trésor à Taux Fixe)**
+    - Instrument de trésorerie à court terme de l'État.
+    - Maturité inférieure à 1 an.
+    - Ils servent à couvrir les fluctuations de trésorerie de l'État à court terme.
+
+Dette de l'état définition (encadré jaune)
+Y'a une dette négociale et non négociable. Non négociale : cotnractée sous forme 'nstrumetn financiers (oblgatins et bons du trésor).
+
+
+Lettre DAJ : mettre de la dette et gerer sa trésorerei. Toutes adm mettent lerus liquidité sur l'AFT, qui rectrace 'lensemble des mouvements financiers initiés... etc.
+Les tresorreries emttent a jour els previsions...
+
+La trésorerie de l'état est centralisée sur le compte unique du trésor de la banque de France...
+
+Dette non négociale : OAT ou BTF. 
+
+OAT : systeme obligataire. Coupure nominal 1eur. Ce sont els psecialistes en valeurs du trésor qui vont les acheter.
+
+Voir AFT cours détaillé pour voir échéance des OAT. Cliquer sur ISIn pour avoir infos.
+
+Chaine youtube AFT
+
+Bons à taux fixe : Bcp plus limité car financer besoins rapidement, etat s'negage a rembourser sous 1 an. C un instrument de gestion de la trésorerei. Voir en cours détaillés btf.
+nature du titre bon tu trésor. 
+
+Les BTF ont une maturité infra année. Versement des interets intervient en 1 seule fois. OAT 1 fois par an. BTF sont remboursé au début des échéances.
+
+Voir interets autre pays ex portugal grece. 
+
