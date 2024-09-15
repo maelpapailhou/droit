@@ -91,13 +91,40 @@ Ces taux s'appliquent en métropole. Outre-mer et dans certains territoires, la 
 
 Invention anglaise, créé au XVIIIe siècle en Angleterre. En 1791, il arrive en France et sera réinstauré pendant la Première Guerre mondiale pour financer les dépenses de l'État.
 
+L'impôt sur vos revenus de 2023, déclarés en 2024, est calculé par tranches, en fonction du montant de vos revenus. Chaque tranche correspond à un taux d'imposition (de 0 à 45 %).
+
+Si votre revenu annuel dépasse celui de la tranche 1 (11 294 €), il sera concerné par plusieurs tranches successives, comme expliqué dans l'exemple.
+
 Les tranches de l'impôt sur le revenu sont calculées par part de quotient familial. Attention, il fonctionne par tranches. Cet impôt est moins important en outre-mer.
+
+| **Tranches pour 1 part de quotient familial** | **Revenu annuel** | **Taux d'imposition** |
+|-----------------------------------------------|-------------------|-----------------------|
+| Tranche 1                                     | Jusqu'à 11 294 €   | 0%                    |
+| Tranche 2                                     | De 11 295 € à 28 797 €  | 11%                   |
+| Tranche 3                                     | De 28 798 € à 82 341 €  | 30%                   |
+| Tranche 4                                     | De 82 342 € à 177 106 € | 41%                   |
+| Tranche 5                                     | Plus de 177 106 €      | 45%                   |
+
+**Exemple de calcul pour pour 1 part de quotient familial (Revenu annuel net imposable : 30 000 €) :**
+
+| **Tranche 1**    | **Tranche 2**          | **Tranche 3**          |
+| ---------------- | ---------------------- | ---------------------- |
+| Jusqu'à 11 294 € | De 11 295 € à 28 797 € | De 28 798 € à 30 000 € |
+| 0%               | 11%                    | 30%                    |
+| 0 €              | + 1 925,33 €           | + 360,90 €             |
+
+**Montant total de l'impôt : 2 286,23 €**  
+Soit 7,62 % du revenu net imposable
+
+- Si votre foyer fiscal comporte plusieurs personnes, le calcul de l’impôt en tient compte pour fixer votre nombre de parts. C’est le _quotient familial_.
+- Ce mécanisme a un impact sur le **montant de votre impôt**. Il diminue notamment la charge fiscale pour les familles avec enfants.
 
 ###### 2.c) L'impôt sur les sociétés
 
 25 % des bénéfices sont taxés. Il y a eu une baisse depuis 2018, où l'impôt était de 28 % jusqu'à 500 000 euros, puis de 33 %. Cet impôt existe depuis 1948.
 
 ###### 2.d) TICPE
+
 La TICPE est un droit d'accise, un impôt indirect sur la vente ou l'utilisation de certains produits (alcool, tabac, énergie). Elle porte sur les produits pétroliers utilisés comme carburant ou combustible. Par exemple, pour l'essence sans plomb 95, environ 61 % du prix est constitué de taxes.
 
 Exemple : pour 100 euros d'essence, seulement 45 euros concernent le produit lui-même. Il y a une TVA sur le produit pétrolier brut et une TVA sur la TICPE (une taxe sur une taxe). En outre-mer, il existe un plafonnement de la taxation, qui stipule qu'elle ne doit pas dépasser un certain seuil.

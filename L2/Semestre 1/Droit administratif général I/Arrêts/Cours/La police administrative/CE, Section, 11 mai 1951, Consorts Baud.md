@@ -1,0 +1,6 @@
+
+Quelle police est concernée ? Il faut se demander quelle est la finalité de l'opération. L'auteur de l'opération cherchait-il à appréhender un auteur d'infraction ou à prévenir un trouble à l'ordre public ? Ce critère a été dégagé par le Conseil d'État, notamment dans la décision importante **CE, Section, 11 mai 1951, Consorts Baud**, et confirmée par **TC, 7 juin 1956, Dame Noualek**.
+
+Dans le premier arrêt, un policier est en faction devant un café tandis qu'un collègue entre pour appréhender un malfaiteur. Celui à l'extérieur voit quelqu'un sortir en courant et se lance à sa poursuite, sauf que la personne qui sortait n'était pas le malfaiteur. Quelle était la finalité de l'opération ? Devant quel juge la victime doit-elle se tourner ? Ici, il s'agissait de la police judiciaire, car cela entre dans la définition du Code de procédure pénale.
+
+À l'inverse, pour l'opération de la "route bleue" avec les gendarmes effectuant des contrôles routiers, il s'agissait de la police administrative. Le but de l'opération était de faire de la prévention. Si un dommage est causé au cours de cette opération, ce sera le juge administratif qui sera compétent. Ce critère n'est cependant pas toujours évident à manipuler, car il est de nature psychologique.

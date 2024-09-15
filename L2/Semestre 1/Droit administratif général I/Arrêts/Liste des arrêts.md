@@ -2,17 +2,17 @@
 - [[TC, 22 janvier 1921, Société commerciale de l’Ouest Bac d’Eloka]]
 ### La police administrative
 - [[CE, 24 octobre 1984, Diabate]]
-- CE, 2 juillet 1967, Bricq
+- [[CE, 2 juillet 1967, Bricq]]
 - [[CAA Douai, 5 juillet 2016, Ligue Française pour la défense des droits de l’homme et du citoyen]]
 - [[CE, Sect., 18 décembre 1959, Société « Les films Lutétia »]]
 - [[CE Ass., 27 octobre 1995, Commune de Morsang-sur-Orge, Lancé de nains]]
-- CE, 12 novembre 1997, Association Communauté tibétaine en France
-- CE Sect., 11 mai 1951, Consorts Baud
+- [[CE, 12 novembre 1997, Association Communauté Tibétaine en France]]
+- [[CE, Section, 11 mai 1951, Consorts Baud]]
 - TC 7 juin 1951, Dame Noualek.
-- TC, 5 décembre 1977, Demoiselle Motsch 
-- TC 12 juin 1978, Société Le Profil 
+- [[TC, 5 décembre 1977, Demoiselle Motsch]]
+- [[TC, 12 juin 1978, Société le Profil]]
 - TC 23 janvier 2006, Époux Girodie contre Agent judiciaire du Trésor 
-- CE Ass., 24 juin 1960, Société Frampar
+- [[CE, 24 juin 1960, Société Frampar]]
 - TC, 23 novembre 1956, trésor public contre Giry,
 - CE, 18 avril 1902, Commune de Néris-les-Bains,
 - CE 8 août 1919, Labonne
@@ -36,7 +36,7 @@
 - CE 20 avril 1956, Époux Bertin
 - CE, 7 avril 1916, Astruc 
 - TC 22 janvier 1955, Naliato
-- CE Ass., 20 décembre 1935, Ets Vézia
+- [[CE Ass, 20 décembre 1935, Établissements Vézia]]
 - CE Sect. 6 avr. 2007, Cne d’Aix-en-Provence
 - CE 28 juin 1963, Narcy
 - CE, Sect. 22 février 2007, APREI.

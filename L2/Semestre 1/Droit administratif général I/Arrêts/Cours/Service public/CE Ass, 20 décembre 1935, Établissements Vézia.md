@@ -1,0 +1,1 @@
+Le rattachement d'une activité d'intérêt général à une personne publique est nécessaire pour qu'il y ait service public. **CE Ass, 20 décembre 1935, Établissements Vézia**. Ce rattachement se manifeste au niveau de la création, de l'organisation ou de la suppression.
