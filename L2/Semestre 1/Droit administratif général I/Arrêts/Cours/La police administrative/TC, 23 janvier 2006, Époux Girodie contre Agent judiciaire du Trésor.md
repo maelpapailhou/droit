@@ -1,0 +1,1 @@
+Cette solution(société le profil) a été confirmée par **TC, 23 janvier 2006, Epoux Girodie contre agent judiciaire du Trésor**. Dans cette affaire, des commerçants se sont fait cambrioler 11 fois en 12 ans, alors que leur commerce était situé à proximité d'un commissariat.

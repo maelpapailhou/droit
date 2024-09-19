@@ -23,7 +23,7 @@ _Saisine 1ers juges_
 
   
 
-_Décision de premi§re instance (1ers juges)_
+_Décision de première instance (1ers juges)_
 - _"Dans un jugement du 3 juillet 2020, le tribunal judiciaire de Lyon rejette la demande/fait droit à la demande de l'époux"_
 - _"Dans un arrêt du 3 mars 2021, la cour d'assises du Rhône condamne l'auteur des faits à la réclusion criminelle à perpétuité"_
 

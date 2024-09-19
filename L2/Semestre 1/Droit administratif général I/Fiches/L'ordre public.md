@@ -1,7 +1,5 @@
+**Source : Etienne Muller**
 
----
-
-Source : AUtre
 Définition générale. La notion d'ordre public déterminée par le droit de la police administrative est distincte de celle dont il est fait usage à l'article 6 du Code civil, lequel dispose qu'« on ne peut déroger, par des conventions particulières, aux lois qui intéressent l'ordre public et les bonnes mœurs»'. En droit de la police administrative, l'ordre public s'entend de l'ensemble des exigences nécessaires pour permettre la vie en commun et l'exercice des libertés en société. Comme le relève Bertrand Seiller, « elle constitue un standard [...] c'est-à-dire une notion de référence, souple car reposant sur des éléments indéterminés gouvernant l'application de règles juridiques »?. C'est dire que la détermination et l'appréciation de son contenu sont largement fonction de la conception politique des rapports entre l'individu et la société. Dans ce cadre, l'ordre public constitue un objectif de valeur constitutionnelle et se compose de cinq éléments dont la police administrative doit avoir pour but d'assurer le respect : la sécurité publique, ta moralité publique et ta dignité de la personne humaine "
 
 L'ordre public matériel. La police administrative a traditionnellement pour objectif la protection de l'ordre public matériel, à savoir la sécurité, la salubrité et la tranquillité publiques. Le contenu de cet ordre public matériel est défini par référence à l'ancien article 97 de la loi du 5 avril 1884, dorénavant codifié à l'article L. 2212-2 du Code général des collectivités territoriales, selon lequel « la police municipale a pour objet d'assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques ».

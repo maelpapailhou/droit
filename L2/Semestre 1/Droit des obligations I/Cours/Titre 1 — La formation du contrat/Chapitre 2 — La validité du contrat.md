@@ -265,7 +265,7 @@ Cet article fait écho à deux autres articles :
 
 ###### *1.a) L'ordre public et les bonne moeurs*
 
-*1.a.i) l'ordre public*
+***1.a.i) l'ordre public***
 L'ordre public est une notion polymorphe, délicate à définir. Philippe Malowi, en 1950, en avait composé plus de 20 définitions.
 
 Les sources de l'ordre public : l'ordre public, en principe, est énoncé par la loi, un ordre public textuel. En 1950, la Cour de cassation a condamné une publicité mettant en scène des personnes malades pour vendre un produit.
@@ -278,7 +278,7 @@ L'intensité de l'ordre public :
 - **Ordre public de direction** : il est impossible d'y déroger. Exemple : droit pénal.
 - **Ordre public de protection** : le législateur fixe un socle minimal auquel les parties peuvent déroger, mais seulement dans un sens. Exemple : en droit du travail, le législateur fixe un salaire minimal. On peut y déroger, mais seulement en augmentant ce salaire.
 
-*1.a.ii) les bonnes moeurs*
+***1.a.ii) les bonnes moeurs***
 Les bonnes mœurs peuvent être identifiées par la négative. Elles ne se confondent pas avec la morale. La morale est une exigence individuelle, tandis que les bonnes mœurs ont une dimension collective. La morale vise l'élévation et la perfection individuelle.
 
 Les bonnes mœurs sont distinctes des mœurs : il y a un jugement de valeur. Ce n'est pas parce que les mœurs d'une société sont ce qu'elles sont que le droit doit nécessairement évoluer avec elles. Le droit ne se conforme pas à la société telle qu'elle est, mais à la société telle qu'elle devrait être. Il revient au juge de déterminer quelles sont les bonnes mœurs dans les affaires qui lui sont soumises.

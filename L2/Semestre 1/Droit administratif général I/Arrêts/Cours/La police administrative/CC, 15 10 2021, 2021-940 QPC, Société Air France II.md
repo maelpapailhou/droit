@@ -1,0 +1,1 @@
+Cette règle est même devenue un principe inhérent à l'identité constitutionnelle de la France, selon une décision du Conseil constitutionnel (2021-240 QPC du 15 octobre 2021, société Air France 2). 

@@ -1,0 +1,1 @@
+Dans l’arrêt **Bujon** du 22 novembre 2019, un surfeur de Saint-Leu, victime d'une attaque de requin ayant causé la perte de sa main et de sa jambe droite, a recherché la responsabilité de l'État. Il soutenait que le préfet aurait dû utiliser son pouvoir de substitution en raison de l'insuffisance des avertissements de danger pris par le maire. 

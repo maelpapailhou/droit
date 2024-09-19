@@ -45,11 +45,13 @@ Liste relativement indéterminée, ce qui est une chance, car si la liste n'est 
 
 Cette loi concernait le pouvoir des maires, mais aujourd'hui la police dépasse largement le cadre municipal. Le Conseil d'État en a attribué un au Président de la République et au Premier ministre.
 
-La sécurité publique est la possibilité de vivre sereinement, sans menace pesante sur l'exercice des droits et libertés. C'est sur le fondement de la sécurité que le maire a l'obligation d'assurer la police de la circulation. Ce même maire qui doit aussi prévenir et faire cesser les accidents. Parfois, il y a une police spéciale, par exemple, le maire est aussi titulaire de la police des édifices menaçants. Il est censé prendre un arrêté de police et a des pouvoirs qui permettent jusqu'à saisir le juge judiciaire pour faire démolir l'édifice. Démolir la propriété d'autrui est une atteinte à la liberté d'autrui (article 17 des Droits de l'Homme), mais cela se fait pour protéger la population.
+La **sécurité publique** est la possibilité de vivre sereinement, sans menace pesante sur l'exercice des droits et libertés. 
+- C'est sur le fondement de la sécurité que le maire a l'obligation d'assurer la police de la circulation. Ce même maire qui doit aussi prévenir et faire cesser les accidents. 
+- Parfois, il y a une police spéciale, par exemple, le maire est aussi titulaire de la police des édifices menaçants. Il est censé prendre un arrêté de police et a des pouvoirs qui permettent jusqu'à saisir le juge judiciaire pour faire démolir l'édifice. Démolir la propriété d'autrui est une atteinte à la liberté d'autrui (article 17 des Droits de l'Homme), mais cela se fait pour protéger la population.
 
 Conseil constitutionnel, 8 juin 2012, Michel, 253 QPC : le Conseil constitutionnel estime que le placement en cellule de dégrisement n'est pas une punition mais une mesure de police.
 
-Qu'est-ce que la tranquillité publique : éviter les troubles, les émeutes, les rixes, les manifestations. Dans un sens plus moderne, la tranquillité permet de se protéger contre le bruit. 
+Qu'est-ce que **la tranquillité publique** : éviter les troubles, les émeutes, les rixes, les manifestations. Dans un sens plus moderne, la tranquillité permet de se protéger contre le bruit. 
 
 [[CE, 2 juillet 1967, Bricq]]
 A propos de la réglementation de l'utilisation de la tondeuse à gazon le dimanche. 
@@ -60,7 +62,7 @@ Jugement du tribunal administratif de Pau du 2 novembre 1995, Couvennes : interd
 
 Arrêt du 2 novembre 2003 sur la mendicité, Conseil d'État, Lecompte et Association : le Conseil d'État a validé l'arrêt anti-mendicité car il concernait seulement certains lieux et certaines heures.
 
-Salubrité publique : garantir l'hygiène et la santé publique. Beaucoup de polices spéciales existent en santé publique, comme l'interdiction de circulation ou l'obligation du port de masque. Le maire doit par exemple lutter contre les pollutions. Pour l'épidémie de COVID, les maires ont été dépossédés par le pouvoir national. Il doit aussi contrôler les produits mis sur le marché.
+**Salubrité publique** : garantir l'hygiène et la santé publique. Beaucoup de polices spéciales existent en santé publique, comme l'interdiction de circulation ou l'obligation du port de masque. Le maire doit par exemple lutter contre les pollutions. Pour l'épidémie de COVID, les maires ont été dépossédés par le pouvoir national. Il doit aussi contrôler les produits mis sur le marché.
 
 [[CAA Douai, 5 juillet 2016, Ligue Française pour la défense des droits de l’homme et du citoyen]]
 Question : si le maire peut interdire la fouille des poubelles. Le Conseil d'État a estimé que la fouille des poubelles peut constituer un trouble à l'ordre public. Il est donc possible, sur le fondement de la tranquillité publique, d'interdire cette activité.
@@ -73,14 +75,19 @@ Composants arrivés après la loi de 1884, de plus en plus de composantes vers u
 ###### 1) la moralité publique
 À l'origine, on ne pouvait pas envisager que la police se mêle de la moralité publique, car l'idée de base est que l'ordre public est un ordre matériel (excluant la moralité) et extérieur, selon Maurice Hauriou.
 
-Il y avait la crainte que l'activité de police finisse par verser dans l'oppression des consciences. On voulait éviter l'instauration d'un ordre moral. Malgré cette réticence, liée à la conception matérielle de l'ordre public, la doctrine et la jurisprudence ont distingué l'ordre moral de la moralité publique.
+Il y avait la crainte que l'activité de police finisse par verser dans l'oppression des consciences. On voulait éviter l'instauration d'un ordre moral. Malgré cette réticence, liée à la conception matérielle de l'ordre public, la doctrine et la jurisprudence ont **distingué l'ordre moral de la moralité publique**.
 
-La moralité publique s'entend des idées morales communément admises à un moment donné par la moyenne des citoyens.
+> [!Définition]
+> La **moralité publique** s'entend des idées morales communément admises à un moment donné par la moyenne des citoyens.
 
-L'ordre moral, c'est la promotion forcée de valeurs morales défendues par une minorité. La moralité publique est devenue une composante apparente de l'ordre public, grâce au cinéma, dans le grand arrêt CE, section du 18 décembre 1959, Société Les Films Lutetia. 
+> [!Définition]
+> L'**ordre moral**, c'est la promotion forcée de valeurs morales défendues par une minorité. 
+> La moralité publique est devenue une composante apparente de l'ordre public, grâce au cinéma, dans le grand arrêt CE, section du 18 décembre 1959, Société Les Films Lutetia. 
 
 [[CE, Sect., 18 décembre 1959, Société « Les films Lutétia »]]
-Cet arrêt de principe du Conseil d'État a admis que la moralité publique est une composante de l'ordre public, c'est-à-dire que pour protéger la moralité publique, on peut restreindre l'exercice de certaines libertés. Le maire de la commune de Nice a interdit un certain nombre de films. En France, la police du cinéma est tenue par le ministre de la Culture, qui décide si les films peuvent être exploités en France. Une fois qu'un film est autorisé par le ministre, il peut être exploité partout en France sans qu'un maire puisse s'y opposer. Cependant, le maire de Nice a interdit la projection de certains films, et la société a attaqué l'arrêté. 
+Cet arrêt de principe du Conseil d'État a admis que la moralité publique est une composante de l'ordre public, c'est-à-dire que pour protéger la moralité publique, on peut restreindre l'exercice de certaines libertés. 
+
+Le maire de la commune de Nice a interdit un certain nombre de films. En France, la police du cinéma est tenue par le ministre de la Culture, qui décide si les films peuvent être exploités en France. Une fois qu'un film est autorisé par le ministre, il peut être exploité partout en France sans qu'un maire puisse s'y opposer. Cependant, le maire de Nice a interdit la projection de certains films, et la société a attaqué l'arrêté. 
 
 Le Conseil d'État a expliqué ce que le maire peut faire dans ce cas de figure : 
 1) en cas de troubles sérieux (manifestations, émeutes, etc.), 
@@ -98,29 +105,34 @@ Jugement : Théâtre de Fabien, 16 juillet 2019, Fédération française de natu
 [[CE Ass., 27 octobre 1995, Commune de Morsang-sur-Orge, Lancé de nains]]
 En première instance, la société obtient gain de cause, transposant la jurisprudence Lutetia, et comme il n'y a pas de trouble extérieur ou de danger pour la personne, l'arrêté est annulé. Mais l'assemblée du contentieux va admettre la légalité de l'interdiction au nom du respect de la dignité de la personne humaine, même si le nain est consentant.
 
-La sauvegarde de la dignité de la personne humaine contre toute forme d'asservissement et de dégradation est un principe à valeur constitutionnelle, depuis la décision du Conseil constitutionnel du 27 juillet 1994 sur la loi de bioéthique qui donne déjà un fondement constitutionnel à la dignité. Notion assez restrictive, par exemple, arrêt Commune d'Arcueil, messagerie rose, non attentatoire à la dignité humaine.
+Conseil constitutionnel du 27 juillet 1994 sur la loi de bioéthique
+La **sauvegarde de la dignité de la personne humaine contre toute forme d'asservissement et de dégradation** est un principe à valeur constitutionnelle, depuis la décision du Conseil constitutionnel du 27 juillet 1994 sur la loi de bioéthique qui donne déjà un fondement constitutionnel à la dignité. Notion assez restrictive, par exemple, arrêt Commune d'Arcueil, messagerie rose, non attentatoire à la dignité humaine.
 
 [[CAA Douai, 29 décembre 2005, Commune de Waziers]]
 Un arrêté anti-coupure d'eau et anti-coupure d'électricité ne peut pas non plus trouver son fondement dans le respect de la dignité de la personne humaine. En revanche, lorsque le préfet accorde le concours de la force publique pour exécuter une décision de justice, c'est surtout le cas des expulsions, il doit adopter cette décision en tenant compte de ses conséquences au regard de la dignité humaine. Donc le préfet peut refuser d'expulser en se fondant sur le respect de la dignité de la personne humaine.
 
 La question est de savoir ce qui différencie les deux composantes de la dignité et de la moralité publique. En doctrine, certains se sont demandés si la moralité était une composante de la dignité ou inversement.
 
-Il n'y a pas d'enjeux pratiques dans ce débat. Le commissaire du gouvernement Frydman, dans l'arrêt _Morsang-sur-Orge_, a établi une grande différence entre la moralité publique et la dignité de la personne humaine. Le Conseil d'État exige des circonstances locales particulières pour invoquer la moralité publique, tandis qu'il n'est pas nécessaire de faire état de circonstances locales pour la dignité humaine.
+>>> CREUSER
 
-Cela s'explique par le fait que la dignité de la personne humaine n'est pas susceptible de varier en fonction du lieu où elle se trouve. La suppression de cette exigence de circonstances locales a un potentiel liberticide, car avec la moralité publique, l'exigence de circonstances locales freine les maires et rend plus difficile l'adoption de certaines mesures. Le risque liberticide pressenti par la doctrine ne s'est cependant pas concrétisé.
+
+Il n'y a pas d'enjeux pratiques dans ce débat. Le commissaire du gouvernement Frydman, dans l'arrêt _Morsang-sur-Orge_, a établi une grande différence entre la moralité publique et la dignité de la personne humaine. Le Conseil d'État exige des **circonstances locales particulières pour invoquer la moralité publique**, tandis qu'il n'est **pas nécessaire de faire état de circonstances locales pour la dignité humaine**.
+
+Cela s'explique par le fait que la **dignité de la personne humaine n'est pas susceptible de varier en fonction du lieu où elle se trouve**. La suppression de cette exigence de circonstances locales a un **potentiel liberticide**, car avec la moralité publique, l'exigence de circonstances locales freine les maires et rend plus difficile l'adoption de certaines mesures. Le risque liberticide pressenti par la doctrine ne s'est cependant pas concrétisé.
 
 Une dernière question soulevée par la doctrine est la suivante : est-il normal de faire peser sur des autorités locales (maire, préfet), dans des affaires comme le _lancé de nain_ à l’échelle locale, la responsabilité de prendre une mesure de police qui finalement ne dépend pas des circonstances locales ?
 
 [[CE, 16 avril 2015, Conseil d'État,  Société Grasse Boulange]]
-Il serait préférable d’avoir une police spéciale nationale pour ce genre de questions relatives à la dignité de la personne humaine. Un arrêt confirmant que la dignité appartient à la composante de l'ordre public est celui du 16 avril 2015, Conseil d'État, _Société Grasse Boulange_. Dans cette affaire, une boulangerie-pâtisserie proposait des pâtisseries représentant des personnages dans une situation obscène, et le maire avait interdit leur exposition. (N° 389372).
+Il serait préférable d’avoir une police spéciale nationale pour ce genre de questions relatives à la dignité de la personne humaine. Un arrêt confirmant que la **dignité appartient à la composante de l'ordre public** est celui du 16 avril 2015, Conseil d'État, _Société Grasse Boulange_. Dans cette affaire, une boulangerie-pâtisserie proposait des pâtisseries représentant des personnages dans une situation obscène, et le maire avait interdit leur exposition. (N° 389372).
 
 Le Conseil d'État n'a pas suivi le maire, estimant que même si l'exposition de ces pâtisseries était de nature à choquer, elle ne constituait pas en elle-même une atteinte à la dignité humaine, donc il n’y avait pas de trouble à l'ordre public.
 
 [[CE, 12 novembre 1997, Association Communauté Tibétaine en France]]
-En conclusion sur la notion d'ordre public : Un exemple de ce que l'ordre public n'est pas : un arrêt célèbre du 12 novembre 1997, Conseil d'État, _Association Communauté Tibétaine en France_. Opposée à la politique chinoise au Tibet, cette association souhaitait manifester à l'occasion de la venue du président chinois en France. À Paris, le maire dispose de certains pouvoirs de police, mais ils relèvent principalement du préfet de police de Paris (spécifique à cette ville), qui a interdit la manifestation, en se fondant sur le fait qu'elle pourrait perturber les relations diplomatiques entre la France et la Chine. Le préfet ne s'est donc pas fondé sur un objectif d'ordre public, ce qui a conduit à l'annulation de l'interdiction.
+Un exemple de ce que l'ordre public n'est pas : un arrêt célèbre du 12 novembre 1997, Conseil d'État, _Association Communauté Tibétaine en France_. Opposée à la politique chinoise au Tibet, cette association souhaitait manifester à l'occasion de la venue du président chinois en France. À Paris, le maire dispose de certains pouvoirs de police, mais ils relèvent principalement du préfet de police de Paris (spécifique à cette ville), qui a interdit la manifestation, en se fondant sur le fait qu'elle pourrait perturber les relations diplomatiques entre la France et la Chine. Le préfet ne s'est donc pas fondé sur un objectif d'ordre public, ce qui a conduit à l'annulation de l'interdiction.
 
 Un autre exemple concerne des maires qui ont voulu interdire des défilés de mode réservés aux femmes. Certains ont estimé que cela était contraire à certaines règles de police, mais il n'y avait pas d'objectif de police.
 
+>>> Arret revision ici
 ##### C) La police spéciale
 La police administrative est divisée en deux branches : la police administrative générale et la police administrative spéciale. Cependant, il n'existe pas de définition précise de la police administrative spéciale. Instituées au début du 19e siècle, ces polices se sont multipliées depuis.
 

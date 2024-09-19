@@ -1,0 +1,31 @@
+À partir du 16e siècle, le droit de la famille entre dans une nouvelle phase. Il passe de la compétence de l'Église à celle de l'État. Il y a une volonté de l'État d'étendre sa compétence à la sphère familiale. Dans un premier temps, on observe une laïcisation du droit de la famille. À partir de la Révolution, le droit de la famille repose sur la notion de contrat. Dans ce cadre, le droit de la famille devient individualisé, fondé sur l'idée de liberté juridique de l'individu.
+## Chapitre 1 : la laïcisation de l’ordre familial
+Cette mainmise de l'État sur le mariage n'est pas due à une attaque frontale contre l'Église. Elle résulte d'une part de la montée en puissance de l'État et surtout d'une crise religieuse qui traverse l'Europe. Cette crise religieuse est liée à l'apparition et au développement de la religion protestante. L'État profite de cette situation pour s'imposer en matière de mariage et de filiation, mais il ne s'imposera pas en matière de patrimoine et de succession.
+### Section 1 : le contrôle de l’état sur le mariage
+La crise du modèle religieux de l'Église entraîne une crise du mariage tel qu'il était imposé par l'Église jusqu'alors. Cette crise permet à l'État de développer des outils juridiques pour empiéter sur la compétence normalement exclusive de l'Église.
+#### Paragraphe 1 : la crise du modèle religieux. 
+Cette crise du modèle religieux est due à l'apparition de la religion protestante. Les protestants, dans un premier temps, ne souhaitent pas élaborer un nouveau droit de la famille. Ils souhaitent revenir à une simplicité du message religieux et, plus précisément, aux règles originelles de l'Église, en supprimant les siècles de construction doctrinale, notamment celle du Moyen Âge. Or, le droit du mariage chrétien s'est formé au Moyen Âge. Par conséquent, les protestants remettent en cause ce modèle et proposent un nouveau modèle de mariage.
+##### A) La conception protestante du mariage
+La différence entre la conception protestante et celle de l’Église catholique est que, pour les protestants, le mariage n’est pas un sacrement. Le fait que le mariage soit un sacrement est ce qui a permis à l’Église de maintenir l'indissolubilité du mariage. Cela signifie que les protestants admettent le divorce, mais celui-ci est limité à quelques cas :
+
+1. L’adultère de l’épouse (incise matthéenne)
+2. L’impuissance de l’époux qui survient au cours du mariage
+3. Le refus du devoir conjugal
+4. La désertion malicieuse : lorsqu’un mari abandonne son épouse
+
+Si le mariage n’est pas un sacrement, il devient une institution humaine, et ne relève donc pas de la compétence de la religion ou de l’Église. Le mariage doit alors relever des juridictions laïques. Les protestants établissent certaines règles pour encadrer le mariage, notamment en se concentrant sur deux questions qui créent des tensions dans le mariage chrétien : 1) la publicité du mariage et 2) le consentement des parents.
+
+Contrairement à ce que prévoit l’Église chrétienne, le mariage doit être public, et c’est une condition de validité, avec des témoins et, surtout, un prêtre ou un pasteur. Chez les catholiques, il n’y a pas besoin de forme particulière ni de prêtre. Au Moyen Âge, le consentement des parents n’était pas nécessaire. Chez les protestants, le consentement des parents devient indispensable, surtout pour les mineurs. Cette exigence de consentement parental était une revendication de la bourgeoisie tout au long du Moyen Âge.
+
+La théorie des nullités (les empêchements au mariage mis en place par l’Église) n’est pas présente dans les textes originels de l’Église. C’est une construction médiévale. Par conséquent, cette théorie des nullités n’est pas reprise par les protestants. Ils ne conservent que quelques empêchements, notamment ceux liés à la parenté naturelle et aux rapports d’alliance (âge et impuissance).
+
+##### B)?
+
+Ici, un modèle alternatif au mariage imposé par l’Église se dessine. L’Église va donc réagir à cette remise en cause des principes mêmes du mariage. Cette réaction, appelée la réaction tridentine, a lieu au milieu du 16e siècle. En effet, l’Église s’est réunie en concile dans la ville de Trente, et cela a duré 18 ans, dans le but de contrer les revendications des protestants. Ce concile réaffirme que le mariage est un sacrement, et que, de ce fait, il est indissoluble, même en cas d’adultère. L’Église se penche également sur les questions de la forme du mariage et du consentement des parents. Ces solutions se retrouvent dans le décret de Tametsi de 1563. Concernant le consentement parental, l’Église maintient que ce n’est pas une condition de validité du mariage. Cependant, elle précise que les mariages conclus sans le consentement des parents font l’objet d’une réprobation morale, mais la validité du mariage n’est pas remise en cause. Par conséquent, un mariage peut être conclu sans le consentement des parents.
+
+Sur la question des formes, notamment la publicité du mariage, l’Église essaie de faire preuve de compromis, en imposant une certaine forme de célébration du mariage. Cela signifie que le mariage doit avoir lieu à l’église, en présence d’un prêtre. Ce qui est important ici, c’est la sanction en cas de non-respect de la publicité : cette sanction n’est pas l’annulation du mariage. L’Église ne touche pas à l’institution du mariage. La sanction consiste à rendre rétroactivement incapable de contracter un autre mariage ceux qui n’ont pas respecté ces formes. Le but est de rendre inexistant le mariage ainsi contracté. L’Église fait un compromis en considérant que le défaut de publicité n’entraîne pas l’annulation du mariage, mais affecte la capacité à se remarier.
+
+Ce décret a cependant été peu appliqué, notamment en France.
+
+Pour que les dispositions du pape soient adoptées par le clergé français, elles doivent être enregistrées par le parlement. Or, ce décret n’a pas été enregistré par le parlement, car la France était alors en pleine guerre de religion, et les parlementaires étaient déçus par la question du consentement des parents. Le roi a profité de cette faiblesse pour s’immiscer dans la question du mariage.
+#### Paragraphe 2 affirmation croissante d’une tutelle étatique

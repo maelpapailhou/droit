@@ -11,7 +11,6 @@ Cette famille est profondément différente de la famille contemporaine. Elle es
 Ensuite, la famille romaine repose sur des liens juridiques qui sont construits de manière volontaire et de manière **unilatérale**. En effet, c’est la volonté du père qui crée la famille et détermine les règles de droit.
 - Le **mariage** est une institution fluide, fragile et surtout temporaire.
 - En revanche, la **filiation** qui en découle est extrêmement rigoureuse et encadrée par des règles de droit précises.
-
 #### Paragraphe 1 : la fluidité du lien matrimonial
 - **Raison 1 : les restrictions**
 À Rome, le mariage est une institution fragile car il y a longtemps eu des restrictions posées au mariage, qui était réservé aux seuls citoyens romains. Il y avait donc un lien entre le mariage et la citoyenneté. Le non-citoyen ne pouvait donc pas se marier et devait se contenter d'unions de fait appelées concubinage, qui n’étaient pas reconnues par le droit. En contrôlant l’accès au mariage, on pouvait contrôler l’accès à la citoyenneté.
@@ -189,4 +188,3 @@ Elle est composée du couple et des enfants, et le patrimoine se transmet donc d
 
 Concernant la filiation germanique, les enfants naturels nés hors mariage ont les mêmes droits que les enfants légitimes. Ils héritent donc du patrimoine sans difficulté. Cette pratique de considération se maintient pendant plusieurs siècles en Occident ; on la voit encore au XIXe siècle, y compris en France, malgré la forte opposition de l’Église.
 
-Partie 2: la famille au Moyen-Age

@@ -1,0 +1,3 @@
+Cette condition a connu une grande évolution. Initialement, dans l'arrêt CE 1901 _Casanova_, la création d'un poste de médecin municipal a été validée par le Conseil d'État en raison de circonstances particulières de temps et de lieu. 
+
+Par la suite, dans l'arrêt CE 1930 _Chambre syndicale du commerce en détail de Nevers_, la création d'un magasin d'alimentation municipal (une supérette) a été attaquée. Le CE a assoupli sa position et a posé une condition de légalité : pour que la création soit légale, il faut justifier d'un besoin insatisfait des habitants résultant de la carence de l’initiative privée.
