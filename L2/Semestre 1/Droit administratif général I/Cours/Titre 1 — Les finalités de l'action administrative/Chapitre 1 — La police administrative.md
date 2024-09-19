@@ -77,12 +77,20 @@ Composants arrivés après la loi de 1884, de plus en plus de composantes vers u
 
 Il y avait la crainte que l'activité de police finisse par verser dans l'oppression des consciences. On voulait éviter l'instauration d'un ordre moral. Malgré cette réticence, liée à la conception matérielle de l'ordre public, la doctrine et la jurisprudence ont **distingué l'ordre moral de la moralité publique**.
 
+%% Moralité publqiue u: extension tranquilité publqiue selon hauriou dans la mesur eoù.. etc.%%
+
+%%
+Par son article 10 qui énonce que « _Nul ne doit être inquiété pour ses opinions, mêmes religieuses, pourvu que leur manifestation ne trouble pas l’ordre public établi par la loi_ » , la Déclaration des Droits de l’Homme et du Citoyen consacre la liberté d’opinion. Elle insère toutefois une exception, ou plutôt un tempérament à cette liberté : la sauvegarde de l’ordre public. Cet ordre public permet ainsi de limiter les droits et libertés fondamentales qu’on pourrait penser absolus.
+%%
+%% Trovuer des diinitions d'auteurs%%
+
 > [!Définition]
 > La **moralité publique** s'entend des idées morales communément admises à un moment donné par la moyenne des citoyens.
+>  La moralité publique est devenue une composante apparente de l'ordre public, grâce au cinéma, dans le grand arrêt CE, section du 18 décembre 1959, Société Les Films Lutetia.
 
 > [!Définition]
 > L'**ordre moral**, c'est la promotion forcée de valeurs morales défendues par une minorité. 
-> La moralité publique est devenue une composante apparente de l'ordre public, grâce au cinéma, dans le grand arrêt CE, section du 18 décembre 1959, Société Les Films Lutetia. 
+ 
 
 [[CE, Sect., 18 décembre 1959, Société « Les films Lutétia »]]
 Cet arrêt de principe du Conseil d'État a admis que la moralité publique est une composante de l'ordre public, c'est-à-dire que pour protéger la moralité publique, on peut restreindre l'exercice de certaines libertés. 
@@ -93,20 +101,30 @@ Le Conseil d'État a expliqué ce que le maire peut faire dans ce cas de figure 
 1) en cas de troubles sérieux (manifestations, émeutes, etc.), 
 2) si le film provoque un trouble de conscience (non plus un trouble extérieur ni matériel), car l'immoralité du film peut être particulièrement ressentie en raison de circonstances locales.
 
+%% creuser ceta rret%%
+
 Par exemple, un film blasphématoire peut choquer les habitants d'une ville de pèlerinage plus qu'à Paris. Cet arrêt est fondateur car il a été rendu malgré l'avis contraire du commissaire du gouvernement, qui proposait une autre solution. La CEDH a retoqué cette pratique pour procès inéquitable dans les années 2000 (arrêt Krem de la CEDH). Le commissaire du gouvernement est désormais appelé rapporteur public. Il joue le même rôle en proposant des solutions. Dans ce cas, il était contre l'intervention du maire, estimant qu'une autorité ministérielle était déjà intervenue.
 
 Le Conseil d'État a jugé différemment, en estimant que ce sont les circonstances locales qui justifient la mesure du maire. Ces éléments permettent le contrôle du juge. En exigeant des circonstances locales particulières, le Conseil d'État pose une condition qui empêche les maires de se faire les promoteurs de valeurs morales non partagées par les administrés.
 
 En 1963, le Conseil d'État a rendu pas moins de 11 arrêts à propos du film _Les Liaisons dangereuses_. En fonction des circonstances, certaines mesures de police ont été confirmées, d'autres non. Le CE a été saisi concernant l'interdiction du film _Le pull-over_ à Aix-en-Provence. Depuis, il y a eu presque plus rien.
 
+%% fair ecet aret%%
+
 Jugement : Théâtre de Fabien, 16 juillet 2019, Fédération française de naturisme. Le maire d'une commune de la Somme interdit la pratique du naturisme sur l'ensemble du territoire de la collectivité. La mesure était justifiée par une atteinte à la moralité et à la tranquillité publiques, notamment en ce qui concerne les jeunes enfants. Cette mesure a été annulée, car elle était trop générale et absolue, et surtout, elle ne paraissait pas justifiée par un trouble avéré à l'ordre public.
 
 ###### 2) Le respect de la dignité de la personne humaine
 [[CE Ass., 27 octobre 1995, Commune de Morsang-sur-Orge, Lancé de nains]]
-En première instance, la société obtient gain de cause, transposant la jurisprudence Lutetia, et comme il n'y a pas de trouble extérieur ou de danger pour la personne, l'arrêté est annulé. Mais l'assemblée du contentieux va admettre la légalité de l'interdiction au nom du respect de la dignité de la personne humaine, même si le nain est consentant.
+En première instance, la société obtient gain de cause, transposant la jurisprudence Lutetia, et comme il n'y a pas de trouble extérieur ou de danger pour la personne, l'arrêté est annulé. 
+
+Mais l'assemblée du contentieux va admettre la légalité de l'interdiction au nom du respect de la dignité de la personne humaine, même si le nain est consentant.
+%% ici faire didff dignité humaine et rtuc moral%%
+
+%% Faire cet arret%%
 
 Conseil constitutionnel du 27 juillet 1994 sur la loi de bioéthique
 La **sauvegarde de la dignité de la personne humaine contre toute forme d'asservissement et de dégradation** est un principe à valeur constitutionnelle, depuis la décision du Conseil constitutionnel du 27 juillet 1994 sur la loi de bioéthique qui donne déjà un fondement constitutionnel à la dignité. Notion assez restrictive, par exemple, arrêt Commune d'Arcueil, messagerie rose, non attentatoire à la dignité humaine.
+
 
 [[CAA Douai, 29 décembre 2005, Commune de Waziers]]
 Un arrêté anti-coupure d'eau et anti-coupure d'électricité ne peut pas non plus trouver son fondement dans le respect de la dignité de la personne humaine. En revanche, lorsque le préfet accorde le concours de la force publique pour exécuter une décision de justice, c'est surtout le cas des expulsions, il doit adopter cette décision en tenant compte de ses conséquences au regard de la dignité humaine. Donc le préfet peut refuser d'expulser en se fondant sur le respect de la dignité de la personne humaine.
@@ -132,7 +150,8 @@ Un exemple de ce que l'ordre public n'est pas : un arrêt célèbre du 12 novemb
 
 Un autre exemple concerne des maires qui ont voulu interdire des défilés de mode réservés aux femmes. Certains ont estimé que cela était contraire à certaines règles de police, mais il n'y avait pas d'objectif de police.
 
->>> Arret revision ici
+%%> Arret revision ici 17 septembre depuis debut %%
+
 ##### C) La police spéciale
 La police administrative est divisée en deux branches : la police administrative générale et la police administrative spéciale. Cependant, il n'existe pas de définition précise de la police administrative spéciale. Instituées au début du 19e siècle, ces polices se sont multipliées depuis.
 
