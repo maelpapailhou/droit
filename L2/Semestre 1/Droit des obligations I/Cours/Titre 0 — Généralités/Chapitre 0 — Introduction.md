@@ -7,7 +7,7 @@ L'article 1100 du Code civil dispose que les obligations naissent d'actes juridi
 
 Dans le langage courant, le mot "obligation" recouvre de très nombreuses hypothèses. Pour les civilistes, le mot "obligation" a un sens beaucoup plus restreint (contre-exemple : l'obligation de rouler à droite). 
 
-**L'obligation est un lien de droit unissant deux personnes**. Par exemple, le fait de venir en TD n'implique pas de créancier, c'est un devoir, pas une obligation au sens juridique. Selon ce lien, l'une de ces personnes, appelée le créancier, est en droit d'exiger quelque chose de l'autre personne, appelée le débiteur.
+**L'obligation est un lien de droit unissant deux personnes**. *Par exemple, le fait de venir en TD n'implique pas de créancier, c'est un devoir, pas une obligation au sens juridique*. Selon ce lien, l'une de ces personnes, appelée le créancier, est en droit d'exiger quelque chose de l'autre personne, appelée le débiteur.
 ### Section 2 : l'importance du droit des obligations
 Exemples :
 - **Le droit de la famille** : le mariage a une nature hybride, il est à la fois une institution et un contrat. 

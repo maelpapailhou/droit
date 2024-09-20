@@ -1,2 +1,13 @@
 Thème 1 — Histoire du droit de la famille
-Partie 1 : L'héritage de l'antiquité
+- Partie 1 : L'héritage de l'antiquité
+	- Section 1 : La famille romaine
+		- Paragraphe 1 : la fluidité du lien matrimonial
+			- A) L’accord de volonté
+			- B) Une alliance imparfaite
+		- Paragraphe 2: la rigueur de la construction généalogique
+	- Section 2 : La famille germaine
+		- Paragraphe 1: le mariage germain
+		- Paragraphe 2 : La parenté germaine 
+			- A) La famille élargie
+			- B) La famille ordinaire
+- Partie 2 — La famille au Moyen-Âge

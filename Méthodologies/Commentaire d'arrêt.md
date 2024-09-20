@@ -49,3 +49,4 @@ pareil
 etc. 
 
 Ex rhyme entre intitulés si possible. I) présence de la cause, II) influence d ela cause. Intitulé simple, qui soit parlant. 
+

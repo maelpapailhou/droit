@@ -1,100 +1,110 @@
+Cette période est importante pour le développement du droit, notamment du droit de la famille, car pendant l’Antiquité, il y a eu un brassage, un **mélange entre différentes traditions juridiques**. 
+
 **Tradition romaine :**  
-Cette période est importante pour le développement du droit, notamment du droit de la famille, car pendant l’Antiquité, il y a eu un brassage, un mélange entre différentes traditions juridiques. D’un côté, il y a les traditions romaines, caractérisées par un très fort juridisme, c’est-à-dire qu’elles sont exclusivement construites par le droit. La vérité juridique l’emporte sur la réalité biologique.
+D’un côté, il y a les traditions romaines, **caractérisées par un très fort juridisme**, c’est-à-dire qu’elles sont exclusivement construites par le droit. La **vérité juridique l’emporte sur la réalité biologique**.
 
 **Tradition germaine :**  
-Il existe un deuxième système juridique développé par les sociétés germaniques qui sont entrées en contact avec Rome. Ce système familial est fondé sur la réalité naturelle et biologique, où la règle de droit est assez effacée.
+Il existe un deuxième système juridique développé par les sociétés germaniques qui sont entrées en contact avec Rome. Ce système familial est **fondé sur la réalité naturelle et biologique**, où **la règle de droit est assez effacée**.
 
 Ces deux systèmes sont entrés en contact, certains points se sont influencés mutuellement et ont donné naissance à des évolutions.
 ### Section 1 : La famille romaine
-Cette famille est profondément différente de la famille contemporaine. Elle est centrée à Rome non pas sur le couple, mais sur la **filiation**.
+Cette famille est profondément différente de la famille contemporaine. Elle est **centrée** à Rome non pas sur le couple, mais **sur la filiation**.
 
-Ensuite, la famille romaine repose sur des liens juridiques qui sont construits de manière volontaire et de manière **unilatérale**. En effet, c’est la volonté du père qui crée la famille et détermine les règles de droit.
+Ensuite, la famille romaine repose sur des **liens juridiques** qui sont **construits de manière volontaire et de manière** **unilatérale**. En effet, c’est la volonté du père qui crée la famille et détermine les règles de droit.
 - Le **mariage** est une institution fluide, fragile et surtout temporaire.
 - En revanche, la **filiation** qui en découle est extrêmement rigoureuse et encadrée par des règles de droit précises.
 #### Paragraphe 1 : la fluidité du lien matrimonial
 - **Raison 1 : les restrictions**
-À Rome, le mariage est une institution fragile car il y a longtemps eu des restrictions posées au mariage, qui était réservé aux seuls citoyens romains. Il y avait donc un lien entre le mariage et la citoyenneté. Le non-citoyen ne pouvait donc pas se marier et devait se contenter d'unions de fait appelées concubinage, qui n’étaient pas reconnues par le droit. En contrôlant l’accès au mariage, on pouvait contrôler l’accès à la citoyenneté.
+À Rome, le mariage est une institution fragile car il y a longtemps eu des restrictions posées au mariage, qui était réservé aux seuls citoyens romains. Il y avait donc **un lien entre le mariage et la citoyenneté**. Le non-citoyen ne pouvait donc pas se marier et devait **se contenter d'unions de fait** (*concubinage*), qui n’étaient **pas reconnues par le** droit. En **contrôlant l’accès au mariage, on pouvait contrôler l’accès à la citoyenneté**.
 
 - **Raison 2 : la procréation**
-Le mariage n’a pas de raison d’être en dehors de la procréation, et surtout la procréation de garçons. Rome est une société extrêmement militaire, conquérante et composée de soldats ; le but premier de tous les citoyens est de donner naissance à de futurs soldats.
+Le mariage **n’a pas de raison d’être en dehors de la procréation**, et surtout la procréation de garçons. 
+- Rome est une **société extrêmement militaire, conquérante et composée de soldats** ; le but premier de tous les citoyens est de donner naissance à de futurs soldats. 
+- Des sanctions juridiques ont frappé les célibataires, mais aussi les couples sans enfants. 
+- Le seul but est de donner naissance.
 
-Des sanctions juridiques ont frappé les célibataires, mais aussi les couples sans enfants. on seul but est de donner naissance.
-
-Le mariage est une institution instable, c’est-à-dire que les mariages et les divorces sont fréquents à Rome. Il n’est pas fait pour durer, mais pour donner naissance.
+Le mariage est une institution instable, c’est-à-dire que **les mariages et les divorces sont fréquents à Rome**. Il n’est pas fait pour durer, mais pour donner naissance.
 
 Ce mariage est créé sur un accord de volonté qui va lui donner naissance et va créer une alliance inégale.
 
 ##### A) L’accord de volonté
-  **Seul le consentement fait le mariage** ; il est donc parfait dès l’échange des consentements. Tout ce qui entoure le mariage, comme les fiançailles et autres, n’a pas de valeur juridique. De même, la consommation du mariage n’a pas d’incidence en droit.
+**Seul le consentement fait le mariage** ; il est donc parfait dès l’échange des consentements. Tout ce qui entoure le mariage, comme **les fiançailles** et autres, n’a pas de valeur juridique. De même, **la consommation du mariage** n’a pas **d’incidence en droit**.
 
 **_De quel consentement parle-t-on ?_**
-
 Il dépend du statut juridique des époux, ou futurs époux, car il existe à Rome deux statuts juridiques :
-
-- **Alieni iuris** : ceux qui sont **juridiquement incapables**, c’est-à-dire sous l’autorité d’un autre, comme tous ceux qui sont **sous l’autorité de leur père**. À Rome, il n’y a pas de majorité liée à l’âge ; tant que le père est en vie, la personnalité juridique de l’enfant (qui peut être adulte) est absorbée dans celle du père ou du grand-père. Celui qui doit consentir est donc le père, car c’est lui qui a la capacité juridique.
+- **Alieni iuris** : ceux qui sont **juridiquement incapables**, c’est-à-dire sous l’autorité d’un autre, comme tous ceux qui sont **sous l’autorité de leur père**. 
+	- À Rome, il n’y a pas de majorité liée à l’âge ; tant que le père est en vie, la personnalité juridique de l’enfant (qui peut être adulte) est absorbée dans celle du père ou du grand-père. 
+	- **Celui qui doit consentir est donc le père**, car c’est lui qui a la capacité juridique.
 - **Sui iuris** (sous leur propre droit) : ceux qui n’ont plus de père sont juridiquement capables et peuvent eux-mêmes consentir à leur mariage.
 
-Logiquement, si le mariage repose sur l’accord de volonté, cela signifie que lorsque cet accord de volonté disparaît, le mariage disparaît aussi. Mais si on est juridiquement incapable, c’est le père qui décide. Même si le père ne veut plus du mariage, il se dissout. Il se dissout de manière simple, sans formalité, afin de permettre les remariages.
+Logiquement, si le mariage repose sur l’accord de volonté, cela signifie que **lorsque cet accord de volonté disparaît, le mariage disparaît aussi**. 
+- Mais si on est juridiquement incapable, c’est le père qui décide. Même si le père ne veut plus du mariage, il se dissout. 
+- Il se dissout de manière simple, sans formalité, afin de permettre les remariages.
 
 Ce mariage va créer une alliance imparfaite.
-
 ##### B) Une alliance imparfaite
-Le droit romain ne cherche pas à réaliser une véritable union des époux ; il va juxtaposer les patrimoines des deux personnes, car à Rome, les époux ne sont pas égaux. L'homme exerce la pleine puissance, tandis que les femmes sont exclues de la plupart des postes de décision. Cette inégalité est accrue dans le cadre du mariage.
+Le droit romain **ne cherche pas à réaliser une véritable union des époux** ; il va **juxtaposer les patrimoines des deux personnes**, car à Rome, **les époux ne sont pas égaux**. L'homme **exerce la pleine puissance**, tandis que les femmes sont exclues de la plupart des postes de décision. Cette inégalité est accrue dans le cadre du mariage.
 
 Il existe **deux types de mariages** :
-- **Cum manu** (avec la main) : il s'agit d'un mariage ordinaire pour l'ensemble de la population, car la main est le symbole de la puissance. Dans ce mariage, l'épouse rompt complètement avec sa famille d’origine pour être absorbée par la famille de son époux ou par le père de son époux. C’est-à-dire que l'épouse devient juridiquement une « _loco filiae_ » (fille de famille), considérée comme la fille de celui qui est juridiquement capable, sans lien biologique, donc dissociée du droit. Elle pourra ainsi **hériter de son nouveau père juridique** et établira un lien de droit avec ses enfants, qui n'est pas maternel. C’est-à-dire qu’elle crée ce lien simplement parce qu’elle est considérée comme une fille de cette famille. Si elle est la fille de son mari, elle est la sœur de ses enfants. Cela signifie que le père de famille, qui est juridiquement capable, pourra rendre le divorce et non son père biologique.
+- **Cum manu** (avec la main) : il s'agit d'**un mariage ordinaire pour l'ensemble de la population**, car la main est le symbole de la puissance. 
+	- Dans ce mariage, l'épouse rompt complètement avec sa famille d’origine pour être absorbée par la famille de son époux ou par le père de son époux. 
+	- C’est-à-dire que l'épouse devient juridiquement une « _loco filiae_ » (fille de famille), considérée comme la fille de celui qui est juridiquement capable, sans lien biologique, donc dissociée du droit. 
+	- Elle pourra ainsi **hériter de son nouveau père juridique** et établira un lien de droit avec ses enfants, qui n'est pas maternel. C’est-à-dire qu’elle crée ce lien simplement parce qu’elle est considérée comme une fille de cette famille. Si elle est la fille de son mari, elle est la sœur de ses enfants. Cela signifie que le père de famille, qui est juridiquement capable, pourra rendre le divorce et non son père biologique.
 - **Sine manu** (sans la main) : **mariage réservé à la noblesse ou à l’aristocratie**.
-
-Dans ce type de mariage, il n’y a pas de modification du statut de l’épouse par rapport à sa famille d’origine ; elle reste ce qu’elle était, soit _alieni iuris_, la fille de son père, ou si son père est décédé, _sui iuris_. Ce mariage permet une certaine indépendance de l'épouse car elle n’est pas absorbée par la famille de son mari, mais juridiquement elle n’a aucun lien de droit avec la famille de son époux, donc pas de lien de droit avec ses propres enfants. Ses enfants ne peuvent pas hériter de son patrimoine à elle.
+	- Dans ce type de mariage, il n’y a pas de modification du statut de l’épouse par rapport à sa famille d’origine ; elle reste ce qu’elle était, soit _alieni iuris_, la fille de son père, ou si son père est décédé, _sui iuris_. 
+	- Ce mariage permet une certaine indépendance de l'épouse car elle n’est pas absorbé par la famille de son mari, mais juridiquement elle n’a aucun lien de droit avec la famille de son époux, donc **pas de lien de droit avec ses propres enfants**. Ses enfants ne peuvent pas hériter de son patrimoine à elle.
 
 L’intérêt pour les familles ayant un **patrimoine** est de protéger les biens de l’époux. Quel que soit le type de mariage conclu, il n’y a pas de fusion des patrimoines mais une séparation des patrimoines.
 
-De manière classique, les **charges du ménage** sont assurées par les biens du mari et de sa famille. L’épouse contribue au mariage par la dot, une somme d’argent apportée au mariage soit par l'épouse (sui iuris) soit par le père de l'épouse (_alieni iuris_).
+De manière classique, les **charges du ménage** sont assurées par les biens du mari et de sa famille. 
 
-En théorie, cette dot est la propriété du mariage. Elle sert à l’épouse pour ses éventuels remariages, ce qui rend la dot inaliénable. Dès la conclusion du mariage, on pense déjà au mariage suivant. Cette idée de séparation des mariages favorise le remariage et la circulation des épouses.
+L’**épouse contribue au mariage par la dot**, une somme d’argent apportée au mariage soit par l'épouse (sui iuris) soit par le père de l'épouse (_alieni iuris_).
+- En théorie, cette dot est la propriété du mariage. Elle sert à l’épouse pour ses éventuels remariages, ce qui rend la dot inaliénable. 
+- Dès la conclusion du mariage, on pense déjà au mariage suivant. Cette idée de séparation des mariages favorise le remariage et la circulation des épouses.
 
-**L’espérance de vie** à cette période est assez faible, notamment en raison de la mortalité infantile élevée ; plus d’un tiers des nouveau-nés meurent avant l’âge d’un an, et les accouchements sont extrêmement dangereux pour la mère et l’enfant. Les femmes fécondes étant rares à Rome, on cherche à les faire circuler afin de maximiser le nombre d’enfants par mariage.
+**L’espérance de vie** à cette période est assez faible, notamment en raison de la mortalité infantile élevée ; plus **d’un tiers des nouveau-nés meurent avant l’âge d’un an**, et les accouchements sont extrêmement dangereux pour la mère et l’enfant. Les femmes fécondes étant rares à Rome, on cherche à les faire circuler afin de maximiser le nombre d’enfants par mariage.
 
 Il existe **deux limites** :
 - Une stricte monogamie.
 - La prohibition de l’inceste.
 
 #### Paragraphe 2: la rigueur de la construction généalogique
-À Rome, il est fondamental d’être intégré à une lignée paternelle appelée la « gens », ce qui donne à l’individu son statut social. Les individus sans gens sont mis à l’écart. Cette famille paternelle se forme uniquement par la volonté du père. En effet, à Rome, la volonté du père est souveraine. Il n’y a pas de lien de filiation maternelle, appelé la filiation « agnatique ».
+À Rome, il est **fondamental d’être intégré à une lignée paternelle appelée la « gens »**, ce qui donne à l’individu son statut social. Les individus sans gens sont mis à l’écart. 
+- Cette **famille paternelle se forme uniquement par la volonté du père**. En effet, à Rome, la volonté du père est souveraine. 
+- Il n’y a **pas de lien de filiation maternelle**, appelé la filiation « agnatique ».
 
 En théorie, **l’enfant reconnu comme légitime par le père** est celui qui est né dans le cadre du mariage ou celui qui est lié au père par un lien de droit. Pour qu’il soit l’enfant du père, il faut un mariage, mais le mariage est uniquement formé par les époux ou le père des époux. Une difficulté qui se pose également au Moyen Âge est de prouver le consentement qui est posé uniquement par les individus.
 
-Donc, il s’éprouve de **deux manières** :
-
+Donc, il se prouve de **deux manières** :
 - La production de tablettes de mariage : tablettes rédigées au moment du mariage pour l’établissement de la dot.
 - La présomption de mariage concerne les femmes qui vivent habituellement avec le même homme.
 
-**Donc l’enfant né durant ce mariage sera légitime**. Il faut qu’il soit né au moins six mois après la conclusion du mariage et moins de dix mois après sa dissolution. Il manque la volonté du père, c’est-à-dire que le père doit vouloir intégrer l’enfant dans sa gens. S’il ne le veut pas et que l’enfant est né dans le mariage et dans le délai prévu, l’enfant ne sera pas juridiquement intégré dans sa famille, donc il sera abandonné.
+**Donc l’enfant né durant ce mariage sera légitime**. 
+- Il faut qu’il soit né au moins six mois après la conclusion du mariage et moins de dix mois après sa dissolution. 
+- Il fait la volonté du père, c’est-à-dire que le père doit vouloir intégrer l’enfant dans sa gens. S’il ne le veut pas et que l’enfant est né dans le mariage et dans le délai prévu, l’enfant ne sera pas juridiquement intégré dans sa famille, donc il sera abandonné.
 
 **Les enfants refusés** sont fréquemment les filles, surtout quand il y en a plusieurs, ou ceux présentant des défauts physiques.
 
 Pour manifester la volonté d’accepter l’enfant, il y a **deux manières en fonction du sexe** de l’enfant :
-
 - Si c’est une fille : le père va ordonner que l’enfant soit placé sur le sein de sa mère, car c’est un geste alimentaire.
 - Si c’est un garçon : l’enfant va être posé au pied de son père, qui va le porter et le soulever.
 
 Cette reconnaissance est un geste de puissance du père. Elle est telle que le père peut intégrer dans sa lignée des individus, des enfants qui ne sont pas biologiquement liés.
 
+%% VERIFIRE NON ADROGATION ET EXPRESISION LATINES %%
 Le père dispose de **deux possibilités** pour les enfants qui ne lui sont pas biologiquement liés :
-- L’adoption : elle consiste à faire entrer dans la gens du père un enfant qui a encore ou toujours son père biologique ; il reste **_alieni iuris_** et change de famille.
+- L’**adoption :** elle consiste à faire entrer dans la gens du père un enfant qui a encore ou toujours son père biologique ; il reste **_alieni iuris_** et change de famille.
 - L’adrogation : elle est plus lourde de conséquences, car le père fait entrer dans sa famille un individu qui n’a plus de père biologique et qui est déjà **_sui iuris_**, puis il perd sa capacité juridique. C’est une pratique rare.
 
-Dans tous les cas, le nouvel enfant du père aura exactement le même statut et les mêmes droits que les enfants biologiques de la famille.
+Dans tous les cas, le nouvel enfant du père aura exactement **le même statut et les mêmes droits que les enfants biologiques de la famille**.
 
 Cette inscription dans la gens et cette démonstration de puissance paternelle ont des effets importants, car l’enfant est entièrement absorbé par la capacité juridique du père, et cette adrogation dure toute la vie du père.
 
 La puissance du père s’étend de manière absolue sur l’enfant, et cette puissance a **deux aspects** :
-
 - Aspect personnel : il a tous les droits pour disposer de son enfant ; il peut le vendre, le louer et a même un droit de vie ou de mort. Elle n’a pas de limite ni de contrôle.
 - Aspect réel : tous les biens appartiennent au père, donc l’enfant ne peut pas avoir de patrimoine propre ; même si l’enfant travaille, tout ce qu’il gagne appartient au père.
 
 Cette **puissance paternelle ne s’interrompt** que dans quelques cas :
-
 - La mort du père.
 - Lorsque le père de famille perd son statut de citoyen romain, ce qui est rare, en cas de complot, de trahison ou de tentative de coup d’État.
 - Il y a la possibilité de l’émancipation, qui consiste à rendre juridiquement capable un individu dont le père est en vie et toujours citoyen romain. C’est un acte rare et peu fréquent, car il a pour conséquence d’expulser l’individu de la gens du père, ce qui diminue considérablement son statut social.
