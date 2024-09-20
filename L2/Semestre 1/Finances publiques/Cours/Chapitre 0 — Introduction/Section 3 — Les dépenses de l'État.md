@@ -1,5 +1,4 @@
 #### Paragraphe 1 : la classification des dépenses
-
 Font l'objet d'une double classification. La loi organique s'insère entre la loi et la Constitution, avec la LOLF (Loi Organique Relative aux Lois de Finances).
 
 Première classification fixée par l'article 5 : la classification par nature. Les dépenses sont divisées en 7 catégories. Chaque euro dépensé doit forcément se classer dans ces catégories. Voir le graphique des dépenses budgétaires par nature. Ce qui coûte le plus cher sont les dépenses d'intervention (33 %), suivies des dépenses de personnel.

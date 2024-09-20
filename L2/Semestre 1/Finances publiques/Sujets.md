@@ -4,13 +4,6 @@
 - Le principe d’universalité budgétaire (6 p.)
 
 ###### 2022-2023 Session 1
-Depuis une semaine, vous êtes l’assistant(e) parlementaire d’un député de
-La Réunion. Connaissant votre érudition en finances publiques, il vous écrit
-le courriel suivant :
-
-« Bonjour,
-Saisi d’un intérêt soudain pour les finances publiques depuis mon élection, je
-me permets de vous adresser quelques questions.
 - Pourriez-vous me détailler le volet performance mise en place par la LOLF ? (5 points)
 - Que signifie la notion d’impositions de toutes natures ? (4 points)
 - Pourriez-vous me lister, sans les définir, les différentes catégories de lois de finances ? (2 points)
@@ -28,8 +21,6 @@ mes sentiments les meilleurs ».
 5. Les modifications des crédits budgétaires (5 points)
 
 ###### 2021-2022 Session 1
-Vous êtes l’assistant(e) parlementaire d’un député de La Réunion. En déplacement à l’étranger, il vous écrit le courriel suivant :
-« Bonjour, Saisi d’un intérêt soudain pour les finances publiques et vous sachant au fait de ces sujets, je me permets de vous adresser quelques questions.
 1. Pourriez-vous m’expliquer la logique de performance mise en place par la loi organique relative aux lois de finances (LOLF) ? (5 points).
 2. Quelles sont les catégories de loi de finances ? pourriez-vous me les définir ? (4 points).
 3. La mémoire me fait défaut, qu’est-ce que le principe d’universalité budgétaire ? (3 points)
@@ -38,7 +29,6 @@ Vous êtes l’assistant(e) parlementaire d’un député de La Réunion. En dé
 
 Étant assez surchargé en ce moment, je vous saurais gré de répondre dans l’ordre et de limiter vos réponses à 25 lignes maximum par question abordée.
 Dans l’attente de vos éclaircissements, veuillez agréer mes sincères salutations ».
-
 ###### 2021-2022 Session 2
 1) Les objectifs de la loi organique relative aux lois de finances (LOLF)
 2) La participation du Parlement à la préparation de la loi de finances initiale
@@ -46,13 +36,7 @@ Dans l’attente de vos éclaircissements, veuillez agréer mes sincères saluta
 4) La séparation des ordonnateurs et des comptables
 
 ###### 2020-2021 Session 1
-Depuis une semaine, vous êtes l’assistant(e) parlementaire d’un député de La Réunion.
-Connaissant votre érudition en finances publiques, il vous écrit le courriel suivant :
-« Bonjour,
-Saisi d’un intérêt soudain pour les finances publiques, je me permets de vous adresser
-quelques questions.
-- Pourriez-vous m’expliquer le volet performance mise en place par la LOLF ? (5
-points)
+- Pourriez-vous m’expliquer le volet performance mise en place par la LOLF ? (5 points)
 - Le Parlement participe-t-il à la préparation du budget ? (3 points)
 - La mémoire me fait défaut, pourriez-vous me citer les différentes catégories de lois
 de finances ? (2 points)
@@ -60,10 +44,6 @@ de finances ? (2 points)
 la loi de finances initiale ? (5 points)
 - Enfin, que pouvez-vous me dire sur la responsabilité des comptables publics et le
 jugement des comptes ? (5 points)
-
-Dans l’attente de vos éclaircissements, je vous prie d’agréer l’expression de mes sentiments
-les meilleurs ».
-
 ###### 2020-2021 Session 2
 1) Les ressources de l’État (6 points)
 2) Les sources constitutionnelles des finances publiques (4 points)

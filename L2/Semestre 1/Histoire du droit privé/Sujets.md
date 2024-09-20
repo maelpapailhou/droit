@@ -1,12 +1,12 @@
 #### 2023-2024 Session 1
-1. Qu’est-ce qui différencie la conception romaine du mariage de la conception germaine ? / 4
+1. [[Qu’est-ce qui différencie la conception romaine du mariage de la conception germaine ?]] / 4
 2. Comment évolue le sort des enfants naturels ? / 4
 3. Quel est le rôle de la jurisprudence dans la main-mise de l’État sur le mariage ? / 4
 4. Qu’est-ce que la fiducie ? / 4
 5. Que sont les vices du consentement ? / 4
 
 #### 2022-2023 Session 1
-1. Qu’est-ce qui distingue la puissance paternelle romaine de la puissance paternelle germaine ? / 4
+1. [[Qu’est-ce qui distingue la puissance paternelle romaine de la puissance paternelle germaine ?]] / 4
 2. Quels sont les éléments principaux du mariage chrétien ? / 4
 3. Quelles conceptions du mariage et de la famille sont mises en place par le Code Civil ? / 4
 4. Que sont les contrats réels ? / 4
