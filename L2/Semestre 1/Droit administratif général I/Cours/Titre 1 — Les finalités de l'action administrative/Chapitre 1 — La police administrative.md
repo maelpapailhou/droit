@@ -191,6 +191,7 @@ Quelle police est concernée ? Il faut se demander quelle est la finalité de l'
 
 Dans le premier arrêt, un policier est en faction devant un café tandis qu'un collègue entre pour appréhender un malfaiteur. Celui à l'extérieur voit quelqu'un sortir en courant et se lance à sa poursuite, sauf que la personne qui sortait n'était pas le malfaiteur. Quelle était la finalité de l'opération ? Devant quel juge la victime doit-elle se tourner ? Ici, il s'agissait de la police judiciaire, car cela entre dans la définition du Code de procédure pénale.
 
+[[TC, 7 juin 1956, Dame Noualek]]
 À l'inverse, pour l'opération de la "route bleue" avec les gendarmes effectuant des contrôles routiers, il s'agissait de la police administrative. Le but de l'opération était de faire de la prévention. Si un dommage est causé au cours de cette opération, ce sera le juge administratif qui sera compétent. Ce critère n'est cependant pas toujours évident à manipuler, car il est de nature psychologique.
 
 ###### 1) Opération de police visant une infraction éventuelle ou inexistante
@@ -213,7 +214,10 @@ Dans certains cas, il peut être difficile d'identifier à quel moment précis s
 [[TC, 12 juin 1978, Société le Profil]]
 Dans **TC, 12 juin 1978, Société le Profil**, un employé d'une société se fait voler des fonds alors qu'il était escorté par la police. Même si les policiers ont poursuivi les malfaiteurs, les fonds n'ont pas été retrouvés. Normalement, on aurait considéré qu'il s'agissait d'une opération de prévention (police administrative), mais le Tribunal des conflits a eu une lecture différente. Il a jugé que l'opération à l'origine du préjudice était essentiellement l'escorte policière mal organisée. Par conséquent, celui qui s'était fait dépouiller devait saisir le juge administratif.
 
-Cette solution a été confirmée par **TC, 23 janvier 2006, Epoux Girodie contre agent judiciaire du Trésor**. Dans cette affaire, des commerçants se sont fait cambrioler 11 fois en 12 ans, alors que leur commerce était situé à proximité d'un commissariat.
+Cette solution a été confirmée par **TC, 23 janvier 2006, Epoux Girodie contre agent judiciaire du Trésor**.
+
+[[TC, 23 janvier 2006, Époux Girodie contre Agent judiciaire du Trésor]]
+Dans cette affaire, des commerçants se sont fait cambrioler 11 fois en 12 ans, alors que leur commerce était situé à proximité d'un commissariat.
 
 [[TC, 19 octobre 1998, Mlle Veuve Laroche]]
 Dans **TC, 19 octobre 1998, Mlle Veuve Laroche**, un prévenu mis en examen pour meurtre a été remis en liberté sans protection, avant d'être assassiné. Cela a été imputé à la police administrative, car il relevait de celle-ci de préserver la sécurité des citoyens.
@@ -251,22 +255,29 @@ ABSENT
 ##### B) Impossibilité d'utiliser la technique contractuelle
 ###### A) La non-délégation
 
-Dans l'arrêt de 1932, **Ville de Castelnaudary**, il est acquis que l'autorité de police ne peut pas déléguer son pouvoir par le biais d'un contrat faisant naître des droits acquis au profit de son cocontractant. Il est donc impossible de s'engager sur l'utilisation du pouvoir public. Cette règle a une valeur constitutionnelle, confirmée par la décision 626-DC du 11 mars 2011. Le Conseil constitutionnel y énonce que "la délégation à une personne privée des compétences de police administrative générale, inhérente à l'exercice de la force publique nécessaire à la garantie des droits, est contraire à la Constitution". Cette décision, rendue à l'époque à propos de la loi d'orientation et de programmation sur la sécurité intérieure, a été réaffirmée en 2017. 
+[[CE ,1932, Ville de Castelnaudary]]
+Dans l'arrêt de 1932, **Ville de Castelnaudary**, il est acquis que l'autorité de police ne peut pas déléguer son pouvoir par le biais d'un contrat faisant naître des droits acquis au profit de son cocontractant. Il est donc impossible de s'engager sur l'utilisation du pouvoir public. Cette **règle a une valeur constitutionnelle**, confirmée par la décision 626-DC du 11 mars 2011. 
+
+[[CC, 11 mars 2011]]
+Le Conseil constitutionnel y énonce que "la délégation à une personne privée des compétences de police administrative générale, inhérente à l'exercice de la force publique nécessaire à la garantie des droits, est contraire à la Constitution". Cette décision, rendue à l'époque à propos de la loi d'orientation et de programmation sur la sécurité intérieure, a été réaffirmée en 2017. 
 
 Cette règle est même devenue un principe inhérent à l'identité constitutionnelle de la France, selon une décision du Conseil constitutionnel (2021-240 QPC du 15 octobre 2021, société Air France 2). 
 
-Le principe inhérent à l’identité constitutionnelle de la France impose une limite à l'Union européenne. En cas de conflit entre une norme française et une norme européenne, c’est généralement la norme européenne qui s'applique. Toutefois, il existe des exceptions, dont les principes inhérents à l’identité constitutionnelle de la France. Avant, cette catégorie existait sans contenu précis, mais cette décision marque un premier élément dégagé par le Conseil constitutionnel, permettant de poser une limite à la primauté des normes européennes.
+Le **principe inhérent à l’identité constitutionnelle** de la France impose une limite à l'Union européenne. En cas de conflit entre une norme française et une norme européenne, c’est généralement la norme européenne qui s'applique. Toutefois, il existe des exceptions, dont les principes inhérents à l’identité constitutionnelle de la France. Avant, cette catégorie existait sans contenu précis, mais cette décision marque un premier élément dégagé par le Conseil constitutionnel, permettant de poser une limite à la primauté des normes européennes.
 
 Cependant, la portée de ce principe est nuancée. Seules deux activités matérielles de police relèvent exclusivement de la compétence des autorités de police : la surveillance des personnes réacheminées et l'exercice de la contrainte sur ces personnes.
 
 Dans l'affaire Air France, la compagnie avait été sanctionnée pour ne pas avoir réacheminé dans leur pays d'origine deux étrangers expulsés. Le Code de l'entrée et du séjour des étrangers et du droit d'asile impose aux compagnies aériennes cette obligation. Le Conseil constitutionnel précise que seule la surveillance des personnes et l'exercice de la contrainte relèvent de la mission de police, mais le réacheminement lui-même n'est pas une mission de police.
 
+[[CE, 1er avril 1994, Commune de Menton]]
 Ce principe a été réaffirmé en 1994, lorsque le Conseil d'État a rappelé l'interdiction de déléguer le pouvoir de décision unilatérale. Dans l'arrêt du 1er avril 1994, **Commune de Menton**, portant sur le stationnement, cette interdiction a été appliquée. Aujourd'hui, cet arrêt est dépassé, car la question du stationnement n'est plus une question de police administrative, mais une question domaniale relevant des communes. Par exemple, avec les nouveaux forfaits post-stationnement (de 17 à 230 euros), il n'y a plus de procès-verbal, ce n'est plus une question de police administrative.
 
+[[CE, 29 décembre 1997, Commune d'Ostricourt]]
 Le Conseil d'État a ensuite étendu cette interdiction aux activités matérielles de police, qui doivent être confiées à des agents placés sous l'autorité hiérarchique de l'administration (arrêt du 29 décembre 1997, **Commune d'Ostricourt**). Cela vaut également pour les activités de police spéciale, comme le montre l'affaire de la **Fédération départementale des associations agréées de pêche de l'Ain**.
 
 ###### 2) La délégabilité partielle des tâches de police
 
+[[4 mars 1910, Thérond]] :
 Malgré ces interdictions, le contrat a quand même trouvé une place en matière de police, notamment pour les tâches matérielles d'exécution. Cela a été illustré par l'arrêt du 4 mars 1910, **Thérond**, où M. Thérond s'était vu confier par la ville de Montpellier la tâche de ramasser les cadavres de chiens et les chiens errants. Cette activité, participant à la salubrité et à l'hygiène publique, a été qualifiée de contrat administratif. Ainsi, certaines tâches matérielles d'exécution peuvent être déléguées par contrat.
 
 Aujourd'hui, les personnes privées se positionnent sur des prestations accessoires ou détachables de la mission principale. 
@@ -275,6 +286,7 @@ Exemples de missions détachables :
 - Les palpations de sécurité à l'entrée des manifestations, événements sportifs ou récréatifs.
 - Le transport de personnes retenues en centre de détention administrative, qui peut être délégué.
 
+[[CE, 21 juin 2000, SARL Plage "Chez Joseph"]]
 En plus de ces missions détachables, l'autorité de police peut imposer à une personne privée, dans le cadre de son activité, de veiller au maintien de l'ordre public. Cela a été illustré par l'arrêt du Conseil d'État du 21 juin 2000, **SARL Plage "Chez Joseph"**. Dans cette affaire, le concessionnaire de plage avait l'obligation de veiller à l'ordre public (par exemple, en assurant la présence de maîtres-nageurs sauveteurs) et de mettre en place des douches et des toilettes pour l'hygiène publique.
 
 La personne publique ne transfère pas son pouvoir de police aux concessionnaires. Cela a été confirmé par l'arrêt **Consorts Amaudruz**.
@@ -359,7 +371,7 @@ Il existe **trois degrés de contrôle juridictionnel** :
 
 En conclusion, une autorité de police, lorsqu'elle adopte une mesure, doit choisir la solution la moins attentatoire possible tout en protégeant l'ordre public. Le juge vérifie cette adéquation grâce au **contrôle de proportionnalité**.
 
-##### B ) L’extension exceptionnelle des pouvoirs de police en période de crise
+##### B) L’extension exceptionnelle des pouvoirs de police en période de crise
 Jusqu'en 1905, les services de police administrative étaient irresponsables, car on considérait que c'était une mission régalienne qui ne pouvait pas donner lieu à un engagement de responsabilité.
 
 L'arrêt **Tomaso Grecco** de 1905 a marqué un tournant. Dans cette affaire, le commissaire du gouvernement Romieu a proposé au Conseil d'État de reconnaître la responsabilité de l'État du fait des services de police, à la suite d'un tir ayant causé des dommages. Toutefois, à ce moment-là, la responsabilité de l'État n'était engagée qu'en cas de **faute lourde**. La victime devait démontrer que l'autorité de police avait commis une faute particulièrement grave, afin de laisser une certaine marge de manœuvre aux autorités.

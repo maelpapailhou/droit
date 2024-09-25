@@ -1,0 +1,32 @@
+**Dans quel cadre le Conseil constitutionnel a-t-il été saisi ?**
+Le Conseil constitutionnel a été saisi dans le cadre d'une **question prioritaire de constitutionnalité** (QPC) posée par la société Air France, via ses avocats, sur la conformité aux droits et libertés garantis par la Constitution des articles L. 213-4 et L. 625-7 du code de l'entrée et du séjour des étrangers et du droit d'asile. La saisine s’est faite par décision du Conseil d’État en date du 9 juillet 2021.
+
+**Quels sont les griefs soulevés par les requérants ?**
+Les requérants, c'est-à-dire la société Air France, ont soulevé plusieurs griefs :
+
+- L'obligation de réacheminement des étrangers non admis en France déléguée aux entreprises de transport serait une délégation à une personne privée de compétences relevant de la **force publique**, en violation de l'article 12 de la Déclaration des droits de l'Homme et du citoyen de 1789.
+- Cette obligation obligerait les entreprises à détenir des passagers contre leur gré, en méconnaissance de l'article 66 de la Constitution.
+- La responsabilité des entreprises de transport pourrait être engagée en raison du comportement du passager, ce qui méconnaîtrait l'article 9 de la Déclaration de 1789 (principe de responsabilité personnelle).
+- Cette obligation imposerait des **charges excessives** aux entreprises, violant ainsi l'article 13 de la Déclaration de 1789.
+- L'absence d'exceptions à l'obligation de réacheminement constituerait une **incompétence négative** du législateur.
+
+**Quelle était la question de droit qui était posée au Conseil constitutionnel ?**
+La question de droit posée au Conseil constitutionnel portait sur la **constitutionnalité des mots "est tenue de ramener"** figurant à l'article L. 213-4 du code de l'entrée et du séjour des étrangers et du droit d'asile, concernant l'obligation faite aux entreprises de transport de réacheminer les étrangers non admis sur le territoire français.
+
+**Quelle a été sa réponse ?**
+Le Conseil constitutionnel a jugé que les dispositions contestées sont conformes à la Constitution. Il a considéré que l'obligation faite aux entreprises de transport de réacheminer les passagers non admis en France n'implique pas une délégation des compétences de police administrative générale. Les entreprises ne sont pas tenues d'exercer une contrainte physique ou une surveillance, et des mesures de sécurité, telles que la possibilité pour le commandant de bord de débarquer un passager dangereux, restent en place. Les griefs soulevés ont donc été rejetés.
+
+**Quelle est la valeur juridique du principe selon lequel les missions de police ne peuvent faire l’objet d’une délégation à une personne privée ?**
+Ce principe est inscrit dans l'article 12 de la Déclaration des droits de l'Homme et du citoyen de 1789. Il constitue un **principe inhérent à l'identité constitutionnelle de la France**, ce qui signifie qu'il est protégé de manière stricte par la Constitution et ne peut être délégué à des personnes privées sans violer ce principe.
+
+**Comment pouvez-vous inscrire cette décision dans la jurisprudence portant sur la délégabilité des pouvoirs de police ? Précisez si la décision à commenter remet en cause la jurisprudence antérieure ?** 
+La décision à commenter s’inscrit dans une continuité jurisprudentielle qui repose sur le principe fondamental selon lequel les compétences de police administrative ne peuvent pas être déléguées à des personnes privées. L'arrêt **Ville de Castelnaudary** (1932) avait déjà affirmé cette impossibilité, établissant que l'autorité de police ne pouvait transférer ses prérogatives . De même, la décision du Conseil constitutionnel du 11 mars 2011 avait renforcé ce principe en précisant que la délégation de compétences de police administrative à des personnes privées était contraire à la Constitution." la délégation à une personne privée des compétences de police administrative générale, inhérente à l'exercice de la force publique nécessaire à la garantie des droits, est contraire à la Constitution"
+
+Cependant, la décision sur l’affaire Air France ne remet pas en cause la jurisprudence antérieure ; au contraire, elle la confirme et la précise. Elle insiste sur le fait que l'obligation de réacheminer des étrangers, imposée aux compagnies aériennes, ne constitue pas une mission de surveillance ou de contrainte, ce qui permet de distinguer les tâches qui peuvent être déléguées des prérogatives de police essentielles qui restent du ressort de l'État.
+
+**Quelle est la portée de cette décision :** 
+Concernant les limites de la délégation des compétences de police administrative, le Conseil constitutionnel réserve expressément à la personne publique certaines missions. Il souligne que la surveillance des personnes réacheminées et l'exercice de la contrainte sont des prérogatives qui doivent demeurer sous le contrôle direct des autorités de police. En ce sens, le Conseil constitutionnel affirme que le réacheminement, bien qu'il soit une obligation légale, ne constitue pas une mission de police au sens strict et peut être exécuté par des acteurs privés sans porter atteinte à l'ordre public.
+
+Les personnes privées ne sont pas totalement exclues de l’exercice de missions de police administrative, mais leur rôle est limité à des tâches spécifiques et accessoires, comme les palpations de sécurité ou le transport de personnes retenues. Ainsi, la jurisprudence reconnaît qu'il est possible de confier certaines fonctions matérielles à des personnes privées, tant que cela n'empiète pas sur les prérogatives essentielles de l'État.
+
+La décision concernant Air France n'est pas strictement limitée à cette seule affaire. Elle a une portée générale qui peut influencer d'autres situations où des obligations similaires sont imposées aux acteurs privés dans le cadre de la gestion de l'ordre public. Elle précise le cadre juridique dans lequel les compagnies aériennes et d'autres entités privées peuvent être amenées à intervenir sans pour autant dépasser les limites fixées par la Constitution. Par conséquent, cette décision pourrait avoir des implications dans des cas futurs où la question de la délégation des pouvoirs de police administrative se poserait à nouveau.

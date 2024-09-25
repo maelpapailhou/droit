@@ -74,7 +74,7 @@ Les impôts les plus importants sont :
 - **Taxe intérieure de consommation sur les produits énergétiques** (TICPE) : perçue sur l'essence, etc.
 
 ##### 2) Les principaux impôts de d'état
-###### 2.a) La TVA
+###### A) La TVA
 
 Invention française, instaurée par la loi du 10 avril 1954. Il s'agit d'un impôt général sur la consommation, directement facturé aux clients sur les biens consommés et les services utilisés sur le territoire français.
 
@@ -87,7 +87,7 @@ Voir tableau des taux de la TVA. Harmonisation des taux au niveau européen.
 
 Ces taux s'appliquent en métropole. Outre-mer et dans certains territoires, la TVA est réduite ou inexistante.
 
-###### 2.b) L'impôt sur le revenu
+###### B) L'impôt sur le revenu
 
 Invention anglaise, créé au XVIIIe siècle en Angleterre. En 1791, il arrive en France et sera réinstauré pendant la Première Guerre mondiale pour financer les dépenses de l'État.
 
@@ -119,11 +119,11 @@ Soit 7,62 % du revenu net imposable
 - Si votre foyer fiscal comporte plusieurs personnes, le calcul de l’impôt en tient compte pour fixer votre nombre de parts. C’est le _quotient familial_.
 - Ce mécanisme a un impact sur le **montant de votre impôt**. Il diminue notamment la charge fiscale pour les familles avec enfants.
 
-###### 2.c) L'impôt sur les sociétés
+###### C) L'impôt sur les sociétés
 
 25 % des bénéfices sont taxés. Il y a eu une baisse depuis 2018, où l'impôt était de 28 % jusqu'à 500 000 euros, puis de 33 %. Cet impôt existe depuis 1948.
 
-###### 2.d) TICPE
+###### D) TICPE
 
 La TICPE est un droit d'accise, un impôt indirect sur la vente ou l'utilisation de certains produits (alcool, tabac, énergie). Elle porte sur les produits pétroliers utilisés comme carburant ou combustible. Par exemple, pour l'essence sans plomb 95, environ 61 % du prix est constitué de taxes.
 

@@ -11,8 +11,31 @@ Un arrêté anti-coupure d'eau et anti-coupure d'électricité ne peut pas non p
 
 Le Conseil d’État rejette le recours de la Ligue française pour la défense des droits de l’homme et du citoyen contre un arrêté municipal interdisant les fouilles de poubelles
 
-- [[CE, Sect., 18 décembre 1959, Société « Les films Lutétia »]]
-- [[CE Ass., 27 octobre 1995, Commune de Morsang-sur-Orge, Lancé de nains]]
+[[CE, Sect., 18 décembre 1959, Société « Les films Lutétia »]]
+Cet arrêt de principe du Conseil d'État a admis que la moralité publique est une composante de l'ordre public, c'est-à-dire que pour protéger la moralité publique, on peut restreindre l'exercice de certaines libertés. 
+
+Le maire de la commune de Nice a interdit un certain nombre de films. En France, la police du cinéma est tenue par le ministre de la Culture, qui décide si les films peuvent être exploités en France. Une fois qu'un film est autorisé par le ministre, il peut être exploité partout en France sans qu'un maire puisse s'y opposer. Cependant, le maire de Nice a interdit la projection de certains films, et la société a attaqué l'arrêté. 
+
+Le Conseil d'État a expliqué ce que le maire peut faire dans ce cas de figure : 
+1) en cas de troubles sérieux (manifestations, émeutes, etc.), 
+2) si le film provoque un trouble de conscience (non plus un trouble extérieur ni matériel), car l'immoralité du film peut être particulièrement ressentie en raison de circonstances locales.
+
+[[CE Ass., 27 octobre 1995, Commune de Morsang-sur-Orge, Lancé de nains]]
+En première instance, la société obtient gain de cause, transposant la jurisprudence Lutetia, et comme il n'y a pas de trouble extérieur ou de danger pour la personne, l'arrêté est annulé. 
+
+Mais l'assemblée du contentieux va admettre la légalité de l'interdiction au nom du respect de la dignité de la personne humaine, même si le nain est consentant.
+
+Différence entre moralité publique et dignité humaine.
+
+[[CAA Douai, 29 décembre 2005, Commune de Waziers]]
+Un arrêté anti-coupure d'eau et anti-coupure d'électricité ne peut pas non plus trouver son fondement dans le respect de la dignité de la personne humaine. En revanche, lorsque le préfet accorde le concours de la force publique pour exécuter une décision de justice, c'est surtout le cas des expulsions, il doit adopter cette décision en tenant compte de ses conséquences au regard de la dignité humaine. Donc le préfet peut refuser d'expulser en se fondant sur le respect de la dignité de la personne humaine.
+
+La question est de savoir ce qui différencie les deux composantes de la dignité et de la moralité publique. En doctrine, certains se sont demandés si la moralité était une composante de la dignité ou inversement.
+
+[[CE, 16 avril 2015, Conseil d'État,  Société Grasse Boulange]]
+Il serait préférable d’avoir une police spéciale nationale pour ce genre de questions relatives à la dignité de la personne humaine. Un arrêt confirmant que la dignité appartient à la composante de l'ordre public est celui du 16 avril 2015, Conseil d'État, _Société Grasse Boulange_. Dans cette affaire, une boulangerie-pâtisserie proposait des pâtisseries représentant des personnages dans une situation obscène, et le maire avait interdit leur exposition. (N° 389372).
+
+Le Conseil d'État n'a pas suivi le maire, estimant que même si l'exposition de ces pâtisseries était de nature à choquer, elle ne constituait pas en elle-même une atteinte à la dignité humaine, donc il n’y avait pas de trouble à l'ordre public.
 
 [[CE, 12 novembre 1997, Association Communauté Tibétaine en France]]
 En conclusion sur la notion d'ordre public : Un exemple de ce que l'ordre public n'est pas : un arrêt célèbre du 12 novembre 1997, Conseil d'État, _Association Communauté Tibétaine en France_. Opposée à la politique chinoise au Tibet, cette association souhaitait manifester à l'occasion de la venue du président chinois en France. À Paris, le maire dispose de certains pouvoirs de police, mais ils relèvent principalement du préfet de police de Paris (spécifique à cette ville), qui a interdit la manifestation, en se fondant sur le fait qu'elle pourrait perturber les relations diplomatiques entre la France et la Chine. Le préfet ne s'est donc pas fondé sur un objectif d'ordre public, ce qui a conduit à l'annulation de l'interdiction.
@@ -24,19 +47,32 @@ Dans le premier arrêt, un policier est en faction devant un café tandis qu'un 
 
 À l'inverse, pour l'opération de la "route bleue" avec les gendarmes effectuant des contrôles routiers, il s'agissait de la police administrative. Le but de l'opération était de faire de la prévention. Si un dommage est causé au cours de cette opération, ce sera le juge administratif qui sera compétent. Ce critère n'est cependant pas toujours évident à manipuler, car il est de nature psychologique.
 
-- TC 7 juin 1951, Dame Noualek.
+[[TC, 7 juin 1956, Dame Noualek]]
+
+[[TC, 26 mars 1990, Devossel]]
+Cependant, cela reste une opération de police administrative lorsqu'un gardien de la paix effectue une simple ronde de surveillance, même s'il tire un coup de feu à l'occasion de cette ronde, car aucun élément ne permettait de penser que ce gardien participait à une opération de police judiciaire (**TC, 26 mars 1990, Devossel**).
+
+[[TC, 27 juin 1955, Dame Barbier]]
+Si des officiers sont en planque pour surprendre des malfaiteurs en flagrant délit, cela reste une opération de police judiciaire, même s'ils renoncent à leur projet et qu'il n'y a finalement pas d'infraction. Cela résume la décision du Tribunal des conflits du **27 juin 1955, Dame Barbier**.
+
 [[TC, 5 décembre 1977, Demoiselle Motsch]]
 Il s'agissait d'un barrage routier en vue de contrôles préventifs. Cependant, un automobiliste force le barrage, la police le poursuit et un policier tire un coup de feu, touchant une autostoppeuse assise sur le siège passager. À partir du moment où l'automobiliste a forcé le barrage, cela devient une infraction, donc l'opération est considérée comme une opération de police judiciaire.
 
 [[TC, 12 juin 1978, Société le Profil]]
 Dans **TC, 12 juin 1978, Société le Profil**, un employé d'une société se fait voler des fonds alors qu'il était escorté par la police. Même si les policiers ont poursuivi les malfaiteurs, les fonds n'ont pas été retrouvés. Normalement, on aurait considéré qu'il s'agissait d'une opération de prévention (police administrative), mais le Tribunal des conflits a eu une lecture différente. Il a jugé que l'opération à l'origine du préjudice était essentiellement l'escorte policière mal organisée. Par conséquent, celui qui s'était fait dépouiller devait saisir le juge administratif.
 
+[[TC, 23 janvier 2006, Époux Girodie contre Agent judiciaire du Trésor]]
 Cette solution a été confirmée par **TC, 23 janvier 2006, Epoux Girodie contre agent judiciaire du Trésor**. Dans cette affaire, des commerçants se sont fait cambrioler 11 fois en 12 ans, alors que leur commerce était situé à proximité d'un commissariat.
 
-TC 23 janvier 2006, Époux Girodie contre Agent judiciaire du Trésor 
+[[TC, 23 janvier 2006, Époux Girodie contre Agent judiciaire du Trésor]]
 Cette solution(société le profil) a été confirmée par **TC, 23 janvier 2006, Epoux Girodie contre agent judiciaire du Trésor**. Dans cette affaire, des commerçants se sont fait cambrioler 11 fois en 12 ans, alors que leur commerce était situé à proximité d'un commissariat.
 
-- [[CE, 24 juin 1960, Société Frampar]]
+[[TC, 19 octobre 1998, Mlle Veuve Laroche]]
+Dans **TC, 19 octobre 1998, Mlle Veuve Laroche**, un prévenu mis en examen pour meurtre a été remis en liberté sans protection, avant d'être assassiné. Cela a été imputé à la police administrative, car il relevait de celle-ci de préserver la sécurité des citoyens.
+
+[[CE, 24 juin 1960, Société Frampar]]
+La nature juridique affichée par l'auteur peut ne pas correspondre à la réalité que le juge va redécouvrir. Le juge peut requalifier une opération de police dont la nature juridique affichée ne correspond pas à la réalité. **Arrêt CE, 24 juin 1960, Société Franpar**. Pendant la Guerre d'Algérie, le préfet d'Alger a ordonné la saisie d'un journal en se fondant sur un article du Code d'instruction criminelle, afin de constater un délit contre la sûreté de l'État. Les journaux saisis ont été transmis au procureur de la République. En apparence, ce sont des mesures de police judiciaire. Sauf que la véritable intention du préfet était d'empêcher les habitants de lire le journal, ce qui semblait dangereux pour l'ordre public. C'est pourquoi tous les journaux ont été saisis et non uniquement certains. Le Conseil d'État a donc requalifié ces mesures en mesures de police administrative et les a annulées.
+
 - TC, 23 novembre 1956, trésor public contre Giry,
 - CE, 18 avril 1902, Commune de Néris-les-Bains,
 - CE 8 août 1919, Labonne
@@ -45,10 +81,9 @@ Cette solution(société le profil) a été confirmée par **TC, 23 janvier 2006
 CE Ass. 26 octobre 2011, Commune de Saint-Denis (req. n° 326492), Commune de Pennes-Mirabeau (req. n° 329904) et SFR (req. n° 341767 et 341768). 
 
 - CE Ass, 22 juin 1951, Daudignac
-- CE 1932, Ville de Castelnaudary
 - CE 1997, Commune d’Ostricourt
 
-[[CC, 15 10 2021, 2021-940 QPC, Société Air France II]]
+[[CC, 15 octobre 2021, QPC, Société Air France II]]
 Cette règle est même devenue un principe inhérent à l'identité constitutionnelle de la France, selon une décision du Conseil constitutionnel (2021-240 QPC du 15 octobre 2021, société Air France 2). 
 
 - CE, Sect., 23 octobre 1959, Doublet
@@ -72,20 +107,44 @@ Depuis lors, la jurisprudence a précisé les contours de la voie de fait. Elle 
 - CE, 28 juin 1918, Heyriès
 - CE 28 février 1919, Dames Dol et Laurent.
 - CE 10 février 1905, Tomaso Grecco
-### Autres du cours
+
+
+
+
 [[CE, 11 octobre 1957, Grigny]]
 Le Conseil constitutionnel a précisé que les mesures de police administrative, étant par essence prises dans le cadre des prérogatives de la puissance publique, relèvent du contentieux administratif. La compétence du juge administratif est fondée sur les principes fondamentaux reconnus par les lois de la République. **Numéro 86-22 du 23 janvier 1987, Décision du Conseil de la concurrence**. Le juge t pour tout le contentieux des opérations de police judiciaire, avec une exception : la réparation des dommages subis par les collaborateurs occasionnels des services publics, qui relève du juge administratif, même si le fait générateur du dommage est lié à une opération de police judiciaire (**CE, 11 octobre 1957, Grigny**).
 
-[[CE, 16 avril 2015, Conseil d'État,  Société Grasse Boulange]]
-Il serait préférable d’avoir une police spéciale nationale pour ce genre de questions relatives à la dignité de la personne humaine. Un arrêt confirmant que la dignité appartient à la composante de l'ordre public est celui du 16 avril 2015, Conseil d'État, _Société Grasse Boulange_. Dans cette affaire, une boulangerie-pâtisserie proposait des pâtisseries représentant des personnages dans une situation obscène, et le maire avait interdit leur exposition. (N° 389372).
 
-Le Conseil d'État n'a pas suivi le maire, estimant que même si l'exposition de ces pâtisseries était de nature à choquer, elle ne constituait pas en elle-même une atteinte à la dignité humaine, donc il n’y avait pas de trouble à l'ordre public.
 
-[[TC, 19 octobre 1998, Mlle Veuve Laroche]]
-Dans **TC, 19 octobre 1998, Mlle Veuve Laroche**, un prévenu mis en examen pour meurtre a été remis en liberté sans protection, avant d'être assassiné. Cela a été imputé à la police administrative, car il relevait de celle-ci de préserver la sécurité des citoyens.
+[[CE ,1932, Ville de Castelnaudary]]
+il est acquis que l'autorité de police ne peut **pas déléguer son pouvoir par le biais d'un contrat** faisant naître des droits acquis au profit de son cocontractant. Il est donc impossible de s'engager sur l'utilisation du pouvoir public. Cette **règle a une valeur constitutionnelle**, confirmée par la décision 626-DC du 11 mars 2011. 
 
-[[TC, 26 mars 1990, Devossel]]
-Cependant, cela reste une opération de police administrative lorsqu'un gardien de la paix effectue une simple ronde de surveillance, même s'il tire un coup de feu à l'occasion de cette ronde, car aucun élément ne permettait de penser que ce gardien participait à une opération de police judiciaire (**TC, 26 mars 1990, Devossel**).
+[[CC, 11 mars 2011]]
+Le Conseil constitutionnel y énonce que "**la délégation à une personne privée des compétences de police administrative générale, inhérente à l'exercice de la force publique nécessaire à la garantie des droits, est contraire à la Constitution**". Cette décision, rendue à l'époque à propos de la loi d'orientation et de programmation sur la sécurité intérieure, a été réaffirmée en 2017. 
 
-[[TC, 27 juin 1955, Dame Barbier]]
-Si des officiers sont en planque pour surprendre des malfaiteurs en flagrant délit, cela reste une opération de police judiciaire, même s'ils renoncent à leur projet et qu'il n'y a finalement pas d'infraction. Cela résume la décision du Tribunal des conflits du **27 juin 1955, Dame Barbier**.
+Cette règle est même devenue un principe inhérent à l'identité constitutionnelle de la France, selon une décision du Conseil constitutionnel (2021-240 QPC du 15 octobre 2021, société Air France 2). 
+
+[[CC, 15 octobre 2021, QPC, Société Air France II]]
+Cependant, la portée de ce principe est nuancée. Seules deux activités matérielles de police relèvent exclusivement de la compétence des autorités de police : la surveillance des personnes réacheminées et l'exercice de la contrainte sur ces personnes.
+
+Dans l'affaire Air France, la compagnie avait été sanctionnée pour ne pas avoir réacheminé dans leur pays d'origine deux étrangers expulsés. Le Code de l'entrée et du séjour des étrangers et du droit d'asile impose aux compagnies aériennes cette obligation. Le Conseil constitutionnel précise que seule la surveillance des personnes et l'exercice de la contrainte relèvent de la mission de police, mais le réacheminement lui-même n'est pas une mission de police.
+
+[[CE, 1er avril 1994, Commune de Menton]]
+Ce principe a été réaffirmé en 1994, lorsque le Conseil d'État a rappelé l'interdiction de déléguer le pouvoir de décision unilatérale. Dans l'arrêt du 1er avril 1994, **Commune de Menton**, portant sur le stationnement, cette interdiction a été appliquée. Aujourd'hui, cet arrêt est dépassé, car la question du stationnement n'est plus une question de police administrative, mais une question domaniale relevant des communes. Par exemple, avec les nouveaux forfaits post-stationnement (de 17 à 230 euros), il n'y a plus de procès-verbal, ce n'est plus une question de police administrative.
+
+[[4 mars 1910, Thérond]] : La délégabilité partielle des tâches de police**
+Malgré ces interdictions, le contrat a quand même trouvé une place en matière de police, notamment pour les tâches matérielles d'exécution. Cela a été illustré par l'arrêt du 4 mars 1910, **Thérond**, où M. Thérond s'était vu confier par la ville de Montpellier la tâche de ramasser les cadavres de chiens et les chiens errants. Cette activité, participant à la salubrité et à l'hygiène publique, a été qualifiée de contrat administratif. Ainsi, certaines tâches matérielles d'exécution peuvent être déléguées par contrat.
+
+Aujourd'hui, les personnes privées se positionnent sur des prestations accessoires ou détachables de la mission principale. 
+
+Exemples de missions détachables :
+- Les palpations de sécurité à l'entrée des manifestations, événements sportifs ou récréatifs.
+- Le transport de personnes retenues en centre de détention administrative, qui peut être délégué.
+
+[[CE, 21 juin 2000, SARL Plage "Chez Joseph"]]
+En plus de ces missions détachables, l'autorité de police peut imposer à une personne privée, dans le cadre de son activité, de veiller au maintien de l'ordre public. Cela a été illustré par l'arrêt du Conseil d'État du 21 juin 2000, **SARL Plage "Chez Joseph"**. Dans cette affaire, le concessionnaire de plage avait l'obligation de veiller à l'ordre public (par exemple, en assurant la présence de maîtres-nageurs sauveteurs) et de mettre en place des douches et des toilettes pour l'hygiène publique.
+
+La personne publique ne transfère pas son pouvoir de police aux concessionnaires. Cela a été confirmé par l'arrêt **Consorts Amaudruz**.
+
+[[CE, Consorts Amaudruz]]
+Dans l'arrêt **Consorts Amaudruz**, le Conseil d'État a affirmé que la délégation de pouvoir de police aux personnes privées est strictement encadrée. Cet arrêt rappelle que, bien que certaines missions accessoires puissent être confiées à des tiers, le pouvoir de police en tant que tel, notamment l'exercice de la force publique et les décisions unilatérales relatives à la sécurité publique, ne peut être transféré. Ainsi, même si des tâches matérielles peuvent être déléguées, l'autorité de police conserve la responsabilité ultime de la sécurité et de l'ordre public. Cette distinction est essentielle pour garantir que les prérogatives fondamentales de l'État en matière de sécurité ne soient pas compromises par des délégations inappropriées.

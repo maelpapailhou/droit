@@ -1,3 +1,12 @@
+Cet arrêt de principe du Conseil d'État a admis que la moralité publique est une composante de l'ordre public, c'est-à-dire que pour protéger la moralité publique, on peut restreindre l'exercice de certaines libertés. 
+
+Le maire de la commune de Nice a interdit un certain nombre de films. En France, la police du cinéma est tenue par le ministre de la Culture, qui décide si les films peuvent être exploités en France. Une fois qu'un film est autorisé par le ministre, il peut être exploité partout en France sans qu'un maire puisse s'y opposer. Cependant, le maire de Nice a interdit la projection de certains films, et la société a attaqué l'arrêté. 
+
+Le Conseil d'État a expliqué ce que le maire peut faire dans ce cas de figure : 
+1) en cas de troubles sérieux (manifestations, émeutes, etc.), 
+2) si le film provoque un trouble de conscience (non plus un trouble extérieur ni matériel), car l'immoralité du film peut être particulièrement ressentie en raison de circonstances locales.
+
+---
 #### QUELS SONT LES FAITS ?
 
 Le film “Le feu dans la peau” s’est vu délivré un certificat d’exploitation de la part de la police administrative spéciale compétente dans le domaine du cinéma : le ministre de la Culture.

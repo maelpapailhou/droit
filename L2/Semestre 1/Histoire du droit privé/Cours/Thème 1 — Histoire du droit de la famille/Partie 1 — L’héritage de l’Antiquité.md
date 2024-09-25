@@ -119,16 +119,15 @@ C’est une évolution qui se fait tardivement, surtout pour des raisons de succ
 
 À la fin du Ve et au début du VIe siècle, on voit apparaître cette lignée. À cette période, on commence à développer l’idée que la réalité biologique devrait avoir plus d’importance et de conséquences par rapport à la construction juridique.
 ### Section 2 : La famille germaine
-À partir du IIIe siècle, on observe une vaste migration des peuples, longtemps appelée « les invasions barbares ». Ces invasions aboutissent à une recomposition de l’organisation politique européenne. Lorsque l’Empire romain d’Occident disparaît, il est remplacé par des entités politiques que sont les royaumes germains, dits barbares. Ceux-ci vont procéder à la mise par écrit de leur droit ; il y a trois principaux codes :
+À partir du **IIIe siècle**, on observe une vaste migration des peuples, longtemps appelée « les invasions barbares ». Ces invasions aboutissent à une **recomposition de l’organisation politique européenne**. Lorsque l’Empire romain d’Occident disparaît, il est **remplacé par des entités politiques que sont les royaumes germains**, dits barbares. Ceux-ci vont procéder à la mise par écrit de leur droit ; il y a trois principaux codes :
 
 - **Le Code d’Euric pour les Wisigoths**
 - **Les Lois Composites pour les Burgondes**
 - **Les Lois Salique pour les Francs**
 
-Ces **coutumes** mises par écrit sont la seule source dont nous disposons pour connaître la réalité de la famille germanique. En ce qui concerne la famille germanique, il y a un grand pragmatisme ; ce qui compte, c’est la réalité biologique. Les règles de droit ne sont pas toujours respectées et ne sont pas bien définies.
+Ces **coutumes** mises par écrit sont la seule source dont nous disposons pour connaître la réalité de la famille germanique. En ce qui concerne la famille germanique, il y a un grand pragmatisme ; ce qui compte, c’est la **réalité biologique**. Les règles de droit ne sont pas toujours respectées et ne sont pas bien définies.
 
-D’autre part, le droit germanique est un droit ritualiste. Ce qui donne force juridique, ce n’est pas un apport de volonté, mais un rite de succession, généralement dans un ordre précis, qui crée le droit. Ainsi, le mariage germanique est différent du mariage romain et il existe une parenté étroite, mais aussi une parenté élargie (les alliés qui intègrent la famille).
-  
+D’autre part, **le droit germanique est un droit ritualiste**. Ce qui donne force juridique, ce n’est pas un apport de volonté, mais un **rite de succession**, généralement dans un ordre précis, **qui crée le droit**. Ainsi, le mariage germanique est différent du mariage romain et il existe une parenté étroite, mais aussi une parenté élargie (les alliés qui intègrent la famille).
 #### Paragraphe 1: le mariage germain
 C’est une période extrêmement **instable politiquement** ; il n’y a pas d’autorité centrale forte pour assurer la paix et la sécurité à l’échelle des royaumes. Ce sont les **familles germaniques qui assurent la paix sociale** ; le mariage est donc davantage une affaire de famille que d’individus.
 
@@ -150,7 +149,11 @@ Ce n’est qu’à l’issue de ces étapes que les époux sont juridiquement ma
 
 Il est possible et reconnu par la société qu’en l’absence de ce rituel, des situations peuvent apparaître comme un mariage. Il existe des concubinages stables qui s’apparentent à un mariage.
 
-**Le mariage germanique n’a pas les mêmes effets que le mariage romain**, car il donne naissance à une collaboration entre les époux. L’épouse n’est pas juridiquement incapable et peut donc être active juridiquement sans difficulté. De plus, il n’existe pas chez les Germains une aspiration du père, appelée « _mundium_ », qui est un droit de correction et une idée de protection. Il y a une alliance entre eux et, lorsque le mariage prend fin, l’épouse peut avoir droit à un tiers des biens acquis par les époux dans le cadre du mariage. Cette idée se retrouve au Moyen Âge dans le régime matrimonial communautaire et dans le régime matrimonial légal actuel.
+**Le mariage germanique n’a pas les mêmes effets que le mariage romain**, car il donne naissance à une collaboration entre les époux. 
+- L’épouse n’est pas juridiquement incapable et peut donc être active juridiquement sans difficulté. 
+- De plus, il n’existe pas chez les Germains une aspiration du père, appelée « _mundium_ », qui est un droit de correction et une idée de protection. 
+- Il y a une alliance entre eux et, lorsque le mariage prend fin, l’épouse peut avoir droit à un tiers des biens acquis par les époux dans le cadre du mariage. 
+- Cette idée se retrouve au Moyen Âge dans le régime matrimonial communautaire et dans le régime matrimonial légal actuel.
 
 **Le mariage germanique peut être rompu**, souvent par les familles lorsque les stratégies familiales évoluent. On se marie pour des raisons politiques ou sociales et on se démarie pour les mêmes raisons. Comme il se conclut par un rituel, il se rompt également par un rituel. Selon les coutumes, le mariage peut être rompu par les familles (divorce) ou par l’une des deux familles (répudiation). Cette rupture se fait par un rituel moins grandiose que le mariage ; l’épouse doit prendre les clés de la maison et les jeter pour symboliser le rejet du mariage et du mari, ou bien les deux parties doivent déchirer un linge devant la famille en public.
 #### Paragraphe 2 : La parenté germaine 
