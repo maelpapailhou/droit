@@ -1,1 +1,0 @@
-https://www.dalloz-actualite.fr/flash/consecration-du-premier-principe-inherent-l-identite-constitutionnelle-de-france

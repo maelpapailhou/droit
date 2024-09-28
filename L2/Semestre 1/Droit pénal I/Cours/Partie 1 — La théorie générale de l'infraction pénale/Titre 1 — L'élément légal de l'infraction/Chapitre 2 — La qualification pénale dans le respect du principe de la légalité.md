@@ -1,65 +1,110 @@
+La qualification pénale c’est le fait de mettre un texte incriminateur sur l’acte commis. Cette
+
+qualification va permettre de classer les faits dans une des catégories juridiques classés dans le code
+
+pénal. L’enjeu de la qualification juridique réside dans la détermination du régime juridique
+
+applicable. L’objet de la qualification est d’apprécier le caractère répréhensible des fats et ensuite de
+
+déterminer le régime juridique applicable.
+
 ### Section 1 : Les enjeux de la qualification
+On peut tout d’abord évoquer quelques exemples de qualifications pénales qui ont défrayé la
+
+chronique et étudier les difficultés qui se posent devant le juge lorsque les qualifications pénales
+
+multiplient se posent à lui « concours de qualification ».
+
+#### Paragraphe 1 : Exemples d’affaires ayant défrayer la chronique
+##### Affaire du sang contaminé
+Comment qualifier le comportement des médecins ? Des dirigeants du CNTS ? Et celui des ministres ?
+
+En première ligne, on trouve les médecins (auteurs de l'administration du sang non chauffé) et, en seconde ligne, les dirigeants et ministres qui ont donné les ordres. Sur la scène médiatique, ces derniers sont mis en avant.
+
+En matière de sang contaminé, deux qualifications pénales ont été envisagées :
+
+1. **L’empoisonnement** (visé à l'**article 241-5 du Code pénal**) : passible de 30 ans de réclusion criminelle.
+2. **L’administration de substances nuisibles** (prévue à l'**article 222-15 du Code pénal**) : passible de 15 ans de réclusion criminelle.
+
+L’empoisonnement se définit comme l’emploi d’une substance mortifère ; il s’agit d’une **infraction formelle** ou **infraction de moyens**. La mort n’est pas un élément constitutif de l’empoisonnement, qui relève de la qualification pénale de l’**attentat** (= tendre à).
+
+On distingue les **infractions formelles** des **infractions matérielles** en fonction du résultat. La qualification pénale pour le meurtre est « l’atteinte ». Le problème lié à l’empoisonnement s’est accentué sur la morale.
+
+Deux conceptions se sont affrontées :
+
+1. L’empoisonnement s’apparente au meurtre et nécessite de caractériser **une intention de tuer** (intention = conscience + volonté de tuer), aussi appelée **dol spécial**. Cette intention est définie par les auteurs comme l'**état d'esprit de vouloir tuer**.
+2. L’intention requise en matière d’empoisonnement correspond à la **conscience et la volonté d’administrer une substance mortifère**. Il s’agit alors d’un **dol général**, car il n’y a pas de résultat précis. **Le dol en matière pénale, c'est l’intention**.
+
+Le texte ne précise rien. Jusqu’aux années 1990, le crime d’empoisonnement n’avait pas soulevé de difficultés : la plupart du temps, les empoisonneurs avaient l’intention de tuer.
+
+Cependant, dans l’affaire du sang contaminé, il est incontestable que les médecins prescripteurs n’avaient pas l’intention de tuer les patients. En revanche, ils avaient l’intention d’administrer une substance susceptible de causer la mort. C’est la première affaire où une distinction nette est faite entre l’intention de tuer et l’intention d’administrer une substance susceptible de donner la mort.
+
+La jurisprudence en matière de sang contaminé a tenté d’éluder la question. Plusieurs décisions ont été rendues :
+
+- **TGI de Paris, 23 octobre 1992**, puis **CA de Paris, 13 juillet 1993** : rejet de la qualification pénale d’empoisonnement.
+- **Cass. crim., 22 juin 1994** : contre toute attente, la qualification retenue est celle du **délit de tromperie sur les qualités substantielles de la chose**. Il s’agit d’un vieux délit du 1er août 1905, souvent appelé **« délit d’épicier »**.
+
+La question s’est ensuite prolongée avec une autre affaire : celle d’une contamination volontaire par le VIH dans le cadre de relations sexuelles.
+
+La Cour de cassation a rendu un arrêt de la **Ch. crim., 2 juillet 1998**, dans lequel elle rejette la qualification pénale d’empoisonnement, soulignant que la seule connaissance du pouvoir mortel de la substance administrée ne suffit pas à caractériser l’intention homicide. Pour certains auteurs, la Cour de cassation s’est pourtant positionnée en faveur de l’empoisonnement.
+
+Dans un arrêt du **18 juin 2003**, la question de la complicité éventuelle des dirigeants du CNTS et des ministres a été examinée. La Cour de cassation a conclu que **« le crime d’empoisonnement ne peut être caractérisé que si l’auteur a agi avec l’intention de donner la mort »**.
+
+Ainsi, les médecins prescripteurs n’ayant pas cette intention, ils ne peuvent être considérés comme auteurs d’un empoisonnement. De ce fait, les ministres et les dirigeants du CNTS ne peuvent être complices d’un empoisonnement. La complicité pour le délit d’épicier n’existe pas.
+
+L’incrimination d’empoisonnement n’exige pas l’intention de tuer.
+##### Affaire de l'homicide involontaire du fœtus
+La problématique peut être élargie à la question de l’homicide volontaire du fœtus. Par exemple, une femme enceinte pourrait être impliquée dans un accident de la circulation et perdre son enfant, ou une personne pourrait porter des coups à une femme enceinte avec ou sans l’intention de tuer l’enfant.
+
+Les qualifications pénales visant les personnes s’appliquent à autrui. À partir de là, il n’y a pas d’homicide volontaire ou involontaire à l’encontre du fœtus ou de l’embryon.
+
+Dans un arrêt de la **Cass. crim., 30 juin 1999**, confirmé par l’**Assemblée plénière** de la Cour de cassation dans un arrêt du **27 juin 2001**, la Cour s’est fondée sur l'**article 111-4 du Code pénal**, qui prévoit l’interprétation stricte de la loi pénale.
+
+L’objectif était de ne pas remettre en cause la législation de 1975 (pérennisée en 1979) sur l’IVG. En effet, reconnaître une qualification pénale et une personnalité juridique au fœtus ou à l’embryon aurait pu bouleverser le cadre légal de l’avortement. Cependant, ils restent protégés pénalement.
+
+La **CEDH** a validé la position de la France avec un arrêt du **8 juillet 2004**, affirmant que la question du point de départ de la personnalité juridique relève de chaque État.
 
 #### Paragraphe 2 : Les concours d'infractions et de qualifications
+**Conflits de qualifications pénales en droit français**
+Dans la majorité des hypothèses, l’opération de qualification se solde par le choix d’un texte incriminateur, c’est ce qu’on appelle la « qualification unique ». Il se peut toutefois que plusieurs qualifications pénales puissent prétendre à s’appliquer. Le droit pénal français est construit autour d’un mythe, celui de l'« absence des conflits de normes ». En effet, le principe de légalité, posé à l’article 111-3 du Code pénal, oblige le législateur à définir précisément les incriminations. Par ailleurs, l’article 111-4 impose au juge d’interpréter strictement les textes pénaux.
+
+A priori, donc, il ne devrait pas y avoir de conflits possibles.
+
+Cependant, cette illusion théorique ne résiste pas à l’analyse : les concours de qualifications en droit interne ont toujours existé et augmentent même de façon significative.
+
+Il y a deux arguments à cela :
+
+**Multiplication des conflits de qualification pénale sous l’influence du législateur**
+
+Il existe une « mode contemporaine » consistant à créer de nouvelles incriminations au gré des revendications sociétales.
+
+**Exemple :** la qualification de **violences psychologiques** (article 222-14-3 du Code pénal et article 222-33-2-1), qui est l’un des grands tournants en matière de violences conjugales. Cette qualification peut sembler redondante par rapport à celle des **violences volontaires** ou encore par rapport à celle de **harcèlement moral**.
+
+**Exemple :** la création de la qualification pénale d'**agression sexuelle entre époux**, introduite par la loi du 4 avril 2006, dans l’article 222-22 alinéa 2 du Code pénal. Cette qualification est incontestablement en doublon avec l'**agression sexuelle de droit commun** à l'article 222-22 alinéa 1.
+
+**Exemple :** l'apparition de la qualification pénale de **bizutage**, introduite par la loi du 19 septembre 2000 et intégrée à l’article 225-5 du Code pénal.
+
+On peut légitimement s’interroger sur l’effectivité de ces dispositions, notamment lorsqu'il s'agit de doublons.
+
+L’intérêt de ces doublons répressifs est d’accroître la possibilité de réprimer en prévoyant une sanction plus importante ou en évitant une impunité. Par exemple, certains comportements peuvent être appréhendés via la complicité, mais il est nécessaire de vérifier les conditions de punissabilité de la complicité. D'où l’apparition de délits autonomes, comme le **délit de provocation au suicide**. En effet, le suicide n’est pas une infraction pénale et ne pouvait être appréhendé via la complicité, ce qui a conduit à la création d’un délit autonome.
+
+Cependant, dans la majorité des cas, ces doublons demeurent inutiles voire néfastes. Parfois, l’inventivité du législateur va jusqu’à créer des doublons ou des regroupements entre des circonstances aggravantes.
+
+**Exemple :** la qualification pénale de **meurtre** comprend deux **circonstances aggravantes** :
+
+1. La **particulière vulnérabilité de la victime** (encore faut-il que cette vulnérabilité soit apparente).
+2. La **minorité de la victime** (moins de 15 ans).
+
+**Multiplication des conflits de qualification pénale sous l’influence du juge**
+
+La multiplication des conflits de qualification pénale peut également découler de la jurisprudence. On observe parfois un phénomène d’interprétation extensive de la part du juge, au mépris du principe d’interprétation stricte de la loi pénale. Ces interprétations extensives sont à l’origine de conflits de qualifications, notamment avec des qualifications pénales anciennes comme le vol, qui entrent en concurrence avec des qualifications plus récentes, telles que celles en droit de la propriété intellectuelle.
+
+La question s’est posée dans un **arrêt de la Chambre criminelle du 4 mars 2008** : l’on voulait savoir si la qualification juridique de vol pouvait s’appliquer à une information. En effet, selon le Code pénal, le vol est défini comme « la soustraction frauduleuse de la chose d’autrui ». À l’origine, le vol ne s’appliquait qu’aux biens corporels, et non aux biens incorporels ou immatériels (comme les données). Dans un premier temps, les juges réprimaient le vol d’informations en retenant le **vol du support de l’information** (feuille, clé USB). Cependant, au fil du temps, les intéressés ne volaient plus le support matériel. Ainsi, la jurisprudence du 4 mars 2008 a fini par admettre le vol du **contenu informationnel**, sans référence au support. Cette position a été confirmée par un **arrêt de la Chambre criminelle du 20 mai 2015**. Certains auteurs ont alors affirmé que le juge avait **dématérialisé le vol**.
+
+On peut mettre cette évolution en parallèle avec celle de la qualification pénale de **l’abus de confiance**. À l’origine, l’abus de confiance visait uniquement les biens matériels. Mais progressivement, il s’est appliqué aux biens immatériels. Cependant, la **Cour de cassation, Chambre criminelle, dans un arrêt du 20 octobre 2004**, a considéré que l’abus de confiance ne pouvait pas s’appliquer à une prestation de services, puisqu’il n’y avait pas de remise matérielle de la prestation. De plus, la Cour a refusé d’appliquer l’abus de confiance au détournement d’une information. Certains auteurs ont alors estimé que la jurisprudence avait procédé à une **re-matérialisation de l’abus de confiance**.
 
 ---
-ABS
 
----
-Le législateur cède à la mode contemporaine qui consiste à créer une nouvelle infraction à chaque fois que...
-
-Exemple : la loi du 9 juillet 2010 (l'une des nombreuses lois qui s'occupent des violences au sein du couple) crée la qualification de violence psychologique, articles 222-14-3 et 222-33-2-1 du Code pénal. Cette qualification de violence psychologique est redondante avec celle plus générale de violence volontaire. Il a toujours été considéré que les violences volontaires n'étaient pas seulement physiques mais pouvaient aussi être psychologiques. Ils voulaient marquer les esprits en créant une qualification spécifique.
-
-Ces violences sont plus complexes à établir que les violences physiques. Les violences psychologiques étaient déjà prises en considération sous la qualification de harcèlement.
-
-Autre exemple : la qualification d'agression sexuelle (c'est-à-dire viol et autres) entre époux, créée par la loi du 4 avril 2006. On a créé un alinéa 2 à l'article 222-22, mais cette volonté du 4 avril 2006 n'a rien changé car les époux n'ont jamais été exclus du concept d'agression sexuelle. Même si historiquement, on considérait que le devoir conjugal obligeait aux relations sexuelles entre conjoints.
-
-La jurisprudence de 1990/1992 de la Cour de cassation est revenue sur ce principe : il n'y a pas d'obligation de relations sexuelles lorsqu'on n'en a pas envie, même si le devoir conjugal suppose des relations de temps en temps.
-
-Autre exemple : une ordonnance du 19 septembre 2000 a introduit une nouvelle qualification pénale, dite de "bizutage". Ce sont les dérives lors de soirées ou week-ends d'intégration dans les écoles qui ont poussé à cette décision. On voulait répondre à ce phénomène. Pourtant, ces comportements étaient déjà susceptibles d'être appréhendés. C'est donc surtout symbolique, car ces faits étaient déjà passibles d'autres qualifications.
-
-L'inceste dans le Code pénal est également une surqualification, car ce crime existait déjà. En termes de punissabilité, cela ne change rien.
-
-Ces qualifications sont des "doublons législatifs". Quel est l'intérêt d'incriminer une nouvelle fois ce qui est déjà incriminé ? Parfois, il y a un intérêt lorsque cela permet d'accroître la peine prévue. Dans des cas spécifiques, on peut vouloir renforcer la répression. Mais la plupart du temps, ces qualifications sont inutiles, voire néfastes, car on s'y perd. La multiplication des conflits de qualification peut aussi être à l'initiative du juge.
-
-Il existe un phénomène d'extension ou de rétrécissement du champ des qualifications pénales. Le problème, c'est que ce phénomène est aléatoire et inconstant.
-
-**Qualification pénale de vol :**
-L'article 311-1 du Code pénal définit le vol comme "la soustraction frauduleuse de la chose d'autrui".
-
-Peut-on soustraire des biens incorporels ? Pendant longtemps, la jurisprudence considérait qu'il y avait vol d'information seulement si le support était volé (exemple : vol d'une photocopie). Cette approche était artificielle car le support n'a aucune valeur en soi, et le voleur cessait parfois de voler le support (exemple : il prend en photo l'information ou la retient par mémoire). Assez vite, des stratégies de soustraction d'informations sans support sont apparues.
-
-Le 4 mars 2008, la Cour de cassation a admis le vol d'information sans support, c'est-à-dire du contenu informationnel. Le 20 mai 2015, la jurisprudence a dématérialisé le vol. Le vol s'applique désormais à des hypothèses où l'on pensait que cela ne pouvait pas s'appliquer.
-
-**Abus de confiance :**
-L'abus de confiance consiste à faire un usage détourné d'un bien qui vous a été remis. La question s'est posée de savoir s'il pouvait y avoir un abus de confiance portant sur une information, une connexion internet, ou un service.
-
-Un arrêt de la Cour de cassation du 20 octobre 2004 a décidé que l'abus de confiance ne pouvait pas porter sur un abus de service. C'est donc une rematérialisation de l'abus de confiance. D'un côté, on dématérialise le vol, et de l'autre, on rematérialise l'abus de confiance. La jurisprudence est parfois difficile à suivre.
-
-**Conflits de qualification :**
-Les conflits de qualification ne sont pas prêts de disparaître. Même s'il y a des efforts, la démarche préventive ne fera pas disparaître complètement ces conflits. Une démarche curative est également nécessaire.
-
-Il existe deux types de conflits en matière de droit pénal :
-1. **Concours réels d'infraction** (res = faits) : lorsqu'une personne commet plusieurs infractions à la suite sans qu'un jugement n'intervienne entre ces infractions.
-2. **Concours idéaux de qualification** : un même fait, un même comportement peut relever de plusieurs textes incriminateurs.
-
-Le Code pénal reste silencieux sur les concours idéaux de qualification, mais concernant les concours réels d'infraction, trois articles existent :
-- L'article 132-2 définit les concours réels d'infraction.
-- Les articles 132-3 et 132-4 définissent les règles applicables au concours réel d'infraction.
-
-En matière de concours (qu'il s'agisse d'infraction ou de qualification), la jurisprudence a été très active.
-
-**Résolution des conflits de qualification :**
-Face à un conflit de qualification pénale, le juge peut s'inspirer de deux adages, qui constituent les clés de la résolution des conflits de qualification :
-1. **"Non bis in idem"** : pas deux fois pour la même chose. Face à un conflit de qualification pénale, on devrait retenir une seule qualification exclusive.
-2. **"Tot delicta quot leges laesae"** : retenir autant de qualifications pénales que de lois violées.
-
-La jurisprudence a progressivement mis en place des règles pour résoudre les conflits en matière pénale, appuyée par la doctrine.
-
-**Qualifications alternatives :**
-Le concept de conflit de qualification exclut de notre champ d'étude les qualifications alternatives. Parfois, dans un procès, on hésite entre deux qualifications. Exemple : la qualification d'homicide intentionnel (avec conscience et volonté de tuer) et la qualification de violence volontaire entraînant la mort sans intention de la donner.
-
-Ces deux qualifications sont alternatives : c'est l'une ou l'autre. Soit la personne a eu l'intention de tuer, soit elle a juste voulu porter des coups volontairement. Le choix de l'une exclut l'autre. Face à des qualifications alternatives, la jurisprudence et la doctrine affirment qu'il convient de retenir la qualification la plus adaptée aux faits de l'espèce.
 ##### A) La résolution des concours d'infraction
 On parle de concours réels (=res = le fait, la chose). Ce sont des concours de faits. Il s'agit d'hypothèses d'actions multiples commises par le même auteur dès lors qu'aucune condamnation définitive n'est intervenue entre elles.
 ###### 1) Des lege lata

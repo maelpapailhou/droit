@@ -2,20 +2,81 @@ L'étude des sources de la matière pénale nous conduit tout d'abord à soulign
 ### Section 1 : la variété des sources
 La constitution de 1958 pose un principe de hiérarchisation des normes.
 #### Paragraphe 1 : Les traités internationaux et conventions internationales
-On les étudie en premier car ils ont une valeur supérieure aux lois internes. Arrêt Nicolo et arrêt Cassation 1975 Fabre. Ce principe vaut que la loi interne soit antérieure ou postérieure (théorie de la loi écran).
-[[CE, 20 octobre 1989, Nicolo]]
-[[Cass,  24 mai 1975, Jacques Vabre]]
+Les traités internationaux ont dès qu'ils ont été régulièrement ratifiés et à condition qu'ils jouissant d'une réciprocité ont une **autorité supérieure à celle des lois internes quand même elles seraient postérieures au traité** (Art 55 de la C) Principe consacré par la jurisprudence: CE, Arrêt Nicolo, 1989 et la Cass, Arrêt des sociétés Jacques Vabre, 1975.
 
-**Le droit supranational crée-t-il des infractions pénales ?**  
-Le droit supranational en matière pénale s'est beaucoup développé. Au niveau mondial, on a la DUDH de 1948, qui porte de nombreux principes comme le respect de la présomption d'innocence, etc. Mais elle n'a pas de force obligatoire. Le Pacte de New York sur les droits civils et politiques de 1966. Au niveau européen, on pense à la CEDH. Ces conventions internationales, même lorsqu'elles sont exécutoires en France, ne sont que très rarement sources de droit pénal. Sauf peut-être quand elles interviennent sur un type d'infraction spécifique, par exemple la convention internationale sur le terrorisme. Mais globalement, elles ne sont que très rarement une source d'incrimination pénale.
+> Art 55 cons
 
-Le droit pénal français interne ne saurait méconnaître complètement les conventions internationales. Par exemple, le juge répressif français doit écarter l'application d'un texte incriminateur de droit interne qui serait en contradiction avec une convention internationale. Mais il ne condamne pas sur le fondement de la CEDH, il peut refuser de condamner sur un texte contraire à la CEDH.
+CE Nicolo
 
-Par ailleurs, la Convention européenne des droits de l'homme va édicter des normes de comportement qui vont stimuler le droit pénal français. Enfin, le droit pénal français peut parfaitement reprendre une règle internationale et l'assortir d'une sanction pénale.
+CE Vabre
 
-En clair, les conventions internationales portent le plus souvent des règles de procédure qui vont inspirer le droit français. Ces conventions internationales portent assez peu de règles de fond, c'est-à-dire des incriminations. On y trouve plutôt le procès équitable, etc., mais peu de qualifications pénales dans les traités internationaux.
+Le droit supra-national s’est bcp développé ces dernières années mais forcé de constater qu’il est
 
-La Convention européenne des droits de l'homme et le contrôle de conventionnalité peuvent quand même avoir des impacts importants sur la procédure pénale et le droit pénal au fond.
+**assez pauvre en qualification pénale internationale**. Puisque **le droit pénal est classiquement**
+
+**perçu comme une émanation de la souveraineté nationale**.
+
+Au niveau mondial, on pense assez vite à la **Déclaration universelle des droits de l’Homme et du**
+
+**citoyen de 1848**. Sa principale caractéristique est de **ne pas avoir force exécutoire, c’est une**
+
+**conscience universelle donc pas de qualification pénale.**
+
+On pense aussi au **Pacte de New-York sur les droits civils et politiques de 1966** mais n’a **pas de**
+
+**qualification pénale.**
+
+Au niveau européen, on pense au Traité de Rome de 1956 (Communauté européenne) ici l’intention
+
+du texte est économique ou à la Convention européenne de Sauvegarde européenne des droits de
+
+l’Homme. En clair, **les conventions internationales même exécutoires en France ne sont que**
+
+**très rarement sources d’incrimination pénale**.
+
+En revanche, **elles peuvent influencer le droit pénale interne à la fois dans la définition des**
+
+**infractions mais aussi et surtout dans la conduite du procès pénale**.
+
+Exemple 1: en vertu de **l’article 8 de la CEDH** (droit relatif) concernant la vie privée et familiale, la
+
+Cedh a sanctionné la pratique française des écoutes téléphoniques avant 1991. Notamment
+
+l’exemple de l’arrêt Kruslin du 25 avril 1990 rendu par le Cedh. Finalement la loi française a été
+
+réformé par une loi
+
+Exemple 2: en vertu de **l’article 3 de la CEDH** sur la pratique de la torture et traitements
+
+inhumains ou dégradant (droit absolu). Un arrêt Tomasi VS France du 27 aout 1992 rendu par le
+
+Cedh sur la détention policière. La Cedh impose à la France de fournir une explication plausible sur
+
+l’origine des blessures qui peuvent être constater (= impact sur le procès pénal)
+
+**La loi du 15 juin 2000** prévoit que la condamnation de la France par la Cedh peut conduire au
+
+réexamen d’une condamnation d’une décision définitive en droit interne. Mais, la procédure
+
+spéciale de réexamen ne va être lancé que si la violation de la CEDH qui a été constaté conduit à
+
+faire perdre un doute sur la culpabilité de l’auteur. Dans le cas contraire, il n’y a pas de réexamen et
+
+donc, la cour de cassation opère un rôle de filtre.
+
+Historiquement, la violation de Cedh avait pour conséquence;
+
+1) **effet pécuniaire:** payer à l’intéressé une indemnisation
+
+2) **effet diplomatique:** l’État pouvait se sentir obliger de faire évoluer sa législation; => pas
+
+d’impact direct. Avec la loi du 15 juin 2000, une personne a été condamnation et recours devant
+
+la Cedh et si il y a violation on revient devant la Cass qui constate que la violation entraine un
+
+doute sur la culpabilité de l’intéressé et ce dernier va pour être rejuger en droit interne.
+
+
 
 **Impacts de la CEDH sur la procédure pénale française :**
 - **Article 8 de la CEDH (droit à la vie privée et familiale)** : affaire tranchée par la Cour européenne des droits de l'homme le 24 avril 1990, connue sous le nom de l'affaire Kruslin contre France, célèbre car elle a mis un coup d'arrêt aux écoutes téléphoniques françaises version artisanale. La CEDH a censuré la pratique des écoutes téléphoniques françaises comme constituant une ingérence dans la vie privée. Argumentaire de la Cour : aucun texte ne les prévoyait ou ne les réglementait. Juste un texte, l'article 81 du Code pénal, stipulait qu'on pouvait prendre les mesures nécessaires. La loi du 18 juillet 1991 a introduit 40 articles dans le Code pénal pour encadrer la pratique des écoutes téléphoniques.
@@ -33,34 +94,132 @@ In fine, les conventions internationales portent assez peu sur des incrimination
 
 1) **La coopération**
 Le droit français a commencé en matière pénale par la coopération entre États, avec l’UE qui a été le premier espace de discussion. La coopération peut se faire de deux manières différentes.
-- Initialement, elle a été au niveau européen une coopération qualifiée de coopération judiciaire pénale classique. Elle se caractérisait par sa lenteur et sa lourdeur. En clair, on passait par un canal diplomatique, par exemple, un diplomate français allait en Espagne pour faire avancer un dossier. S’il n’y avait pas de canal diplomatique : c'était l’autorité centrale. La convention d’extradition de 1957 permettait d’envisager l’extradition d’une personne, mais cela passait par des canaux diplomatiques, rien n’était automatique. 
-- Un autre exemple, à la même période, est la convention d’entraide de 1959. On passait par les ministères de la justice français, qui s’adressaient à leurs homologues pour voir si sur certains dossiers on pouvait avancer ensemble. C'était lourd et lent, car dans ces débuts de coopération, aucun délai n'était prévu. Et cette coopération n'était envisagée que pour les infractions les plus graves, avec des différences de perception entre États sur ce qui est grave ou non. Les choses se sont accélérées dans les années 1970, avec une coopération judiciaire dite améliorée. Les accords de Schengen ont marqué une coopération renforcée entre États membres. C’est également la convention de 1995 sur la simplification de l’extradition.
+- **Coopération judiciaire pénale classique :** Initialement, elle a été au niveau européen une coopération qualifiée de coopération judiciaire pénale classique. 
+	- Elle se caractérisait par sa lenteur et sa lourdeur. 
+	- En clair, on passait par un canal diplomatique, par exemple, un diplomate français allait en Espagne pour faire avancer un dossier. 
+	- S’il n’y avait pas de canal diplomatique : c'était l’autorité centrale. 
+	- La **convention d’extradition de 1957** permettait d’envisager l’extradition d’une personne, mais cela passait par des canaux diplomatiques, rien n’était automatique. 
+	- **Convention d’entraide de 1959**. 
+		- On passait par les ministères de la justice français, qui s’adressaient à leurs homologues pour voir si sur certains dossiers on pouvait avancer ensemble. 
+		- C'était lourd et lent, car dans ces débuts de coopération, aucun délai n'était prévu. 
+		- Et cette coopération n'était envisagée que pour les infractions les plus graves, avec des différences de perception entre États sur ce qui est grave ou non. 
+	- Les choses se sont accélérées dans les années 1970, avec une coopération judiciaire dite améliorée. 
+	- Les **accords de Schengen** ont marqué une coopération renforcée entre États membres. 
+	- C’est également la **convention de 1995 sur la simplification de l’extradition**.
 
 À terme, l’aboutissement de ce processus est le principe de reconnaissance mutuelle. Ce principe a été lancé au sein de l’Union européenne en 1998 sous la présidence britannique. Il fonctionne avec un espace pénal européen où les délais sont fluidifiés, etc. À partir de là, il n'y a plus un État requérant et un État requis comme au début de la coopération, mais plutôt un État émetteur d’une condamnation et un État exécutant. Par exemple, si quelqu’un est condamné, un autre État l’amène.
 
 Cette évolution est passée d’une coopération timide, prudente et méfiante à une coopération mutuelle, avec la création d'un parquet européen. Mais cela reste avant tout une question de procédure, on s’entend pour attraper les auteurs. On reste donc sur de la procédure lorsqu’on parle de coopération.
 
-2) Le deuxième niveau d'implication est l'harmonisation, c'est-à-dire le rapprochement des législations. C’est comme si, dans des domaines précis, on avait adopté des conventions. L'évolution a notamment été initiée par le Conseil de l'Europe, qui a permis des rapprochements, puis par l'UE elle-même. Des conventions du Conseil de l'Europe en matière de blanchiment, de corruption, fixent des minima requis pour les États. Le traité d'Amsterdam avait visé la matière pénale dans le cadre du troisième pilier de l’UE, puis par la suite, les traités qui ont suivi et notamment une décision importante de la CJCE ont fait en sorte de faire évoluer la répartition par piliers pour donner plus de compétences à l’UE en matière pénale. On a vu arriver des décisions-cadres plus impactantes en matière de terrorisme, des actions communes en matière de criminalité organisée, ou encore des décisions-cadres en matière de stupéfiants pour instaurer une dynamique commune. Cela concerne également des domaines comme la fraude, la contrefaçon, la traite humaine, etc.
+2) L'**harmonisation**, c'est-à-dire le **rapprochement des législations**. C’est comme si, dans des domaines précis, on avait adopté des conventions. L'évolution a notamment été initiée par le Conseil de l'Europe, qui a permis des rapprochements, puis par l'UE elle-même. Des conventions du Conseil de l'Europe en matière de blanchiment, de corruption, fixent des minima requis pour les États. Le traité d'Amsterdam avait visé la matière pénale dans le cadre du troisième pilier de l’UE, puis par la suite, les traités qui ont suivi et notamment une décision importante de la CJCE ont fait en sorte de faire évoluer la répartition par piliers pour donner plus de compétences à l’UE en matière pénale. On a vu arriver des décisions-cadres plus impactantes en matière de terrorisme, des actions communes en matière de criminalité organisée, ou encore des décisions-cadres en matière de stupéfiants pour instaurer une dynamique commune. Cela concerne également des domaines comme la fraude, la contrefaçon, la traite humaine, etc.
 
 3) Le troisième niveau est l’uniformité, une législation commune, voire une législation internationale. Peut-on avoir des juridictions pénales internationales ? Les juridictions pénales internationales sont historiquement de deux types : la Cour pénale internationale et le Tribunal international
 
-**Tribunal international (TBI) :**  
-- Classification : Les tribunaux internationaux (TBI) sont des juridictions supranationales créées ponctuellement pour traiter des situations spécifiques, avec des effets rétroactifs, ce qu'on appelle des tribunaux ad hoc. Ces juridictions ad hoc ont un champ de compétence limité. Leur force réside dans le fait qu'elles étaient soutenues par l’organisation des nations unies. C’est donc le conseil des nations unies qui décident quand on TBI est à instaurer.  
-- Champ d’application : Après la Seconde Guerre mondiale, plusieurs TBI ont été créés, comme ceux de Nuremberg et de Tokyo.. La faiblesse est l’application d’un cas par cas et donc il y a une certaine incertitude quand un TBI doit être mis en place.
+**Le stade de la coopération** au niveau de l’UE a progressivement évolué vers davantage
 
-**Cours pénal international (CPI)**  
-- Intro : Pour éviter le problème de l'application au cas par cas, la Cour pénale internationale, basée sur la Convention de Rome, a été mise en place. Il s’agit donc d’une cour permanente.  
-- Champ d’application : Ce champ d’application concerne les États qui ont accepté la compétence de la Cour pénale internationale. Ce champ fait référence aux États qui ont reconnu la compétence de la Cour pénale internationale. Cela se fait soit par la signature de la convention, soit par la décision de l'État de la respecter. Champ d’application materiel : Il englobe les crimes de guerre et les crimes contre la paix. Depuis l'origine de la convention, les crimes d'agression sont également inclus dans ce champ d'application. Pour définir les crimes d'agression, un compromis a été nécessaire entre les États. Lors de la Conférence de Kampala, une définition a été adoptée, qui est entrée en vigueur le 1er janvier 2018. Un crime d'agression est défini comme un acte commis par un dirigeant politique ou militaire, qui, en raison de sa nature, de sa gravité et de son ampleur, constitue une violation de la Charte des Nations Unies.  
-	- Il avait été proposé d'inclure le terrorisme dans le champ d'application de la CPI, mais cette proposition a été rejetée, notamment en raison des divergences profondes sur la définition même du terrorisme. 
-	- Les crimes de guerre, crime contre la paix et les crimes d’agressions sont englobés  
-- **Difficultés de fonctionnement:** Deux problématiques peuvent être identifier : 
-	- Révision des Constitutions : L'adhésion à la Cour pénale internationale (CPI) nécessite parfois une révision constitutionnelle pour permettre aux États de ratifier la convention. Cela a été le cas en France. Le Conseil constitutionnel s'est rapidement prononcé sur la possibilité pour la France de conclure un engagement international impliquant une juridiction pénale internationale. La question de la souveraineté nationale a été soulevée, et le Conseil constitutionnel a finalement validé que la France pouvait créer une juridiction pénale internationale, renonçant ainsi à une partie de sa souveraineté. Le Conseil a précisé que si une convention internationale à signer contenait une clause contraire à la Constitution, il faudrait d'abord modifier cette dernière. Tel était le cas pour l’art. 58 Cst. C'est ce qui a été fait en France en 2007, lorsqu'une révision constitutionnelle a été nécessaire pour permettre l'adhésion à la CPI. 
-	- Compétence constitutionnelle et subsidiaire : La deuxième difficulté réside dans le fait que la CPI est une cour permanente, mais sa compétence est à la fois constitutionnelle et subsidiaire. Cela signifie qu'un État peut décider de juger lui-même ses ressortissants, ce qui limiterait la compétence de la CPI. Si un État refuse de présenter un ressortissant devant la CPI, la cour n'a pas de pouvoir contraignant. Ce problème est du à la structure de fonctionnement de la CPI, qui est basé sur la coopération entre les états. Si un État décide de ne pas respecter le principe de coopération, il n'existe pratiquement aucun moyen de contrainte.
+d’intégration. Initialement, on a observé une coopération judiciaire classique, ce premier stade se
 
----
-ABS
+caractérise par sa lenteur et sa lourdeur. (Ex: la convention d’extradition de 1957 et là on passait
 
----
+par le canal diplomatique - Ex: la convention d’entraide de 1959 avec le canal du ministère de la
+
+justice)
+
+Ces coopérations étaient uniquement pour les infractions les plus graves et exigeaient une double
+
+incrimination. Dans ce type de coopération il n’y avait pas de délai prévu.
+
+À partir des 70’s a débuté **« la coopération judiciaire améliorée »**, on a simplifié les procédures
+
+et accéléré les traitements des normes (ex: les accords de Schengen en 1970)
+
+À terme, on espère **l’épanouissement d’un principe de reconnaissance mutuelle, cela signifie**
+
+**qu’au niveau européen un décision prise pas un état serait reconnue et exécutée dans un**
+
+**autre état.** Cela a notamment débuté en 1978 quand les britanniques était à la présidence de l’UE.
+
+L’exemple-type de traduction du principe de reconnaissance mutuelle est la qualification pénale
+
+dans **une décision cadre du 13 juin 2002.**
+
+!!!!! Entre le 1er et le 2e niveau on parle d’« État requérant » et « État requis » puis au 3e stade on
+
+parle d’« État d’émission » et d’« État d’exécution ». La coopération **aide à la qualification pénale**
+
+**mais n’en donne pas.**
+
+Les acteurs de la coopération étaient « les magistrats liaisons » rempl acés par « Eurogistre » et à
+
+terme elle sera parfaite lorsqu’il aura « un Parquet européen ».
+
+
+**Le stade de la coopération** au niveau de l’UE a progressivement évolué vers davantage
+
+d’intégration. Initialement, on a observé une coopération judiciaire classique, ce premier stade se
+
+caractérise par sa lenteur et sa lourdeur. (Ex: la convention d’extradition de 1957 et là on passait
+
+par le canal diplomatique - Ex: la convention d’entraide de 1959 avec le canal du ministère de la
+
+justice)
+
+Ces coopérations étaient uniquement pour les infractions les plus graves et exigeaient une double
+
+incrimination. Dans ce type de coopération il n’y avait pas de délai prévu.
+
+À partir des 70’s a débuté **« la coopération judiciaire améliorée »**, on a simplifié les procédures
+
+et accéléré les traitements des normes (ex: les accords de Schengen en 1970)
+
+À terme, on espère **l’épanouissement d’un principe de reconnaissance mutuelle, cela signifie**
+
+**qu’au niveau européen un décision prise pas un état serait reconnue et exécutée dans un**
+
+**autre état.** Cela a notamment débuté en 1978 quand les britanniques était à la présidence de l’UE.
+
+L’exemple-type de traduction du principe de reconnaissance mutuelle est la qualification pénale
+
+dans **une décision cadre du 13 juin 2002.**
+
+!!!!! Entre le 1er et le 2e niveau on parle d’« État requérant » et « État requis » puis au 3e stade on
+
+parle d’« État d’émission » et d’« État d’exécution ». La coopération **aide à la qualification pénale**
+
+**mais n’en donne pas.**
+
+Les acteurs de la coopération étaient « les magistrats liaisons » rempl acés par « Eurogistre » et à
+
+terme elle sera parfaite lorsqu’il aura « un Parquet européen ».
+
+**Le 3e niveau est celui de l’unification et on parle de « droit pénal international ».**
+
+Historiquement, on a d’abord créer des juridictions pénales internationales avant d’adopter
+
+véritablement des qualifications pénales internationales.
+
+• **Conseil de sécurité des Nations unis** qui ont crée des **tribunaux pénaux spéciaux appelée les**
+
+**TPI.** Ces tribunaux présentent un caractère **exceptionnel, ponctuel, ad hoc** (l’occasion), **et vont**
+
+**avoir une compétence rétroactive.** L’objectif est de remédier à un conflit local et évidemment on
+
+songe d’abord **au tribunal de Nuremberg, tribunal international de Tokyo ou le TPI pour l’ex-**
+
+**Yougoslavie ou encore pour le Rwanda = « crimes de guerres » et « crimes contre**
+
+**l’humanité »**
+
+**La convention de Rome du 17 juillet 1998:** elle va crée la Cour pénale internationale (CPI) ici c’est une juridiction permanente qui est conventionnellement établie. La compétence de la cour pénale internationale s’étend aux crimes contre l’humanité, aux crimes de guerres mais également des crimes dit « d’agressions ». Dès l’origine cette compétence était prévue mais l’accord des états sur la définition même « du crime d’agression » a pris des années. Ce n’est que lors de la révision de la convention de Rome en mai/juin 2010 qu’une définition de « crime d’agression » va être entériné. Le « crime d’agression » s’entend du crime commis par un dirigent politique ou militaire qui en raison de sa nature, de sa gravité ou de son ampleur constitue une violation de la charge. Et cette définition n’est opérationnelle que depuis le 1er janvier 2017. À l’origine, l’idée avait été émise d’inclure le terrorisme mais cette idée a été abandonné..
+
+La CPI est saisi dans 6 domaines principaux; événements en République démocratie du Congo, l'Ouganda, la République centre-africaine, le Soudan , le Kenya et plus récemment l'Ossétie du Sud.
+
+Les principales critiques faites à la CPI sont; la lenteur des procédures.
+
+**Affaire du 8 juin 2018**, relative au procès de Mr Jean-pierre Belmar ancien vice-président de la République du Congo, il a été soudainement acquitté parce qu’il n’était pas présentant à Bangui au moment des faits.
+
+**La CPI semble avoir un « avenir incertain ».** Certains états menacent de quitter la CPI, comme es USA ou la Russie.
+
 Le contrôle de la légalité des lois et des règlements est un contrôle qui appartient essentiellement au Conseil constitutionnel. Question de savoir si le texte incriminateur respecte la Constitution. Article 61, compétence exclusive du Conseil constitutionnel.
 
 Le contrôle se fait depuis toujours a priori, mais peut aussi se faire depuis les QPC a posteriori. Le juge pénal peut également inviter un contrôle en laissant passer une QPC.
@@ -200,9 +359,20 @@ Enjeu : hypothèse des infractions complexes qui vont se consommer à plusieurs 
 
 Dans le même esprit, l'article 113-5 permet à la France d'être compétente (juridiction + loi) pour statuer sur des actes de complicité commis en France d'une infraction réalisée à l'étranger.
 
-Réputée = fiction juridique, pas vraie, mais on fait comme si c'était le cas.
+Réputée = fiction juridique, pas vraie, mais on fait comme si c'était le cas.Le principe de territorialité est un principe entendu de manière « tentaculaire ». Cependant, ce principe connaît divers tempéraments, qui sont érigés au rang d’autres principes.
 
----
-COURS MANQUANT 2H
+**1re exception : « Une réduction de l'étendue des compétences des juridictions françaises »** : Les chefs d’État étrangers en voyage en France ainsi que les diplomates accrédités en France bénéficient d’une immunité diplomatique, ce qui leur permet d’échapper à la loi pénale française, même s'ils ont commis des infractions en France.
 
----
+Dans l’arrêt **Cass. crim., 15 décembre 2015, « Biens mal acquis »**, des procédures pénales ont été lancées contre trois chefs d’État étrangers en exercice : ceux du Gabon, du Congo Brazzaville et de la Guinée équatoriale. Les poursuites sont dirigées contre certaines personnes de leur entourage. La justice s'est intéressée à l'accusation d'un patrimoine immobilier colossal en France. À l'origine, il y a eu une plainte de l'ONG Transparency International et de l'association Sherpa, avec de nombreuses qualifications pénales visées, notamment recel de détournement de fonds publics, recel d'abus de biens sociaux, et blanchiment d'argent. L’affaire concerne notamment M. Teodoro N'Guema Obiang Mangue, vice-président de la République de Guinée équatoriale et fils du président en exercice. Mis en examen le 18 mars 2014, il possédait un patrimoine incluant des objets d'art, des voitures de luxe et un hôtel particulier de 101 pièces, estimé à 150 millions d'euros. Il sera condamné par le tribunal correctionnel de Paris le 27 octobre 2017 à trois ans de prison avec sursis, 30 millions d’euros d’amende, ainsi que la confiscation de ses biens mobiliers et immobiliers.
+
+Cette affaire est intéressante car elle reprend l'affaire Kadhafi. Les faits se sont déroulés en 1993 dans l'attentat contre le DC-10 ; il existe des **« immunités personnelles »**, dont bénéficient tous les représentants des États, les empêchant d'être poursuivis avant et pendant l’exercice de leur fonction. L’intérêt de cette affaire est que l’intéressé espérait bénéficier de cette immunité personnelle, mais il n’avait pas la qualité requise. À l'expiration des mandats des intéressés, des poursuites deviennent possibles, mais l’immunité qui s’appliquera alors est **une immunité dite « fonctionnelle » ou « matérielle »**. C'est **une règle coutumière internationale**, et des travaux ont été lancés pour la codifier. Il s'agit de la seule exception au principe de territorialité.
+
+**2e exception visant à « étendre les compétences des juridictions françaises » :** Cette exception résulte de **coopérations entre États**, qui peuvent permettre d’étendre la compétence de notre droit pénal en dehors du territoire national, **en dérogation au principe de territorialité**. On l’appelle **« compétence conventionnelle »**.
+
+**3e exception visant à « étendre les compétences des juridictions françaises » :** Les infractions de nature criminelle et délictuelle commises à l’étranger par un Français relèvent de la compétence des juridictions françaises, en vertu de **l’article 113-6 du Code pénal**. En matière délictuelle, il faut que **le fait incriminé soit également puni par la législation de l’État dans lequel il a été commis**. Il faut également que l’affaire n'ait pas été définitivement jugée à l’étranger. L’idée est que **la France n’extrade pas ses nationaux** ; c’est ce qu'on appelle le **« principe de personnalité active »**.
+
+**4e exception à la territorialité visant à « étendre les compétences des juridictions françaises » :** Il s'agit du principe de **« personnalité passive »**. Les infractions commises à l’étranger par un étranger échappent en principe à la compétence des juridictions françaises, sauf si la victime est de nationalité française (**article 113-1-8 du Code pénal**). Cette règle ne vaut cependant que si l’infraction est un crime ou un délit puni d’emprisonnement. Les poursuites en France ne peuvent avoir lieu que si l’affaire n’a pas été définitivement jugée à l’étranger.
+
+**5e exception visant à « étendre les compétences des juridictions françaises » :** Les infractions commises à l’étranger par des étrangers, mais contre des intérêts français, déclenchent la compétence des juridictions françaises (**article 113-10 du Code pénal**). C’est ce qu’on appelle la **« compétence réelle »**. Qu’est-ce qu'un **« intérêt français »** ? Cela peut être des intérêts économiques, écologiques, etc. L’article du Code pénal ne vise pas l’exigence de réciprocité d’incrimination.
+
+Ainsi, **la compétence du juge français** peut s’appuyer tantôt sur **le principe de territorialité**, tantôt sur **le principe de personnalité**, plus rarement sur **le principe de compétence réelle**, et éventuellement sur **le principe de compétence conventionnelle**, selon les relations avec les autres États.

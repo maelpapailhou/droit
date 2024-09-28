@@ -1,0 +1,1 @@
+Le droit de la concurrence fait partie du bloc de légalité, donc il s’impose à l’administration.

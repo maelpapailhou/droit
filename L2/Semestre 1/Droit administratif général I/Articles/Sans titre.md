@@ -1,0 +1,1 @@
+n appelle cela les "faux-nez" de l'administration. (Voir l'article de Stéphanie Damary à ce sujet.https://www.courrierdesmaires.fr/article/les-collectivites-s-arretent-au-milieu-du-gue-dans-le-suivi-de-leurs-subventions-aux-associations.25522

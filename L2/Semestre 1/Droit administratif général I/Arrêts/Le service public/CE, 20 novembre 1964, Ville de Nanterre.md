@@ -1,0 +1,7 @@
+Cette condition, érigée dans l'arrêt CE **Nevers**, a évolué au fil du temps vers un assouplissement.
+
+Dans un premier temps, cette condition a été complétée par une appréciation de la carence sur un plan qualitatif et quantitatif (CE, 20 novembre 1964, **Ville de Nanterre**) : la création d’un cabinet dentaire municipal a été jugée légale car il a été démontré qu'il existait un équipement hospitalier insuffisant, un nombre insuffisant de praticiens privés, et que les tarifs pratiqués par ces praticiens étaient supérieurs aux tarifs de la sécurité sociale. Par conséquent, une partie de la population n’avait pas accès à des soins dentaires.
+
+Dans ce cas, il ne s’agissait pas de dire, comme dans l'arrêt **Casanova**, qu'il y avait un manque de praticiens ou qu'ils étaient trop chers. Ainsi, la question de la carence et celle du besoin insatisfait ont été assouplies.
+
+Ensuite, c’est l'objet de l’activité qui a été élargi. Dans l'arrêt **Casanova**, il s'agissait d'une activité médicale. Puis, dans l'arrêt **Chambre syndicale de Nevers**, on aborde le secteur alimentaire, notamment durant l’entre-deux-guerres. Progressivement, d'autres besoins que ceux jugés essentiels sont pris en compte. Par exemple, la création d’un camping municipal a été validée dans l'arrêt **1964 Commune de Verville**.

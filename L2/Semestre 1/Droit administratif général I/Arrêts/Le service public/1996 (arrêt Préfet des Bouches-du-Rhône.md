@@ -1,0 +1,2 @@
+'élément financier : la rémunération du concessionnaire est substantiellement liée aux résultats de l'exploitation. 
+	Cela résulte d'un [[1996 (arrêt Préfet des Bouches-du-Rhône]]. Le Conseil d'État a renforcé ce point en 2008 avec l'arrêt **Département de la Vendée** : le concessionnaire doit supporter une part significative du risque de la concession.

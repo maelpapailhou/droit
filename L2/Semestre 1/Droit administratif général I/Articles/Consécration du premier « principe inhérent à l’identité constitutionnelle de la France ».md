@@ -1,0 +1,1 @@
+Le Conseil constitutionnel juge conforme à la Constitution l’obligation pour les transporteurs aériens de réacheminer un ressortissant étranger dont l’entrée en France a été refusée, et consacre à cette occasion le premier principe inhérent à l’identité constitutionnelle de la France.

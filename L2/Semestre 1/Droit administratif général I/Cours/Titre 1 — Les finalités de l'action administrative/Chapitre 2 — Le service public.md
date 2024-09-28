@@ -4,7 +4,15 @@ Deux dimensions :
 
 - **Politique** : C'est un instrument de cohésion sociale (écoles, hôpitaux, etc.). Un objectif déjà souligné par Duguit à l'époque : l'accomplissement des missions de service public est indispensable à la réalisation et au développement de ce qu'il appelait "l'interdépendance sociale". Cela a évolué vers ce que l'on a appelé la conception française du service public, car chez nous, il est porteur de valeurs importantes, notamment d'égalité (sociale, territoriale, etc.).
 
-- **Juridique** : Cette notion est utilisée par la Constitution, par la loi, le règlement où l'on retrouve le terme de service public dans différents textes, mais dans aucun de ces textes on ne trouve de définition précise. Plusieurs théories de définition existent en doctrine. Par exemple, pour Didier Truchet, le service public est un "label", une "étiquette" que les pouvoirs publics vont accoler à certaines activités, ou que le juge va utiliser dans un certain nombre d'espèces. Dans un article de Truchet (1982, JDA), il affirme que "le service public est avant tout un label". Pour le doyen Vedel, le service public est une notion fonctionnelle, c'est-à-dire une notion définie par sa fonction essentiellement. Malgré tout, une définition reste possible pour Gaston Jèze : pour lui, le service public est une définition subjective. Selon lui, les services publics sont des besoins d'intérêt général que les gouvernants d'un pays donné, à un moment donné, ont décidé de satisfaire par le procédé du service public. Cette conception subjective peut encore être présente dans la jurisprudence, car le juge va rechercher l'intention du législateur de faire de l'activité une activité de service public. D'autre part, lorsque ce n'est pas le législateur, le juge recherche la volonté de l'autorité créatrice de considérer l'activité comme une activité de service public.
+- **Juridique** : Cette notion est utilisée par la Constitution, par la loi, le règlement où l'on retrouve le terme de service public dans différents textes, mais dans aucun de ces textes on ne trouve de définition précise. Plusieurs théories de définition existent en doctrine. 
+
+Par exemple, pour Didier Truchet, le service public est un "label", une "étiquette" que les pouvoirs publics vont accoler à certaines activités, ou que le juge va utiliser dans un certain nombre d'espèces. 
+
+Dans un article de Truchet (1982, JDA), il affirme que "le service public est avant tout un label". 
+
+Pour le doyen Vedel, le service public est une notion fonctionnelle, c'est-à-dire une notion définie par sa fonction essentiellement. 
+
+Malgré tout, une définition reste possible pour Gaston Jèze : pour lui, le service public est une définition subjective. Selon lui, les services publics sont des besoins d'intérêt général que les gouvernants d'un pays donné, à un moment donné, ont décidé de satisfaire par le procédé du service public. Cette conception subjective peut encore être présente dans la jurisprudence, car le juge va rechercher l'intention du législateur de faire de l'activité une activité de service public. D'autre part, lorsque ce n'est pas le législateur, le juge recherche la volonté de l'autorité créatrice de considérer l'activité comme une activité de service public.
 ### Section 1 : la notion de service public
 Le **service public** est la pierre angulaire du droit administratif. La notion de service public emporte avec elle des conséquences importantes tant sur l'application du droit administratif que sur la compétence du juge administratif.
 
@@ -25,7 +33,10 @@ La distribution de prestations est l'objet classique du service public. Il peut 
 
 Mais le service public passe également par une activité de réglementation. Celle-ci est traditionnellement une activité de police. Pour certains auteurs, la police est un service public. Plusieurs arrêts, comme **Moupeur**, **Bouguain**, et **Magnier**, témoignent du fait que l'acte de service public peut également passer par l'édiction d'actes juridiques. Dans toutes ces affaires, il s'agit de personnes morales de droit privé, souvent des organisations professionnelles ou des éléments de structuration de certaines professions (agriculteurs, producteurs de viande, céréales, etc.).
 
-Les personnes morales de droit privé (ordres professionnels, fédérations sportives, ordre des médecins) sont considérées comme gérant une mission de service public. Parce qu'elles gèrent une mission de service public, elles peuvent adopter des actes administratifs qui pourront être attaqués par voie de recours pour excès de pouvoir devant le juge administratif. L'arrêt **Caisse primaire "Aide et protection"** a reconnu pour la première fois qu'une personne privée pouvait gérer un service public administratif. Ainsi, le service public passe aussi par l'édiction d'actes juridiques.
+Les personnes morales de droit privé (ordres professionnels, fédérations sportives, ordre des médecins) sont considérées comme gérant une mission de service public. Parce qu'elles gèrent une mission de service public, elles peuvent adopter des actes administratifs qui pourront être attaqués par voie de recours pour excès de pouvoir devant le juge administratif. 
+
+[[CE Ass., 13 mai 1938, Caisse primaire Aide et Protection]]
+L'arrêt **Caisse primaire "Aide et protection"** a reconnu pour la première fois qu'une personne privée pouvait gérer un service public administratif. Ainsi, le service public passe aussi par l'édiction d'actes juridiques.
 ###### 2) Le but d'intérêt général
 L'intérêt général est défini par les pouvoirs politiques, par le juge et par les mœurs de l'époque. C'est donc une notion évolutive, extensible, mais pas à l'infini, il y a toujours une limite quelque part.
 
@@ -44,7 +55,7 @@ Après la Seconde Guerre mondiale, on assiste à une extension du champ des acti
 [[TC, 22 janvier 1955, Naliato]]
 Inaugure une catégorie très éphémère : les services publics sociaux. La IVe République, dans son préambule, consacre de nouveaux droits (économiques et sociaux), tels que le droit de grève, la santé, le logement, l'emploi, et le droit aux loisirs. Ainsi, les activités de vacances deviennent un service public.
 
-Le **TC, 20 novembre 1961, Eugène Marquis** admet également que la création d'un terrain de camping municipal est un service public. L'arrêt de 1966 **Commune de Royan** qualifie même un casino municipal de service public. En réalité, toute activité humaine est susceptible d'être exercée sous la forme d'un service public.
+Le [[TC, 20 novembre 1961, Eugène Marquis]] admet également que la création d'un terrain de camping municipal est un service public. L'arrêt de [[1966, Commune de Royan]] qualifie même un casino municipal de service public. En réalité, toute activité humaine est susceptible d'être exercée sous la forme d'un service public.
 
 ##### B) Le critère organique : la prise en charge par la personne publique
 Il est nécessaire qu'une personne publique soit à l'origine de la création d'une activité de service public. Cependant, la personne publique n'est pas toujours chargée de l'exécution du service public.
@@ -56,7 +67,7 @@ Pour qu'il y ait service public, il faut nécessairement que la personne publiqu
 ###### 1) Une dépendance nécessaire
 
 [[CE Ass, 20 décembre 1935, Établissements Vézia]]
-Le rattachement d'une activité d'intérêt général à une personne publique est nécessaire pour qu'il y ait service public. **CE Ass, 20 décembre 1935, Établissements Vézia**. Ce rattachement se manifeste au niveau de la création, de l'organisation ou de la suppression.
+Le rattachement d'une activité d'intérêt général à une personne publique est nécessaire pour qu'il y ait service public. Ce rattachement se manifeste au niveau de la création, de l'organisation ou de la suppression.
 
 L'État, les collectivités territoriales et les établissements publics peuvent créer un service public. La seule restriction pour les établissements publics est qu'ils ont un objet social défini et doivent le respecter. Ce rattachement peut se manifester soit dans une loi, soit dans un décret du président ou du premier ministre, ou encore dans une délibération des organes délibérants. On peut également trouver trace du rattachement dans le contrat qui confie l'activité à un tiers. 
 
@@ -71,21 +82,37 @@ Cette intensité varie selon que la personne publique est soit créatrice et ges
 ###### 2.a) La gestion du service public par une personne publique
 Trois hypothèses :
 
-- **La régie simple** : Terme utilisé lorsque la personne publique gère et crée des régies (ex. : la RATP). Le service public est géré par la personne publique qui en est à l'origine. Elle doit donc utiliser ses propres moyens humains, financiers et matériels. Par exemple, l'Éducation nationale gère en régie le service de l'enseignement primaire, secondaire, etc.
+- **La régie simple** : 
+	- Terme utilisé lorsque la personne publique gère et crée des régies (ex. : la RATP). 
+	- Le **service public est géré par la personne publique qui en est à l'origine**. 
+	- Elle doit donc utiliser ses propres moyens humains, financiers et matériels. 
+	- *Par exemple, l'Éducation nationale gère en régie le service de l'enseignement primaire, secondaire, etc.*
 
-- **La gestion en régie directe** : Implique l'intervention d'un régisseur, souvent une personne privée, à qui est confiée par contrat la gestion quotidienne du service public, mais la personne publique conserve la responsabilité générale du service.
-    - **Régimes autonomes** : Fait référence à un organisme individualisé qui ne dispose pas de la personnalité morale, mais qui bénéficie d'une autonomie financière. Cet organisme est intégré à la collectivité qui l'a créé. Il ne s'agit pas d'un organisme séparé. Ses recettes et ses dépenses font l'objet d'un budget annexe à celui de la collectivité.
-    - **Régie personnalisée** : Organisme individualisé doté de l'autonomie financière et de la personnalité morale. Ce sont des établissements publics locaux, comme Tisséo (métro à Toulouse).
+- **La gestion en régie directe** :
+	- Implique l'intervention d'un régisseur, souvent une personne privée, à qui est **confiée par contrat la gestion quotidienne du service public**, mais la personne publique conserve la responsabilité générale du service.
+	
+    - **Régimes autonomes** : 
+	    - Fait référence à un organisme individualisé qui ne dispose **pas de la personnalité morale, mais qui bénéficie d'une autonomie financière**. 
+	    - Cet organisme est intégré à la collectivité qui l'a créé. Il ne s'agit pas d'un organisme séparé. 
+	    - Ses recettes et ses dépenses font l'objet d'un budget annexe à celui de la collectivité.
+    - **Régie personnalisée** : 
+	    - Organisme individualisé **doté de l'autonomie financière et de la personnalité morale**. 
+	    - *Ce sont des établissements publics locaux, comme Tisséo (métro à Toulouse)*.
 
-- **Organisme dédié** : Lorsque la personne publique crée un organisme dédié, appelé également opérateur "in-house" ou "quasi-régie". Il s'agit d'une formule par laquelle la personne publique crée un organisme individualisé, donc une personne morale distincte, mais considérée comme un prolongement administratif de la personne publique, sous deux conditions :
-    1. La personne publique doit contrôler la personne morale de façon analogue à la manière dont elle se contrôle elle-même.
-    2. La personne morale doit réaliser pour la collectivité l'essentiel de ses prestations (critère de l'essentialité des prestations).
+- **Organisme dédié** : 
+	- Lorsque la personne publique crée un organisme dédié, appelé également opérateur "in-house" ou "quasi-régie". Il s'agit d'une formule par laquelle la personne publique crée un organisme individualisé, donc une **personne morale distincte**, mais considérée comme **un prolongement administratif de la personne publique**, sous deux conditions :
+	    1. La **personne publique doit contrôler la personne morale** de façon analogue à la manière dont elle se contrôle elle-même.
+	    2. La **personne morale doit réaliser pour la collectivité l'essentiel de ses prestations** (critère de l'essentialité des prestations).
 
 Certaines missions peuvent ainsi être réalisées en échappant à certaines règles de la fonction publique. Les collectivités ayant de nombreuses missions à accomplir cherchent des outils souples et efficaces, sur lesquels elles conservent le contrôle. À un moment donné, la technique consistant à choisir un opérateur pour réaliser certaines missions est devenue complexe en raison de l'obligation de mettre en concurrence les opérateurs.
 
-Quand la personne publique veut faire réaliser des repas, un bâtiment, ou acheter une prestation, elle doit mettre en concurrence les opérateurs et choisir le mieux-disant. Cela a un coût en termes de temps et d'argent. Cependant, dans certains cas, il n'est pas nécessaire de mettre en concurrence, car l'organisme réalisant la mission est presque un élément de la structure. Il y a deux règles à respecter pour ne pas mettre en concurrence : - Le contrôle de la personne morale doit être similaire à celui exercé sur ses propres services. - La personne morale doit réaliser l'essentiel des prestations pour la collectivité qui la contrôle (et non pour d'autres).
+Quand la personne publique veut faire réaliser des repas, un bâtiment, ou acheter une prestation, elle **doit mettre en concurrence les opérateurs et choisir le mieux-disant**. Cela a un coût en termes de temps et d'argent. Cependant, dans certains cas, il n'est pas nécessaire de mettre en concurrence, car l'organisme réalisant la mission est presque un élément de la structure. 
 
-Le 28 mai 2010, le Parlement a adopté à l'unanimité une loi créant les sociétés publiques locales, dont les quatre articles répondent à ces critères.
+Il y a **deux règles à respecter pour ne pas mettre en concurrence** : 
+1. Le contrôle de la personne morale doit être similaire à celui exercé sur ses propres services.
+2. La personne morale doit **réaliser l'essentiel des prestations pour la collectivité qui la contrôle** (et non pour d'autres).
+
+Le 28 mai 2010, le Parlement a adopté à l'unanimité une loi créant **les sociétés publiques locales**, dont les quatre articles répondent à ces critères.
 
 Arrêt **CE, 1999, Teckal**.
 
@@ -94,12 +121,10 @@ Arrêt **CE, 1999, Teckal**.
 On parle d'une **dépendance atténuée** : le lien avec la personne publique est limité aux règles qui intéressent l'organisation fondamentale du service public. La personne publique s'occupe de cette organisation de base, et la personne privée ne peut pas gérer le reste. Le fonctionnement quotidien va renouveler les règles privées de la régie privée. La personne publique contrôle la gestion, mais sans la même intensité de contrôle.
 
 L’intérêt pour la personne publique de recourir à ce type de délégation est double :
-
 1. Se décharger de la gestion quotidienne
 2. Faire financer la construction des infrastructures nécessaires par un tiers.
 
 Lorsque la gestion est réalisée par une personne privée, on distingue deux schémas :
-
 1. Un schéma de principe
 2. Un schéma exceptionnel.
 
@@ -108,20 +133,30 @@ Lorsque le principe est une **activité de marché**, c'est-à-dire lorsque le t
 **1er contrat : La concession de service public**
 Elle figure à l'article L121-1 du Code de la commande publique. "Les concessions sont des contrats par lesquels... est transféré un risque d'exploitation de l'ouvrage ou du service". Le concessionnaire prend un risque économique. Par exemple, le parking du CHU est une concession.
 
-Au niveau local, la concession de service public peut prendre la forme d'une délégation de service public. Trois éléments cumulatifs permettent d'identifier une délégation de service public :
-
+Au niveau local, **la concession de service public** peut prendre la forme d'une **délégation de service public**. Trois **éléments cumulatifs** permettent d'identifier une **délégation de service public** :
 1. L'instrument juridique : il faut une convention,
 2. L'objet de la convention,
-3. L'élément financier : la rémunération du concessionnaire est substantiellement liée aux résultats de l'exploitation. Cela résulte d'un arrêt de 1996 (arrêt Préfet des Bouches-du-Rhône). Le Conseil d'État a renforcé ce point en 2008 avec l'arrêt **Département de la Vendée** : le concessionnaire doit supporter une part significative du risque de la concession.
+3. L'élément financier : la rémunération du concessionnaire est substantiellement liée aux résultats de l'exploitation. 
+	Cela résulte d'un [[1996 (arrêt Préfet des Bouches-du-Rhône]]. Le Conseil d'État a renforcé ce point en 2008 avec l'arrêt **Département de la Vendée** : le concessionnaire doit supporter une part significative du risque de la concession.
 
 **2ème contrat : Le marché de service public**
-Le marché est une autre technique pour confier la gestion d'un service public. Il figure à l'article L1111-1 du Code de la commande publique. Il s'agit d'un contrat à titre onéreux, conclu entre un ou plusieurs pouvoirs adjudicateurs et un ou plusieurs opérateurs économiques pour répondre à des besoins en matière de travaux. Ce contrat de marché est comparable à des contrats de vente de droit privé.
+Le marché est une autre technique pour confier la gestion d'un service public. 
+- Il figure à l'article L1111-1 du Code de la commande publique. 
+- Il s'agit d'un **contrat à titre onéreux**, conclu entre un ou plusieurs pouvoirs adjudicateurs et un ou plusieurs opérateurs économiques pour répondre à des besoins en matière de travaux. 
+- Ce contrat de marché est **comparable à des contrats de vente de droit privé**.
 
 **Quelles sont les différences entre la concession et le marché ?**
-Dans le marché, la différence se situe au niveau de l'origine des ressources. Le titulaire du marché reçoit un prix. Le concessionnaire, quant à lui, se rémunère sur les redevances payées par les usagers. Le titulaire d'un marché reçoit un prix qui ne dépend pas des résultats d'exploitation, donc il ne prend pas de risques économiques. Le prix est calculé à l'avance et est versé à l'entrepreneur, qui ne prend donc pas de risques économiques.
+Dans le marché, la différence se situe au niveau de l'origine des ressources. 
+- Le titulaire du marché reçoit un prix. 
+- Le concessionnaire, quant à lui, se rémunère sur les redevances payées par les usagers. 
+- Le titulaire d'un marché reçoit un prix qui ne dépend pas des résultats d'exploitation, donc il ne prend pas de risques économiques. 
+- Le prix est calculé à l'avance et est versé à l'entrepreneur, qui ne prend donc pas de risques économiques.
 ###### 3) Le marché de partenariat qui figure à l'article L1112-1 CCP.
-Les exceptions : on peut procéder à une délégation unilatérale, donc sans contrat, lorsque l'opérateur n'est pas sur un marché concurrentiel. **Arrêt CE, Section, 6 avril 2007, Commune d'Aix-en-Provence** : une association organise un festival d'art lyrique. Pour identifier une délégation unilatérale, le juge administratif va prendre en considération la composition de l'organisme, le mode de désignation des dirigeants, s'il y a un pouvoir sur les actes, des aides financières, et si l'organisme a reçu des prérogatives de puissance publique. L'habilitation peut être prévue par la loi, qui confie de façon unilatérale certains services publics à certaines sociétés, par exemple à la télévision. Il n'y a donc pas de contrat mais une dévolution unilatérale.
+Les exceptions : on peut procéder à une délégation unilatérale, donc sans contrat, lorsque l'opérateur n'est pas sur un marché concurrentiel. 
 
+[[CE, Section, 6 avril 2007, Commune d'Aix-en-Provence]] : une association organise un festival d'art lyrique. Pour identifier une délégation unilatérale, le juge administratif va prendre en considération la composition de l'organisme, le mode de désignation des dirigeants, s'il y a un pouvoir sur les actes, des aides financières, et si l'organisme a reçu des prérogatives de puissance publique. L'habilitation peut être prévue par la loi, qui confie de façon unilatérale certains services publics à certaines sociétés, par exemple à la télévision. Il n'y a donc pas de contrat mais une dévolution unilatérale.
+
+[[CE, sect., 28 juin 1963, Narcy]]
 Cette dévolution peut être prévue par un acte unilatéral d'une collectivité publique, comme Aix-en-Provence. L'habilitation peut également être implicite, comme dans l'**arrêt du 28 juin 1963, Narcy**.
 
 Ainsi, la délégation peut résulter :
@@ -159,13 +194,14 @@ Le juge va alors examiner certains critères pour déterminer si c'est un servic
 
 Le problème est que l'octroi de prérogatives de puissance publique est symétrique. En général, s'il y a octroi, on arrive à la qualification de service public. Mais en l'absence de telles prérogatives, cela entraîne-t-il automatiquement la disqualification du service public ? Le Conseil d'État a déclaré que même sans prérogatives de puissance publique, on peut tout de même être face à un service public.
 
+[[CE, sect., 28 juin 1963, Narcy]]
 Dans l'**arrêt Narcy de 1963**, l'octroi de prérogatives de puissance publique était un élément déterminant. Il s'agissait de déterminer si des centres techniques industriels, institués par la loi dans le but de promouvoir le progrès des techniques, constituaient un service public. Ces centres, créés par la loi, disposaient d'un monopole (élément exorbitant) et pouvaient percevoir des cotisations auprès de tous leurs membres. Les membres de ces centres étaient nommés par des ministres. De plus, un commissaire du gouvernement assistait aux séances et disposait d'un droit de veto. Dans l'arrêt Narcy, il existait donc un régime exorbitant, tel que le droit exclusif de disposer d'un monopole. Le régime exorbitant peut également se manifester par l'obligation de respecter certaines contraintes (voir l'arrêt **Société SARL Chez Joseph**).
 
 Lorsque des prérogatives de puissance publique sont octroyées, il y a une forte présomption de service public. Mais même en l'absence de telles prérogatives, on peut quand même être face à un service public.
 
 Cela se manifeste dans certaines hypothèses circonscrites :
 
-- **Cas des associations transparentes** : **arrêt du 20 juillet 1990, Ville de Melun, CE**. Les associations transparentes sont techniquement des associations, c'est-à-dire des personnes morales de droit privé, mais où les liens avec la personne publique sont très forts. En effet, les membres du bureau sont des élus ou désignés par la municipalité, les ressources proviennent de subventions municipales, et il y a un contrôle de l'activité (fixation d'objectifs). Le juge a estimé que ces associations étaient en réalité des démembrements non assumés de la personne publique. Leur autonomie est fictive, car les ressources proviennent principalement de la municipalité et les membres sont issus de celle-ci. L'autonomie juridique existe sur le papier, mais pas en réalité. Le Conseil d'État sanctionne cette pratique en requalifiant les actes en actes administratifs, engageant ainsi la responsabilité administrative. On appelle cela les "faux-nez" de l'administration. (Voir l'article de Stéphanie Damary à ce sujet.)
+- **Cas des associations transparentes** :[[CE, 20 juill. 1990, Ville de Melun]]. Les associations transparentes sont techniquement des associations, c'est-à-dire des personnes morales de droit privé, mais où les liens avec la personne publique sont très forts. En effet, les membres du bureau sont des élus ou désignés par la municipalité, les ressources proviennent de subventions municipales, et il y a un contrôle de l'activité (fixation d'objectifs). Le juge a estimé que ces associations étaient en réalité des démembrements non assumés de la personne publique. Leur autonomie est fictive, car les ressources proviennent principalement de la municipalité et les membres sont issus de celle-ci. L'autonomie juridique existe sur le papier, mais pas en réalité. Le Conseil d'État sanctionne cette pratique en requalifiant les actes en actes administratifs, engageant ainsi la responsabilité administrative. On appelle cela les "faux-nez" de l'administration. (Voir l'article de Stéphanie Damary à ce sujet.)
 - Même sans prérogatives de puissance publique, **arrêt de section du 22 février 2007, Association du personnel relevant...**. Le Conseil d'État précise qu'un organisme privé peut être considéré comme chargé d'un service public, eu égard à l'intérêt général de son activité, aux conditions de sa création, de son organisation ou de son fonctionnement, aux obligations qui lui sont imposées, ainsi qu'aux mesures prises pour s'assurer que les objectifs assignés sont atteints. Il apparaît que l'administration a voulu lui confier une telle mission. Cet arrêt a fait beaucoup de bruit, car il concernait un service public sans prérogatives de puissance publique. Certains ont parlé de la "mort" du critère matériel, tandis que d'autres considèrent que cet arrêt relativise l'importance des prérogatives de puissance publique. Il peut donc exister un régime exorbitant en dehors des prérogatives de puissance publique. Le régime dérogatoire ne se confond pas nécessairement avec les prérogatives de puissance publique.
 
 #### Paragraphe 2 : Distinction entre service public administratif et service public industriel et commercial
@@ -305,3 +341,169 @@ Cette condition a connu une grande évolution. Initialement, dans l'arrêt CE 19
 Par la suite, dans l'arrêt CE 1930 _Chambre syndicale du commerce en détail de Nevers_, la création d'un magasin d'alimentation municipal (une supérette) a été attaquée. Le CE a assoupli sa position et a posé une condition de légalité : pour que la création soit légale, il faut justifier d'un besoin insatisfait des habitants résultant de la carence de l’initiative privée.
 
 Progressivement, toute l'évolution de cette notion va tendre vers un assouplissement de la condition relative à la carence de l'initiative privée.
+
+Le principe pour l’usager c’est compétence judiciaire passé entre le SPIC et l’usager, c’est une relation contractuelle. Par exception c’est le juge administratif. 
+
+Cette condition, érigée dans l'arrêt CE **Nevers**, a évolué au fil du temps vers un assouplissement
+.
+[[CE, 20 novembre 1964, Ville de Nanterre]]
+Dans un premier temps, cette condition a été complétée par une appréciation de la carence sur un plan qualitatif et quantitatif (CE, 20 novembre 1964, **Ville de Nanterre**) : la création d’un cabinet dentaire municipal a été jugée légale car il a été démontré qu'il existait un équipement hospitalier insuffisant, un nombre insuffisant de praticiens privés, et que les tarifs pratiqués par ces praticiens étaient supérieurs aux tarifs de la sécurité sociale. Par conséquent, une partie de la population n’avait pas accès à des soins dentaires.
+
+Dans ce cas, il ne s’agissait pas de dire, comme dans l'arrêt **Casanova**, qu'il y avait un manque de praticiens ou qu'ils étaient trop chers. Ainsi, la question de la carence et celle du besoin insatisfait ont été assouplies.
+
+Ensuite, c’est l'objet de l’activité qui a été élargi. Dans l'arrêt **Casanova**, il s'agissait d'une activité médicale. 
+
+[[Chambre syndicale de Nevers]]
+Puis, dans l'arrêt **Chambre syndicale de Nevers**, on aborde le secteur alimentaire, notamment durant l’entre-deux-guerres. Progressivement, d'autres besoins que ceux jugés essentiels sont pris en compte. Par exemple, la création d’un camping municipal a été validée dans l'arrêt **1964 Commune de Verville**.
+
+[[1972, Société La Plage de la Forêt]]
+On valide également la création de piscines municipales en 1972 dans l'arrêt **Société La Plage de la Forêt**, ainsi que le jugement du tribunal administratif de Clermont-Ferrand, commenté à la JDA, qui admet comme légale la création d’un café-hôtel-restaurant municipal.
+
+[[CE Ass, 31 mars 2006, Ordre des avocats du barreau de Paris]]
+L'arrêt CE Ass, 31 mars 2006, **Ordre des avocats du barreau de Paris**, indique qu'il faut désormais justifier d’un intérêt public, sans besoin de circonstances particulières. Cet intérêt public peut découler de la carence. Une fois l’activité créée, l’État ne doit pas fausser le jeu de la concurrence en octroyant des avantages injustifiés aux titulaires. On ne peut pas accorder au prestataire un monopole ou un droit exclusif. 
+
+[[23 juin 1965, Société aérienne de recherche minière]]
+Ainsi, une fois l’activité créée, la personne publique ne doit pas fausser la concurrence (arrêt, 23 juin 1965, **Société aérienne de recherche minière**), concernant l'IGN qui loue du matériel de photographie aérienne. La location de matériel est légale car considérée comme une activité annexe, et elle respecte les tarifs de marché. Il faut donc qu'au-delà de la création, l'activité respecte les règles de la concurrence.
+
+[[CE Sect, 3 novembre 1997, Société Million et Marais]]
+L'arrêt section, 3 novembre 1997, **Société Million et Marais**, affirme que le droit de la concurrence fait partie du bloc de légalité, donc il s’impose à l’administration.
+##### B) Les règles de suppression d’une activité de service public
+
+On distingue quelques hypothèses :
+
+- Si le service public a été librement créé (cas de très nombreux services publics), l’autorité créatrice est libre de le supprimer. Par exemple, TF1 a perdu le label de service public en 1986. Les usagers ne peuvent pas invoquer des « droits acquis » au maintien du service public ([[CE sect., 27 janvier 1961, Vannier]]). C’est la règle de parallélisme des formes. S'il existe une base légale ou conventionnelle, alors oui, sinon non. 
+- Si le service public est obligatoire selon la loi, sa suppression nécessitera l’intervention du législateur, ou du gouvernement agissant par ordonnance si habilitation législative. Ou selon l’article 11 de la Constitution concernant le référendum. 
+- Si c’est un service public obligatoire selon la Constitution, il faudra une révision constitutionnelle. Cependant, cela reste théorique, car aucun service public n'est obligatoire en vertu de la Constitution. Si un service universel existe (ce qui n'est pas un service public au sens de l'UE) en vertu du droit de l’Union ou d’un service public imposé par un traité international, le service public doit exister aussi longtemps que le droit ne change pas.
+
+#### Paragraphe 2 : Les régimes juridiques applicables
+
+##### A) Le régime juridique du SPA
+En matière de service public administratif, le droit administratif s’applique en principe. Mais la part du droit administratif est limitée si le service public est géré par une personne privée.
+
+Le régime juridique s’applique à l’usager. On distingue selon qu’on est usager ou agent, puis on distingue le cas des co-contractants de la personne publique.
+###### 1) Les usagers du SPIC
+On distingue selon que le service public administratif est géré par une personne publique ou par une personne privée.
+
+**Principe :**
+
+- L’usager est dans une situation légale et réglementaire de droit public, c’est-à-dire que les règles concernant les services sont décidées unilatéralement par le gestionnaire en vertu de son pouvoir de décision unilatéral (et non d’un rapport de force économique) qui relève de ses prérogatives de puissance publique. L’usager peut obliger la personne publique à respecter les règles qu’elle a édictées, et de l’autre, la personne publique peut les modifier. (Par exemple, le volume horaire de l’enseignement peut changer d’année en année, mais une fois édicté, on s’y tient).
+- Cette formule s’oppose à la situation contractuelle (exemple : mutuelle, banque, etc.).
+
+**Exceptionnellement**, il peut y avoir (très rarement) un contrat entre l’usager et le service public (exemple : un locataire d’un office public d’HLM est titulaire d’un bail d’habitation, qui est un contrat de droit privé). (Arrêt CE, 6 octobre 1965, **Denis**).
+
+Lorsque le SPA est géré par une personne privée, l’usager est dans une situation contractuelle de droit privé, car dans ce cas de figure, on ne réunit pas les critères du contrat administratif. **Exceptions :**
+
+- L’usager peut être dans une situation légale et réglementaire de droit privé, c’est le cas dans nos rapports individuels avec des organismes locaux d’assurance ou d’allocation familiale.
+- L’usager peut aussi être dans une situation légale et réglementaire de droit privé (ou public), comme c'est le cas des usagers d’autoroutes.
+- **Situation mixte :** Il existe des cas où des organismes privés sont chargés d’édicter une réglementation professionnelle ou catégorielle (ordre des médecins, des infirmières, fédérations sportives). Ces organismes privés gèrent un service public administratif. Par exemple, lorsqu’on est médecin, on est nécessairement inscrit au tableau de l’ordre. Ce sont des adhérents captifs, car il n’y a pas le choix d’y adhérer. Cela démontre qu’il y a des prérogatives de puissance publique. Les actes pris par ces organismes privés dans l’exercice de prérogatives de puissance publique sont des actes administratifs ([[Arrêts Bouguen,  Montpeur, Magnie, Chevassier]]). La responsabilité extracontractuelle est engagée devant le juge judiciaire, sauf lorsque des prérogatives de puissance publique sont utilisées, ou si un ouvrage public est en cause.
+###### 2) Les agents du SPIC
+**Catégories d’agents :**
+
+- **Les fonctionnaires :** Ils se trouvent dans une situation légale et réglementaire de droit public. En vertu de l’article 4 de la loi du 13 juillet 1983, qui établit le statut général de la fonction publique, les conditions de travail et les relations avec l’employeur sont définies et modifiées unilatéralement par l’employeur, et le contentieux est administratif (Chambre spécialisée en contentieux de la fonction publique).
+- **Les agents non titulaires (contractuels) :** ([[TC, 25 mars 1986, Berckaly]]). Ces agents non titulaires des SPA sont considérés comme des agents de droit public.
+- Il existe de nombreux cas dérogatoires qui relèvent majoritairement du droit privé, selon la loi qui les a créés.
+
+Lorsque le SPA est géré par une personne privée, il n’y a pas d’agents de droit public. La relation entre l’agent du SPA et son gestionnaire de droit privé est une situation contractuelle de droit privé.
+###### 3) Les relations avec les tiers
+On distingue selon que l'on se situe en matière contractuelle ou extra-contractuelle (question de responsabilité). Pour les fournisseurs des SPA gérés par une personne publique, comme un livreur, si le tiers est une personne publique, le contrat est présumé administratif. Si le tiers est une personne privée, le contrat est administratif (TC, 1983, **UAP**). 
+
+En matière de responsabilité, par exemple, si une grue nous tombe dessus et que le service public est géré par une personne publique, le contentieux de la responsabilité sera porté devant le juge administratif, et on appliquera le droit administratif (arrêt CE, 6 décembre 1856, **Rothschild**). 
+
+Quand le service public est géré par une personne privée, il s'agira probablement d'un contrat de droit privé. Si le tiers est une personne privée, le contrat sera de droit privé. Si le tiers est une personne publique, le contrat pourra redevenir administratif.
+
+La responsabilité extra-contractuelle : si un tiers subit un dommage provoqué par une personne privée, ce sera le juge judiciaire qui sera compétent, sauf exceptions (travaux publics, domaine public, etc.).
+##### B) Le régime juridique applicable aux SPICS
+
+###### 1) Les usagers du SPIC
+Distinguer trois catégories d’usagers :
+
+- **Le candidat usager :** C'est la personne qui manifeste la volonté non équivoque d’entrer en relation avec un SPIC pour bénéficier de la prestation. Pour toutes les questions de légalité, il devra introduire un recours en excès de pouvoir contre l’acte individuel émanant de la personne gérant le SPIC devant le juge judiciaire. 
+	- Exceptionnellement, dans trois cas, il devra présenter sa requête au juge administratif si la décision individuelle s’analyse comme un refus d’exécuter des travaux publics ou un ouvrage public. Il s’agit d’un arrêt de 1986 dans lequel un individu a été refusé de se raccorder au réseau de distribution d’eau car il n’avait pas envie de faire les travaux. 
+	- Deuxième exception : si la participation financière de l’usager potentiel présente un caractère fiscal. 
+	- Troisième exception : lorsque, au-delà d’une décision individuelle, on conteste la légalité d’un acte réglementaire relatif à l’organisation du service. Pour la responsabilité, celle-ci est uniquement devant le juge judiciaire.
+	- Pas d’exception. ([[1966, Dame veuve Canasse]], à propos d’une chute mortelle dans une gare SNCF. Chute avant de prendre le train, donc contentieux judiciaire.)
+- **L’usager :** C’est celui qui utilise le service. Il peut s’agir de celui qui est signataire du contrat avec le SPIC, ainsi que de toutes les personnes qui viennent habituellement avec lui à son domicile. Sont exclus les préposés (passage au domicile) ou les dirigeants de la personne morale au nom de laquelle le contrat a été passé. En principe, c’est le juge judiciaire qui est compétent pour les contrats entre les SPIC et l’usager.
+- **Le fraudeur (assimilé à l’usager)**
+
+###### 2) Les agents du SPIC
+On distingue selon que le SPIC est géré par une personne publique ou privée. Le principe est que les agents du SPIC sont soumis à un régime de droit privé, même pour les SPIC gérés par des personnes de droit public. Seuls les tribunaux judiciaires sont compétents, avec deux exceptions :
+
+- **CE 8 mars 1957, Jalenques de Labeau** : pour le directeur de la structure
+- **CE 26 janvier 1923, Robert de Lafreygère** : pour le comptable public
+
+###### *2.a) Un SPIC géré par une personne privée*
+Les relations contractuelles entre les agents d'un SPIC géré par une personne privée sont de droit privé. L'exception concerne les directeurs des SPIC gérés par des sociétés à capitaux publics, car certaines sociétés sont anonymes, mais une personne publique détient la majorité ou la totalité du capital social. Par exemple, dans les sociétés d'économie mixte, les collectivités territoriales détiennent la majorité des parts.
+
+Le **Code du travail** s'applique, ainsi que les conventions collectives. Cependant, il existe une exception : si un organisme (personne morale de droit privé) édicte un règlement intérieur sur habilitation de la personne publique, cet acte est administratif car il organise le service public et met en œuvre des prérogatives de service public. Le juge administratif est donc compétent, comme l’a confirmé l’arrêt important du **TC 1968, Époux Barbier contre Air France**. Dans cette affaire, une hôtesse de l'air souhaitait se marier, mais à l'époque, le règlement d'Air France interdisait le mariage. Elle a attaqué le règlement intérieur. Le Tribunal des conflits a jugé qu'il s'agissait d'un acte administratif, même si Air France est une société de droit privé. Le règlement intérieur est un acte réglementaire, applicable à l'ensemble des salariés.
+###### 3) Les relations avec les tiers
+Lorsque le SPIC est géré par une personne publique, ce sont des contrats de droit privé, sauf si les critères du contrat administratif sont remplis.
+
+Un **contrat administratif** implique au moins une personne publique et l’une des deux conditions suivantes : la participation directe au service public ou la présence d’une clause exorbitante. Par exemple, quelqu'un qui loue un photocopieur à un lycée ne participe pas directement au service public, donc ce sera un contrat de droit privé.
+
+La responsabilité, en principe, est une responsabilité portée devant le juge judiciaire, avec application du droit privé. L'arrêt **TC 11 juillet 1933, Dame Melinette** précise que la responsabilité des SPIC est, en règle générale, de droit privé. Toutefois, par exception, une responsabilité administrative s'applique si des travaux ou ouvrages publics sont en cause, ou si des prérogatives de puissance publique ou la domanialité publique attirent le droit public.
+
+Lorsque les SPIC sont gérés par une personne privée, les contrats seront de droit privé. L'arrêt **TC 3 mars 1969, Société Interlait** illustre cette situation, où il n’y avait pas de personne publique impliquée.
+
+Pour la responsabilité extracontractuelle, le principe est l’application du droit privé et la compétence du juge judiciaire, sauf si des travaux publics, ouvrages, etc., sont en cause.
+
+#### Paragraphe 3 : les principes de fonctionnement
+
+Ces principes sont destinés à garantir la satisfaction de l’intérêt général, même si l'activité est industrielle et commerciale. Trois principes ont été dégagés à partir des conclusions de **Louis Rolland** :
+##### A) La continuité
+
+  **1909 Winkell**
+
+En 1950, l’arrêt Dehaene retire la décision de Winkell. La Constitution consacre alors le droit de grève. Le principe de continuité garantit aux usagers un « fonctionnement normal du service ». Cela signifie un fonctionnement continu de certains services, comme les urgences, les pompiers, la police. Il peut également s’agir d’un fonctionnement périodique, mais il est toujours question de régularité dans la prestation, dans le temps et dans l’espace. Ce principe est fondé sur la continuité même de l’État, avec l'idée que « l’État ne peut pas fonctionner par intermittence » (citation à préciser). Il est aussi fondé sur la satisfaction des besoins des usagers : par exemple, le service d’urgence doit être disponible en permanence. Quant à sa valeur, ce principe a une valeur constitutionnelle depuis la décision du Conseil constitutionnel du 25 juillet 1979, concernant le droit de grève à la radio et à la télévision. Cette jurisprudence a été constamment réaffirmée.
+
+La continuité pour l’usager signifie qu’il peut s’adresser au juge pour contraindre celui qui fournit le service à assurer un fonctionnement normal. Cela peut conduire à un recours devant le juge de l’excès de pouvoir, si, par exemple, une décision refuse de faire appliquer les règles du service. Cela peut aussi se résoudre en matière de responsabilité, permettant ainsi d'obtenir réparation. À ce sujet, on peut citer l’arrêt du Conseil d’État du 6 novembre 1985, dans lequel le ministre des Transports attaquait l’État, car une compagnie avait subi un préjudice lors d’une grève des contrôleurs aériens.
+
+Pour le gestionnaire, la continuité signifie qu’il doit exister des règles de remplacement des autorités administratives absentes ou empêchées (délégation, suppléance ou intérim). En cas de circonstances exceptionnelles (guerre, éruption volcanique, pandémie), le juge autorise un bouleversement des compétences normales. La continuité doit cependant être conciliée avec l’exercice du droit de grève, comme l’a posé l’arrêt du Conseil d’État du 7 juillet 1950, Dehaene. Cet arrêt établit trois principes :
+
+1. La licéité des règles de grève : on reconnaît à tout agent le droit de faire grève.
+2. Ce droit de grève doit être limité afin d’éviter un usage abusif ou contraire à l’ordre public. Cela s’est traduit par plusieurs restrictions : certains personnels, comme ceux des ministères de la Justice et de l’Intérieur, les magistrats, policiers, gendarmes, etc., n’ont pas le droit de faire grève. Ensuite, la loi encadre le déclenchement et les formes de grève. Par exemple, il est obligatoire de déposer un préavis de grève afin d’éviter les grèves surprises. Certaines formes de grève sont interdites, comme la grève tournante, où chaque personne d’un même service fait grève tour à tour. La grève est un droit qui s’exerce collectivement (voir la loi applicable). Une autre restriction concerne le service minimum. Par exemple, dans les écoles, il n’y a pas de service minimum, car lorsque les enfants sont gardés, cela est considéré comme un service de substitution. Le Conseil d’État confère au chef de service, et en premier lieu au gouvernement, le pouvoir de restreindre encore plus le droit de grève si la continuité du service l’exige (arrêt du CE du 11 juin 2010, Syndicat SUD RATP). Par ailleurs, le préfet dispose du droit de réquisitionner les grévistes en cas d’atteinte à l’ordre public. Ce droit est souvent exercé pour réquisitionner le personnel hospitalier (CE, 27 février 2010, M. Lefevre). Dans l’arrêt CE Ass. du 12 avril 2013, Fédération FO Énergie et Mines, les organes dirigeants d’EDF se sont vu reconnaître le droit de restreindre le droit de grève de leur personnel si la continuité du service l’exige.
+
+Le droit de grève s’exerce avec une contrepartie : les grévistes sont privés de leur salaire. La retenue financière qui en découle est la contrepartie de ce droit. Les fonctionnaires de l’État perdent 1/30e de leur salaire par jour de grève, selon la règle du trentième indivisible.
+  
+
+##### B) Le principe d’égalité devant le service public
+Le principe d’égalité devant la loi est consacré constitutionnellement. C’est la pierre angulaire de l’idéologie du service public, et idéologiquement, c’est le plus important : le service public est destiné à tous. Ce principe bénéficie de la plus haute valeur juridique, mentionné à l’article 1 de la Déclaration des droits de l’homme et du citoyen (DDHC) et à l’article 1 de la Constitution. Il se traduit naturellement dans le service public.
+
+Devant le juge administratif, il a également la valeur de principe général du droit, consacrée par un arrêt de section du 9 mars 1951, **Société des concerts du conservatoire**.
+
+Le principe d’égalité signifie que des situations identiques doivent être traitées de façon identique. En d'autres termes, à situation identique, traitement identique. Toutefois, la conception française de l’égalité ne signifie pas que tout le monde doit être traité de la même façon, mais que des situations comparables doivent recevoir le même traitement.
+
+En France, il n’y a aucune obligation de traiter différemment, comme l’a établi l’arrêt CE **Société Baxter** en mars 1997. En droit de l’Union européenne, cependant, il est reconnu que des personnes dans des situations différentes doivent être traitées différemment.
+###### 1) l’Égalité dans l’accès au service public
+
+**La question des tarifs :**
+En ce qui concerne les tarifs : un tarif égal signifie que chaque usager doit payer la même redevance. Toutefois, il s’agit également de s’assurer que ceux qui ont le plus besoin du service y aient accès, ou que ceux qui l’utilisent le plus fréquemment soient pris en compte. Les différenciations tarifaires sont-elles inégales ? Le Conseil d’État a admis la légalité des différenciations tarifaires dans l’arrêt CE 1974 **Denoyez et Chorques**. Cet arrêt concernait la liaison maritime entre l’île de Ré et le continent. Le département avait institué trois tarifs : un pour les habitants de l’île de Ré, un pour les habitants de la Charente-Maritime, et un autre pour les autres usagers.
+
+Cette différenciation a été jugée légale, car ces catégories d’usagers étaient considérées dans des situations différentes. Par exemple, une personne habitant sur l’île de Ré utilise plus fréquemment le service qu’un vacancier venant du continent. Un autre arrêt important est celui de CE 1997 **Commune de Gennevilliers et de Nanterre**. Le Conseil constitutionnel s’est aligné sur cette jurisprudence dans une décision du 12 juillet 1979, **Ponts à péage**.
+
+La discrimination tarifaire doit reposer sur une différence de situation appréciable entre les personnes concernées, en lien avec l’objet du service. Toute création de catégorie d’usagers doit être en rapport avec l’objet du service public. En général, ces différences concernent le revenu ou le domicile. Dans l’arrêt **Ville de Nanterre**, une distinction tarifaire a été faite en fonction de la qualité sociale de l’usager potentiel. Toutefois, il ne peut jamais être demandé à un usager de payer plus que le coût de la prestation, car le service public n’est pas censé faire de bénéfice.
+
+**La question des dérogations**
+Si un usager n’a pas droit à un régime spécifique, l’administration a la faculté de lui accorder une dérogation. L'arrêt de l'assemblée du 14 avril 1995, **Koen des israélites de France**, a confirmé que les dérogations sont permises, mais à condition que le service n’en pâtisse pas. De plus, si l’administration accorde une dérogation à un individu, elle doit l’accorder à tous les autres individus se trouvant dans la même situation.
+
+Cependant, l’administration conserve la faculté de révoquer ou de refuser une dérogation pour des motifs d’intérêt général.
+###### 2) L’égalité entre agents
+Le principe d’égalité d’accès à la fonction publique est un principe général du droit, consacré par l’arrêt de l’assemblée du 28 mai 1954, **Barel**. Dans cette affaire, l’accès à l’ENA avait été refusé à une personne en raison de son appartenance au parti communiste. Ce principe trouve également son fondement à l’article 6 de la DDHC. Par ailleurs, il existe un principe d’égalité de traitement entre les fonctionnaires.
+
+###### 3) L’égalité entre fournisseurs
+Sur ce point, le Conseil d’État a consacré le principe de l'égalité dans l’arrêt **Société des concerts du conservatoire** du 9 mars 1951. Toute personne se trouvant dans une même situation vis-à-vis d’un service public doit être traitée de manière identique, quelle que soit la qualité de ses liens avec ce service.
+##### C) la mutabilité du service public 
+La mutabilité renvoie à l’idée que l’organisation et le fonctionnement du service public doivent s’adapter aux évolutions des besoins et de l’intérêt général, dans le temps et dans l’espace.
+
+##### 1) Implication du principe de mutabilité pour l’usager 
+La mutabilité confère des droits à l’usager, mais également des contraintes :
+
+1. L'usager ne dispose d'aucun droit acquis au maintien d’un service public donné.
+2. Il existe la possibilité de modifier les conditions de fonctionnement du service public, comme l’a établi l'arrêt du 27 janvier 1951. Cela signifie que le fonctionnement du service public peut être modifié selon les besoins.
+
+En cas de méconnaissance du fonctionnement normal du service public, l’usager peut introduire un recours en excès de pouvoir. L’usager a également le droit de demander à l’autorité délégante de contraindre le délégataire à assurer un fonctionnement normal du service public, comme le montre l’arrêt CE du 21 décembre 1906, **Syndicat des propriétaires et des contribuables du quartier sud**. Dans cette affaire, les habitants étaient mécontents du fait que le tramway ne desservait plus leur quartier, et le refus du délégant pouvait être attaqué en justice pour faire pression sur le concessionnaire.
+##### 2) L’implication de la mutabilité pour les agents
+Les fonctionnaires sont dans une situation réglementaire de droit public, ce qui signifie que leur statut peut être modifié unilatéralement. Le gestionnaire peut affecter les fonctionnaires en fonction des besoins, comme l’a confirmé l’arrêt de 1988, **Coligny**.
+
+Pour les agents contractuels, la situation est similaire. Bien que les personnels des SPIC (services publics industriels et commerciaux) soient soumis au droit privé, leurs contrats peuvent comporter des règles édictées par des autorités administratives. Pour ces règles, les agents n’ont pas droit au maintien de celles-ci.
+
+##### 3) L'implication de la mutabilité aux gestionnaires
