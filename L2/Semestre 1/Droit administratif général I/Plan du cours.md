@@ -58,3 +58,86 @@
 				- a) Le principe : l'intervention de l'autorité de PS n'exclut pas celle de l'autorité de PG
 				- b) L'exception : certaines PS excluent totalement l'intervention de l'autorité de PG
 				- c) L'exception de l'exception : le péril imminent
+
+#### Chapitre 1 : Le service public
+- Section 1 : la notion de service public
+	- A) Le critère fonctionnel : l'exercice d'une activité dans un but d'intérêt général
+		- 1) L'exercice d'une activité
+		- 2) Le but d'intérêt général
+	- B) Le critère organique : la prise en charge par la personne publique
+		- 1) Une dépendance nécessaire
+		- 2) Une dépendance a intensité variable
+			- 2.a) La gestion du service public par une personne publique
+			- 2.b) Hypothèses où la personne publique délègue
+		- 3) Le marché de partenariat qui figure à l'article L1112-1 CCP.
+
+##### C) La remise en question du critère matériel : la soumission à un régime juridique exorbitant
+
+###### 2) Critère déterminant en cas de gestion du service public par une personne privée ?
+
+
+#### Paragraphe 2 : Distinction entre service public administratif et service public industriel et commercial
+
+###### 1) L'objet de l'activité du service public
+
+###### 2) Le mode de financement de l'activité de service public
+###### 3) Les modalités de fonctionnement de l’activité de service public
+
+
+### Section 2 : le régime des services publics
+
+#### Paragraphe 1 : la naissance et la mort des services publics
+
+##### A) les règles de création d'une activité de service public
+###### 1) Les règles de compétences
+###### *1.a) L’état*
+
+###### *1.b) Les collectivités territoriales*
+###### _1.c) L’établissement public_
+
+###### 2) Les règles de la concurrence
+
+##### B) Les règles de suppression d’une activité de service public
+
+
+#### Paragraphe 2 : Les régimes juridiques applicables
+
+##### A) Le régime juridique du SPA
+
+###### 1) Les usagers du SPIC
+
+###### 2) Les agents du SPIC
+
+###### 3) Les relations avec les tiers
+
+##### B) Le régime juridique applicable aux SPICS
+
+###### 1) Les usagers du SPIC
+**
+
+###### 2) Les agents du SPIC
+
+###### *2.a) Un SPIC géré par une personne privée*
+
+###### 3) Les relations avec les tiers
+
+
+#### Paragraphe 3 : les principes de fonctionnement
+
+##### A) La continuité
+
+##### B) Le principe d’égalité devant le service public
+
+###### 1) l’Égalité dans l’accès au service public
+
+###### 2) L’égalité entre agents
+
+###### 3) L’égalité entre fournisseurs
+
+##### C) la mutabilité du service public 
+
+##### 1) Implication du principe de mutabilité pour l’usager 
+
+##### 2) L’implication de la mutabilité pour les agents
+
+##### 3) L'implication de la mutabilité aux gestionnaires

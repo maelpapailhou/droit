@@ -8,11 +8,13 @@ Code civil identifie 3 principes essentielles.
 La liberté contractuelle ne **permet pas de déroger aux règles qui intéressent l'ordre public**.
 Principe fondamental du droit du contrat, consacré par le Conseil constitutionnel. L'article 1102 du Code civil, alinéa 1, pose d'abord les éléments de la liberté contractuelle et, dans son alinéa 2, insiste sur les limites de cette liberté contractuelle.
 
+#### A) Les éléments de la liberté contractuelle
 La liberté contractuelle contient 3 piliers (2 versants) :
 1. On est **libre de contracter ou de ne pas contracter**. On n'est jamais contraint de conclure un contrat. Certaines hypothèses dans lesquelles on est contraint de prendre un contrat, par exemple le cas de l'assurance automobile : *si on conduit, on est obligé de s'assurer, donc de souscrire à une assurance. Idem pour avocat ou notaire, on est contraint par l'*État.
 2. On est **libre de choisir son partenaire, son cocontractant**. Là encore, cette liberté de choisir son partenaire n'est en rien absolue. Exe*mple le plus connu est le droit de préemption urbain (DPU), où la mairie peut forcer la vente d'un immeuble à la municipalité plutôt qu'à un partic*ulier.
 3. On est **libre de déterminer ce que l'on veut dans son contrat**. On est libre de fixer les clauses qui vont constituer le contenu de notre contrat. Ici aussi, ce n'est pas absolu ; même si les contractants sont d'accord sur certains éléments de leur contrat, le législateur peut décider que cela ne sera pas possible. *Exemple : le droit du travail, qui fixe la durée maximale du temps de travail et l'indemnisation minimale. On est **libre de contracter dans les limites de la loi**.*
 
+#### B) Les limites à la liberté contractuelle
 L'alinéa 2 de l'article 1102 dispose que la liberté contractuelle ne permet pas de déroger aux règles qui intéressent l'ordre public. L'article 6 du Code civil : on ne peut par des conventions particulières déroger aux lois qui intéressent l'ordre public et les bonnes mœurs.
 Remarques :
 1. Les bonnes mœurs ont disparu ; l'article 1102 de 2016 a disparu, les législateurs ont dit que les bonnes mœurs étaient une notion rétrograde. Mais elles existent encore à l'article 6.

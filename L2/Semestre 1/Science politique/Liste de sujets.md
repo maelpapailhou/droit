@@ -1,6 +1,5 @@
 #### 2023-2024 Session 1
-La hiérarchie dans la société de castes et dans la société d’Ordres s’organise-t-elle suivant les
-mêmes principes et produit-elle les mêmes effets sociaux et politiques ?
+La hiérarchie dans la société de castes et dans la société d’Ordres s’organise-t-elle suivant les mêmes principes et produit-elle les mêmes effets sociaux et politiques ?
 
 #### 2022-2023 Session 1
 Vous répondrez à deux questions, selon votre choix, de manière concise, précise, structurée

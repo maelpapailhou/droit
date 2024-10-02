@@ -1,4 +1,9 @@
-Le service public a de nombreux sens. Pour Frier, le service public est un pavillon qui regroupe de multiples choses.
+Le service public a de nombreux sens. 
+
+> [!Définition]
+> **Laurent Frier**
+> Lee service public est un pavillon qui regroupe de multiples choses.
+
 
 Deux dimensions :
 
@@ -8,16 +13,29 @@ Deux dimensions :
 
 Par exemple, pour Didier Truchet, le service public est un "label", une "étiquette" que les pouvoirs publics vont accoler à certaines activités, ou que le juge va utiliser dans un certain nombre d'espèces. 
 
-Dans un article de Truchet (1982, JDA), il affirme que "le service public est avant tout un label". 
+> [!Définition]
+> **Article de Truchet (1982, JDA),**
+> Le service public est avant tout un label.
+> 
 
-Pour le doyen Vedel, le service public est une notion fonctionnelle, c'est-à-dire une notion définie par sa fonction essentiellement. 
 
-Malgré tout, une définition reste possible pour Gaston Jèze : pour lui, le service public est une définition subjective. Selon lui, les services publics sont des besoins d'intérêt général que les gouvernants d'un pays donné, à un moment donné, ont décidé de satisfaire par le procédé du service public. Cette conception subjective peut encore être présente dans la jurisprudence, car le juge va rechercher l'intention du législateur de faire de l'activité une activité de service public. D'autre part, lorsque ce n'est pas le législateur, le juge recherche la volonté de l'autorité créatrice de considérer l'activité comme une activité de service public.
+> [!Définition]
+> **Doyen Vedel**
+>  Le service public est une notion fonctionnelle, c'est-à-dire une notion définie par sa fonction essentiellement
+
+> [!Définition]
+> **Gazon Jèze**
+>  une définition reste possible pour Gaston Jèze : pour lui, le service public est une définition subjective. 
+>  Selon lui, les services publics sont des besoins d'intérêt général que les gouvernants d'un pays donné, à un moment donné, ont décidé de satisfaire par le procédé du service public. 
+>  Cette conception subjective peut encore être présente dans la jurisprudence, car le juge va rechercher l'intention du législateur de faire de l'activité une activité de service public. D'autre part, lorsque ce n'est pas le législateur, le juge recherche la volonté de l'autorité créatrice de considérer l'activité comme une activité de service public.
+
 ### Section 1 : la notion de service public
 Le **service public** est la pierre angulaire du droit administratif. La notion de service public emporte avec elle des conséquences importantes tant sur l'application du droit administratif que sur la compétence du juge administratif.
 
 #### Paragraphe 1 : Les critères d'identification du service public
-**Définition** : Le service public est une mission ou activité d'intérêt général, assurée ou assumée par une personne publique et soumise à un régime exorbitant du droit commun.
+> [!Définition]
+> **Service public**
+>Le service public est une mission ou activité d'intérêt général, assurée ou assumée par une personne publique et soumise à un régime exorbitant du droit commun.
 
 Trois éléments constitutifs dans le service public :
 - le **critère fonctionnel** de la mission ;
@@ -27,35 +45,48 @@ Trois éléments constitutifs dans le service public :
 ##### A) Le critère fonctionnel : l'exercice d'une activité dans un but d'intérêt général
 
 ###### 1) L'exercice d'une activité
-L'exécution du service public passe soit par des activités de prestation, soit par des activités où s'applique l'édiction de prescriptions juridiques.
+L'exécution du service public passe : 
+- soit par des activités de prestation, 
+- soit par des activités où s'applique l'édiction de prescriptions juridiques.
 
-La distribution de prestations est l'objet classique du service public. Il peut s'agir de prestations matérielles, par exemple : courrier, enlèvement des ordures ménagères, restauration scolaire, transport scolaire, etc. Il peut également s'agir de prestations financières (bourses étudiantes, allocations vieillesse, handicap, etc.). De plus, ces prestations peuvent être de nature intellectuelle (activités telles que l'enseignement, les activités sportives, artistiques, musicales, etc.).
+La distribution de prestations est l'objet classique du service public. 
+- Il peut s'agir de **prestations matérielles**, par exemple : courrier, enlèvement des ordures ménagères, restauration scolaire, transport scolaire, etc. 
+- Il peut également s'agir de **prestations financières** (*bourses étudiantes, allocations vieillesse, handicap, etc.).* 
+- De plus, ces prestations peuvent être de **nature intellectuelle** (*activités telles que l'enseignement, les activités sportives, artistiques, musicales, etc*.).
 
-Mais le service public passe également par une activité de réglementation. Celle-ci est traditionnellement une activité de police. Pour certains auteurs, la police est un service public. Plusieurs arrêts, comme **Moupeur**, **Bouguain**, et **Magnier**, témoignent du fait que l'acte de service public peut également passer par l'édiction d'actes juridiques. Dans toutes ces affaires, il s'agit de personnes morales de droit privé, souvent des organisations professionnelles ou des éléments de structuration de certaines professions (agriculteurs, producteurs de viande, céréales, etc.).
+Mais le service public passe également par une **activité de réglementation**. Celle-ci est **traditionnellement une activité de police**. 
+- Pour certains auteurs, la police est un service public. Plusieurs arrêts, comme **Moupeur**, **Bouguain**, et **Magnier**, témoignent du fait que l'acte de service public peut également passer par l'édiction d'actes juridiques. 
+- Dans toutes ces affaires, il s'agit de personnes morales de droit privé, souvent des organisations professionnelles ou des éléments de structuration de certaines professions (agriculteurs, producteurs de viande, céréales, etc.).
 
-Les personnes morales de droit privé (ordres professionnels, fédérations sportives, ordre des médecins) sont considérées comme gérant une mission de service public. Parce qu'elles gèrent une mission de service public, elles peuvent adopter des actes administratifs qui pourront être attaqués par voie de recours pour excès de pouvoir devant le juge administratif. 
+Les **personnes morales de droit privé** (*ordres professionnels, fédérations sportives, ordre des médecins*) sont considérées comme gérant une mission de service public. Parce qu'elles gèrent une mission de service public, elles peuvent adopter des actes administratifs qui pourront être attaqués par voie de recours pour excès de pouvoir devant le juge administratif. 
 
 [[CE Ass., 13 mai 1938, Caisse primaire Aide et Protection]]
 L'arrêt **Caisse primaire "Aide et protection"** a reconnu pour la première fois qu'une personne privée pouvait gérer un service public administratif. Ainsi, le service public passe aussi par l'édiction d'actes juridiques.
 ###### 2) Le but d'intérêt général
-L'intérêt général est défini par les pouvoirs politiques, par le juge et par les mœurs de l'époque. C'est donc une notion évolutive, extensible, mais pas à l'infini, il y a toujours une limite quelque part.
 
-Pour les Anglo-Saxons, l'intérêt général est la somme des intérêts individuels, tandis que pour nous, il va au-delà des intérêts particuliers.
+> [!Définition]
+> **L'intérêt général**
+> Défini par les pouvoirs politiques, par le juge et par les mœurs de l'époque. C'est donc une notion évolutive, extensible, mais pas à l'infini, il y a toujours une limite quelque part.
 
-Pour Hauriou, certaines activités sont publiques par nature, une conception qu'il défend dans une note publiée sous l'arrêt [[CE, 8 avril 1916, Astruc]]. La question était de savoir si une entreprise de spectacle pouvait être considérée comme remplissant une mission de service public. Pour Maurice Hauriou, il estime que non, justement parce qu'il s'agit d'une entreprise de spectacle. Selon lui, les activités publiques par nature sont définies par rapport aux fonctions de l'État, c'est-à-dire les fonctions régaliennes. 
+Pour les Anglo-Saxons, l'intérêt général est la somme des intérêts individuels, tandis que pour nous, il va **au-delà des intérêts particuliers**.
 
-Un autre arrêt,[[TC, 11 juillet 1933, Dame Melinette]] considère que l'enlèvement des ordures ménagères ne fait pas partie des fonctions publiques par nature. La conception défendue par Maurice Hauriou est donc une conception très stricte, correspondant au minimum que l'État doit accomplir, en phase avec les attentes de l'époque.
+Pour Hauriou, certaines activités sont publiques par nature, une conception qu'il défend dans une note publiée sous l'arrêt [[CE, 8 avril 1916, Astruc et Société du Théâtre des Champs-Elysées]]. La question était de savoir si une entreprise de spectacle pouvait être considérée comme remplissant une mission de service public. Pour Maurice Hauriou, il estime que non, justement parce qu'il s'agit d'une entreprise de spectacle. Selon lui, **les activités publiques par nature sont définies par rapport aux fonctions de l'État**, c'est-à-dire les **fonctions régaliennes**. 
 
-Gaston Jèze adopte une conception volontariste du service public : pour lui, l'intérêt général est défini objectivement, et les pouvoirs publics ainsi que le juge le définissent en fonction des représentations sociales de chaque époque. Ainsi, l'intérêt général est le résultat d'un choix effectué par les pouvoirs publics, qui doivent tenir compte des mutations politiques, technologiques, des attentes de la population, etc.
+Un autre arrêt,[[TC, 11 juillet 1933, Dame Melinette]] considère que l'enlèvement des ordures ménagères ne fait pas partie des fonctions publiques par nature. La **conception défendue par Maurice Hauriou est donc une conception très stricte**, correspondant au **minimum que l'État doit accomplir**, en phase avec les attentes de l'époque.
 
-Jusqu'en 1941, les activités d'intérêt général correspondaient essentiellement aux fonctions régaliennes. Au niveau local, elles reposaient sur les activités de réseaux comme l'eau, le gaz de ville et l'éclairage urbain.
+> [!Définition]
+> **Intérêt général (Gazon Jèze), qui a une conception volontariste du service public**
+> L'intérêt général est défini objectivement, et les pouvoirs publics ainsi que le juge le définissent en fonction des représentations sociales de chaque époque. Ainsi, l'intérêt général est le résultat d'un choix effectué par les pouvoirs publics, qui doivent tenir compte des mutations politiques, technologiques, des attentes de la population, etc.
+> 
 
-Après la Seconde Guerre mondiale, on assiste à une extension du champ des activités d'intérêt général. L'idée apparaît que le service public peut inclure des activités qui ne sont pas de première nécessité, par exemple les colonies de vacances. 
+**Jusqu'en 1941**, les activités d'intérêt général correspondaient essentiellement aux **fonctions régaliennes**. Au niveau local, elles reposaient sur les activités de réseaux comme l'eau, le gaz de ville et l'éclairage urbain.
+
+Après la **Seconde Guerre mondiale**, on assiste à une **extension du champ des activités d'intérêt général**. L'idée apparaît que le service public peut inclure des activités qui ne sont pas de première nécessité, par exemple les colonies de vacances. 
 
 [[TC, 22 janvier 1955, Naliato]]
 Inaugure une catégorie très éphémère : les services publics sociaux. La IVe République, dans son préambule, consacre de nouveaux droits (économiques et sociaux), tels que le droit de grève, la santé, le logement, l'emploi, et le droit aux loisirs. Ainsi, les activités de vacances deviennent un service public.
 
-Le [[TC, 20 novembre 1961, Eugène Marquis]] admet également que la création d'un terrain de camping municipal est un service public. L'arrêt de [[1966, Commune de Royan]] qualifie même un casino municipal de service public. En réalité, toute activité humaine est susceptible d'être exercée sous la forme d'un service public.
+Le [[TC, 20 novembre 1961, Eugène Marquis]] admet également que la création d'un terrain de camping municipal est un service public. L'arrêt de [[CE 25 mars 1966, Commune de Royan]] qualifie même un casino municipal de service public. En réalité, toute activité humaine est susceptible d'être exercée sous la forme d'un service public.
 
 ##### B) Le critère organique : la prise en charge par la personne publique
 Il est nécessaire qu'une personne publique soit à l'origine de la création d'une activité de service public. Cependant, la personne publique n'est pas toujours chargée de l'exécution du service public.
@@ -156,7 +187,7 @@ Les exceptions : on peut procéder à une délégation unilatérale, donc sans c
 
 [[CE, Section, 6 avril 2007, Commune d'Aix-en-Provence]] : une association organise un festival d'art lyrique. Pour identifier une délégation unilatérale, le juge administratif va prendre en considération la composition de l'organisme, le mode de désignation des dirigeants, s'il y a un pouvoir sur les actes, des aides financières, et si l'organisme a reçu des prérogatives de puissance publique. L'habilitation peut être prévue par la loi, qui confie de façon unilatérale certains services publics à certaines sociétés, par exemple à la télévision. Il n'y a donc pas de contrat mais une dévolution unilatérale.
 
-[[CE, sect., 28 juin 1963, Narcy]]
+[[Droit/L2/Semestre 1/Droit administratif général I/Arrêts/Le service public/CE, sect., 28 juin 1963, Narcy]]
 Cette dévolution peut être prévue par un acte unilatéral d'une collectivité publique, comme Aix-en-Provence. L'habilitation peut également être implicite, comme dans l'**arrêt du 28 juin 1963, Narcy**.
 
 Ainsi, la délégation peut résulter :
@@ -194,7 +225,7 @@ Le juge va alors examiner certains critères pour déterminer si c'est un servic
 
 Le problème est que l'octroi de prérogatives de puissance publique est symétrique. En général, s'il y a octroi, on arrive à la qualification de service public. Mais en l'absence de telles prérogatives, cela entraîne-t-il automatiquement la disqualification du service public ? Le Conseil d'État a déclaré que même sans prérogatives de puissance publique, on peut tout de même être face à un service public.
 
-[[CE, sect., 28 juin 1963, Narcy]]
+[[Droit/L2/Semestre 1/Droit administratif général I/Arrêts/Le service public/CE, sect., 28 juin 1963, Narcy]]
 Dans l'**arrêt Narcy de 1963**, l'octroi de prérogatives de puissance publique était un élément déterminant. Il s'agissait de déterminer si des centres techniques industriels, institués par la loi dans le but de promouvoir le progrès des techniques, constituaient un service public. Ces centres, créés par la loi, disposaient d'un monopole (élément exorbitant) et pouvaient percevoir des cotisations auprès de tous leurs membres. Les membres de ces centres étaient nommés par des ministres. De plus, un commissaire du gouvernement assistait aux séances et disposait d'un droit de veto. Dans l'arrêt Narcy, il existait donc un régime exorbitant, tel que le droit exclusif de disposer d'un monopole. Le régime exorbitant peut également se manifester par l'obligation de respecter certaines contraintes (voir l'arrêt **Société SARL Chez Joseph**).
 
 Lorsque des prérogatives de puissance publique sont octroyées, il y a une forte présomption de service public. Mais même en l'absence de telles prérogatives, on peut quand même être face à un service public.
@@ -202,6 +233,7 @@ Lorsque des prérogatives de puissance publique sont octroyées, il y a une fort
 Cela se manifeste dans certaines hypothèses circonscrites :
 
 - **Cas des associations transparentes** :[[CE, 20 juill. 1990, Ville de Melun]]. Les associations transparentes sont techniquement des associations, c'est-à-dire des personnes morales de droit privé, mais où les liens avec la personne publique sont très forts. En effet, les membres du bureau sont des élus ou désignés par la municipalité, les ressources proviennent de subventions municipales, et il y a un contrôle de l'activité (fixation d'objectifs). Le juge a estimé que ces associations étaient en réalité des démembrements non assumés de la personne publique. Leur autonomie est fictive, car les ressources proviennent principalement de la municipalité et les membres sont issus de celle-ci. L'autonomie juridique existe sur le papier, mais pas en réalité. Le Conseil d'État sanctionne cette pratique en requalifiant les actes en actes administratifs, engageant ainsi la responsabilité administrative. On appelle cela les "faux-nez" de l'administration. (Voir l'article de Stéphanie Damary à ce sujet.)
+[[CE, sect., 22 févr. 2007, Association du personnel relevant des établissements pour inadaptés]]
 - Même sans prérogatives de puissance publique, **arrêt de section du 22 février 2007, Association du personnel relevant...**. Le Conseil d'État précise qu'un organisme privé peut être considéré comme chargé d'un service public, eu égard à l'intérêt général de son activité, aux conditions de sa création, de son organisation ou de son fonctionnement, aux obligations qui lui sont imposées, ainsi qu'aux mesures prises pour s'assurer que les objectifs assignés sont atteints. Il apparaît que l'administration a voulu lui confier une telle mission. Cet arrêt a fait beaucoup de bruit, car il concernait un service public sans prérogatives de puissance publique. Certains ont parlé de la "mort" du critère matériel, tandis que d'autres considèrent que cet arrêt relativise l'importance des prérogatives de puissance publique. Il peut donc exister un régime exorbitant en dehors des prérogatives de puissance publique. Le régime dérogatoire ne se confond pas nécessairement avec les prérogatives de puissance publique.
 
 #### Paragraphe 2 : Distinction entre service public administratif et service public industriel et commercial
@@ -210,8 +242,11 @@ La décision qui fonde les SPIC (Services Publics Industriels et Commerciaux) et
 
 Deux remarques liminaires :
 
+[[TC, 22 janvier 1955, Naliato]]
 1. À un moment donné, il existait une troisième catégorie très éphémère : les services publics sociaux, entre 1955 et 1983, avec l'arrêt **TC, 22 janvier 1955, Naliato**, relatif à un service public social (une colonie de vacances). En 1983, une autre décision a éteint cette catégorie.
-2. La nature juridique d'un service public n'est pas immuable. Par exemple, dans l'affaire du bac d'Eloka, le transport maritime de personnes a été qualifié de SPIC. Pourtant, en 1974, l'arrêt **CE, Denoyez et Chorques** concernant le transport maritime entre la Charente-Maritime et l'île de Ré a qualifié cette activité de SPA. Autre exemple : le service des postes et télécommunications. Lorsque ce service bénéficiait encore d’un monopole, l’arrêt **TC, Ursot, 1986** l'a qualifié de SPA. Ensuite, le législateur a scindé le service en deux entités : La Poste et France Télécom.
+
+[[CE, Denoyez et Chorques]]
+2. La nature juridique d'un service public n'est pas immuable. Par exemple, dans l'affaire du bac d'Eloka, le transport maritime de personnes a été qualifié de SPIC. Pourtant, en 1974, l'arrêt **CE, Denoyez et Chorques** concernant le transport maritime entre la Charente-Maritime et l'île de Ré a qualifié cette activité de SPA. Autre exemple : le service des postes et télécommunications. [[TC, Ursot, 1986]] Lorsque ce service bénéficiait encore d’un monopole, l’arrêt **TC, Ursot, 1986** l'a qualifié de SPA. Ensuite, le législateur a scindé le service en deux entités : La Poste et France Télécom.
 
 ##### A) La qualification expresse par le législateur et le pouvoir réglementaire
 Le service public d'assainissement (SPUC) est un service public. On peut déduire la nature juridique du service public à partir de celle de l'établissement public qui le gère. On pourrait ainsi penser qu'un établissement public administratif gère toujours un SPA et inversement. Cependant, les choses se compliquent lorsque l'on est face à des établissements publics à double visage, ou des établissements publics à visage inversé.
@@ -221,6 +256,8 @@ Le service public d'assainissement (SPUC) est un service public. On peut déduir
 - **Établissement public à visage inversé** : La qualification donnée par le texte ne correspond pas toujours à la réalité du service exécuté. Exemple : les Chambres de commerce et d'industrie (CCI), qui sont des établissements publics nationaux. Elles assurent un SPIC lorsqu'elles exploitent des installations portuaires dans des conditions de droit privé. Dans ces hypothèses, la qualification affichée ne correspond pas forcément à la nature juridique du service public.
 
 ##### B) La qualification jurisprudentielle
+
+[[CE, 16 novembre 1956, Union syndicale des industries aéronautiques]]
 Le juge recourt à un faisceau d'indices qui constitue une présomption réfragable (c'est-à-dire qu'elle peut être renversée). Cette technique a été consacrée dans l'arrêt **Assemblée, 16 novembre 1956, Union syndicale des industries aéronautiques**. Le Conseil d'État a estimé que l'activité d'un service public est présumée administrative, mais cette présomption peut être renversée si trois critères sont réunis, permettant de considérer que le service public est comparable à une activité industrielle et commerciale :
 
 1. L'objet du service.
@@ -234,6 +271,7 @@ Pour renverser la présomption d'administrativité, l'activité doit être proch
 
 Les activités commerciales classiques sont la production, la distribution ou la prestation de services.
 
+[[CE, 20 octobre 2000, Mme Torrent]]
 La présence de travaux publics, de police administrative, de sécurité ou de santé publique est souvent un signe que l'activité sera qualifiée de SPA. Ce sont des notions attractives du droit public. Par exemple, l'Établissement français du sang assure le service public transfusionnel, en raison de sa mission de santé publique (**arrêt CE, 20 octobre 2000, Mme Torrent**). Autre exemple : ceux qui gèrent des autoroutes ou des ponts gèrent un service public administratif.
 
 La sécurité du trafic aérien est également un SPA. Pourtant, en Allemagne, c’est une société anonyme à responsabilité limitée qui assure cette fonction. Ce critère n'est donc pas parfait, car un même objet peut être qualifié différemment par le juge selon les époques.
@@ -299,6 +337,7 @@ La loi impose la création de certains services publics, par exemple les ordures
 
 Il est interdit pour un établissement public de créer un service public, car ils sont soumis au principe de spécialité. Un établissement public est une personne morale de droit public spécialisée. Cependant, il existe deux exceptions :
 
+[[CE, mai 2003, Communauté de communes Artois-Lys]]
 1. **Établissement public de coopération intercommunale (EPCI, intercommunalité)** : ils peuvent mettre en place des activités qui leur apparaissent comme un complément naturel à celles que les collectivités territoriales fondatrices leur ont expressément transférées. Dans un arrêt du Conseil d'État de mai 2003 concernant la Communauté de communes Artois-Lys, la création d’un service public facultatif de réhabilitation des installations d’assainissement autonome (fosses septiques non raccordées aux égouts) a été jugée légale, car cela constituait un élément utile de contrôle et d’entretien effectué par la collectivité. Les EPCI peuvent donc créer des services publics en lien étroit avec les services publics qui leur ont déjà été transférés par les collectivités territoriales. Tout le territoire national est couvert par les EPCI.
 
 2. **Certains EPIC, comme EDF** : la spécialité des EPIC a été perçue comme un frein à la diversification de leurs activités. Pour certains EPIC nationaux, comme EDF, opérant sur le marché européen de l’électricité, cette spécialité constituait un frein à leur expansion et à la possibilité même de devenir des opérateurs européens. En 1994, le Conseil d'État a légèrement assoupli sa doctrine pour permettre à EDF de s’étendre. Il est désormais permis aux EPIC de se diversifier, mais à deux conditions :
@@ -323,7 +362,7 @@ Autre exemple : en 2011, l'Association pour la promotion de l'image a contesté 
 
 L’application de la liberté du commerce et de l’industrie suppose que l’activité se déroule sur un marché.
 
-[[CE, 1939, _Chambre syndicale des maîtres... de Saint-Étienne_]]
+[[CE, 1939, Chambre syndicale des maîtres... de Saint-Étienne]]
 Dans un arrêt de 1939, le CE (_Chambre syndicale des maîtres... de Saint-Étienne_) a jugé que la création de bains-douches communaux par la ville de Saint-Étienne ne violait pas cette liberté, car les bains-douches relevaient d’une mission de salubrité publique.
 
 [[CE, 1958, Delansorme]]
@@ -434,14 +473,19 @@ On distingue selon que le SPIC est géré par une personne publique ou privée. 
 ###### *2.a) Un SPIC géré par une personne privée*
 Les relations contractuelles entre les agents d'un SPIC géré par une personne privée sont de droit privé. L'exception concerne les directeurs des SPIC gérés par des sociétés à capitaux publics, car certaines sociétés sont anonymes, mais une personne publique détient la majorité ou la totalité du capital social. Par exemple, dans les sociétés d'économie mixte, les collectivités territoriales détiennent la majorité des parts.
 
-Le **Code du travail** s'applique, ainsi que les conventions collectives. Cependant, il existe une exception : si un organisme (personne morale de droit privé) édicte un règlement intérieur sur habilitation de la personne publique, cet acte est administratif car il organise le service public et met en œuvre des prérogatives de service public. Le juge administratif est donc compétent, comme l’a confirmé l’arrêt important du **TC 1968, Époux Barbier contre Air France**. Dans cette affaire, une hôtesse de l'air souhaitait se marier, mais à l'époque, le règlement d'Air France interdisait le mariage. Elle a attaqué le règlement intérieur. Le Tribunal des conflits a jugé qu'il s'agissait d'un acte administratif, même si Air France est une société de droit privé. Le règlement intérieur est un acte réglementaire, applicable à l'ensemble des salariés.
+Le **Code du travail** s'applique, ainsi que les conventions collectives. Cependant, il existe une exception : si un organisme (personne morale de droit privé) édicte un règlement intérieur sur habilitation de la personne publique, cet acte est administratif car il organise le service public et met en œuvre des prérogatives de service public. 
+
+[[TC, 1968, Époux Barbier contre Air France]]
+Le juge administratif est donc compétent, comme l’a confirmé l’arrêt important du **TC 1968, Époux Barbier contre Air France**. Dans cette affaire, une hôtesse de l'air souhaitait se marier, mais à l'époque, le règlement d'Air France interdisait le mariage. Elle a attaqué le règlement intérieur. Le Tribunal des conflits a jugé qu'il s'agissait d'un acte administratif, même si Air France est une société de droit privé. Le règlement intérieur est un acte réglementaire, applicable à l'ensemble des salariés.
 ###### 3) Les relations avec les tiers
 Lorsque le SPIC est géré par une personne publique, ce sont des contrats de droit privé, sauf si les critères du contrat administratif sont remplis.
 
 Un **contrat administratif** implique au moins une personne publique et l’une des deux conditions suivantes : la participation directe au service public ou la présence d’une clause exorbitante. Par exemple, quelqu'un qui loue un photocopieur à un lycée ne participe pas directement au service public, donc ce sera un contrat de droit privé.
 
+[[TC, 11 juillet 1933, Dame Melinette]]
 La responsabilité, en principe, est une responsabilité portée devant le juge judiciaire, avec application du droit privé. L'arrêt **TC 11 juillet 1933, Dame Melinette** précise que la responsabilité des SPIC est, en règle générale, de droit privé. Toutefois, par exception, une responsabilité administrative s'applique si des travaux ou ouvrages publics sont en cause, ou si des prérogatives de puissance publique ou la domanialité publique attirent le droit public.
 
+[[TC, 3 mars 1969, Société Interlait]]
 Lorsque les SPIC sont gérés par une personne privée, les contrats seront de droit privé. L'arrêt **TC 3 mars 1969, Société Interlait** illustre cette situation, où il n’y avait pas de personne publique impliquée.
 
 Pour la responsabilité extracontractuelle, le principe est l’application du droit privé et la compétence du juge judiciaire, sauf si des travaux publics, ouvrages, etc., sont en cause.
@@ -494,16 +538,20 @@ Sur ce point, le Conseil d’État a consacré le principe de l'égalité dans l
 ##### C) la mutabilité du service public 
 La mutabilité renvoie à l’idée que l’organisation et le fonctionnement du service public doivent s’adapter aux évolutions des besoins et de l’intérêt général, dans le temps et dans l’espace.
 
-##### 1) Implication du principe de mutabilité pour l’usager 
+###### 1) Implication du principe de mutabilité pour l’usager 
 La mutabilité confère des droits à l’usager, mais également des contraintes :
 
 1. L'usager ne dispose d'aucun droit acquis au maintien d’un service public donné.
 2. Il existe la possibilité de modifier les conditions de fonctionnement du service public, comme l’a établi l'arrêt du 27 janvier 1951. Cela signifie que le fonctionnement du service public peut être modifié selon les besoins.
 
 En cas de méconnaissance du fonctionnement normal du service public, l’usager peut introduire un recours en excès de pouvoir. L’usager a également le droit de demander à l’autorité délégante de contraindre le délégataire à assurer un fonctionnement normal du service public, comme le montre l’arrêt CE du 21 décembre 1906, **Syndicat des propriétaires et des contribuables du quartier sud**. Dans cette affaire, les habitants étaient mécontents du fait que le tramway ne desservait plus leur quartier, et le refus du délégant pouvait être attaqué en justice pour faire pression sur le concessionnaire.
-##### 2) L’implication de la mutabilité pour les agents
+###### 2) L’implication de la mutabilité pour les agents
 Les fonctionnaires sont dans une situation réglementaire de droit public, ce qui signifie que leur statut peut être modifié unilatéralement. Le gestionnaire peut affecter les fonctionnaires en fonction des besoins, comme l’a confirmé l’arrêt de 1988, **Coligny**.
 
 Pour les agents contractuels, la situation est similaire. Bien que les personnels des SPIC (services publics industriels et commerciaux) soient soumis au droit privé, leurs contrats peuvent comporter des règles édictées par des autorités administratives. Pour ces règles, les agents n’ont pas droit au maintien de celles-ci.
 
-##### 3) L'implication de la mutabilité aux gestionnaires
+###### 3) L'implication de la mutabilité aux gestionnaires
+
+--- 
+# ABS
+

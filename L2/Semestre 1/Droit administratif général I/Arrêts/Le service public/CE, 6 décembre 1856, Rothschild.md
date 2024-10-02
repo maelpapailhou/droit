@@ -1,0 +1,1 @@
+En matière de responsabilité, par exemple, si une grue nous tombe dessus et que le service public est géré par une personne publique, le contentieux de la responsabilité sera porté devant le juge administratif, et on appliquera le droit administratif. 

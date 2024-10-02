@@ -36,7 +36,7 @@ D'abord il v ay avoir une intervention du roi par le biais de plisieurs législa
 
 Dans un deuxieme temps, cette offensive va être reprise par la jurisprudence, et notament par les parlements. Les parlements vont aller beaucoup plus loin et s'attaquer au lien matrimonial. 
 
-#### A) Les interventions législatives
+##### A) Les interventions législatives
 
 le roi va ùettre en place une legislatin périphérique par rapport au droit de l'église. Principalement le roi va légiferer sur 2 grands domaines, 2 grandes questions. 
 - la question de la publicité du mariage
@@ -55,7 +55,7 @@ Sur la questiond u consentement des parents, le roi va procéder un peu de la me
 3. déclaration de saint germain de 1639 : l'assimilation du mariage conclu sans l'accord des parents est une présomption qui devient irrefragable (qui ne peut pas être remise en cause, elle est automatique, pas d'appréciationd es juges). 
 
 Le roi n'intervient pas lui-même sur la question de la validité du mariage, même si, avec le RAPT, il va loin dans la sanction du mariage sans consentement. Ce sont les parlements et la jurisprudence qui vont mettre en place une véritable attaque, visant directement la compétence de l'Église en matière de mariage.
-#### B) La construction jurisprudentielle
+##### B) La construction jurisprudentielle
 La jurisprudence, principalement les parlements, va soutenir l’action du roi et s'attaquer directement à la compétence de l’Église en matière de mariage.
 
 La technique utilisée est celle de « l’appel comme d’abus » : une procédure qui permet aux juridictions royales de juger en appel les décisions prises par les officialités (juges de l’Église) lorsque celles-ci commettent un abus. L’abus consiste notamment à ne pas respecter l’ordre juridique monarchique, en ne respectant pas la publicité du mariage et le consentement des parents. Les juridictions royales se saisissent alors de cette décision en appel et prononcent elles-mêmes la nullité du mariage.

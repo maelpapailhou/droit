@@ -1,0 +1,89 @@
+L'arrêt Caisse primaire « Aide et Protection » ouvre la jurisprudence reconnaissant que les **organismes de droit privé** peuvent être chargés d'un service public et **dotés de prérogatives de puissances publique**, et à ce titre être **soumis à un régime administratif et adopter des actes administratifs**, **contrôlés par la juridiction administrative**. Il sera prolongé quelques années plus tard par les arrêts Monpeurt* et Bouguen*.
+
+L'institution des assurances sociales entre les deux guerres a posé de nombreux problèmes juridiques et administratifs. Il s'agissait notamment de savoir si elles seraient régies par le droit privé ou par le droit public, et si leur gestion serait confiée à des organismes privés ou à des organismes publics. D'une part, le système s'appliquait essentiellement aux salariés et aux entreprises privées et couvrait un secteur d'activité, celui de l'assurance, jusque-là réservé à l'initiative privée; mais d'autre part, il se caractérisait par un ensemble de règles et d'obligations s'imposant de façon générale aux acteurs, aux bénéficiaires et aux cotisants, eux-mêmes définis par la loi, et visait à garantir des catégories défavorisées de citoyens contre des risques sociaux. Il en résultait un système complexe où s'enchevêtrent les règles traditionnelles du droit privé et du droit public : ainsi le contentieux relatif aux caisses chargées de la gestion des assurances sociales était tantôt judiciaire (élections aux conseils d'administration des caisses, par ex.), et tantôt administratif (contrôle exercé par l'administration sur les caisses, par ex.).
+
+Dans ces conditions, la question devait finalement se poser de savoir quelle était la nature juridique de ces caisses. Cette question n'était pas purement théorique car de nombreux textes ne sont applicables, expressément ou implicitement, qu'aux services publics, ou plus exactement aux organismes chargés de la gestion d'un service public. Tel fut le cas d'une loi du 20 juin 1936 relative aux cumuls d'emplois et de rémunérations : un décret d'application du 29 oct. 1936 en étendit le dispositif au personnel des caisses d'assurances sociales. La caisse «Aide et Protection » le déféra au Conseil d'État.
+
+Le commissaire du gouvernement R. Latournerie a montré que, instituées et administrées conformément aux dispositions de la loi du 1er avr. 1898 sur les sociétés de secours mutuels, elles étaient certes des organismes privés, mais que le législateur avait voulu les soumettre partielle-ment, à raison du caractère d'intérêt général de leur activité, à un régime de droit public. Le droit français, qui reconnaissait déjà la possibilité d'une gestion (SOciété des granites des vosges; 22 janv. 1921, Societe commerciale de l'Ouest africain*), allait connaître désormais celle d'une gestion publique par les personnes privées. Une double conséquence allait en découler. D'une part, comme le dit M. Latournerie, «l'aspect que notre droit offre à présent... n'est pas celui d'une séparation absolue et tranchée entre le domaine du droit public et celui du droit prive, mais celui d'une gradation, d'une hierar-chie des services, où, d'echelon en echelon, les deux droits se combinent et s'entrepénètrent... ». D'autre part, la notion même de service public, conçue jusque-là dans son sens organique d'entreprise de l'administration - c'est en ce sens que l'expression est employée dans l'arrêt Blanco* ﻿﻿acquiert la signification purement matérielle d'activité exercée dans l'intérêt général et soumise à ce titre, au moins partiellement, à un régime de droit public.
+
+Conformément aux conclusions, le Conseil d'État rejeta le recours en déclarant que la loi sur les cumuls était applicable «à tous les agents ressortissant à un organisme chargé de l'exécution d'un service public, même si cet organisme a le caractère d'un établissement privé», et en considérant que «le service des assurances sociales est un service public ».
+
+Déjà, dans l'arrêt du 20 déc. 1935, Établissements Vézia (Rec. 1212; RD publ. 1936.119, concl. R. Latournerie), le Conseil d'État (Ass.) avait **amorcé la dissociation entre le service public entendu comme institution, et le service public entendu comme mission** : en admettant que les sociétes de prévoyance, de secours et de prêts mutuels agricoles groupant obligatoirement les cultivateurs et éleveurs de statut indigène en Afrique occidentale française réalisaient des opérations présentant un « caractere d'intérêt public » justifiant le recours à l'expropriation.
+
+L'arrêt Caisse primaire « Aide et Protection » **va plus loin en introduisant dans le droit administratif français la notion d'organisme privé assurant la gestion d'un service public**.
+
+Ses principes devaient rapidement être étendus à d'autres domaines (v. les arrêts des 31 juill. 1942, Monpeurt*; 2 avr. 1943, Bouguen* ; - Sect., 5 mai 1944, Compagnie maritime de l'Afrique orientale, Rec. 129 ; v. n° 65.12). Cette extension a permis de préciser les critères permettant de reconnaître les organismes privés chargés d'une mission de service public (I) et le régime qui leur est applicable (II).
+
+### I) Les organismes privés chargés d'une mission de service public
+Les organismes privés chargés d'une mission de service public selon la jurisprudence Aide et Protection ne doivent **pas être confondus avec les entreprises privées tenant d'un contrat conclu avec une personne publique une mission de service public**. La solution existait bien avant l'arrêt  
+Caisse primaire «Aide et Protection» avec le système de la concession de service public, qui avait donné lieu à des arrêts importants (CE 10 janv. 1902, Compagnie nouvelle du gaz de Déville-lès-Rouen, Rec. 5; v. n° 20.2; - 11 mars 1910, Compagnie générale française des tramways* 30 mars 1916, Gaz de Bordeaux*). L'arrêt Bertin* du 20 avr. 1956 devait illustrer plus tard d'**autres modes contractuels d'attribution à des personnes privées de l'exécution même du service**. Le législateur lui-même reconnaît et encadre les « conventions de délégation de service public » (loi du 29 janv. 1993), les concessions de service public (désormais Code de la commande publique).
+
+L'une des innovations de l'arrêt Caisse primaire « Aide et Protection » tient à ce qu'il reconnaît qu'**un organisme privé peut être chargé d'un service public en dehors d'un système contractuel, et en le distinguant des établissements publics** (v. nos obs. sous TC 9 déc. 1899, Canal de Gignac*), voire d'autres personnes publiques spécialisées comme les groupements d'intérêt public, qui sont le plus souvent charges d'une mission de service public et dotés de prérogatives de puissance publique (14 févr. 2000, GIP-HIS c. Mme Verdier, Rec. 748; v. n° 7.4). Ici il s'agit de personnes morales de droit privé.
+
+Pour reconnaître qu'elles sont chargées d'une mission de service public, **la jurisprudence a pu paraître fluctuante**. L'arrêt Narcy, rendu par le Conseil d'Etat (Sect.) le 28 juin 1963 (Rec. 401; AJ 1964.91, note.fe maiare ots fires cumulats : une mission d'interet general confiée à l'organisme; les prérogatives de puissance publique qui lui sont attribuées à cette fin; le contrôle que l'administration exerce sur lui.
+
+Mais, Mais, dans l'arrêt Ville de Melun et Association « Melun-culture-loisirs »
+
+c. Vivien et autres du 20 juill. 1990 (Rec. 220; AJ 1990.820, concl.
+
+Pochard; JCP 1991.II.21663, note Fâtome), le Conseil d'Etat a regardé une association «comme gérant, sous le contrôle de la commune, un service public communal», « alors même que l'exercice de ses missions ne comporterait pas la mise en œuvre de prérogatives de puissance publique ». Selon les cas, les prérogatives de puissance publique pouvaient apparaître nécessaires ou indifférentes à la reconnaissance d'un service public ou à l'application d'un régime de droit public.
+
+
+Par l'arrêt du 22 févr. 2007, Association du personnel relevant des établissements pour inadaptés (Rec. concl. Verot; JCP Adm. 2007.2066, concl., note Rouault; RDSS 2007.499, concl., note Koubi et Guglielmi; AJ 2007.793, chr. Lenica et Boucher; JCP 2007.1.166, chr. Plessix; JCP Adm. 2007.2145, note Guglielmi et Koubi; RFDA 2007.803, note Boiteau; DA oct. 2015, étude 12 J. David), relatif, cone légistat sur le semice uid lacs aux doum ras aliminos- tratifs), le Conseil d'Etat (Sect.) a levé les ambiguités.
+
+Il a d'abord réservé les « cas dans lesquels le législateur a lui-même entendu reconnaître ou, a l'inverse, exclure l'existence d'un service public ». En l'espèce, contrairement à l'opinion du commissaire du gou-vernement, 1l a considéré « que si l'insertion sociale et professionnelle des personnes handicapées constitue une mission d'intérêt général, il résulte toutefois des dispositions de la loi du 30 juin 1975, éclairées par leurs travaux préparatoires, que le législateur a entendu exclure que la mission assurée par les organismes privés gestionnaires de centres d'aide par le travail revête le caractère d'une mission de service public ».
+
+. En l'espèce, contrairement à l'opinion du commissaire du gou-vernement, il a considéré « que si l'insertion sociale et professionnelle des personnes handicapées constitue une mission d'intérêt général, il résulte toutefois des dispositions de la loi du 30 juin 1975, éclairées par leurs travaux préparatoires, que le législateur a entendu exclure que la mission assurée par les organismes privés gestionnaires de centres d'aide par le travail revête le caractère public ».
+
+En l'absence d'une qualification législative (expresse, ou implicite, positive ou négative), le Conseil d'État considère qu'un organisme privé peut être chargé d'une mission de service public dans deux hypothèses alternatives.
+
+La première apparaît comme le principe : «une personne privée qui assure une mission d'intérêt général sous le contrôle de l'administration et qui est dotée à cette fin de prérogatives de puissance publique est chargée de l'exécution d'un service public ». Ainsi se retrouvent les trois critères posés par l'arrêt Narcy. Ils sont illustrés par : - les groupements de défense contre les ennemis des cultures (CE, Sect., 13 janv. 1961, Magnier, Rec. 33; RD publ. 1961.155, concl. Fournier; AJ 1961.142, note C.P.; Dr. soc. 1961.335, note Teitgen; GCJA, vol. 2, n° 36, concl.); les organismes sportifs chargés d'organiser des compétitions nationales ou régionales en vertu de dispositions législatives (Sect., 15 mai 1991, Association « Girondins de Bordeaux Football club », Rec. 180, concl.
+
+Pochard; CE 23 oct. 2020, SA Olympique lyonnais, Rec. 1022); - les organismes de protection sociale (CE 4 ma1 2011, Bernardie, Rec. 198 ; concl. Vialettes) ou d'encadrement bancaire (CE 28 sept. 2021, Fonds de garantie des dépôts de résolution, Rec. 537; AJ 2022.59, concl. Hoynck ; DA 2022, comm. 18, Boda).
+
+La seconde hypothèse rejoint la solution de l'arrêt Ville de Melun : «même en l'absence de telles prérogatives, une personne privée doit également être regardée, dans le silence de la loi, comme assurant une mission de service public lorsque, eu égard à l'intérêt général de son activité, aux conditions de sa création, de son organisation ou de son fonctionnement, aux obligations qui lui sont imposées ainsi qu'aux mesures prises pour vérifier que les objectifs qui lui sont assignés sont atteints, il apparaît que l'administration a entendu lui confier une telle mission ».
+
+Cette seconde hypothèse se trouve réalisée avec le festival d'Aix-en- Provence Sect., 2007, Commune d'Aix-en-Provence, 
+e l'association qui le gère a été créée par l'État, la région Provence-Alpes-Côte d'Azur, le département des Bouches-du-Rhône et la commune d'Aix-en-Provence, désignent la presque totalité de son conseil d'administration, le financent pour moitié, lui accordent différentes aides; ainsi les collectivités publiques ont «décide... de faire du festival international d'Aix-en-Provence un service public culturel» (ce qui n'est pas le cas de la Philarmonie de Paris : TC 6 juill. 2020, Société Huet location c. Établissement public Cité de la musique, Rec. 616; BJCP 2020.394, concl. Polge, note S. N.; AJ 2021.739, chr. Malverti et Beaufils).
+
+Les deux hypothèses d'organismes privés chargés d'une mission de service public que reconnaît la jurisprudence se distinguent essentiellement par les prérogatives de puissance publique, qui, nécessaires dans un cas, ne le sont pas dans l'autre. Mais elles se rejoignent sur deux aspects.
+
+Le premier est la mission d'intérêt général. La notion est relative et peut faire l'objet d'appréciations divergentes selon les époques et selon les activités. Ainsi la Française des jeux, faute d'exercer une activité d'intérêt général, n'est pas chargée d'une mission de service public (CE, Sect., 27 oct. 1999, Rolin, Rec. 327
+
+(CE 12 oct. 2018, Boutin et société d'entraînement Mathieu Boutin, Rec. 611; AJ 2018.2338, concl. Odinet).
+
+Même si un organisme exerce une mission d'intérêt général, il n'assure un service public que si les autres critères sont satisfaits. Ainsi, si une société d'économie mixte créée par une ville pour exploiter un cinéma, «qui n'est pas dotée de prérogatives de puissance publique, a, en vertu de ses statuts, une mission d'intérêt général..., son activité, eu égard notamment à l'absence de toute obligation imposée par la ville et de contrôle d'objectifs qui lui auraient été fixés, ne revêt pas le caractère d'une mission de service public... » (CE 5 oct. 2007, Société UGC-Ciné-Cité
+
+. De même, des éléments tels que l'installation par une ville d'un club sportif dans un stade avec quelques obligations, «S'1s concernent des activités d'intérêt général, ne se traduisent pas par un contrôle permettant de caractériser la volonté de la ville d'ériger ces activités en mission de service public » (CE, Sect., 3 déc. 2010, Ville de Paris et Association Paris Jean-Bouin, 
+
+Le second aspect concerne l'importance du rôle de l'administration à l'égard de l'organisme privé. Normalement, c'est d'elle qu'il doit tenir sa mission. Mais il peut arriver qu'un organisme privé ait eu l'initiative d'une activité d'intérêt général et qu'ensuite l'administration soit intervenue (cas de la Cinémathèque selon l'avis préc. de la Section de l'intérieur du 18 mai 2004). Ce rôle ne doit pas se limiter à un contrôle : il faut la volonté de l'administration de confier à l'organisme la mission d'intérêt général dans certaines conditions. À cet égard, la rédaction de l'arrêt du 22 févr. 2007 paraît plus exigeante dans la seconde hypothèse que dans la première. Mais, dans les deux cas, l'intervention de l'administration apparaît comme un élément indispensable à l'attribution d'une mission de service public à un organisme privé.
+
+La Cour de justice de l'Union européenne reconnaît de manière semblable la particularité d'organismes de droit privé chargés par un Etat de l'accomplissement d'une mission d'intérêt public et qui détiennent à cet effet des pouvoirs exorbitants (par ex. 10 oct. 2017, Elaine Farrel c. Alan Whitty, off. C-413/15; RFDA 2018, 378, chr. Mayeur-Carpentier).
+
+II. — La reconnaissance du caractère d'organisme privé chargé d'une mission de service public entraîne un régime comportant dans une certaine mesure l'application du droit public, et, en cas de litige, la compétence du juge administratif.
+
+L'arrêt Caisse primaire « Aide et Protection » en donne une particulière illustration : parce que cette caisse gère un service public, son personnel est soumis aux règles sur les cumuls d'emplois dans les services publics. De même la législation et la jurisprudence sur la grève dans les services publics s'appliquent à ce type d'organismes (v. nos obs. sous l'arrêt CE 7 juill. 1950, Dehaene*).
+
+Toutefois le droit administratif ne s'applique pas entièrement à eux, la juridiction administrative n'est pas toujours compétente à leur égard :
+
+I'un et l'autre n'interviennent que dans la mesure où le service public qu'elles assurent et, le cas échéant, les prérogatives de puissance publique qu'elles exercent sont en cause.
+
+Leurs actes unilatéraux ne sont administratifs et ne peuvent être appréciés par le juge administratif que s'ils sont pris en vertu de ces prérogatives dans l'accomplissement du service public (par ex. CE 28 oct. 2021,
+
+5. nos oEs. sous Tanen ar 3 Suil, 1942, Moxper on arer IC
+
+15 janv. 1968, Époux Barbier*).
+
+Leurs contrats avec d'autres personnes privées ne sont pas administra-tifs, faute de comporter parmi les cocontractants une personne publique, dont la présence est normalement nécessaire à la qualification de contrat administratif (v. nos obs. sous l'arrêt TC 9 mars 2015, Mme Rispal c. Société des autoroutes du Sud de la France*).
+
+Leur responsabilité extra-contractuelle ne relève du droit administratif et n'est appréciée par la juridiction administrative que si elle est engagée par l'exercice de leurs prérogatives de puissance publique (CE 23 mars 1983, SA Bureau Véritas, Rec. 134; v. n° 1.3). En l'absence de l'utilisation de ces pouvoirs, elle relève du droit privé et de la compétence judiciaire, alors même que l'activité en cause se rapporte au service public dont elles sont chargées (TC 3 juill. 2017, Jashari c. Association de réinsertion sociale - service d'accueil et d'orientation de Nancy, Rec. 521; v. nos obs. sous l'arrêt Monpeurt*).
+
+Plus généralement tout ce qui concerne l'organisation et le fonctionnement internes de ces institutions reste placé sous l'emprise du droit privé.
+
+Leur personnel, même si, comme le souligne l'arrêt Aide et Protection, il doit respecter certaines règles de droit public, reste composé d'agents de droit privé; les litiges le concernant continuent à relever du juge judiciaire
+
+Ainsi l'attirance vers le droit public et le juge administratif des organismes de droit privé chargés d'un service public, dans la mesure du
+
+peric qui mision et des pereira competence, a pire dans
+
+la mesure de leur personnalité de droit privé.

@@ -1,0 +1,1 @@
+On distingue selon que l'on se situe en matière contractuelle ou extra-contractuelle (question de responsabilité). Pour les fournisseurs des SPA gérés par une personne publique, comme un livreur, si le tiers est une personne publique, le contrat est présumé administratif. Si le tiers est une personne privée, le contrat est administratif (TC, 1983, **UAP**). 

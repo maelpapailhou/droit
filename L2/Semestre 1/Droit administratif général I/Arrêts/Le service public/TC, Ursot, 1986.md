@@ -1,0 +1,1 @@
+Lorsque ce service bénéficiait encore d’un monopole, l’arrêt **TC, Ursot, 1986** l'a qualifié de SPA. Ensuite, le législateur a scindé le service en deux entités : La Poste et France Télécom.

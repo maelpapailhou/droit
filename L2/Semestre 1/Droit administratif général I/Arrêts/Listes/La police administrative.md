@@ -27,6 +27,10 @@ Mais l'assemblée du contentieux va admettre la légalité de l'interdiction au 
 
 Différence entre moralité publique et dignité humaine.
 
+[[CC, 27 juillet 1994, la loi de bioéthique]]
+Conseil constitutionnel du 27 juillet 1994 sur la loi de bioéthique
+La **sauvegarde de la dignité de la personne humaine contre toute forme d'asservissement et de dégradation** est un principe à valeur constitutionnelle, depuis la décision du Conseil constitutionnel du 27 juillet 1994 sur la loi de bioéthique qui donne déjà un fondement constitutionnel à la dignité. Notion assez restrictive, par exemple, arrêt Commune d'Arcueil, messagerie rose, non attentatoire à la dignité humaine.
+
 [[CAA Douai, 29 décembre 2005, Commune de Waziers]]
 Un arrêté anti-coupure d'eau et anti-coupure d'électricité ne peut pas non plus trouver son fondement dans le respect de la dignité de la personne humaine. En revanche, lorsque le préfet accorde le concours de la force publique pour exécuter une décision de justice, c'est surtout le cas des expulsions, il doit adopter cette décision en tenant compte de ses conséquences au regard de la dignité humaine. Donc le préfet peut refuser d'expulser en se fondant sur le respect de la dignité de la personne humaine.
 

@@ -2,7 +2,7 @@ Dans le Code civil de 1804, il n'y avait aucune disposition consacrée à la man
 
 ### Section 1 : les négociations
 Est-ce qu'un contractant peut mettre fin aux négociations du contrat ? Est-ce qu'on est obligé de révéler à son partenaire toutes les informations que l'on détient ?
-##### Paragraphe 1 : la liberté de négociation
+#### Paragraphe 1 : la liberté de négociation
 
 > **Article 1112 civil**
 > L'initiative, le déroulement et la rupture des négociations précontractuelles sont libres. Ils doivent impérativement satisfaire aux exigences de la bonne foi.
@@ -13,7 +13,7 @@ Ce texte pose trois règles :
 1. **Principe de liberté de négociation** : On est libre de négocier, c’est-à-dire que lorsque l’on commence à négocier, on est toujours libre de mettre fin aux négociations ; on n'est jamais contraint de conclure le contrat. Celui qui rompt ne commet pas de faute, il exerce sa liberté de contracter.
 2. **Possibilité de faute** : Il y a faute lorsque l’on fait croire à son partenaire que l’on est toujours prêt à négocier alors qu’en réalité, il n’y a aucune volonté de le faire. Il y a également faute si l’on rompt brutalement, sans préavis, des négociations bien engagées.
 3. **Indemnisation en cas de faute** : L'arrêt [[Cass. com., 26 nov. 2003, Manouchian]] précise qu’en cas de faute commise pendant les négociations, l’indemnisation ne peut pas compenser la perte de chance d'obtenir un contrat, car il est possible que le contrat n’aurait pas été conclu même sans faute. Les préjudices indemnisables sont les frais de négociation exposés pour rien.
-##### Paragraphe 2 : le devoir générale d'information
+#### Paragraphe 2 : le devoir générale d'information
 Dans les textes spéciaux, il existe de nombreux textes qui précisent que le contractant doit délivrer certaines informations à son partenaire. Par exemple, le vendeur d’une maison doit fournir un certain nombre d’informations sur la maison, telles que la présence ou l'absence de plans, ou si la maison est infestée de fourmis, etc.
 
 Réforme : Depuis la réforme, l’article 1112-1 du Code civil constitue une obligation générale d’information, qui n’a été introduite qu’avec la réforme. "Générale" signifie que cette disposition s’applique à tous les contrats. Cette disposition se divise en deux parties :
@@ -41,6 +41,7 @@ Cette solution s'inspire de la jurisprudence déjà établie dans deux arrêts :
 
 En outre, il est important de distinguer l'ignorance légitime d'une information de l'ignorance illégitime. Le propriétaire d'une maison veut la vendre car, entre autres, elle est déjà ancienne. Sur le terrain voisin, un projet de construction d'une école primaire est en cours, qui, s'il est réalisé, modifiera complètement l'environnement voisin. Il s'agit d'une ignorance légitime lorsque le vendeur ne partage pas l'information du projet de construction si le projet est connu du public. En revanche, un consommateur a tendance à faire confiance à un homme d'affaires. S'il s'agit d'une information qu'un citoyen moyen ne peut pas connaître, le commerçant doit l'expliquer au client potentiel.
 ##### 2) Le régime d’information 
+
 **Charge de la preuve (al. 4)** : L'alinéa 4 prévoit un partage de la charge de la preuve. Par exemple, lorsqu'un contrat est conclu, la personne qui affirme que son cocontractant aurait dû l'informer doit prouver que l'information en question était effectivement déterminante pour son consentement (il lui appartient de prouver les conditions d'application de cet article). Si elle parvient à le prouver, il revient alors à l'autre partie de démontrer qu'elle a bien informé son cocontractant de cette information. Le professeur conseille que le partage de toute information soit fait par écrit. Ainsi, on a directement la preuve que le partage d’information a bien eu lieu.
 
 **L’intensité de l’information (al. 5)** : Les contractants ne peuvent ni exclure ni restreindre cette obligation d'information lorsqu'elle relève de l'ordre public. Il est fréquent que les parties souhaitent conclure un contrat avant une date précise (intérêt d’impôts). Pour accélérer le processus, le vendeur peut être tenté de limiter ou d'encadrer son obligation d'information. Cependant, cela n'est pas permis. Encadrer et limiter l’obligation d’information n’est pas possible.
@@ -67,7 +68,7 @@ Plus que les destinataires de l’offre, ce sont ses caractères qui sont essent
 1. **La précision :** l’offre doit d’abord être précise, c’est-à-dire qu’elle doit contenir tous les éléments essentiels du contrat à intervenir. *Ex : panneau “À vendre” n’est pas une offre au sens juridique du terme car il n’y a pas de clause de prix, et tous les éléments essentiels à intervenir.* C’est une invitation à entrer en pourparlers.
 2. **La fermeté :** l’offre doit ensuite être ferme, c’est-à-dire qu’elle doit exprimer la volonté de son auteur d’être lié en cas d’acceptation. En pratique, il existe des offres conditionnelles ou des offres avec réserve qui ne sont pas des offres. *Ex : organisme de crédit, il n’exprime pas la volonté d’être lié en cas d’acceptation car sous réserve d’étude de dossier.*
 
-##### B) Le régime juridique de l'offre
+###### B) Le régime juridique de l'offre
 S’illustre dans deux hypothèses :
 
 1. La rétractation de l’offre : pose la question de savoir si celui qui a émis une offre peut la rétracter, si l’offrant peut ou non rétracter l’offre qu’il a émise. Le code civil invite à distinguer deux hypothèses :
@@ -152,13 +153,15 @@ Très restrictif car difficile à démontrer, mais repris par la réforme de 201
 
 L'ordonnance de 2016 a créé une nouveauté à propos du pacte de préférence, qui est une action interrogatoire permettant de sécuriser la situation. Les alinéas 3 et 4 prévoient que le tiers qui envisage de contracter et qui doute si le bien qu'il envisage d'acheter est l'assiette d'un pacte de préférence, a le droit d'interroger et de poser les questions suivantes : si on est bénéficiaire d'un pacte de préférence et si on a l'intention de se prévaloir de ce pacte.
 #### Paragraphe 2 : la promesse unilatérale
-La promesse unilatérale est un contrat par lequel une personne appélleé le prometant s'engage définitivement a vendre un bien pour un prix donné, a une personne appellée le bénéficiaire de la promesse qui lui reste libre d'acheter ou de ne pas acheter le bien pendant un délais appelé le délais de l'option. La principale difficultée posée par la promesse unilatérale de vente c'est eventuelle retractation du promettant pendant délais de l'option laissé au bénéficiaire pour lever l'option.
-Avant la réforme de 2016 la jurisprudence retenait le 15 décembre 1993 (Consort Crous) dans lequel elle avait considéré que le promettant avait commis une faute en retractant sa promesse mais qu'il devait seulement des dommages-interets, qu'en aucun cas il était possible de contraindre le promettant à executer sa promesse.  Arret critiqué car auteurs y voyait une atteinte à la force des conventions. Sanction la plus naturelle serai execution forcée du contrat. 
+La promesse unilatérale est un contrat par lequel une personne, appelée le promettant, s'engage définitivement à vendre un bien pour un prix donné, à une personne appelée le bénéficiaire de la promesse, qui reste libre d'acheter ou de ne pas acheter le bien pendant un délai, appelé le délai de l'option. La principale difficulté posée par la promesse unilatérale de vente est la rétractation éventuelle du promettant pendant le délai de l'option laissé au bénéficiaire pour lever l'option.
 
-En dépit de toutes ces critiques doctrinales, la jurisprudence maintenait sa position et la réforme de 2016 articel 1124 alinéa 2 a opéré un bris de jurisprudence. 
+Avant la réforme de 2016, la jurisprudence retenait un arrêt du 15 décembre 1993 (Consorts Crous) dans lequel elle avait considéré que le promettant avait commis une faute en rétractant sa promesse, mais qu'il ne devait que des dommages-intérêts. Il n'était en aucun cas possible de contraindre le promettant à exécuter sa promesse. Cet arrêt a été critiqué, car certains auteurs y voyaient une atteinte à la force des conventions, la sanction la plus naturelle étant l'exécution forcée du contrat.
 
-> La révocation de la promesse pendant le temps laissé aux bénéficiaires pour ?? n'empeche pas la formation du contrat.
+En dépit de ces critiques doctrinales, la jurisprudence maintenait sa position, mais la réforme de 2016, par l'article 1124 alinéa 2, a opéré un revirement de jurisprudence :
 
-Si promettant se retracte, sa retractaiton n'empechera pas la formation du contrat promis. 
+> **Article 1124 alinéa 2**
+> La révocation de la promesse pendant le temps laissé au bénéficiaire pour lever l'option n'empêche pas la formation du contrat.
 
-Sur cette question, après le 1er octobre 2016, la jurisprudence restait fermement attachée à la juriprudence Consort crous, et refusait d'opérer un revirement de jurisprudence. Ce revirement est arrivé assez tardivement, puisque c'est que par un arrêt du 23 juin 2021 et du 15 mars 2023 que la cour de cassation a opéré un revirement de jurisprudence, et qu'elle a adopté la solution nouvelle pour les pormesses convenues avant le premier octobre 2016. 
+Ainsi, si le promettant se rétracte, sa rétractation n'empêchera pas la formation du contrat promis.
+
+Sur cette question, après le 1er octobre 2016, la jurisprudence restait fermement attachée à la jurisprudence Consorts Crous et refusait d'opérer un revirement. Ce revirement est finalement intervenu tardivement, par un arrêt du 23 juin 2021 et un arrêt du 15 mars 2023, la Cour de cassation adoptant alors la nouvelle solution pour les promesses convenues avant le 1er octobre 2016.
