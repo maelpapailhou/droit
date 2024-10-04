@@ -1,0 +1,2 @@
+**Arrêt Baldus** : Une personne, en faisant du rangement dans son grenier, découvre de vieilles photos. Elle décide de les vendre, et un acheteur se présente. Celui-ci reconnaît que les photos sont l'œuvre d'un photographe très renommé mais ne dit rien au vendeur et achète les photos à un prix très bas. Le vendeur engage un procès contre l'acheteur, lui reprochant de ne pas l'avoir informé de la véritable valeur des photos. La Cour de cassation a jugé qu'aucune obligation d'information ne pèse sur l'acheteur quant à la véritable valeur des photographies.`
+

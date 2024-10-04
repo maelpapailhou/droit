@@ -9,11 +9,11 @@
 > Par exception, la validité des contrats solennels est subordonnée à l'observation de formes déterminées par la loi à défaut de laquelle le contrat est nul, sauf possible régularisation.
 > En outre, la loi subordonne la formation de certains contrats à la remise d'une chose.
 
-Ce sont les conditions de fond, mais article 1172 évoque en certaines hypothèses des conditions de forme.
+Ce sont les conditions de fond, mais l'==article 1172== évoque en certaines hypothèses des conditions de forme.
 ### Sous section 1 : les conditions de fond du contrat
-Ces conditions doivent être remplies pour tous les contrats. 3 conditions de fond qui doivent être réunis :
+Ces conditions doivent être remplies pour tous les contrats. **3 conditions de fond qui doivent être** réunis :
 #### Paragraphe 1 : le consentement des parties
-Le principe est que le consentement donné à un contrat doit être libre et éclairé. La personne doit avoir pleinement conscience de l’engagement qu’elle souscrit. Le Code civil ne formule pas cette règle de manière positive, mais il pose certaines hypothèses qui peuvent vicier le consentement. Ce sont les vices du consentement (erreur, dol et violence).
+Le principe est que **le consentement donné à un contrat doit être libre et éclairé**. La personne doit avoir pleinement **conscience de l’engagement qu’elle souscrit**. Le Code civil ne formule **pas cette règle de manière positive**, mais il pose certaines **hypothèses qui peuvent vicier le consentement**. Ce sont les vices du consentement (**erreur, dol et violence**).
 ##### 1) Les règles communes à tous les vices du consentement
 ###### ***1.a) Les règles leur caractère déterminant***
 La première règle est leur caractère déterminant. C’est-à-dire que le contractant doit montrer que s’il n’y avait pas eu le dol, l’erreur ou la violence, il n’aurait pas consenti, donc que ce vice est déterminant. Cette recherche est casuistique. Elle laisse au juge une marge de manœuvre pour annuler le contrat ou, au contraire, le maintenir.
@@ -22,18 +22,18 @@ Exemples :
 - Un étudiant envoie un CV et des lettres manuscrites à des entreprises. Son CV est moyen et sa lettre manuscrite est mal écrite. Si l’étudiant modifie faussement son CV et demande à quelqu’un d’écrire la lettre à sa place, l’employeur est victime d’un dol et peut demander l’annulation du contrat de travail. La Cour de cassation, chambre sociale, a jugé que l’employeur ne démontrait pas le caractère déterminant du dol.
 - Un pharmacien achète l’officine d’une pharmacie et reprend donc le personnel déjà salarié dans cette pharmacie. Le pharmacien s’aperçoit que la personne qui se présentait comme préparatrice en pharmacie ne disposait pas de son diplôme. Le juge a considéré que le caractère déterminant de l’erreur n’était pas démontré.
 
-###### **1.b) Le vice du consentement***
-Lorsqu’un vice du consentement est retenu (lorsque le juge affirme qu’il y a erreur, dol, le contrat sera annulé et la nullité sera relative). En cas de vice du consentement, la nullité est relative.
+###### 1.b) Le vice du consentement
+Lorsqu’un vice du consentement est retenu (lorsque le juge affirme qu’il y a erreur, dol, le contrat sera annulé et la nullité sera relative). En cas de vice du consentement, la nullité est relative. %% CORRIGER%%
 
-###### **1.c) La prescription***
-Un contractant dispose d’un délai de 5 ans pour faire annuler un contrat, mais le point de départ de ce délai varie : c’est 5 ans à compter de la découverte du dol ou 5 ans dès que la violence cesse.
+###### 1.c) La prescription
+Un contractant dispose **d’un délai de 5 ans pour faire annuler un contrat**, mais le point de départ de ce délai varie : c’est **5 ans à compter de la découverte du dol** ou **5 ans dès que la violence cesse**.
 ##### 2) Les différents vices du consentement
 
-###### ***2.a) L'erreur***
-C’est un contractant qui croyait que l’erreur était vraie, alors que c’était faux. Toutes les erreurs ne seront pas cependant susceptibles. Il y a en effet des erreurs indifférentes et des erreurs vices du consentement.
+###### *2.a) L'erreur*
+C’est un **contractant qui croyait que l’erreur était vraie**, alors que c’était faux. Toutes les erreurs ne seront pas cependant susceptibles. Il y a en effet des erreurs indifférentes et des erreurs vices du consentement.
 
 ###### *2.a.i) Les erreurs indifférentes*
-Quand bien même un contractant démontre s’être trompé sur certains éléments, le contrat sera néanmoins maintenu. Donc, erreurs indifférentes.
+Quand bien même un contractant **démontre s’être trompé sur certains éléments, le contrat sera néanmoins maintenu**. Donc, erreurs indifférentes.
 
 > **Article 1136 civ**
 > L'erreur sur la valeur par laquelle, sans se tromper sur les qualités essentielles de la prestation, un contractant fait seulement de celle-ci une appréciation économique inexacte, n'est pas une cause de nullité.
@@ -45,21 +45,23 @@ Quand bien même un contractant démontre s’être trompé sur certains éléme
 **2 erreurs sont indifférentes :**
 
 1. **Erreur sur la valeur***
-    - La règle est posée à l’article 1136 du Code civil : l’erreur sur la valeur par laquelle un contractant fait de celle-ci une appréciation économique n’est pas cause de nullité.
+    - La règle est posée à l’==article 1136 du Code civil== : *l’erreur sur la valeur par laquelle un contractant fait de celle-ci une appréciation économique n’est pas cause de nullité*.
     - *Exemple : on vend un objet 1 euro alors qu’il vaut 15, l’erreur sur la valeur n’est pas cause de nullité.*
-    - Cela peut paraître étonnant car la valeur est fondamentale au contrat et que le consentement dépend de la valeur, du prix qu’on va recevoir. Pourtant, cette solution est parfaitement fondée.
-    - La règle est que chaque contractant doit se faire sa propre appréciation de la valeur du bien. C’est sur cela que repose tout échange économique. À ses risques et périls.
-    - Il est aussi souvent difficile de déterminer la valeur objective d’un bien. Offre et demande.
-    - Cela permet également d’éviter l’encombrement des juridictions.
+    - Cela peut paraître **étonnant car la valeur est fondamentale au contrat et que le consentement dépend de la valeur**, du prix qu’on va recevoir. Pourtant, cette solution est parfaitement fondée.
+    - La règle est que **chaque contractant doit se faire sa propre appréciation de la valeur du bien**. C’est sur cela que **repose tout échange économique**. À ses risques et périls.
+    - Il est aussi souvent **difficile de déterminer la valeur objective d’un bien**. Offre et demande.
+    - Cela permet également d’**éviter l’encombrement des juridictions**.
 
 2.  **Erreur sur les motifs déterminants**
-    - Article 1335 du Code civil :
-        - Principe alinéa 1 : “L’erreur sur un simple motif n’est pas une cause de nullité”. On contracte tous pour des raisons qui nous sont personnelles. Si on se trompe sur les motifs qui conduisent à conclure le contrat, on ne peut pas espérer en obtenir l’annulation.
+    - ==Article 1335 du Code civil== :
+        - **Principe** 
+	        - ==alinéa 1 ==: “*L’erreur sur un simple motif n’est pas une cause de nullité*”. On contracte tous pour des raisons qui nous sont personnelles. Si on se trompe sur les motifs qui conduisent à conclure le contrat, on ne peut pas espérer en obtenir l’annulation.
             - *Exemple : maison achetée pour logement familial, femme trompe, mais contrat maintenu.*
             - Acheteur qui achète un bien immobilier pour faire une opération de défiscalisation, et s’aperçoit que la défiscalisation n’est pas possible. En ce cas, le contrat de vente sera néanmoins maintenu.
-        - Principe tempéré par la suite : “L’erreur sur un simple motif n’est pas une cause de nullité, à moins que les parties n’en aient fait expressément un élément déterminant de leur consentement”, c’est-à-dire que les parties peuvent contractualiser les motifs déterminants de l’une d’elles.
+        - **Principe tempéré par la suite**
+	        - “*L’erreur sur un simple motif n’est pas une cause de nullité, à moins que les parties n’en aient fait expressément un élément déterminant de leur consentement*”, c’est-à-dire que **les parties peuvent contractualiser les motifs déterminants de l’une d’elles**.
             - Souvent, le vendeur qui est un promoteur immobilier s’engage lui-même sur la possibilité de défiscaliser. Ainsi, le motif propre à l’acheteur intègre le champ contractuel.
-            - Donc, il ne suffit pas que le cocontractant connaisse le motif qui anime l’autre contractant, mais qu’il ait accepté expressément ce motif dans le champ contractuel.
+            - Donc, il ne suffit pas que le cocontractant connaisse le motif qui anime l’autre contractant, mais qu’il ait **accepté expressément ce motif dans le champ contractuel**.
             - Exemple : robe de mariée, mariage annulé, motif connu mais pas expressément entré dans le champ contractuel, donc on paie la robe.
 
 ###### *2.a.ii) Les erreurs admises*
@@ -90,11 +92,11 @@ Le texte invite à faire trois précisions :
 		- [[Cass 3e Ch. civile, 31 mars 2005, Appréciation erronée de la rentabilité économique]]: 
 			- en l’espèce, une personne achète un immeuble pour le mettre en location. Elle s’aperçoit que le marché locatif est très mauvais et qu’elle ne tire pas toute la rentabilité espérée de l’immeuble. “L’appréciation erronée de la rentabilité économique de l’opération n’est pas constitutive d’une erreur sur la substance de nature à vicier le consentement du contractant à qui il appartenait d’apprécier la valeur économique et les obligations qu’il souscrivait”. 
 		- Ce principe connaît une atténuation très particulière dans les contrats de franchise. Ce sont les contrats par lesquels un commerçant qui a connu une réussite commerciale grâce à un savoir-faire particulier va transmettre ce savoir-faire à son franchisé afin que ce dernier connaisse le même succès. En droit français, avant de conclure le contrat, le franchiseur doit faire une étude économique de marché afin d’informer le franchisé de l’état économique du marché. Souvent, les franchiseurs vont plus loin que cela et proposent aux franchisés de véritables prévisionnels. 
-		- [[Cass Ch. commerciale, 4 octobre 2011 et 12 juin 2012, erreur sur la rentabilité attendue d'une franchise]]: le consentement du franchisé avait pu être vicié pour erreur sur la rentabilité attendue de l’opération. La portée de ces arrêts est à nuancer. Certains considèrent qu’il y a une amorce de la jurisprudence et que la Cour de cassation serait prête à admettre de manière générale l’erreur sur la rentabilité. D’autres auteurs considèrent que ces notions sont dérogatoires et ne s’appliquent que sur les contrats de franchise, où la rentabilité est au cœur du contrat.
+			- [[Cass Ch. commerciale, 4 octobre 2011 et 12 juin 2012, erreur sur la rentabilité attendue d'une franchise]]: le consentement du franchisé avait pu être vicié pour erreur sur la rentabilité attendue de l’opération. La portée de ces arrêts est à nuancer. Certains considèrent qu’il y a une amorce de la jurisprudence et que la Cour de cassation serait prête à admettre de manière générale l’erreur sur la rentabilité. D’autres auteurs considèrent que ces notions sont dérogatoires et ne s’appliquent que sur les contrats de franchise, où la rentabilité est au cœur du contrat.
 - **Lorsqu’elle porte sur les qualités essentielles du cocontractant** :
     - Dans certains contrats, l’identité du cocontractant est parfaitement indifférente. On vend un objet à un acheteur, peu importe lequel. Mais il y a d’autres contrats dans lesquels l’identité du contractant est un élément essentiel du consentement. Si on se trompe sur ces qualités du cocontractant, on pourra obtenir l’annulation du contrat. C’est ce qu’on appelle “intuitu personae”. Exemple : société commerciale, litige avec un partenaire. Dans le contrat conclu, il y a une clause compromissoire : en cas de litige, ce n’est pas le tribunal judiciaire mais un tribunal arbitral qui est désigné pour juger le litige. Cette notion est fluctuante, c’est le juge au cas par cas qui dira si tel contrat est conclu intuitu personae. [[Arrêt 1950 - Balleresse]] : Balleresse gagne car il loue à un couple non marié, contrat annulé.
 
-##### ***2.b) Le dol***
+##### 2.b) Le dol
 
 > **Article 1137 civil et suivants**
 > Le dol est le fait pour un contractant d'obtenir le consentement de l'autre par des manœuvres ou des mensonges.
@@ -151,7 +153,9 @@ La pression peut être physique, mais le plus souvent elle sera morale. Une pers
 
 ###### *2.c.i) L'auteur de la violence*
 **L’auteur de la violence :**
-À la différence de l’article 1137, l’article 1140 du Code civil est totalement silencieux sur la question. On déduit donc que la violence, la menace, la pression, peut émaner d’un contractant comme d’un tiers. Adage : “Là où la loi ne distingue pas, il n’y a pas lieu de distinguer.”
+À la différence de l’article 1137, l’article 1140 du Code civil est totalement silencieux sur la question. On déduit donc que la violence, la menace, la pression, peut émaner d’un contractant comme d’un tiers. 
+
+> Adage : “Là où la loi ne distingue pas, il n’y a pas lieu de distinguer.”
 
 ###### *2.c.ii) Les éléments constitutifs de violence*
 **Violence économique :**
@@ -168,7 +172,7 @@ La pression peut être physique, mais le plus souvent elle sera morale. Une pers
 		- Le Code de la consommation et le Code de commerce contiennent des textes spéciaux qui sanctionnent l’abus de faiblesse ou l’abus de position dominante.
 - **Question : dans le droit commun du contrat, doit-il en aller de même ?** 
 	- La Cour de cassation était prête à franchir le pas, [[Cass Ch. civile, 3 avril 2002, Salariée de Larousse]], salariée de Larousse : “Seule l’exploitation abusive d’une situation de dépendance économique faite pour tirer profit de la crainte d’un mal menaçant directement les intérêts de la personne peut vicier de violence le consentement à l’acte juridique”. 
-	- La réforme pose l’article 1143 : “Il y a également violence lorsqu’une partie abuse de l’état de dépendance dans lequel se trouve son cocontractant pour obtenir de lui un engagement qu’il n’aurait pas souscrit en l’absence d’une telle contrainte et en tire un avantage manifestement excessif.” Il faut d’abord un état de dépendance et un abus de cet état de dépendance. 
+	- La réforme pose l’==article 1143== : “*Il y a également violence lorsqu’une partie abuse de l’état de dépendance dans lequel se trouve son cocontractant pour obtenir de lui un engagement qu’il n’aurait pas souscrit en l’absence d’une telle contrainte et en tire un avantage manifestement excessif.”* Il faut d’abord un état de dépendance et un abus de cet état de dépendance. 
 		- *Exemple : le divorce est un contrat, un époux amoureux accepte des conditions de divorce contraires à ses intérêts.*
 - **Conditions :** 
 	1. Il faut un état de dépendance et un abus de cet état de dépendance ; 
@@ -343,12 +347,6 @@ _Ex._Pour ces raisons, on retenait que « les malades jouissant d'une liberté 
   
 Subtile et hypocrite, cette jurisprudence obligeait donc les praticiens à naviguer entre la cession prohibée et la présentation licite. Cette subtilité a cessé depuis un arrêt qui a retenu que :  
 
-_Ex._« si la cession de clientèle médicale, ..., n'est pas illicite, c'est à la condition que soit sauvegardée la liberté de choix du patient » (
-
- [Cass. civ. 1ère, 7 novembre 2000](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000007042229) 
-
-, JCP G 2001, II, 10452, note F. Vialla ; RTD civ. 2001, 167, obs. Th. Revet ; RTD civ. 2001, 130, obs. J. Mestre, B. Fages ; Cass. com., 24 septembre 2003, n° [00-10.355](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000007461229&fastReqId=546101446&fastPos=1) : « la cession d'une clientèle libérale n'est pas en principe illicite » ; pour une appréciation de la liberté de choix laissée au client à la suite d'une cession d'office notarial, voir Cass. 1ère civ., 14 novembre 2012, JCP G 2013, 124, obs. M. Mekki ; RDC 2013, p. 540, obs. Y.-M. Laithier ; RTD. civ. 2013, p. 113, obs. B. Fages ; Cass. civ. 1ère, 10 avril 2013, RTD. civ. 2013, p. 369, obs. H. Barbier).
-
 ###### 2.c) Les prestations doivent être déterminées ou déterminables
 ###### 2.C.i) Détermination de la prestation (autre que monétaire)
 
@@ -367,8 +365,6 @@ Il faut donc que les contractants soient vigilants à définir le plus précisé
 - Une chose déterminable. On admet aussi que la chose puisse être simplement déterminable : les parties repoussent alors la détermination de la chose à une date ultérieure et se contentent de fixer les éléments qui rendront la détermination possible sans qu'un nouvel accord soit nécessaire.
 
 _Ex._Par exemple, le contrat porte sur les marchandises qui composeront le stock au 1er décembre 2021. Il arrive fréquemment qu'un l'objet du contrat soit unilatéralement déterminé par un contractant. Voici par exemple, un fournisseur qui impose une clause de gamme ou de collection (par laquelle son distributeur s'oblige à acquérir toute la collection de produits que, par hypothèse, il ne connaît pas encore). Alors que ces clauses semblent fréquentes en droit de la distribution, elles ont fat l'objet d'assez peu de contentieux. Seules les hypothèses de location de stocks de cassettes-vidéo ont été examinées par la jurisprudence.  
-Cass. civ. 1ère, 23 mai 1995, D. 1996, som. 114, obs. L. Aynès ; Rép. Defrénois 1996, 345, note Ph. Delebecque ; RTD civ. 1995, 620, note J. Mestre : « N'est pas nul le contrat de location de vidéogrammes qui ne mentionne que le genre des films donnés en location et non leur titre, dès lors que la convention stipule au profit du locataire une possibilité d'échange des films et qu'ainsi, la désignation de l'objet, suffisamment précise, n'est pas laissée à la seule volonté du bailleur » ; et Cass. com., 19 novembre 1996, D. 1997, 609, note Zelcevic-Duhamel : « Est en revanche nul le contrat de création d'un point de vente et de location de vidéogrammes qui, s'il prévoit un échange de cassettes, ne stipule la gratuité que pour le premier échange, et laisse au loueur la possibilité discrétionnaire de fixer l'objet de la convention, en plaçant, à sa guise, les cassettes dans l'une des trois catégories prévues, dont les tarifs sont différents ».
-
   
   
 - Détermination de la qualité de la chose. L'article [1166](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=93131F27E99E7E44060578AB66A6416A.tpdila14v_2?idArticle=LEGIARTI000032041135&cidTexte=LEGITEXT000006070721&categorieLien=id&dateTexte=20161001) dispose que :  
@@ -399,8 +395,6 @@ Par ces contrats, les parties signent un accord qui fixe le cadre dans lequel vi
 Validité de la clause de prix catalogue
 
 C. civ., art. [1164] .
-
-_Tx._« Dans les contrats-cadre, il peut être convenu que le prix sera fixé unilatéralement par l'une des parties... ».
 
 L'article 1164 valide les clauses de prix catalogue. Ce faisant, il consacre une célèbre évolution jurisprudentielle.  
   
@@ -467,7 +461,7 @@ _Tx._« Dans les contrats synallagmatiques, le défaut d'équivalence des prest
 
 L'article [1168](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=93131F27E99E7E44060578AB66A6416A.tpdila14v_2?idArticle=LEGIARTI000032041125&cidTexte=LEGITEXT000006070721&categorieLien=id&dateTexte=20161001) pose donc le principe que, même si le contrat est déséquilibré, il n'a pas à être annulé. La lésion n'est donc pas une cause de nullité de contrat.  
   
-Cette solution peut paraître surprenante car elle favorise l'exécution de contrats déséquilibrés (C. Guelfucci-Thibierge, « Libres propos sur la transformation du droit des contrats », RTD civ. 1997, 378, spéc., n° 29 ; D. Mazeaud, « Le principe de proportionnalité et la formation du contrat », LPA 1998, n° 117). Elle est pourtant parfaitement justifiée : d'abord, elle traduit le fondement libéral du droit des contrats en rappelant que les parties doivent veiller à l'équilibre de leur contrat et en sont les meilleurs juges ; ensuite, d'un point vue économique, elle souligne le fait qu'il est difficile de fixer une valeur « objective » des biens et services ; enfin, elle favorise la sécurité juridique en évitant que les contrats ne soient trop facilement remis en cause.  
+Cette solution peut paraître surprenante car elle favorise l'exécution de contrats déséquilibrés . Elle est pourtant parfaitement justifiée : d'abord, elle traduit le fondement libéral du droit des contrats en rappelant que les parties doivent veiller à l'équilibre de leur contrat et en sont les meilleurs juges ; ensuite, d'un point vue économique, elle souligne le fait qu'il est difficile de fixer une valeur « objective » des biens et services ; enfin, elle favorise la sécurité juridique en évitant que les contrats ne soient trop facilement remis en cause.  
   
 Elle a été mise en œuvre juste après la réforme :
 
@@ -495,7 +489,6 @@ Cette présentation fut combattue sans succès par Planiol, au XIXème siècle,
   
 Malgré ces critiques, la jurisprudence recourait souvent à la notion de cause pour s'assurer que chaque partie supportait effectivement des obligations et pour annuler le contrat dépourvue de cause, c'est-à-dire sans contrepartie.  
 
-_Ex._Cass. civ., 30 décembre 1941, D. 1942, 98 : « Dans un contrat synallagmatique, l'obligation de chaque contractant trouve sa cause dans l'obligation, envisagée par lui comme devant être effectivement exécutée, de l'autre contractant ».
 
   
 Sans employer le mot de « cause », le nouvel article souligne le moment auquel doit s'apprécier l'existence de la contrepartie et la nécessité de sa réalité.  
@@ -506,7 +499,6 @@ Sans employer le mot de « cause », le nouvel article souligne le moment auqu
   
 La contrepartie « dérisoire » vise les hypothèses où la contrepartie existe mais est si insignifiante qu'elle confine à l'absence de contrepartie. Une jurisprudence nourrie, rendue avant la réforme, illustre ces cas de figure : brevet dépourvu d'utilité, agrément administratif auquel n'est attaché aucun droit, contrat d'exclusivité comportant une contrepartie dérisoire.  
 
-_Ex._Cass. com., 14 octobre 1997, Rép. Defrénois 1998, 1040, note D. Mazeaud : « au regard de l'engagement souscrit par le distributeur, qui consistait à s'approvisionner exclusivement et pendant cinq ans auprès de son fournisseur, l'engagement pris par ce dernier d'obtenir un prêt au profit de son contractant et le cautionner, est dérisoire ; le contrat est donc nul pour absence de cause » ; Cass. com., 8 février 2005, RDC 2005, p. 684, obs. D. Mazeaud : « l'engagement pris par un fournisseur, en contrepartie d'un engagement d'approvisionnement exclusif, de cautionner à concurrence de 20 % un prêt conclu par son cocontractant, était dérisoire et le contrat était donc nul pour absence de cause
 
 ###### 3.B.ii) Les clauses privant de substance l'obligation essentielle
 

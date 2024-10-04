@@ -1,4 +1,3 @@
-### Préliminaire : la classification tripartie de l'infraction pénale
 **La classification de l'infraction pénale est la division fondamentale du droit pénal**. Elle est présentée à l'article 111-1 du Code pénal (1er article du 1er livre). Les infractions pénales sont classées suivant leur gravité en crimes, délits et contraventions. L'ancien Code pénal de 1810 ne présentait pas les choses de la même manière, il avait privilégié une classification en fonction de la gravité de la peine. Comme la gravité de la peine dépend de l'infraction, rien n'a véritablement changé. C'est pareil.
 
 > **Article 111-1 pénal**
