@@ -1,6 +1,6 @@
 **Cass. civ. 3ème, 17 janvier 2007, n°06-10442 ; D. 2007, p. 1051, note D. Mazeaud et p.** **1054, note Ph. Stoffel-Munck ; RDC 2007, p. 703, obs. Y.-M. Laithier ; CCC 2007,** **comm. n°117, obs. L. Leveneur ; Rép. Defrénois 2007, p. 443, obs. E. Savaux ; JCP G** **2007, II, 10042, note C. Jamin.**
 
-```
+
 Sur le moyen unique :
 
 Vu l'article 1116 du code civil ;
@@ -14,4 +14,4 @@ Qu'en statuant ainsi, alors que l'acquéreur, même professionnel, n'est pas ten
 PAR CES MOTIFS :
 
 CASSE ET ANNULE
-```
+

@@ -1,0 +1,1 @@
+- Les ordonnances de l’article 38 de la Constitution constituent des actes administratifs tant qu’elles n’ont pas été ratifiées par le Parlement. Contrôle du juge administratif, CE Ass., 24 novembre 1961, _Fédération nationale des syndicats de police_.

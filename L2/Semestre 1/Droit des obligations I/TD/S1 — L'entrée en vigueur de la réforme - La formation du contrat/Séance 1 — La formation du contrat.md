@@ -1,5 +1,5 @@
 **Cass. civ. lère, 6 janvier 2022, n° 19-21071**
-```
+
 Exposé du litige
 
 1. ﻿﻿﻿Selon l'arrêt attaqué (Chambéry, 11 juin 2019), M. C.., représentant légal de la société civile immobilière des Buchillons 2 (la SCI des Buchillons), a, le 9 décembre 2014, proposé d'acquérir deux immeubles à usage commercial, appartenant aux sociétés civiles immobilières Alp'2001 et SCI 91. Leur gérant, M. W..., lui a répondu par courriel du 17 décembre 2014, en formulant une offre de vente valable jusqu'au 9 janvier 2015.
@@ -17,5 +17,4 @@ Réponse de la Cour
 7. Le moyen n'est donc pas fondé.
 
 PAR CES MOTIFS, la Cour : REJETTE le pourvoi ;
-```
 

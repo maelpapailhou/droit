@@ -1,0 +1,1 @@
+- Idem pour les actes du président de la République pris sur la base d’une habilitation référendaire (CE, 19 octobre 1962, _Canal_).

@@ -1,0 +1,1 @@
+- Il contient aussi **les droits et devoirs énoncés par la Charte de l’environnement** : le Conseil constitutionnel, dans sa décision du 19 juin 2008 sur les OGM, a affirmé que « *l’ensemble des droits et devoirs définis dans la Charte de l’environnement a valeur constitutionnelle* » (CE Ass. 3 octobre 2008, Commune d’Annecy).

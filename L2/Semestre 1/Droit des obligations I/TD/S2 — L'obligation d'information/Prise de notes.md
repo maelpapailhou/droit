@@ -23,6 +23,7 @@ Cette solution là va pas forcement s'appliquer à tous type de contrat. Si util
 Solution vraimetn encadrée, car dans domaines voisijsn si info porte sur qualité essentiele de la chose vendue alors le dol peut etre retenu. 
 
 
+I) J'ai pas noté le titre
 
 A ) le domaine propre de la solution
 - termes itilisés par la cour de cassation : acquéreur et vendeur, elle privilege pas un terme générique comme co contractant, donc soliution limitée aux contrats de vente

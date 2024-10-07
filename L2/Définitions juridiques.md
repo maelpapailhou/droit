@@ -13,7 +13,6 @@ Expression générique désignant des entités de droit public correspondant à 
 ### Délégalisation
 Technique prévue à l'article 37 al. 2 de la Constitution de 1958 permettant au Gouvernement, d'une part, de modifier par décret, après avis du Conseil d'Etat, des dispositions législatives adoptées avant 1958 dans des matières devenues réglementaires depuis lors et, d'autre part et surtout, de demander au Conseil constitutionnel de déclarer que certaines dispositions législatives adoptées depuis 1958 l'ont été à tort car relevant du domaine réglementaire et peuvent donc être modifiées par le règlement.
 
-
 ### Acte unilatéral
 Acte juridique résultant de la manifestation de volonté d'une seule personne (tes-tament, congé, reconnaissance d'enfant, renonciation) produisant tel effet de droit spécifique : transfert du patrimoine post-mortem, résiliation d'un contrat, établissement d'un lien de filiation...
 

@@ -1,13 +1,21 @@
 ## Section 1 : les conditions de validité du contrat
 
 > **Article 1128 civil**
-> Qui pose les conditions du contrat.
 > Sont nécessaires à la validité d'un contrat le consentement des partis, leurs capacité à contracter, et un contenu licite et certain. 
+
+> **Article 1129 civil**
+> il faut être sain d'esprit pour consentir valablement à un contrat
 
 > **Article 1772 civil**
 > Les contrats sont par principe consensuels.
 > Par exception, la validité des contrats solennels est subordonnée à l'observation de formes déterminées par la loi à défaut de laquelle le contrat est nul, sauf possible régularisation.
 > En outre, la loi subordonne la formation de certains contrats à la remise d'une chose.
+
+```
+La prise en considération des vices du consentement est le résultat d'une lente évolution. A Rome, comme le droit était formaliste, il n'y avait pas à se soucier des vices du consentement, la volonté n'étant pas, en elle-même, créatrice d'obligations ; dès lors il était peu important que la volonté ait été viciée. Seuls le dol et la violence étaient traités comme des délits. C'est sous l'influence des doctrines chrétiennes que l'on a, peu à peu, insisté sur l'importance d'un consentement exempt de vices. 
+
+Toutefois, le renversement total des solutions romaines n'a pas eu lieu : la moindre erreur n'entraînera pas l'annulation du contrat ; il faudra pour cela qu'elle présente une certaine gravité. Il en va de même pour les autres vices du consentement.
+```
 
 Ce sont les conditions de fond, mais l'==article 1172== évoque en certaines hypothèses des conditions de forme.
 ### Sous section 1 : les conditions de fond du contrat
@@ -16,27 +24,97 @@ Ces conditions doivent être remplies pour tous les contrats. **3 conditions de 
 Le principe est que **le consentement donné à un contrat doit être libre et éclairé**. La personne doit avoir pleinement **conscience de l’engagement qu’elle souscrit**. Le Code civil ne formule **pas cette règle de manière positive**, mais il pose certaines **hypothèses qui peuvent vicier le consentement**. Ce sont les vices du consentement (**erreur, dol et violence**).
 ##### 1) Les règles communes à tous les vices du consentement
 ###### ***1.a) Les règles leur caractère déterminant***
-La première règle est leur caractère déterminant. C’est-à-dire que le contractant doit montrer que s’il n’y avait pas eu le dol, l’erreur ou la violence, il n’aurait pas consenti, donc que ce vice est déterminant. Cette recherche est casuistique. Elle laisse au juge une marge de manœuvre pour annuler le contrat ou, au contraire, le maintenir.
+
+> **Article 1130** **Civ**
+> Leur caractère déterminant s'apprécie eu égard aux personnes et aux circonstances dans lesquelles le consentement a été donné.
+
+La première règle est **leur caractère déterminant**. C’est-à-dire que le contractant doit montrer que s’il n’y avait pas eu le dol, l’erreur ou la violence, il n’**aurait pas consenti**, donc que **ce vice est déterminant**. Cette recherche est casuistique. Elle **laisse au juge une marge de manœuvre** pour annuler le contrat ou, au contraire, le maintenir.
+
+[[Cass. soc., 16 février 1999, Pas d'erreur CV sur un faux CV]]
+« il n'est pas démontré que la fausse mention d'un curriculum vitae ait entraîné une erreur »
+
+[[D'importantes précisions sur les cas de nullité du contrat]]
+« même en cas de non respect d'une obligation légale d'information précontractuelle, (la loi Doubin), le juge ne peut annuler le contrat sans rechercher si le défaut d'information a eu pour effet de vicier le consentement du contractant »
+
+[[Com. 7 juin 2011, Acquisition d'une pharmacie]]  [[Les éléments constitutifs de la réticence dolosive — Fages]] 
+Le cessionnaire d'un fonds de commerce de pharmacie (la société Y) qui s'estimait victime d'un dol par réticence concernant la qualification exacte de l'une des salariées dont le contrat de travail avait été repris lors de la cession a assigné son cédant (Mme X) en paiement de dommages-intérêts. Mais il n'aboutit pas car la Cour de cassation considère qu'« *ayant souverainement estimé qu'il n'**était établi ni l'intention de** Mme X de **tromper la société** Y **ni le caractère déterminant de l'information litigieuse** sur les conditions de la vente, la cour d'appel en a exactement déduit que la demande, exclusivement fondée sur le dol, devait être rejetée* ». 
+
+[[Civ. 1re, 28 mai 2008, Silence du cédant est un manquement à l'information]]
+relever que le silence du cédant « s'analysait aussi en un manquement à l'obligation précontractuelle d'information du vendeur ». Si un tel manquement avait été invoqué dès la première instance et, surtout, correctement caractérisé, des dommages-intérêts auraient pu être obtenus.
 
 Exemples :
-- Un étudiant envoie un CV et des lettres manuscrites à des entreprises. Son CV est moyen et sa lettre manuscrite est mal écrite. Si l’étudiant modifie faussement son CV et demande à quelqu’un d’écrire la lettre à sa place, l’employeur est victime d’un dol et peut demander l’annulation du contrat de travail. La Cour de cassation, chambre sociale, a jugé que l’employeur ne démontrait pas le caractère déterminant du dol.
-- Un pharmacien achète l’officine d’une pharmacie et reprend donc le personnel déjà salarié dans cette pharmacie. Le pharmacien s’aperçoit que la personne qui se présentait comme préparatrice en pharmacie ne disposait pas de son diplôme. Le juge a considéré que le caractère déterminant de l’erreur n’était pas démontré.
+- *Un étudiant envoie un CV et des lettres manuscrites à des entreprises. Son CV est moyen et sa lettre manuscrite est mal écrite. Si l’étudiant modifie faussement son CV et demande à quelqu’un d’écrire la lettre à sa place, l’employeur est victime d’un dol et peut demander l’annulation du contrat de travail. La Cour de cassation, chambre sociale, a jugé que l’employeur ne démontrait pas le caractère déterminant du dol.*
+- *Un pharmacien achète l’officine d’une pharmacie et reprend donc le personnel déjà salarié dans cette pharmacie. Le pharmacien s’aperçoit que la personne qui se présentait comme préparatrice en pharmacie ne disposait pas de son diplôme. Le juge a considéré que le caractère déterminant de l’erreur n’était pas démontré.*
 
-###### 1.b) Le vice du consentement
-Lorsqu’un vice du consentement est retenu (lorsque le juge affirme qu’il y a erreur, dol, le contrat sera annulé et la nullité sera relative). En cas de vice du consentement, la nullité est relative. %% CORRIGER%%
+###### 1.b) Le vice du consentement (la nullité encourue)
+
+> **Article 1131 civ**
+> Les vices du consentement sont une cause de nullité relative du contrat.
+
+Lorsqu’un vice du consentement est retenu (lorsque le juge affirme qu’il y a erreur, dol), le contrat sera annulé et la nullité sera relative. En cas de vice du consentement, la nullité est relative.
+
+```
+#### **Nullité Relative**
+- **Protège** : Intérêt **particulier** d'une des parties.
+- **Causes** : Vices du consentement (erreur, dol, violence).
+- **Effet** : Annulation rétroactive, restitution des prestations.
+- **Qui peut l’invoquer** : La partie lésée uniquement.
+
+#### **Nullité Absolue**
+- **Protège** : Intérêt **général** (ordre public).
+- **Causes** : Violation des règles d’ordre public (objet ou cause illicite).
+- **Effet** : Annulation rétroactive, restitution des prestations.
+- **Qui peut l’invoquer** : Toute personne intéressée, y compris les tiers.
+
+```
+
+La solution est normale : la nullité tend ici à protéger l'intérêt du contractant dont le consentement a été vicié. Elle est cependant bienvenue car l'==article 1179== peut être interprété comme annonçant le rétrécissement des cas de nullité relative. L'==article 1131== montre que ce rétrécissement, s'il venait à être confirmé, n'impacterait pas les vices du consentement.
+
+> **Article 1179 civil**
+> La nullité est absolue lorsque la règle violée a pour objet la sauvegarde de l'intérêt général.
+> Elle est relative lorsque la règle violée a pour seul objet la sauvegarde d'un intérêt privé.
 
 ###### 1.c) La prescription
+
+> **Article 1144 civ**
+> Le délai de l'action en nullité ne court, en cas d'erreur ou de dol, que du jour où ils ont été découverts et, en cas de violence, que du jour où elle a cessé.
+
 Un contractant dispose **d’un délai de 5 ans pour faire annuler un contrat**, mais le point de départ de ce délai varie : c’est **5 ans à compter de la découverte du dol** ou **5 ans dès que la violence cesse**.
+
+```
+### **Prescription de la nullité relative**
+- **Point de départ :** Article 1144 fixe le point de départ à la découverte de l'erreur ou du dol (délai de 5 ans).
+- **Cas de violence :** Le délai commence à courir à partir du jour où la violence cesse.
+- **Voie d'exception :**
+  - Permet d'opposer un vice de consentement sans engager une action en justice.
+  - Soumise à l'adage : "Quae temporalia sunt ad agendum, perpetua sunt in excipiendum".
+- **Conditions :** La voie d'exception est possible tant que le contrat n'a pas reçu un début d'exécution.
+
+### **Utilité de la voie d'exception**
+- **Économies financières :** Réduit les coûts liés aux procédures judiciaires.
+- **Gain de temps :** Permet de traiter le litige plus rapidement.
+- **Réduction du stress :** Minimise la pression émotionnelle liée aux conflits juridiques.
+- **Préservation des relations :** Évite de nuire aux relations personnelles ou professionnelles.
+- **Incertitude des résultats :** Réduit le risque d'une décision défavorable en justice.
+- **Négociation :** Facilite le règlement amiable des litiges.
+- **Efficacité :** Offre une solution rapide et efficace en cas de défense forte.
+```
+
+> **Article 1885 civ**
+> L'exception de nullité ne se prescrit pas si elle se rapporte à un contrat qui n'a reçu aucune exécution.
+
+L'exception de nullité est perpétuelle tant qu'il n'y a **pas eu d'exécution du contrat**. Cela signifie que la partie qui souhaite invoquer la nullité peut le faire à tout moment, sans être soumise à un délai de prescription de 5 ans (comme c'est le cas pour les actions en nullité).
+
+Cette règle vise à protéger les parties contre les conséquences d'un contrat qui pourrait être vicié mais qui, faute d'exécution, n'a pas encore produit d'effets.
 ##### 2) Les différents vices du consentement
 
 ###### *2.a) L'erreur*
 C’est un **contractant qui croyait que l’erreur était vraie**, alors que c’était faux. Toutes les erreurs ne seront pas cependant susceptibles. Il y a en effet des erreurs indifférentes et des erreurs vices du consentement.
 
+>[!Définition]
+> Erreur portant sur l'existence, le sens, la portée d'une règle de droit. Elle n'est admise que très exceptionnellement par le législateur : elle constitue, à moins qu'elle ne soit inexcusable, une cause de nullité du contrat lorsqu'elle porte sur les qualités essentielles de la prestation due ou sur celles du cocontractant.
 ###### *2.a.i) Les erreurs indifférentes*
 Quand bien même un contractant **démontre s’être trompé sur certains éléments, le contrat sera néanmoins maintenu**. Donc, erreurs indifférentes.
-
-> **Article 1136 civ**
-> L'erreur sur la valeur par laquelle, sans se tromper sur les qualités essentielles de la prestation, un contractant fait seulement de celle-ci une appréciation économique inexacte, n'est pas une cause de nullité.
 
 > **Article 1135 du Code civil** 
 > L'erreur sur un simple motif, étranger aux qualités essentielles de la prestation due ou du cocontractant, n'est pas une cause de nullité, à moins que les parties n'en aient fait expressément un élément déterminant de leur consentement.
@@ -45,28 +123,48 @@ Quand bien même un contractant **démontre s’être trompé sur certains élé
 **2 erreurs sont indifférentes :**
 
 1. **Erreur sur la valeur***
-    - La règle est posée à l’==article 1136 du Code civil== : *l’erreur sur la valeur par laquelle un contractant fait de celle-ci une appréciation économique n’est pas cause de nullité*.
-    - *Exemple : on vend un objet 1 euro alors qu’il vaut 15, l’erreur sur la valeur n’est pas cause de nullité.*
+> **Article 1136 civ**
+> L'erreur sur la valeur par laquelle, sans se tromper sur les qualités essentielles de la prestation, un contractant fait seulement de celle-ci une appréciation économique inexacte, n'est pas une cause de nullité.
+
+ - La règle est posée à l’==article 1136 du Code civil== : *l’erreur sur la valeur par laquelle un contractant fait de celle-ci une appréciation économique n’est pas cause de nullité*.
+	    - *Exemple : on vend un objet 1 euro alors qu’il vaut 15, l’erreur sur la valeur n’est pas cause de nullité.*
     - Cela peut paraître **étonnant car la valeur est fondamentale au contrat et que le consentement dépend de la valeur**, du prix qu’on va recevoir. Pourtant, cette solution est parfaitement fondée.
     - La règle est que **chaque contractant doit se faire sa propre appréciation de la valeur du bien**. C’est sur cela que **repose tout échange économique**. À ses risques et périls.
     - Il est aussi souvent **difficile de déterminer la valeur objective d’un bien**. Offre et demande.
     - Cela permet également d’**éviter l’encombrement des juridictions**.
 
-2.  **Erreur sur les motifs déterminants**
-    - ==Article 1335 du Code civil== :
-        - **Principe** 
-	        - ==alinéa 1 ==: “*L’erreur sur un simple motif n’est pas une cause de nullité*”. On contracte tous pour des raisons qui nous sont personnelles. Si on se trompe sur les motifs qui conduisent à conclure le contrat, on ne peut pas espérer en obtenir l’annulation.
-            - *Exemple : maison achetée pour logement familial, femme trompe, mais contrat maintenu.*
-            - Acheteur qui achète un bien immobilier pour faire une opération de défiscalisation, et s’aperçoit que la défiscalisation n’est pas possible. En ce cas, le contrat de vente sera néanmoins maintenu.
-        - **Principe tempéré par la suite**
-	        - “*L’erreur sur un simple motif n’est pas une cause de nullité, à moins que les parties n’en aient fait expressément un élément déterminant de leur consentement*”, c’est-à-dire que **les parties peuvent contractualiser les motifs déterminants de l’une d’elles**.
-            - Souvent, le vendeur qui est un promoteur immobilier s’engage lui-même sur la possibilité de défiscaliser. Ainsi, le motif propre à l’acheteur intègre le champ contractuel.
-            - Donc, il ne suffit pas que le cocontractant connaisse le motif qui anime l’autre contractant, mais qu’il ait **accepté expressément ce motif dans le champ contractuel**.
-            - Exemple : robe de mariée, mariage annulé, motif connu mais pas expressément entré dans le champ contractuel, donc on paie la robe.
+[[Cass. com., 12 février 2008, Erreur de substance sur l'objet du contrat (nuance - contractant faible)]]
+En l'espèce, ayant cédé les parts qu'elle détenait dans une société pour leur valeur nominale, une personne avait assigné les acquéreurs pour erreur sur la substance. Le pourvoi reprochait à la cour d'appel d'avoir retenu une erreur sur la substance là où il y avait une erreur sur la valeur, inapte à emporter l'annulation du contrat. Le pourvoi est rejeté :  
+« *attendu qu'en relevant que le vendeur, dépressif et peu versé dans la pratique des affaires, et incapable dans ces conditions de mesurer la portée des actes qu'il signait, avait cédé les parts qu'il détenait dans la société pour leur valeur nominale, sans commune mesure avec leur valeur objective, se trouvant ainsi écarté d'une société florissante sans contrepartie réelle, la cour d'appel a pu décider qu'il **avait commis une erreur sur la substance même de la chose qui était l'objet du contrat*** »
+
+>[!Attention]
+>La solution est critiquable car l'erreur ne porte pas ici sur la substance (est-ce que les actions vendues permettent de prendre le contrôle de la société) mais sur leur seule valeur. La solution s'explique alors par le souci de **protéger le contractant faible, dépressif et peu versé dans la pratique des affaires**.
+
+2. **Erreur sur les motifs déterminants**
+
+> **Article 1335 Civil**
+> L'erreur sur un simple motif n'est pas cause de nullité à moins que les parties n'en aient fait expressément un élément essentiel de leur consentement
+
+ **Principe** 
+	- ==alinéa 1 ==: “*L’erreur sur un simple motif n’est pas une cause de nullité*”. On contracte tous pour des raisons qui nous sont personnelles. Si on se trompe sur les motifs qui conduisent à conclure le contrat, on ne peut pas espérer en obtenir l’annulation.
+	- *Exemple : maison achetée pour logement familial, femme trompe, mais contrat maintenu.*
+	- Acheteur qui achète un bien immobilier pour faire une opération de défiscalisation, et s’aperçoit que la défiscalisation n’est pas possible. En ce cas, le contrat de vente sera néanmoins maintenu.
+
+[[Cass. civ. 1ère, 13 février 2001]]
+*« l'**erreur sur un motif du contrat extérieur à l'objet** de celui-ci n'est pas, faute de **stipulation expresse**, une cause de nullité de la convention, quand **bien même ce motif aurait été déterminant** »*. On notera toutefois qu’**un arrêt étend la notion d’erreur sur les qualités essentielles au caractère défiscalisable du bien acquis** (cf. infra sur l’erreur sur les qualités essentielles).
+
+
+Là encore, il est étonnant de voir les motifs déterminants exclus de l'erreur. Mais la solution est pleinement justifiée. Si l'on faisait entrer dans le **périmètre du contrat des motivations propres à chacun des contractants, le droit se diluerait dans autant de cas d'espèces**. Le contractant qui ignorait les considérations psychologiques, variables, personnelles et secrètes de son cocontractant n'a donc pas à subir les conséquences de son erreur. Il y a là un **argument de sécurité juridique** qui empêche les contractants de **se défaire d'un contrat pour des raisons personnelles**. Pour cette raison, le fait qu'un achat immobilier ait été effectué dans le but de réaliser une opération de défiscalisation (échec) ne suffit pas à prononcer sa nullité pour erreur sur les motifs déterminants.
+`
+ **Principe tempéré par la suite**
+	- “*L’erreur sur un simple motif n’est pas une cause de nullité, à moins que les parties n’en aient fait expressément un élément déterminant de leur consentement*”, c’est-à-dire que **les parties peuvent contractualiser les motifs déterminants de l’une d’elles**.
+	- Souvent, le vendeur qui est un promoteur immobilier s’engage lui-même sur la possibilité de défiscaliser. Ainsi, le motif propre à l’acheteur intègre le champ contractuel.
+	- Donc, il ne suffit pas que le cocontractant connaisse le motif qui anime l’autre contractant, mais qu’il ait **accepté expressément ce motif dans le champ contractuel**.
+	- Exemple : robe de mariée, mariage annulé, motif connu mais pas expressément entré dans le champ contractuel, donc on paie la robe.
 
 ###### *2.a.ii) Les erreurs admises*
 
-Ces erreurs, si démontrées, peuvent permettre l’annulation du contrat.
+Ces erreurs, si démontrées, **peuvent permettre l’annulation du contrat**.
 
 > **Article 1132 civil** 
 > L'erreur de droit ou de fait, à moins qu'elle ne soit inexcusable, est une cause de nullité du contrat lorsqu'elle porte sur les qualités essentielles de la prestation due ou sur celles du cocontractant.
@@ -74,29 +172,35 @@ Ces erreurs, si démontrées, peuvent permettre l’annulation du contrat.
 Le texte invite à faire trois précisions :
 
 - **Nature des erreurs :**
-    - L’erreur est de fait lorsqu’elle porte sur des considérations purement factuelles. 
+    - L’erreur est de fait lorsqu’**elle porte sur des considérations purement factuelles**. 
 	    - *Exemple : on achète un tableau qu’on croyait être de Picasso mais qui ne l’est pas. L’erreur de droit est celle qui porte sur le droit applicable.*
-    - Erreur sur le droit : on croyait que la loi l’imposait, alors que non. Cela peut paraître contradictoire avec l’adage “nul n’est censé ignorer la loi”. Cet adage n’a jamais voulu dire que tous les justiciables devaient connaître l’intégralité du droit applicable. Même là, on ne sait même pas combien il y a de textes applicables en France. Cela a une signification plus précise : cela signifie que le justiciable ne peut pas se prévaloir de son ignorance de la loi pour y échapper.
-        - *Exemple : contrat de bail. Le bailleur qui décide de vendre son immeuble et qui le propose en priorité aux locataires car il se croit obligé par la loi. Il s’est trompé sur la règle de droit applicable, il pourra obtenir la rétractation du contrat.*
+    - **Erreur sur le droit :** on croyait que la loi l’imposait, alors que non. Cela peut paraître contradictoire avec l’adage “*nul n’est censé ignorer la loi*”. Cet adage n’a jamais voulu dire que tous les justiciables devaient connaître l’intégralité du droit applicable. Même là, on ne sait même pas combien il y a de textes applicables en France. Cela a une signification plus précise : cela signifie que le justiciable ne peut pas se prévaloir de son ignorance de la loi pour y échapper.
+        - *Exemple : contrat de bail. Le bailleur qui décide de vendre son immeuble et qui le propose en priorité aux locataires car il se croit obligé par la loi. Il s’est trompé sur la règle de droit applicable, il pourra **obtenir la rétractation du contrat**.*
 - **Les caractères des erreurs :**
-    - Excusable : cette erreur a pu être commise par n’importe quel contractant qui aurait été placé dans la même situation. Si l’erreur est inexcusable, c’est-à-dire qu’elle n’aurait pas été commise par une personne normale dans la même situation, le contrat sera néanmoins maintenu. Adage : le juge ne protège pas ce qui n’est pas excusable, adage latin. 
+    - **Excusable :** cette erreur a pu être commise par n’**importe quel contractant qui aurait été placé dans la même situation.** Si l’erreur est inexcusable, c’est-à-dire qu’elle n’aurait pas été commise par une personne normale dans la même situation, le contrat sera néanmoins maintenu. 
+	    - Adage : le juge ne protège pas ce qui n’est pas excusable, adage latin. 
 	    - *Exemple : Tableau attribué à Courbet, car **attribué** sans certitude. Ici, erreur inexcusable.*
 - **L’objet des erreurs :**
-    - Porte sur les qualités essentielles de la prestation due :
+    - Porte sur les **qualités essentielles de la prestation due** :
         - C’est celle qui s’illustre le plus fréquemment dans le contentieux.
-        - Approche matérielle : Exemple : acheter des couverts qu’on croyait être en argent massif, alors que non. On se trompe sur l’essence, sur la matière de la chose.
-        - Approche intellectuelle :
-            - Authenticité d’une œuvre d’art : tableau copié d’un auteur.
-            - Constructibilité d’un terrain : terrain acheté car on croyait qu’il était constructible alors que non.
+        - **Approche matérielle** : *Exemple : acheter des couverts qu’on croyait être en argent massif, alors que non. On se trompe sur l’essence, sur la matière de la chose.*
+        - **Approche intellectuelle** :
+            - *Authenticité d’une œuvre d’art : tableau copié d’un auteur.*
+            - *Constructibilité d’un terrain : terrain acheté car on croyait qu’il était constructible alors que non.*
 	- **Erreur sur la rentabilité d’une opération** n’est pas assimilable à une erreur sur les qualités essentielles de la chose. 
 		- [[Cass 3e Ch. civile, 31 mars 2005, Appréciation erronée de la rentabilité économique]]: 
 			- en l’espèce, une personne achète un immeuble pour le mettre en location. Elle s’aperçoit que le marché locatif est très mauvais et qu’elle ne tire pas toute la rentabilité espérée de l’immeuble. “L’appréciation erronée de la rentabilité économique de l’opération n’est pas constitutive d’une erreur sur la substance de nature à vicier le consentement du contractant à qui il appartenait d’apprécier la valeur économique et les obligations qu’il souscrivait”. 
-		- Ce principe connaît une atténuation très particulière dans les contrats de franchise. Ce sont les contrats par lesquels un commerçant qui a connu une réussite commerciale grâce à un savoir-faire particulier va transmettre ce savoir-faire à son franchisé afin que ce dernier connaisse le même succès. En droit français, avant de conclure le contrat, le franchiseur doit faire une étude économique de marché afin d’informer le franchisé de l’état économique du marché. Souvent, les franchiseurs vont plus loin que cela et proposent aux franchisés de véritables prévisionnels. 
-			- [[Cass Ch. commerciale, 4 octobre 2011 et 12 juin 2012, erreur sur la rentabilité attendue d'une franchise]]: le consentement du franchisé avait pu être vicié pour erreur sur la rentabilité attendue de l’opération. La portée de ces arrêts est à nuancer. Certains considèrent qu’il y a une amorce de la jurisprudence et que la Cour de cassation serait prête à admettre de manière générale l’erreur sur la rentabilité. D’autres auteurs considèrent que ces notions sont dérogatoires et ne s’appliquent que sur les contrats de franchise, où la rentabilité est au cœur du contrat.
+		- Ce principe connaît une **atténuation très particulière dans les contrats de franchise**. Ce sont les contrats par lesquels un commerçant qui a connu une réussite commerciale grâce à un savoir-faire particulier va transmettre ce savoir-faire à son franchisé afin que ce dernier connaisse le même succès. En droit français, avant de conclure le contrat, le franchiseur doit faire une **étude économique de marché** afin d’informer le franchisé de l’état économique du marché. Souvent, les franchiseurs vont plus loin que cela et **proposent aux franchisés de véritables prévisionnels**. 
+			- [[Cass Ch. commerciale, 4 octobre 2011 et 12 juin 2012, erreur sur la rentabilité attendue d'une franchise]]: le consentement du franchisé avait pu être vicié pour erreur sur la rentabilité attendue de l’opération. La portée de ces arrêts est à nuancer. 
+				- Certains considèrent qu’il y a une amorce de la jurisprudence et que la Cour de cassation serait prête à admettre de manière générale l’erreur sur la rentabilité. 
+				- D’autres auteurs considèrent que ces **notions sont dérogatoires** et ne s’appliquent **que sur les contrats de franchise**, où la **rentabilité est au cœur du contrat**.
 - **Lorsqu’elle porte sur les qualités essentielles du cocontractant** :
-    - Dans certains contrats, l’identité du cocontractant est parfaitement indifférente. On vend un objet à un acheteur, peu importe lequel. Mais il y a d’autres contrats dans lesquels l’identité du contractant est un élément essentiel du consentement. Si on se trompe sur ces qualités du cocontractant, on pourra obtenir l’annulation du contrat. C’est ce qu’on appelle “intuitu personae”. Exemple : société commerciale, litige avec un partenaire. Dans le contrat conclu, il y a une clause compromissoire : en cas de litige, ce n’est pas le tribunal judiciaire mais un tribunal arbitral qui est désigné pour juger le litige. Cette notion est fluctuante, c’est le juge au cas par cas qui dira si tel contrat est conclu intuitu personae. [[Arrêt 1950 - Balleresse]] : Balleresse gagne car il loue à un couple non marié, contrat annulé.
+    - Dans certains contrats, l’**identité du cocontractant est parfaitement indifférente**. On vend un objet à un acheteur, peu importe lequel. 
+    - Mais il y a d’autres contrats dans lesquels l’**identité du contractant est un élément essentiel du consentement**. Si on se trompe sur ces qualités du cocontractant, on pourra obtenir l’**annulation du contrat**. C’est ce qu’on appelle “***intuitu personae***”. 
+	    - *Exemple : société commerciale, litige avec un partenaire. Dans le contrat conclu, il y a une clause compromissoire : en cas de litige, ce n’est pas le tribunal judiciaire mais un tribunal arbitral qui est désigné pour juger le litige*. 
+	    - Cette notion est fluctuante, c’est le juge au cas par cas qui dira si tel contrat est conclu intuitu personae. [[Arrêt 1950 - Balleresse]] : Balleresse gagne car il loue à un couple non marié, contrat annulé.
 
-##### 2.b) Le dol
+###### 2.b) Le dol
 
 > **Article 1137 civil et suivants**
 > Le dol est le fait pour un contractant d'obtenir le consentement de l'autre par des manœuvres ou des mensonges.
@@ -104,25 +208,25 @@ Le texte invite à faire trois précisions :
 > Néanmoins, ne constitue pas un dol le fait pour une partie de ne pas révéler à son cocontractant son estimation de la valeur de la prestation.
 
 
-Article 1337 et suivants du Code civil, **le dol est une erreur provoquée**. 
-- C’est un contractant qui fait exprès d’induire son cocontractant en erreur afin de l’inciter à conclure son contrat. 
+==Article 1337 et suivants du Code civil==, **le dol est une erreur provoquée**. 
+- C’est un contractant qui fait **exprès d’induire son cocontractant en erreur afin de l’inciter à conclure son contrat**. 
 - Le dol est une faute civile, celui qui ment commet une faute et devra des dommages-intérêts. 
-- Le dol, **s’il est déterminant**, peut permettre d’obtenir l’annulation du contrat. 
-- On peut avoir les deux en même temps, ou soit l’un soit l’autre. Le dol a donc une double nature, à la fois dédommagement ou annulation du contrat (vice de consentement).
+- Le dol, **s’il est déterminant**, peut permettre d’obtenir l’**annulation du contrat**. 
+- On peut avoir les deux en même temps, ou soit l’un soit l’autre. Le dol a donc une **double nature**, à la fois **dédommagement ou annulation du** **contrat** (vice de consentement).
 
 ###### *2.b.i ) Les éléments du dol*
 **Les éléments du dol :**
-- Article 1137 qui dispose : “Le dol est le fait pour un contractant d’obtenir le consentement de l’autre par des manœuvres ou des mensonges”. 
+- ==Article 1137== qui dispose : “Le *dol est le fait pour un contractant d’obtenir le consentement de l’autre par des manœuvres ou des mensonges*”. 
 	- Le mot manœuvre est volontairement large. Cela peut être une mise en scène. 
 		- *Exemple : on fait croire qu’un lac est poissonneux alors que non.* 
 	- Précision 1 : **Tous les stratagèmes ne seront pas constitutifs de dol**, il convient de distinguer entre le dolus bonus et le dolus malus. 
 		- **Le bon dol, c’est le boniment commercial**, un argument de vente qui est tolérable, que le vendeur enjolive un peu les choses. 
-		- **Le mauvais dol est celui qui a l’intention de tromper**. Dans les années 70 ou 80, le slogan Ariel, “lave plus blanc que blanc”. La Cour de cassation juge que ce n’est pas un dol, mais un argument de vente. 
+		- **Le mauvais dol est celui qui a l’intention de tromper**. Dans les années 70 ou 80, le slogan Ariel, “*lave plus blanc que blanc*”. La Cour de cassation juge que ce n’est pas un dol, mais un **argument de vente**. 
 	- Précision 2 : **le fait de garder le silence peut-il être assimilé à un dol** ? 
 		- *Exemple : on ne pose pas de question si la voiture est accidentée ou non. Donc, pas de mensonge.* 
-		- Dans un premier temps, au 19e siècle, c’était cette conception qui était retenue. Ce n’était pas un dol, puis la jurisprudence a admis “la réticence dolosive”, le fait de garder le silence sur un élément aussi déterminant pour le consentement du partenaire. 
-		- Solution accueillie par la réforme de 2016 et l’alinéa 2 de l’article 1137 dispose : “Constitue également un dol la dissimulation intentionnelle par l’un des contractants de l’information qu’il sait déterminante pour l’autre partie.” 
-		- Article 1112-1 sur le devoir de l’information. L’auteur du dol : “Le dol est le fait d’obtenir par un contractant…” Le dol, mensonge, doit émaner d’un des contractants. Si cela émane d’un tiers, le contrat sera maintenu.
+		- Dans un premier temps, au **19e siècle**, c’était cette conception qui était retenue. Ce n’était **pas un dol**, **puis la jurisprudence a admis “la réticence dolosive”,** le fait de **garder le silence sur un élément aussi déterminant pour le consentement du partenaire**. 
+		- Solution accueillie par la ==réforme de 2016== et l’==alinéa 2 de l’article 1137== dispose : “*Constitue également un dol la dissimulation intentionnelle par l’un des contractants de l’information qu’il sait déterminante pour l’autre partie*.” 
+		- ==Article 1112-1== sur le devoir de l’information. L’auteur du dol : “*Le dol est le fait d’obtenir par un contractant…”* Le dol, mensonge, doit émaner **d’un des contractants**. **Si cela émane d’un tiers, le contrat sera maintenu**.
 
 ###### *2.b.ii ) Les auteurs du dol*
 
@@ -137,9 +241,9 @@ Article 1337 et suivants du Code civil, **le dol est une erreur provoquée**.
 
 Les effets du dol : permet d’obtenir des dommages-intérêts et l’annulation du contrat. Mais le dol est une erreur ? Même si l’erreur en soi est inexcusable, le contrat sera néanmoins annulé si un dol est à son origine.
 
-##### *2.c) La violence*
+###### *2.c) La violence*
 
-Elle désigne l’hypothèse dans laquelle un contractant accepte de conclure un contrat qu’il sait contraire à ses intérêts afin d’échapper à un péril plus grand qui pèse sur lui.
+Elle désigne l’hypothèse dans laquelle un contractant **accepte de conclure un contrat qu’il sait contraire à ses intérêts** afin d’échapper à un péril plus grand qui pèse sur lui.
 
 > **Article 1440 civil**
 > Il y a violence lorsqu'une partie s'engage sous la pression d'une contrainte qui lui inspire la crainte d'exposer sa personne, sa fortune ou celles de ses proches à un mal considérable.
@@ -153,37 +257,37 @@ La pression peut être physique, mais le plus souvent elle sera morale. Une pers
 
 ###### *2.c.i) L'auteur de la violence*
 **L’auteur de la violence :**
-À la différence de l’article 1137, l’article 1140 du Code civil est totalement silencieux sur la question. On déduit donc que la violence, la menace, la pression, peut émaner d’un contractant comme d’un tiers. 
+À la différence de l’article 1137, l’==article 1140 du Code civil== est **totalement silencieux** sur la question. On déduit donc que **la violence, la menace, la pression, peut émaner d’un contractant comme d’un tiers**. 
 
 > Adage : “Là où la loi ne distingue pas, il n’y a pas lieu de distinguer.”
 
 ###### *2.c.ii) Les éléments constitutifs de violence*
 **Violence économique :**
-- Violence lorsque un contractant profite d’une situation extérieure qui fragilise son consentement ?
+- Violence lorsque un contractant **profite d’une situation extérieure qui fragilise son consentement** ?
 - Est-ce que le fait qu’un contractant profite de la faiblesse passagère dans laquelle se trouve son partenaire pour lui faire accepter un contrat qu’il n’aurait jamais accepté ?
 - **Toute une évolution avant d’arriver là**. 
-	- Historiquement, on considérait que ce contractant n’était pas violent, c’était un habile négociateur. 
-	- Deuxième temps, dans des cas de figures très rares, on a admis qu’il puisse y avoir violence. 
+	- **Historiquement**, on **considérait que ce contractant n’était pas violent**, c’était un habile négociateur. 
+	- **Deuxième temps**, dans des **cas de figures très rares**, on a admis qu’il **puisse y avoir violence**. 
 		- Deux hypothèses : 
-			1) la vente des immeubles appartenant à des propriétaires juifs pendant la Seconde Guerre mondiale. Vente à des prix très bas, au lendemain de la Seconde Guerre mondiale, on a admis l’hypothèse que le consentement donné aux acheteurs était frappé de violence. 
-			2) demande d’argent pour secourir un bateau en mer, le remorqueur profitant de l’état de détresse (risque de cyclone qui arrive). 
-	- Troisième étape, années 1980, dans certains secteurs du droit de la concurrence, droit de la consommation, il est assez fréquent qu’un contractant place son cocontractant dans une situation de faiblesse pour l’obliger à faire un contrat. 
+			1) *la vente des immeubles appartenant à des propriétaires juifs pendant la Seconde Guerre mondiale*. Vente à des prix très bas, au lendemain de la Seconde Guerre mondiale, on a **admis l’hypothèse que le consentement donné aux acheteurs était frappé de violence**. 
+			2) *demande d’argent pour secourir un bateau en mer, le remorqueur profitant de l’état de détresse* (risque de cyclone qui arrive). 
+	- **Troisième étape, années 1980**, dans certains secteurs du droit de la concurrence, droit de la consommation, il est assez fréquent qu’un contractant place son cocontractant dans une situation de faiblesse pour l’obliger à faire un contrat. 
 		- *Exemple : Carrefour achète des légumes à un agriculteur pendant un an, qui revend son camion, sa place au marché, puis l’année après, baisse le prix, l’agriculteur n’a pas le choix.* 
-		- Le Code de la consommation et le Code de commerce contiennent des textes spéciaux qui sanctionnent l’abus de faiblesse ou l’abus de position dominante.
+		- Le ==Code de la consommation et le Code de commerce== contiennent des textes spéciaux qui **sanctionnent l’abus de faiblesse ou l’abus de position dominante**.
 - **Question : dans le droit commun du contrat, doit-il en aller de même ?** 
 	- La Cour de cassation était prête à franchir le pas, [[Cass Ch. civile, 3 avril 2002, Salariée de Larousse]], salariée de Larousse : “Seule l’exploitation abusive d’une situation de dépendance économique faite pour tirer profit de la crainte d’un mal menaçant directement les intérêts de la personne peut vicier de violence le consentement à l’acte juridique”. 
 	- La réforme pose l’==article 1143== : “*Il y a également violence lorsqu’une partie abuse de l’état de dépendance dans lequel se trouve son cocontractant pour obtenir de lui un engagement qu’il n’aurait pas souscrit en l’absence d’une telle contrainte et en tire un avantage manifestement excessif.”* Il faut d’abord un état de dépendance et un abus de cet état de dépendance. 
 		- *Exemple : le divorce est un contrat, un époux amoureux accepte des conditions de divorce contraires à ses intérêts.*
 - **Conditions :** 
-	1. Il faut un état de dépendance et un abus de cet état de dépendance ; 
-	2. il faut démontrer que le contractant aurait conclu le contrat mais ne l'aurait pas fait s'il n'avait pas subi la violence. 
-	3. Démontrer que le contrat confère aux contractants violents un avantage manifestement excessif. Si le contrat est équilibré, il est maintenu. 
+	1. Il faut un **état de dépendance** et un **abus de cet état de dépendance** ; 
+	2. il faut démontrer que le contractant aurait conclu le contrat mais **ne l'aurait pas fait s'il n'avait pas subi la violence**. 
+	3. Démontrer que le contrat **confère aux contractants violents un avantage manifestement excessif**. Si le contrat est équilibré, il est maintenu. 
 
 [[Cass 3e Ch. civile, 9 décembre 2021, la violence économique]]:
 - rendu en application de l'ancien droit, alors que l'ordonnance avait déjà été publiée. Un avocat réunionnais n'avait qu'un seul et unique client. Le client confie à l'avocat 900 dossiers à un tarif très bas. L'avocat perd en première instance et fait appel. Le client lui laisse 700 dossiers mais parvient à négocier un tarif extrêmement bas. Le client décide ensuite de changer d'avocat, et ce dernier demande l'annulation de la convention en invoquant qu'il l'avait acceptée sous l'effet de la violence, n'ayant pas le choix. Il demande également que les prestations qu'il a fournies soient taxées à leur juste valeur. 
-- La Cour de cassation admet la violence, "ayant caractérisé l'état de dépendance économique dans lequel se trouvait l'avocat à l'égard de l'AGS, ainsi que l'avantage excessif que cette dernière en avait retiré." La cour d'appel en avait à bon droit conclu que cette situation de contrainte était constitutive d'un vice de consentement. 
-- Cet arrêt est remarquable car la Cour de cassation admet qu'un avocat puisse être en situation de dépendance économique à l'égard de l'un de ses clients, alors que les avocats sont des professions libérales et indépendantes. 
-- De plus, la Cour de cassation fait référence à l'avantage excessif que l'AGS avait retiré, alors que l'article 1153 demande la caractérisation d'un avantage manifestement excessif.
+- La **Cour de cassation admet la violence**, "*ayant caractérisé l'état de dépendance économique dans lequel se trouvait l'avocat à l'égard de l'AGS, ainsi que l'avantage excessif que cette dernière en avait retiré*." La cour d'appel en avait à bon droit conclu que cette situation de contrainte était constitutive d'un vice de consentement. 
+- Cet **arrêt est remarquable** car la Cour de cassation admet qu'un avocat puisse être en situation de **dépendance économique à l'égard de l'un de ses clients**, alors que les **avocats sont des professions libérales et indépendantes**. 
+- De plus, la Cour de cassation fait référence à l'avantage excessif que l'AGS avait retiré, alors que l'==article 1153== demande la caractérisation d'un avantage manifestement excessif.
 #### Paragraphe 2 : leurs capacité à contracter
 
 alor que article 1128 du code civil n'evoque que la capacité comme ?? du contrat, (un contenu certains et litice), artices ???.

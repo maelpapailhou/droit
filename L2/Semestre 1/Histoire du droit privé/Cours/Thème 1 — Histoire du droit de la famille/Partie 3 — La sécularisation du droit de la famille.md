@@ -69,7 +69,7 @@ Le parlement et Richelieu vont alors inventer la théorie du mariage comme étan
 Que se passe-t-il si on annule un des deux aspects ? L’élément majeur du mariage est le contrat, et c’est sur le contrat que repose le sacrement. Dès que le contrat est annulé, le sacrement devient sans objet. En clair, lorsque le contrat de mariage est annulé par les juridictions laïques, le sacrement disparaît automatiquement sans qu’il soit nécessaire de passer par les juridictions de l’Église. Le mariage quitte ainsi progressivement la compétence de l’Église pour entrer dans celle de l’État, grâce à divers dispositifs instaurés progressivement.
 
 ### Section 2 : L'encadrement monarchique des rapports de filiation
-À partir du 16e siècle, la question de la filiation passe sous le contrôle de l'État. L'État considère la famille comme le socle de la société, ce qui l'amène à s'intéresser à la question de la filiation.
+À **partir du 16e siècle**, la question de la filiation passe sous le contrôle de l'État. L'État considère la famille comme le socle de la société, ce qui l'amène à s'intéresser à la question de la filiation.
 
 Le droit de la filiation va être marqué par une rigueur morale et un intérêt pour les hiérarchies sociales.
 #### Paragraphe 1 : La filiation légitime

@@ -1,0 +1,3 @@
+L’action administrative est soumise à un ensemble de règles considérable, car elle applique un assujettissement à la règle de droit qui nous paraît évident, mais qui n'allait pas de soi dans certains pays. Cela se manifeste par deux principes : celui de légalité (vu ici) et celui de responsabilité (2e semestre). Le principe de légalité est fondamental, nous faisant passer à un État de droit.
+
+Preuve de son importance : J. Devolvé, CE 17 février 1950, Dame Lamotte. « *Le principe de légalité est le plus important de notre droit public, principe antérieur à la législation républicaine elle-même.* »

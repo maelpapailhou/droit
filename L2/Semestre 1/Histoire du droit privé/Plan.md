@@ -44,3 +44,8 @@ Thème 1 — Histoire du droit de la famille
 				- A) La conception protestante du mariage
 				- B)?
 			- Paragraphe 2 : l'affirmation croissante d’une tutelle étatique
+				- A) Les interventions législatives
+				- B) La construction jurisprudentielle
+		- Section 2 : L'encadrement monarchique des rapports de filiation
+			- Paragraphe 1 : La filiation légitime
+	- Chapitre 2 : La libéralisation des rapports personnels du 18ème au 21ème siècle

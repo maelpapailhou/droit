@@ -1,0 +1,1 @@
+- Idem pour les actes pris en application de l'==article 16 de la Constitution== dès lors qu’ils ne relèvent pas du domaine de la loi (CE, 2 mars 1962, _Rubin de Servens (important)_).
