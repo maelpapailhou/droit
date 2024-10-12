@@ -1,3 +1,5 @@
+idées :
+- différence entre nord et sud à toutes les époques. 
 #### 2023-2024 Session 1
 1. [[Qu’est-ce qui différencie la conception romaine du mariage de la conception germaine ?]] / 4
 2. Comment évolue le sort des enfants naturels ? / 4
@@ -20,7 +22,7 @@
 5. Quelles conséquences la chute de l’Empire Romain a-t-elle sur le droit des contrats ? / 4
 
 #### 2021-2022 Session 1
-1. Qu’est-ce qui distingue la filiation romaine de la filiation germaine ? / 3
+1. [[Qu’est-ce qui distingue la filiation romaine de la filiation germaine ?]] / 3
 2. Qu’est-ce que le concile de Trente ? / 3
 3. Comment évolue la capacité juridique de la femme mariée ? / 4
 4. Quels sont les éléments du contrat de louage ? / 3
@@ -36,7 +38,7 @@
 6. Qu’est-ce que la mancipatio ? / 3
 
 #### 2020-2021 Session 1
-1- Quelles sont les caractéristiques de la filiation romaine ? / 3
+1- [[Quelles sont les caractéristiques de la filiation romaine ?]] 3
 2- Comment le roi de France parvient-il à contourner le monopole de l’Église en matière de
 mariage? / 3
 3- Quelles innovations la Révolution introduit-elle dans le droit de la famille ? / 4
@@ -45,7 +47,7 @@ mariage? / 3
 6- Quelles sont les principales caractéristiques de la vente romaine ? / 4
 
 #### 2020-2021 Session 2
-1- Quelles sont les caractéristiques de la puissance paternelle romaine ? / 3
+1- [[Quelles sont les caractéristiques de la puissance paternelle romaine ?]] / 3
 2- Qu’est-ce que la théorie des nullités ? / 3
 3- Comment évolue le divorce ? / 4
 4- Qu’est-ce qui distingue les contrats de droit scrict des contrats de bonne foi ? / 3

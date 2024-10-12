@@ -2,22 +2,18 @@ Le service public a de nombreux sens.
 
 > [!Définition]
 > **Laurent Frier**
-> Lee service public est un pavillon qui regroupe de multiples choses.
+> Le service public est un pavillon qui regroupe de multiples choses.
 
 
 Deux dimensions :
 
-- **Politique** : C'est un instrument de cohésion sociale (écoles, hôpitaux, etc.). Un objectif déjà souligné par Duguit à l'époque : l'accomplissement des missions de service public est indispensable à la réalisation et au développement de ce qu'il appelait "l'interdépendance sociale". Cela a évolué vers ce que l'on a appelé la conception française du service public, car chez nous, il est porteur de valeurs importantes, notamment d'égalité (sociale, territoriale, etc.).
+- **Politique** : C'est un instrument de cohésion sociale (écoles, hôpitaux, etc.). Un objectif déjà souligné par **Duguit** à l'époque : l'accomplissement des missions de service public est indispensable à la réalisation et au développement de ce qu'il appelait "l'***interdépendance sociale***". Cela a évolué vers ce que l'on a appelé la conception française du service public, car chez nous, il est porteur de valeurs importantes, notamment d'égalité (sociale, territoriale, etc.).
 
 - **Juridique** : Cette notion est utilisée par la Constitution, par la loi, le règlement où l'on retrouve le terme de service public dans différents textes, mais dans aucun de ces textes on ne trouve de définition précise. Plusieurs théories de définition existent en doctrine. 
 
-Par exemple, pour Didier Truchet, le service public est un "label", une "étiquette" que les pouvoirs publics vont accoler à certaines activités, ou que le juge va utiliser dans un certain nombre d'espèces. 
-
 > [!Définition]
-> **Article de Truchet (1982, JDA),**
-> Le service public est avant tout un label.
-> 
-
+> **Article de Didier Truchet (1982, JDA),**
+> Le service public est un "label", une "étiquette" que les pouvoirs publics vont accoler à certaines activités, ou que le juge va utiliser dans un certain nombre d'espèces
 
 > [!Définition]
 > **Doyen Vedel**
@@ -45,23 +41,24 @@ Trois éléments constitutifs dans le service public :
 ##### A) Le critère fonctionnel : l'exercice d'une activité dans un but d'intérêt général
 
 ###### 1) L'exercice d'une activité
-L'exécution du service public passe : 
-- soit par des activités de prestation, 
-- soit par des activités où s'applique l'édiction de prescriptions juridiques.
+L'**exécution du service public passe** : 
+- soit par des *activités de prestation*, 
+- soit par des *activités où s'applique l'édiction de prescriptions juridiques*.
 
 La distribution de prestations est l'objet classique du service public. 
-- Il peut s'agir de **prestations matérielles**, par exemple : courrier, enlèvement des ordures ménagères, restauration scolaire, transport scolaire, etc. 
+- Il peut s'agir de **prestations matérielles**, *par exemple : courrier, enlèvement des ordures ménagères, restauration scolaire, transport scolaire, etc*. 
 - Il peut également s'agir de **prestations financières** (*bourses étudiantes, allocations vieillesse, handicap, etc.).* 
 - De plus, ces prestations peuvent être de **nature intellectuelle** (*activités telles que l'enseignement, les activités sportives, artistiques, musicales, etc*.).
 
 Mais le service public passe également par une **activité de réglementation**. Celle-ci est **traditionnellement une activité de police**. 
 - Pour certains auteurs, la police est un service public. Plusieurs arrêts, comme **Moupeur**, **Bouguain**, et **Magnier**, témoignent du fait que l'acte de service public peut également passer par l'édiction d'actes juridiques. 
 - Dans toutes ces affaires, il s'agit de personnes morales de droit privé, souvent des organisations professionnelles ou des éléments de structuration de certaines professions (agriculteurs, producteurs de viande, céréales, etc.).
+%% CREUSER LES ARRETS%%
 
-Les **personnes morales de droit privé** (*ordres professionnels, fédérations sportives, ordre des médecins*) sont considérées comme gérant une mission de service public. Parce qu'elles gèrent une mission de service public, elles peuvent adopter des actes administratifs qui pourront être attaqués par voie de recours pour excès de pouvoir devant le juge administratif. 
+Les **personnes morales de droit privé** (*ordres professionnels, fédérations sportives, ordre des médecins*) sont **considérées comme gérant une mission de service public**. Parce qu'elles gèrent une mission de service public, elles peuvent **adopter des actes administratifs** qui pourront être *attaqués par voie de recours pour excès de pouvoir devant le juge administratif*. 
 
 [[CE Ass., 13 mai 1938, Caisse primaire Aide et Protection]]
-L'arrêt **Caisse primaire "Aide et protection"** a reconnu pour la première fois qu'une personne privée pouvait gérer un service public administratif. Ainsi, le service public passe aussi par l'édiction d'actes juridiques.
+L'arrêt **Caisse primaire "Aide et protection"** a reconnu pour la première fois qu'une personne privée pouvait gérer un service public administratif. Ainsi, **le service public passe aussi par l'édiction d'actes juridiques**.
 ###### 2) Le but d'intérêt général
 
 > [!Définition]
@@ -84,26 +81,31 @@ Un autre arrêt,[[TC, 11 juillet 1933, Dame Melinette]] considère que l'enlève
 Après la **Seconde Guerre mondiale**, on assiste à une **extension du champ des activités d'intérêt général**. L'idée apparaît que le service public peut inclure des activités qui ne sont pas de première nécessité, par exemple les colonies de vacances. 
 
 [[TC, 22 janvier 1955, Naliato]]
-Inaugure une catégorie très éphémère : les services publics sociaux. La IVe République, dans son préambule, consacre de nouveaux droits (économiques et sociaux), tels que le droit de grève, la santé, le logement, l'emploi, et le droit aux loisirs. Ainsi, les activités de vacances deviennent un service public.
+Inaugure une catégorie très éphémère : **les services publics sociaux** (éteint en 1983). La IVe République, dans son préambule, consacre de nouveaux droits (économiques et sociaux), tels que le droit de grève, la santé, le logement, l'emploi, et le droit aux loisirs. Ainsi, **les activités de vacances deviennent un service public**. 
 
-Le [[TC, 20 novembre 1961, Eugène Marquis]] admet également que la création d'un terrain de camping municipal est un service public. L'arrêt de [[CE 25 mars 1966, Commune de Royan]] qualifie même un casino municipal de service public. En réalité, toute activité humaine est susceptible d'être exercée sous la forme d'un service public.
+%% CREUSER 1983%%
+
+
+Le [[TC, 20 novembre 1961, Eugène Marquis]] admet également que **la création d'un terrain de camping municipal est un service public**. 
+
+L'arrêt de [[CE 25 mars 1966, Commune de Royan]] qualifie même **un casino municipal de service public**. En réalité, ***toute activité humaine est susceptible d'être exercée sous la forme d'un service public***.
 
 ##### B) Le critère organique : la prise en charge par la personne publique
-Il est nécessaire qu'une personne publique soit à l'origine de la création d'une activité de service public. Cependant, la personne publique n'est pas toujours chargée de l'exécution du service public.
-- **Assurée** : elle crée et exécute (ex. : l'enseignement supérieur).
+Il est **nécessaire qu'une personne publique soit à l'origine de la création d'une activité de service public**. Cependant, la personne publique n'est pas toujours chargée de l'exécution du service public.
+- **Assurée** : elle crée et exécute (*ex. : l'enseignement supérieur*).
 - **Assumée** : elle crée, mais la personne privée exécute. Ce lien est contractuel.
 
-Pour qu'il y ait service public, il faut nécessairement que la personne publique soit la créatrice. Sinon, il ne s'agit pas d'un service public.
+Pour qu'il y ait service public, il faut **nécessairement que la personne publique soit la créatrice**. Sinon, il ne s'agit pas d'un service public.
 
 ###### 1) Une dépendance nécessaire
 
 [[CE Ass, 20 décembre 1935, Établissements Vézia]]
-Le rattachement d'une activité d'intérêt général à une personne publique est nécessaire pour qu'il y ait service public. Ce rattachement se manifeste au niveau de la création, de l'organisation ou de la suppression.
+Le **rattachement d'une activité d'intérêt général à une personne publique est nécessaire pour qu'il y ait service public**. Ce rattachement se manifeste au niveau de la création, de l'organisation ou de la suppression.
 
-L'État, les collectivités territoriales et les établissements publics peuvent créer un service public. La seule restriction pour les établissements publics est qu'ils ont un objet social défini et doivent le respecter. Ce rattachement peut se manifester soit dans une loi, soit dans un décret du président ou du premier ministre, ou encore dans une délibération des organes délibérants. On peut également trouver trace du rattachement dans le contrat qui confie l'activité à un tiers. 
+L'*État, les collectivités territoriales et les établissements publics* **peuvent créer un service public**. La seule restriction pour les établissements publics est qu'ils ont un objet social défini et doivent le respecter. Ce rattachement peut se manifester ***soit dans une loi, soit dans un décret du président ou du premier ministre, ou encore dans une délibération des organes délibérants***. On peut également trouver trace du rattachement dans le contrat qui confie l'activité à un tiers. 
 
 [[CE, 1956, Époux Bertin]]
-L'arrêt **CE, 1956, Époux Bertin** marque la renaissance du critère du service public, car dans cet arrêt, c'est le fait qu'il y ait une participation directe à l'exécution même du service public qui permet de qualifier un contrat administratif.
+L'arrêt **CE, 1956, Époux Bertin** marque la renaissance du critère du service public, car dans cet arrêt, c'est le fait qu'il y ait **une participation directe à l'exécution même du service public qui permet de qualifier un contrat administratif.**
 
 L'idée est qu'au minimum, il faut une intervention créatrice de la personne publique.
 
@@ -120,7 +122,7 @@ Trois hypothèses :
 	- *Par exemple, l'Éducation nationale gère en régie le service de l'enseignement primaire, secondaire, etc.*
 
 - **La gestion en régie directe** :
-	- Implique l'intervention d'un régisseur, souvent une personne privée, à qui est **confiée par contrat la gestion quotidienne du service public**, mais la personne publique conserve la responsabilité générale du service.
+	- Implique l'intervention d'un régisseur, souvent une personne privée, à qui est **confiée par contrat la gestion quotidienne du service public**, mais la **personne publique conserve la responsabilité générale du service**.
 	
     - **Régimes autonomes** : 
 	    - Fait référence à un organisme individualisé qui ne dispose **pas de la personnalité morale, mais qui bénéficie d'une autonomie financière**. 
@@ -190,10 +192,11 @@ Les exceptions : on peut procéder à une délégation unilatérale, donc sans c
 [[Droit/L2/Semestre 1/Droit administratif général I/Arrêts/Le service public/CE, sect., 28 juin 1963, Narcy]]
 Cette dévolution peut être prévue par un acte unilatéral d'une collectivité publique, comme Aix-en-Provence. L'habilitation peut également être implicite, comme dans l'**arrêt du 28 juin 1963, Narcy**.
 
-Ainsi, la délégation peut résulter :
-- de la loi (ex. : sociétés de télévision),
-- d'un acte des collectivités territoriales,
-- ou être implicite (arrêt Narcy 1963, antérieur au droit des contrats publics).
+%% VOIR GAJA%%
+Ainsi, la **délégation peut résulter** :
+- **de la loi** (*ex. : sociétés de télévision*),
+- **d'un acte des collectivités territoriales**,
+- **ou être implicite** (arrêt Narcy 1963, antérieur au droit des contrats publics).
 
 Dans cet arrêt, le juge dégage les critères permettant d'identifier une délégation implicite :
 1. Savoir si la personne privée a été créée par la personne publique.
@@ -493,47 +496,80 @@ Pour la responsabilité extracontractuelle, le principe est l’application du d
 #### Paragraphe 3 : les principes de fonctionnement
 
 Ces principes sont destinés à garantir la satisfaction de l’intérêt général, même si l'activité est industrielle et commerciale. Trois principes ont été dégagés à partir des conclusions de **Louis Rolland** :
+- La continuité
+- Le principe d'égalité
+- La mutabilité du service public
+
 ##### A) La continuité
 
   **1909 Winkell**
 
-En 1950, l’arrêt Dehaene retire la décision de Winkell. La Constitution consacre alors le droit de grève. Le principe de continuité garantit aux usagers un « fonctionnement normal du service ». Cela signifie un fonctionnement continu de certains services, comme les urgences, les pompiers, la police. Il peut également s’agir d’un fonctionnement périodique, mais il est toujours question de régularité dans la prestation, dans le temps et dans l’espace. Ce principe est fondé sur la continuité même de l’État, avec l'idée que « l’État ne peut pas fonctionner par intermittence » (citation à préciser). Il est aussi fondé sur la satisfaction des besoins des usagers : par exemple, le service d’urgence doit être disponible en permanence. Quant à sa valeur, ce principe a une valeur constitutionnelle depuis la décision du Conseil constitutionnel du 25 juillet 1979, concernant le droit de grève à la radio et à la télévision. Cette jurisprudence a été constamment réaffirmée.
+[[CE, 7 juillet 1950, Dehaene]]
+En 1950, l’arrêt Dehaene retire la décision de Winkell. 
+La Constitution consacre alors le droit de grève. Le principe de continuité garantit aux usagers un « fonctionnement normal du service ». Cela signifie un fonctionnement continu de certains services, comme les urgences, les pompiers, la police. Il peut également s’agir d’un fonctionnement périodique, mais il est toujours question de régularité dans la prestation, dans le temps et dans l’espace. Ce principe est fondé sur la continuité même de l’État, avec l'idée que « l’État ne peut pas fonctionner par intermittence » (citation à préciser). Il est aussi fondé sur la satisfaction des besoins des usagers : par exemple, le service d’urgence doit être disponible en permanence. 
 
-La continuité pour l’usager signifie qu’il peut s’adresser au juge pour contraindre celui qui fournit le service à assurer un fonctionnement normal. Cela peut conduire à un recours devant le juge de l’excès de pouvoir, si, par exemple, une décision refuse de faire appliquer les règles du service. Cela peut aussi se résoudre en matière de responsabilité, permettant ainsi d'obtenir réparation. À ce sujet, on peut citer l’arrêt du Conseil d’État du 6 novembre 1985, dans lequel le ministre des Transports attaquait l’État, car une compagnie avait subi un préjudice lors d’une grève des contrôleurs aériens.
+[[CC, 25 juillet 1979]]
+Quant à sa valeur, ce principe a une valeur constitutionnelle depuis la décision du Conseil constitutionnel du 25 juillet 1979, concernant le droit de grève à la radio et à la télévision. Cette jurisprudence a été constamment réaffirmée.
 
-Pour le gestionnaire, la continuité signifie qu’il doit exister des règles de remplacement des autorités administratives absentes ou empêchées (délégation, suppléance ou intérim). En cas de circonstances exceptionnelles (guerre, éruption volcanique, pandémie), le juge autorise un bouleversement des compétences normales. La continuité doit cependant être conciliée avec l’exercice du droit de grève, comme l’a posé l’arrêt du Conseil d’État du 7 juillet 1950, Dehaene. Cet arrêt établit trois principes :
+La continuité pour l’usager signifie qu’il peut s’adresser au juge pour contraindre celui qui fournit le service à assurer un fonctionnement normal. Cela peut conduire à un recours devant le juge de l’excès de pouvoir, si, par exemple, une décision refuse de faire appliquer les règles du service. Cela peut aussi se résoudre en matière de responsabilité, permettant ainsi d'obtenir réparation. 
 
-1. La licéité des règles de grève : on reconnaît à tout agent le droit de faire grève.
-2. Ce droit de grève doit être limité afin d’éviter un usage abusif ou contraire à l’ordre public. Cela s’est traduit par plusieurs restrictions : certains personnels, comme ceux des ministères de la Justice et de l’Intérieur, les magistrats, policiers, gendarmes, etc., n’ont pas le droit de faire grève. Ensuite, la loi encadre le déclenchement et les formes de grève. Par exemple, il est obligatoire de déposer un préavis de grève afin d’éviter les grèves surprises. Certaines formes de grève sont interdites, comme la grève tournante, où chaque personne d’un même service fait grève tour à tour. La grève est un droit qui s’exerce collectivement (voir la loi applicable). Une autre restriction concerne le service minimum. Par exemple, dans les écoles, il n’y a pas de service minimum, car lorsque les enfants sont gardés, cela est considéré comme un service de substitution. Le Conseil d’État confère au chef de service, et en premier lieu au gouvernement, le pouvoir de restreindre encore plus le droit de grève si la continuité du service l’exige (arrêt du CE du 11 juin 2010, Syndicat SUD RATP). Par ailleurs, le préfet dispose du droit de réquisitionner les grévistes en cas d’atteinte à l’ordre public. Ce droit est souvent exercé pour réquisitionner le personnel hospitalier (CE, 27 février 2010, M. Lefevre). Dans l’arrêt CE Ass. du 12 avril 2013, Fédération FO Énergie et Mines, les organes dirigeants d’EDF se sont vu reconnaître le droit de restreindre le droit de grève de leur personnel si la continuité du service l’exige.
+[[Conseil d’État du 6 novembre 1985]]
+À ce sujet, on peut citer l’arrêt du Conseil d’État du 6 novembre 1985, dans lequel le ministre des Transports attaquait l’État, car une compagnie avait subi un préjudice lors d’une grève des contrôleurs aériens.
 
-Le droit de grève s’exerce avec une contrepartie : les grévistes sont privés de leur salaire. La retenue financière qui en découle est la contrepartie de ce droit. Les fonctionnaires de l’État perdent 1/30e de leur salaire par jour de grève, selon la règle du trentième indivisible.
-  
+Pour le gestionnaire, la continuité signifie qu’il doit exister des règles de remplacement des autorités administratives absentes ou empêchées (délégation, suppléance ou intérim). En cas de circonstances exceptionnelles (guerre, éruption volcanique, pandémie), le juge autorise un bouleversement des compétences normales. `
+
+[[CE, 7 juillet 1950, Dehaene]]
+Conseil d’État du 7 juillet 1950, Dehaene
+La continuité doit cependant être conciliée avec l’exercice du droit de grève, comme l’a posé l’arrêt du Conseil d’État du 7 juillet 1950, Dehaene. Cet arrêt établit trois principes :
+
+1. **La licéité des règles de grève :** on reconnaît à tout agent le droit de faire grève.
+2. **Ce droit de grève doit être limité afin d’éviter un usage abusif ou contraire à l’ordre public.** 
+	1. Cela s’est traduit par plusieurs restrictions : certains personnels, comme ceux des ministères de la Justice et de l’Intérieur, les magistrats, policiers, gendarmes, etc., n’ont pas le droit de faire grève. Ensuite, la loi encadre le déclenchement et les formes de grève. 
+	2. Par exemple, il est obligatoire de déposer un préavis de grève afin d’éviter les grèves surprises. Certaines formes de grève sont interdites, comme la grève tournante, où chaque personne d’un même service fait grève tour à tour. La grève est un droit qui s’exerce collectivement (voir la loi applicable). 
+	3. Une autre restriction concerne **le service minimum**. Par exemple, dans les écoles, il n’y a pas de service minimum, car lorsque les enfants sont gardés, cela est considéré comme un service de substitution. Le Conseil d’État confère au chef de service, et en premier lieu au gouvernement, le pouvoir de restreindre encore plus le droit de grève si la continuité du service l’exige (arrêt du CE du 11 juin 2010, Syndicat SUD RATP). Par ailleurs, le préfet dispose du droit de réquisitionner les grévistes en cas d’atteinte à l’ordre public. Ce droit est souvent exercé pour réquisitionner le personnel hospitalier (CE, 27 février 2010, M. Lefevre). Dans l’arrêt CE Ass. du 12 avril 2013, Fédération FO Énergie et Mines, les organes dirigeants d’EDF se sont vu reconnaître le droit de restreindre le droit de grève de leur personnel si la continuité du service l’exige.
+3. **Le droit de grève s’exerce avec une contrepartie :** les grévistes sont privés de leur salaire. La retenue financière qui en découle est la contrepartie de ce droit. Les fonctionnaires de l’État perdent 1/30e de leur salaire par jour de grève, selon la règle du trentième indivisible.
 
 ##### B) Le principe d’égalité devant le service public
-Le principe d’égalité devant la loi est consacré constitutionnellement. C’est la pierre angulaire de l’idéologie du service public, et idéologiquement, c’est le plus important : le service public est destiné à tous. Ce principe bénéficie de la plus haute valeur juridique, mentionné à l’article 1 de la Déclaration des droits de l’homme et du citoyen (DDHC) et à l’article 1 de la Constitution. Il se traduit naturellement dans le service public.
+Le principe d’égalité devant la loi est consacré constitutionnellement. C’est la pierre angulaire de l’idéologie du service public, et idéologiquement, c’est le plus important : le service public est destiné à tous. Ce principe bénéficie de la plus haute valeur juridique, mentionné à l’==article 1 de la Déclaration des droits de l’homme et du citoyen (DDHC)== et à l’==article 1 de la Constitution==. Il se traduit naturellement dans le service public.
 
+[[CE, section du 9 mars 1951, Société des concerts du conservatoire]]
 Devant le juge administratif, il a également la valeur de principe général du droit, consacrée par un arrêt de section du 9 mars 1951, **Société des concerts du conservatoire**.
 
 Le principe d’égalité signifie que des situations identiques doivent être traitées de façon identique. En d'autres termes, à situation identique, traitement identique. Toutefois, la conception française de l’égalité ne signifie pas que tout le monde doit être traité de la même façon, mais que des situations comparables doivent recevoir le même traitement.
 
+[[CE, Société Baxter, mars 1997]]
 En France, il n’y a aucune obligation de traiter différemment, comme l’a établi l’arrêt CE **Société Baxter** en mars 1997. En droit de l’Union européenne, cependant, il est reconnu que des personnes dans des situations différentes doivent être traitées différemment.
 ###### 1) l’Égalité dans l’accès au service public
 
 **La question des tarifs :**
-En ce qui concerne les tarifs : un tarif égal signifie que chaque usager doit payer la même redevance. Toutefois, il s’agit également de s’assurer que ceux qui ont le plus besoin du service y aient accès, ou que ceux qui l’utilisent le plus fréquemment soient pris en compte. Les différenciations tarifaires sont-elles inégales ? Le Conseil d’État a admis la légalité des différenciations tarifaires dans l’arrêt CE 1974 **Denoyez et Chorques**. Cet arrêt concernait la liaison maritime entre l’île de Ré et le continent. Le département avait institué trois tarifs : un pour les habitants de l’île de Ré, un pour les habitants de la Charente-Maritime, et un autre pour les autres usagers.
+En ce qui concerne les tarifs : un tarif égal signifie que chaque usager doit payer la même redevance. Toutefois, il s’agit également de s’assurer que ceux qui ont le plus besoin du service y aient accès, ou que ceux qui l’utilisent le plus fréquemment soient pris en compte. Les différenciations tarifaires sont-elles inégales ? 
 
-Cette différenciation a été jugée légale, car ces catégories d’usagers étaient considérées dans des situations différentes. Par exemple, une personne habitant sur l’île de Ré utilise plus fréquemment le service qu’un vacancier venant du continent. Un autre arrêt important est celui de CE 1997 **Commune de Gennevilliers et de Nanterre**. Le Conseil constitutionnel s’est aligné sur cette jurisprudence dans une décision du 12 juillet 1979, **Ponts à péage**.
+[[CE 1974 Denoyez et Chorques]]
+Le Conseil d’État a admis la légalité des différenciations tarifaires dans l’arrêt CE 1974 **Denoyez et Chorques**. Cet arrêt concernait la liaison maritime entre l’île de Ré et le continent. Le département avait institué trois tarifs : un pour les habitants de l’île de Ré, un pour les habitants de la Charente-Maritime, et un autre pour les autres usagers.
 
+CE 1997 **Commune de Gennevilliers et de Nanterre**
+Cette différenciation a été jugée légale, car ces catégories d’usagers étaient considérées dans des situations différentes. Par exemple, une personne habitant sur l’île de Ré utilise plus fréquemment le service qu’un vacancier venant du continent. Un autre arrêt important est celui de CE 1997 **Commune de Gennevilliers et de Nanterre**. 
+
+Le Conseil constitutionnel s’est aligné sur cette jurisprudence dans une décision du 12 juillet 1979, **Ponts à péage**.
+
+arrêt **Ville de Nanterre**
 La discrimination tarifaire doit reposer sur une différence de situation appréciable entre les personnes concernées, en lien avec l’objet du service. Toute création de catégorie d’usagers doit être en rapport avec l’objet du service public. En général, ces différences concernent le revenu ou le domicile. Dans l’arrêt **Ville de Nanterre**, une distinction tarifaire a été faite en fonction de la qualité sociale de l’usager potentiel. Toutefois, il ne peut jamais être demandé à un usager de payer plus que le coût de la prestation, car le service public n’est pas censé faire de bénéfice.
 
 **La question des dérogations**
+
+arrêt de l'assemblée du 14 avril 1995, **Koen des israélites de France
+
 Si un usager n’a pas droit à un régime spécifique, l’administration a la faculté de lui accorder une dérogation. L'arrêt de l'assemblée du 14 avril 1995, **Koen des israélites de France**, a confirmé que les dérogations sont permises, mais à condition que le service n’en pâtisse pas. De plus, si l’administration accorde une dérogation à un individu, elle doit l’accorder à tous les autres individus se trouvant dans la même situation.
 
 Cependant, l’administration conserve la faculté de révoquer ou de refuser une dérogation pour des motifs d’intérêt général.
 ###### 2) L’égalité entre agents
-Le principe d’égalité d’accès à la fonction publique est un principe général du droit, consacré par l’arrêt de l’assemblée du 28 mai 1954, **Barel**. Dans cette affaire, l’accès à l’ENA avait été refusé à une personne en raison de son appartenance au parti communiste. Ce principe trouve également son fondement à l’article 6 de la DDHC. Par ailleurs, il existe un principe d’égalité de traitement entre les fonctionnaires.
+
+arrêt de l’assemblée du 28 mai 1954, **Barel**
+Le principe d’égalité d’accès à la fonction publique est un principe général du droit, consacré par l’arrêt de l’assemblée du 28 mai 1954, **Barel**. Dans cette affaire, l’accès à l’ENA avait été refusé à une personne en raison de son appartenance au parti communiste. Ce principe trouve également son fondement à l’==article 6 de la DDHC==. Par ailleurs, il existe un principe d’égalité de traitement entre les fonctionnaires.
 
 ###### 3) L’égalité entre fournisseurs
+
+arrêt **Société des concerts du conservatoire** du 9 mars 1951
 Sur ce point, le Conseil d’État a consacré le principe de l'égalité dans l’arrêt **Société des concerts du conservatoire** du 9 mars 1951. Toute personne se trouvant dans une même situation vis-à-vis d’un service public doit être traitée de manière identique, quelle que soit la qualité de ses liens avec ce service.
 ##### C) la mutabilité du service public 
 La mutabilité renvoie à l’idée que l’organisation et le fonctionnement du service public doivent s’adapter aux évolutions des besoins et de l’intérêt général, dans le temps et dans l’espace.
@@ -544,14 +580,255 @@ La mutabilité confère des droits à l’usager, mais également des contrainte
 1. L'usager ne dispose d'aucun droit acquis au maintien d’un service public donné.
 2. Il existe la possibilité de modifier les conditions de fonctionnement du service public, comme l’a établi l'arrêt du 27 janvier 1951. Cela signifie que le fonctionnement du service public peut être modifié selon les besoins.
 
-En cas de méconnaissance du fonctionnement normal du service public, l’usager peut introduire un recours en excès de pouvoir. L’usager a également le droit de demander à l’autorité délégante de contraindre le délégataire à assurer un fonctionnement normal du service public, comme le montre l’arrêt CE du 21 décembre 1906, **Syndicat des propriétaires et des contribuables du quartier sud**. Dans cette affaire, les habitants étaient mécontents du fait que le tramway ne desservait plus leur quartier, et le refus du délégant pouvait être attaqué en justice pour faire pression sur le concessionnaire.
+En cas de méconnaissance du fonctionnement normal du service public, l’usager peut introduire un recours en excès de pouvoir. 
+
+CE du 21 décembre 1906, **Syndicat des propriétaires et des contribuables du quartier sud**
+L’usager a également le droit de demander à l’autorité délégante de contraindre le délégataire à assurer un fonctionnement normal du service public, comme le montre l’arrêt CE du 21 décembre 1906, **Syndicat des propriétaires et des contribuables du quartier sud**. Dans cette affaire, les habitants étaient mécontents du fait que le tramway ne desservait plus leur quartier, et le refus du délégant pouvait être attaqué en justice pour faire pression sur le concessionnaire.
 ###### 2) L’implication de la mutabilité pour les agents
-Les fonctionnaires sont dans une situation réglementaire de droit public, ce qui signifie que leur statut peut être modifié unilatéralement. Le gestionnaire peut affecter les fonctionnaires en fonction des besoins, comme l’a confirmé l’arrêt de 1988, **Coligny**.
+
+arrêt de 1988, Coligny
+Les fonctionnaires sont dans une situation réglementaire de droit public, ce qui signifie que leur statut peut être modifié unilatéralement. Le gestionnaire peut affecter les fonctionnaires en fonction des besoins, comme l’a confirmé l’arrêt de 1988, **Coligny.
 
 Pour les agents contractuels, la situation est similaire. Bien que les personnels des SPIC (services publics industriels et commerciaux) soient soumis au droit privé, leurs contrats peuvent comporter des règles édictées par des autorités administratives. Pour ces règles, les agents n’ont pas droit au maintien de celles-ci.
 
 ###### 3) L'implication de la mutabilité aux gestionnaires
+Lorsque le SP est délégué par **voie unilatérale**, le gestionnaire doit adapter les conditions
 
---- 
-# ABS
+d’exécution de sa mission, aux modifications unilatérales des règles d’organisation et de
 
+fonctionnement imposées par les pouvoirs publics.
+
+- Lorsque l’habilitation est **contractuelle**, l’administration peut exiger de son co-contractant qu’il
+
+fasse évoluer le SP . Le régime du contrat administratif est conçu pour permettre à
+
+l’administration d’imposer des modifications unilatérales du contrat.
+
+##### D) La neutralité
+
+**Définition** : Le principe d’égalité est aujourd’hui prolongé par l’un de ses corollaires : la **neutralité**
+
+du SP qui prohibe toute discrimination entre les usagers ou les agents en fonction de leurs
+
+opinions - croyances politiques, religieuses ou philosophiques, de leur nationalité, de leur sexe.
+
+**Valeur** : Principe de **laïcité** mentionné à 2 reprises dans la constitution art 1 et alinéa 13 du
+
+préambule souvent associé à la loi du 9/12/1905 portant séparation de l’Église et de l’État. Elle
+
+implique une liberté de conscience, ce qui pose problème pour le port de signes religieux, la
+
+e implique la liberté de culte (problème dans les hôpitaux, prisons…) Elle implique en France la séparation des Églises et de l’État, qui implique qu’il n’y ait pas de religion d’État en France, ce qui a posé problème par exemple en matière d’aides
+
+finançant la construction de lieux de culte.
+
+###### 1. La neutralité appliquée aux agents
+
+
+Longue tradition législative et jurisprudentielle
+
+- CE 1912 Abbé Bouteyre
+
+- confirmé par l’avis contentieux CE Avis 3 mai 2000 Mll Marteau.
+
+- Pendant longtemps ce principe a fait obstacle à ce que les agents du SP aient le droit de
+
+manifester leurs croyances religieuses dans le cadre du service public. (question posée pour le
+
+personnel enseignant en particulier). Il était très acquis que ce personnel a obligation de ne pas
+
+exprimer sa religion ou sa non-croyance. Cela a donné lieux à des jurisprudences intéressantes
+
+sur la notion d’agent public soumis au problème de laïcité.
+
+- Cette obligation de neutralité des agents du service du service a donné lieu à 2 jurisprudences
+
+intéressantes précisant la notion ‘d’agent public’ soumis au principe de laïcité.
+
+Évolution de la jurisprudence :
+
+I. La 1° jurisprudence est relative aux accompagnateurs scolaires. Des mères voilées peuvent-
+
+elles accompagner les enfants lors des sorties scolaires ? CE Avis 23 Décembre 2013 : tout
+
+en nuances… CE s’attache à déterminer le statut des parents accompagnateurs lors des
+
+sorties scolaires. **Ces parents sont de ‘_simples usagers_’** ils ne sont ni agents ni
+
+collaborateurs du SP, seuls concernés par les exigences de neutralité religieuse. Les mères
+
+voilées n’y sont donc légalement pas soumises. Néanmoins le CE rappelle que la liberté des
+
+convictions religieuses doit être conciliée avec les exigences particulières découlant des
+
+principes de laïcité et de neutralité des pouvoirs publics (etc). L’autorité compétente, sur ce
+
+point circulaire Chatel du 27/03/2012 estime que ces principes sont applicables au sein de
+
+l’établissement public. Cette jurisprudence a été réitérée en Juillet 2019 jugement Cour
+
+administrative de Lyon : activités d’enseignement ayant lieu à l’intérieur de l’établissement
+
+avec exigence d’arborer une tenue neutre.
+
+II. **Soumissions des agents de droit privé à la neutralité** (**1**) Cass Soc 19 mars 2013 où le
+
+principe de laïcité s’applique aux salariés de droit privé employés par une personne morale de
+
+droit privé assurant une mission de SP. **(2)** Cass Soc 19 Mars 2013 crèche baby Loup : **le**
+
+**principe de laïcité ne s’impose pas aux salariés de droit privé.** Situation d’une éducatrice
+
+portant le voile. (**3**) renvoie à la CA Paris nov 2013 qui casse et confirme le licenciement.
+
+Obligation de neutralité du personnel envisageable dans le sens où l’association peut être vue
+
+comme une entreprise de conviction avec règlement intérieur applicable. (**4**) Cass Plén 25 Juin
+
+2014 confirme le licenciement de la salariée selon 2 articles du code de travail L1121-1 et
+
+L1321-3 qui autorise les restrictions.
+
+III. Jurisprudence européenne sur ce point : la position de la cour de cassation peut apparaître en
+
+contradiction avec la jurisprudence de **la CEDH qui a condamné le licenciement d’une**
+
+**salariée portant une croix en pendentif au motif** ‘_qu’une saine société démocratique doit_
+
+_tolérer et encourager le pluralisme et la diversité_’ CEDH 15 Janvier 2013 Cet arrêt est en
+
+revanche en harmonie avec la position de la cour de justice de l’union européenne 14 Mars
+
+2017 pas de discrimination directe avec interdiction port visible signe religieux dans le
+
+règlement d’une entreprise.
+
+IV. Quid des stagiaires : CE 12 Février 2020 . Stagiaires soumises à une stricte obligation de
+
+neutralité religieuse interdisant tout signe religieux. Port de la barbe par un agent public qui à
+
+lui seul ne constitue pas un signe religieux.
+
+###### 2. La neutralité appliquée aux usagers
+
+Obligation résumée par la **charte de la Laïcité dans les SP 2007** ;
+
+les usagers des SP ont le droit d’exprimer leurs convictions religieuses dans les limites du bon
+
+fonctionnement du SP. Ils ne peuvent récuser un agent public ou d’autres usagers ; ni exiger une
+
+adaptation du fonctionnement du SP ou d’un équipement public. Le SP s’efforce de prendre en
+
+considération les convictions de ses usagers dans le respect des règles auquel il est soumis et de
+
+son bon fonctionnement.
+
+Demande de détenus visant à bénéficier de repas composés de viande halal :
+
+CE 16 Juillet 2014 Garde de Sceaux ministre Justice : établissement pénitentiaire non tenu de
+
+faire droit à cette demande
+
+CE 10 Décembre 2020 Commune de Chalon-sur-Saône : menus de substitution ni obligatoires ni
+
+interdits, mais seule obligation et de tenir compte de l’IG qui s’attache à ce que tous les enfants
+
+puissent accéder à ce SP.
+
+ ###### 3. La neutralité appliquée au service, à l'administration en tant qu'institution
+
+La question s’est posée de savoir si les communes peuvent légalement installer des crèches dans
+
+les locaux des mairies à la période de Noël ou si cela méconnaît les termes de l’article 28 de la loi
+
+du 9 Décembre 1905 ainsi rédigé ‘_il est interdit à l’avenir d’élever ou d’apposer aucun signe ou_
+
+_emblème religieux sur les monuments publics ou en quelque emplacement public que ce soit, à_
+
+_l’exception des édifices servant au culte…_’
+
+Le TA de Melun le 22 Décembre 2014 considère que l’installation d’une crèche sous le porche
+
+d’une mairie entre le 15 et le 30 Décembre ne constitue pas un emblème religieux prohibé mais
+
+peut être assimilée à une décoration traditionnellement associée à Noël.
+
+CAA Paris 8 Octobre 2015 ; la commune fait valoir que la crèche litigieuse est de taille limitée et
+
+n’est pas implantée de manière ostentatoire ou revendicative.
+
+Pour la CAA cette crèche est installée dans l’enceinte du bâtiment public que constitue l’hôtel de
+
+ville ; contrairement à ce qu’ont estimé les premiers juges, une crèche de Noël dont l’objet est de
+
+représenter la naissance de Jésus, installée au moment où les chrétiens célèbrent cette
+
+naissance, doit être regardée comme ayant le caractère d’un emblème religieux…
+
+La question qui a été soumise au CE est celle de l’interprétation de l’article 28 de la loi de 1905. 2
+
+Décisions CE 9 Novembre 2016 Féd. Dptl des libres penseurs de Seine-Et-Marne et 9 Nov. 2016
+
+Fédération de la libre pensée de Vendée.
+
+Le CE rappelle la portée du principe de laïcité. Il crée des obligations pour les personnes
+
+publiques, en leur imposant d’assurer la liberté de conscience et de garantir le libre exercice des
+
+cultes + de veiller à la neutralité des agents publics et des services publics à l’égard des cultes,
+
+en particulier en n’en méconnaissant, ni en n’en subventionnant aucun.
+
+Puis il juge que l’article 28 de la loi de 1905 qui met en oeuvre le principe de neutralité, **interdit**
+
+**l’installation, par des personnes publiques, de signes ou d’emblèmes qui manifestent la**
+
+**reconnaissance d’un culte ou marquent une préférence religieuse.**
+
+Mais il juge que **les crèches de Noël revêtent une pluralité de significations** (objet mixte) elles
+
+présentent un caractère religieux mais aussi des éléments de décoration.
+
+Pour déterminer le caractère culturel, artistique ou festif, ou en reconnaissance d’un culte, il
+
+donne 3 éléments d’appréciation : le **contexte** (dépourvu de tout élément de prosélytisme), les
+
+conditions particulières de l’installation (taille) et les décorations qui l’accompagnent, à l’existence
+
+ou l’absence d’**usages locaux** (tradition etc), puis le **lieux de l’installation**… On essaye de
+
+déterminer s’il y a un décor de Noël ou un décor propre à la République. Approche **casuistique**
+
+privilégiée ; on regarde au cas par cas les crèches.
+
+Il précise d’avantage ce dernier élément ; il y a lieu de distinguer les bâtiments des autres
+
+emplacements publics :
+
+- dans les **bâtiments publics**, sièges d’une collectivité publique ou d’un service public, une
+
+crèche de Noël ne peut en principe pas être installée, sauf si des circonstances particulières
+
+montrent que cette installation présente un **caractère culturel, artistique ou festif**.
+
+- dans les autres emplacements publics, compte tenu du caractère festif des installations liées
+
+aux fêtes de fin d’année, l’installation d’un crèche de Noël est légale, sauf si elle constitue un
+
+acte de prosélytisme ou de revendication d’une opinion religieuse.
+
+##### E) La gratuité n'est pas une loi du service public
+
+Le CC l’a affirmé dans sa décision 12 Juillet 1979 loi relative à certains ouvrages reliant les voies
+
+nationales ou départementales
+
+996 : Repris par CE 1996 société direct mail promotion, **la gratuité n’est pas un principe**, mais
+
+cela n’empêche pas le législateur de prévoir que certains services seront gratuits. Par exemple
+
+avec l’enseignement primaire.
+
+Arrêt du 18 janvier 2013 association racisme qui conteste la gratuité pour les musées réservées
+
+aux ressortissants de l’UE.

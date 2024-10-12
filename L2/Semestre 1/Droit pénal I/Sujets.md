@@ -3,6 +3,9 @@
 #### 2023-2024 Session 1
 - La preuve de l’élément moral des infractions intentionnelles
 - L’exécution interrompue et sa prise en considération par le droit pénal
+
+%% manque 1%%
+
 #### 2022-2023 Session 1
 - Le lien de causalité en matière pénale.
 - La preuve de l’intention en matière pénale.

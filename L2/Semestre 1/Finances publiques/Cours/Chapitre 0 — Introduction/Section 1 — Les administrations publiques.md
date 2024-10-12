@@ -122,7 +122,7 @@ Remarques :
 ##### B) Les administrations publiques locales (APUL)
 
 >[!Définition]
->Les administrations publiques locales, composées de toutes les collectivités territoriales (régions, départements, établissements publics de coopération intercommunale, communes) et des organismes divers d’administration locale (exemples : caisses des écoles, CCAS, chambres consulaires, etc.), représentent 20 % de la dépense publique française.
+>Les **administrations publiques locales**, composées de toutes les collectivités territoriales (régions, départements, établissements publics de coopération intercommunale, communes) et des organismes divers d’administration locale (exemples : caisses des écoles, CCAS, chambres consulaires, etc.), représentent 20 % de la dépense publique française.
 
 
 3 composants :
@@ -154,7 +154,7 @@ Une partie substantielle des ressources des collectivités locales, 103,4 Md€ 
 ##### C) Les administrations de la Sécurité Sociale (ASSO)
 
 >[!Définition]
->Les administrations de sécurité sociale regroupent les hôpitaux et l'ensemble des régimes de Sécurité sociale (régimes de base de sécurité sociale et régimes spéciaux) ainsi que les régimes de retraite complémentaire (AGIRC, ARRCO), l'assurance chômage et divers organismes sociaux.
+>Les **administrations de sécurité sociale** regroupent les hôpitaux et l'ensemble des régimes de Sécurité sociale (régimes de base de sécurité sociale et régimes spéciaux) ainsi que les régimes de retraite complémentaire (AGIRC, ARRCO), l'assurance chômage et divers organismes sociaux.
 
 Il y a une forte socialisation de la dépense, inhérente au système français. En 2021, les dépenses des administrations de sécurité sociale (ASSO) s'élèvent à 683, Md€ (hors crédits d'impôts - source : Insee mai 2021). Plus de 80 % de ces dépenses sont des dépenses de prestations sociales et autres transferts, qui se répartissent très majoritairement entre les risques vieillesse-survie et santé-maladie.
 
@@ -178,17 +178,16 @@ Avant la réforme des retraites : tout citoyen français est soit sous le régim
 - Branche maladie : assure la prise en charge des dépenses de santé
 - Branche accidents du travail/maladies professionnelles : gère et indemnise les risques professionnels des travailleurs
 
-3 blocs : le régime général, agricole, spéciaux. La réforme des retraites vise à aboutir à un régime universel. Le gouvernement aura un contrôle sur les sources.
+3 blocs : 
+- **Régime général :** assure les salariés du secteur privé et les travailleurs indépendants. 90 % du système avant la réforme. Famille CAF, Assurance retraite, branche recouvrement URSSAF, l'assurance maladie, branche santé.
+- **Régime agricole :** concerne les exploitants, les salariés agricoles et les entreprises agricoles. MSA (Mutualité Sociale Agricole) pour les agriculteurs, seul guichet pour santé, famille, retraite, services. Cotisations MSA : ils cotisent moins pour les mêmes prestations.
+- **Régime spéciaux :** avant la réforme, au nombre de 27. Concerne des catégories spécifiques, articulées autour d'une profession ou d'une entreprise. Ex : SNCF, RATP, EDF, GDF. Les salariés ont leur propre régime, guichet, mutuelle. Ex : cotisations moins importantes.
 
-Régime général : assure les salariés du secteur privé et les travailleurs indépendants. 90 % du système avant la réforme. Famille CAF, Assurance retraite, branche recouvrement URSSAF, l'assurance maladie, branche santé.
+La réforme des retraites vise à aboutir à un régime universel. Le gouvernement aura un contrôle sur les sources.
 
 5 branches couvrent différents risques. Branche retraite : il y a la composante vieillesse et la composante dommage (veuvage, pension de réversion du conjoint décédé à 50 %).
 
 URSSAF recouvre auprès des entreprises et des salariés.
-
-Régime agricole : concerne les exploitants, les salariés agricoles et les entreprises agricoles. MSA (Mutualité Sociale Agricole) pour les agriculteurs, seul guichet pour santé, famille, retraite, services. Cotisations MSA : ils cotisent moins pour les mêmes prestations.
-
-Régime spéciaux : avant la réforme, au nombre de 27. Concerne des catégories spécifiques, articulées autour d'une profession ou d'une entreprise. Ex : SNCF, RATP, EDF, GDF. Les salariés ont leur propre régime, guichet, mutuelle. Ex : cotisations moins importantes.
 
 Autour de la profession : avocats, chirurgiens-dentistes, médecins ont leurs régimes spéciaux. Pour certaines professions, le régime universel sera mieux, pour d'autres non.
 

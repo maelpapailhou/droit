@@ -1,0 +1,2 @@
+
+Pour ces raisons, on retenait que « les malades jouissant d'une liberté absolue de choix de leur médecin, la clientèle qu'ils constituent, attachée exclusivement et de façon toujours précaire à la personne du médecin, est hors commerce juridique et ne peut faire l'objet d'une convention ».

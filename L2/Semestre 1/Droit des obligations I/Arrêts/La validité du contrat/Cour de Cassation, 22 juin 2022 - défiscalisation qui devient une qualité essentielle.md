@@ -1,0 +1,1 @@
+Revirement de jurisprudence : un arrêt étend la notion d’erreur sur les qualités essentielles au caractère défiscalisable du bien acquis.

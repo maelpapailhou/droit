@@ -1,0 +1,1 @@
+Un autre arrêt, celui des **époux Leroy** du 13 mars 1968, concernait une interdiction de la profession de photographe filmeur. L'interdiction a été validée en pleine saison estivale en raison de l'influence touristique, le maire ayant démontré qu'aucune autre mesure n'aurait permis d'assurer le respect des règles de circulation.

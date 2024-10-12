@@ -4,7 +4,10 @@ La cour d'appel refuse sa demande, en considérant que l'offre de 1996 était va
 
 La Cour de cassation a dû décider si la perte de pouvoir de la personne qui avait fait l'offre rendait celle-ci caduque. Elle a finalement jugé que ce n'était pas le cas. Selon la Cour, c'est à l'offrant de décider de retirer ou non l'offre en cas de changement. En d'autres termes, tant que l'offre n'a pas été retirée, elle reste valable, même s'il y a un changement de direction.
 
-Cette décision s'appuie sur une jurisprudence constante. En effet, une offre peut devenir caduque pour plusieurs raisons : si le délai d'acceptation est dépassé, si l'offrant décède ou devient incapable. Mais la perte de pouvoir n'est pas reconnue comme une cause de caducité de l'offre.
+**Cette décision s'appuie sur une jurisprudence constante**. En effet, une offre peut devenir caduque pour plusieurs raisons : 
+1. si le délai d'acceptation est dépassé, 
+2. si l'offrant décède ou 
+3. devient incapable. Mais **la perte de pouvoir n'est pas reconnue comme une cause de caducité de l'offre**.
 
 ---
 Suite à un accord conclu le 1er octobre 1992 entre une société et un salarié relativement aux conditions d’indemnisation de ce dernier au cas où il quitterait le groupe, la société lui adresse, le 16 décembre 1996, une offre prévoyant de nouvelles conditions d’indemnisation. Tandis qu’en 1997, un changement de direction intervient au sein de la société, le salarié accepte l’offre l’année suivante. Par la suite, le salarié, mis à la retraite, sollicite l’application de l’accord conclu en 1992.

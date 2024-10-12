@@ -25,3 +25,7 @@ La notion de service public est une notion assez récente, qui s’est imposé
 
 
 https://www.doc-du-juriste.com/blog/conseils-juridiques/exemples-phrases-accroche-pour-une-dissertation-droit-administratif-03-09-2021.html#:~:text=Pour%20Maurice%20Hauriou%20%C2%AB%20le%20service,de%20plus%20en%20plus%20moral.
+
+En effet, d'après le doyen **Léon Duguit**, ***le service public légitime l'action administrative et constitue le fondement même du droit administratif***.
+
+D'où la définition contemporaine avancée par le **Professeur René Chapus**, selon laquelle, le service public est « *une activité d'intérêt général, exercée directement par une personne publique, ou, indirectement, sous son contrôle et suivant un régime plus ou moins dérogatoire au droit commun* ».

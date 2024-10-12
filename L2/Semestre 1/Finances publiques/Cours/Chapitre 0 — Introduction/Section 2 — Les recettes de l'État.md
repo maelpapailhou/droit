@@ -24,20 +24,20 @@ Comparatif des prélèvements (budget de 2024) :
 >L'impôt est « une prestation pécuniaire, requise des particuliers par voie d'autorité, à titre définitif et sans contrepartie, en vue de la couverture des charges publiques »
 
 **Définitions doctrinales :**
-- Gaston Jèze (1936) : L'impôt est « une prestation pécuniaire, requise des particuliers par voie d'autorité, à titre définitif et sans contrepartie, en vue de la couverture des charges publiques»
-- Joseph Barthelemy (1941) : L'impôt est «le prélèvement d'argent que l'État exige à titre définitif, sans engagement de restitution et par voie d'autorité ou de contrainte, afin de faire face aux dépenses publiques et sans que l'État fournisse immédiatement et dans la même opération la contrepartie de ce versement»
-- Georges Vedel (1953) : L'impôt est « un prélèvement pécuniaire, de caractère obligatoire, effectué en vertu de prérogatives de puissance publique, à titre définitif, sans contrepartie déterminée, en vue d'assurer le financement des charges publiques de l'État, des collectivités territoriales et des établissements publics administratif »
+- **Gaston Jèze (1936) :** L'impôt est « *une prestation pécuniaire, requise des particuliers par voie d'autorité, à titre définitif et sans contrepartie, en vue de la couverture des charges publiques*»
+- **Joseph Barthelemy (1941)** : L'impôt est «le *prélèvement d'argent que l'État exige à titre définitif, sans engagement de restitution et par voie d'autorité ou de contrainte, afin de faire face aux dépenses publiques et sans que l'État fournisse immédiatement et dans la même opération la contrepartie de ce versement*»
+- **Georges Vedel (1953)** : L'impôt est « *un prélèvement pécuniaire, de caractère obligatoire, effectué en vertu de prérogatives de puissance publique, à titre définitif, sans contrepartie déterminée, en vue d'assurer le financement des charges publiques de l'État, des collectivités territoriales et des établissements publics administratif* »
 ###### 1.a) un prélèvement pécuniaire
 Le paiement de l’impôt s’effectue sous la forme d’une remise d’une somme d’argent, mais il est progressivement dématérialisé. Le paiement au guichet est toujours possible jusqu’à 300 euros.
 
-Datation de paiement : permet de payer un impôt en remettant à l’État des œuvres d’art, des immeubles ou des valeurs immobilières. L’État a accepté, en guise de paiement de droits de succession de Picasso, de prendre des œuvres d’art.
+**Datation de paiement :** permet de payer un impôt en **remettant à l’État des œuvres d’art, des immeubles ou des valeurs immobilières**. L’État a accepté, en guise de paiement de droits de succession de Picasso, de prendre des œuvres d’art.
 
 Les composantes de l’impôt sont évaluées selon leur valeur pécuniaire, par exemple l’impôt sur le revenu ou les taxes foncières. L’assiette des taxes foncières est composée des valeurs cadastrales du bien.
 
 La transmission d’un bien conduit au paiement d’un prélèvement dont le montant est calculé en fonction de la valeur du bien. Par exemple, la TVA, lorsque le bien change de propriétaire. Droit de mutation : lorsque le propriétaire d’un bien change en raison d’une vente. La dévolution, l’acquisition, la détention ou la transmission d’un bien entraînent le paiement d’un prélèvement calculé en fonction de sa valeur monétaire.
 
 ###### 2.b) un prélèvement obligatoire.
-Le rapport juridique entre l'État et le contribuable n'est pas contractuel. Le contribuable peut être tenu de payer le prélèvement, l'impôt en question, via des procédures d'exécution forcée. Les services fiscaux n'ont pas à recourir aux juges pour forcer le paiement.
+**Le rapport juridique entre l'État et le contribuable n'est pas contractuel**. Le contribuable peut être tenu de payer le prélèvement, l'impôt en question, via des procédures d'exécution forcée. Les services fiscaux n'ont pas à recourir aux juges pour forcer le paiement.
 
 Certains impôts sont facultatifs, il s'agit des impôts dont bénéficient les collectivités territoriales.
 
@@ -46,6 +46,7 @@ L'impôt est une ressource budgétaire définitive, il n'est jamais restitué sa
 
 ###### 1.d) Un prélèvement sans contrepartie
 Il n'y a jamais de contrepartie directe. Si on paie 500 euros d'impôt, on ne reçoit pas 500 euros de service public en retour. C'est la caractéristique principale de l'impôt.
+
 
 Les articles 13, 14 et 15 de la Déclaration des Droits de l'Homme et du Citoyen (DDHC) soulignent ce point.
 

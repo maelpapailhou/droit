@@ -1,0 +1,2 @@
+
+Le contrat pourrait-il être frappé de caducité **lorsqu’un contractant perd son intérêt au contrat ?** La **jurisprudence s’y oppose**, comme en témoigne un ==arrêt de la chambre commerciale du 18 mars 2014==.

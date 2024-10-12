@@ -58,5 +58,4 @@ Exigence d'une stipulation expresse.
 
 **Ouverture :** L'==arrêt du 22 juin 2022== a désormais rendu possible de considérer certains motifs extérieurs, comme la défiscalisation, comme tacitement induits dans le champ contractuel. Cela fait référence à une jurisprudence portant sur un contrat de location de corbillard.
 
-(Ouverture pas obligatoire, j'te déconseille même car sert à rien et trop compliqué)
 Attention : problème de droit général.

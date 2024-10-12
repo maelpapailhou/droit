@@ -34,7 +34,7 @@ Dans son arrêt du 25 mai 1870, la Cour de cassation **réserve l'hypothèse où
 
 Différentes circonstances de **silence gardé par le destinataire d'une offre rencontrées en jurisprudence ont été considérées comme valant acceptation**.
 
-Tout d'abord, le silence vaut acceptation entre les parties contractantes qui entretiennent des relations d'affaires suivies qui conduisent à **la conclusion répétée de contrats de même nature**.
+Tout d'abord, **le silence vaut acceptation** entre les parties contractantes qui entretiennent des relations d'affaires suivies qui conduisent à **la conclusion répétée de contrats de même nature**.
 
 Dans ce cas, c'est **le refus exprès du destinataire qui empêchera la conclusion du nouveau contrat**. Cette hypothèse de relation d'affaires antérieures existant entre les parties résulte parfois de la loi.
 

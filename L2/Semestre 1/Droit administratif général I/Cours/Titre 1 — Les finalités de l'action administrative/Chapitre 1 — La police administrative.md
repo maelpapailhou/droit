@@ -422,6 +422,7 @@ Exemples de missions détachables :
 [[CE, 21 juin 2000, SARL Plage "Chez Joseph"]]
 En plus de ces missions détachables, l'autorité de police peut imposer à une personne privée, dans le cadre de son activité, de veiller au maintien de l'ordre public. Cela a été illustré par l'arrêt du Conseil d'État du 21 juin 2000, **SARL Plage "Chez Joseph"**. Dans cette affaire, le concessionnaire de plage avait l'obligation de veiller à l'ordre public (par exemple, en assurant la présence de maîtres-nageurs sauveteurs) et de mettre en place des douches et des toilettes pour l'hygiène publique.
 
+[[Consorts Amaudruz]]
 La personne publique ne transfère pas son pouvoir de police aux concessionnaires. Cela a été confirmé par l'arrêt **Consorts Amaudruz**.
 
 #### Paragraphe 4 : Le contentieux des mesures de police
@@ -431,6 +432,7 @@ La police est un moyen de contrainte. Nous sommes dans un système où ce moyen 
 1. Soumission de l'activité étatique à des règles.
 2. Contrôle juridictionnel de cette activité.
 
+[[29 novembre 1872, Baillergeau]]
 En tant qu'actes administratifs, les mesures de police sont justiciables du recours pour excès de pouvoir. Elles sont soumises au principe de légalité, qui n'a été consacré qu'à la fin du 19e siècle, avec l'arrêt **Baillergeau**, rendu le 29 novembre 1872. 
 
 La responsabilité de l'autorité de police peut être engagée. Cette responsabilité n'a pas toujours pu l'être, car pendant longtemps, on considérait que cette activité de souveraineté s'exerçait sans compensation. Ce n'est qu'en 1905 que l'on a admis pour la première fois que l'autorité de police pouvait voir sa responsabilité engagée.
@@ -448,17 +450,21 @@ Elle doit également respecter des règles particulières en matière de police.
 Le pouvoir de police n’est pas simplement une prérogative, c’est un devoir. En tant que tel, toute abstention est illégale. Si un préjudice en résulte, l’autorité compétente peut voir sa responsabilité engagée.
 
 ###### *1.a) L'obligation de prendre une mesure de police initiale*
+
+[[23 octobre 1959, Doublet]]
 Lorsqu'il y a une menace grave pour l'ordre public, l'autorité de police est obligée de prendre une mesure initiale. Cela résulte de l'arrêt **Doublet**, rendu le 23 octobre 1959, qui impose aux autorités de police de protéger l’ordre public et, par conséquent, de prendre des mesures de police en l’absence de toute réglementation existante. Cette obligation était soumise à la condition qu’il y ait un péril grave, mais cette exigence a été assouplie par la suite. Le trouble à l’ordre public doit avoir une certaine intensité pour qu'une obligation pèse sur l’autorité de police.
 
+[[22 novembre 2019, Bujon]]
 Dans l’arrêt **Bujon** du 22 novembre 2019, un surfeur de Saint-Leu, victime d'une attaque de requin ayant causé la perte de sa main et de sa jambe droite, a recherché la responsabilité de l'État. Il soutenait que le préfet aurait dû utiliser son pouvoir de substitution en raison de l'insuffisance des avertissements de danger pris par le maire. Le tribunal administratif de Saint-Denis et la cour administrative d’appel ont rejeté sa demande, et le Conseil d'État a confirmé ces décisions. En confirmant, le Conseil d'État a rappelé que les maires sont tenus de signaler les dangers excédant ceux contre lesquels les baigneurs doivent normalement se prémunir. Le rivage où l'accident a eu lieu faisait déjà l'objet d'un arrêté interdisant la baignade. Le Conseil d'État a refusé d’imposer une obligation supplémentaire aux maires, estimant que la publicité des règlements et des dangers était suffisamment appropriée, même sans mention spécifique du risque de requin.
 
 L’obligation de prendre une mesure de police peut également être imposée sous la pression du droit de l’Union européenne. C’est le cas de l’affaire des fraises espagnoles, où des agriculteurs français mécontents de l'importation de fraises en provenance d’Espagne se sont installés à la frontière et ont saccagé des camions transportant ces fraises. La Commission européenne a alors attaqué la France, lui reprochant de ne pas avoir protégé la libre circulation des marchandises et de ne pas avoir maintenu l’ordre public. La France a été condamnée pour manquement.
 
+[[Cour de justice de l'Union européenne du 9 décembre 1997, Commission contre France]]
 Dans l'arrêt de la Cour de justice de l'Union européenne du 9 décembre 1997, **Commission contre France**, l'État français a été condamné pour s’être abstenu de faire respecter la libre circulation des marchandises, ce qui pose une obligation de maintenir l'ordre public dans ce contexte précis.
 
 ###### 1.b) L’obligation d’appliquer une réglementation de police préexistante
 
-Arrêt qui a fondé cette obligation:
+Arrêt qui a fondé cette obligation: [[CE, section, 14 décembre 1962, Doublet]]
 L'arrêt du Conseil d'État, section, **Doublet**, rendu le 14 décembre 1962, a posé l'obligation pour le maire d'appliquer la réglementation de police (par exemple, l'obligation de porter un masque).
 
 ###### 2) Les conditions de légalité des mesures de police
@@ -475,14 +481,17 @@ Dans le cadre de la légalité, on distingue :
 
 Exemple : Au titre des règles de forme et de procédure, en matière de légalité externe, toutes les mesures de police doivent être motivées, contrairement aux actes administratifs qui ne le sont pas nécessairement. Certaines catégories d'actes, comme les mesures de police, doivent cependant l'être.
 
-Les décisions individuelles de police, qui touchent un individu, doivent être précédées d'une procédure contradictoire, c'est-à-dire la communication des griefs. Cela permet au destinataire de présenter ses observations et de faire valoir ses droits. Cela découle de l'article 24 de la loi du 12 avril 2000 (loi DCRA), aujourd'hui codifié dans le Code des relations entre le public et l'administration (CRPA).
+Les décisions individuelles de police, qui touchent un individu, doivent être précédées d'une procédure contradictoire, c'est-à-dire la communication des griefs. Cela permet au destinataire de présenter ses observations et de faire valoir ses droits. Cela découle de l'==article 24 de la loi du 12 avril 2000== (loi DCRA), aujourd'hui codifié dans le Code des relations entre le public et l'administration (CRPA).
 
 Au titre de la légalité interne, les mesures de police doivent se fonder sur des faits dont la matérialité est établie. L'autorité qui prend la mesure doit être en mesure de prouver que le trouble à l'ordre public est bien réel. De plus, les mesures de police doivent respecter les normes supérieures, y compris les règles de concurrence. 
 
+[[22 novembre 2000, Société L&P Publicité]]
 Depuis l'arrêt du 22 novembre 2000, **Société L&P Publicité**, les mesures de police doivent respecter le droit de la concurrence.
 
+[[3 novembre 1997, Million et Marais]]
 L'arrêt **Million et Marais** du 3 novembre 1997 a intégré le droit de la concurrence dans le bloc de légalité administrative.
 
+[[2009, Bateaux-Mouches]]
 En 2009, l'arrêt **Bateaux-Mouches** a précisé que lorsqu'on réglemente le nombre de personnels d'équipage, il ne faut pas favoriser les grands transporteurs au détriment des bateaux de taille plus modeste.
 
 Enfin, les mesures de police doivent être circonstanciées.
@@ -493,11 +502,14 @@ Les mesures de police sont attentatoires aux libertés. Par conséquent, le juge
 Il existe **trois degrés de contrôle juridictionnel** :
 
 1. **Contrôle de l'erreur manifeste d'appréciation** : le juge ne sanctionnera un acte que si son auteur a commis une erreur grossière ou évidente. L'administration dispose ici d'une marge d'erreur très importante, d'où le fait que ce contrôle est dit "minimum".
-   
+
+[[CE, 19 mai 1933, Benjamin]]
 2. **Contrôle de proportionnalité (maximum)** : une mesure est sanctionnée dès qu'elle n'est pas proportionnée de manière adéquate. La marge d'erreur de l'administration est alors quasi inexistante, elle dispose de très peu de marge de manœuvre. Le juge cherche à savoir si le maire a pris la mesure la moins attentatoire aux libertés, tout en protégeant l'ordre public. Par exemple, en matière de mendicité, on examine si une interdiction dans certains lieux et à certaines heures suffit. Ce contrôle a été inauguré dans l'arrêt **Benjamin** de 1933 : René Benjamin voulait organiser une conférence, mais ses détracteurs avaient prévu une manifestation. Le maire interdit la conférence, mais le Conseil d'État a estimé que les troubles à l'ordre public invoqués par le maire n'étaient pas suffisamment graves. 
 
+[[22 juin 1951, Daudignac]]
    La conséquence de ce contrôle est que, bien souvent, les **interdictions générales et absolues** seront considérées comme illégales. Par exemple, dans l'affaire **Daudignac** du 22 juin 1951, l'autorité de police avait mis en place une autorisation préalable pour exercer la profession d'autographe filmeur. Le Conseil d'État a annulé cette mesure au nom de la liberté de commerce et d'industrie. Cet arrêt a mis en évidence que la mesure de police était trop attentatoire à la liberté de commerce et d'industrie.
-
+   
+[[13 mars 1968, Époux Leroy]]
    Un autre arrêt, celui des **époux Leroy** du 13 mars 1968, concernait une interdiction de la profession de photographe filmeur. L'interdiction a été validée en pleine saison estivale en raison de l'influence touristique, le maire ayant démontré qu'aucune autre mesure n'aurait permis d'assurer le respect des règles de circulation.
 
    Un autre exemple est l'interdiction du **lancé de nains**, jugée conforme en raison de l'atteinte à la dignité de la personne.
@@ -507,6 +519,7 @@ En conclusion, une autorité de police, lorsqu'elle adopte une mesure, doit choi
 ##### B) L’extension exceptionnelle des pouvoirs de police en période de crise
 Jusqu'en 1905, les services de police administrative étaient irresponsables, car on considérait que c'était une mission régalienne qui ne pouvait pas donner lieu à un engagement de responsabilité.
 
+[[1905, Tomaso Grecco]]
 L'arrêt **Tomaso Grecco** de 1905 a marqué un tournant. Dans cette affaire, le commissaire du gouvernement Romieu a proposé au Conseil d'État de reconnaître la responsabilité de l'État du fait des services de police, à la suite d'un tir ayant causé des dommages. Toutefois, à ce moment-là, la responsabilité de l'État n'était engagée qu'en cas de **faute lourde**. La victime devait démontrer que l'autorité de police avait commis une faute particulièrement grave, afin de laisser une certaine marge de manœuvre aux autorités.
 
 Par la suite, il y a eu une évolution vers la réduction de l'exigence de la faute lourde, avec un **assouplissement progressif** des conditions. Dans les années 1930, cet assouplissement est apparu dans certains domaines sensibles, comme le stationnement (qui relevait alors de la police administrative) ou les activités juridictionnelles.

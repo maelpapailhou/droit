@@ -1,0 +1,1 @@
+Quant à sa valeur, ce principe a une valeur constitutionnelle depuis la décision du Conseil constitutionnel du 25 juillet 1979, concernant le droit de grève à la radio et à la télévision. Cette jurisprudence a été constamment réaffirmée.

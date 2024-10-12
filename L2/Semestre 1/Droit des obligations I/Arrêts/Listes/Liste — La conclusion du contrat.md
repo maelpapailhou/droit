@@ -1,7 +1,7 @@
-[[Cass. com., 26 nov. 2003, Manouchian]]
+[[Cass. com., 26 nov. 2003, Manouchian - Pas de réparation pour la perte d'une chance de réaliser des gains]]
 **Indemnisation en cas de faute** : L'arrêt  précise qu’en cas de faute commise pendant les négociations, l’indemnisation ne peut pas compenser la perte de chance d'obtenir un contrat, car il est possible que le contrat n’aurait pas été conclu même sans faute. Les préjudices indemnisables sont les frais de négociation exposés pour rien.
 
-[[Cass. civ. 3ème, 28 juin 2006]]
+[[Cass. civ. 3ème, 28 juin 2006 - Réitère Manouchian]]
 Cette solution a été **réitérée par la troisième chambre civile** qui a jugé que « *une faute commise dans l'exercice du droit de rupture unilatérale des pourparlers précontractuels n'est pas la cause du préjudice consistant dans la perte d'une chance de réaliser les gains que permettait d'espérer la conclusion du contrat* » qui a jugé que « une faute commise dans l'exercice du droit de rupture unilatérale des pourparlers précontractuels n'est pas la cause du préjudice consistant dans la perte d'une chance de réaliser les gains que permettait d'espérer la conclusion du contrat »
 
 On mesure par là que la jurisprudence n'indemnise que la réparation de l'intérêt négatif (c'est-à-dire de celui que la victime aurait pu éviter si les pourparlers n'avaient pas été entrepris) mais pas celle de l'intérêt positif (c'est à dire de celui que la victime aurait pu tirer du contrat s'il avait été conclu). En revanche, peuvent être indemnisés : le fait d'avoir raté une autre négociation ; l'éventuelle atteinte à l'image ; les frais exposés pour une négociation inutile.
@@ -53,7 +53,7 @@ En l'espèce, un promoteur immobilier a besoin très rapidement de conclure un c
 
 Le juge décide : "La connaissance et l'acceptation des conditions générales et particulières ne conditionnent pas la formation du contrat, mais seulement leur opposabilité à l'assuré, et non la formation du contrat". Donc, pour la Cour de cassation, le contrat était conclu. Il y avait bien un accord entre l'assureur et l'assuré.
 
-[[15 décembre 1993, Consorts Crous]]
+[[15 décembre 1993, Consorts Cruz]]
 15 décembre 1993 (Consorts Crous) dans lequel elle avait considéré que le promettant avait commis une faute en rétractant sa promesse, mais qu'il ne devait que des dommages-intérêts. Il n'était en aucun cas possible de contraindre le promettant à exécuter sa promesse. Cet arrêt a été critiqué, car certains auteurs y voyaient une atteinte à la force des conventions, la sanction la plus naturelle étant l'exécution forcée du contrat.
 
 Sur cette question, après le 1er octobre 2016, la jurisprudence restait fermement attachée à la jurisprudence Consorts Crous et refusait d'opérer un revirement. Ce revirement est finalement intervenu tardivement, par un ==arrêt du 23 juin 2021 et un arrêt du 15 mars 2023==, la Cour de cassation adoptant alors la nouvelle solution pour les promesses convenues avant le 1er octobre 2016.

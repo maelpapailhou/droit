@@ -152,3 +152,44 @@ La personne publique ne transfère pas son pouvoir de police aux concessionnaire
 
 [[CE, Consorts Amaudruz]]
 Dans l'arrêt **Consorts Amaudruz**, le Conseil d'État a affirmé que la délégation de pouvoir de police aux personnes privées est strictement encadrée. Cet arrêt rappelle que, bien que certaines missions accessoires puissent être confiées à des tiers, le pouvoir de police en tant que tel, notamment l'exercice de la force publique et les décisions unilatérales relatives à la sécurité publique, ne peut être transféré. Ainsi, même si des tâches matérielles peuvent être déléguées, l'autorité de police conserve la responsabilité ultime de la sécurité et de l'ordre public. Cette distinction est essentielle pour garantir que les prérogatives fondamentales de l'État en matière de sécurité ne soient pas compromises par des délégations inappropriées.
+
+
+[[29 novembre 1872, Baillergeau]]
+En tant qu'actes administratifs, les mesures de police sont justiciables du recours pour excès de pouvoir. Elles sont soumises au principe de légalité, qui n'a été consacré qu'à la fin du 19e siècle, avec l'arrêt **Baillergeau**, rendu le 29 novembre 1872. 
+
+La responsabilité de l'autorité de police peut être engagée. Cette responsabilité n'a pas toujours pu l'être, car pendant longtemps, on considérait que cette activité de souveraineté s'exerçait sans compensation. Ce n'est qu'en 1905 que l'on a admis pour la première fois que l'autorité de police pouvait voir sa responsabilité engagée.
+
+[[23 octobre 1959, Doublet]]
+Lorsqu'il y a une menace grave pour l'ordre public, l'autorité de police est obligée de prendre une mesure initiale. Cela résulte de l'arrêt **Doublet**, rendu le 23 octobre 1959, qui impose aux autorités de police de protéger l’ordre public et, par conséquent, de prendre des mesures de police en l’absence de toute réglementation existante. Cette obligation était soumise à la condition qu’il y ait un péril grave, mais cette exigence a été assouplie par la suite. Le trouble à l’ordre public doit avoir une certaine intensité pour qu'une obligation pèse sur l’autorité de police.
+
+[[22 novembre 2019, Bujon]]
+Dans l’arrêt **Bujon** du 22 novembre 2019, un surfeur de Saint-Leu, victime d'une attaque de requin ayant causé la perte de sa main et de sa jambe droite, a recherché la responsabilité de l'État. Il soutenait que le préfet aurait dû utiliser son pouvoir de substitution en raison de l'insuffisance des avertissements de danger pris par le maire. Le tribunal administratif de Saint-Denis et la cour administrative d’appel ont rejeté sa demande, et le Conseil d'État a confirmé ces décisions. En confirmant, le Conseil d'État a rappelé que les maires sont tenus de signaler les dangers excédant ceux contre lesquels les baigneurs doivent normalement se prémunir. Le rivage où l'accident a eu lieu faisait déjà l'objet d'un arrêté interdisant la baignade. Le Conseil d'État a refusé d’imposer une obligation supplémentaire aux maires, estimant que la publicité des règlements et des dangers était suffisamment appropriée, même sans mention spécifique du risque de requin.
+
+[[Cour de justice de l'Union européenne du 9 décembre 1997, Commission contre France]]
+Dans l'arrêt de la Cour de justice de l'Union européenne du 9 décembre 1997, **Commission contre France**, l'État français a été condamné pour s’être abstenu de faire respecter la libre circulation des marchandises, ce qui pose une obligation de maintenir l'ordre public dans ce contexte précis.
+
+ [[CE, section, 14 décembre 1962, Doublet]]
+L'arrêt du Conseil d'État, section, **Doublet**, rendu le 14 décembre 1962, a posé l'obligation pour le maire d'appliquer la réglementation de police (par exemple, l'obligation de porter un masque).
+
+
+[[22 novembre 2000, Société L&P Publicité]]
+Depuis l'arrêt du 22 novembre 2000, **Société L&P Publicité**, les mesures de police doivent respecter le droit de la concurrence.
+
+[[3 novembre 1997, Million et Marais]]
+L'arrêt **Million et Marais** du 3 novembre 1997 a intégré le droit de la concurrence dans le bloc de légalité administrative.
+
+[[2009, Bateaux-Mouches]]
+En 2009, l'arrêt **Bateaux-Mouches** a précisé que lorsqu'on réglemente le nombre de personnels d'équipage, il ne faut pas favoriser les grands transporteurs au détriment des bateaux de taille plus modeste.
+
+
+[[CE, 19 mai 1933, Benjamin]]
+2. **Contrôle de proportionnalité (maximum)** : une mesure est sanctionnée dès qu'elle n'est pas proportionnée de manière adéquate. La marge d'erreur de l'administration est alors quasi inexistante, elle dispose de très peu de marge de manœuvre. Le juge cherche à savoir si le maire a pris la mesure la moins attentatoire aux libertés, tout en protégeant l'ordre public. Par exemple, en matière de mendicité, on examine si une interdiction dans certains lieux et à certaines heures suffit. Ce contrôle a été inauguré dans l'arrêt **Benjamin** de 1933 : René Benjamin voulait organiser une conférence, mais ses détracteurs avaient prévu une manifestation. Le maire interdit la conférence, mais le Conseil d'État a estimé que les troubles à l'ordre public invoqués par le maire n'étaient pas suffisamment graves. 
+
+[[22 juin 1951, Daudignac]]
+   La conséquence de ce contrôle est que, bien souvent, les **interdictions générales et absolues** seront considérées comme illégales. Par exemple, dans l'affaire **Daudignac** du 22 juin 1951, l'autorité de police avait mis en place une autorisation préalable pour exercer la profession d'autographe filmeur. Le Conseil d'État a annulé cette mesure au nom de la liberté de commerce et d'industrie. Cet arrêt a mis en évidence que la mesure de police était trop attentatoire à la liberté de commerce et d'industrie.
+   
+[[13 mars 1968, Époux Leroy]]
+   Un autre arrêt, celui des **époux Leroy** du 13 mars 1968, concernait une interdiction de la profession de photographe filmeur. L'interdiction a été validée en pleine saison estivale en raison de l'influence touristique, le maire ayant démontré qu'aucune autre mesure n'aurait permis d'assurer le respect des règles de circulation.
+
+[[1905, Tomaso Grecco]]
+L'arrêt **Tomaso Grecco** de 1905 a marqué un tournant. Dans cette affaire, le commissaire du gouvernement Romieu a proposé au Conseil d'État de reconnaître la responsabilité de l'État du fait des services de police, à la suite d'un tir ayant causé des dommages. Toutefois, à ce moment-là, la responsabilité de l'État n'était engagée qu'en cas de **faute lourde**. La victime devait démontrer que l'autorité de police avait commis une faute particulièrement grave, afin de laisser une certaine marge de manœuvre aux autorités.

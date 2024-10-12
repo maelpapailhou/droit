@@ -1,0 +1,2 @@
+
+Si la clientèle ne pouvait donc être cédée, on admettait les conventions de présentation du successeur aux patients : « si la clientèle d'un médecin n'est pas dans le commerce, le droit de ce médecin de présenter un confrère à sa clientèle constitue un droit patrimonial qui peut faire l'objet d'une convention régie par le droit privé »

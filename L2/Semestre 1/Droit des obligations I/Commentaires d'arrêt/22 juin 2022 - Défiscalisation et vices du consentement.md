@@ -1,0 +1,1 @@
+https://www.doc-du-juriste.com/droit-prive-et-contrat/droit-des-obligations/commentaire-d-arret/cour-cassation-chambre-commerciale-22-juin-2022-vices-consentement-683827.html

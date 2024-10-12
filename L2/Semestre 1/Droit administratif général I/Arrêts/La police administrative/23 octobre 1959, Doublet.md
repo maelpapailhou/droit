@@ -1,0 +1,3 @@
+
+arrêt **Doublet**, rendu le 23 octobre 1959
+Lorsqu'il y a une menace grave pour l'ordre public, l'autorité de police est obligée de prendre une mesure initiale. Cela résulte de l'arrêt **Doublet**, rendu le 23 octobre 1959, qui impose aux autorités de police de protéger l’ordre public et, par conséquent, de prendre des mesures de police en l’absence de toute réglementation existante. Cette obligation était soumise à la condition qu’il y ait un péril grave, mais cette exigence a été assouplie par la suite. Le trouble à l’ordre public doit avoir une certaine intensité pour qu'une obligation pèse sur l’autorité de police.

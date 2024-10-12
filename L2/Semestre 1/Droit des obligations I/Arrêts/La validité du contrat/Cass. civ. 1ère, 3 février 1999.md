@@ -1,0 +1,3 @@
+la cour a retenu que : « n'est pas contraire aux bonnes mœurs la cause de la libéralité dont l'auteur entend maintenir la relation adultère qu'il entretient avec la bénéficiaire »
+
+Cette solution est heureuse en ce qu'elle met fin à la subtilité de la jurisprudence antérieure qui validait la libéralité lorsque sa cause était de mettre fin au concubinage, mais qui la censurait lorsque sa cause en encourageait le maintien. Toutefois, la solution est malheureuse car elle malmène l'obligation de fidélité des époux : serait-elle conforme aux bonnes mœurs (O tempora, O mores !!!), la libéralité est illicite (==art 212 civ==).

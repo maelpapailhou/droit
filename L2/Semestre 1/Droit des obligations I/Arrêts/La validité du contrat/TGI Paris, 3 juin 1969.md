@@ -1,0 +1,2 @@
+
+Une affaire célèbre (la femme tatouée) avait abouti à la nullité, pour illicéité de l'objet, de la convention au terme de laquelle une femme acceptait de se faire tatouer, le tatouage devant ensuite être prélevé par exérèse.

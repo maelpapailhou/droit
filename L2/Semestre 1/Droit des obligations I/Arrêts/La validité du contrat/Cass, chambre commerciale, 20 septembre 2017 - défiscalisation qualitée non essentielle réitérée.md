@@ -1,0 +1,1 @@
+Solution réitérée sur la défiscalisaiton d'un bien

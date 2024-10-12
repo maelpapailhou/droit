@@ -1,0 +1,1 @@
+Depuis l'arrêt du 22 novembre 2000, **Société L&P Publicité**, les mesures de police doivent respecter le droit de la concurrence.

@@ -1,0 +1,6 @@
+
+*En l’espèce, un expert-comptable poursuivait le paiement de factures d’honoraires et invoquait le fait que, en application de l’==article 1165==, il pouvait lui-même fixer le montant du prix.* 
+
+La Cour juge : *« Selon l'==article 1165 du code civil==, dans les contrats de prestation de service, à défaut d'accord des parties avant leur exécution, le prix peut être fixé par le créancier, à charge pour lui d'en motiver le montant en cas de contestation. Selon l'article 151, alinéa 1, du décret n° 2012-432 du 30 mars 2012 relatif à l'exercice de l'activité d'expertise comptable, l'expert-comptable passe avec son client un contrat écrit définissant sa mission et précisant les droits et obligations de chacune des parties. Il en résulte que les dispositions de l'article 1165 du code civil ne sont, conformément à l'article 1105, alinéa 3, du même code, pas applicables à une prestation de services fournie par un expert-comptable. ».*
+  
+Les juges du fond auront donc à fixer le prix en contemplation des diligences effectivement réalisées par l’expert-comptable : on fera donc comme avant ! Il convient de noter que l’Avant-Projet de réforme des contrats spéciaux rédigé sous la direction de **Philippe Stoffel-Munck propose l’abrogation** de l’==article 1165==.

@@ -1,0 +1,83 @@
+- ce modèle-là
+- ne t'inquiète pas (impératif
+- essuies-en (impératif mais ya un e ou y après)
+- connexion
+- plus tôt (contraire de plus tard), ou plutôt thé ou café
+- il se détend (pas de s)
+- vôtre (avec accent)
+- nous avons eu **affaire** au même vendeur
+- la nervosité, une qualité, l'amitié, elle a de l'autorité (nom féminin fini par té ou tié pas de e) ; c'est une preuve d'amitié
+- exception : butée, montée, jetée, etc
+- est-ce que tu pourrais?
+- il était plutôt sympathique
+- il a relu
+- je crois qu'en tout
+- il a pris son courage
+- cauchemar (pas de d)
+- que deux possibilités (pas de e)
+- elles sont venues
+- si tu étais parti un peu plus tôt, tu n'aurais pas loupé ton train
+- nous devons être prudents
+- il étend (pas de t)
+- assis à son bureau,..
+- sans grande difficulté.
+- elles sont devenues
+- à la vôtre, mes amis
+- j'ai essayé de les joindre
+- ça ne répond pas
+- savez-vous où sont rangées les plaquettes publicitaires?
+- ce volcan en activité
+- ils sont partis
+- soudain
+- nous avons décidé
+- une offre pareille
+- nous aimerions les remercier (pas de s)
+- pour les voir
+- la plupart des riverains regardaient
+- ses efforts
+- des ressources humaines
+- des documents importants
+- nous irons les voir
+- la plupart de ne sont pas du tout d'accord
+- des vents violents
+- bien sûr (en 2 mots)
+- cet envoi (pas de e)
+- tous les camions de livraison (pas de s)
+- à les jeter
+- Je ne crois pas qui’il ait déjà vu
+- Deux chênes centenaires (avec un s)
+- **-> adjectif s’accorde en genre et en nombre, avec le nom et le pronom**
+- Il s’est renseigné
+- Pourvu qu’il n’ait rien entendu
+- Malgré : invariable
+- Je ne crois pas que ce soit vraiment
+- Je vous assure
+- Un échange de bons procédés (pluriels)
+- Je n’arrive pas à les joindre : verbe infinitif présent est invariable
+- Auparavant (1 seul mot)
+- Aux affaires familiales 
+- La zone industrielle
+- Après des débuts difficiles
+- De personnes âgées dépendantes
+- Nos fournisseurs habituels
+- municipale
+- Conseil ou conseille : si verbe conjugué on mets conseille, replacé par conseillera (il m’a donné ce conseillera NON / il détaillera son programme)
+- Ne me surprend pas
+- Ces jours-ci
+- Ils ont été bouleversés
+- Pour leur annoncer (pronom personnel invariable : remplacer leur par lui, si ça marche alors OUI); sinon déterminant possessif (s’accorde en nombre uniquement)
+- Davantage (collé) (jamais de s)
+- Leur comptable  « je leurs dit » leur client  les leurs
+- Il maintient
+- Ce pont relie
+- Je me demande s’il y a
+- Nous sommes restés
+- Ils m’ont parlé
+- Parce que / je suis époustouflé par ce que
+- Nous recevons ensemble les candidats : ensemble, debout, sont des adverbes donc sont invariables.
+- La voie basse
+- Ils sont encore debout (pas de s)
+- Au maintien de son salaire
+- Deux entretiens
+- Un entretien
+- Ensemble : jamais de s
