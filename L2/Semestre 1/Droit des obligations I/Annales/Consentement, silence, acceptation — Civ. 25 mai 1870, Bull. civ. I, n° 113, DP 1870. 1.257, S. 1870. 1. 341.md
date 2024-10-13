@@ -22,7 +22,7 @@ La Cour explique ensuite que cette règle a été appliquée dans divers cas sim
 Ainsi, la jurisprudence confirme que l'acceptation d'un contrat doit être **expresse** ou, dans certains cas, **tacite**, mais elle ne peut jamais être purement **impliquée par le silence** en l'absence d'éléments complémentaires qui permettraient de déduire un consentement. Cela garantit la protection des contractants contre toute interprétation abusive ou forcée de leur silence.
 ```
 
-L'ordonnance n° 2016-131 du 10 février 2016 reprend cette solution à son compte avec l'==article 1120 du Code== civil qui dispose que « *Le silence ne vaut pas acceptation, à moins qu'il en résulte autrement de la loi, des usages, des relations d'affaires ou de circonstances particulières* ».
+L'==ordonnance n° 2016-131 du 10 février 2016== reprend cette solution à son compte avec l'==article 1120 du Code== civil qui dispose que « *Le silence ne vaut pas acceptation, à moins qu'il en résulte autrement de la loi, des usages, des relations d'affaires ou de circonstances particulières* ».
 
 Il en va ainsi sauf circonstances particulières qui permettent de reconnaître au silence la valeur d'une acceptation
 

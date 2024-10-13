@@ -30,9 +30,8 @@ En l'espèce, la société Manoukian avait ouvert des négociations avec les con
 [[Cass. civ. 3ème, 28 juin 2006 - Réitère Manouchian]] [[Réparation des préjudices précontractuels - toujours moins... ?]]
 Cette solution a été réitérée par la troisième chambre civile qui a jugé que « *une **faute commise dans l'exercice du droit de rupture unilatérale** des pourparlers précontractuels n'est **pas la cause du préjudice** consistant dans la perte d'une chance de réaliser les gains que permettait d'espérer la conclusion du contrat* »
 
-```
-On mesure par là que la jurisprudence n'indemnise que la réparation de l'intérêt négatif (c'est-à-dire de celui que la victime aurait pu éviter si les pourparlers n'avaient pas été entrepris) mais pas celle de l'intérêt positif (c'est à dire de celui que la victime aurait pu tirer du contrat s'il avait été conclu). En revanche, peuvent être indemnisés : le fait d'avoir raté une autre négociation ; l'éventuelle atteinte à l'image ; les frais exposés pour une négociation inutile.
-```
+On mesure par là que **la jurisprudence n'indemnise que la réparation de l'intérêt négatif** (c'est-à-dire de celui que la victime aurait pu éviter si les pourparlers n'avaient pas été entrepris) mais pas celle de l'intérêt positif (c'est à dire de celui que la victime aurait pu tirer du contrat s'il avait été conclu). En revanche, peuvent être indemnisés : le fait d'avoir raté une autre négociation ; l'éventuelle atteinte à l'image ; les frais exposés pour une négociation inutile.
+
 #### Paragraphe 2 : le devoir générale d'information
 Dans les textes spéciaux, il existe de nombreux textes qui précisent que le contractant doit délivrer certaines informations à son partenaire. *Par exemple, le vendeur d’une maison doit fournir un certain nombre d’informations sur la maison, telles que la présence ou l'absence de plans, ou si l maison est infestée de fourmis, etc.*
 
@@ -80,22 +79,22 @@ Cette solution s'**inspire de la jurisprudence déjà établie dans deux arrêts
 - loyauté contractuelle : D. Mazeaud
 - (libéralisme contractuel) : Ph. Stoffel-Munck et Y.-M. Laithier
 
-Critiquée par les tenants de la loyauté contractuelle (D. Mazeaud, note préc.), la solution est approuvée par d'autres (Ph. Stoffel-Munck et Y.-M. Laithier). Ce dernier point de vue doit être soutenu. En effet, on ne saurait déduire de cet arrêt que le contractant, lorsqu'il sera professionnel, ne devra pas informer son partenaire de certains points. 
+**Critiquée par les tenants de la loyauté contractuelle** (D. Mazeaud, note préc.), la solution est approuvée par d'autres (Ph. Stoffel-Munck et Y.-M. Laithier). Ce dernier point de vue doit être soutenu. En effet, on ne saurait déduire de cet arrêt que le contractant, lorsqu'il sera professionnel, ne devra pas informer son partenaire de certains points. 
 
 D'une part, on relèvera que la **Cour de cassation cantonne la solution au contrat de vente** (« l'acquéreur », « le vendeur »). On doit donc en déduire que d'**autres contrats**, notamment ***ceux qui font naître une confiance mutuelle***, ne sont pas concernés. 
 
 **La vente** est en effet un ***contrat où les intérêts des parties sont antagonistes*** et où **chacun doit veiller à la défense de ses propres intérêts**.
 
-arrêt du 27 février 1996 [[27 février 1996 - L'obligation d'information]]
+[[Com. 27 février 1996]] [[27 février 1996 - L'obligation d'information]]
 celle-ci avait pris soin de relever que l'**acquéreur était dirigeant social** et qu'il avait manqué au « **devoir de loyauté qui s'impose au dirigeant d'une société à l'égard de tout associé, en particulier lorsqu'il en est intermédiaire pour le reclassement de sa participation** 
 
 
-%% arret 20 décembre 2023%%
-
-[[Cass. civ. 1ère, 25 mars 2010]]
+[[Cass. civ. 1ère, 25 mars 2010]] [[Le silence de l'acquéreur sur la valeur du bien vendu]]
 La solution a ainsi été désactivée lorsque le dirigeant d'une société achète des parts à un de ses associés sans lui révéler leur valeur. 
-%% CREUSER%%
 
+Selon une jurisprudence aujourd’hui constante de la Chambre commerciale de la Cour de cassation, adoptée récemment par la 1re Chambre civile, l’actionnaire qui contrôle la société est tenu à ce titre d’informer les autres actionnaires, non seulement des événements susceptibles d’influencer de façon significative la valeur de leurs parts **[5362](https://www.labase-lextenso.fr/ouvrage/9782275051765-716#ftn5362)**, mais, plus précisément, du prix qu’il va retirer de la revente des parts qu’il acquiert, ce qui semble bien constituer une erreur directe sur la valeur de ces parts. 
+
+Cette jurisprudence de la Chambre commerciale a été adoptée par la 1re Chambre civile par un arrêt du 25 mars 2010 « rendu après avis de la Chambre commerciale ».
 
 **« *Informations qui ont un lien direct et nécessaire avec le contenu du contrat* » (==al. 3==)** : il s’agit d’une affirmation positive. Le professeur nous donne deux exemples pour illustrer son propos :
 
@@ -162,15 +161,12 @@ Lorsque l'offre sera assortie de réserves, elle ne sera pas considérée comme 
 
 ###### B) Le régime juridique de l'offre
 
+###### B.1) La rétractation de l'offre
 > **Article 1115 du code civil** 
 > (L'offre) Elle peut être librement rétractée tant qu'elle n'est pas parvenue à son destinataire.
 
 > **Article 1116 du code civil**
 > L’offre ne peut être rétractée avant l’expiration du délai fixé par son auteur ou à défaut à l’issue d’un délai raisonnable
-
-> **Article 1117 civ** 
-> L'offre est caduque à l'expiration du délai fixé par son auteur ou, à défaut, à l'issue d'un délai raisonnable.
-> Elle l'est également en cas d'incapacité ou de décès de son auteur, ou de décès de son destinataire.
 
 S’illustre dans deux hypothèses :
 1. **La rétractation de l’offre** : pose la question de savoir si celui qui a émis une offre peut la rétracter, si l’offrant peut ou non rétracter l’offre qu’il a émise. Le code civil invite à **distinguer deux hypothèses** :
@@ -187,9 +183,22 @@ S’illustre dans deux hypothèses :
 			        - Question de savoir si 5 semaines est un délai raisonnable ou pas, la cour de Cassation prend en ***considération que l’acheteur était une personne morale, pour prendre la décision d’acheter il fallait convoquer l’assemblée générale, la tenir, éviter le procès-verbal, de sorte que le délai de 5 semaines était parfaitement raisonnable***.
 			        - procède de ==considérations tenant à la nature du bien objet du contrat== (un immeuble, en l'espèce) et à l'identité ==juridique du destinataire de l'offre== (une personne morale, en l'occurrence).
 	        - La **sanction en cas de rétractation de l’offre** : 
-		        - L’offre devait être maintenue jusqu’au 1er octobre, offre rétractée avant : seuls des dommages et intérêts sont envisageables. Le juge ne saurait considérer que le contrat ait été conclu. L’offre reposait sur la seule volonté de l’offrant, mais pas de volonté concomitante de vendre. Alors le juge ne pourra pas ordonner la conclusion forcée du contrat. Distingue fondamentalement l’offre qu’on peut rétracter des promesses unilatérales qu’on ne peut pas rétracter.
+		        - L’offre devait être maintenue jusqu’au 1er octobre, offre rétractée avant : seuls des dommages et intérêts sont envisageables. Le juge ne saurait considérer que le contrat ait été conclu. L’offre reposait sur la seule volonté de l’offrant, mais pas de volonté concomitante de vendre. 
+		        - Alors **le juge ne pourra pas ordonner la conclusion forcée du contrat**. 
 
-1. **Décès de l’offrant :** avant que l’offre ait été acceptée, l’offrant meurt. Est-ce que le destinataire de l’offre peut toujours accepter ? **Avant la réforme de 2016, la jurisprudence était assez indécise.**
+>[!Attention]
+> Distinction fondamentale entre l’offre qu’on peut rétracter des ***promesses unilatérales qu’on ne peut pas rétracter***.
+> 
+> On mesure par là la différence fondamentale entre une offre et un contrat de promesse : alors que l'**offre** est le ***fruit d'une volonté isolée***, la **promesse unilatérale de vente** est un ***contrat par lequel un promettant s'engage à vendre un bien à un bénéficiaire*** si ce dernier lève l'option ; la rétractation de la promesse n'empêche pas la formation du contrat
+
+###### B.1i) La caducité de l'offre
+
+> **Article 1117 civ** 
+> L'offre est caduque à l'expiration du délai fixé par son auteur ou, à défaut, à l'issue d'un délai raisonnable.
+> Elle l'est également en cas d'incapacité ou de décès de son auteur, ou de décès de son destinataire.
+
+
+1. **Décès de l’offrant :** avant que l’offre ait été acceptée, l’offrant meurt. Est-ce que le destinataire de l’offre peut toujours accepter ? **Avant la réforme de 2016, la jurisprudence était assez indécise.****
 	- **Avant la réforme de 2016 :**
 		- [[Cass, 1 civ, 25 juin 2014]] avait retenu *“**l**’**offre qui n’est pas assortie d’un délai est caduque par le décès de l’offrant***”. Décision incertaine car se prête **facilement à la décision a contrario**. 
 		- Nombreux commentateurs estimaient que l’offre non assortie d’un délai est caduque par décès de l’offrant, a contrario l’offre **assortie d’un délai n’est pas caduque au décès de l’offrant et peut toujours être acceptée. Peut-être que la cour de cassation ne voulait pas parler de délai.**
@@ -200,7 +209,26 @@ S’illustre dans deux hypothèses :
 
 [[La perte de pouvoir du pollicitant survenue entre l’émission de l’offre et son acceptation, n’est pas une cause de caducité de l’offre dont pourrait se prévaloir l’acceptant.]]
 
-Cass Sociale 30 mai 2018
+
+L'==article 1117== dispose que l'offre est caduque à l'expiration du délai stipulé ou du délai raisonnable. Mais son ==alinéa 2== dispose qu'il en va ***de même en cas d'incapacité ou de décès de son auteur***.
+
+Cette solution opère un **bris de jurisprudence** puisqu'un arrêt avait retenu que « l'*offre qui n'est pas assortie d'un délai est caduque par le décès de celui dont elle émane avant qu'elle ait été acceptée* » 
+
+On en déduisait donc, a contrario, que si l'offre était assortie d'un délai, elle se maintenait indépendamment du décès de son auteur.
+
+Le nouvel article pose donc que toutes les offres, assorties ou non d'un délai, sont caduques du fait du décès ou de l'incapacité de son auteur.
+
+L'==article 1117== n'étant **pas d'ordre public**, l'auteur de l'offre aura tout intérêt à préciser s'il entend que son offre survive à son éventuel décès. Il pourra aussi, pour peu que la situation s'y prête, envisager l'hypothèse du décès du destinataire pour préciser que ses héritiers pourront alors accepter l'offre à noter que la loi du 20 avril 2018 a modifié l'article 1117 en précisant que l'offre était caduque en cas de décès du destinataire; cette modification ne joue qu'à compter du 1° octobre 2018).
+
+### Avant la réforme de 2016 :
+- La jurisprudence n'était pas claire sur la caducité de l'offre en cas de décès de l'auteur.
+- **==Décision de 2014==** : Si l'offre n'avait pas de délai fixé, elle devenait caduque à la mort de l'offrant. Mais il y avait une incertitude pour les offres avec un délai.
+- **Interprétation a contrario** : Beaucoup pensaient qu'une offre **avec délai** restait valable même après le décès de l'auteur, à moins que le délai expire.
+
+### Après la réforme de 2016 :
+- **==Article 1117==** : L'offre est automatiquement caduque en cas de décès de l'offrant, qu'il y ait un délai ou non.
+- La ==loi de 2018== a clarifié que l'**offre devient aussi caduque** si le ***destinataire de l'offre meurt***.
+- La règle est devenue plus simple et uniforme : le décès de l'auteur ou du destinataire annule l'offre, peu importe s'il y avait un délai fixé.
 
 **Cette décision s'appuie sur une jurisprudence constante**. En effet, une offre peut devenir caduque pour plusieurs raisons : 
 1. si le délai d'acceptation est dépassé, 
@@ -209,12 +237,13 @@ Cass Sociale 30 mai 2018
 
 **Résumé :**
 Ainsi, l’offre peut être frappée de caducité :
-- en raison de l’expiration du délai d’acceptation (Civ. 3e, 20 mai 1992, n° 90-17.647)
-- en l’absence de mention expresse d’un tel délai, à l’issue d’un délai raisonnable (Civ. 3e, 20 mai 2009)
-- pour cause de décès du pollicitant (Civ. 1re, 25 juin 2014, n° 13-16.529), 
-- ou en raison de son incapacité. 
+- en raison de l’***expiration du délai d’acceptation*** (Civ. 3e, 20 mai 1992, n° 90-17.647)
+- en l’absence de mention expresse d’un tel délai, à l’***issue d’un délai raisonnable*** (Civ. 3e, 20 mai 2009)
+- pour ***cause de décès du pollicitant*** (Civ. 1re, 25 juin 2014, n° 13-16.529), 
+- ou en ***raison de son incapacité***. 
 
-Mais, comme le rappelle en l’espèce la Haute juridiction, il appartient alors à l’offrant, et non au destinataire de l’offre, d’invoquer la caducité de l’offre. 
+Mais, comme le rappelle en l’espèce la Haute juridiction, **il appartient alors à l’offrant**, et non au destinataire de l’offre, d’**invoquer la caducité de l’offre**. 
+
 ##### 2) L'acceptation
 
 ###### A) la notion d'acceptation
@@ -284,7 +313,9 @@ L'==article 1119 du Code civil== pose 3 alinéas :
 3. ==Alinéa 3 ==: hypothèse d'un contrat qui serait conclu d'une part grâce à des conditions générales et d'autre part à des conditions particulières. En cas de contradiction entre ces deux types de conditions, l'==alinéa 3 stipule== : *"En cas de discordance entre conditions générales et conditions particulières, les secondes l'emportent sur les premières".*
 
 [[Cass, 3 civ, 20 avril 2017]]
-L'arrêt souligne l'***importance de la distinction entre l'opposabilité des conditions d'un contrat d'assurance et la formation de ce contrat***. Une fois que l'assuré a accepté l'offre et payé les primes, le contrat est considéré comme formé, indépendamment de l'acceptation formelle des conditions générales et particulières. Ce **principe protège les assurés** en garantissant qu'ils ne peuvent ***pas être privés des droits découlant d'un contrat simplement parce qu'ils n'ont pas pris connaissance de toutes les conditions***.
+L'arrêt souligne l'***importance de la distinction entre l'opposabilité des conditions d'un contrat d'assurance et la formation de ce contrat***. Une fois que l'assuré a accepté l'offre et payé les primes, le contrat est considéré comme formé, indépendamment de l'acceptation formelle des conditions générales et particulières. 
+
+Ce **principe protège les assurés** en garantissant qu'ils ne peuvent ***pas être privés des droits découlant d'un contrat simplement parce qu'ils n'ont pas pris connaissance de toutes les conditions***.
 
 ##### 2) Les contrats entre absents
 Conclu alors que les négociateurs ne sont pas au même endroit. 
@@ -367,7 +398,7 @@ Ainsi, si le promettant se rétracte, sa rétractation n'empêchera pas la forma
 
 Sur cette question, après le 1er octobre 2016, la jurisprudence restait fermement attachée à la jurisprudence Consorts Crous et refusait d'opérer un revirement. 
 
-Ce revirement est finalement intervenu tardivement, par un ==arrêt du 23 juin 2021 et un arrêt du 15 mars 2023==, la Cour de cassation adoptant alors la nouvelle solution pour les promesses convenues avant le 1er octobre 2016.
+Ce revirement est finalement intervenu tardivement, par un ==arrêt du 23 juin 2021 et un arrêt du 15 mars 2023==, la Cour de cassation adoptant alors la nouvelle solution pour les ==promesses convenues avant le 1er octobre 2016==.
 
 [[3civ 23 juin 2021]]
 Dans une décision du 23 juin 2021, la troisième chambre civile de la Cour de cassation a été amenée à se prononcer sur la validité d'une promesse unilatérale de vente.

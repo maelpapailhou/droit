@@ -34,7 +34,7 @@ La première règle est **leur caractère déterminant**. C’est-à-dire que le
 « *il n'est pas démontré que la fausse mention d'un curriculum vitae ait entraîné une erreur* »
 
 [[D'importantes précisions sur les cas de nullité du contrat]]
-« même en cas de non respect d'une obligation légale d'information précontractuelle, (la loi Doubin), le juge ne peut annuler le contrat sans rechercher si le défaut d'information a eu pour effet de vicier le consentement du contractant »
+*« même en cas de non respect d'une obligation légale d'information précontractuelle, (la loi Doubin), le juge ne peut annuler le contrat sans rechercher si le défaut d'information a eu pour effet de vicier le consentement du contractant »*
 
 [[Com. 7 juin 2011, Acquisition d'une pharmacie]]  [[Les éléments constitutifs de la réticence dolosive — Fages]] 
 *Le cessionnaire d'un fonds de commerce de pharmacie (la société Y) qui s'estimait victime d'un dol par réticence concernant la qualification exacte de l'une des salariées dont le contrat de travail avait été repris lors de la cession a assigné son cédant (Mme X) en paiement de dommages-intérêts.* 
@@ -53,28 +53,27 @@ Exemples :
 > **Article 1131 civ**
 > Les vices du consentement sont une cause de nullité relative du contrat.
 
-Lorsqu’un vice du consentement est retenu (lorsque le juge affirme qu’il y a erreur, dol), le contrat sera annulé et la nullité sera relative. En cas de vice du consentement, la nullité est relative.
+Lorsqu’un vice du consentement est retenu (lorsque le juge affirme qu’il y a erreur, dol), le contrat sera annulé et la nullité sera relative. **En cas de vice du consentement, la nullité est relative.**
 
-```
-#### **Nullité Relative**
+**Nullité Relative**
 - **Protège** : Intérêt **particulier** d'une des parties.
 - **Causes** : Vices du consentement (erreur, dol, violence).
 - **Effet** : Annulation rétroactive, restitution des prestations.
 - **Qui peut l’invoquer** : La partie lésée uniquement.
 
-#### **Nullité Absolue**
+**Nullité Absolue**
 - **Protège** : Intérêt **général** (ordre public).
 - **Causes** : Violation des règles d’ordre public (objet ou cause illicite).
 - **Effet** : Annulation rétroactive, restitution des prestations.
 - **Qui peut l’invoquer** : Toute personne intéressée, y compris les tiers.
 
-```
-
-La solution est normale : la nullité tend ici à protéger l'intérêt du contractant dont le consentement a été vicié. Elle est cependant bienvenue car l'==article 1179== peut être interprété comme annonçant le rétrécissement des cas de nullité relative. L'==article 1131== montre que ce rétrécissement, s'il venait à être confirmé, n'impacterait pas les vices du consentement.
-
 > **Article 1179 civil**
 > La nullité est absolue lorsque la règle violée a pour objet la sauvegarde de l'intérêt général.
 > Elle est relative lorsque la règle violée a pour seul objet la sauvegarde d'un intérêt privé.
+
+La solution est normale : la **nullité tend ici à protéger l'intérêt du contractant dont le consentement a été vicié**. Elle est cependant bienvenue car l'==article 1179== peut être interprété comme annonçant le rétrécissement des cas de nullité relative. 
+
+L'==article 1131== montre que ce rétrécissement, s'il venait à être confirmé, n'impacterait pas les vices du consentement.
 
 ###### 1.c) La prescription
 
@@ -83,8 +82,11 @@ La solution est normale : la nullité tend ici à protéger l'intérêt du contr
 
 Un contractant dispose **d’un délai de 5 ans pour faire annuler un contrat**, mais le point de départ de ce délai varie : c’est **5 ans à compter de la découverte du dol** ou **5 ans dès que la violence cesse**.
 
-```
-### **Prescription de la nullité relative**
+> **Adage**
+> *Quae temporalia sunt ad agendum, perpetua sunt in excipiendum*
+> Si l'action est temporaire, l'exception est perpétuelle
+
+**Prescription de la nullité relative**
 - **Point de départ :** Article 1144 fixe le point de départ à la découverte de l'erreur ou du dol (délai de 5 ans).
 - **Cas de violence :** Le délai commence à courir à partir du jour où la violence cesse.
 - **Voie d'exception :**
@@ -92,7 +94,7 @@ Un contractant dispose **d’un délai de 5 ans pour faire annuler un contrat**,
   - Soumise à l'adage : "Quae temporalia sunt ad agendum, perpetua sunt in excipiendum".
 - **Conditions :** La voie d'exception est possible tant que le contrat n'a pas reçu un début d'exécution.
 
-### **Utilité de la voie d'exception**
+**Utilité de la voie d'exception**
 - **Économies financières :** Réduit les coûts liés aux procédures judiciaires.
 - **Gain de temps :** Permet de traiter le litige plus rapidement.
 - **Réduction du stress :** Minimise la pression émotionnelle liée aux conflits juridiques.
@@ -100,7 +102,6 @@ Un contractant dispose **d’un délai de 5 ans pour faire annuler un contrat**,
 - **Incertitude des résultats :** Réduit le risque d'une décision défavorable en justice.
 - **Négociation :** Facilite le règlement amiable des litiges.
 - **Efficacité :** Offre une solution rapide et efficace en cas de défense forte.
-```
 
 > **Article 1885 civ**
 > L'exception de nullité ne se prescrit pas si elle se rapporte à un contrat qui n'a reçu aucune exécution.
@@ -123,21 +124,38 @@ Quand bien même un contractant **démontre s’être trompé sur certains élé
 > Néanmoins l'erreur sur le motif d'une libéralité, en l'absence duquel son auteur n'aurait pas disposé, est une cause de nullité.
 
 **2 erreurs sont indifférentes :**
+1. *erreur sur la valeur*
+2. *erreur sur les motifs déterminants*
 
 1. **Erreur sur la valeur***
-> **Article 1136 civ**
-> L'erreur sur la valeur par laquelle, sans se tromper sur les qualités essentielles de la prestation, un contractant fait seulement de celle-ci une appréciation économique inexacte, n'est pas une cause de nullité.
 
- - La règle est posée à l’==article 1136 du Code civil== : *l’erreur sur la valeur par laquelle un contractant fait de celle-ci une appréciation économique n’est pas cause de nullité*.
-	    - *Exemple : on vend un objet 1 euro alors qu’il vaut 15, l’erreur sur la valeur n’est pas cause de nullité.*
-    - Cela peut paraître **étonnant car la valeur est fondamentale au contrat et que le consentement dépend de la valeur**, du prix qu’on va recevoir. Pourtant, cette solution est parfaitement fondée.
-    - La règle est que **chaque contractant doit se faire sa propre appréciation de la valeur du bien**. C’est sur cela que **repose tout échange économique**. À ses risques et périls.
-    - Il est aussi souvent **difficile de déterminer la valeur objective d’un bien**. Offre et demande.
-    - Cela permet également d’**éviter l’encombrement des juridictions**.
+> **Article 1136 civ**
+> L'erreur sur la valeur par laquelle, **sans se tromper sur les qualités essentielles** de la prestation, un contractant fait seulement de celle-ci une appréciation économique inexacte, n'est pas une cause de nullité.
+
+La règle est posée à l’==article 1136 du Code civil== : *l’erreur sur la valeur par laquelle un contractant fait de celle-ci une appréciation économique n’est pas cause de nullité*.
+	- *Exemple : on vend un objet 1 euro alors qu’il vaut 15, l’erreur sur la valeur n’est pas cause de nullité.*
+- Cela peut paraître **étonnant car la valeur est fondamentale au contrat et que le consentement dépend de la valeur**, du prix qu’on va recevoir. Pourtant, cette solution est parfaitement fondée.
+
+**Raisons :** 
+- plan politique : La règle est que **chaque contractant doit se faire sa propre appréciation de la valeur du bien**. C’est sur cela que **repose tout échange économique**. À ses risques et périls.
+- plan économique : Il est aussi souvent **difficile de déterminer la valeur objective d’un bien**. Offre et demande.
+- plan judiciaire : Cela permet également d’**éviter l’encombrement des juridictions**. / embrasement des contentieux
+- plan technique : erreur sur la valeur s'apparente souvent à une lésion, laquelle lésion n'est retenue comme cas de nullité que dans des hypothèses exceptionnelles.
+
+L'incise « *sans se tromper sur les qualités essentielles* » doit être bien comprise : l'erreur sur la contrepartie financière sera souvent **due à une erreur sur la substance de la chose objet du contrat** et l'**annulation pourra être obtenue sur ce fondement**. Le risque est alors, par une **hypertrophie de l'erreur de la substance**, de ***finir par admettre l'erreur sur la valeur***. Ce risque est parfaitement illustré par un arrêt.
+
+- **Erreur sur les qualités essentielles** : concerne les caractéristiques principales du bien (ex. origine, nature, composition).
+- **Erreur sur la valeur** : concerne seulement une évaluation incorrecte du prix, sans remettre en cause les qualités fondamentales du bien.
+
+Erreur sur les qualités essentielles (terme utilisé dans la réforme de 2016), avant erreur sur les qualités essentielles.
+- ancien : Il s'agit d'une erreur sur la nature même de la chose ou sur une qualité déterminante qui en fait l'essence, celle qui a poussé une partie à contracter. Par exemple, si une personne achète un bijou en pensant qu'il est en or alors qu'il est en plaqué or, cela constitue une erreur sur la substance
+- 2016 : Elle désigne une erreur qui porte sur une qualité que les parties considèrent comme essentielle à la prestation, et qui est déterminante pour le consentement. Par exemple, l'achat d'un vin supposé être d'une année exceptionnelle alors qu'il s'avère d'une année moyenne peut être une erreur sur la qualité essentielle si cette caractéristique était déterminante pour l'acheteur.
 
 [[Cass. com., 12 février 2008, Erreur de substance sur l'objet du contrat (nuance - contractant faible)]]
-En l'espèce, ayant cédé les parts qu'elle détenait dans une société pour leur valeur nominale, une personne avait assigné les acquéreurs pour erreur sur la substance. Le pourvoi reprochait à la cour d'appel d'avoir retenu une erreur sur la substance là où il y avait une erreur sur la valeur, inapte à emporter l'annulation du contrat. Le pourvoi est rejeté :  
-« *attendu qu'en relevant que le vendeur, dépressif et peu versé dans la pratique des affaires, et incapable dans ces conditions de mesurer la portée des actes qu'il signait, avait cédé les parts qu'il détenait dans la société pour leur valeur nominale, sans commune mesure avec leur valeur objective, se trouvant ainsi écarté d'une société florissante sans contrepartie réelle, la cour d'appel a pu décider qu'il **avait commis une erreur sur la substance même de la chose qui était l'objet du contrat*** »
+*En l'espèce, ayant cédé les parts qu'elle détenait dans une société pour leur valeur nominale, une personne avait assigné les acquéreurs pour erreur sur la substance. Le pourvoi reprochait à la cour d'appel d'avoir retenu une erreur sur la substance là où il y avait une erreur sur la valeur, inapte à emporter l'annulation du contrat.* 
+
+Le pourvoi est rejeté :  
+« *attendu qu'en relevant que le **vendeur, dépressif et peu versé dans la pratique des affaires**, et incapable dans ces conditions de mesurer la portée des actes qu'il signait, avait cédé les parts qu'il détenait dans la société pour leur valeur nominale, sans commune mesure avec leur valeur objective, se trouvant ainsi écarté d'une société florissante sans contrepartie réelle, la cour d'appel a pu décider qu'il **avait commis une erreur sur la substance même de la chose qui était l'objet du contrat*** »
 
 >[!Attention]
 >La solution est critiquable car l'erreur ne porte pas ici sur la substance (est-ce que les actions vendues permettent de prendre le contrôle de la société) mais sur leur seule valeur. La solution s'explique alors par le souci de **protéger le contractant faible, dépressif et peu versé dans la pratique des affaires**.
@@ -168,8 +186,7 @@ Solution réitérée
 [[Cass. com., 11 avril 2012]]
 De la même façon, l'infirmière qui demande l'annulation du contrat de vente portant sur du matériel médical en disant qu'il n'est pas adapté à l'exercice de son activité en milieu rural n'obtiendra pas gain de cause.  
 
-« l'erreur sur un motif du contrat extérieur à l'objet de celui-ci n'est pas une cause de nullité de la convention, quand bien même ce motif aurait été déterminant, à moins qu'une stipulation expresse ne l'ait fait entrer dans le champ contractuel en l'érigeant en condition du contrat ».
-
+*« l'**erreur sur un motif du contrat extérieur à l'objet de celui-ci n'est pas une cause de nullité de la convention**, quand bien **même ce motif aurait été déterminant**, à moins qu'une stipulation expresse ne l'ait fait entrer dans le champ contractuel en l'érigeant en condition du contrat ».*
 
 Une partie de la doctrine avait alors soutenu, en vain, qu’il était possible de considérer que ***le motif fiscal*** faisait partie intégrante des **qualités de la chose acquise**, comme l’est, par exemple, ***la constructibilité d’un terrain***.
 
@@ -188,13 +205,12 @@ Les publicités du promoteur immobilier peuvent ainsi avoir pour effet d'intégr
 
 %% VOIR NOTES DOCTRINES%%
 
-
 ###### *2.a.ii) Les erreurs admises*
 
 Ces erreurs, si démontrées, **peuvent permettre l’annulation du contrat**.
 
 > **Article 1132 civil** 
-> L'erreur de droit ou de fait, à moins qu'elle ne soit inexcusable, est une cause de nullité du contrat lorsqu'elle porte sur les qualités essentielles de la prestation due ou sur celles du cocontractant.
+> L'***erreur de droit ou de fait***, à moins qu'elle ne soit inexcusable, est ***une cause de nullité du contrat*** lorsqu'elle porte sur les qualités essentielles de la prestation due ou sur celles du cocontractant.
 
 Le texte invite à faire trois précisions :
 
@@ -215,6 +231,17 @@ L'erreur peut-être de fait ou de droit.
 Dans une décision, la Cour a jugé que « *ne peut être invoquée comme cause d'une erreur de droit susceptible de justifier la nullité d'un contrat une décision judiciaire rendue entre d'autres parties* ». 
 
 On peut donc en déduire que l'erreur sur l'interprétation d'une loi révélée par la jurisprudence (revirement, interprétation créatrice...) ne peut vicier le consentement au contrat conclu préalablement. C'est une **sévère restriction du domaine de l'erreur de droit**.
+
+**Résumé :**
+L'article 1132 du Code civil précise que l'erreur de droit ou de fait peut être une cause de nullité d'un contrat, **sous certaines conditions**. L'erreur doit porter sur les **qualités essentielles** de la prestation due ou sur celles du cocontractant, et elle doit être **excusable** pour pouvoir justifier la nullité.
+
+Cependant, dans l'arrêt de la Cour de cassation du 27 juin 2006, il est établi que l'erreur de droit, en particulier celle qui concerne l'interprétation d'une règle de droit modifiée par la jurisprudence, est considérée comme **inexcusable**. Cela signifie que, même si l'article 1132 prévoit la possibilité d'invoquer l'erreur de droit comme motif d'annulation, la jurisprudence impose une restriction en considérant certaines erreurs de droit comme toujours inexcusable.
+
+En d'autres termes, la décision de la Cour de cassation peut sembler en contradiction avec l'article 1132, car elle limite l'application de l'erreur de droit en la déclarant inexcusable dans certains cas. Cela souligne un point important : bien que **le Code civil admette l'erreur de droit comme un motif de nullité**, la ***jurisprudence a établi des règles plus strictes concernant son application***, notamment en ce qui concerne les décisions judiciaires qui interprètent la loi.
+
+Ainsi, la compatibilité entre l'article 1132 et la jurisprudence repose sur l'interprétation de ce qu'est une erreur de droit. La jurisprudence précise que certaines erreurs de droit ne peuvent pas être considérées comme excuse valide pour justifier la nullité du contrat, même si, théoriquement, l'article 1132 permet d'invoquer l'erreur de droit.
+
+%% REVOIR ERREUR DE DROIT %%
 
 **Les caractères des erreurs :**
 - **Excusable :** cette erreur a pu être commise par n’**importe quel contractant qui aurait été placé dans la même situation.** Si l’erreur est inexcusable, c’est-à-dire qu’elle n’aurait pas été commise par une personne normale dans la même situation, le contrat sera néanmoins maintenu. 
@@ -334,6 +361,8 @@ La pression peut être physique, mais le plus souvent elle sera morale. Une pers
 **Violence économique :**
 - Violence lorsque un contractant **profite d’une situation extérieure qui fragilise son consentement** ?
 - Est-ce que le fait qu’un contractant profite de la faiblesse passagère dans laquelle se trouve son partenaire pour lui faire accepter un contrat qu’il n’aurait jamais accepté ?
+
+
 - **Toute une évolution avant d’arriver là**. 
 	- **Historiquement**, on **considérait que ce contractant n’était pas violent**, c’était un habile négociateur. 
 	- **Deuxième temps**, dans des **cas de figures très rares**, on a admis qu’il **puisse y avoir violence**. 
@@ -343,6 +372,14 @@ La pression peut être physique, mais le plus souvent elle sera morale. Une pers
 	- **Troisième étape, années 1980**, dans certains secteurs du droit de la concurrence, droit de la consommation, il est assez fréquent qu’un contractant place son cocontractant dans une situation de faiblesse pour l’obliger à faire un contrat. 
 		- *Exemple : Carrefour achète des légumes à un agriculteur pendant un an, qui revend son camion, sa place au marché, puis l’année après, baisse le prix, l’agriculteur n’a pas le choix.* 
 		- Le ==Code de la consommation et le Code de commerce== contiennent des textes spéciaux qui **sanctionnent l’abus de faiblesse ou l’abus de position dominante**.
+
+**Résumé de l'évolution**
+L'évolution de la notion de violence dans les contrats a connu plusieurs étapes. 
+- Initialement, on considérait que le contractant agissait de manière habile sans violence. 
+- Par la suite, dans des cas exceptionnels, comme la vente d'immeubles appartenant à des propriétaires juifs durant la Seconde Guerre mondiale ou la demande de secours pour un bateau en détresse, la violence a été reconnue comme ayant vicié le consentement. 
+- Dans les années 1980, cette notion a été élargie, notamment dans le domaine du droit de la concurrence et de la consommation, où il est devenu courant qu'un contractant exploite la faiblesse de l'autre pour imposer un contrat. 
+- Des textes spécifiques dans le Code de la consommation et le Code de commerce sanctionnent désormais l'abus de faiblesse et l'abus de position dominante, illustrant ainsi une protection accrue des parties vulnérables dans les relations contractuelles.
+
 - **Question : dans le droit commun du contrat, doit-il en aller de même ?** 
 	- La Cour de cassation était prête à franchir le pas, [[Cass Ch. civile, 3 avril 2002, Salariée de Larousse]], salariée de Larousse : “*Seule l’exploitation abusive d’une situation de dépendance économique faite pour tirer profit de la crainte d’un mal menaçant directement les intérêts de la personne peut vicier de violence le consentement à l’acte juridique*”. 
 	- La réforme pose l’==article 1143== : “*Il y a également violence lorsqu’une partie abuse de l’état de dépendance dans lequel se trouve son cocontractant pour obtenir de lui un engagement qu’il n’aurait pas souscrit en l’absence d’une telle contrainte et en tire un avantage manifestement excessif.”* Il faut d’abord un état de dépendance et un abus de cet état de dépendance. 
@@ -360,8 +397,7 @@ La pression peut être physique, mais le plus souvent elle sera morale. Une pers
 - De plus, la Cour de cassation fait référence à l'avantage excessif que l'AGS avait retiré, alors que l'==article 1153== demande la caractérisation d'un avantage manifestement excessif.
 #### Paragraphe 2 : leurs capacité à contracter
 
-%%PROPRE%%
-alor que article 1128 du code civil n'evoque que la capacité comme ?? du contrat, (un contenu certains et litice), artices ???.
+
 
 ##### 1) La capacité à contracter
 
@@ -371,7 +407,7 @@ alor que article 1128 du code civil n'evoque que la capacité comme ?? du contra
 **Trois règles lorsque qu'un contrat est conclu par un incapable :**
 1. **Seul l'incapable peut demander l'annulation du contrat** : il s'agit d'une nullité de protection dont seule la personne que le législateur voulait protéger peut se prévaloir.
 2. **Tous les contrats faits par des incapables ne sont pas forcément annulés, seuls seront annulés les contrats qui lèseraient ou méconnaîtraient les intérêts de l'incapable**: si le contrat est parfaitement équilibré ou en faveur de l'incapable, celui-ci est capable de négocier le contrat et ses intérêts. Il n'avait donc pas besoin de la protection que lui reconnaissait le législateur. ***"Le mineur est tenu à la restitution non pas parce qu'il est mineur, mais parce qu'il a été lésé."***
-3. **Les restitutions :** quand un contrat est annulé, chaque partie doit restituer à l'autre ce qu'elle a reçu du contrat. Règle particulière pour les mineurs : article 1352-4 du Code civil. 
+3. **Les restitutions :** quand un contrat est annulé, chaque partie doit restituer à l'autre ce qu'elle a reçu du contrat. Règle particulière pour les mineurs : ==article 1352-4 du Code civil==. 
 	- *Par exemple, si un mineur vend un immeuble à un prix assez bas, et que le contrat est annulé par son représentant, mais qu'il a dépensé une grande partie de l'argent, il ne devra restituer que ce qui lui reste*. Règle sévère pour son cocontractant.
 
 > **Article 1352-4 civil**
@@ -391,7 +427,7 @@ Critiques :
 1. Cette jurisprudence est contestée.
 2. La référence faite au texte concernant le statut de la personne morale est permissive, car il existe des personnes morales qui n'ont pas de statuts. Cela revient à leur enlever toute capacité juridique. Parmi elles, on trouve les comités d'entreprise. Cette situation avantage donc le MEDEF, qui a proposé l'article.
 
-Ces critiques, jugées sérieuses et fondées, ont justifié la réécriture du texte en 2018. Mais celui-ci est devenu insipide, sans portée propre.
+Ces critiques, jugées sérieuses et fondées, ont **justifié la réécriture du texte en 2018**. Mais celui-ci est devenu insipide, sans portée propre.
 
 > **Article 1145 al 2 civ en vigueur**
 > La capacité des personnes morales est limitée par les règles applicables à chacune d'entre elles.
@@ -405,9 +441,9 @@ Hypothèse dans laquelle un contractant se fait représenter par un tiers afin q
 > Le tiers qui doute de l'étendue du pouvoir du représentant conventionnel à l'occasion d'un acte qu'il s'apprête à conclure, peut demander par écrit au représenté de lui confirmer, dans un délai qu'il fixe et qui doit être raisonnable, que le représentant est habilité à conclure cet acte.
 > L'écrit mentionne qu'à défaut de réponse dans ce délai, le représentant est réputé habilité à conclure cet acte.
 
-L'==article 1158 du Code civil== institue **une action interrogatoire** au bénéfice d'un contractant qui douterait de l'étendue des pouvoirs du représentant qu'il a en face de lui. On va pouvoir interroger le représenté. Si la personne ne répond pas, elle sera liée par le contrat et ne pourra pas le remettre en cause.
+L'==article 1158 du Code civil== institue **une action interrogatoire** au bénéfice d'un contractant qui ***douterait de l'étendue des pouvoirs du représentant qu'il a en face de lui***. On va pouvoir interroger le représenté. **Si la personne ne répond pas**, elle sera ***liée par le contrat et ne pourra pas le remettre en cause***.
 
-Certains auteurs considèrent que cette action pourrait être le siège de fraudes assez faciles.
+Certains auteurs considèrent que cette **action pourrait être le siège de fraudes assez faciles**.
 ###### *2.b) les conflits d'interêts*
 ==Article 1161== : le texte a évolué entre l'ordonnance de 2016 et la loi de 2018.
 
@@ -415,7 +451,7 @@ Certains auteurs considèrent que cette action pourrait être le siège de fraud
 >  Un représentant ne peut agir pour le compte des deux parties au contrat ni contracter pour son propre compte avec le représenté.
 >  En ces cas, l'acte accompli est nul à moins que la loi ne l'autorise ou que le représenté ne l'ait autorisé ou ratifié.
 
-Cela interdisait de représenter simultanément l'acheteur et le vendeur, ou de conclure le contrat pour son propre compte tout en représentant concomitamment les deux parties. La sanction était l'annulation du contrat.
+Cela **interdisait de représenter simultanément l'acheteur et le vendeur**, ou de conclure le contrat pour son propre compte tout en représentant concomitamment les deux parties. La **sanction était l'annulation du contrat**.
 
 Les spécialistes des sociétés ont émis des critiques, jugeant ce texte potentiellement dangereux pour les groupes de sociétés. 
 
@@ -431,16 +467,17 @@ Ainsi, l'==article 1161== a été réécrit à l'occasion de la loi de validatio
 > En matière de représentation des personnes physiques, un représentant ne peut agir pour le compte de plusieurs parties au contrat en opposition d'intérêts ni contracter pour son propre compte avec le représenté.
 #### Paragraphe 3 : Le contenu du contrat
 
+
 > L'expression « contenu du contrat » est nouvelle. 
 > 
 > **Selon le Rapport fait au Président de la République,** « le *contenu du contrat, terme adopté par plusieurs instruments européens d'harmonisation du droit, inclut ce qui relève en droit français de l'objet et de la cause* ». 
-> 
-> Les mots d'objet et de cause disparaissent donc du vocabulaire juridique. Encore faut-il préciser ce que l'on entend par disparition : le mot disparaît, mais les utilisations demeurent ! L'ordonnance consacre en effet les principales utilisations que l'on faisait de la cause... sans dire qu'il s'agit de la cause ! La cause est devenue le Voldemort du droit des obligations : on sait qu'elle existe, mais il ne faut plus prononcer son nom ! `
 
-Cette expression est nouvelle depuis la réforme de 2016. Elle se substitue à deux notions : le bien ou le service sur lequel portait le contrat.
+ Les **mots objet et  cause** disparaissent donc du vocabulaire juridique. Encore faut-il préciser ce que l'on entend par disparition : le mot disparaît, mais les utilisations demeurent ! L'ordonnance consacre en effet les principales utilisations que l'on faisait de la cause... sans dire qu'il s'agit de la cause ! `
+
+Cette expression (contenu du contrat) est ==nouvelle depuis la réforme de 2016==. Elle se substitue à deux notions : le bien ou le service sur lequel portait le contrat.
 
 Pourquoi un contractant s'engagerait-il ? Le **terme "cause"** prêtait à deux interprétations distinctes, car il désignait à la fois :
-1. La **contrepartie attendue d'un contrat**, *par exemple, le prix reçu*. La cause devait être équilibrée = **cause objective** = pour s'assurer de l'équilibre économique du contrat.
+1. **cause objective :** La **contrepartie attendue d'un contrat**, *par exemple, le prix reçu*. La cause devait être équilibrée = **cause objective** = pour s'assurer de l'équilibre économique du contrat.
 2. La **cause subjective** (les mobiles poursuivis par les parties) : *par exemple, acheter un immeuble pour héberger sa famille* (licite) *ou une maison close* (illicite). La notion de cause était donc complexe.
 
 ==En 2016==, **le législateur a abrogé ces notions de cause et d'objet**, les remplaçant par la **notion de contenu du contrat**.
@@ -464,7 +501,16 @@ Cet article fait écho à deux autres articles :
 
 ###### *1.a) L'ordre public et les bonne moeurs*
 
+On remarque deux choses : 
+1. D'abord, la réforme de 2016 a gommé la notion de bonnes mœurs qui, effacée des ==articles 1102 et 1162==, ne demeure qu'à l'article 6 du Code civil. Cette notion était en effet jugée passéiste, peut-être moralisatrice. 
+2. Ensuite, alors que l'==article 6== fait référence aux « lois » qui intéressent l'ordre public et les bonnes mœurs, les nouveaux textes font références aux « règles » qui intéressent l'ordre public ou directement à l'ordre public. Le terme « règle » est plus large que celui de « loi » car la règle peut être jurisprudentielle, règlementaire, européenne...
+
 ###### 1.a.i) L'ordre public
+
+>[!Définition]
+>En droit des obligations, l'**ordre public** désigne un ensemble de règles impératives auxquelles les parties ne peuvent pas déroger par un accord. Ces règles sont établies pour protéger des intérêts supérieurs, comme la sécurité, la moralité, et la paix publique
+
+
 L'ordre public est une notion polymorphe, délicate à définir. Philippe Malowi, en 1950, en avait composé plus de 20 définitions.
 
 **La loi est la source essentielle de l'ordre public**. Le plus souvent, les lois précisent elles-mêmes si elles sont ou non d'ordre public *(« sont réputés non écrites... » ; « toute disposition contraire... »...).* On est alors en présence d'**ordre public textuel**. 
@@ -482,16 +528,15 @@ Le nouvel ordre public a pour ambition de changer les comportements ; la loi est
 
 Il en résulte la **multiplication des lois supplétives** où le législateur pose un schéma qui s'appliquera à défaut de volontés contraires. Il en résulte aussi la précision des nouvelles lois : il est toujours plus simple d'interdire que de commander : quand on commande, on est obligé de rentrer dans mille détails.
 
-https://www-labase-lextenso-fr.elgebar.univ-reunion.fr/revue-des-contrats/RDCO2013-1-042?em=Et%20si%20l%27on%20parlait%20de%20l%27ordre%20public%20(contractuel)%20%3F
-
-
 **L'ordre public économique** : dans le droit des sociétés, il était autrefois facile de réunir une assemblée générale dans une société anonyme, où seuls les résultats étaient communiqués. Aujourd'hui, il y a une liste de documents à communiquer aux associés avant la réunion.
 
 L'intensité de l'ordre public :
-- **Ordre public de direction** : il est impossible d'y déroger. Exemple : droit pénal.
-- **Ordre public de protection** : le législateur fixe un socle minimal auquel les parties peuvent déroger, mais seulement dans un sens. Exemple : en droit du travail, le législateur fixe un salaire minimal. On peut y déroger, mais seulement en augmentant ce salaire.
+- **Ordre public de direction** : il est impossible d'y déroger. *Exemple : droit pénal*.
+- **Ordre public de protection** : le législateur fixe un socle minimal auquel les parties peuvent déroger, mais seulement dans un sens. *Exemple : en droit du travail, le législateur fixe un salaire minimal. On peut y déroger, mais seulement en augmentant ce salaire.*
 
-L'ordre public de direction est celui qui impose aux parties d'adopter un comportement ; elles ne peuvent y déroger. L'ordre public fiscal est directif. En revanche, l'ordre public de protection pose un socle minimal auquel les parties peuvent déroger, dès lors qu'elles vont dans un sens plus favorable (in melius) que le législateur. L'ordre public social est protecteur.
+L'**ordre public de direction** est celui qui ***impose aux parties d'adopter un comportement*** ; elles ne peuvent y déroger. L'*ordre public fiscal est directif*. 
+
+En revanche, l'**ordre public de protection** pose un ***socle minimal auquel les parties peuvent déroger***, dès lors qu'elles vont dans un sens plus favorable (in melius) que le législateur. L'*ordre public social est protecteur.*
 
 Toutefois, force est de constater que la distinction entre les deux ordres publics est un peu vaine car les deux considérations se mêlent souvent : la réduction du temps de travail se justifie par un souci de protection des travailleurs (ordre public protecteur) mais aussi, par un souci d'économie d'électricité si elle est faite en période de guerre (ordre public de direction). Ainsi, on pourrait conclure aux vertus pédagogiques de la distinction, mais à leur difficulté de mise en œuvre.
 
@@ -502,35 +547,48 @@ Toutefois, force est de constater que la distinction entre les deux ordres publi
 
 Les bonnes mœurs peuvent être identifiées par la négative. Elles ne se confondent pas avec la morale. 
 
+> Margerite Yourcenar
+> La morale est une convention privée ; la décence est affaire publique » Marguerite Yourcenar
+
+[[Que reste-t'il des bonnes moeurs?]]
+
 **Distinction avec la morale**
 **La morale** est une *exigence individuelle*, tandis que les **bonnes mœurs** ont une *dimension collective*. La **morale vise l'élévation et la perfection individuelle**.
 
-Les bonnes mœurs sont distinctes des mœurs : il y a un jugement de valeur. Ce n'est pas parce que les mœurs d'une société sont ce qu'elles sont que le droit doit nécessairement évoluer avec elles. **Le droit** ne **se conforme** pas à la société telle qu'elle est, mais **à la société telle qu'elle devrait être**. Il revient **au juge de déterminer** quelles sont les *bonnes mœurs dans les affaires qui lui sont soumises*.
+Les **bonnes mœurs sont distinctes des mœurs :** il y a ***un jugement de valeur***. Ce n'est pas parce que les mœurs d'une société sont ce qu'elles sont que le droit doit nécessairement évoluer avec elles. **Le droit** ne **se conforme** pas à la société telle qu'elle est, mais **à la société telle qu'elle devrait être**. 
+
+Source des bonne moeurs : Il revient **au juge de déterminer** quelles sont les *bonnes mœurs dans les affaires qui lui sont soumises*.
 
 La notion de bonnes mœurs est évolutive. Exemple de jurisprudence sur la donation faite à une concubine : dans le passé, un homme marié qui faisait une donation à sa maîtresse devait préciser si celle-ci visait à mettre fin à la relation adultère. La Cour de cassation considérait cette donation comme valable si elle mettait fin à la relation, mais non si elle visait à la prolonger. On analysait donc les finalités de cette donation.
 
-[[Cass. civ., 3 février 1999]] : la Cour de cassation a retenu que n'était pas contraire aux bonnes mœurs la cause de la libéralité dont l'auteur entendait maintenir la relation adultère qu'il entretenait avec la bénéficiaire. Dans l'arrêt "Galopin" de 2004, la Cour a maintenu cette jurisprudence dans des conditions troublantes, car l'homme avait plus de 70 ans, tandis que sa maîtresse en avait 25.
+[[Cass. 1civ., 1 février 1999]] : 
+la Cour de cassation a retenu que n'était pas contraire aux bonnes mœurs la cause de la libéralité dont l'auteur entendait maintenir la relation adultère qu'il entretenait avec la bénéficiaire. 
 
-```
-### 1. Morale
+Dans l'arrêt "Galopin" de 2004, la Cour a maintenu cette jurisprudence dans des conditions troublantes, car l'homme avait plus de 70 ans, tandis que sa maîtresse en avait 25.
+
+4 novembre 2011 [[La cause désactivée]]
+le fait que la Cour de cassation ne juge pas immorale a cause du contrat de courtage matrimonial conclu par un homme marié
+
+**Résumé :** 
+ 1. Morale
 
 - **Définition :** La morale est un ensemble de valeurs et de normes qui régissent le comportement individuel. Elle vise le perfectionnement intérieur de chaque individu, guidant ses actions et ses choix personnels selon des principes de bien et de mal.
 - **Caractère personnel :** La morale est subjective et varie d'une personne à l'autre. Ce qui est considéré comme moral pour une personne peut ne pas l'être pour une autre. Les croyances religieuses, les valeurs culturelles et les expériences personnelles influencent la morale de chacun.
 - **Objectif :** Le but de la morale est d'atteindre un état de vertu ou de perfection personnelle, en se conformant à des principes éthiques intérieurs.
-### 2. Bonnes mœurs
+ 2. Bonnes mœurs
 
 - **Définition :** Les bonnes mœurs, en revanche, se réfèrent à des normes sociales et éthiques qui sont reconnues et acceptées par une communauté ou une société. Elles correspondent à une morale sociale, englobant des comportements jugés appropriés ou inappropriés au sein d'un groupe.
 - **Caractère collectif :** Contrairement à la morale, les bonnes mœurs sont plus objectives et se fondent sur un consensus social. Elles sont déterminées par la culture, les traditions et les lois d'une société donnée.
 - **Rôle juridique :** Les bonnes mœurs jouent un rôle dans le droit, car la loi peut se fonder sur elles pour juger de la validité des contrats et des comportements. Par exemple, un contrat dont l'objet est contraire aux bonnes mœurs (comme un contrat de prostitution dans certaines juridictions) peut être déclaré nul.
-### 3. Distinction essentielle
+ 3. Distinction essentielle
 
 - **Délégation de la loi :** La loi n'a pas délégué son autorité aux mœurs au sens large, mais spécifiquement aux **bonnes mœurs**, ce qui implique une évaluation et un jugement de valeur sur les comportements socialement acceptables.
 - **Évolution des bonnes mœurs :** Les bonnes mœurs peuvent évoluer avec le temps et refléter des changements sociétaux. Par exemple, certaines pratiques qui étaient autrefois considérées comme immorales peuvent devenir acceptées au fil du temps, illustrant ainsi l'évolution des valeurs collectives.
-### 4. Illustrations judiciaires
+ 4. Illustrations judiciaires
 
 - **Cas de la donation à la concubine :** Dans certains arrêts, comme celui de la donation à la concubine, le juge a reconnu la validité de cette pratique, indiquant une adaptation des bonnes mœurs à des réalités sociales contemporaines.
 - **Contrat de courtage matrimonial :** Dans un autre arrêt, la Cour de cassation a jugé qu'un contrat de courtage matrimonial conclu par un homme marié n'était pas immoral, ce qui témoigne d'une reconnaissance des bonnes mœurs qui peuvent inclure des comportements considérés comme socialement acceptables, même s'ils ne le sont pas moralement.
-```
+
 
 ###### 1.b) Le sors du contrat contraire à l'ordre public et les bonnes moeurs
 
@@ -564,7 +622,8 @@ Cet arrêt confirme l'évolution intervenue dans la jurisprudence de la Cour de 
 L'Assemblée plénière précise que **cette évolution ne se limite pas à l'hypothèse du maintien de la relation adultère**, envisagée par l'==arrêt du 3 février 1999==, et pose donc en principe que n'est pas, en soi, nulle comme contraire aux bonnes moeurs, la cause de la libéralité dont l'auteur entend faire bénéficier la personne avec laquelle il entretient une telle relation.
 
 [[Cass. civ. 1ère, 7 octobre 1998]]
-Désormais la Cour retient que « un contrat peut être annulé pour cause illicite ou immorale, même lorsque l'une des parties n'a pas eu connaissance du caractère illicite ou immoral du motif déterminant de la conclusion du contrat »
+Désormais la Cour retient que « *un contrat peut être annulé pour cause illicite ou immorale, même lorsque l'une des parties n'a pas eu connaissance du caractère illicite ou immoral du motif déterminant de la conclusion du contrat* »
+
 
 ##### 2) La précision du contenu contractuelle
 
@@ -576,14 +635,31 @@ Désormais la Cour retient que « un contrat peut être annulé pour cause illi
 Sont donc validées les conventions portant sur des choses futures et sur la chose d'autrui (la chose n'existe pas dans le patrimoine du contractant).  
   
 **Les contrats portant sur des choses futures**. 
-- l'obligation née du contrat peut porter sur une chose future. Cela signifie qu'il n'est pas nécessaire que la chose existe au jour de la signature mais qu'il suffit qu'elle puisse exister (une vente de récoltes sur pieds, un appartement à construire...).
-- Toutefois, parce que la valeur d'une chose qui n'existe pas encore est difficilement appréciable, il existe des limitations : ainsi, *un auteur ne peut céder tous les droits de ses œuvres futures* (==CPI, art., L.131-1==) ; de même, *les **pactes sur succession future** sont prohibés car **ils sont malsains et reposent sur l'intention de voir mourir les parents du contractant***.  
-  
+- l'obligation née du contrat ***peut porter sur une chose future***. Cela signifie qu'il n'est pas nécessaire que la chose existe au jour de la signature mais qu'il suffit qu'elle puisse exister (*une vente de récoltes sur pieds, un appartement à construire...).*
+- Toutefois, parce que ***la valeur d'une chose qui n'existe pas encore est difficilement appréciable***, il existe des limitations : ainsi, *un auteur ne peut céder tous les droits de ses œuvres futures* (==CPI, art., L.131-1==) ; de même, *les **pactes sur succession future** sont prohibés car **ils sont malsains et reposent sur l'intention de voir mourir les parents du contractant***.  
+
+> **Article 1599 civ**
+> La vente de la chose d'autrui est nulle : elle peut donner lieu à des dommages-intérêts lorsque l'acheteur a ignoré que la chose fût à autrui.
+
 **Les contrats portant sur la chose d'autrui**. 
-- L'hypothèse est voisine de la précédente. On ne peut en principe contracter sur la chose d'autrui parce qu'on ne dispose pas de droit sur elle. 
-- Pourtant, le droit positif offre des solutions plus nuancées : ainsi, la vente de la chose d'autrui est nulle de nullité relative (==C. civ., art. 1599==, voir ==Cass. civ. 3ème, 8 décembre 1999==) ; *pourtant le bail de la chose d'autrui est valable (mais non opposable au vrai propriétaire, sauf jeu de la théorie de l'apparence). Toutes ces subtilités seront abordées en cours de droit des contrats spéciaux*.
+- L'hypothèse est voisine de la précédente. On ***ne peut en principe contracter sur la chose d'autrui parce qu'on ne dispose pas de droit sur elle***. 
+- Pourtant, le droit positif offre des solutions plus nuancées : ainsi, la vente de la chose d'autrui est nulle de nullité relative (==C. civ., art. 1599)==, 
 
+[[Cass. civ. 3ème, 8 décembre 1999]]
+*pourtant le bail de la chose d'autrui est valable (mais non opposable au vrai propriétaire, sauf jeu de la théorie de l'apparence). Toutes ces subtilités seront abordées en cours de droit des contrats spéciaux*.
 
+Qui peut invoquer la nullité de la vente de la chose d’autrui ? La question se pose rarement en dehors du cas de vente de biens indivis ; il y faut des circonstances particulières qui précisément se trouvaient réunies en l’espèce.
+
+*Une parcelle détachée d’un domaine plus vaste avait été vendue en 1940 aux consorts B. Ceux-ci se plaignaient, en 1974, de ce que cette même parcelle avait été englobée dans un autre terrain – autrement cadastré – et vendue à un sieur M. Ils avaient donc assigné ce dernier pour faire juger qu’ils étaient seuls propriétaires et pour lui faire défense d’entrer dans les lieux.*
+
+Après expertise la cour d’appel avait fait droit à leur demande et prononcé la nullité.
+
+Cet arrêt est cassé au motif très simple que la **nullité qui affecte la vente de la chose d’autrui est relative** et ne peut être invoquée que par l’acheteur de sorte que les consorts B n’avaient pas qualité pour agir.
+
+On se bornera à rappeler que la **doctrine considère que normalement la nullité devrait être absolue** puisque ***fait défaut à la vente un de ses éléments essentiels, la chose*** ; ce serait la solution symétrique de celle qui joue en cas d’absence de prix ; mais la jurisprudence est depuis longtemps fixée pour y voir une nullité relative ; les explications que l’on a tenté d’en donner sont diverses et peu convaincantes de sorte que l’on est amené à dire que la discussion est aujourd’hui oiseuse.
+
+**Explication**
+nullité de la vente d’une chose appartenant à quelqu’un d’autre est dite “relative”. Cela signifie que **seul l’acheteur trompé** (ici, M.) **peut demander l’annulation de la vente**. Les consorts B., qui n’étaient pas impliqués dans la vente de 1974, ne pouvaient pas demander cette annulation.
 ###### 2.b) Les prestations doivent être possibles
 
 **Prestations licites.**
@@ -604,20 +680,22 @@ L'==ancien article 1128== constituait donc un rempart ou un frein à la marchand
 Une affaire célèbre (la femme tatouée) avait abouti à la nullité, pour illicéité de l'objet, de la convention au terme de laquelle une femme acceptait de se faire tatouer, le tatouage devant ensuite être prélevé par exérèse.
 
 [[Cass. ass. plén., 31 mai 1991]]
-De même, lors de l'affaire des mères porteuses, la Cour de cassation a admis que « la convention par laquelle une femme s'engage, fut-ce à titre gratuit, à concevoir et à porter un enfant pour l'abandonner à sa naissance contrevient tant au principe d'ordre public de l'indisponibilité du corps humain qu'à celui de l'indisponibilité des personnes ».
+De même, lors de l'affaire des mères porteuses, la Cour de cassation a admis que « *la convention par laquelle une femme s'engage, fut-ce à titre gratuit, à concevoir et à porter un enfant pour l'abandonner à sa naissance **contrevient tant au principe d'ordre public de l'indisponibilité du corps humain qu'à celui de l'indisponibilité des personnes*** ».
   
 Indisponible, le corps humain reste donc hors du commerce juridique. Pourtant, la ==loi bioéthique de 1994 et== les progrès de la médecine conduisent à la **relativiser la rigueur de ces solutions** : en dépit de la lettre de l'==article 16-1 du Code civil== (« Le *corps humain, ses éléments et ses produits ne peuvent faire l'objet d'un droit patrimonial* »), de ***nombreuses dérogations sont admises dans le Code de la santé publique***.
 
 **Les droits de la personnalité.** 
 
-Par nature extrapatrimoniale, les droits de la personnalité ne devraient pas pouvoir être l'objet de conventions. Pourtant, on ne compte plus les contrats sur le nom, sur l'image des personnes célèbres.On peut tourner la difficulté en disant que ce ne sont pas ces droits de la personnalité qui sont l'objet du contrat, mais qu'il y a en réalité, une renonciation à agir en justice. Ainsi, lorsqu'une star « loue » son nom, le nom n'est pas l'objet du contrat ; la star renonce par avance à agir en justice pour se prévaloir d'une atteinte à son droit au nom. Une telle distinction est subtile mais elle n'est qu'un habillage, qu'une étape dans la chosification des personnes.  
+Par nature extrapatrimoniale, les droits de la personnalité ne devraient pas pouvoir être l'objet de conventions. Pourtant, on ne compte plus les contrats sur le nom, sur l'image des personnes célèbres.On peut tourner la difficulté en disant que ce ne sont pas ces droits de la personnalité qui sont l'objet du contrat, mais qu'il y a en réalité, **une renonciation à agir en justice**. 
+
+Ainsi, lorsqu'une star « loue » son nom, le nom n'est pas l'objet du contrat ; ***la star renonce par avance à agir en justice pour se prévaloir d'une atteinte à son droit au nom***. Une telle distinction est subtile mais elle n'est qu'un habillage, qu'une étape dans la chosification des personnes.  
 
 - **Les clientèles civiles.** 
 
 Pendant longtemps on refusait que les clientèles civiles puissent être l'objet d'un contrat de cession. En effet, les clientèles civiles ne sont pas un bien mais un lien. A la différence des **clientèles commerciales**, les patients sont attachés, non pas à ***une enseigne, à un emplacement, ou à des marchandises*** (autant d'éléments facilement cessibles), mais aux ***qualités professionnelles du médecin qui, intimement attachées à sa personne, ne peuvent être cédées***.
 
 [[Cass. civ. 1ère, 3 juillet 1996]]
-Pour ces raisons, on retenait que « les malades jouissant d'une liberté absolue de choix de leur médecin, la clientèle qu'ils constituent, attachée exclusivement et de façon toujours précaire à la personne du médecin, est hors commerce juridique et ne peut faire l'objet d'une convention ».
+Pour ces raisons, on retenait que « ***les malades jouissant d'une liberté absolue de choix de leur médecin**, la clientèle qu'ils constituent, attachée exclusivement et de façon toujours précaire à la personne du médecin, est hors commerce juridique et ne peut faire l'objet d'une convention* ».
 
 [[Cass. civ. 1ère, 7 juin 1995]]
 Si la clientèle ne pouvait donc être cédée, on admettait les conventions de présentation du successeur aux patients : « *si la clientèle d'un médecin n'est pas dans le commerce, le droit de ce médecin de présenter un confrère à sa clientèle constitue un droit patrimonial qui peut faire l'objet d'une convention régie par le droit privé* »
@@ -626,31 +704,28 @@ Si la clientèle ne pouvait donc être cédée, on admettait les conventions de 
 si la cession de clientèle médicale, ..., n'est pas illicite, c'est à la condition que soit sauvegardée la liberté de choix du patient »
 la cession d'une clientèle libérale n'est pas en principe illicite » ; pour une appréciation de la liberté de choix laissée au client à la suite d'une cession d'office notarial
 
-
-  ```
-### 1. **Position traditionnelle : impossibilité de céder une clientèle civile**
+ 1. **Position traditionnelle : impossibilité de céder une clientèle civile**
 
 - Pendant longtemps, la **clientèle civile** (ex. : clientèle d’un médecin) ne pouvait pas faire l’objet d’un contrat de cession.
 - **Raison principale** : les patients sont attachés aux **qualités personnelles** et professionnelles du médecin, pas à des éléments cessibles comme une enseigne ou un emplacement (contrairement à une clientèle commerciale).
 - Les tribunaux considéraient que la clientèle médicale était un **lien personnel** entre le praticien et ses patients, et non un **bien** dans le commerce.
 
-### 2. **Présentations de successeurs** : une solution alternative
+ 2. **Présentations de successeurs** : une solution alternative
 
 - Bien que la cession de clientèle soit interdite, il était permis au médecin de conclure des **conventions de présentation**.
 - Cela permettait au médecin de présenter un successeur à sa clientèle, un **droit patrimonial** qui pouvait être encadré juridiquement (Cass. civ. 1ère, 7 juin 1995).
 - C'était une solution subtile et tolérée, même si elle restait **hypocrite**, naviguant entre interdiction de cession et pratique de présentation.
 
-### 3. **Changement de jurisprudence : la cession de clientèle médicale devient possible**
+ 3. **Changement de jurisprudence : la cession de clientèle médicale devient possible**
 
 - La jurisprudence a évolué avec l'arrêt du 7 novembre 2000, où la Cour de cassation a admis que la **cession de clientèle médicale n'était pas illicite**, **à condition de respecter la liberté de choix du patient**.
 - Cela signifie qu'un médecin peut désormais vendre sa clientèle, mais les patients doivent toujours pouvoir choisir librement leur praticien.
 - Cet arrêt marque un **changement majeur** en permettant la cession de clientèle à condition que cette liberté soit préservée.
 
-### 4. **Application dans d’autres professions libérales**
+ 4. **Application dans d’autres professions libérales**
 
 - La jurisprudence sur la cession de clientèle a également été étendue à d’autres professions libérales, comme les **notaires** (Cass. civ. 1ère, 14 novembre 2012).
 - Dans ces cas, les clients doivent également conserver leur liberté de choix après la cession.
-```
 
 ###### 2.c) Les prestations doivent être déterminées ou déterminables
 ###### 2.C.i) Détermination de la prestation (autre que monétaire)
@@ -664,7 +739,9 @@ Il faut donc que les contractants soient vigilants à définir le plus précisé
   
 **Une chose déterminable** : On admet aussi que la chose puisse être simplement déterminable : les parties repoussent alors la détermination de la chose à une date ultérieure et se contentent de fixer les éléments qui rendront la détermination possible sans qu'un nouvel accord soit nécessaire.
 
-Voici par exemple, un fournisseur qui impose une clause de gamme ou de collection (par laquelle son distributeur s'oblige à acquérir toute la collection de produits que, par hypothèse, il ne connaît pas encore). Alors que ces clauses semblent fréquentes en droit de la distribution, elles ont fat l'objet d'assez peu de contentieux. Seules les hypothèses de location de stocks de cassettes-vidéo ont été examinées par la jurisprudence.  
+*Voici par exemple, un fournisseur qui impose une clause de gamme ou de collection (par laquelle son distributeur s'oblige à acquérir toute la collection de produits que, par hypothèse, il ne connaît pas encore). Alors que ces clauses semblent fréquentes en droit de la distribution, elles ont fat l'objet d'assez peu de contentieux.* 
+
+Seules les hypothèses de location de stocks de cassettes-vidéo ont été examinées par la jurisprudence.  
   1. [[Cass. civ. 1ère, 23 mai 1995]] : N'est pas nul le contrat de location de vidéogrammes qui ne mentionne que le genre des films donnés en location et non leur titre, dès lors que la convention stipule au profit du locataire une possibilité d'échange des films et qu'ainsi, la désignation de l'objet, suffisamment précise, n'est pas laissée à la seule volonté du bailleur
   2. [[Cass. com., 19 novembre 1996]] : Est en revanche nul le contrat de création d'un point de vente et de location de vidéogrammes qui, s'il prévoit un échange de cassettes, ne stipule la gratuité que pour le premier échange, et laisse au loueur la possibilité discrétionnaire de fixer l'objet de la convention, en plaçant, à sa guise, les cassettes dans l'une des trois catégories prévues, dont les tarifs sont différents
   
@@ -675,10 +752,10 @@ Voici par exemple, un fournisseur qui impose une clause de gamme ou de collectio
   
 L'expression d'*attente légitime*, est assez énigmatique. Elle manifeste l'influence d'une conception du contrat dans laquelle ***la volonté de celui qui s'engage est moins importante que l'attente de celui envers qui il s'engage***. On relèvera toutefois que le texte fait référence aux **attentes légitimes « des parties » et non à celles du seul créancier**. 
 
-Dans un souci de faciliter le travail des juges, l'ordonnance précise que les attentes légitimes des parties **doivent être mises à jour en tenant compte de trois éléments** :  
-- **la nature** peut indistinctement renvoyer à la nature du contrat ou à la nature de la prestation ;
+Dans un souci de faciliter le travail des juges, l'==ordonnance== précise que les **attentes légitimes des parties** doivent être mises à jour en tenant **compte de trois éléments** :  
+- **la nature** peut indistinctement renvoyer à la *nature du contrat ou à la nature de la prestation* ;
 - **les usages** n'existeront pas systématiquement, largement dépendants du secteur dans lequel le contrat aura été conclu ;
-- **le montant** de la contrepartie illustre l'idée que plus le prix est élevé, plus la qualité attendue est haute. Ce critère ne peut cependant constituer qu'un indice car on peut assez facilement imaginer que la variation du prix dépende d'autres facteurs que de la seule qualité des prestations attendues (célérité de la livraison, existence d'une garantie étendue...).
+- **le montant** de la *contrepartie illustre l'idée que plus le prix est élevé, plus la qualité attendue est haute*. Ce critère ne peut cependant constituer qu'un indice car on peut assez facilement imaginer que la variation du prix dépende d'autres facteurs que de la seule qualité des prestations attendues (célérité de la livraison, existence d'une garantie étendue...).
 
 Au final, le texte reste assez « ouvert ». En cas de litige, le débiteur ne sera pas nécessairement libéré en démontrant qu'il a fourni une prestation de qualité moyenne. Cette souplesse doit évidemment inciter les contractants à préciser expressément la qualité de la prestation attendue
 
@@ -690,6 +767,10 @@ La question peut sembler saugrenue car il est évident que le prix est l'un des 
 Mais dans d'autres contrats, comme le contrat d'entreprise, on admet(tait) que le juge pouvait fixer le prix si les parties n'y arrivaient pas elles-mêmes : on considérait en effet que le juge était à même d'apprécier et de chiffrer la valeur du travail qui avait été fourni. Entre ces deux familles de contrats, existait le cas des contrats cadre.  
 
 ###### 2.C.ii.a) Les contrats cadres
+
+>[!Définition]
+>Le contrat-cadre est «un accord par lequel les parties conviennent des caractéristiques essentielles de leurs relations contractuelles futures». Les modalités pratiques d'exécution du contrat-cadre sont précisées par des contrats d'application 
+
 Les contrats cadre sont définis par l'==article 1111==. 
 
 > **Article 1111 civ**
@@ -723,11 +804,38 @@ L'==article 1164== **valide les clauses de prix catalogue**. Ce faisant, il **co
 - **1995 (La sortie de l'impasse):** l'assemblée plénière a mis fin à 25 ans d'errements juridiques en décidant que « l'*==article 1129== **n'est pas applicable à la détermination du prix*** ». 
 	- Désormais **le prix peut être indéterminé sans que cela entraîne la nullité du contrat** ; il importe simplement que la ***fixation unilatérale du prix par une partie ne soit pas abusive*** : si tel est le cas, le contrat n'est pas annulé pour indétermination du prix mais résilié.
 
-L'==article 1164==, qui ne s'**applique qu'au contrat** cadre, impose alors de distinguer plusieurs hypothèses :  
+>[!Attention]
+>L'==article 1164==, qui ne s'**applique qu'au contrat** **cadre**, 
+
+Impose alors de distinguer plusieurs hypothèses :  
 1. les parties peuvent avoir fixé le prix. Ce prix s'impose alors à elles et le juge ne saurait en principe le contrôler ;
+	1. Dans cette situation, les parties au contrat ont décidé dès la conclusion du contrat du montant du prix, ou des critères précis pour le déterminer. Ce prix, ou cette méthode de calcul, devient contractuel et **s'impose à chacune des parties**.
+	2. Le juge **n'intervient pas** pour modifier ou remettre en cause ce prix, sauf en cas de fraude ou d'abus manifeste. En effet, en droit des contrats, le principe est que les parties sont **libres** de fixer le contenu de leur contrat, y compris le prix. Dès lors que ce prix est accepté, il fait autorité.
 2. les parties ont fait référence à un prix catalogue, fixé unilatéralement par une partie. Le juge peut alors intervenir pour sanctionner un éventuel abus dans la fixation du prix.
+	1. - Ici, les parties conviennent que **l'une d'elles (souvent le fournisseur)** déterminera le prix au moment de l'exécution du contrat (par exemple, lors d'une commande ultérieure). C'est ce qu'on appelle le **prix catalogue**.
+	2. Toutefois, pour éviter les abus (comme la fixation d'un prix excessif ou déraisonnable), l'article 1164 prévoit que **le juge peut intervenir** si l'une des parties conteste le prix. En cas d'**abus** (prix fixé de manière déloyale ou arbitraire), le juge peut alors :
+	    - **Sanctionner** la partie qui a fixé le prix, par exemple en **accordant des dommages et intérêts** à l'autre partie ;
+	    - Et, **le cas échéant**, décider de **résilier le contrat**
+
+Résumé de l'évolution :
+- **Avant 1995** :
+    
+    - En **1971**, la jurisprudence exigeait que le prix soit déterminé dès la signature du contrat, en s'appuyant sur l'**article 1591** du Code civil (relatif à la vente). Cependant, cette solution a été critiquée, car le **contrat cadre n'est pas une vente**, il ne transfère pas la propriété.
+    - À partir de **1978**, l'exigence de prix déterminé s'est appuyée sur l'**article 1129** (général à tous les contrats). Cette règle obligeait les contrats cadres à avoir un prix déterminé ou déterminable, sinon ils étaient annulables, ce qui créait une insécurité juridique.
+    - En **1991**, une tentative a été faite pour limiter cette règle, en distinguant les contrats selon qu'ils impliquaient une "obligation de donner" ou une "obligation de faire". Cependant, cela était difficile à appliquer en pratique.
+    - En **1993**, on a permis que le prix soit librement négocié, mais cette solution ne fonctionnait pas bien dans les contrats d'exclusivité.
+- **1995 (Changement majeur)** :
+    
+    - L'**assemblée plénière de la Cour de cassation**, dans des arrêts du **1er décembre 1995**, a mis fin à ces incertitudes en décidant que l'**article 1129** n'était **pas applicable à la détermination du prix**. Désormais, le prix pouvait être indéterminé, tant qu'il n'y avait pas d'abus dans sa fixation unilatérale par une partie.
+- **Ordonnance de 2016** et **article 1164** :
+    
+    - L'**article 1164** valide la possibilité pour une partie de fixer unilatéralement le prix dans un contrat cadre, à condition que le montant soit justifié en cas de contestation. En cas d'abus dans cette fixation, le juge peut intervenir pour accorder des dommages et intérêts, voire prononcer la résiliation du contrat.
 
 **Les condition de la clause de prix catalogue**
+
+>[!Définition]
+>le prix catalogue fait référence au prix fixé par le vendeur et indiqué dans un catalogue ou une liste de prix. Ce prix est généralement utilisé comme référence pour les transactions futures et peut être modifié unilatéralement par le vendeur dans certains types de contrats, comme les contrats-cadre ou les contrats de prestation de services.
+
 
 - **Motivation en cas de contestation.**
 
@@ -778,6 +886,15 @@ Comme le retenait donc l'assemblée plénière de la Cour de cassation, **deux s
 
 ###### 2.C.ii.b) Le contrat de prestation de service
 
+> [!Définition]
+> Un contrat de prestation de service est un accord par lequel une partie (le prestataire) s’engage à fournir un service à une autre partie (le client) en échange d’une rémunération. Ce type de contrat peut couvrir une large gamme d’activités, allant des services professionnels (comme le conseil ou la gestion) aux services manuels (comme les travaux de construction ou de réparation).
+
+Caractéristiques principales :
+1. **Objet du contrat** : La prestation de service doit être clairement définie, incluant les tâches spécifiques à réaliser.
+2. **Rémunération** : Le prix du service peut être fixé à l’avance ou déterminé par le prestataire, comme mentionné dans l’article 1165 du Code civil.
+3. **Durée** : Le contrat peut être à durée déterminée ou indéterminée, selon les besoins des parties.
+4. **Obligations des parties** : Le prestataire doit exécuter le service conformément aux termes du contrat, tandis que le client doit payer la rémunération convenue.
+
 > **Article 1165 civ**
 > Dans les contrats de prestation de service, à défaut d'accord des parties avant leur exécution, le prix peut être fixé par le créancier, à charge pour lui d'en motiver le montant en cas de contestation.
 > En cas d'abus dans la fixation du prix, le juge peut être saisi d'une demande tendant à obtenir des dommages et intérêts et, le cas échéant, la résolution du contrat.
@@ -785,7 +902,7 @@ Comme le retenait donc l'assemblée plénière de la Cour de cassation, **deux s
 L'==article 1165== concerne les contrats de prestation de services. Mais la définition de la prestation de services est assez aléatoire.
 
 - dans une **optique restrictive**, on peut y voir ***les seuls contrats d'entreprise***
-- dans une **optique plus large**, on peut y voir ***tout les contrats qui procurent un avantage appréciable en argent*** (ouvrage, travaux, gestion, conseil...), à l'exclusion de la fourniture de produits en pleine propriété.
+- dans une **optique plus large**, on peut y voir ***tout les contrats qui procurent un avantage appréciable en argent*** (*ouvrage, travaux, gestion, conseil*...), à l'exclusion de la fourniture de produits en pleine propriété.
 
 Pourraient donc être concernés, le mandat, l'entreprise, le contrat de travail, le bail, l'assurance, le prêt à usage...). Il y aura donc sans doute un contentieux de la qualification nourri.  
   
@@ -820,12 +937,16 @@ Les juges du fond auront donc à fixer le prix en contemplation des diligences e
 
 **Le rejet de la lésion.**
 
+>[!Définition]
+>la **lésion** se réfère à un déséquilibre significatif entre les prestations des parties au moment de la conclusion du contrat. En d’autres termes, c’est une situation où l’une des parties obtient une prestation nettement inférieure à ce qu’elle donne en retour.
+
+
 > **Article 1168**
 > Dans les contrats synallagmatiques, le défaut d'équivalence des prestations n'est pas une cause de nullité du contrat, à moins que la loi n'en dispose autrement.
 
 Pose donc le principe que, même si le **contrat est déséquilibré, il n'a pas à être annulé**. **La lésion n'est donc pas une cause de nullité de contrat**. Cette solution peut paraître surprenante car elle favorise l'exécution de contrats déséquilibrés . 
 
-Elle est pourtant parfaitement justifiée : 
+Elle est pourtant **parfaitement justifiée** : 
 - d'abord, elle traduit le **fondement libéral du droit des contrats** en rappelant que ***les parties doivent veiller à l'équilibre de leur contrat*** et en sont les meilleurs juges ; 
 - ensuite, d'un point vue économique, elle souligne le fait qu'il est **difficile de fixer une valeur « objective » des biens et services** ; 
 - enfin, elle **favorise la sécurité juridique** en évitant *que les contrats ne soient trop facilement remis en cause*.  
@@ -835,25 +956,27 @@ Elle a été mise en œuvre juste après la réforme :
 [[Cass. civ. 3ème, 14 février 2019]]
 *en l'espèce, l'acheteur déçu d'une maison en bois avait assigné son vendeur en nullité de la vente pour absence de cause. La Cour d'appel avait refusé d'annuler la vente pour absence de prix car, quand bien même la contrepartie au prix s'avèrerait ultérieurement dérisoire compte tenu de l'état du bien cédé, l'obligation souscrite par M. X était pourvue d'une cause au jour de la vente.* 
 
-L'arrêt est cassé : « *en statuant ainsi, sans rechercher, comme il le lui était demandé, si l'état du bien au jour de la vente ne rendait pas dérisoire, dès la formation du contrat, la contrepartie à l'obligation de M. X de payer un prix de 158 000 euros, la cour d'appel n'a pas donné de base légale à sa décision* ».
+L'**arrêt est cassé** : « *en statuant ainsi, sans rechercher, comme il le lui était demandé, si l'état du bien au jour de la vente ne rendait pas dérisoire, dès la formation du contrat, la contrepartie à l'obligation de M. X de payer un prix de 158 000 euros, la cour d'appel n'a pas donné de base légale à sa décision* ».
 
 La cour de renvoi, dans son appréciation de la contrepartie convenue du prix de 158 000 euros, aura à dire si la maison en bois et le sol sur lequel elle est implantée ne valaient quasiment rien. 
 
-En tout cas, il ne suffirait pas que la chose vendue soit d'une valeur plus faible, voire nettement plus faible que le prix convenu pour entraîner la nullité, car ce serait méconnaître le principe que la lésion ne vicie pas les conventions.
+En tout cas, **il ne suffirait pas que la chose vendue soit d'une valeur plus faible, voire nettement plus faible que le prix convenu pour entraîner la nullité**, car ce serait méconnaître le principe que la lésion ne vicie pas les conventions.
 
 Il est cependant possible de faire une lecture déformante de l'==article 1168== : le texte précise seulement que le contrat n'est pas nul ; il n'interdit en rien au juge de le ré-équilibrer ! Certains auteurs estiment donc que l'==article 1168==, s'il interdit l'annulation du contrat, en permettrait la réfaction. Cette interprétation aboutit à la méconnaissance de la force obligatoire du contrat.  
   
 **Les exceptions légales.** 
-L'==article 1168== réserve les hypothèses dans lesquelles « la loi en dispose autrement ». Ces hypothèses sont nombreuses : 
+
+L'==article 1168== réserve les hypothèses dans lesquelles « *la loi en dispose autrement* ». Ces hypothèses sont nombreuses : 
 - la **lésion est admise au regard de certaines personnes** 
 	- pour les mineurs,  (==art 1149==)
 	- pour les incapables majeurs (==art 435, art 465==), 
 - de **certaines circonstances** 
-	- (C. civ., art. [1143](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006436347&cidTexte=LEGITEXT000006070721) sur la violence économique avec « l'avantage manifestement excessif ») et de certains contrats (le partage, C. civ., art. [891](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006433183&cidTexte=LEGITEXT000006070721), la vente immobilière, C. civ., art. [1674](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006442310), les cessions de droits d'exploitation d'œuvres littéraires...).
+	- sur la violence économique avec « l'avantage manifestement excessif ») (==art 1143==)
+	- certains contrats (le partage, C. civ., ==art 891==; la vente immobilière, C. civ., ==art. 1674==), les cessions de droits d'exploitation d'œuvres littéraires...).
 
 ###### 3.B) Les atténuations
 
-Les ==articles 1169 à 1171== prévoient trois atténuations au principe. Certaines sont très classiques ; d'autres sont nouvelles et sont les dispositions les plus innovantes de la réforme de 2016. La jurisprudence aura à interpréter ces articles dont les domaines se chevauchent en partie. 
+Les ==articles 1169 à 1171== prévoient **trois atténuations au principe**. Certaines sont très classiques ; d'autres sont nouvelles et sont les dispositions les plus innovantes de la ==réforme de 2016==. La jurisprudence aura à interpréter ces articles dont les domaines se chevauchent en partie. 
 
 Les atténuations au principe concernent :
 1. l'existence d'une contrepartie au moment de la formation du contrat
@@ -867,26 +990,32 @@ Les atténuations au principe concernent :
 
 Cette disposition est la reprise de l'ancien ==article 1131 du Code civil== ... sans que ne soit employé le mot de « cause ». Elle traduit l'idée que l'engagement de chaque partie est « causée » (i-e justifiée) par l'engagement de l'autre.  
 
-Cette présentation fut combattue sans succès par Planiol, au XIXème siècle, dans sa célèbre théorie anticausaliste : la vision classique de la cause faisait, d'après lui, double emploi avec la notion d'objet ; elle serait, de plus, illogique car on ne voit pas comment une obligation réciproque pourrait être la cause d'une autre obligation, dès lors qu'elles naissent simultanément.  
+Cette présentation fut combattue sans succès par **Planiol, au XIXème siècle**, dans sa célèbre théorie anticausaliste : *la vision classique de la cause faisait, d'après lui, double emploi avec la notion d'objet ; elle serait, de plus, illogique car on ne voit pas comment une obligation réciproque pourrait être la cause d'une autre obligation, dès lors qu'elles naissent simultanément.*  
 
-%% CREUSER%%
+**Résumé de Planiol :** critiqué la notion classique de la cause dans les contrats. Selon lui, cette notion était redondante avec celle de l’objet du contrat et illogique. Il trouvait incohérent que des obligations réciproques puissent être la cause l’une de l’autre puisqu’elles naissent en même temps.
+
+En résumé, Planiol pensait que la cause n’apportait rien de plus à la compréhension des contrats et qu’elle compliquait inutilement les choses.
   
-Malgré ces critiques, la jurisprudence recourait souvent à la notion de cause pour s'assurer que chaque partie supportait effectivement des obligations et pour annuler le contrat dépourvue de cause, c'est-à-dire sans contrepartie.  
-
+Malgré ces critiques, **la jurisprudence recourait souvent à la notion de cause** pour s'assurer que chaque partie supportait effectivement des obligations et pour ***annuler le contrat dépourvue de cause***, c'est-à-dire sans contrepartie.  
 
 Sans employer le mot de « cause », le nouvel article souligne le moment auquel doit s'apprécier l'existence de la contrepartie et la nécessité de sa réalité.  
   
 - **Le moment auquel s'apprécie la contrepartie.** 
 
-Le texte précise nettement que **la contrepartie doit exister** « au *moment de la formation du contrat* ». C'est donc dire que le texte sera sans application si la contrepartie vient à disparaître en cours d'exécution : on appliquera d'autres mécanismes comme la caducité (cf. infra) ou l'imprévision (cf. infra) ou la réduction de prix (cf. infra)...
+Le texte précise nettement que **la contrepartie doit exister** « au *moment de la formation du contrat* ». 
+
+C'est donc dire que **le texte sera sans application si la contrepartie vient à disparaître en cours d'exécution** : on appliquera d'autres mécanismes comme :
+- la ***caducité*** (
+- l'***imprévision*** 
+- la ***réduction de prix*** 
 
 - **La réalité de la contrepartie.** 
 
-La **contrepartie peut être insuffisante ou déséquilibrée car le contrat déséquilibré n'est pas annulé** (cf. supra, C. civ., art. [1168](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=93131F27E99E7E44060578AB66A6416A.tpdila14v_2?idArticle=LEGIARTI000032041125&cidTexte=LEGITEXT000006070721&categorieLien=id&dateTexte=20161001)). En revanche elle ne doit être ni « dérisoire » ni « illusoire ».  
+La **contrepartie peut être insuffisante ou déséquilibrée car le contrat déséquilibré n'est pas annulé**. En revanche elle ne doit être ni « dérisoire » ni « illusoire ».  
   
-La **contrepartie « dérisoire »** vise les ***hypothèses où la contrepartie existe mais est si insignifiante qu'elle confine à l'absence de contrepartie***. Une jurisprudence nourrie, rendue avant la réforme, illustre ces cas de figure : *brevet dépourvu d'utilité, agrément administratif auquel n'est attaché aucun droit, contrat d'exclusivité comportant une contrepartie dérisoire*.  
+La **contrepartie « dérisoire »** vise les ***hypothèses où la contrepartie existe mais est si insignifiante qu'elle confine à l'absence de contrepartie***. 
 
-%%CREUSER%%
+Une jurisprudence nourrie, rendue avant la réforme, illustre ces cas de figure : *brevet dépourvu d'utilité, agrément administratif auquel n'est attaché aucun droit, contrat d'exclusivité comportant une contrepartie dérisoire*.  
 
 ###### 3.B.ii) Les clauses privant de substance l'obligation essentielle
 
@@ -902,13 +1031,14 @@ Cet article consacre la jurisprudence « Chronopost », mais la dépasse.
 
 La Cour avait retenu que « *viole l'article 1131 du code civil la cour d'appel qui fait application d'une clause limitative de responsabilité, alors qu'en raison du **manquement du débiteur à une obligation essentielle**, cette stipulation qui contredit la portée de l'engagement pris, **doit être réputée non écrite*** ».
  
- Il fallait donc deux conditions pour que la clause soit neutralisée : 
+ Il fallait donc **deux conditions pour que la clause soit neutralisée** : 
  1. d'une part, elle devait **porter sur l'obligation essentielle** (ici livrer rapidement) ; 
  2. d'autre part, le **plafond de responsabilité devait être bas** qu'il contredisait la portée de l'engagement pris (a contrario, la clause aurait été valable si le plafond de responsabilité avait été plus élevé). 
  
  L'idée générale de la solution est que l'on ne pouvait, d'un côté, s'engager à réaliser une obligation essentielle et, d'un autre côté, stipuler que l'on devrait quasiment rien si on exécutait mal cette obligation.
 
 Dépassement de la jurisprudence Chronopost. Alors que la jurisprudence ne concernait que les clauses limtatives de responsabilité, le nouveau texte vise « toute clause ». On peut en imaginer de nombreux exemples : la clause du bail par laquelle le locataire prend les lieux en l'état et s'engage à supporter tous les travaux ne prive-t-elle pas de substance l'obligation de délivrance du bailleur ? La clause d'exclusion des risques ne prive-t-elle pas l'obligation de couverture de l'assureur ? Les clauses limitatives de garantie ou de responsabilité ne privent-elles pas les obligations essentielles...  
+
 Un débat se fera nécessairement jour sur deux points :  
 
 - L'obligation essentielle est facile à déterminer quand on est dans le cadre d'un contrat nommé comme la vente, le bail, l'entreprise. Mais certains montages rendent parfois difficile l'identification des obligations essentielles de chaque contractant.
@@ -995,21 +1125,21 @@ Il l'a fait de deux façons :
 > **Article 1172 al. 2 civ** 
 > par exception, la validité des contrats solennels est subordonnée à l'observation de formes déterminées par la loi à défaut de laquelle le contrat est nul, sauf possible régularisation.
 
-Le contrat solennel est donc celui qui, pour être valable, doit respecter une certaine forme. On relèvera cependant que l'==article 1172 al. ==2 utilise le mot « forme » au pluriel (1) et que la jurisprudence adoucit souvent la sanction de la nullité prévue par le législateur (2).
+Le **contrat solennel** est donc celui qui, pour être valable, **doit respecter une certaine forme**. On relèvera cependant que l'==article 1172 al. ==2 utilise le mot « forme » au pluriel (1) et que la jurisprudence adoucit souvent la sanction de la nullité prévue par le législateur (2).
 
 ###### 1.A) La variété des formes
   
 - **Exigence d'une forme authentique :** 
 
-Si on laisse de côté les actes relatifs au droit des personnes (actes d'état civil...), quatre contrats doivent être passés en la forme authentique à peine de nullité : 
-1. la donation (C. civ., art. [931](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006433776&dateTexte=&categorieLien=cid)), 
-2. le contrat de mariage (C. civ., art. [1394](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006439143&cidTexte=LEGITEXT000006070721)), 
-3. la constitution d'hypothèque (C. civ., art. [2127](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006446158&cidTexte=LEGITEXT000006070721&dateTexte=19780701)) et 
-4. la subrogation conventionnelle par volonté du débiteur (C. civ., art. [1346](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=93131F27E99E7E44060578AB66A6416A.tpdila14v_2?idArticle=LEGIARTI000032042147&cidTexte=LEGITEXT000006070721&categorieLien=id&dateTexte=20161001), 2°). 
+Si on laisse de côté les actes relatifs au droit des personnes (actes d'état civil...), **quatre contrats doivent être passés en la forme authentique à peine de nullité** : 
+1. la donation 
+2. le contrat de mariage 
+3. la constitution d'hypothèque
+4. la subrogation conventionnelle par volonté du débiteur
 
-Ce régime dérogatoire s'explique par la gravité de ces actes pour celui qui s'oblige (donation ou hypothèque), pour la famille (donation) ou pour les tiers (subrogation et hypothèque). 
+Ce régime dérogatoire s'**explique par la gravité de ces actes pour celui qui s'oblige** (donation ou hypothèque), pour la famille (donation) ou pour les tiers (subrogation et hypothèque). 
 
-L'exigence d'une forme permet une réflexion plus longue (Contra X. Lagarde, « Réflexions critiques sur le renouveau du formalisme », JCP G 1999, I). Depuis 1804, on peut ajouter certains contrats tels la vente d'immeubles à construire lorsqu'elle vise un immeuble d'habitation (CCH, art. [L 261-11](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=B05E25876C0C82EAF1FB85602DF176F2.tpdila16v_3?idArticle=LEGIARTI000028028659&cidTexte=LEGITEXT000006074096&categorieLien=id&dateTexte=)).  
+L'**exigence d'une forme permet une réflexion plus longue**. Depuis 1804, on peut ajouter certains contrats tels la vente d'immeubles à construire lorsqu'elle vise un immeuble d'habitation.
   
 - **Exigence d'un simple écrit :** 
 
@@ -1021,39 +1151,50 @@ Il faut alors classer les textes selon qu'ils disent sans ambiguïté que l'abse
 
 La liste est longue et elle va de la convention d'indivision (C. civ., art. [1873-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006444511&cidTexte=LEGITEXT000006070721)), à la clause compromissoire (CPC, art. [1443](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=93131F27E99E7E44060578AB66A6416A.tpdila14v_2?idArticle=LEGIARTI000006412629&cidTexte=LEGITEXT000006070716&categorieLien=id&dateTexte=20110430)). On peut y ajouter les conventions collectives de travail, les ventes de fonds de commerce, la licence de brevet d'invention. Derrière toutes ces hypothèses, on décèle la volonté du législateur de protéger la volonté de la partie qui s'oblige : un engagement écrit est plus précis qu'un engagement oral. Il s'agit donc de ralentir et de compliquer la formation du contrat pour prévenir l'irréflexion.
 
-- Ecrit sans sanction prévue : là encore, la liste est longue : la transaction (C. civ., art. [2044](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006445609)), le compromis (CPC, art. [1449](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006439932)), le contrat d'assurance, le bail d'habitation... On peut alors se demander si l'écrit est exigé ad validitatem ou ad probationem. Si on opte pour la première solution, l'absence d'écrit entraînera la nullité du contrat ; si l'on opte pour la seconde, le contrat ne pourra pas être prouvé par témoins, s'il y a un commencement de preuve par écrit ou une impossibilité, matérielle ou morale, de rédiger un écrit (Cf. cours UNJF d'[Introduction au droit](https://cours.unjf.fr/enrol/index.php?id=105) d'Eléonore Cadou).
+- Ecrit sans sanction prévue : 
+
+là encore, la liste est longue : la transaction (C. civ., art. [2044](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006445609)), le compromis (CPC, art. [1449](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006439932)), le contrat d'assurance, le bail d'habitation... On peut alors se demander si l'écrit est exigé ad validitatem ou ad probationem. Si on opte pour la première solution, l'absence d'écrit entraînera la nullité du contrat ; si l'on opte pour la seconde, le contrat ne pourra pas être prouvé par témoins, s'il y a un commencement de preuve par écrit ou une impossibilité, matérielle ou morale, de rédiger un écrit (Cf. cours UNJF d'[Introduction au droit](https://cours.unjf.fr/enrol/index.php?id=105) d'Eléonore Cadou).
 
 
 ###### 1.B) L'atténuation de la jurisprudence ?
   
-- Le juge et la forme. Dans un article célèbre publié dans les Mélanges Ripert en 1950 précité, Flour avait montré que le juge adoucissait souvent la rigueur du formalisme. Confronté à l'absence de forme, il répugnait à prononcer la nullité du contrat qui lui apparaissait souvent comme une sanction trop brutale. Cette règle n'est évidemment pas générale mais elle reçoit de fréquentes illustrations.  
+Dans un article célèbre publié dans les Mélanges Ripert en 1950 précité, Flour avait montré que **le juge adoucissait souvent la rigueur du formalisme**. Confronté à l'absence de forme, il répugnait à prononcer la nullité du contrat qui lui apparaissait souvent comme une sanction trop brutale. Cette règle n'est évidemment pas générale mais elle reçoit de fréquentes illustrations.  
   
 - Pour les contrats nécessitant une forme authentique, la jurisprudence admet la validité des dons manuels (de la main à la main) ou des donations déguisées alors même qu'aucun acte notarié n'a été conclu. Ripert proposait de dire que le dépouillement ou l'énergie dépensée à faire le montage ou le déguisement montraient bien que la donation avait été réfléchie. Ils étaient alors considérés comme des substituts de forme.  
   
 - Pour les contrats exigeant un écrit à peine de nullité, on observe le même mouvement. L'exemple le plus significatif est celui du cautionnement. Il est exigé que la caution écrive, à peine de nullité, une mention manuscrite « et uniquement celle-ci ». Pourtant, la Cour de cassation considère que le contrat de cautionnement sera valable, quel que soit le contenu de la mention manuscrite, pourvu qu'elle n'altère ni le sens ni la portée de la mention exigée par le législateur.
 
-##### 2) Les contrats réels[](https://cours.unjf.fr/repository/coursefilearea/file.php/58/Cours/05_item/indexI0.htm#)
+##### 2) Les contrats réels
 
+**Article 1172 al. 3 dispose**
+> en outre, la loi subordonne la formation de certains contrats à la remise d'une chose 
+
+Il évoque ainsi les contrats réels – gage, prêt, dépôt.  
   
-- Opportunité de la consécration des contrats réels ? L'article [1172](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=93131F27E99E7E44060578AB66A6416A.tpdila14v_2?idArticle=LEGIARTI000032041188&cidTexte=LEGITEXT000006070721&categorieLien=id&dateTexte=20161001) al. 3 dispose « en outre, la loi subordonne la formation de certains contrats à la remise d'une chose ». Il évoque ainsi les contrats réels – gage, prêt, dépôt.  
-  
-Il existe toutefois un courant doctrinal analysant ces contrats comme des contrats consensuels (M.-N. Jobard-Bachellier, « Existe-t-il encore des contrats réels en droit français ? », RTD civ. 1985, 1) : la remise de la chose ne serait pas une condition de formation du contrat mais son premier acte d'exécution (ce faisant ces contrats deviennent encore synallagmatiques).  
-  
-La jurisprudence a en effet tendance à réduire de plus en plus la catégorie des contrats réels. L'exemple du contrat de crédit illustre nettement ce mouvement.  
+Il existe toutefois un courant doctrinal analysant ces contrats comme des contrats consensuels : **la remise de la chose ne serait pas une condition de formation du contrat mais son premier acte d'exécution** (ce faisant ces contrats deviennent encore synallagmatiques).  
 
-- La disqualification des contrats soumis au droit de la consommation. Les contrats de prêt soumis au droit de la consommation n'ont pas la valeur de contrat réel. L'article [311-5](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000006292384&dateTexte=&categorieLien=cid) du Code de la consommation dispose : « le contrat devient parfait dès l'acceptation de l'offre préalable par l'emprunteur ». Après un avis du 9 octobre 1992, la Cour a opté pour le caractère consensuel de ces contrats, même en matière immobilière (Cass. civ. 1ère, 27 mai 1998, D. 1999, 194, note M. Bruschi ; Rép. Defrénois 1998, 1054, note Ph. Delebecque).
+La **jurisprudence** a en effet **tendance à réduire de plus en plus la catégorie des contrats réels**. L'exemple du contrat de crédit illustre nettement ce mouvement.  
 
-- Une disqualification généralisée ? La Cour a ensuite rendu un arrêt dépassant le simple cadre du contrat de prêt soumis au droit de la consommation
-    
-    _Ex._Cass. civ. 1ère, 28 mars 2000, JCP 2000, II, 10296, concl. J. Sainte-Rose ; Rép. Defrénois 2000, 720, note J.-L. Aubert : « le prêt consenti par un professionnel du crédit n'est pas un contrat réel. L'arrêt attaqué qui relève que la proposition de financement avait été signée par le client et que les conditions de garantie dont elle était assortie étaient satisfaites, retient à bon droit que le prêteur était, par l'effet de cet accord de volonté, obligé au paiement de la somme convenue ».
-    
-    La date de formation du contrat n'est donc pas celle de la remise de la chose mais celle de l'acceptation du crédit.
+Les **contrats de prêt soumis au droit de la consommation n'ont pas la valeur de contrat réel**. 
 
-- La survie des contrats réels :
-    
-    _Ex._en jugeant que « le prêt qui n'est pas consenti par un établissement de crédit est un contrat réel qui suppose la remise de la chose », la première chambre civile a montré que les contrats réels existaient encore en droit français (Cass. civ. 1ère, 7 mars 2006, Dr. et patrimoine octobre 2006, p. 90, obs. Ph. Stoffel-Munck ; RDC 2006, p. 778, obs. P. Puig).
-    
-    La promesse de prêt ou de financement, dès lors qu'elle sera adressée par une personne qui n'est pas un établissement de crédit, ne pourra donc être poursuivie en nature en cas d'inexécution.
+> **Art 311-5 Code de la consommation (ancien)**
+> le contrat devient parfait dès l'acceptation de l'offre préalable par l'emprunteur
+
+Après un avis du ==9 octobre 1992==, la Cour a opté pour le **caractère consensuel de ces contrats, même en matière immobilière**.
+
+La Cour a ensuite rendu un arrêt dépassant le simple cadre du contrat de prêt soumis au droit de la consommation
+
+Cass. civ. 1ère, 28 mars 2000
+« le prêt consenti par un professionnel du crédit n'est pas un contrat réel. L'arrêt attaqué qui relève que la proposition de financement avait été signée par le client et que les conditions de garantie dont elle était assortie étaient satisfaites, retient à bon droit que le prêteur était, par l'effet de cet accord de volonté, obligé au paiement de la somme convenue ».
+
+La date de formation du contrat n'est donc pas celle de la remise de la chose mais celle de l'acceptation du crédit.
+
+- **La survie des contrats réels :**
+
+Cass. civ. 1ère, 7 mars 2006
+en jugeant que « le prêt qui n'est pas consenti par un établissement de crédit est un contrat réel qui suppose la remise de la chose », la première chambre civile a montré que les contrats réels existaient encore en droit français
+
+La promesse de prêt ou de financement, dès lors qu'elle sera adressée par une personne qui n'est pas un établissement de crédit, ne pourra donc être poursuivie en nature en cas d'inexécution.
 #### Paragraphe 2 : La forme aux fins de preuve ou d'opposabilité
 
   
@@ -1065,19 +1206,27 @@ _Df._L'article [1173](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsess
 
 ##### 1) Le formalisme probatoire
 
+> **Article 1359**
+> En cas de pluralité d'assignations, le demandeur au partage est celui qui a fait en premier enrôler son assignation au greffe du tribunal judiciaire.
   
-- Rappel. L'article [1359](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070716&idArticle=LEGIARTI000006412522) (ex. art. 1341) pose le principe de la preuve préconstituée pour les actes juridiques. Il faut donc un écrit pour prouver ces actes. A défaut d'écrit, l'acte est pleinement valable mais on doit le prouver par d'autres moyens : l'aveu ou le serment ; dans certaines hypothèses (commencement de preuve par écrit et impossibilité morale ou matérielle de se procurer un écrit), les preuves testimoniales. Mais la différence est clairement affirmée : le défaut d'écrit n'entraîne pas en lui-même l'annulation de l'acte. Ce n'est donc pas une forme validante.  
+Pose le **principe de la preuve préconstituée pour les actes juridiques**. Il faut donc un écrit pour prouver ces actes. 
+
+A défaut d'écrit, l'acte est pleinement valable mais on doit le prouver par d'autres moyens : l'aveu ou le serment ; dans certaines hypothèses (commencement de preuve par écrit et impossibilité morale ou matérielle de se procurer un écrit), les preuves testimoniales. 
+
+Mais la différence est clairement affirmée : le défaut d'écrit n'entraîne pas en lui-même l'annulation de l'acte. Ce n'est donc pas une forme validante.  
   
-- Appréciation. Si cette présentation est rigoureusement exacte, il ne faut pas en exagérer la portée : en effet, sur le plan pratique, la distinction entre un contrat que l'on ne peut pas prouver et un contrat annulé est bien fragile (idem est non esse aut non probari, c'est la même chose de n'être pas que de ne pas être prouvé).  
-
-
+Si cette présentation est rigoureusement exacte, il ne faut pas en exagérer la portée : en effet, sur le plan pratique, la distinction entre un contrat que l'on ne peut pas prouver et un contrat annulé est bien fragile (*idem est non esse aut non probari*, c'est la même chose de n'être pas que de ne pas être prouvé).  
 
 ##### 2) Le formalisme d'opposabilité
 
+> **Art. 1198 civ**
+> Lorsque deux acquéreurs successifs de droits portant sur un même immeuble tiennent leur droit d'une même personne, celui qui a, le premier, publié son titre d'acquisition passé en la forme authentique au fichier immobilier est préféré, même si son droit est postérieur, à condition qu'il soit de bonne foi.
+
+A la différence du formalisme de validité qui a pour objet l'expression même du consentement et dont l'absence est sanctionnée par la nullité, **le formalisme d'opposabilité n'a pour objectif que la publicité du contrat à l'égard des tiers**. Un acte publié selon les formes légales sera présumé connu de tous alors qu'un acte non publié sera présumé inconnu de tous, donc inopposable.  
   
-- Rappel. A la différence du formalisme de validité qui a pour objet l'expression même du consentement et dont l'absence est sanctionnée par la nullité, le formalisme d'opposabilité n'a pour objectif que la publicité du contrat à l'égard des tiers. Un acte publié selon les formes légales sera présumé connu de tous alors qu'un acte non publié sera présumé inconnu de tous, donc inopposable.  
-  
-La vente immobilière est un contrat consensuel : entre le vendeur et l'acheteur, le transfert de propriété opère immédiatement, solo consensu. Cependant, pour être opposable aux tiers, la vente doit être publiée ; si elle ne l'est pas, le vendeur est, à l'égard des tiers, toujours censé être propriétaire, de sorte que s'il revend l'immeuble à un tiers et que ce tiers publie cette vente en premier, ils sera propriétaire. L'acquéreur initial disposera alors d'une action en responsabilité contre son vendeur indélicat mais il ne pourra récupérer l'immeuble vendu. Il y a donc bien une différence entre la forme validante et la forme de publicité (voir C. civ., art. [1198](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=93131F27E99E7E44060578AB66A6416A.tpdila14v_2?idArticle=LEGIARTI000032041283&cidTexte=LEGITEXT000006070721&categorieLien=id&dateTexte=20161001) al. 2 infra).
+La **vente immobilière est un contrat consensuel** : entre le vendeur et l'acheteur, le transfert de propriété opère immédiatement, solo consensu. Cependant, pour être opposable aux tiers, la vente doit être publiée ; si elle ne l'est pas, le vendeur est, à l'égard des tiers, toujours censé être propriétaire, de sorte que s'il revend l'immeuble à un tiers et que ce tiers publie cette vente en premier, ils sera propriétaire. L'acquéreur initial disposera alors d'une action en responsabilité contre son vendeur indélicat mais il ne pourra récupérer l'immeuble vendu. 
+
+Il y a donc bien une différence entre la forme validante et la forme de publicité.
 
 ## Section 2 : Les sanctions de l'invalidité du contrat
 
@@ -1106,7 +1255,7 @@ En revanche, une fois la **nullité prononcée par le juge**, qu’il s’agisse
 Le critère de distinction entre ces deux nullités a évolué au fil du temps. 
 - **Au 19e siècle**, on considérait que si le *contrat était affecté d’un vice si grave, si important, qu’il ne pouvait pas être réparé*, **la nullité était absolue**. Mais si le contrat était affecté d’un *vice que l’on pouvait guérir*, il s’agissait d’une **nullité relative**. Ce critère se basait sur la **nature du vice affectant le contrat**.
 - **Au début du 20e siècle**, un autre critère de distinction est apparu : **la théorie moderne de la nullité**. 
-	- **Japiot** a considéré que *le critère de distinction entre nullité absolue et nullité relative devait être **recherché dans l’objectif poursuivi par la loi méconnue par le contrat***.  %%CREUSER%%
+	- **Japiot** a considéré que *le critère de distinction entre nullité absolue et nullité relative devait être **recherché dans l’objectif poursuivi par la loi méconnue par le contrat***.  
 	- Lorsqu’un **contrat est annulé**, c’est parce qu’il a ***enfreint une règle de droit***. Il faut alors examiner si cette règle ***protège un intérêt particulier du contractant***, auquel cas la **nullité sera relative**. 
 	- À l’inverse, si la ***règle de droit violée protège l’intérêt général***, il s’agira d’une **nullité absolue**.
 
@@ -1140,7 +1289,6 @@ Cependant, dans les années 2000, le droit européen, notamment à travers la Co
 Cela crée une situation où le juge, censé être impartial, devient l'allié objectif d’un plaideur contre un autre. Même si le plaideur ne soulève pas l'argument, le juge le fera à sa place.
 
 En France, **cette évolution a été consacrée** par une ==réforme du droit de la consommation en 2014==. Désormais, un nouvel article ==dans le Code de la consommation== dispose que « *le juge écarte d’office, après avoir recueilli les observations des parties, l’application d’une clause dont le caractère abusif ressort des éléments du débat.* »
-%% TROUVER NUM ARTICLE%%
 
 **La possibilité de confirmation**
 La nullité relative peut être couverte par une confirmation, comme le prévoit l'==article 1181 alinéa 2==. 
@@ -1263,7 +1411,7 @@ Le contrat pourrait-il être frappé de caducité **lorsqu’un contractant perd
 > **article 1186 alinéa 2**
 > Lorsque l'exécution de plusieurs contrats est nécessaire à la réalisation d'une même opération et que l'un d'eux disparaît, sont caducs les contrats dont l'exécution est rendue impossible par cette disparition et ceux pour lesquels l'exécution du contrat disparu était une condition déterminante du consentement d'une partie.
 
-L’==alinéa 2 de l’article 1186== envisage la **caducité des contrats interdépendants**. Il est très fréquent que, **pour réaliser une seule et même opération économique**, *il soit nécessaire de conclure plusieurs contrats*. 
+L’==alinéa 2 de l’article 1186== envisage la **caducité des contrats interdépendants**. Il est très fréquent que, **pour réaliser une seule et même opération économique**, *il soit nécessaire de **conclure plusieurs contrats***. 
 
 L'==article 1186 al. 2 ==est bienvenu : 
 - il offre un **support textuel aux juridictions** qui ont successivement invoqué les anciens ==articles 1131== (la cause), ==1134== (la force obligatoire du contrat) et ==1217== (les obligations divisibles ou indivisibles) du code civil. 

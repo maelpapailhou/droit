@@ -1,0 +1,2 @@
+
+Arrêt 1re civ., 1 février 1999 : la Cour de cassation a retenu que n'était pas contraire aux bonnes mœurs la cause de la libéralité dont l'auteur entendait maintenir la relation adultère qu'il entretenait avec la bénéficiaire. Dans l'arrêt "Galopin" de 2004, la Cour a maintenu cette jurisprudence dans des conditions troublantes, car l'homme avait plus de 70 ans, tandis que sa maîtresse en avait 25.

@@ -1,0 +1,2 @@
+ [[27 février 1996 - L'obligation d'information]]
+celle-ci avait pris soin de relever que l'**acquéreur était dirigeant social** et qu'il avait manqué au « **devoir de loyauté qui s'impose au dirigeant d'une société à l'égard de tout associé, en particulier lorsqu'il en est intermédiaire pour le reclassement de sa participation** 

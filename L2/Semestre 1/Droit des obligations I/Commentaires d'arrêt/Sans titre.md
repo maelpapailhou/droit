@@ -1,0 +1,1 @@
+https://www.doc-du-juriste.com/droit-prive-et-contrat/droit-des-obligations/commentaire-d-arret/commentaire-arret-assemblee-pleniere-cour-cassation-1er-decembre-1995-question-466161.html?utm_source=search&utm_medium=internal
