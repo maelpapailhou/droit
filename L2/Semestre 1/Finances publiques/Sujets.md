@@ -38,12 +38,9 @@ Dans l’attente de vos éclaircissements, veuillez agréer mes sincères saluta
 ###### 2020-2021 Session 1
 - Pourriez-vous m’expliquer le volet performance mise en place par la LOLF ? (5 points)
 - Le Parlement participe-t-il à la préparation du budget ? (3 points)
-- La mémoire me fait défaut, pourriez-vous me citer les différentes catégories de lois
-de finances ? (2 points)
-- Vous serait-il possible de m’indiquer le déroulement de l’examen et de l’adoption de
-la loi de finances initiale ? (5 points)
-- Enfin, que pouvez-vous me dire sur la responsabilité des comptables publics et le
-jugement des comptes ? (5 points)
+- La mémoire me fait défaut, pourriez-vous me citer les différentes catégories de lois de finances ? (2 points)
+- Vous serait-il possible de m’indiquer le déroulement de l’examen et de l’adoption de la loi de finances initiale ? (5 points)
+- Enfin, que pouvez-vous me dire sur la responsabilité des comptables publics et le jugement des comptes ? (5 points)
 ###### 2020-2021 Session 2
 1) Les ressources de l’État (6 points)
 2) Les sources constitutionnelles des finances publiques (4 points)

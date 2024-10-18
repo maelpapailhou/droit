@@ -1,5 +1,13 @@
 Cass. 1re civ., 25 mars 2010
 
+La Cour rejette le pourvoi. Elle affirme que le dirigeant, en tant que représentant de la société, avait l'obligation d'informer le cédant des offres de revente en cours, car cela aurait pu influencer la décision du cédant quant à la cession ou aux conditions de celle-ci. La différence significative entre les prix de vente et de revente montre que le consentement du cédant était vicié. Ainsi, la réticence dolosive du dirigeant est retenue, engageant sa responsabilité.
+
+### Portée
+
+Cet arrêt confirme que le dirigeant social doit faire preuve de transparence envers les associés cédants lorsqu'il détient des informations sur la valeur des parts sociales, surtout si ces informations sont déterminantes pour le consentement du cédant.
+
+---
+
 Au nom du devoir de bonne foi qui s'impose à lui, le dirigeant social auquel un associé cède ses parts dans la société qu'il dirige est tenu de l'informer de tous les éléments relatifs à la valeur des parts cédées dont il dispose.
 
 Dol et erreur sur la valeur commise par l'acquéreur, encore et toujours. – Le vendeur peut-il se prévaloir d'une réticence dolosive et agir en conséquence lorsque l'acquéreur ne lui a pas transmis toutes les informations qu'il détenait sur la valeur du bien vendu ? C'est à cette question, désormais classique en jurisprudence, que la première chambre civile de la Cour de cassation a donné, le 25 mars dernier, une réponse qui n'innove pas mais qui permet, semble-t-il, de faire un point assez précis sur le droit positif en la matière.

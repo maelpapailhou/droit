@@ -36,7 +36,7 @@ Appréciation objective ou subjective de l'objet de l'erreur ? Pour qualifier l'
 
 #### A - L'indifférence de la seule essence objective
 
-Entrée en matière : preuve de l'erreur. Sur le fondement des articles 1109 et 1110 anciens du Code civil, l'un des cocontractants peut obtenir la nullité du contrat pour erreur sur les qualités substantielles de la chose; la formule était assez lapidaire et encore fallait-il d'abord pouvoir prouver le décalage entre la réalité et la croyance que constitue l'erreur.
+Entrée en matière : preuve de l'erreur. Sur le fondement des articles 1109 et 1110 anciens du Code civil, l'**un des cocontractants peut obtenir la nullité du contrat pour erreur sur les qualités substantielles de la chose**; la formule était assez lapidaire et encore fallait-il d'abord pouvoir prouver le décalage entre la réalité et la croyance que constitue l'erreur.
 
 En l'espèce, l'utilisation de l'expertise pour prouver ce que l'acquéreur estimait être une erreur, postérieure à la date du contrat, ne pose pas de problème conséquent puisque, si l'erreur s'apprécie au moment de la conclusion du contrat (Civ. 1r, 2 oct. 1983), la jurisprudence avait déjà posé en principe que « le droit de se servir d'éléments postérieurs à la vente pour prouver l'existence d'une erreur au moment de la vente ne peut être dénié au vendeur » (Civ. 1, 13 déc. 1983). Il existait donc bien une erreur dans ce catalogue, non pas sur l'authenticité mais sur la composition du bien, sur son matériel. Néanmoins, il ne suffit pas que l'erreur existe, encore faut-il, comme le rappelle la Cour de cassation en citant l'ancien article 1110 du Code civil, qu'elle porte sur la substance de la chose objet du contrat.
 

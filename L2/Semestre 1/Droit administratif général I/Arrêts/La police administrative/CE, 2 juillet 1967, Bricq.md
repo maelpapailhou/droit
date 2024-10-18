@@ -1,0 +1,5 @@
+https://www.lemoniteur.fr/article/le-maire-et-les-tondeuses-a-gazon.204939
+
+Conseil d'Etat a admis que « ... le maire a pris une mesure qui, compte tenu de sa limitation dans le temps et de la gêne occasionnée aux habitants de la commune par l'utilisation de ces engins, n'excède pas les précautions nécessaires au maintien de la tranquillité publique. »
+
+COMMENTAIRE Le fond de l'affaire est révélateur de la difficulté qu'il y a parfois à faire « cohabiter » des personnes ayant des habitudes très dissemblables : ici, c'est manifestement la façon de concevoir le « week-end » et l'usage des résidences secondaires qui font problème. La portée de la décision du Conseil d'Etat est liée notamment à la façon dont le maire avait « modulé », dans le temps et dans l'espace, le champ d'application de sa mesure.

@@ -1,25 +1,33 @@
 ### Section 1 : Le renforcement d'une ancienne source du droit administratif : le bloc de constitutionnalité
 
-Le droit administratif trouve son fondement dans la Constitution, qui institue et organise l’État en lui donnant ses bases. C’est le premier à avoir souligné la nécessité de son inclusion dans le bloc de constitutionnalité.
+Le **droit administratif trouve son fondement dans la Constitution**, qui ***institue et organise l’État en lui donnant ses bases***. C’est le premier à avoir souligné la nécessité de son inclusion dans le bloc de constitutionnalité.
 #### Paragraphe 1 : La Constitution
+
 Les normes constitutionnelles ont de grandes implications pour l’administration. La Constitution ne contient pas beaucoup de dispositions de fond, parmi lesquelles :
-- On peut évoquer l’==article 1er de la Constitution==, qui gouverne les rapports entre la personne publique et le citoyen en prévoyant l'égalité, le respect des croyances, etc.
-- Le principe de libre administration des collectivités territoriales (==article 72==).
-- Le principe de supériorité des traités internationaux sur la loi (==article 55==).
+- On peut évoquer l’==article 1er de la Constitution==, qui *gouverne les rapports entre la personne publique et le citoyen en prévoyant l'égalité, le respect des croyances,* etc.
+- Le ***principe de libre administration des collectivités territoriales*** (==article 72==).
+- Le ***principe de supériorité des traités internationaux*** sur la loi (==article 55==).
 
-Elle contient surtout des dispositions institutionnelles fondamentales. En premier lieu, des dispositions instituant les différents organes de l’État (Président de la République, Premier ministre, ministres), déterminant leurs fonctions et leurs compétences. On pense ici aux dispositions établissant un lien entre le pouvoir politique, le pouvoir exécutif et l’administration.
+Elle contient surtout des **dispositions institutionnelles fondamentales**. 
+- En premier lieu, des ***dispositions instituant les différents organes de l’État*** (Président de la République, Premier ministre, ministres), ***déterminant leurs fonctions et leurs compétences***. On pense ici aux dispositions établissant **un lien entre le pouvoir politique, le pouvoir exécutif et l’administration**.
+- En second lieu, la Constitution ***répartit les compétences entre les pouvoirs publics constitutionnels*** (==articles 34, 37==), entre ***les tenants de l’exécutif*** (==articles 5, 13, 20, 21==), et ***organise la décentralisation*** (==article 72 et suivants==). **Les actes de l’exécutif sont donc soumis au droit administratif.** 
 
-En second lieu, la Constitution répartit les compétences entre les pouvoirs publics constitutionnels (articles 34, 37), entre les tenants de l’exécutif (articles 5, 13, 20, 21), et organise la décentralisation (article 72 et suivants). Les actes de l’exécutif sont donc soumis au droit administratif. 
+**Le Conseil d'État le précise dans des affaires :**
 
-Le Conseil d'État le précise dans des affaires :
+- [[CE, 26 juin 1959, Syndicat général des ingénieurs-conseils]] : l'**attribution au gouvernement d’un pouvoir réglementaire autonome** n’avait ***pas transformé la nature juridique des actes réglementaires du Premier ministre***, qui continuaient à relever du contrôle du juge administratif ; de plus, ces actes sont subordonnés aux principes généraux du droit.
 
-- [[CE, 26 juin 1959, Syndicat général des ingénieurs-conseils]] : l'attribution au gouvernement d’un pouvoir réglementaire autonome n’avait pas transformé la nature juridique des actes réglementaires du Premier ministre, qui continuaient à relever du contrôle du juge administratif ; de plus, ces actes sont subordonnés aux principes généraux du droit.
-- [[CE, 12 février 1960, Société Eky]] : le Conseil d'État qualifiait ces règlements autonomes d'actes administratifs.
-- [[CE Ass, 24 novembre 1961, Fédération nationale des syndicats de police]] : Les ordonnances de l’==article 38 de la Constitution== constituent des actes administratifs tant qu’elles n’ont pas été ratifiées par le Parlement. Contrôle du juge administratif.
+- [[CE, 12 février 1960, Société Eky]] : le Conseil d'État qualifiait ***ces règlements autonomes d'actes administratifs***.
+
+>[!Attention]
+> ordonnance contestée étant de nature législative**, elle ne peut pas faire l’objet d’un recours pour excès de pouvoir
+
+
+- [[CE Ass, 24 novembre 1961, Fédération nationale des syndicats de police]] : Les ordonnances de l’==article 38 de la Constitution== ***constituent des actes administratifs tant qu’elles n’ont pas été ratifiées par le Parlement***. Contrôle du juge administratif.
+
 - [[CE, 19 octobre 1962, Canal]] : Idem pour les actes du président de la République pris sur la base d’une habilitation référendaire.
 - [[CE, 2 mars 1962, Rubin de Servens]] : Idem pour les actes pris en application de l'==article 16 de la Constitution== dès lors qu’ils ne relèvent pas du domaine de la loi (important).
 
-La Constitution contient des dispositions relatives aux collectivités territoriales, à leur pouvoir réglementaire et aux modalités de leur contrôle (institution du préfet, contrôle administratif sur les actes des collectivités territoriales, ==article 72 de la Constitution==).
+La **Constitution contient des dispositions relatives aux collectivités territoriales**, à ***leur pouvoir réglementaire et aux modalités de leur contrôle*** (institution du préfet, contrôle administratif sur les actes des collectivités territoriales, ==article 72 de la Constitution==).
 
 Enfin, elle contient des **dispositions relatives au Conseil d'État** : 
 - **Attributions consultatives** (fonctions historiques essentielles) :
@@ -42,25 +50,45 @@ Il contient les « *principes gigognes* » (P. Devolvé, B. Seiller), c’est-à
 
 À partir de là, on déduit la valeur constitutionnelle de la DDHC (CE 1950, **Dehaene**), du préambule (CE Ass. 1978, **GISTI**), et de la Charte de l’environnement de 2004 (CE 2008, **Commune d’Annecy**).
 
+
+[[CE 1950, Dehaene]]
+la valeur constitutionnelle de la DDHC
+
+> Article  5 DDHC
+> "*tout ce qui n’est pas défendu par la loi ne peut être empêché*". 
+
+> **Article 7 DDHC**
+> Nul homme ne peut être accusé, arrêté ni détenu que dans les cas déterminés par la loi, et selon les formes qu'elle a prescrites
+
+
+[[CE,  décembre 1978, G.I.S.T.I.]]
+la valeur constitutionnelle du préambule
+
+[[CE, 3 octobre 2008, Commune d’Annecy]] [[CC, 19 juin 2008, OGM]]
+la valeur constitutionnelle de la Charte de l’environnement de 2004 (**).
+
+
+Il contient aussi **les droits et devoirs énoncés par la Charte de l’environnement** :  a affirmé que « *l’ensemble des droits et devoirs définis dans la Charte de l’environnement a valeur constitutionnelle* » (CE Ass. 3 octobre 2008, Commune d’Annecy).
+
 #### Paragraphe 3 : Les normes constitutionnelles de nature jurisprudentielle
 
-##### Les principes fondamentaux reconnus par les lois de la République (PFRLR) :
+##### Les principes fondamentaux reconnus par les lois de la République (PFRLR)
 
-Conditions strictes pour l’admission d’un nouveau PFRLR par le Conseil constitutionnel.
+Conditions strictes pour l’admission d’un nouveau **PFRLR par le Conseil constitutionnel**.
 
 **Conditions :**  
-1. Il faut que le principe fondamental découle d’une loi de la République.  
-2. Il doit s’agir d’une législation républicaine, ce qui écarte la législation intervenue sous d’autres régimes.  
-3. Cette législation républicaine doit être intervenue avant l’entrée en vigueur du préambule de la Constitution de 1946.  
-4. Il ne doit pas y avoir une seule exception à la tradition qui s’est instaurée au fil des diverses lois intervenues, car si une seule loi s’est écartée de cette tradition, celle-ci ne saurait être regardée comme ayant engendré un principe fondamental reconnu par les lois de la République.  
-5. Le principe doit avoir un caractère général et non contingent.
+1. Il faut que le ***principe fondamental découle d’une loi de la République***.  
+2. Il doit s’agir d’une ***législation républicaine***, ce qui *écarte la législation intervenue sous d’autres régimes*.  
+3. Cette ***législation républicaine*** doit être intervenue ***avant l’entrée en vigueur du préambule de la Constitution de 1946***.  
+4. Il ne doit ***pas y avoir une seule exception à la tradition qui s’est instaurée au fil des diverses lois intervenues***, car si une seule loi s’est écartée de cette tradition, celle-ci ne *saurait être regardée comme ayant engendré un principe fondamental* reconnu par les lois de la République.  
+5. Le ***principe doit avoir un caractère général et non contingent***.
 
 **Liste des PFRLR importants** (liberté d’association, de défense, liberté individuelle, etc.), dont :  
 - La compétence exclusive de la juridiction administrative en matière d’annulation des actes de la puissance publique (décision du 23 janvier 1987, **Conseil de la concurrence**).  
 - L’autorité judiciaire est gardienne de la propriété privée immobilière (décision du 25 juillet 1989, **TGV Nord**).  
 - La pérennité des dispositions législatives et réglementaires particulières au département du Bas-Rhin (décision du 5 août 2011, **Société SOMADIA**).
 
-##### Objectifs à valeur constitutionnelle :  
+##### Objectifs à valeur constitutionnelle 
 Le Conseil constitutionnel consacre certains droits fondamentaux (comme les principes généraux du droit pour le Conseil d'État) mais rattache ces principes à des normes écrites.  
 - Préservation de la liberté personnelle (décision de 1988).  
 - Sauvegarde de l’ordre public (décision de 1982).  
@@ -111,22 +139,53 @@ En conséquence, le juge administratif est en principe soumis aux décisions et 
 Le Conseil d’État manifeste ainsi son indépendance, cela n’empêche pas qu'il reprenne à son compte des principes initialement dégagés par le Conseil constitutionnel.
 
 ##### C) La théorie de l'écran législatif
-Une chose est de reconnaître que la Constitution est une source du droit administratif, une autre est de permettre de sanctionner sa violation par le juge administratif. Pour cela, il faut que ce dernier, juge de la légalité des actes administratifs, soit en mesure d’exercer un contrôle de constitutionnalité des actes administratifs, c’est-à-dire qu'il soit un gardien effectif de la Constitution. En principe, parce que la Constitution s’impose aux autorités administratives et aux actes qu’elles édictent, il appartient au juge administratif de veiller à leur conformité à la Constitution.  
-Par exemple, le pouvoir réglementaire ne saurait être appliqué dans des matières que l'article 34 réserve au pouvoir législatif. En ce sens, *arrêt du 21 novembre 2008*, **Union des Chirurgiens de France**. Le pouvoir réglementaire ne saurait pas davantage contrevenir aux dispositions de fond du bloc de constitutionnalité, telles que l'égalité des citoyens à l’emploi. Cela implique que le juge administratif puisse annuler un acte administratif (recours par voie d’action) ou l’écarter (recours par voie d’exception) lorsqu’il est contraire à une disposition constitutionnelle.  
-➜ C’est ce qui s’est passé dans un *arrêt du 21 décembre 1990*, **Amicale des anciens élèves de l’ENS de Saint-Cloud**. Dans les faits, il y a recours en excès de pouvoir contre un décret instituant un concours d’entrée à l’ENA réservé à certains élèves des ENS. Le Conseil d’État estime que la création d’un régime d’accès privilégié n’est pas justifiée par une situation particulière des élèves ni par les besoins du service public et méconnaît l’égal accès des citoyens aux emplois publics (article 6 DDHC). Le décret est annulé.  
+
+Une chose est de reconnaître que la Constitution est une source du droit administratif, une autre est de permettre de sanctionner sa violation par le juge administratif. 
+
+Pour cela, il faut que ce dernier, juge de la légalité des actes administratifs, **soit en mesure d’exercer un contrôle de constitutionnalité des actes administratifs**, c’est-à-dire qu'il soit ***un gardien effectif de la Constitution***. 
+
+En principe, parce que la Constitution s’impose aux autorités administratives et aux actes qu’elles édictent, il appartient au juge administratif de veiller à leur conformité à la Constitution.  
+
+*Par exemple, le pouvoir réglementaire ne saurait être appliqué dans des matières que l'==article 34== réserve au pouvoir législatif.*  En ce sens, ==arrêt du 21 novembre 2008, Union des Chirurgiens de France. ==
+
+[[CE, 1ère et 6ème sous-sections réunies21 novembre 2008, Union des Chirurgiens de France]]
+Le pouvoir réglementaire ne saurait pas davantage contrevenir aux dispositions de fond du bloc de constitutionnalité, telles que l'égalité des citoyens à l’emploi. 
+
+Cela implique que le juge administratif puisse **annuler un acte administratif** (***recours par voie d’action***) ou **l’écarter** (***recours par voie d’exception***) lorsqu’il est contraire à une disposition constitutionnelle. C’est ce qui s’est passé dans un *arrêt du 21 décembre 1990*, **Amicale des anciens élèves de l’ENS de Saint-Cloud**. 
+
+[[21 décembre 1990, Amicale des anciens élèves de l’ENS de Saint-Cloud]]
+Dans les faits, il y a recours en excès de pouvoir contre un décret instituant un concours d’entrée à l’ENA réservé à certains élèves des ENS. 
+
+Le Conseil d’État estime que la création d’un régime d’accès privilégié n’est ***pas justifiée par une situation particulière des élèves*** ni ***par les besoins du service public*** et ***méconnaît l’égal accès des citoyens aux emplois publics*** (==article 6 DDHC==). Le décret est annulé.  
+
 Cette sanction d’un décret non conforme au bloc de constitutionnalité n’est possible qu’en l’absence de loi faisant écran entre la Constitution et l’acte administratif. C’est le cas lorsqu’on utilisera le pouvoir réglementaire autonome.  
 
 **Champ d’application :**  
-- Article 21 de la Constitution, article 34 : pouvoir réglementaire d’application.  
-- Article 37 de la Constitution : pouvoir réglementaire autonome.  
-- Article 38 de la Constitution : délégation de pouvoir législatif.
+- ==Article 21 de la Constitution, article 34== : *pouvoir réglementaire d’application.*  
+- ==Article 37 de la Constitution ==: *pouvoir réglementaire autonome.*  
+- ==Article 38 de la Constitution== : *délégation de pouvoir législatif*.
 
-En pratique, il est fréquent que l’acte administratif ait été édicté conformément à une loi (pouvoir réglementaire d’application de la loi). Il se peut que l’acte administratif soit en contradiction avec la Constitution, mais conforme à la loi qui lui sert de fondement : c’est alors cette loi qui est elle-même contraire à la Constitution. Le juge administratif ne devrait pas tenir compte de la loi et sanctionner directement l’acte administratif contraire à la Constitution.  
-Sauf que, dans ce cas, statuer sur la constitutionnalité de l’acte administratif revient à statuer sur la conformité de la loi à la Constitution. Cela conduirait le juge administratif, par voie d’exception, à exercer un contrôle de constitutionnalité de la loi et, par la suite, à s’immiscer dans le rôle du juge constitutionnel, ce qui est contraire à la tradition française dans laquelle le juge administratif est seulement gardien du respect de la loi (et non de sa constitutionnalité). Cela serait également contraire à l’article 61 de la Constitution, qui confère au Conseil constitutionnel une compétence exclusive en matière de contrôle de constitutionnalité.  
+En pratique, il est **fréquent que l’acte administratif ait été édicté conformément à une loi** (***pouvoir réglementaire d’application de la loi***). 
+- Il se peut que l’acte administratif soit en ***contradiction avec la Constitution, mais conforme à la loi qui lui sert de fondement*** : c’est alors cette loi qui est elle-même contraire à la Constitution. 
+- Le juge administratif ne devrait pas tenir compte de la loi et sanctionner directement l’acte administratif contraire à la Constitution.  
+
+Sauf que, dans ce cas, statuer sur la constitutionnalité de l’acte administratif revient à statuer sur la conformité de la loi à la Constitution. Cela conduirait le juge administratif, par voie d’exception, à exercer un contrôle de constitutionnalité de la loi et, par la suite, à s’immiscer dans le rôle du juge constitutionnel, ce qui est contraire à la tradition française dans laquelle le juge administratif est seulement gardien du respect de la loi (et non de sa constitutionnalité). Cela serait également contraire à l’==article 61 de la Constitution==, qui confère au Conseil constitutionnel une compétence exclusive en matière de contrôle de constitutionnalité.  
+
+Dans cette hypothèse, c’est la **théorie de l’écran législatif**. Le juge va dire que le moyen est inopérant, soit inutile.  
+- L’arrêt de **principe qui consacre cette théorie** est un ==arrêt de Section de 1936, Arrighi==. 
+- C’est un principe toujours d’actualité, comme le montre l’==arrêt de 2005, Depiez et Baillard.==
+- Le Conseil d’État rappelle que la compétence du Conseil constitutionnel exclut celle du juge ordinaire pour exercer un contrôle de constitutionnalité des lois. 
+- Cette conception monopolistique de la répartition des compétences persiste, même récemment, comme en témoigne un *arrêt de Section du 31 octobre 2008*, **Section française de l’observatoire international des prisons** (association avec beaucoup d’arrêts). On sait qu’a priori le contrôle de constitutionnalité des lois est insuffisant pour garantir la conformité de toutes les lois. La situation peut conduire à l’inaffectivité de certains droits constitutionnels, ce qui explique que progressivement la théorie de la loi ait été remise en cause. L’écran législatif n’a pas totalement disparu, bien qu’il soit réduit.
+
+[[CE Sect, 6 nov 1936, Arrighi]]
 Dans cette hypothèse, c’est la théorie de l’écran législatif. Le juge va dire que le moyen est inopérant, soit inutile.  
-➜ L’arrêt de principe qui consacre cette théorie est un ⚠ *arrêt de Section de 1936*, **Arrighi**. C’est un principe toujours d’actualité, comme le montre l’*arrêt de 2005*, **Depiez et Baillard**. Le Conseil d’État rappelle que la compétence du Conseil constitutionnel exclut celle du juge ordinaire pour exercer un contrôle de constitutionnalité des lois. Cette conception monopolistique de la répartition des compétences persiste, même récemment, comme en témoigne un *arrêt de Section du 31 octobre 2008*, **Section française de l’observatoire international des prisons** (association avec beaucoup d’arrêts). On sait qu’a priori le contrôle de constitutionnalité des lois est insuffisant pour garantir la conformité de toutes les lois. La situation peut conduire à l’inaffectivité de certains droits constitutionnels, ce qui explique que progressivement la théorie de la loi ait été remise en cause. L’écran législatif n’a pas totalement disparu, bien qu’il soit réduit.
 
+>[!Définition]
+>2 types d'actes réglementaires :
+>- **L’acte réglementaire autonome**, qui n’a aucun fondement législatif.
+>- **L’acte réglementaire d’application d’une disposition législative**. Dans ce cas, les règlements sont pris en application d’une loi et sont donc soumis à un contrôle de constitutionnalité de la part du Conseil Constitutionnel.
 
+arrêt de 2005, Depiez et Baillard
 
 ###### 1) Les limites de l’écran législative
 **Hypothèses :**
@@ -134,19 +193,19 @@ L’écran législatif n'existe pas. Par exemple, si l’on attaque un règlemen
 
 Chaque fois que la loi donne une marge d’appréciation au pouvoir réglementaire, le juge administratif considère que l’écran est transparent.
 
-**2) Les moyens de contourner l’écran**
+###### 2) Les moyens de contourner l’écran
 
 **Moyens :**
 
 1. Interpréter la loi de telle sorte qu’elle n’apparaisse pas en contradiction avec la Constitution, en tenant compte des réserves d’interprétation formulées par le Conseil constitutionnel.
-2. Deuxième moyen : le juge considère qu’il n’y a pas d’écran lorsque la loi en cause est antérieure à la norme constitutionnelle invoquée. Le juge administratif considère que la loi a été implicitement abrogée par l’adoption de textes constitutionnels postérieurs, raisonnant en termes de conflit de la loi dans le temps. La révision constitutionnelle postérieure abroge implicitement la loi. Le Conseil constitutionnel a appliqué cette théorie dans une première affaire de 1982, **Butin Ah Won**, où il y avait conflit entre une disposition réglementaire et une révision constitutionnelle postérieure. Cela a été étendu par l’arrêt CE Ass. 16 décembre 2005, **Syndicat national des huissiers de justice**, et a été étendu en cas d'incompatibilité entre une disposition législative et une disposition constitutionnelle postérieure.
+2. Le juge considère qu’il n’y a pas d’écran lorsque la loi en cause est antérieure à la norme constitutionnelle invoquée. Le juge administratif considère que la loi a été implicitement abrogée par l’adoption de textes constitutionnels postérieurs, raisonnant en termes de conflit de la loi dans le temps. La révision constitutionnelle postérieure abroge implicitement la loi. Le Conseil constitutionnel a appliqué cette théorie dans une première affaire de 1982, **Butin Ah Won**, où il y avait conflit entre une disposition réglementaire et une révision constitutionnelle postérieure. Cela a été étendu par l’arrêt CE Ass. 16 décembre 2005, **Syndicat national des huissiers de justice**, et a été étendu en cas d'incompatibilité entre une disposition législative et une disposition constitutionnelle postérieure.
 
-**3) La remise en cause de l’écran**
+###### 3) La remise en cause de l’écran
 
 - L’écran législatif a d’abord cédé en droit international à connaître : arrêt assemblée 20 octobre 1989 **Nicolo**. Le Conseil d’État renverse la jurisprudence et refuse de contrôler la conformité d’actes administratifs à des traités internationaux dès lors que ceux-ci pouvaient s’appuyer sur une loi. Les lois postérieures doivent être conformes au traité de Rome.
 - QPC : Abrogation d’une loi ou d’une disposition législative si elle porte atteinte aux droits et libertés garantis par la Constitution.
 
-**4) La surveillance de la loi écran**
+###### 4) La surveillance de la loi écran
 
 L’ordonnance du 28 juillet 2016 relative à M. Abdeslam. Saisi dans le cadre d’un référé liberté par Salah Abdeslam, concernant une décision administrative de placement permanent sous vidéo-surveillance, le requérant considérait que cette décision, prise sur le fondement d’un arrêté du 9 juin 2016, violait la répartition des compétences (articles 34 et 37).
 
@@ -198,7 +257,7 @@ Ce droit à un recours effectif a conduit à la suppression de la fonction de co
 - Ils ne bénéficient pas de l’autorité de l’article 55 de la Constitution. Cette réponse a été donnée par le Conseil d’État dans l’arrêt CE 28 juillet 2000, _Paulin_.
   
 
-SECTION 3 : LES SOURCES LÉGISLATIVES : UNE SOURCE EN DÉCLIN
+### Section 3 : LES SOURCES LÉGISLATIVES : UNE SOURCE EN DÉCLIN
 La loi est en déclin. Pourquoi ? C’est une source du droit administratif aussi ancienne que la Constitution. Contrairement à cette dernière, la loi est une source en déclin pour plusieurs raisons.
 
 **La fin du légicentrisme** : (Se renforcent l’autorité de la Constitution et des traités internationaux.) Avant, les lois étaient des normes initiales, mais elles sont devenues des normes subordonnées, car elles mettent en œuvre des dispositions hiérarchiquement supérieures. La Constitution est devenue plus importante sous la Ve République en raison du contrôle de constitutionnalité, et de la Question Prioritaire de Constitutionnalité (QPC) (entrée en vigueur en 2010).

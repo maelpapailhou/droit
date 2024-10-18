@@ -5,7 +5,7 @@ En l'espèce, la société Manoukian avait ouvert des négociations avec les con
 
 Cette solution a été réitérée par la troisième chambre civile qui a jugé que « une faute commise dans l'exercice du droit de rupture unilatérale des pourparlers précontractuels n'est pas la cause du préjudice consistant dans la perte d'une chance de réaliser les gains que permettait d'espérer la conclusion du contrat » (Cass. civ. 3ème, 28 juin 2006)
 
-[[Un grand arrêt relatif aux pourparlers]]
+[[Un grand arrêt relatif aux pourparlers — Mestre & Fages]]
 
 ---
 

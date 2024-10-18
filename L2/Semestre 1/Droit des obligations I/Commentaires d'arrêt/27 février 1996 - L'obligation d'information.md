@@ -1,5 +1,17 @@
 https://www.doc-du-juriste.com/droit-prive-et-contrat/droit-des-obligations/commentaire-d-arret/cour-cassation-chambre-commerciale-27-fevrier-1996-obligation-information-458495.html?utm_source=search&utm_medium=internal
 
+La Cour de cassation rejette le pourvoi du président en considérant que celui-ci, en cachant des informations cruciales sur les négociations de revente, a manqué à son devoir de loyauté en tant que dirigeant de société. En effet, en tant que dirigeant, il devait loyauté et transparence aux actionnaires, notamment dans le cadre de la cession d'actions. La Cour a confirmé qu'une telle dissimulation intentionnelle constitue une réticence dolosive, un manquement à l'obligation d'information.
+
+### Importance de la décision :
+
+Cet arrêt est clé car il pose une distinction : contrairement à l'acquéreur ordinaire, le dirigeant d'une société, en raison de son rôle, est tenu à un devoir de loyauté renforcé envers les associés. Cela l'oblige à une transparence accrue lors de la conclusion de transactions affectant les actions de la société. La Cour précise ainsi qu'il existe une obligation d'information à la charge du dirigeant dans ce type de situation.
+
+Cette décision est souvent mise en parallèle avec l'arrêt **Baldus** (Cass. Civ. 1ère, 3 mai 2000), où la Cour a, cette fois-ci, jugé qu'un acquéreur ordinaire n'était pas tenu à une obligation d'information envers le vendeur concernant la valeur exacte de l'objet vendu (ici des photographies). Cette différence de traitement entre les deux arrêts souligne que l'obligation d'information dépend fortement de la qualité des parties, en particulier du rôle joué par l'acquéreur dans la relation contractuelle.
+
+- "La phrase laconique 'En contrat, trompe qui peut' peut être rapprochée du dol qui consiste en des manœuvres pratiquées par l'une des parties... Toutefois, elle peut également correspondre au manquement à l'obligation d'information."
+- "Cette obligation pèse, en général, sur le vendeur mais il semblerait que dans certains cas, elle puisse peser sur l'acheteur, comme nous le montre cet arrêt dénommé Vilgrain
+
+
 ---
 
 Denis Mazeaud a déclaré : « En contrat, trompe qui peut ».

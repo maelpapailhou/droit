@@ -201,16 +201,14 @@ Là encore, il est étonnant de voir les motifs déterminants exclus de l'erreur
 Le principe cède cependant lorsque les motifs sont entrés dans le champ contractuel. On recourt alors souvent aux documents publicitaires pour savoir ce qu'il en était. Ont-ils ou non une valeur contractuelle ? Tout est affaire de cas d'espèce.
 
 [[Cass. com. 14 novembre 2019]]
-Les publicités du promoteur immobilier peuvent ainsi avoir pour effet d'intégrer dans le champ contractuel le but de défiscalisation (sur la valeur contractuelle que peuvent avoir les documents publicitaires s'ils sont précis et détaillés)
-
-%% VOIR NOTES DOCTRINES%%
+Les publicités du promoteur immobilier peuvent ainsi avoir pour **effet d'intégrer dans le champ contractuel le but de défiscalisation** (sur la valeur contractuelle que peuvent avoir les documents publicitaires s'ils sont précis et détaillés)
 
 ###### *2.a.ii) Les erreurs admises*
 
 Ces erreurs, si démontrées, **peuvent permettre l’annulation du contrat**.
 
 > **Article 1132 civil** 
-> L'***erreur de droit ou de fait***, à moins qu'elle ne soit inexcusable, est ***une cause de nullité du contrat*** lorsqu'elle porte sur les qualités essentielles de la prestation due ou sur celles du cocontractant.
+> L'***erreur de droit ou de fait***, à moins qu'elle ne soit inexcusable, est ***une cause de nullité du contrat*** lorsqu'elle porte sur les qualités essentielles de la prestation due ou sur celles du cocontractant.e
 
 Le texte invite à faire trois précisions :
 
@@ -230,7 +228,7 @@ L'erreur peut-être de fait ou de droit.
 [[Cass. civ. 1ère, 27 juin 2006, Restriction de l'erreur de droit (interprétation par la jurisprudence)]]
 Dans une décision, la Cour a jugé que « *ne peut être invoquée comme cause d'une erreur de droit susceptible de justifier la nullité d'un contrat une décision judiciaire rendue entre d'autres parties* ». 
 
-On peut donc en déduire que l'erreur sur l'interprétation d'une loi révélée par la jurisprudence (revirement, interprétation créatrice...) ne peut vicier le consentement au contrat conclu préalablement. C'est une **sévère restriction du domaine de l'erreur de droit**.
+On peut donc en déduire que l'erreur sur l'**interprétation d'une loi révélée par la jurisprudence** (revirement, interprétation créatrice...) **ne peut vicier le consentement** au contrat conclu préalablement. C'est une **sévère restriction du domaine de l'erreur de droit**.
 
 **Résumé :**
 L'article 1132 du Code civil précise que l'erreur de droit ou de fait peut être une cause de nullité d'un contrat, **sous certaines conditions**. L'erreur doit porter sur les **qualités essentielles** de la prestation due ou sur celles du cocontractant, et elle doit être **excusable** pour pouvoir justifier la nullité.
@@ -240,8 +238,6 @@ Cependant, dans l'arrêt de la Cour de cassation du 27 juin 2006, il est établi
 En d'autres termes, la décision de la Cour de cassation peut sembler en contradiction avec l'article 1132, car elle limite l'application de l'erreur de droit en la déclarant inexcusable dans certains cas. Cela souligne un point important : bien que **le Code civil admette l'erreur de droit comme un motif de nullité**, la ***jurisprudence a établi des règles plus strictes concernant son application***, notamment en ce qui concerne les décisions judiciaires qui interprètent la loi.
 
 Ainsi, la compatibilité entre l'article 1132 et la jurisprudence repose sur l'interprétation de ce qu'est une erreur de droit. La jurisprudence précise que certaines erreurs de droit ne peuvent pas être considérées comme excuse valide pour justifier la nullité du contrat, même si, théoriquement, l'article 1132 permet d'invoquer l'erreur de droit.
-
-%% REVOIR ERREUR DE DROIT %%
 
 **Les caractères des erreurs :**
 - **Excusable :** cette erreur a pu être commise par n’**importe quel contractant qui aurait été placé dans la même situation.** Si l’erreur est inexcusable, c’est-à-dire qu’elle n’aurait pas été commise par une personne normale dans la même situation, le contrat sera néanmoins maintenu. 
@@ -262,7 +258,6 @@ Art : confondu avec "Attribution" - pas d'annulation. Un acheteur amateur d'art 
 		- *Authenticité d’une œuvre d’art : tableau copié d’un auteur.*
 		- *Constructibilité d’un terrain : terrain acheté car on croyait qu’il était constructible alors que non.*
 
-%% VOIRE NOTES %%
 [[Cass. civ. 1ère, 22 février 1978, Poussin - oeuvre d'art]]
 *Une affaire célèbre défraya les chroniques (un auteur a écrit que ce tableau avait coulé plus d'encre que de peinture) : les époux Saint-Arroman décident de vendre un tableau appartenant depuis longtemps à leur famille. Un expert l'attribue à l'Ecole des Carrache et en fixe la valeur à 1500 F. Il est vendu 2200 F. Les Musées nationaux préemptent. On s'aperçoit qu'il s'agit d'un Poussin. Les vendeurs poursuivent donc l'annulation de la vente pour erreur sur la substance.* 
 
@@ -928,8 +923,6 @@ C'est là une différence puisque, ==avant l'ordonnance==, ***la jurisprudence a
 La Cour juge : *« Selon l'==article 1165 du code civil==, dans les contrats de prestation de service, à défaut d'accord des parties avant leur exécution, le prix peut être fixé par le créancier, à charge pour lui d'en motiver le montant en cas de contestation. Selon l'article 151, alinéa 1, du décret n° 2012-432 du 30 mars 2012 relatif à l'exercice de l'activité d'expertise comptable, l'expert-comptable passe avec son client un contrat écrit définissant sa mission et précisant les droits et obligations de chacune des parties. Il en résulte que les dispositions de l'article 1165 du code civil ne sont, conformément à l'article 1105, alinéa 3, du même code, pas applicables à une prestation de services fournie par un expert-comptable. ».*
   
 Les juges du fond auront donc à fixer le prix en contemplation des diligences effectivement réalisées par l’expert-comptable : on fera donc comme avant ! Il convient de noter que l’Avant-Projet de réforme des contrats spéciaux rédigé sous la direction de **Philippe Stoffel-Munck propose l’abrogation** de l’==article 1165==.
-
-%% CREUSER%%
 
 ##### 3) L'équilibre du contenu contractuel
 

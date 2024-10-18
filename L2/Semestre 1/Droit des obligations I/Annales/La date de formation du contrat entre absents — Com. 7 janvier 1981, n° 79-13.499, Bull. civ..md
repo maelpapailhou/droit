@@ -1,13 +1,26 @@
 Une société offre à une autre de lui livrer du carburant durant trois années. L'offre prévoit sa caducité automatique à l'expiration d'un délai de trente jours à compter de la signature par le client. Le destinataire de l'offre accepte celle-ci dans le délai imparti. L'offrant est condamné à verser des dommages et intérêts à son cocontractant du fait de la résiliation du contrat prononcée aux torts de celui-là.  
-L'offrant se pourvoit en cassation en soutenant que la convention n'avait pas pu se conclure faute d'avoir reçu l'acceptation du destinataire de l'offre dans le délai imparti. La chambre commerciale quant à elle retient que l'acceptation résultait de l'émission de celle-ci par son destinataire et non de sa réception par le pollicitant. Ce faisant, la Cour de cassation pose une règle supplétive de la volonté des parties (I) qui est aujourd'hui remise en cause par l'ordonnance n° 2016-131 du 10 février 2016 portant réforme du droit des contrats, du régime général et de la preuve des obligations (II).
 
-### I/ La théorie de l'émission retenue à titre supplétif
+L'offrant se pourvoit en cassation en soutenant que la convention n'avait pas pu se conclure faute d'avoir reçu l'acceptation du destinataire de l'offre dans le délai imparti. La chambre commerciale quant à elle retient que l'acceptation résultait de l'émission de celle-ci par son destinataire et non de sa réception par le pollicitant.
 
-Déterminer à quel moment se forme un contrat conclu entre absents constitue une question qui a longtemps donné lieu à des débats tant doctrinaux que jurisprudentiels auxquels l'arrêt sous analyse apportait une réponse.
+Ce faisant, la Cour de cassation pose une règle supplétive de la volonté des parties (I) qui est aujourd'hui remise en cause par l'ordonnance n° 2016-131 du 10 février 2016 portant réforme du droit des contrats, du régime général et de la preuve des obligations (II).
 
-#### A - Émission ou réception: un débat classique
+### I) La théorie de l'émission retenue à titre supplétif
 
-Le moment de la formation du contrat entre absents, c'est-à-dire entre parties contractantes qui ne sont pas physiquement présentes lors de sa conclusion, constitue une question fort classique. Les intérêts pratiques de la détermination du moment de formation du contrat restent limités (L. Grynbaum, « Contrats entre absents : les charmes évanescents de la théorie de l'émission et de l'acceptation », D. 2003. 1706). Ce moment détermine, comme en l'espèce, celui où les parties, tenues par la force obligatoire de la convention, ne peuvent plus se rétracter. Le décès ou l'incapacité de l'un des cocontractants présente également une incidence. La loi applicable au contrat peut changer : à compter de sa formation, c'est la loi applicable à ce moment précis qui régira la convention. La date de formation du contrat marque en principe le point de départ de ses effets. Enfin, en matière de vente, la perfection du contrat entraîne de plein droit à sa date transfert de la propriété et des risques. En l'espèce, la question portait sur le point de savoir si le contrat était formé lors de l'émission de son acceptation par le destinataire de l'offre ou par sa réception par l'offrant.
+Déterminer à quel moment se forme un contrat conclu entre absents constitue une question qui a longtemps **donné lieu à des débats tant doctrinaux que jurisprudentiels** auxquels l'arrêt **sous analyse apportait une réponse**.
+
+#### A) Émission ou réception: un débat classique
+
+Le moment de la formation du contrat entre absents, c'est-à-dire entre parties contractantes qui ne sont pas physiquement présentes lors de sa conclusion, constitue une question fort classique. 
+
+Les intérêts pratiques de la détermination du moment de formation du contrat restent limités (L. Grynbaum, « Contrats entre absents : les charmes évanescents de la théorie de l'émission et de l'acceptation », D. 2003. 1706). 
+
+**Ce moment détermine**, comme en l'espèce, celui où les parties, **tenues par la force obligatoire de la convention, ne peuvent plus se rétracter**. 
+
+- Le décès ou l'incapacité de l'un des cocontractants présente également une incidence. 
+- La loi applicable au contrat peut changer : à compter de sa formation, **c'est la loi applicable à ce moment précis qui régira la convention**. La date de formation du contrat marque en principe le point de départ de ses effets. 
+- Enfin, en matière de vente, **la perfection du contrat entraîne de plein droit à sa date transfert de la propriété et des risques**. 
+
+En l'espèce, la question portait sur le point de savoir si le contrat était formé lors de l'émission de son acceptation par le destinataire de l'offre ou par sa réception par l'offrant.
 
 Le pollicitant soutenait dans son pourvoi que le contrat n'avait pu se conclure faute de réception de l'acceptation dans le délai fixé par la convention. La cour d'appel quant à elle avait retenu que la formation du contrat résultait de l'émission de l'acceptation, c'est-à-dire à compter du moment où le destinataire de l'offre l'avait confiée aux soins des services postaux.
 

@@ -13,7 +13,11 @@ Par un arrêt de cassation partielle, la Cour de cassation rejette le premier mo
 Afin de commenter cette solution à l'aune de la réforme du droit des obligations réalisée par l'ordonnance du 10 février 2016, il convient dans un premier temps d'étudier l'exclusion jurisprudentielle de l'erreur sur la rentabilité économique (I), avant de présenter l'exclusion légale de l'erreur sur la valeur (II).
 
 #### I) L'exclusion jurisprudentielle de l'erreur sur la rentabilité économique
-En matière d'erreur sur la substance, l'évolution jurisprudentielle montre que cette notion a été progressivement élargie à l'erreur sur les qualités substantielles de la chose ou de la prestation objet du contrat. Alors que l'ancien article 1110 du Code civil en retenait une conception exclusivement matérielle (l'erreur sur la matière même de la chose), la jurisprudence a dématérialisé l'erreur sur la sub-stance, pour prendre en compte l'erreur commise sur une qualité substantielle et déterminante du consentement d'une partie, portant sur les qualités essentielles. Cette évolution était très nette dans le domaine des ventes d'œuvres d'art, où la jurisprudence a accueilli l'erreur sur l'authenticité d'une œuvre (en particulier dans la célèbre affaire du Poussin : Civ. 1re, 13 déc. 1983).
+En matière d'erreur sur la substance, l'évolution jurisprudentielle montre que cette notion a été progressivement élargie à l'erreur sur les qualités substantielles de la chose ou de la prestation objet du contrat. 
+
+Alors que l'ancien article 1110 du Code civil en retenait une conception exclusivement matérielle (l'erreur sur la matière même de la chose), la jurisprudence a dématérialisé l'erreur sur la sub-stance, pour prendre en compte l'erreur commise sur une qualité substantielle et déterminante du consentement d'une partie, portant sur les qualités essentielles. 
+
+Cette évolution était très nette dans le domaine des ventes d'œuvres d'art, où la jurisprudence a accueilli l'erreur sur l'authenticité d'une œuvre (en particulier dans la célèbre affaire du Poussin : Civ. 1re, 13 déc. 1983).
 
 En l'espèce, l'erreur sur la substance avancée par l'auteur du pourvoi porte sur la rentabilité économique de l'opération réalisée par le contrat. Mais la Cour de cassation n'adhère pas à cette analyse (A), ce qui a pour conséquence d'exclure la nullité du contrat litigieux (B).
 

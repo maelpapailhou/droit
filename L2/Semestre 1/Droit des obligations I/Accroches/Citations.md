@@ -53,3 +53,14 @@ Dans le cadre du droit des contrats, cette citation suggère une opposition entr
     
 
 La citation de Yourcenar, appliquée au droit des contrats, exprime donc l'idée que la liberté individuelle (la « morale privée ») est limitée par les normes collectives (la « décence publique »), incarnées en droit par des principes comme l'ordre public et les bonnes mœurs, qui garantissent que les contrats ne contreviennent pas aux valeurs fondamentales de la société
+
+Juste prix : 
+> Fouillé (juriste)
+> Fouillée « qui dit contractuel dit juste ».
+
+
+Selon POTHIER, la fixation unilatérale du prix est prohibée. Elle doit donc se faire par le biais du consensualisme, autrement dit les deux parties déterminent et désignent le prix au sein d'un contrat de vente. C'est le régime général qui est disposé par l'article 1591 du Code civil. **« Nuancez quelque part avec les articles 1164 et 1165 du Code civil. »**
+
+_Qui ne dit_ _mot_ **_(« rien »)_** _consent._ » ette maxime latine très célèbre, que l’on doit au Pape Boniface VIII, n’est pourtant pas vraie en matière civile. En effet, le principe est tout autre, aux termes précipités **« ? »** par l’article 1120 du Code civil, il résulte que le silence ne vaut pas acceptation **(« du moins, le silence seul. »)**. Cependant, un principe emporte souvent ses exceptions. Dans l’arrêt soumis à l’étude, la Cour de cassation traduit le silence par une acceptation, après examen des circonstances.
+
+

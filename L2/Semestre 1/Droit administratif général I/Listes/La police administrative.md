@@ -51,7 +51,7 @@ Dans le premier arrêt, un policier est en faction devant un café tandis qu'un 
 
 À l'inverse, pour l'opération de la "route bleue" avec les gendarmes effectuant des contrôles routiers, il s'agissait de la police administrative. Le but de l'opération était de faire de la prévention. Si un dommage est causé au cours de cette opération, ce sera le juge administratif qui sera compétent. Ce critère n'est cependant pas toujours évident à manipuler, car il est de nature psychologique.
 
-[[TC, 7 juin 1956, Dame Noualek]]
+[[TC, 7 juin 1951, Dame Noualek]]
 
 [[TC, 26 mars 1990, Devossel]]
 Cependant, cela reste une opération de police administrative lorsqu'un gardien de la paix effectue une simple ronde de surveillance, même s'il tire un coup de feu à l'occasion de cette ronde, car aucun élément ne permettait de penser que ce gardien participait à une opération de police judiciaire (**TC, 26 mars 1990, Devossel**).
