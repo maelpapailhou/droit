@@ -83,8 +83,6 @@ Après la **Seconde Guerre mondiale**, on assiste à une **extension du champ de
 [[TC, 22 janvier 1955, Naliato]]
 Inaugure une catégorie très éphémère : **les services publics sociaux** (éteint en 1983). La IVe République, dans son préambule, consacre de nouveaux droits (économiques et sociaux), tels que le droit de grève, la santé, le logement, l'emploi, et le droit aux loisirs. Ainsi, **les activités de vacances deviennent un service public**. 
 
-%% CREUSER 1983%%
-
 
 Le [[TC, 20 novembre 1961, Eugène Marquis]] admet également que **la création d'un terrain de camping municipal est un service public**. 
 
@@ -100,12 +98,12 @@ Pour qu'il y ait service public, il faut **nécessairement que la personne publi
 ###### 1) Une dépendance nécessaire
 
 [[CE Ass, 20 décembre 1935, Établissements Vézia]]
-Le **rattachement d'une activité d'intérêt général à une personne publique est nécessaire pour qu'il y ait service public**. Ce rattachement se manifeste au niveau de la création, de l'organisation ou de la suppression.
+Le **==rattachement d'une activité d'intérêt général à une personne publique== est nécessaire pour qu'il y ait service public**. Ce rattachement se manifeste au niveau de la création, de l'organisation ou de la suppression.
 
 L'*État, les collectivités territoriales et les établissements publics* **peuvent créer un service public**. La seule restriction pour les établissements publics est qu'ils ont un objet social défini et doivent le respecter. Ce rattachement peut se manifester ***soit dans une loi, soit dans un décret du président ou du premier ministre, ou encore dans une délibération des organes délibérants***. On peut également trouver trace du rattachement dans le contrat qui confie l'activité à un tiers. 
 
 [[CE, 1956, Époux Bertin]]
-L'arrêt **CE, 1956, Époux Bertin** marque la renaissance du critère du service public, car dans cet arrêt, c'est le fait qu'il y ait **une participation directe à l'exécution même du service public qui permet de qualifier un contrat administratif.**
+L'arrêt **CE, 1956, Époux Bertin** marque la **renaissance du critère du service public**, car dans cet arrêt, c'est le fait qu'il y ait ***une participation directe à l'exécution même du service public qui permet de qualifier un contrat administratif*.**
 
 L'idée est qu'au minimum, il faut une intervention créatrice de la personne publique.
 
@@ -164,7 +162,7 @@ Lorsque la gestion est réalisée par une personne privée, on distingue deux sc
 Lorsque le principe est une **activité de marché**, c'est-à-dire lorsque le tiers opère sur un marché, la délégation doit être contractuelle. Quand la délégation est contractuelle, on peut avoir plusieurs types de contrats.
 
 **1er contrat : La concession de service public**
-Elle figure à l'article L121-1 du Code de la commande publique. "Les concessions sont des contrats par lesquels... est transféré un risque d'exploitation de l'ouvrage ou du service". Le concessionnaire prend un risque économique. Par exemple, le parking du CHU est une concession.
+Elle figure à l'article ==L121-1 du Code de la commande publique==. "Les concessions sont des contrats par lesquels... est transféré un risque d'exploitation de l'ouvrage ou du service". Le concessionnaire prend un risque économique. Par exemple, le parking du CHU est une concession.
 
 Au niveau local, **la concession de service public** peut prendre la forme d'une **délégation de service public**. Trois **éléments cumulatifs** permettent d'identifier une **délégation de service public** :
 1. L'instrument juridique : il faut une convention,
@@ -187,7 +185,11 @@ Dans le marché, la différence se situe au niveau de l'origine des ressources.
 ###### 3) Le marché de partenariat qui figure à l'article L1112-1 CCP.
 Les exceptions : on peut procéder à une délégation unilatérale, donc sans contrat, lorsque l'opérateur n'est pas sur un marché concurrentiel. 
 
-[[CE, Section, 6 avril 2007, Commune d'Aix-en-Provence]] : une association organise un festival d'art lyrique. Pour identifier une délégation unilatérale, le juge administratif va prendre en considération la composition de l'organisme, le mode de désignation des dirigeants, s'il y a un pouvoir sur les actes, des aides financières, et si l'organisme a reçu des prérogatives de puissance publique. L'habilitation peut être prévue par la loi, qui confie de façon unilatérale certains services publics à certaines sociétés, par exemple à la télévision. Il n'y a donc pas de contrat mais une dévolution unilatérale.
+[[CE, Section, 6 avril 2007, Commune d'Aix-en-Provence]] : une association organise un festival d'art lyrique. 
+
+Pour **identifier une délégation unilatérale**, le juge administratif va prendre en ***considération la composition de l'organisme, le mode de désignation des dirigeants, s'il y a un pouvoir sur les actes, des aides financières, et si l'organisme a reçu des prérogatives de puissance publique***. 
+
+L'**habilitation peut être prévue par la loi**, qui confie de façon unilatérale certains services publics à certaines sociétés, par exemple à la télévision. Il n'y a donc pas de contrat mais une dévolution unilatérale.
 
 [[Droit/L2/Semestre 1/Droit administratif général I/Arrêts/Le service public/CE, sect., 28 juin 1963, Narcy]]
 Cette dévolution peut être prévue par un acte unilatéral d'une collectivité publique, comme Aix-en-Provence. L'habilitation peut également être implicite, comme dans l'**arrêt du 28 juin 1963, Narcy**.
@@ -212,16 +214,14 @@ L'exigence de ce critère est posée depuis très longtemps en doctrine, notamme
 L'importance du critère dépend du fait que la gestion est assurée par une personne publique ou privée.
 
 ###### 1) Critère peu important lorsque le service public est dirigé par une personne publique
-Lorsque l'activité est gérée directement par une personne publique, le service public est soumis à un régime spécifique qui accorde une place plus ou moins grande au droit administratif (ex. : l'université où l'État exerce en régie l'enseignement supérieur).
+Lorsque l'**activité est gérée directement par une personne publique**, le service public est ***soumis à un régime spécifique*** qui accorde une place plus ou moins grande au droit administratif (*ex. : l'université où l'État exerce en régie l'enseignement supérieur*).
 
 La place accordée au droit administratif dépendra du caractère administratif ou industriel et commercial du service.
 
 ###### 2) Critère déterminant en cas de gestion du service public par une personne privée ?
-
 Le juge va rencontrer un problème lorsque l'acte créateur ne mentionne pas l'intérêt de l'activité confiée à la personne privée.
 
-Le juge va alors examiner certains critères pour déterminer si c'est un service public ou non :
-
+Le **juge va alors examiner certains critères** pour **déterminer si c'est un service public** ou non :
 1. Activité d'intérêt général.
 2. La personne publique exerce-t-elle un contrôle ?
 3. La personne privée est-elle dotée de prérogatives de puissance publique ?
@@ -246,10 +246,12 @@ La décision qui fonde les SPIC (Services Publics Industriels et Commerciaux) et
 Deux remarques liminaires :
 
 [[TC, 22 janvier 1955, Naliato]]
-1. À un moment donné, il existait une troisième catégorie très éphémère : les services publics sociaux, entre 1955 et 1983, avec l'arrêt **TC, 22 janvier 1955, Naliato**, relatif à un service public social (une colonie de vacances). En 1983, une autre décision a éteint cette catégorie.
+1. À un moment donné, il existait une troisième **catégorie très éphémère** : **les services publics sociaux**, entre 1955 et 1983, relatif à un service public social (une colonie de vacances). En 1983, une autre décision a éteint cette catégorie.
 
 [[CE, Denoyez et Chorques]]
-2. La nature juridique d'un service public n'est pas immuable. Par exemple, dans l'affaire du bac d'Eloka, le transport maritime de personnes a été qualifié de SPIC. Pourtant, en 1974, l'arrêt **CE, Denoyez et Chorques** concernant le transport maritime entre la Charente-Maritime et l'île de Ré a qualifié cette activité de SPA. Autre exemple : le service des postes et télécommunications. [[TC, Ursot, 1986]] Lorsque ce service bénéficiait encore d’un monopole, l’arrêt **TC, Ursot, 1986** l'a qualifié de SPA. Ensuite, le législateur a scindé le service en deux entités : La Poste et France Télécom.
+2. La **nature juridique d'un service public n'est pas immuable**. 
+	1. Par exemple, dans l'affaire du bac d'Eloka, le transport maritime de personnes a été qualifié de SPIC. Pourtant, en 1974, l'arrêt **CE, Denoyez et Chorques** concernant le transport maritime entre la Charente-Maritime et l'île de Ré a qualifié cette activité de SPA. 
+	2. Autre exemple : le service des postes et télécommunications. [[TC, Ursot, 1986]] Lorsque ce service bénéficiait encore d’un monopole, l’arrêt **TC, Ursot, 1986** l'a qualifié de SPA. Ensuite, le législateur a scindé le service en deux entités : La Poste et France Télécom.
 
 ##### A) La qualification expresse par le législateur et le pouvoir réglementaire
 Le service public d'assainissement (SPUC) est un service public. On peut déduire la nature juridique du service public à partir de celle de l'établissement public qui le gère. On pourrait ainsi penser qu'un établissement public administratif gère toujours un SPA et inversement. Cependant, les choses se compliquent lorsque l'on est face à des établissements publics à double visage, ou des établissements publics à visage inversé.
