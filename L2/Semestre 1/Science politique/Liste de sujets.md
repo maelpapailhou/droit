@@ -1,5 +1,9 @@
+rédige une dissertation de 2000 mots minimum sur ce cours. C'est un cours de science po dans le cadre d'études de droit. Fais longue intro, problématique, développement et conclusion. Ecrit de manière très belle comme si que c'était un auteur qui l'écrivait. Pas de titres, juste des paragraphes.
 #### 2023-2024 Session 1
 La hiérarchie dans la société de castes et dans la société d’Ordres s’organise-t-elle suivant les mêmes principes et produit-elle les mêmes effets sociaux et politiques ?
+
+#### 2023-2024 Session 2
+Quels sont les caractéristiques morphologiques des partis politiques et quels sont les facteurs qui expliquent leur apparition ?
 
 #### 2022-2023 Session 1
 Vous répondrez à deux questions, selon votre choix, de manière concise, précise, structurée

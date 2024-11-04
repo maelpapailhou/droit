@@ -76,36 +76,60 @@ On a trouvé deux palliatifs pour écarter un texte incriminateur (une loi) qui 
 1. Il peut considérer que le texte est tellement flou, tellement imprécis qu’il ne crée aucune incrimination (ex : déclaration de volonté), ce qui est rare.
 2. Plus fréquent : le juge pénal a l’idée de contourner les exigences du contrôle de constitutionnalité en mobilisant un contrôle de conventionnalité. Idée : le principe de la légalité est certes contenu dans la Constitution, mais on le retrouve également à l’article 7 de la CEDH : “Nul ne peut être condamné pour une action ou une omission qui, au moment où elle a été commise, ne constituait pas une infraction d’après le droit international.” Article 7 de la CEDH, la jurisprudence française, cour de cassation chambre criminelle, se permet d’écarter les textes incriminateurs législatifs dès lors qu’ils ne sont pas clairs. Chambre criminelle, 20 février 2001, tout juge interne peut faire un contrôle de conventionnalité. On peut opérer un contrôle du texte incriminateur devant un juge pénal pour contourner les exigences du contrôle de constitutionnalité.
 #### Paragraphe 2 : Les lois
+
 **Importance :**  
-Les lois sont évidemment une source importante pour la base légale d’une infraction pénale. L'article 34 de la Constitution délimite les domaines exclusifs de la loi, incluant les crimes, les délits, la procédure pénale, et l'amnistie. Cet article définit la compétence législative en matière pénale. L'article 37 de la Constitution précise le champ d'application des règlements. Il est essentiel de maintenir la distinction entre les articles 34 et 37 de la Constitution. Cette distinction est rappelée à l'article 111-2 du Code pénal. La loi est non seulement une source quantitativement significative du droit pénal, mais aussi qualitativement, en définissant les crimes et les délits. Ces lois doivent respecter les traités internationaux et la Constitution, ce qui signifie que le législateur ne peut légiférer de manière arbitraire.
+- Les lois sont évidemment une source importante pour la base légale d’une infraction pénale. L'==article 34 de la Constitution== délimite les **domaines exclusifs de la loi**, incluant ***les crimes, les délits, la procédure pénale, et l'amnistie***. Cet article **définit la compétence législative en matière pénale**. 
+- L'==article 37 de la Constitution== précise ***le champ d'application des règlements***. 
+	- Il est essentiel de maintenir la distinction entre les ==articles 34 et 37 de la Constitution==. 
+	- Cette distinction est rappelée à l'==article 111-2 du Code pénal==. La loi est non seulement une **source quantitativement** significative du droit pénal, mais aussi **qualitativement**, ***en définissant les crimes et les délits***. 
+	- Ces lois doivent **respecter les traités internationaux et la Constitution**, ce qui signifie que ***le législateur ne peut légiférer de manière arbitraire***.
 #### Paragraphe 3 : Les actes règlementaires du pouvoir exécutif
+
 Les actes émanant du pouvoir exécutif ont pris de l'importance pour la productions de texte pour plusieurs raisons Ci-dessous, nous examinons 3 raisons à cela :  
 
-Rôle clé : Premièrement, le pouvoir exécutif joue un rôle clé dans la production de textes juridiques.  
+1. **Rôle clé** : Premièrement, **le pouvoir exécutif** joue un ***rôle clé dans la production de textes juridiques***.  
 
-Base légale pour transfert de pouvoir :  Deuxièmement, le pouvoir exécutif se voit parfois transférer des compétences législatives. Certaines dispositions permettent ce transfert de pouvoir, comme les ordonnances prévues par l'article 38 de la Constitution. En droit pénal, ces transferts sont relativement rares. Une autre possibilité est prévue par l'article 16 de la Constitution, qui permet, dans des circonstances exceptionnelles, un tel transfert de pouvoir.  
+2. **Base légale pour transfert de pouvoir** : le pouvoir exécutif se voit parfois ***transférer des compétences législatives***. 
+	1. Certaines dispositions permettent ce transfert de pouvoir, comme les ordonnances prévues par l'==article 38 de la Constitution==. **En droit pénal, ces transferts sont relativement rares**. 
+	2. Une autre possibilité est prévue par l'==article 16 de la Constitution==, qui permet, dans des **circonstances exceptionnelles**, ***un tel transfert de pouvoir***.  
 
-Règlements d’application de la loi : Troisièmement, en plus de son rôle dans l'édiction de règlements autonomes dans le cadre de l'article 37 de la Constitution, le pouvoir exécutif doit également adopter des règlements d'application des lois. Ces règlements, subordonnés à la loi, concrétisent celle-ci lorsqu'il n'est pas possible d'inclure tous les détails dans le texte législatif. Lorsque le législateur fait bien son travail, les règlements d'application sont purement techniques. Cependant, il arrive que les textes législatifs soient imprécis, par exemple en ne définissant pas clairement une notion. Dans ce cas, le règlement d'application peut acquérir une importance beaucoup plus grande, et c'est alors l'exécutif qui définit certains concepts. La frontière entre une loi et un règlement d'application est donc mouvante, ce qui suscite des critiques. Certains estiment que l'on accorde trop de pouvoir à l'exécutif en matière de définition des délits et des crimes.
+3. **Règlements d’application de la loi :** Troisièmement, en plus de son rôle dans l'***édiction de règlements autonomes*** dans le cadre de l'==article 37 de la Constitution==, le pouvoir exécutif doit également **adopter des règlements d'application des lois**. 
+	1. Ces **règlements**, *subordonnés à la loi*, concrétisent celle-ci lorsqu'il n'est pas possible d'inclure tous les détails dans le texte législatif. Lorsque **le législateur fait bien son travail**, ***les règlements d'application sont purement techniques***. 
+	2. Cependant, il arrive que les **textes législatifs soient imprécis**, *par exemple en ne définissant pas clairement une notion*. Dans ce cas, **le règlement d'application** peut ***acquérir une importance beaucoup plus grande***, et c'est alors l'exécutif qui définit certains concepts. 
+	3. La **frontière entre une loi et un règlement d'application est donc mouvante**, ce qui suscite des critiques. Certains estiment que l'on accorde ***trop de pouvoir à l'exécutif en matière de définition des délits et des crimes***.
 
 ### Section 2 : Le contrôle juridictionnel de la régularité de la norme
-Le contrôle de la régularité de la norme pénale consiste pour le juge à vérifier la conformité du texte qui sert de base à une poursuite pénale. Si ce texte, sur lequel une personne est poursuivie, ne respecte pas les principes supérieurs, alors la poursuite est annulée faute de base légale. La question à se poser est : ce texte est-il légal ?
+
+Le **contrôle de la régularité de la norme pénale** consiste pour le juge à ***vérifier la conformité du texte qui sert de base à une poursuite pénale***. 
+
+Si ce texte, sur lequel une personne est poursuivie, ne respecte pas les principes supérieurs, alors la poursuite est annulée faute de base légale. La question à se poser est : ce texte est-il légal ?
 
 **Possibilité de contrôle par le juge :** Ce contrôle juridictionnel peut s’exercer aussi bien sur les actes administratifs que sur les lois, mais les modalités diffèrent. Il est important de distinguer deux hypothèses.
 
 **Contrôle de la régularité d’un acte administratif à l’origine de l’infraction pénale :**  
 **Contrôle en dehors du droit pénal vs. en droit pénal :** Lorsqu’on parle de contrôle de la régularité des actes administratifs, on parle de l’exception de l’illégalité du texte. Dans le cadre de ce contrôle, deux outils sont envisageables :
 
-**a.) Contrôle par le juge administratif :** Le premier est un contrôle effectué en dehors du droit pénal, par le juge administratif. Un usager mécontent de l’application d’un règlement peut demander son annulation devant la juridiction administrative. Une telle annulation a un effet erga omnes, c’est-à-dire qu’elle s’applique à tous, et le règlement disparaît de l’ordre juridique.
+- **Contrôle par le juge administratif :** Le premier est un ***contrôle effectué en dehors du droit pénal***, par le juge administratif. Un usager mécontent de l’application d’un règlement peut demander son annulation devant la juridiction administrative. Une telle annulation a un effet *erga omnes*, c’est-à-dire qu’elle s’***applique à tous, et le règlement disparaît de l’ordre juridique***.
 
-**b.) Contrôle par le juge pénal :** Le deuxième outil est le contrôle effectué par le juge pénal, même si ce n’est pas son activité principale. Si le règlement est jugé illégal, le juge pénal relaxe la personne concernée, mais le texte/règlement reste dans l’ordre juridique. Toutes les autres personnes poursuivies par ce texte doivent refaire le travail de l’exception d’illégalité du texte. Il ne disparaît pas du système juridique.
+- **Contrôle par le juge pénal :** Le deuxième outil est le ***contrôle effectué par le juge pénal***, même si ce n’est *pas son activité principale*. Si le **règlement est jugé illégal**, le juge pénal ***relaxe la personne concernée***, mais **le texte/règlement reste dans l’ordre juridique**. Toutes les autres personnes poursuivies par ce texte doivent refaire le travail de l’exception d’illégalité du texte. Il ne disparaît pas du système juridique.
 
 ##### A) Étendue du contrôle de la régularité des actes administratifs par le juge répressif
-**Histoire :** Il y a eu une évolution significative dans ce domaine. Avant l’entrée en vigueur du Code pénal de 1994, la jurisprudence distinguait entre actes administratifs réglementaires (AAR) et actes administratifs individuels (AAI, visant des actes concrets pour une personne). Pour les AAR, le juge répressif s’estimait compétent pour apprécier leur légalité et leur interprétation, mais ne pouvait pas contrôler l’opportunité. En revanche, pour les AAI, la jurisprudence était divisée, créant un flou juridique. Le Tribunal des conflits, dans l’arrêt du 5 juillet 1951 “Avranches et Desmarets”, a tranché en affirmant que le juge pénal ne pouvait apprécier la légalité d’un AAI, ce qui a parfois conduit à des situations inconfortables. La Cour de cassation considérait qu’un juge pénal peut apprécier la légalité d’un acte administratif individuel mais pas l’annuler.
 
-**Art. 111-5 CP comme solution :** Finalement, la distinction entre AAR et AAI a été supprimée, et la nouvelle approche est désormais ancrée dans l’article 111-5 du Code pénal. Cette simplification vise à accélérer la justice en permettant au juge pénal de statuer directement, sans attendre une décision préalable du juge administratif.
+Il y a eu une évolution significative dans ce domaine. Avant l’entrée en vigueur du ==Code pénal de 1994==, la jurisprudence distinguait entre **actes administratifs réglementaires** (AAR) et **actes administratifs individuels** (AAI, visant des actes concrets pour une personne). 
+
+**Pour les actes administratifs réglementaires (AAR)**, le juge répressif s’estimait compétent pour apprécier leur légalité et leur interprétation, mais ne pouvait pas contrôler l’opportunité. 
+
+En revanche, **pour les actes administratifs individuels (AAI),** la jurisprudence était divisée, créant un flou juridique. 
+
+Le Tribunal des conflits, dans l’arrêt du 5 juillet 1951 “Avranches et Desmarets”, a tranché en affirmant que **le juge pénal ne pouvait apprécier la légalité d’un AAI**, ce qui a parfois conduit à des situations inconfortables.
+
+La Cour de cassation considérait qu’un juge pénal peut ***apprécier la légalité d’un acte administratif individuel mais pas l’annuler***.
+
+Finalement, la distinction entre AAR et AAI a été supprimée, et la nouvelle approche est désormais ancrée dans l’==article 111-5 du Code pénal. ==Cette simplification vise à **accélérer la justice** en permettant au ***juge pénal de statuer directement, sans attendre une décision préalable du juge administratif***.
 
 ##### B) L'objet du contrôle de la régularité de l'acte administratif par le juge pénal  
-Introduction : Le juge pénal peut contrôler la régularité des actes administratifs, tant sur le plan interne qu’externe. Pour déterminer les droits de contrôle, il faut distinguer entre la régularité externe et interne.
+
+Le juge pénal peut contrôler la régularité des actes administratifs, tant sur le plan interne qu’externe. Pour déterminer les droits de contrôle, il faut distinguer entre la régularité externe et interne.
 
 **La légalité externe de l’acte administratif :** En matière de régularité externe, trois points doivent être vérifiés :
 

@@ -101,41 +101,42 @@ Dans tous les cas, le nouvel enfant du père aura exactement **le même statut e
 Cette inscription dans la gens et cette démonstration de puissance paternelle ont des effets importants, car l’enfant est entièrement absorbé par la capacité juridique du père, et cette adrogation dure toute la vie du père.
 
 La puissance du père s’étend de manière absolue sur l’enfant, et cette puissance a **deux aspects** :
-- Aspect personnel : il a tous les droits pour disposer de son enfant ; il peut le vendre, le louer et a même un droit de vie ou de mort. Elle n’a pas de limite ni de contrôle.
-- Aspect réel : tous les biens appartiennent au père, donc l’enfant ne peut pas avoir de patrimoine propre ; même si l’enfant travaille, tout ce qu’il gagne appartient au père.
+- **Aspect personnel** : il a ***tous les droits pour disposer de son enfant*** ; il peut le vendre, le louer et a même un droit de vie ou de mort. Elle n’a pas de limite ni de contrôle.
+- **Aspect réel** : ***tous les biens appartiennent au père***, donc l’enfant ne peut pas avoir de patrimoine propre ; même si l’enfant travaille, tout ce qu’il gagne appartient au père.
 
 Cette **puissance paternelle ne s’interrompt** que dans quelques cas :
-- La mort du père.
-- Lorsque le père de famille perd son statut de citoyen romain, ce qui est rare, en cas de complot, de trahison ou de tentative de coup d’État.
-- Il y a la possibilité de l’émancipation, qui consiste à rendre juridiquement capable un individu dont le père est en vie et toujours citoyen romain. C’est un acte rare et peu fréquent, car il a pour conséquence d’expulser l’individu de la gens du père, ce qui diminue considérablement son statut social.
+- La ***mort du père***.
+- Lorsque ***le père de famille perd son statut de citoyen romain***, ce qui est rare, en cas de complot, de trahison ou de tentative de coup d’État.
+- Il y a ***la possibilité de l’émancipation***, qui consiste à rendre juridiquement capable un individu dont le père est en vie et toujours citoyen romain. C’est un acte rare et peu fréquent, car il a pour conséquence d’***expulser l’individu de la gens du père***, ce qui diminue considérablement son statut social.
 
-Il existe par ailleurs des individus qui n’ont pas de gens, pas de lignée paternelle ; ce sont les enfants nés hors mariage, appelés les « _vulgo concepti_ ». Ils ont plusieurs particularités puisqu’ils n’ont pas de père identifié, ils ne sont donc pas inscrits dans une lignée et sont dès leur naissance **_sui iuris_**.
+Il existe par ailleurs **des individus qui n’ont pas de gens**, pas de lignée paternelle ; ce sont les enfants nés hors mariage, appelés les « _vulgo concepti_ ». Ils ont plusieurs particularités puisqu’ils n’ont pas de père identifié, ils ne sont donc pas inscrits dans une lignée et **sont dès leur naissance** **_sui iuris_**.
 
-La **deuxième particularité** est que, contrairement aux autres enfants, ils ont un lien de droit maternel. Juridiquement, ils sont les enfants de leur mère. Cette lignée maternelle a beaucoup moins de puissance que la lignée paternelle ; les droits d’héritage sont donc limités et il y a une forte réprobation sociale, les mettant à l’écart de la société.
+La **deuxième particularité** est que, contrairement aux autres enfants, ***ils ont un lien de droit maternel***. Juridiquement, ils sont les enfants de leur mère. Cette **lignée maternelle** a ***beaucoup moins de puissance que la lignée paternelle*** ; les **droits d’héritage** sont donc ***limités et il y a une forte réprobation sociale***, les mettant à l’écart de la société.
 
-Ce système va perdurer pendant des siècles et commencera à s’infléchir à la fin de l’Empire romain d’Occident. Peu à peu, les Romains considèrent que l’enfant doit également être reconnu comme l’enfant de sa mère. C’est ainsi que la parenté cognatique apparaît, correspondant aux deux lignées.
+**Ce système va perdurer pendant des siècles et commencera à s’infléchir à la fin de l’Empire romain d’Occident**. Peu à peu, les Romains considèrent que l’***enfant doit également être reconnu comme l’enfant de sa mère***. C’est ainsi que la **==parenté cognatique==** apparaît, correspondant aux deux lignées.
 
 C’est une évolution qui se fait tardivement, surtout pour des raisons de succession.
 
-À la fin du Ve et au début du VIe siècle, on voit apparaître cette lignée. À cette période, on commence à développer l’idée que la réalité biologique devrait avoir plus d’importance et de conséquences par rapport à la construction juridique.
+**À la fin du Ve et au début du VIe siècle**, on voit apparaître cette lignée. À cette période, on commence à développer l’idée que ***la réalité biologique devrait avoir plus d’importance et de conséquences*** par rapport à la construction juridique.
 ### Section 2 : La famille germaine
-À partir du **IIIe siècle**, on observe une vaste migration des peuples, longtemps appelée « les invasions barbares ». Ces invasions aboutissent à une **recomposition de l’organisation politique européenne**. Lorsque l’Empire romain d’Occident disparaît, il est **remplacé par des entités politiques que sont les royaumes germains**, dits barbares. Ceux-ci vont procéder à la mise par écrit de leur droit ; il y a trois principaux codes :
 
-- **Le Code d’Euric pour les Wisigoths**
-- **Les Lois Composites pour les Burgondes**
-- **Les Lois Salique pour les Francs**
+À partir du **IIIe siècle**, on observe une **vaste migration des peuples**, longtemps appelée « *les invasions barbares* ». Ces invasions aboutissent à une **recomposition de l’organisation politique européenne**. Lorsque l’Empire romain d’Occident disparaît, il est **remplacé par des entités politiques que sont les royaumes germains**, dits barbares. Ceux-ci vont procéder à la mise par écrit de leur droit ; il y a trois principaux codes :
 
-Ces **coutumes** mises par écrit sont la seule source dont nous disposons pour connaître la réalité de la famille germanique. En ce qui concerne la famille germanique, il y a un grand pragmatisme ; ce qui compte, c’est la **réalité biologique**. Les règles de droit ne sont pas toujours respectées et ne sont pas bien définies.
+- **Le *Code d’Euric* pour les Wisigoths**
+- **Les *Lois Composites* pour les Burgondes**
+- **Les *Lois Salique* pour les Francs**
+
+Ces **coutumes** mises par écrit sont la seule source dont nous disposons pour connaître la réalité de la famille germanique. En ce qui concerne **la famille germanique**, il y a un grand pragmatisme ; ce qui compte, c’est la **réalité biologique**. Les règles de droit ne sont pas toujours respectées et ne sont pas bien définies.
 
 D’autre part, **le droit germanique est un droit ritualiste**. Ce qui donne force juridique, ce n’est pas un apport de volonté, mais un **rite de succession**, généralement dans un ordre précis, **qui crée le droit**. Ainsi, le mariage germanique est différent du mariage romain et il existe une parenté étroite, mais aussi une parenté élargie (les alliés qui intègrent la famille).
 #### Paragraphe 1: le mariage germain
-C’est une période extrêmement **instable politiquement** ; il n’y a pas d’autorité centrale forte pour assurer la paix et la sécurité à l’échelle des royaumes. Ce sont les **familles germaniques qui assurent la paix sociale** ; le mariage est donc davantage une affaire de famille que d’individus.
+C’est une période extrêmement **instable politiquement** ; il n’y a **pas d’autorité centrale forte** pour assurer la paix et la sécurité à l’échelle des royaumes. Ce sont les **familles germaniques qui assurent la paix sociale** ; le mariage est donc ***davantage une affaire de famille que d’individus***.
 
 Il repose sur un rituel en plusieurs étapes à accomplir pour que les individus soient juridiquement mariés, un mariage de famille et de manière publique.
 
 - **Étape 1 : l’accord entre les familles**
 
-Qui épouse qui et pour combien ? Appelée la « _desponsatio_ », contrairement à Rome où c’est l’épouse qui apporte la dot, chez les Germains, c’est l’époux qui apporte ce qu’on appelle « _la dos ex marito_ ». C’est une somme scellée de manière symbolique. À partir de là, les familles sont juridiquement engagées. Cela signifie que si l’une des familles renonce à poursuivre le mariage, elle pourra être condamnée à une amende et à des dommages et intérêts.
+Qui épouse qui et pour combien ? Appelée la « _desponsatio_ », contrairement à Rome où c’est l’épouse qui apporte la dot, **chez les Germains, c’est l’époux qui apporte ce qu’on appelle « _la dos ex marito_ ».** C’est une somme scellée de manière symbolique. À partir de là, les familles sont juridiquement engagées. Cela signifie que si l’une des familles renonce à poursuivre le mariage, elle pourra être condamnée à une amende et à des dommages et intérêts.
 
 - **Étape 2 : réunion de famille**
 
@@ -145,17 +146,17 @@ La réunion se fait lors du banquet et a lieu lors de la transaction « _puellae
 
 Après la nuit des époux, l’époux doit offrir à son épouse un cadeau le matin, appelé le « _morgengabe_ », pour prouver qu’il est satisfait du mariage.
 
-Ce n’est qu’à l’issue de ces étapes que les époux sont juridiquement mariés. Si une des étapes n’est pas réalisée, cela ne constitue pas un mariage complet. On peut parler de mariage valide seulement s’il y a volonté individuelle.
+Ce n’est **qu’à l’issue de ces étapes que les époux sont juridiquement mariés**. Si une des étapes n’est pas réalisée, cela ***ne constitue pas un mariage complet***. On peut parler de mariage valide seulement s’il y a volonté individuelle.
 
 Il est possible et reconnu par la société qu’en l’absence de ce rituel, des situations peuvent apparaître comme un mariage. Il existe des concubinages stables qui s’apparentent à un mariage.
 
 **Le mariage germanique n’a pas les mêmes effets que le mariage romain**, car il donne naissance à une collaboration entre les époux. 
-- L’épouse n’est pas juridiquement incapable et peut donc être active juridiquement sans difficulté. 
-- De plus, il n’existe pas chez les Germains une aspiration du père, appelée « _mundium_ », qui est un droit de correction et une idée de protection. 
-- Il y a une alliance entre eux et, lorsque le mariage prend fin, l’épouse peut avoir droit à un tiers des biens acquis par les époux dans le cadre du mariage. 
+- L’épouse n’est ***pas juridiquement incapable*** et ***peut donc être active juridiquement*** sans difficulté. 
+- De plus, il n’existe ***pas chez les Germains une aspiration du père***, appelée « _mundium_ », qui est un droit de correction et une idée de protection. 
+- Il y a une alliance entre eux et, lorsque le mariage prend fin, ***l’épouse peut avoir droit à un tiers des biens acquis par les époux*** dans le cadre du mariage. 
 - Cette idée se retrouve au Moyen Âge dans le régime matrimonial communautaire et dans le régime matrimonial légal actuel.
 
-**Le mariage germanique peut être rompu**, souvent par les familles lorsque les stratégies familiales évoluent. On se marie pour des raisons politiques ou sociales et on se démarie pour les mêmes raisons. Comme il se conclut par un rituel, il se rompt également par un rituel. Selon les coutumes, le mariage peut être rompu par les familles (divorce) ou par l’une des deux familles (répudiation). Cette rupture se fait par un rituel moins grandiose que le mariage ; l’épouse doit prendre les clés de la maison et les jeter pour symboliser le rejet du mariage et du mari, ou bien les deux parties doivent déchirer un linge devant la famille en public.
+**Le mariage germanique peut être rompu**, souvent par les familles lorsque les stratégies familiales évoluent. On se marie pour des ***raisons politiques ou sociales et on se démarie pour les mêmes raisons***. Comme il se **conclut par un rituel, il se rompt également** par un rituel. Selon les coutumes, le mariage peut être ***rompu par les familles*** (**divorce**) ou par l’***une des deux familles*** (**répudiation**). Cette rupture se fait par un rituel moins grandiose que le mariage ; *l’épouse doit prendre les clés de la maison et les jeter pour symboliser le rejet du mariage et du mari, ou bien les deux parties doivent déchirer un linge devant la famille en public*.
 #### Paragraphe 2 : La parenté germaine 
 C’est une parenté qui se décline et existe à deux niveaux :
 
@@ -195,9 +196,9 @@ C’est la « **_faida_** », ou vengeance privée. Elle intervient dans les cas
 - L’élimination totale de la famille
 - Une alliance entre les familles, souvent conclue par un mariage
 
-Il est possible de sortir de sa famille élargie par le biais d’un rituel appelé « **_forisfamiliatio_** ». Ce rituel consiste à casser des branches de bois pour montrer la rupture et jeter les morceaux aux quatre coins de la pièce. Une fois sorti, il n'est plus possible de revenir en arrière en cas de difficulté.
+Il est possible de **sortir de sa famille élargie par le biais d’un rituel** appelé « **_forisfamiliatio_** ». Ce rituel consiste à ***casser des branches de bois*** pour montrer la rupture et ***jeter les morceaux aux quatre coins de la pièce***. Une fois sorti, il n'est plus possible de revenir en arrière en cas de difficulté.
 ##### B) La famille ordinaire
-Elle est composée du couple et des enfants, et le patrimoine se transmet donc des parents aux enfants sans préoccupation de sexe ni de rang. Il se transmet librement, la sippe n’a pas de droit de regard ni de contrôle sur la transmission des biens. Il y a une mobilité importante du patrimoine dans la société germanique.
+Elle est **composée du couple et des enfants**, et **le patrimoine se transmet donc des parents aux enfants** ***sans préoccupation de sexe ni de rang***. Il se transmet librement, la sippe n’a pas de droit de regard ni de contrôle sur la transmission des biens. Il y a une mobilité importante du patrimoine dans la société germanique.
 
-Concernant la filiation germanique, les enfants naturels nés hors mariage ont les mêmes droits que les enfants légitimes. Ils héritent donc du patrimoine sans difficulté. Cette pratique de considération se maintient pendant plusieurs siècles en Occident ; on la voit encore au XIXe siècle, y compris en France, malgré la forte opposition de l’Église.
+**Concernant la filiation germanique**, les enfants naturels nés hors mariage ont les mêmes droits que les enfants légitimes. Ils héritent donc du patrimoine sans difficulté. Cette pratique de considération se maintient pendant plusieurs siècles en Occident ; on la voit encore au XIXe siècle, y compris en France, malgré la forte opposition de l’Église.
 

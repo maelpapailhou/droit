@@ -77,9 +77,9 @@ Non, elles ne sont pas totalement exclues, cela dépend de la mission en questio
 Non (milices privées, etc.).
 
 ---
-I) La confirmation par le Conseil constitutionnel de l'interdiction de la délégation à des personnes privées du pouvoir de police administrative.
+### I) La confirmation par le Conseil constitutionnel de l'interdiction de la délégation à des personnes privées du pouvoir de police administrative.
 
-**A) L'interdiction de délégation, un principe directeur du droit public (droit constitutionnel et administratif).**  
+#### A) L'interdiction de délégation, un principe directeur du droit public (droit constitutionnel et administratif).  
 Principe pas nouveau, retrouvé à la fois dans la jurisprudence du Conseil d'État et du Conseil constitutionnel.
 
 Jurisprudences anciennes : 2001.
@@ -88,7 +88,7 @@ CE 1932 Castelnaudary.
 
 "Le pouvoir de police ne se concède pas". "Son exercice ne se prête pas à des arrangements contractuels".
 
-**B) L'interdiction de délégation, un principe inhérent à l'identité constitutionnelle de la France.**
+#### B) L'interdiction de délégation, un principe inhérent à l'identité constitutionnelle de la France.
 
 Nouvelle qualification.  
 Question ici d'un contrôle de constitutionnalité d'une loi de transposition. Ce contrôle n'est possible que dans le cas où il y a un principe inhérent à l'identité constitutionnelle de la France. Le Conseil a, pour la première fois, accepté de reconnaître un tel principe. Déjà proposés : l'égalité devant la loi, la liberté d'expression et de communication, la liberté d'entreprendre. Le Conseil constitutionnel du 26 juillet 2018 dit non pour un certain nombre de principes.
@@ -99,9 +99,9 @@ Distinction avec les PFRLR (que pour le préambule de 1946).
 
 Commenter un peu le paragraphe 15 sur le principe inhérent.
 
-II) La circonscription par le Conseil constitutionnel de l'interdiction de la délégation à des personnes privées du pouvoir de police administrative.
+### II) La circonscription par le Conseil constitutionnel de l'interdiction de la délégation à des personnes privées du pouvoir de police administrative.
 
-**A) L'encadrement du périmètre du pouvoir de police administrative.**  
+#### A) L'encadrement du périmètre du pouvoir de police administrative.  
 Actes matériels d'exécution, actes accessoires. Distinction entre interdiction de délégation et ceux qui n'en relèvent pas.
 
 Présenter la distinction et reprendre des exemples jurisprudentiels.
@@ -110,7 +110,7 @@ Mettre des exemples (Thérond, Chemin de fer de l'Est).
 
 Mettre des contre-exemples (arrêts dans les TD).
 
-**B) L'assimilation de l'exercice du pouvoir de police à l'exercice de la force publique.**
+#### B) L'assimilation de l'exercice du pouvoir de police à l'exercice de la force publique.
 
 Le Conseil s'est fondé sur les dispositions de l'article 12 de la DDHC concernant la force publique. On ne délègue pas lorsqu'il s'agit de force publique.
 

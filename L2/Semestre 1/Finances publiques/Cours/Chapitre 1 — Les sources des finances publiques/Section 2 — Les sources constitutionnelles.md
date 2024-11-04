@@ -1,59 +1,47 @@
-La DDHC 3 article s’intéressent les financespublqies (art 13, 14 et 15)
+## Paragraphe 1 : Les dispositions de la DDHC
+La DDHC comporte 17 articles, dont 3 s’intéressent aux finances publiques (art 13, 14 et 15) :
 
-- Art 13 concerne le princier d’égalité et principe de la ncessesité de l’impo
-- 14 consentement de l’impôt
-- 15 légitime l contrôle de l’usage del’argent public
+- **Art 13** : concerne le principe d’égalité et le principe de la nécessité de l’impôt.
+- **Art 14** : consentement de l’impôt.
+- **Art 15** : légitime le contrôle de l’usage de l’argent public.
+
+> **Article 13 DDHC**
+> *Pour l'entretien de la force publique, et pour les dépenses d'administration, une contribution commune est indispensable : elle doit être également répartie entre tous les citoyens, en raison de leurs facultés*
+
+> **Article 14 DDHC**
+> *Tous les Citoyens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement d'en suivre l'emploi, et d'en déterminer la quotité, l'assiette, le recouvrement et la durée*
+
+> **Article 15 DDHC**
+> *La Société a le droit de demander compte à tout Agent public de son administration*
 
 
-DDHC est 17 articles, 3 articles qui nous interesse. Vite fait le 6 par rapport au 13. Principe de l’égalité fiscale, légalité, consentement à l’impot.
+Creuser : pourquoi peut-on plus percevoir d’impôt après le 31 décembre si pas validé ?
 
-  
+**Article 6** : les finances publiques sont encadrées par l’expression législative. La loi fiscale s’applique de la même façon à tous les contribuables.
 
-Creuser : pourquoi peut plus percevoir diimpot après 31 décembre si pas validé?
+**Article 13** : énonce un principe de répartition équitable de l’imposition, en fonction des capacités contributives. La loi de finances ne peut instaurer un impôt confiscatoire.
 
-  
+**Le principe de nécessité de l’impôt** est « indispensable pour les dépenses publiques et l’entretien de la force publique ». Le principe de nécessité de l’impôt justifie l’atteinte aux droits et libertés. Il est lié au consentement de l’impôt.
 
-Article 6: les finances publiques sont encadrés par l’expression législative. La loi fiscale s’applque de la meme façon à tous les contribuables. 
+==Article 14== : **Principe de consentement à l’impôt** : 
+- lorsque le consentement **émane du citoyen**, on parle de « ***consentement à l’impôt*** », 
+- lorsque le consentement provient **des représentants**, c’est le « ***consentement de l’impôt*** ».
 
-  
+Les révolutions modernes ont une connotation budgétaire.
 
-Article 13 : énonce un principe de répartition équitable de l’imposition, en finition des capacités contributives. La loi de finance ne peut instaurer un impôt confiscatoire. 
+1215, année du parlementarisme au Royaume-Uni. Creuser ça.
 
-  
+Le principe de consentement à l’impôt légitime la perception des recettes fiscales par l’État.
 
-Principe de nécessité de l’impôt « indispensable pour dépenses publiques etentretien de la force publique ». Le principe de nécessité d’impôt justifie l’atteinte aux droits et libertés. Lié au consentement de l’impôt.
-
-  
-
-Article 14 : 
-
-Principe de consentement à l’impôt : lorsque le consentement émane du citoyen on parle de « consentement à l’impot », lorsque le consentement des représentants « consentement de l’imoot ». 
-
-  
-
-Les révolutions modernes ont une connotation budgétaire. 
-
-  
-
-1215 année, parlementarisme au royaume uni. Creuser ça.
+==Article 15== : Fixe **le contrôle de l’utilisation de l’argent public**. C’est la mission de la Cour des comptes. Le **rôle du Parlement est de contrôler l’action du gouvernement**.
 
   
 
-Principe de consentement à l’impot légitime la perception des recettes fiscales par l’état. 
+## Paragraphe 2 : les dispositions constitutionnelles finances publiques
 
   
 
-Article 15 : 
-
-Fixe le contrôle de l’utilisation de l’argent public. C’est la mission de la cour des comptes. Le rôle du parlement est de contrôler l’action du gouvernement. 
-
-  
-
-Paragraphe 2 : les dispositions constitutionnelles finances publiques
-
-  
-
-1. les compétences du législateur
+### 1) Les compétences du législateur
 
   
 
@@ -164,113 +152,3 @@ Article 72-2 : depuis révision 2004, la constitution garantie une autonomie fin
   
 
   
-
-LOLF:
-
-  
-
-Article 47 le vote des lois de finances dans les conditions prévues par une loi organique.
-
-  
-
-Figée par une ordonnance du 2 janvier 1959. Elle va lister les ressources et les charges de l’état. Elle dit ce qu’il faut retrouver dans la loi de finance. Titre 4 examen d’une loi de finance. Titre 6 entrée en vigueur et application.
-
-  
-
-Article 46 doit être controlé par le conseil constitutionnel, pou rles lois organiques. Facultatif pour les autres loi. Les loi organiques ont vocation à préciser le contenu de la constitution. 
-
-  
-
-A ) instauration d’une logique de performance dans la gestion publique
-
-  
-
-Le budget de l’état est structuré en 3 niveaux : missions, programmes et actions. 
-
-  
-
-Promulguée le 1er aout 2001, replacé ordonnance du 2 janvier 1959. On a mis une politique de performance. Avant on donnait une enveloppe aux ministères ils dépensent comme ils veulent. 
-
-  
-
-Objectif que état dépense mieux (pas moins).
-
-  
-
-Déja le budget est plus lisible.
-
-  
-
-Article 7 chapitre 2 : les crédits sont ouverts par les lois de finance pour couvrir…
-
-  
-
-Une missio comporte un ensemble de programmes
-
-  
-
-Le parlement ont une vue transparente de la partition des crédits, pour voir les priorité du gouvernement.
-
-  
-
-Ancienne présentation : article 5 de LOLF existait déjà avant 2001.
-
-  
-
-Action externe rte l’état : 4 programmes. Avec responsable de mission.
-
-  
-
-La responsabilisation du gestionnaire
-
-Depui instauration de la LOLF le gestionnaire (responsable de programme) a des objectif sà atteindre, des indicateurs permettront de vérifier si ces objectifs sont atteints. 
-
-Mission justice : au moins 2 programmes, 335 le CSM, 166 justice judiciaire, etc.
-
-  
-
-Objectif 1 : rendre une justice d qualité
-
-  
-
-Objc 2 : renforcer efficacité de la réponse pénale
-
-  
-
-Obj 3 : modernier la justice
-
-  
-
-Objectif sociaux économiques , objectifs de qualité, et d’efficience. 
-
-  
-
-Projet annuel de performances: recensement des objectifs et des indicateur. Il est annexé à chaque programme. 
-
-  
-
-Article 51-5 LOLF. Ces annexes sont accompagnés objectifs poursuivi, résultats obtenus, etc.
-
-  
-
-L’atteitne des objectifs est vérifiée au travers du rapport annuel de performance dans le RAP article 54 LOLF.
-
-  
-
-PAP et RAP sont différents.
-
-  
-
-Article 54 « les rapports annuels de performance..; »
-
-  
-
-La liberté du gestionnaire
-
-  
-
-A l’interieur du programme, le responsable dispose d’une liberté de ventilation. 
-
-  
-
-Cette tangibilité est limitée car elle est asymétrique. Dépenses de personnel ne peuvent être augmentés.

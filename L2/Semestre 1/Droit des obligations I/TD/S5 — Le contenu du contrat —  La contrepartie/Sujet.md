@@ -1,7 +1,6 @@
-**Le contenu du contrat : la contrepartie**
-
 **Cass. com., 18 mars 2014, n°12-29453 ; JCP G 2014, 1116, note J. Ghestin ; RDC 2014,p. 345, obs. Y.-M. Laithier ; CCC 2014, comm. n°123, obs. L. Leveneur ; D. 2014, p. 915, note D. Mazeaud ; Dr. et patrimoine 2015, p. 64, obs. Ph. Stoffel-Munck.
 
+```
 Attendu, selon l'arrêt attaqué (Paris, 28 septembre 2012), que le 27 novembre 2006, la société
 
 Les Complices a concédé à la société Yangtzekiang, devenue la société Yang design (la société Yang) une licence d'exploitation de sa marque « Les Complices » en contrepartie d'une redevance annuelle calculée par un pourcentage sur le chiffre d'affaires, avec minima ; que n'ayant pas reçu paiement des redevances convenues, la société Les Complices a obtenu une ordonnance d'injonction de payer à laquelle la société Yang a fait opposition ;
@@ -13,3 +12,4 @@ Mais attendu que la cause de l'obligation constituant une condition de la format
 PAR CES MOTIFS :
 
 REJETTE le pourvoi ;
+```

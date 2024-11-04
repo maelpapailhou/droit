@@ -10,7 +10,7 @@ Graphique des grands traités de l'UE : le dernier traité est le traité de Lis
 Les quatre critères visés au présent paragraphe et les périodes pertinentes durant lesquelles chacun doit être respecté sont précisés dans un protocole annexé au présent traité.
 
 **Traité de Maastricht :** 
-L'**article 121 du TCE** (Signé à Rome en 1957) fixe les **critères de convergence pour la participation à la monnaie unique**, entrée en vigueur en 1999. Il existe quatre critères pour participer à l'euro :
+L'==article 121 du TCE== (Signé à Rome en 1957) fixe les **critères de convergence pour la participation à la monnaie unique**, entrée en vigueur en 1999. Il existe quatre critères pour participer à l'euro :
 - **Inflation** : Taux d'inflation proche de celui des trois États membres, présentant les meilleurs résultats en matière de stabilité des prix. Le taux d'inflation d'un État membre donné ne doit pas dépasser de plus de 1,5 point celui des trois Etats membres présentant les meilleurs résultats en matière de stabilité des prix.
 - **Taux d'intérêt** : Les taux d'intérêts ne doivent pas excéder de plus de 2 % ceux des trois Etats membres présentant les meilleurs résultats en matière de stabilité des prix.
 - **Taux de change :** Interdiction de dévaluer sa monnaie.
@@ -18,7 +18,7 @@ L'**article 121 du TCE** (Signé à Rome en 1957) fixe les **critères de conver
 	- ﻿﻿3% pour le rapport entre le déficit public prévu ou effectif et le produit intérieur brut aux prix du marché
 	- ﻿﻿60 % pour le rapport entre la dette publique et le produit intérieur brut aux prix du marché.
 
-L'**article 104 TCE** stipule :
+L'==article 104 TCE== stipule :
 - que les États membres doivent éviter les déficits publics excessifs.
 - La Commission surveille l'évolution de la situation budgétaire et du montant de la dette publique dans les États membres en vue de déceler les erreurs manifestes. Elle examine notamment si la discipline budgétaire a été respectée.
 
@@ -41,11 +41,11 @@ L'**article 104 TCE** stipule :
 #### Paragraphe 2 : Une discipline budgétaire renforcée en apparence
 
 > **Programme de convergence (article 7 du règlement du 7 juillet 1997)**
-> Chaque État membre non participant présente au Conseil et à la Commission les informations nécessaires à 'exercice à intervalles réguliers de la surveillance multila­ térale visée à l' article 103 du traité , sous forme d' un programme de convergence, qui fournit une base essen­ tielle à la stabilité des prix et à une croissance durable génératrice d'emplois.
+> *Chaque État membre non participant présente au Conseil et à la Commission les informations nécessaires à 'exercice à intervalles réguliers de la surveillance multila­ térale visée à l' article 103 du traité , sous forme d' un programme de convergence, qui fournit une base essen­ tielle à la stabilité des prix et à une croissance durable génératrice d'emplois.*
 
 
 > **Programme de stabilité (article 3 du règlement du 7 juillet 1997)**
-> Chaque État membre participant présente au Conseil et à la Commission les informations nécessaires à l'exer­cice périodique de la surveillance multilatérale visée à l'article 103 du traité sous la forme d'un programme de stabilité qui fournit une base essentielle à la stabilité des prix et à une croissance forte et durable génératrice d'emploi .
+> *Chaque État membre participant présente au Conseil et à la Commission les informations nécessaires à l'exer­cice périodique de la surveillance multilatérale visée à l'article 103 du traité sous la forme d'un programme de stabilité qui fournit une base essentielle à la stabilité des prix et à une croissance forte et durable génératrice d'emploi .*
 > %% METTRE OBJ MOYEN TERME%%
   
 
@@ -63,7 +63,7 @@ Règlement 7 juillet : correction des déficits excessifs. Prévoit une PDE : pr
 
   
 
-**La majorité qualifiée (art. 16 TUE et 238 TFUE):**
+**La majorité qualifiée** (==art. 16 TUE et 238 TFUE==):
 - Depuis le traité de Lisbonne, le vote à la majorité qualifiée est employé par défaut dans l'Union européenne. Il s'applique à la procédure législative ordinaire, qui concerne environ 80% des actes législatifs européens.
 - Le mécanisme de majorité qualifiée repose, dans les faits, sur l'exigence d'une double majorité, celle des États et celle des citoyens (art. 16 TUE et 238 TFUE) :
 	- majorité des États membres, avec un seuil de 55%, soit 15 États sur les 27.
@@ -94,171 +94,172 @@ Règlement 7 juillet : correction des déficits excessifs. Prévoit une PDE : pr
 - Les modes de votation sont beaucoup trop drastiques.
 - On peut se poser la question de la pertinence d'infliger une amende à un pays endetté.
 - La question des % aussi est à remettre en question %%A CREUSER%%
-#### Paragraphe 2 : Une discipline budgétaire
 
-  
+En **2008**, la crise des dettes souveraines éclate. Aux États-Unis, la crise des _subprimes_ découle des prêts accordés à des particuliers insolvables. Le principe des prêts subprimes est de permettre aux particuliers de rembourser d’abord les intérêts, avec des mensualités faibles au début. Par la suite, les mensualités augmentent de manière significative, parfois jusqu’à 20 à 25 fois le montant initial. Entre 2004 et 2008, une bulle spéculative s’est formée dans le secteur immobilier, avec une hausse continue des prix. Cependant, lorsque l’offre a dépassé la demande, les prix ont commencé à chuter.
 
-2008 crise des dettes souveraines. Aux USA subprime prête de l’argent à des particuliers qui sont insolvables. Idée est que particulier rembourse les intérêts d’abord. Donc mensualité pas élevée d’abord. Ensuite mensualité augmente de 20,25x. Bulle spéculative entre 2004 et 2008. Immobilier a fait que augmenter. Lorsque offre plusimportante que la demande, le prix dva baisser.
+Le sauvetage des banques européennes a entraîné une augmentation des dépenses et des déficits publics, ce qui a suscité la méfiance des marchés vis-à-vis des États. Par exemple, les taux d’intérêt du Portugal ont grimpé jusqu’à 27 % et ceux de la Grèce jusqu’à 74 %. Certains États membres ont dû choisir entre renoncer à emprunter ou accepter des taux d’intérêt prohibitifs. La seule alternative a été de solliciter des prêts auprès d’autres États membres.
 
-  
+Le Pacte de Stabilité et de Croissance repose sur deux volets principaux : un volet préventif et un volet correctif.
 
-Le sauvetage des banquesueropénnes a augmenté les dépenses et leurs déficit. L’agumentation du déficit a rendu les marchés méfiants à l’égard des états.
-
-  
-
-Portugal taux monté a 27%. Grece 74%. Certains états membres on dufaire le choix entre renoncer à l’emprunt, ou accepter des taux d’intérêts prohibitifs. Seule alternative a été de solliciter des emprunts auprès des autres états membres. 
-
-  
-
-Pacte de stablité et de croissance 
-
-Le premier volet est le plus connu.. etc
-
-  
-
-Grece avait pas de recettes fiscalesjusqu’a y’a 20 ans. Irlande pareil(google etc). 
-
-  
+La Grèce, jusqu’à récemment, disposait de peu de recettes fiscales. Il en était de même pour l’Irlande, qui a attiré des entreprises comme Google grâce à une fiscalité avantageuse.
 
 ##### A) Le semestre européen 
 
-Le semestreeuropéen
+Le **semestre européen** est un outil de coordination et de surveillance budgétaire et économique. Il s’inscrit dans une logique préventive, et non corrective. Les principaux objectifs du semestre européen sont :
 
-Pour cela…
+- **Examen annuel de la croissance durable (EAC)** : le Conseil de l’Union adopte des recommandations adressées par la Commission.
 
-  
 
-Le semestre européen est unoutildecoordination, et de surveillance budgétaire économique. On est dans la prévention pas le correctif. 
+Le Semestre européen s'inscrit dans le **cadre de la gouvernance économique** de l'Union européenne. Il permet aux États membres d'aligner leurs politiques économiques et budgétaires sur les règles arrêtées au niveau de l'UE.
 
-  
+Ce **processus de coordination des politiques socio-économiques** se déroule chaque année à partir du mois de novembre.
 
-Voir principaux objectifs etc.
+ - **Principaux objectifs du Semestre européen**
 
-  
+Le Semestre européen vise à:
 
-Examen annuel de la croissance durable (EAC).  Le conseil de l’union adopte la recommandation adressée par la commission. 
+- assurer des **finances publiques saines**, **prévenir des déficits budgétaires excessifs** et prévenir **ou réduire la dette publique**
+- assurer **la convergence et la stabilité** dans l'UE
+- favoriser **la croissance** économique
+- prévenir **les déséquilibres macroéconomiques** dans l'UE
+- assurer le suivi de la mise en œuvre des **plans nationaux pour la reprise et la résilience**
+- coordonner **les politiques sociales et de l'emploi** et en assurer le suivi
 
-  
+-  **Base juridique du Semestre européen**
+
+La base juridique du processus du Semestre européen réside dans les **articles 121 et 148** du traité sur le fonctionnement de l'Union européenne (TFUE).
+
+La coordination des politiques budgétaires nationales dans l'UE est définie plus précisément par le **pacte de stabilité et de croissance** (PSC), dont l'objectif est d'assurer des finances publiques saines, nécessaires pour garantir la stabilité des prix et encourager une croissance forte et durable favorisant la création d'emplois.
+
+Les actes législatifs du **"two-pack" et du "six-pack"** ont renforcé les règles et l'application du PSC.
+
+Plus récemment, le **cadre de gouvernance économique révisé** de l'Union, en vigueur depuis le 30 avril 2024, a apporté des modifications au volet préventif et correctif du pacte de stabilité et de croissance.
+
+-  **Quelles politiques sont coordonnées dans le cadre du Semestre européen?**
+
+Le Semestre européen couvre la coordination des politiques économiques, sociales, structurelles, budgétaires et de l'emploi:
+
+- **les politiques budgétaires**, dans le but d'assurer la viabilité des finances publiques conformément au pacte de stabilité et de croissance (PSC)
+- la **prévention** et la **correction** des **déséquilibres macroéconomiques**
+- les réformes structurelles visant principalement à promouvoir **la croissance et l'emploi**
+- les réformes structurelles énoncées dans **les plans nationaux pour la reprise et la résilience**
+- **les politiques sociales et de l'emploi**, conformément aux principes du socle européen des droits sociaux
+
+-  **Pourquoi le Semestre européen a-t-il été créé?**
+
+La **crise économique de 2008** a révélé qu'une gouvernance économique plus forte et une meilleure coordination des politiques sociales et budgétaires entre les États membres de l'UE étaient nécessaires.
+
+**Une coordination renforcée des politiques économiques, sociales, structurelles, budgétaires et de l'emploi** peut aider à prévenir les divergences et assurer la convergence et la stabilité dans l'ensemble de l'UE ainsi que dans ses États membres.
+
+Jusqu'en 2010, les procédures de coordination de ces politiques étaient mises en œuvre indépendamment les unes des autres. Les États membres ont estimé qu'il était nécessaire de synchroniser les calendriers de ces procédures afin de rationaliser le processus et de **mieux harmoniser les objectifs des politiques nationales**, tout en tenant compte des objectifs qu'ils avaient fixés au niveau de l'UE. Il était également nécessaire d'étendre le **suivi et la coordination** à des politiques plus larges.
+
+Pour ces raisons, et dans le cadre d'une réforme plus large de la gouvernance de l'UE, le Conseil européen a décidé de mettre en place le Semestre européen en 2010.
+
+-  **Calendrier**
+
+Phase préparatoire: analyse de la situation et suivi de l'exercice précédent
+- Phase 1: orientations au niveau de l'UE
+- Phase 2: orientations par pays
+- Phase 3: mise en œuvre
+
+Un nouveau cycle commence vers la fin de l'année, lorsque la Commission fait le point sur la situation économique pour l'année à venir.
+
+- **Qui fait quoi?**
+
+La Commission européenne publie le "paquet d'automne":
+
+- politiques économiques et budgétaires: examen annuel de la croissance durable
+- projets de recommandations pour la zone euro
+- coordination socio-économique: projet de rapport conjoint sur l'emploi
+- déséquilibres macroéconomiques: rapport sur le mécanisme d'alerte (examens approfondis des pays exposés au risque de déséquilibres macroéconomiques)
+
+Le Conseil de l'UE:
+
+- débat de l'examen de la croissance et du rapport sur le mécanisme d'alerte et approuve des conclusions en la matière
+- approuve les recommandations pour la zone euro
+- adopte une version finale du rapport conjoint sur l'emploi
+
+Le Parlement européen:
+
+- peut débattre de son propre rapport sur l'examen de la croissance et le publier
+- rend un avis sur les lignes directrices pour l'emploi
+
+Le Conseil européen (chefs d'État ou de gouvernement) fournit des orientations.
+
+Les États membres:
+
+- présentent leurs objectifs, priorités et plans de réforme et d'investissement
+- élaborent un rapport d'avancement annuel (à partir de 2025)
+
+La Commission européenne publie des recommandations par pays, des rapports par pays et une classification actualisée des pays soumis à la procédure concernant les déséquilibres macroéconomiques ("paquet de printemps").
+
+Le Conseil de l'UE approuve les recommandations finales par pays.
+
+Le Conseil européen les examine.
+
+Le Conseil de l'UE les adopte.
+
+Les États membres intègrent les recommandations dans le processus d'établissement des budgets nationaux pour l'exercice suivant.
 
 ##### B) Le six-pack
+Le Six-Pack est principalement connu pour son aspect répressif.
 
-Masi ‘lesentiek du six pack tiens dans l’aspect repressif.  
+Le Six-Pack est un ensemble de **cinq règlements et d’une directive**. Dans la hiérarchie du droit dérivé, les règlements ont une valeur supérieure aux directives, et les directives sont supérieures aux décisions (cf. L3 Institutions Européennes).
 
-  
+Ce Six-Pack renforce les deux volets du Pacte de Stabilité et de Croissance (PSC) : la partie préventive et la partie corrective.
 
-C un paquet de 5 règlements et 1 directive. 
+Depuis l’adoption du Six-Pack, la **procédure de déficit excessif (PDE)** peut être déclenchée en cas de dette excessive. La grande nouveauté introduite par le Six-Pack est la règle de la **majorité qualifiée inversée**. En cas de déficit excessif, la Commission peut demander des corrections budgétaires et imposer des mesures aux États concernés.
 
-  
+Le Six-Pack prévoit également une réduction progressive de la dette publique. La Commission peut demander aux États membres d’adopter des mesures correctives pour atteindre les objectifs fixés.
 
-Droit dérive : relogement, directive.  Y’a hiérarchie car règlement supereiru à la directive, directive supérieur à la décision (voir L3 instit euro).
-
-Ce six pack va renforcer les deux volets du TSC (partie préventive etcorrecitve).
-
-  
-
-Depuis le six pack, laPDE peut etredéclenchée en cas de dette excessive. R
-
-  
-
-Mais la grande nouveauté du six pack… règle de la majorité qualifiée inversée.
-
-  
-
-Le six pack prévoit une réduction progressive de la dette publique. La commission peut demander la posiiilité de demander des corrections…
-
-  
-
-  
+Pour renforcer l'application de ce semestre européen, la Commission a acquis de nouvelles armes avec deux « paquets législatifs » européens, appelés « six pack » et « two pack », adoptés en 2012 et 2013, qui, en s'insérant dans le semestre européen, le rende plus contraignant. Le Six Pack , accorde à la Commission la possibilité de demander des corrections aux projets des Etats membres. Dans ce cas, ces derniers doivent amender leurs projets et publier un « plan d'action correctif. » Il accorde également à la Commission la possibilité de limiter la croissance des dépenses publiques des Etats pour éviter tout dérapage. Mais l'essentiel du « Six Pack » tient dans l'aspect répressif. Désormais, la Commission peut lancer, après deux rappels, une procédure dite « d'application rigoureuse » contre un Etat. Dans ce cas, l'Etat doit verser une garantie portant intérêt qui peut aller jusqu'à 0,1 % du PIB. Si la Commission décide d'affliger une sanction à l'Etat concerné, alors ce dépôt est intégré à l'amende et n'est pas remboursé. Mais la grande nouveauté du Six-Pack, c'est que désormais, le Conseil européen doit suivre la décision de la Commission pour les sanctions, sauf à lui opposer une « majorité qualifiée inversée. » Or, cette majorité est très difficile à obtenir puisqu'elle suppose de réunir pas loin des quatre cinquièmes des voix pondérées. Autrement dit, un accord franco-allemand, comme en 2003 pour éviter les sanctions n'est plus possible.
 
 ##### C) Le two-pack
 
-Concerne que membres de la zone euro. Ce dispositif fixe un calendrier budgétaire commun pour les états membres. Avant 15 octobre. Puis avis avant 30 novembre. 
+Ce dispositif concerne uniquement les membres de la zone euro. Il fixe un calendrier budgétaire commun pour les États membres avec trois échéances principales :
 
-  
+1. Avant le **15 octobre** : soumission du projet de budget.
+2. Avant le **30 novembre** : émission d'un avis.
+3. Avant le **31 décembre** : adoption du budget final.
 
-Adopter budget avant 31 décembre. Donc 3 échéances au total.
+De plus, chaque année, le **programme de stabilité** doit être transmis à la Commission avant le **30 avril**.
 
-  
+Le _Two Pack_ impose aux États de présenter leur projet de budget à un organisme indépendant de contrôle budgétaire. Voir le site du Haut Conseil des Finances Publiques pour consulter les avis et synthèses (ex. : "vraisemblable", "soutenabilité à moyen terme").
 
-Programme de stabilité doit être transmis à la commission avant le 30 avril dechaque année. 
 
-  
+Au Six Pack s'ajoute le Two Pack. Ce paquet législatif complète le semestre européen en exigeant des Etats membres qu'ils adoptent leur projet de budget de l'année suivante avant le 15 octobre. La Commission examine alors le projet et émet un avis avant le 30 novembre. Bruxelles peut alors demander des modifications à ce projet. Par ailleurs, le two pack oblige les Etats à se fonder sur des prévisions de croissance indépendantes et à soumettre son budget à un organisme indépendant de contrôle budgétaire (en France, le Haut Conseil des Finances publiques). En cas de procédure de dépassement excessif, la Commission doit être constamment informés des mesures prises par l'Etat pour réduire son déficit. Elle peut, à tout moment, envoyer de nouvelles recommandations à l'Etat concerné. C'est un renforcement des mesures correctives prévues au Six Pack.
 
-« Le two pack oblige lesetats are fodder… ». Le projet de budget doit egret rasps à un organisme indépendant de contrôle budgétaire. 
+##### D) le TSCG
+Le **Traité sur la stabilité, la coordination et la gouvernance (TSCG)**, adopté en 2012 et entré en vigueur en 2013, impose aux États signataires d’inscrire une règle d’équilibre dans leur droit national. Selon le TSCG, un budget étatique est en équilibre lorsque le **déficit structurel** ne dépasse pas **0,5 % du PIB**.
 
-  
+1. **Situation budgétaire** : le solde structurel annuel ne doit pas dépasser 0,5 % du PIB, sauf si la dette est inférieure à 60 % du PIB, auquel cas ce seuil peut être relevé à 1 % (article 3 du TSCG).
+2. En droit de l’Union, il existe deux types de déficits à prendre en compte :
+    - Le **déficit structurel**
+    - Le **déficit effectif** des administrations publiques
 
-  
+Depuis le TSCG, le déficit des administrations publiques (solde effectif) est limité à **3 %**. Le **solde structurel** (déficit structurel) se calcule en soustrayant la composante conjoncturelle du solde effectif :
 
-Voir site haut fconseil finances publiques.
+**Solde structurel = solde effectif - composante conjoncturelle**
 
-  
+Les dépenses et recettes structurelles sont prévisibles, tandis que celles conjoncturelles sont imprévisibles. L'État doit réduire son **solde structurel** à un maximum de **0,5 % du PIB**.
 
-Voir liste des avis. Synthèse : « vraisemblable ». « La soutenabilité a mon term e… » 
 
-  
+Réduction de la dette publique
 
-Le pacte budgétaire
+**Article 4 du TSCG** : il fixe un rythme de réduction de la dette publique de **1/20 par an** pour les États ayant une dette publique supérieure à 60 % du PIB. Par exemple, si la dette publique est à 100 % du PIB, l’État, étant 40 points au-dessus du seuil, doit réduire sa dette de **2 points de PIB par an**.
 
-Relged’or :insertion dans les constituons.
+Suspension et modifications à venir (janvier 2025)
 
-  
+En raison de la guerre en Ukraine et de la crise de la COVID-19, le Pacte de Stabilité et de Croissance, le Six Pack, et d’autres règles budgétaires ont été suspendus. À partir du **1er janvier 2025**, de nouvelles dispositions seront mises en place. Des débats subsistent quant à la pertinence de ces règles :
 
-D) le TSCG
+1. Les sanctions sont peu appliquées voire inapplicables.
+2. Certains États membres remettent en question l’efficacité des sanctions financières.
+3. Toute modification des seuils nécessiterait une révision des traités, requérant l’unanimité.
 
-  
+À partir de janvier 2025, les règles seront ajustées, comme mentionné dans un article du **Monde du 21 décembre 2023** :
 
-Décidée 2012, entré en vigueur en 2013.
+- **Nouveau critère** : prise en compte de l'évolution des dépenses publiques.
+- La **limite du déficit structurel sera rehaussée à 1,5 % du PIB** (contre -0,5 % actuellement), permettant ainsi un assouplissement.
 
-  
 
-Objectif principe du TSCG est d’imposer aux états signataires l’insertiondnas leur droit national d’une règle d’équilibre. Selon le TSCG, un budget étatique d’un état est en équilibre, lorsque le déficit structurel ne dépasse pas 0,5% du PIB. 
-
-  
-
-a) la situation budgétaire des adm publiques d’une parti… si b) le solde struutel annuel dépasse pas 0,5%
-
-  
-
-  
-
-En droit de l’union; y’a 2 déficits :
-
-- Deficit strucutel
-- Deficit effectif des administrations publiques
-
-  
-
-Depuis le TSCG, 2 déficits sont a prendre escompte. Le premier déficit est limité à 3% (déficit adm publiques) (solde effectifs dans le tableau).
-
-Soldre structurel (deficit structurel) = solde effectif - composante solde structurel - solde conjoncturel . 
-
-  
-
-Les dépenses et recettes structelles sont prévisibles. Les recettes et dépenses conjocnturelles sont imprévisibles 
-
-  
-
-Etat doit réduire le solde structurel (recettes - repenses structurelles) à un seuil de 0,5% du PIB au maximum. 
-
-  
-
-  
-
-Article 3 TSCG seul peut etre réhausseur à 1%si le niveau de dette est infeeiru à 60%. Lorsque un écart est constaté entre le prévisionnel et le déficit d’execution, el gouvernement doit déclencher un mécanisme de correction. 
-
-  
-
-Article 4 du TSCG fixe un rythme de réduction de la dette publique. Le rythme est d’1/20 par an. Si un état a une dette publique évaluée à 100% du PIB, l’état est de 40 points au dessus duseuil de 60%. Ici l’état doit réduire sa dette de 1/20 par an, donc de 2 points de PIB par an.
-
-  
-
-En raison de la guerre en Ukraine et du covid,le PSC, six pack etc ont été suspendu. A partir du 1er janvier 2025, de nouvellesdispositions vont être mises en place. Des doutes persistent sur le dispositif. 1) les sanctions sont inappliqués ou inapplicables. Certains états membres s’interrogent sur la pertinence des sacntions financières. 3) lechangeme,nt des seuils nécessite une révision des traités. Donc unanimité.  
-
-  
-
-A partir du 1er janvier 2025 ça va changer. Articel monde 21 décembre 2023 nouveau pacte de stabilité. Changement ovuler correctif / préventif
-
-- Nouveau critère évolution des dépenses publiques.
-- Limite réhaussée à 1,5 points du PIB. Avant -0,5, donc lache du leste. 
-
+Dernière pierre à l'édifice : le pacte budgétaire inclus dans le Traité sur la stabilité, la gouvernance et la coopération (TSCG) . Ce pacte prévoit que les Etats de l'UE doivent disposer de budgets équilibrés. L'équilibre budgétaire signifie que le déficit structurel - nettoyé donc des effets de la conjoncture économique - ne doit pas dépasser 0,5 % du PIB. Cette « règle d'or » européenne devra devenir réalité en 2018. En cas de non respect de cette règle, la Commission pourra sanctionner le pays concerné à hauteur de 0,1 % du PIB. Là aussi, seule une « majorité qualifiée inversée » pourra bloquer une telle décision. Mais même alors, un Etat membre pourra porter l'affaire devant la Cour de Justice de l'UE qui pourra, en cas de manquement au traité, infliger la même sanction.

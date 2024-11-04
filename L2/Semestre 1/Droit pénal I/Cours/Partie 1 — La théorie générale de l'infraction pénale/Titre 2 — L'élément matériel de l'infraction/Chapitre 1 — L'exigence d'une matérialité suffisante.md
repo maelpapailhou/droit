@@ -7,7 +7,7 @@ Cette **trajectoire criminelle, infractionnelle, comporte 5 étapes** :
 2. ***La résolution criminelle*** / le projet.
 3. ***Les actes préparatoires*** / la préparation de l'infraction.
 4. ***Le commencement d'exécution***.
-5. L***'exécution stricto sensu*** : la consommation de l'infraction.
+5. L'***exécution stricto sensu*** : la consommation de l'infraction.
 
 **À partir de quel stade le droit pénal peut-il intervenir pour réprimer ?** 
 - Tout ce qui reste dans le for intérieur de l'individu échappe au droit pénal. Le droit pénal n'intervient qu'après l'extériorisation. 
@@ -139,13 +139,13 @@ Tant qu'il y a un désistement volontaire, spontané et antérieur à la consomm
 
 ### Section 2 : l'exécution infructueuse
 
-**Définition** : il s'agit de l'hypothèse dans laquelle l'auteur réalise les actes, mais la consommation de l'infraction ne se produit pas, indépendamment de sa volonté. L'exécution infructueuse recouvre deux cas de figure :
+**Définition** : il s'agit de l'hypothèse dans laquelle l'auteur réalise les actes, mais la ***consommation de l'infraction ne se produit pas, indépendamment de sa volonté***. 
 
-1. **L'infraction manquée** : vous voulez tuer quelqu'un mais vous le manquez, ou la victime s'échappe. Cela sera punissable sur le terrain de la tentative. La contravention manquée, cependant, ne fonctionne pas.
+L'**exécution infructueuse** recouvre deux cas de figure :
+1. **L'infraction manquée** : vous voulez tuer quelqu'un mais vous le manquez, ou la victime s'échappe. Cela sera ***punissable sur le terrain de la tentative***. La contravention manquée, cependant, ne fonctionne pas.
 2. **L'infraction impossible** : elle ne peut pas être consommée en raison d'un fait extérieur.
 
-Deux théories existent :
-
+**Deux théories existent** :
 1. Dès lors que l'infraction n'est pas objectivement consommable, le comportement doit rester impuni.
 2. Même si l'infraction n'est pas consommée, elle peut être tentée.
 

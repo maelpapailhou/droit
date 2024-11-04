@@ -1,4 +1,4 @@
-### Titre 0 : Généralités
+## Titre 0 : Généralités
 - Chapitre 0 : Introduction
 	- Section 1 : la définition d'une obligation
 	- Section 2 : l'importance du droit des obligations
@@ -25,7 +25,7 @@
 	- Section 7 : les contrats cadre et les contrats d'application
 	- Section 8 : les contrats à exécution instantané et les contrats à exécution successive
 
-#### Titre 1 : La formation du contrat
+## Titre 1 : La formation du contrat
 - **Chapitre 1 : La conclusion du contrat**
 	- Section 1 : les négociations
 		- Paragraphe 1 : la liberté de négociation

@@ -1,3 +1,0 @@
-https://www.doc-du-juriste.com/droit-public-et-international/droit-administratif/dissertation/fonctions-interet-general-droit-administratif-638702.html?utm_source=search&utm_medium=internal
-
-https://www.doc-du-juriste.com/droit-public-et-international/droit-administratif/dissertation/interet-general-droit-public-droit-public-francais-permet-concilier-poursuite-interet-general-respect-interets-prives-administres-638295.html?utm_source=search&utm_medium=internal
