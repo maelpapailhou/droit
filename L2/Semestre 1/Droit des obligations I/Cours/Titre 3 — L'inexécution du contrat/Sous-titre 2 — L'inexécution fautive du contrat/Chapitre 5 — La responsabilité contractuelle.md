@@ -1,283 +1,193 @@
-C’est une des notion les plus discutée en droit du contrat. 2 conceptions possibles : pour certains auteurs, qui sont majoritaires, la responsabilité contractuelle a une vocation indemnitaire et elle vise à indemniser tous les préjudices que subit un contractant du fait de l’inexécution du contrat.
+C’est une des notions les plus discutées en droit du contrat. Deux conceptions sont possibles : pour certains auteurs, qui sont majoritaires, la responsabilité contractuelle a une vocation indemnitaire et vise à indemniser tous les préjudices que subit un contractant du fait de l’inexécution du contrat.
 
-  
+D’autres auteurs minoritaires ne sont pas d’accord avec cette présentation. Ils considèrent que cette approche inclut dans le contrat des préjudices qui n’ont rien à voir avec son exécution. Lorsqu’un vendeur vend une télévision, il ne s'attend pas à devoir payer pour des préjudices qui vont au-delà de la simple inexécution contractuelle. Ils estiment qu’il faut revenir à une vision plus stricte de la responsabilité contractuelle, selon laquelle celle-ci n’a pas une finalité indemnitaire mais satisfactoire, c’est-à-dire qu’elle vise à donner au créancier la satisfaction attendue du contrat dont il a été privé. Tous les autres préjudices n’ont rien à voir avec le contrat.
 
-D’autres auteurs minoritaires sont pas d’accord avec cette présentation. Ils considèrent que cette présentation fait entrer dans le contrat des préjudices qui n’ont rien à voir avec l’exécution du contrat. Quand le vendeur a vendu la télévision, il s’attendait pas à payer tout ce préjudice. Il considerante quel faut revenir a une vision plus saine de la responsabilité du contrat. Pour eux la responsabilité contractuelle n’a pas une finalité indemnitaire, elle a une indemnité satisfactoire. Càd qu’elle a pour finalité de donner au créancier la satisfaction qu’il attendait du contrat et de laquelle il a été privée. Tous les autres préjudices n’ont rien a voir avec le contrat.
+Ces préjudices peuvent certes être réparés, mais sur le terrain de la responsabilité délictuelle, en application des ==articles 1240 et suivants du Code civil==. Carbonnier soutenait cette idée et écrivait qu’il faut « chasser du contrat les bras cassés » et autres dommages qui n’ont rien à voir avec l’obligation principale.
 
-  
+Ainsi, tous les préjudices peuvent être indemnisés dans le cadre de la responsabilité délictuelle, comme les frais d’hospitalisation, par exemple. En somme, ce qu’on appelle responsabilité contractuelle n’est rien d’autre que l’exécution du contrat.
 
-Ils ont certes vocations à eta réparé, mais sur le terrain de la responsabilité délictuelle, articles 1240 et suivants du code civil. 
+Il existe donc deux conceptions de la responsabilité contractuelle : pour certains, elle est indemnitaire, pour d’autres, elle est seulement satisfactoire.
 
-  
+Résumé : 
 
-Carbonniersoutenait cette idée et écrivait qu’il faut chasser du contrat les bras casés et les ???.
+La notion de responsabilité contractuelle est effectivement un sujet de débat en droit. Voici une explication de ses différentes facettes et de la critique qui en est faite :
 
-  
+1. **Origine et définition actuelle :**
+   La notion de responsabilité contractuelle a été initialement formulée par Planiol, même s’il n’avait pas pour objectif de la définir comme on l’entend aujourd’hui. Dans le droit positif actuel, la responsabilité contractuelle est principalement comprise comme une obligation d’indemnisation. Autrement dit, lorsqu’une partie à un contrat (le débiteur) manque à son obligation, elle est tenue de réparer tous les dommages causés par son inexécution.
 
-Donc tout le préjudice pourront être indemnisé sur le Terran délictuel ex frais hospitalisation.
+   Exemple : Un vendeur de télévision vend un appareil qui explose et cause des blessures graves à des personnes présentes. Dans ce cas, au titre de la responsabilité contractuelle, le vendeur est tenu de réparer l'intégralité des préjudices causés, incluant le prix de la télévision, les dégâts matériels, et les compensations pour les personnes blessées.
 
-  
+   Cette compréhension conduit à un « renflement » de la responsabilité contractuelle, où elle est devenue une obligation de dédommager, s’élargissant au-delà de la simple réparation des préjudices liés au contrat lui-même.
 
-Mais ce qu’on appelle responsabilité contractuelle n’est rien d’autre que l’ exécution u contrat. 
+2. **Critique de la notion actuelle :**
+   Plusieurs auteurs estiment que cette acception actuelle est excessive et qu’elle dénature la véritable fonction de la responsabilité contractuelle. Ils proposent de revenir à une notion plus restreinte, qui se concentrerait sur la simple satisfaction du créancier. Selon cette conception, la responsabilité contractuelle devrait permettre d’assurer l’exécution du contrat (soit en nature, soit par une somme d’argent), de sorte que le créancier obtienne ce qu’il attendait du contrat initial.
 
-  
+   Ainsi, la responsabilité contractuelle ne viserait plus à indemniser tous les dommages mais seulement à garantir la satisfaction prévue par le contrat. Les préjudices en dehors de cette satisfaction contractuelle devraient être traités dans le cadre de la responsabilité délictuelle.
 
-Il existe 2 conception de la responsabilité contracutelle, pour certains elle est indemnitaire, poru d’autres elle est seulement satisfactoire. 
+3. **Résumé de la critique :**
+   Les critiques disent que l’appellation « responsabilité contractuelle » est trompeuse. En réalité, elle se confond avec l’exécution du contrat. L’idée est que le débiteur ne devrait pas être responsable de manière générale des dommages mais uniquement tenu d’exécuter le contrat ou, si cela est impossible, de compenser cette inexécution de façon équivalente.
 
-  
+# Section 1 : Les conditions de la responsabilité contractuelle
 
-# Section 1. Les conditions de la responsabilité contractuelle
-
-  
-
-Responsabilité délictuelle (=extra contractuelle), il faut : 
-
+Pour engager la responsabilité délictuelle (=extra-contractuelle), il faut :
 - une faute
-- Un dommage
-- Un lien de causalité entre les deux
+- un dommage
+- un lien de causalité entre les deux
 
-  
+En matière contractuelle, il faut une faute et un dommage.
 
-En matière contracutelle, c’est une faute, et un dommage
-
-  
-
-## Paragraphe 1 : une faute
-
-  
+## Paragraphe 1 : La faute
 
 ### 1) La preuve de la faute
 
-  
+Lorsqu’un contractant demande des dommages-intérêts à son partenaire, il doit démontrer que son cocontractant a commis une faute, c’est-à-dire qu’il a manqué à ses obligations contractuelles.
 
-lorqu’un contractant entend demander des dommages-interers à son partenaire, il doit démonter que son co contractant a omis une faute, ccd qu’il a manqué au contrat, qu’il n’a pas respecté le contrat.
+La preuve de la faute dépend de la nature de l’obligation inexécutée. On distingue entre obligation de résultat et obligation de moyens. 
 
-  
+Si l’**obligation est de résultat**, c’est-à-dire que le contractant s’était engagé à atteindre un résultat précis, le simple fait que ce résultat ne soit pas atteint prouve la faute du débiteur.
 
-La preuve de la faute va dépendre de la nature de l’obligation qui a été inexécutée. Distinction entre obligation de résultat et obligations e moyen. Si obligation est une obligation de résultat, ccd si le contractant s’était obligé à atteindre un résultat, le simple fait que ce résultat ne soit pas atteint, prouve la faute du contrat
+*Exemple : un fournisseur doit livrer une marchandise le 1er décembre, mais au 3 décembre, la livraison n’a toujours pas eu lieu. Ici, il y a un manquement contractuel.*
 
-  
+En revanche, dans une **obligation de moyens**, le contractant ne promet pas d’atteindre un résultat mais seulement de mettre en œuvre tous les moyens à sa disposition pour l’atteindre. 
 
-Ex on doti livrer une marchandise au premier décembre, au 3 décembre otoujours pas livré, ici manquement contractuel.
+*Exemple : un avocat ne promet jamais de gagner un procès. Il promet seulement de mettre en œuvre toutes ses compétences pour y parvenir.*
 
-  
+Dans ce cas, le simple fait que le résultat n’ait pas été atteint ne révèle pas la faute du contractant. Il faut que le créancier prouve que son cocontractant n’a pas déployé tous les moyens disponibles. Exemple : un avocat qui ne connaît pas les dernières lois et jurisprudences.
 
-Obligation de moyens : en ce cas, el contractant ne promet pas d’atteindre un résultat, il promet seulement de mettre en oeuvre tous les moyens u’il a a sa disposition pour atteindre ce résultat.
+Bien que cette distinction entre obligation de moyens et de résultat semble simple, elle peut poser des difficultés dans certaines situations.
 
-  
+Exemples :
+- **Médecin** : normalement tenu d’une obligation de moyens, il promet simplement de mettre en œuvre ses connaissances. Pourtant, dans certaines situations, la Cour de cassation a estimé que certains médecins avaient une obligation de résultat, comme dans le cas du chirurgien esthétique ou du prothésiste dentaire, où il n’y a pas d’aléa.
+- **Obligation de sécurité** : lorsqu’un prestataire fournit une activité sportive, il a une obligation de sécurité. Par exemple, pour un novice en plongée, il y a une obligation de sécurité de résultat. Si un accident survient, cela prouve la faute du prestataire. Par contre, pour une personne autonome, il s’agit d’une obligation de moyens, et il faudra prouver que le prestataire n’a pas mis en œuvre tous les moyens de sécurité nécessaires.
 
-Ex avocat promet jamais de gagne rle dossier. Il promet seulement de mettre en ouvre toutes ces connaissances afin de permettre de gagner le procès. 
+- **Responsabilité médicale**
 
-  
+<u>Cass. civ., 20 mai 1936</u>
+quand la responsabilité était de nature contractuelle, le principe était celui d'une obligation de moyens
 
-Le simple fait que le résultat n’ai pas été atteint le révèle pas de la faute du contractant. Il faut que le créancier prouve que le son cocontractant n’a pas mis en oeuvre tous les moyens qu’il avait a sa disposions. Ex avocat qui connait pas les derniers lois et jurisprudence
+« attendu qu'il se forme entre le médecin et son client un véritable contrat comportant, pour le praticien, l'engagement, sinon, bien évidemment, de guérir le malade, ce qui n'a d'ailleurs jamais été allégué, du moins celui de donner des soins, non pas quelconque, mais consciencieux, attentifs et, réserve faites de circonstances exceptionnelles, conformes aux données acquises de la science »
 
-  
+Cependant, face aux progrès de la médecine et l'absence d'aléa de certains actes médicaux, la jurisprudence a retenu que le chirurgien esthétique, le prothésiste dentaire étaient tenus d'une véritable obligation de résultat.
 
-Cette distinction entre obligation de moyen et de résultat a l’air facile de mettre en oeuvre. Pourtant certaines situations om difficile de voir si obligation de moyens ou de résultat.
+<u>Cass. civ. 1ère, 29 juin 1999</u>
+un médecin est tenu, à l'égard de son patient, en matière d'infection nosocomiale, d'une véritable obligation de sécurité de résultat, dont il ne peut se libérer qu'en rapportant la preuve d'une cause étrangère
 
-  
+<u>Cass. civ. 1ère, 14 octobre 2010</u>
+Dans un dernier mouvement, elle a admis que la responsabilité du médecin était de nature délictuelle
 
-Exemples
+- Obligation de sécurité
 
-- obligation du médecin : noramelemetn il est tenu d’une obligation de moyen.  Il promet juste de mettre en oeuvre ses conasiacnes. Pourtant dans bcp d’hypothses cour de cassation a considéré que obligation de certains médecins était une obligation de résultat, ex obligation de résultat poiur le chirurgien esthétique, pour le prothésiste dentaire, anesthésiste. Donc dans certains actes médicaux aucun aléa. 
-- Obligation de sécurité : service d’un prestataire pour activité sportive quelconque, il est tenu à votre égard d’une obligation de sécurité. Plongée, parapente, balade à cheval, etc. Obligation de sécurité de moyen ou de résultat ? Il faut distinguer en fonction du rôle actif oui passif que joue le responsable. Ex si on est novice, le club est tenu d’une obligation de sécurité de résultat. Si le client se blesse, ça révèle la faute du club. Mais il se peut éganelemtn qu’on soit autonome, en parachute, ou niveau de plongé, dans ce cas là on a un rôle actif. Donc sécurité pas assurée révèle pas la faute du club. Il faudra prouver que le club n’a pas mis en place tous les moyens mis à sa disposition pour assurer la sécurité
+<u>Cass. civ. 1ère, 5 novembre 1996</u>
+est-il actif, il s'agit d'une obligation de sécurité de moyens 
 
-  
+« L'association organisant un stage de parapente, n'étant tenue que d'une obligation de moyens, commet une faute en n'interrogeant pas la stagiaire avant son premier saut sur son niveau et son état physique et psychologique »;
+
+<u>Cass. civ. 1ère, 21 octobre 1997</u>
+est-il passif, d'une obligation de sécurité de résultat 
+
+« l'organisateur d'un vol en parapente et le moniteur sont tenus d'une obligation de résultat en ce qui concerne la sécurité de leurs clients pendant le vol sur des appareils bi-places au cours duquel ceux-ci n'ont joué aucun rôle actif »
 
 ### 2) L’influence de la gravité de la faute
 
-À rome y’avait tout eune théorie de la gradation des fautes, on dostinugait la faut très legerere, légère, blâmable, lourdre, très lourde, la faute dolosive.
+À Rome, il existait une théorie de la gradation des fautes : faute légère, blâmable, lourde, très lourde, ou dolosive.
 
-  
+Ainsi, tout manquement contractuel, qu’il soit léger ou grave, peut ouvrir droit à la responsabilité contractuelle et permettre au créancier d’agir contre le débiteur.
 
-Des lors, tout manquement contractuel du plus léger au plu simportant,  ouvre droit à la responsabilité contractuelle. Permet au créancier de mettre en jeu la responsabilité contractuelle du débiteur. 
+Exemple : dans un contrat de location, il existe des obligations principales comme le paiement du loyer, et des obligations secondaires comme sortir les poubelles. Un manquement à ces dernières peut également engager la responsabilité du locataire.
 
-  
+---
 
-Ex locataire, dans contrat de location obligation principale, comme loyer, et obligation résiduelle, comme sortir les poubelles. On engage quand meme sa responsabilité. 
+Dans l'Ancien droit, on distinguait les fautes en fonction de leur gravité. Selon le type du contrat et selon la gravité de la faute (culpa levissima, culpa levis, faute intentionnelle), la responsabilité du contractant pouvait n'être pas engagée. Le Code civil n'a pas repris ces distinctions qui étaient difficiles à mettre en œuvre. Le principe est donc que la responsabilité contractuelle est encourue quelle que soit la gravité de la faute commise : de la plus légère, à la plus lourde
 
-  
+On aurait pourtant tort de penser que les distinctions anciennes sont totalement inutiles : la clause limitative de responsabilité sera ainsi paralysée en cas de faute lourde assimilable au dol (cf. infra). De plus, le droit du travail connaît toute une gradation des fautes, de la faute légère, à la faute lourde et à la faute grave.
 
-## Paragraphe. 2 : un dommage
+<u>Cass. civ. 1ère, 14 novembre 2018</u>
+On relèvera ainsi un arrêt qui consacre la prise en compte de la faute grave. 
 
+En l'espèce, un contrat conclu entre une clinique et un médecin. La clinique avait laissé un préavis de six mois au médecin mais refusait de lui verser une indemnité de fin de contrat en prétextant qu'il avait commis une faute grave. 
 
-### 1. La nécessité du dommage
+La Cour juge : « Mais attendu qu'une faute grave, par son importance, rend impossible le maintien d'un contrat d'exploitation ou d'exercice conclu entre un professionnel de santé et un établissement de santé pendant la durée même limitée du préavis ; qu'elle ne peut, dès lors, être retenue que si la résiliation a été prononcée avec un effet immédiat ; que la cour d'appel a relevé que la clinique avait résilié le contrat en accordant à la société un préavis de six mois ; qu'il en résulte que la faute grave ne pouvait qu'être écartée » 
 
-  
+## Paragraphe 2 : Le dommage
 
-Réponses très variées pdans la jurisprudence: 
+### 1) La nécessité du dommage
 
-  
+Les réponses varient beaucoup dans la jurisprudence.
 
-1civ 19 novembre 1996 : en l’espece il s’agit d’un médecin qui cede son cabinet a un de ces confrères et qui prends l’engagement de ne pas se réinsérer à proximité pendant 2 ans. Le médecin cédant se réinstalle. Le cessionnaire l’assigne en responsabilité contractuelle. 
+- **1re civ., 19 novembre 1996** : Un médecin vend son cabinet à un confrère et s'engage à ne pas s’installer à proximité pendant deux ans. Il ne respecte pas cet engagement. Le cessionnaire le poursuit en responsabilité contractuelle, mais le défendeur fait valoir qu’aucun préjudice n’a été subi. La Cour considère alors qu’en l'absence de dommage prouvé, il n'y a pas lieu à responsabilité contractuelle.
+- **3e civ., 30 janvier 2002** : dans un contrat de bail, le locataire s’était engagé à rendre les lieux en bon état. Bien que le bailleur projette de détruire l’immeuble, la Cour juge que le locataire doit être condamné même si aucun préjudice n’est prouvé.
+- **1re civ., 10 mai 2005** : une clause de non-concurrence est violée. La Cour de cassation considère que le simple fait de contrevenir à l’obligation est suffisant pour ouvrir droit aux dommages-intérêts, sans nécessité de prouver un préjudice.
 
-  
+Dans la jurisprudence récente (3 arrêts du 27 juin 2024), la Cour a confirmé que, sans preuve de préjudice, un bailleur est débouté de son action en responsabilité contractuelle.
 
-Le défendeur fait valoir que en réalité le demandeur ne subit aucun préjudice, aucun dommage. Son chiffre d’affaires à pas baisser. Peut pas démontrer qu’il a pris des clients donc le défendeur fait valoir qu’il ne subit aucun dommage, aucun préjudice. Elle considere que des que l’acheteur ne démontre pas subir un préjudice il ne peut pas intenter d’action en responsabilité contractuelle.
-
-  
-
-Donc contrat inexécuté et pas de sanction. Donc arret peut être critiqué en ce quil méconnait de la force obligatoire du contrat. 
-
-  
-
-3civ 30 janvier 2002 : en l’espace il s’agissait d’un bail, le locataire s’était engagé à rendre les lieux en bon état de réparation locative. Il avait rendu les lieux dans un état déplorable, et le bailleur demandait à ce que le locataire soit condamné à payer une certaines sommes représentant le stravaux qui’l allait devoir faire. Le locataire se défend en faisant valoir qu’en réalité l e bailleur ne subit aucun préjudice, car il va détruire l’immeuble pour le reconstruire. La cour de cassation juge que le locataire doit être condamné à payer la somme au motif suivant « l’indeminsationdu bailleur en raison de inexécution par le locataire prévu au bail, n’est subordonnée n a exécution des réparations, ni a la justification d’un préjudice ». 
-
-  
-
-3civ 3 décembre 2003 : exactement les meme faits, mais la cour de cassation fait un revirement jurisprudence, et retient que si le bailleur ne démontre pas qu’il subit un préjudice, il ne peut pas obtenir des dommages-intérêts.
-
-  
-
-1civ 10 mai 2005 il s’agit ici d’un contrat conclu entre un médecin et l’hopital. Ce contrat contient une clause de non concurrence, selon laquelle si le contrat prend fin pour quelque raison que ce soit, le médecin n’a pas le droit d’aller exercer dans la meme ville pendant un certain temps. Agence régionale de santé décide que la spécialité du médecin ne sera plus proposée à l’hôpital mais a la clinique de la meme ville. Hôpital assigne le médecin. Le médecin se défend en faisant valoir que hôpital ne subit aucun préjudice, car il peut plsu proposer la dite spécialité. Donc cause aucun préjudice à l’hôpital. Pourtant cour de cassation juge que lorsque obligation de ne pas faire, celui qui contrevient doit des dommages intérêts par les seuls faits de la contravention
-
-  
-
-3 arrets recents 27 juin 2024, exactement les meme cas pour le bail. Le locataire s’état engagé a rendre les lieu en bon etat, pas le cas, le bailleur assigne le locataire en paient du’n e somme d’argent équivalent au cout des travaux. Dans les 3 affaires se défend que il subit aucun préjudice, car immeuble a vocation à être détruit, parce que le le bailleur a déjà reloué les lieux sans faire les travaux mais poru le meme loyer, et bailleur avait revendu immeuble et ne démontrait pas qu'il avait obtenu un prix faible en raison des travaux qui restaient a effectué. 
-
-  
-
-La cour de cassation retient la meme oslutin qu’en 2003, le bailleur démontre pas qu’il subit un préjudice, donc il est débuté de son ction en resposanbiltié contractuelle.
-
-  
-
-Ces arrêts peuvent sembler incohérents les uns avec les autres. Peut être que tout dépend de l’habiliter de avocat. La responsabilité a ue double fonction : et satisfactoire, et indemnitaire. (Selon Seube). Mais avocats a tout intérêt à clairement distinguer les différents chefs de demande de dommage et intérêts. Sil demande seulement une somme d’argent qui correspond à l’exécution du contrat par équivalent, dans ce cas pas besoin de prouver un dommage, le créancier a droit à ce que les obligations du contrat soit exécuté  
-
-  
-
-Indemnisation du préjudice : est nécessaire que le contractant démontre la réalité de ce préjudice. 
-
-  
-
-  
+Ces arrêts peuvent sembler incohérents. Selon Seube, la responsabilité a une double fonction : satisfactoire et indemnitaire. Les avocats doivent bien distinguer les demandes pour obtenir réparation de préjudices différents.
 
 ### 2) La prévisibilité du dommage
 
-  
+L'==article 1231-3 du Code civil== stipule que le débiteur n'est tenu que des dommages-intérêts prévus ou prévisibles lors de la conclusion du contrat. 
 
-Article 2231-3 « le débiteur n’est tenu que des dommages-intérêts prévu ou qui pouvaient être prévus lors de la conclusion du contrat ». Ce texte pose la regle seuls les dommages prévisibles pourront être réparés.
+Exemple tiré de Potier : un paysan vend une vache qui contamine le troupeau de l'acheteur. Celui-ci, ruiné, se suicide. Potier explique que la vente de la vache n'engage pas le vendeur à indemniser pour le décès de l'acheteur.
 
-  
+Des arrêts récents montrent que cette règle est encore appliquée.
+- **1re civ., 28 avril 2011** : des voyageurs ratent leur vol pour Cuba à cause d'un train en retard. La Cour juge que la SNCF n’avait pas à prévoir la destination finale.
+- **1re civ., 26 septembre 2012** : un avocat rate un procès en raison du retard d'un train. La Cour considère que ce préjudice n'était pas prévisible.
 
-Cette regle est directement tirée de l'exemple de Potier : exemple vend une vache a un autre paysant, mais la vache est malade et contamine tout le troupeau de l’acheteur. Tout son cheptel meurt, l’acheteur est ruiné et se suicide. Quelles sont les préjudices? Potier explique, quand on vend une vache, on peut pas s’attendre à réparer la le préjudice de la mort d’un homme.
-
-  
-
-Ajd cette regle selon laquelle on répare que les dommages prévisibles est passé sous le silence par les tribunaux, donc à indemniser les victimes. 
-
-  
-
-2 arrêts qui montrent que la regle de article 1231-3 conservent encore de la verdeur.
-
-  
-
-Arret 1civ 28 avril 2011 : couple de voyageurs qui économise depuis des années pour s’offrir un séjour a cuba. Donc achètent leur billets d’avion, mais habite Toulouse. Billet de train à la sncf. Le train s’arrête en campagne, et quand ils seront à Roissy, l’avion aura déjà décollé. Donc le couple de voyageurs assigne la SNCF en réparation du préjudice. Demande le remboursement de tout le voyage à cuba. Les juges du fond font droit à cette edemande. L’arrêt est cassé, car les juges n’ont pas expliqué en quoi la sncf pouvait prévoir lors de la conclusion du contrat que le terme du voyage en train n’était pas la destination finale du voyageur. 
-
-  
-
-1civ 26 septembre 2012, SNCF. Avocat parisien qui prend le train pour aller plaider un dossier important a marseilles. Le train arrive en retard, avocat rate audience et perd son procès. Il demande à la SNCF de réparer le préjudice qu’il subit. Cour de cassation juge que dommage imprévisible, eta ue la SNCF ne pouvait pas prévoir,
-
-  
-
-Ces arrêts sont totalement isolés. Sinon SNCF ou airfrance serait en faillite. 
-
-  
-
-  
+Ces décisions restent isolées ; dans la majorité des cas, les juges tendent à indemniser les victimes même pour des dommages indirectement liés au contrat.
 
 # Section 2 : la mise en oeuvre de la reps contracutelle
 
-  
-
 ### 1) La règle du non cumul des responsabilités. 
 
-  
+Lorsqu’un contrat a été conclu entre deux personnes et que ce contrat a été mal exécuté, le créancier ne peut invoquer que la responsabilité contractuelle. Il ne peut pas mettre en jeu la responsabilité extracontractuelle de son partenaire, même si cela pourrait lui être avantageux.
 
-Lorsque’n contra ta été conclu entre 2 personnes, et que ce contrat a mal été exécuté, le créancier ne peut mettre ne jeu que la responsabilité contractuelle, il ne peut pas mettre en jeu la responsabilité extra contractuelle de son partenaire quand bien meme il y aurai intérêt.
+Ces avantages potentiels sont nombreux : les règles de prescription peuvent être différentes, les règles concernant le tribunal compétent, ainsi que les clauses limitatives de responsabilité.
 
-  
+Le contractant ne peut pas choisir d’invoquer la responsabilité délictuelle pour assigner son partenaire ; il ne peut l’assigner que sur le terrain contractuel. La chambre civile de la Cour de cassation a affirmé dans un arrêt du 6 avril 1927 que « les articles 1382 et suivants (devenus articles 1240) ne sont pas applicables lorsqu’il s’agit d'une faute commise dans l’inexécution résultant d’une obligation découlant d’un contrat ».
 
-Ces intérêts sont nombreux : regles de prescription peuvent ne pas e^tre les meme, regles tribunal compétent, clause limitative de responsabilité. 
+### 2) La règle d’exigence d’une mise en demeure
 
-  
+Selon l’==article 1231 du Code civil== : « À moins que l’inexécution ne soit définitive, les dommages et intérêts ne sont dus que si le débiteur a préalablement été mis en demeure de s’exécuter dans un délai raisonnable. »
 
-Le contractant ne peut pas choisir la responsabilité délictuelle poiur assigner son partenaire, ik en peut l’assigner que sur le terrain contractuel. La chambre civil de la cour de cassation Ayant retenu le 6 avril 1927 « les article 1382 et suivants (devenu articles 1240) ne sont pas applicables lorsque’l s’agit d'une faute commise dans inexécution résultat d’une obligation résultat d’un contart ».
+Cette règle s’explique par le fait qu’il est possible que l’on ait simplement oublié le contrat. La mise en demeure rappelle l’existence du contrat. Elle a également un intérêt en termes de preuve.
 
-  
+La mise en demeure est évoquée aux ==articles 1344 et suivants du Code civil== : « Le débiteur est mis en demeure par un acte portant une interpellation suffisante. » En d’autres termes, la mise en demeure doit être assez ferme.
 
-### 2) la règle d'exigeance d’une mise en demeure
-
-  
-
-Article 1231 « a moins que inexécution ne soit définitive, les dommages et intérêts ne sont dû que si le débiteur a préalablement été mis en demeure de s’exécuter dans un délais raisonable ». 
-
-  
-
-S’explique car possible qu’on ai oublié le contrat. La mise en demeure rappelle existence du contrat. Également mise en demeure a un intérêt en terme de preuve
-
-  
-
-Mis een demeure évoqué articles 1344 et suivants du code civil « le débiteur est mis en demeure par un acte portant une interpellation sufifsante ». En d’autre termes, la mise en demeure doit être assez ferme.
-
-  
-
-« Par la présente je vous mets en demeure de le faire sous 15 jours, sous réserve de quoi..; » etc. 
-
-  
-
-  
+Exemple : « Par la présente, je vous mets en demeure de le faire sous 15 jours, sous réserve de quoi... »
 
 # Section 3 : les aménagements conventionnels
 
-  
-
-Les partis peuvent stipuler les clauses pour encadrer leur responsabilité contractuelle. Il s’agit d’abord des clauses limitatives de responsabilité et des clauses pénales.
-
-  
+Les parties peuvent stipuler des clauses pour encadrer leur responsabilité contractuelle. Il s’agit principalement des clauses limitatives de responsabilité et des clauses pénales.
 
 ## Paragraphe 1 : Les clauses limitatives de responsabilité 
 
-  
+Les clauses limitatives de responsabilité sont celles par lesquelles un contractant limite les conséquences financières de son éventuelle inexécution contractuelle. Par exemple, une clause pourrait stipuler que, si le contractant n’exécute pas ses obligations, sa responsabilité est limitée à 100. D’un point de vue économique, ces clauses sont très importantes, car elles permettent au contractant de connaître à l’avance le montant maximal qu’il devra payer en cas de mauvaise exécution du contrat, ce qui facilite la gestion des assurances. Par exemple, s’il fallait indemniser chaque passager à hauteur de son préjudice réel pour un avion arrivant en retard, cela coûterait trop cher.
 
-Clauses par lesquelles un contractant va limiter les conséquences financières de son éventuelle inexécution contractuelle. Ex je m’engage envers vous à signer un contrat, clause selon laquelle si il exécute pas s areposnabiltié est limitée à 100. D’un point de vu economqieu ces clauses limitatives de responsabilité du contrat son très importâtes. Car le contractant sait à l’avance combien il paiera au maximum si jamais il exécute mal le contrat. Ça va lui permettre de s’assurer efficacement. Ex si on doit indemniser chaque passager a hauteur du préjudice réel, ça coute trop cher si avion arrive en retard. 
+Les clauses limitatives de responsabilité rendent les conséquences de l'inexécution plus prévisibles.
 
-  
+**Principe :** La validité des clauses limitatives de responsabilité. L’==article 1231-3 du Code ==civil stipule que le débiteur n’est tenu que des dommages et intérêts qui étaient prévus ou pouvaient être prévus lors de la conclusion du contrat. Ainsi, les contractants peuvent valablement prévoir, plafonner et limiter le montant des sommes qui seront versées à titre de dommages et intérêts.
 
-Clause limitative de responsabilité est plsu prévisible. 
+**Exceptions :**
 
-  
+1. **Textes spéciaux prévus par le législateur :** Certaines branches du droit interdisent ou encadrent les clauses limitatives de responsabilité. Par exemple, en droit du travail, un employeur ne peut pas limiter sa responsabilité envers son salarié. En droit de la consommation, un vendeur professionnel ne peut pas limiter sa responsabilité face à un consommateur.
 
-Principe : celui de la validité des clauses limitatives de responsabilité. Article 1231-3 : le débiteur n’est tenu que des dommages intérêts qui ont été prévus ou qui pouvaient être prévus lors de la conclusion du contrat. Les contractant peuvent valablement prévoir, plafonner, limiter le montant des sommes qui se verseront à titre de dommages et intérêts. Article 1231-3 qui dispose que le débiteur n’est tenu que des dommages et intérêt. … etc.
+2. **Faute lourde assimilable au dol :** La jurisprudence considère que lorsqu’un contractant commet une faute lourde, presque intentionnelle, il ne peut pas invoquer la clause limitative de responsabilité. Par exemple, une société de transport effectuant une livraison entre Paris et Marseille s’arrête sur une aire de repos malgré l’interdiction du client. Le camion est volé pendant l’arrêt, et le client demande l’indemnisation de son préjudice. Le transporteur invoque une clause limitant sa responsabilité à 100 en cas de vol de marchandise. La Cour de cassation a jugé que le transporteur avait commis une faute lourde, assimilable au dol, et ne pouvait donc pas se prévaloir de la clause limitative.
 
-  
-
-3 exceptions :
-
-- : le législateur peut avoir prévu des textes spéciaux pour interdire, encadrer les clauses limitatives de responsabilité ex droit du travail. Un employer ne peut pas limiter sa responsabilité à l’égard de son salarié, droit de la consommation : un vendeur professionnel ne peut pas limiter sa respnsaboltié face à un acheteur consommateur. 
-- Jurisprudence a retenu que lorsqu’un contractant commettait une faute lourde, assimilable au dol, il ne pouvait pas invoquer à son profit la clause limitative de responsabilité qui l’avait stipulé. Donc faute particuliermeen grave, presque intentionnée. Société transporteur entre paris et marseilles, le client dit au treansoprter de pa s’arreter sur tel air de repos.  Le transporteur s’arrête sur l’air de repos, et quand il revient le camion a été dérobé. Le client demande indemnisation du préjudice, employeur dit que si marchandise dérobée, la responsabilité est limitée à 100. Cassation a. Considéré que transporteur a commis une faute lourde, assimilai au dol, donc peut pas invoque rà son profit la clause limitative de responsabilité. 
-- Exception : jurisprudence chrono post de chambre commercial 22 octobre 1996. Société privée qui confie a chrono post un acte de candidature une marché public. Quasi sur de remporter le marché, et l’a pas eu. Estime un préjudice. Chronopost dit que cause limitative de responsabilité. Enc as de livraison en retard du colis, la responsabilité du colis est limité à 2 fois le cout du service. Cour de cassation crée par arret chrono post : la clause limitative sera pas valable si elle porte sur une obligation essentielle du contrat, et si elle contredit la portée. S’explique aussi par la modicité du plafond, donc considéré qu’il contredisiat??. Arret consolidé par réforme de 2016 car article 1170 consacre et dépasse cet arrêt « toute clause qui prive de sa substance obligation essentielle du débiteur est réputée non écrite ». 
-
-  
+3. **Obligations essentielles du contrat :** Dans l’arrêt Chronopost du 22 octobre 1996, la Cour de cassation a jugé qu’une clause limitative de responsabilité n’est pas valable si elle porte sur une obligation essentielle du contrat et en contredit la portée. Dans cette affaire, une société privée avait confié un acte de candidature à Chronopost pour un marché public. Chronopost, en retard de livraison, avait invoqué une clause limitant sa responsabilité au double du coût du service. La Cour a considéré que la clause n’était pas valable, car elle privait l’obligation essentielle de sa substance. Cet arrêt a été consolidé par la réforme de 2016, qui a introduit l’article 1170 du Code civil : « Toute clause qui prive de sa substance l’obligation essentielle du débiteur est réputée non écrite. »
 
 ## Paragraphe 2 : Les clauses pénales
 
-  
+L’expression « clause pénale » n’a rien à voir avec le droit pénal ; il s’agit plutôt d’une clause de pénalités. C’est une clause par laquelle les parties conviennent qu’en cas de manquement contractuel, un contractant versera à l’autre une certaine somme d’argent forfaitaire à titre de dommages et intérêts.
 
-Expression clause pénale a rien a voir avec le droit pénal. C’est au sens de clause de pénalités. C’es une clause pa rlaquelel les parties conviennent que en cas de manquement contractuel, un contractant versera a l’autre une certaine somme d’argent forfaitaire à titre de dommages et intérêts. 
+La clause pénale a un effet comminatoire sur le débiteur, elle l’incite à s’exécuter. Par exemple, si un artisan est engagé pour réaliser des travaux avec un devis et un délai convenu, la clause pénale peut stipuler qu’en cas de dépassement de 10 jours, il devra payer 500 euros par jour de retard. Cette clause vise donc à motiver l’exécution dans les délais impartis.
 
-  
+Il ne faut pas confondre la clause pénale avec la clause limitative de responsabilité.
 
-La clause pénale a une ffet comminatoire sur le débiteur, elle l’insite à s’exécuter. Ex on demande a un artisan de faire des travaux. Fait un devis, avec un délais. Si il faut en plus de 10 jours il paiera a titre de clause forfaitaire 500eur par jours. Clause nominatoire a une clause élevée.
+- **Clause limitative de responsabilité :** Si un contractant manque à ses obligations, sa responsabilité est plafonnée à 100 euros.
+- **Clause pénale :** Si un contractant n’exécute pas ses obligations, il versera, à titre de clause pénale, la somme de 100 euros à son cocontractant. Cela permet d’éviter tout contentieux sur l’évaluation réelle du préjudice ; même si aucun préjudice n’est subi, le montant devra être payé.
 
-  
+Cependant, la clause pénale obéit à un régime juridique dérogatoire, prévu à l’article 1231-5, alinéa 2 du Code civil : « Le juge peut même d’office modérer ou augmenter la pénalité si elle est manifestement excessive ou dérisoire. » 
 
-Ne pas confondre la clause pénale avec la clause limitative de responsabilité. 
+En principe, le juge applique le contrat tel que les parties l’ont voulu, se positionnant en serviteur du contrat. Mais en matière de clause pénale, le juge dispose d’un véritable pouvoir modérateur : il peut ajuster le montant de la clause pénale, à la hausse ou à la baisse, si celui-ci est manifestement excessif ou dérisoire par rapport au préjudice réellement subi par le créancier. 
 
-  
+Ainsi, il est inutile de prévoir des clauses pénales excessivement élevées.
 
-SI un contractant manque à ses obligations, sa responsabilité est plafonnée a 100. C’est une clause limitative de responsabilité. Si un contractant exécuté pas se obligations, il versera a Tite de clause pénale la somme de 100 à son co contractant. Évite tout contentieux sur le chiffrage réel du préjudice. Meme si. On subit aucun préjudice, on devra le montant.
-
-  
-
-Mais obéit à régime juridique extrêmement dérogatoire article 1231-5 al 2. «  le juge peut meme d’office modérer, augmenter la pénalité si elle est manifestement excessive ou dérisoire. » en principe le juge applique le contrat tel que les partis l’ont voulu. En principe le juge est le serviteur du contrat. En matière de clausepénale le juge a un véritable pouvoir modérateur, càd qu’il va pouvoir moduler à la hausse ou à la baisse le montant de la clause pénale si il est manifestement excessif et dérisoire, par rapport au préjudice relelemnet subit par le créancier. Donc ne sert à rien de prévoir des clauses pénales extrêmement importants.

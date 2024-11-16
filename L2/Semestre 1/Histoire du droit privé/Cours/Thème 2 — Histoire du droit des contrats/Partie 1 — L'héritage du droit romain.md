@@ -307,7 +307,7 @@ Ce sont des accords, des conventions qui n'ont pas de valeur juridique. Il exist
 
 On dit à Rome que "du pacte nu ne naît aucune action". A priori, pas de possibilité. Mais si du pacte nu ne naît aucune action, les Romains vont inventer des pactes qui, eux, seront assortis d'une action juridique : ce sont les pactes "vêtus". Ces pactes n'existent pas à l'origine.
 
-Les pactes vêtus sont de trois sortes :
+**Les pactes vêtus sont de trois sortes** :
 1. des pactes qui vont être reconnus par le préteur, chargé de la justice. On parle alors de pactes prétoriens.
 2. ensuite, il va y avoir des pactes qui vont être ajoutés à un contrat préexistant. Il s'agit des pactes adjoints.
 3. des pactes qui vont être reconnus par la loi impériale, ce sont les pactes légitimes.

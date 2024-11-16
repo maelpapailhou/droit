@@ -1,3 +1,95 @@
+# Section 1 : les rapports entre la constitution et les normes internationales
+
+C’est une question épineuse d’établir une hiérarchie entre la Constitution (C°) et les normes internationales. Il est évident que le **droit international doit primer sur le droit national**, y compris la C°. L’existence même du droit international suppose sa primauté, ce qui s’exprime dans le principe _pacta sunt servanda_, mentionné à l’alinéa 14 du préambule de la Constitution, avec une conséquence concrète : l’État ne peut pas invoquer son droit national pour se soustraire à ses obligations nées du traité (convention de Vienne). Cette primauté a été consacrée par la jurisprudence des juridictions internationales et européennes. On distingue ainsi deux **ordres juridiques** sur le territoire européen : **le Conseil de l’Europe (1950)** et **l’Union européenne (1957)**.
+
+L’avis de la **Cour internationale de justice en 1932**, relatif au traitement des nationaux polonais, confirme que le droit international prime sur le droit interne, même constitutionnel. La CJCE (Cour de justice des Communautés européennes) a également affirmé la **supériorité du droit communautaire primaire et dérivé sur tout le droit national** dans l'arrêt du 17 décembre 1970, International Handelsgesellschaft. Un autre arrêt important est celui du **15 juillet 1964, Costa c. Enel**, qui introduit le mécanisme de la question préjudicielle pour garantir cette primauté. 
+
+L’article 189 des traités prévoit aussi cette primauté. 
+
+Du point de vue national, la solution inverse prévaut : le droit interne affirme la supériorité de sa norme suprême. L’alinéa 14 du préambule ne résout pas les questions de constitutionnalité des traités, et l’article 55 ne le fait pas davantage. En revanche, l’article 54 prévoit un contrôle a priori du traité par le Conseil constitutionnel, afin de s’assurer qu’il ne comporte pas de dispositions inconstitutionnelles. En réalité, les traités sont négociés avec de nombreux États ; il est souvent plus facile de modifier la C° que de modifier un traité. La France n’a d’ailleurs pas ratifié certains traités internationaux pour cette raison. 
+
+Les juges ordinaires et constitutionnels se prononcent également en faveur de la suprématie de la Constitution. Cette situation conduit à l’hypothèse d’une **inconventionnalité de la Constitution** et d’une **inconstitutionnalité du traité**.
+
+## Paragraphe 1 : L'inconventionnalité de la Constitution
+
+Cas du droit international classique diﬀérent du droit de l’UE
+
+### A) Hypothèse où le droit international classique est invoqué.
+
+Dans cette hypothèse, on imagine un acte administratif pris directement sur le fondement d’une décision constitutionnelle ; la Constitution (C°) devient alors la base légale. Cependant, cet acte administratif méconnaît une disposition internationale, ce qui crée un problème de conformité entre la disposition internationale et la C°. Dans cette situation, la C° fait écran entre l’acte et la norme internationale. Le juge administratif (JA) estime alors que la C° prime, comme le montre l’arrêt du **30 octobre 1998, Assemblée, Sarran et Levacher**. Dans cet arrêt, les requérants introduisent un recours pour excès de pouvoir (REP) contre un décret organisant les élections en Nouvelle-Calédonie, qui institue un corps électoral restreint (plus de 10 ans de résidence requis). Les requérants demandent au Conseil d’État d’annuler ce décret, en soutenant qu’il est contraire au principe d’égalité consacré par les engagements internationaux, notamment les pactes internationaux relatifs aux droits civils et politiques et la Convention européenne des droits de l’Homme.
+
+L’un des requérants soulève ici l’inconventionnalité de la C° et demande d’écarter l’article 76, qui renvoyait à une loi. La question qui se pose est donc de savoir quelle norme prime : les traités ou la C° ? Le Conseil d’État reprend les termes de l’article 55, affirmant que la suprématie que cet article confère aux engagements internationaux ne s’applique pas dans l’ordre interne aux dispositions de nature constitutionnelle. Le Conseil refuse d’examiner ce moyen et applique la C° en se prononçant, de manière implicite, en faveur de sa primauté.
+
+La Cour de cassation adopte la même position dans un arrêt du **2 juin 2000, Mme Fraisse** en assemblée plénière.
+
+### B) Dans l’hypothèse où le droit de l’Union est invoqué
+
+- La position de l’arrêt Sarran a été étendue à l’hypothèse du droit communautaire par l’arrêt CE,
+
+3 Décembre 2001, Syndicat national de l’industrie pharmaceutique SNIP .
+
+- Dans cette espèce, le problème posé était de savoir si le décret déféré ne privait pas d’eﬀets
+
+des arrêts préjudiciels de la CJCE.
+
+- Mais dans un **o****_biter dictum_**, le CE a cru bon de préciser que le principe de primauté du droit
+
+communautaire ‘_ne saurait conduire au demeurant dans l’ordre interne à remettre en cause la_
+
+_suprématie de la Constitution_’. Le CE ferme brutalement la porte à une prise en compte de
+
+l’autonomie et de la spécificité du droit communautaire, au profit d’une banalisation réduisant
+
+les traités communautaires au rang de ‘_traités internationaux ordinaires_’.
+
+## Paragraphe 2 : La question de l'inconstitutionnalité du traité
+
+### A) Invocation du Droit international classique
+
+- C’est l’hypothèse dans laquelle un requérant invoque l’inconstitutionnalité d’un traité, à
+
+l’occasion d’un recours contre un AA pris en application d’un TI, et où l’AA semble
+
+inconstitutionnel.
+
+- Le juge refuse d’examiner ce moyen comme inopérant, il rejette par principe quel que soit par
+
+ailleurs son bien-fondé éventuel. CE 8 Juillet 2002 Commune de Porta (arrêt non célèbre mais
+
+cité automatiquement sur la question)
+
+- Il n’est pas juge de la constitutionnalité des traités, cela revient au JC sur le fondement de
+
+l’**article 54** ou **61 C°**.
+
+### B) Invocation d’une directive de l’UE
+**CE, Assemblée, 8 février 2007, Société Arcelor Atlantique**
+
+**Faits :** Une directive a établi un système d’échange de quotas d’émission de gaz à effet de serre dans la Communauté européenne (CE). Cette directive a été transposée en France pour le volet législatif par l’ordonnance du 15 avril 2004, ratifiée par la loi. Ainsi, la directive a été transposée par un texte à valeur législative.
+
+Cette ordonnance a introduit une nouvelle section dans le Code de l’environnement intitulée _quotas d’émission de gaz à effet de serre_, comprenant plusieurs articles, dont le **L-228-5** qui renvoie à un décret en Conseil d’État le soin de fixer la liste des activités concernées. Ce texte habilite directement le pouvoir réglementaire à transposer la directive, d’où l’adoption d’un **décret du 19 août 2004** reprenant le contenu de la directive.
+
+Les **entreprises sidérurgiques** affectées par ce décret demandent son abrogation et contestent le refus implicite des autorités sollicitées, en demandant l’annulation de ce refus et l’injonction d’abroger.
+
+**Rappel :** Un refus d’abrogation (cf. arrêt Alitalia 1989) est illégal si l’administration a violé l’obligation d’abroger. Les requérants estiment que le décret est illégal car il viole des dispositions constitutionnelles. La question est donc de savoir si le Conseil d’État (CE) peut contrôler indirectement la constitutionnalité des dispositions intérieures d’une directive. Le CE acceptera-t-il de procéder à un tel contrôle ?
+
+**Problèmes :** 
+- L’administration était-elle tenue d’abroger le décret ?
+- Ce décret est-il illégal ?
+- Le CE peut-il exercer un contrôle de constitutionnalité d’un décret qui reprend directement les termes d’une directive ?
+- Est-il compétent pour exercer un contrôle de constitutionnalité indirect d’une directive communautaire ?
+
+**Portée :**
+Le CE a précisé les modalités de contrôle de constitutionnalité d’un acte réglementaire de transposition d’une directive communautaire, même lorsque cet acte ne fait que reprendre les termes de la directive. Ce contrôle repose sur l’**article 88-1** de la Constitution.
+
+- **Modalités de ce contrôle :**
+  - Lorsque la directive transpose des dispositions précises et inconditionnelles, elle remplit les critères de l’**effet direct**.
+  - Si les principes constitutionnels invoqués ont des équivalents en droit communautaire, le contrôle devient un contrôle de conventionnalité ; le CE vérifie alors la conformité de la directive avec les règles ou les principes généraux du droit (PGD) communautaire. En cas de doute d’interprétation, il pose une **question préjudicielle à la CJCE**.
+  - Si les principes invoqués n’ont pas d’équivalents communautaires, le CE procède au **contrôle direct** du décret à la Constitution, ce qui implique une confrontation entre la directive et la C°. Ce second cas est rare en raison de la convergence des catalogues des droits fondamentaux.
+
+**Jurisprudence confortée :** CE, 3 octobre 2016, Confédération paysanne.
+
+**Non sur la diapositive :** Récemment, le 15 octobre 2021, le Conseil constitutionnel a établi pour la première fois l’interdiction de déléguer à une personne privée des compétences de police administrative (décision 2021-940 QPC).
 # Section 2 : Les rapports entre les normes internationales et la loi : une prédominance affirmée de la norme internationale
 
 ## Paragraphe 1 : Le point de vue du juge constitutionnel
@@ -53,7 +145,6 @@ La Constitution de 1958 va plus loin que l’==article 26 de 1946== :
 
 ##### A) Les conditions de réciprocité. 
 
-  
 Si la **condition de réciprocité n’est pas satisfaite**, le traité n’est ***pas applicable à l’égard de tout le monde***. Cependant, il n’est pas toujours évident de savoir si l’autre partie applique bien le traité.
 
 Pendant longtemps, le juge administratif, face à un doute, renvoyait la question au ministre des Affaires étrangères. 
@@ -117,14 +208,13 @@ Pendant longtemps, le Conseil d’État a **refusé de faire prévaloir le trait
 L'arrêt de 1958, Syndicat général des fabricants de semoule de France, est un exemple marquant de cette position.
 
 [[Cassation mai 1975, l'affaire Société Les Cafés]]
-En mai 1975, dans l'affaire Société Les Cafés, la Cour de cassation change sa position et accepte de faire primer les lois, y compris celles antérieures aux traités.
+En mai 1975, dans l'affaire Société Les Cafés, la Cour de cassation **change sa position et accepte de faire primer les lois, y compris celles antérieures aux traités**.
 
 [[CE 20 octobre 1989]]
 Le 20 octobre 1989, le Conseil d’État change enfin de jurisprudence et **censure désormais les lois, qu’elles soient antérieures ou postérieures aux traités**.
 
 [[CE du 3 décembre 1999, affaire Association ornithologique]]
 Dans l'arrêt CE du 3 décembre 1999, il est précisé que **la loi n’est pas applicable lorsqu’elle est contraire à un traité**, comme dans l'affaire Association ornithologique. Cette jurisprudence va avoir une énorme descendance.
-  
 
 ### 3) La question du droit dérivé de l’UE.
 
@@ -173,10 +263,13 @@ Pour les **actes individuels**, on ne pourra **pas invoquer les dispositions qui
   
 ##### B) L’interpretation des traités
 
+CE du 29 juin 1990, GISTI
 Traditionnellement, le juge renvoyait la question au Ministère des Affaires Étrangères (MAE). Le Conseil d’État (CE) a mis fin à cette pratique archaïque, qui pouvait sembler contraire au principe d’impartialité, dans l’arrêt CE du 29 juin 1990, GISTI.
 
-Pour le droit de l’Union, l’interprétation est effectuée soit par le juge s’il considère l’acte clair, soit il effectue un renvoi préjudiciel en interprétation ou en appréciation de validité, conformément à l’article 267 TFUE.
+Pour le droit de l’Union, l’interprétation est effectuée soit par le juge s’il considère l’acte clair, soit il effectue un renvoi préjudiciel en interprétation ou en appréciation de validité, conformément à l’==article 267 TFUE==.
 
+CE Ass du 11 décembre 2006, Sté De Groot
 Le renvoi préjudiciel a une autorité vis-à-vis du juge national ; le juge national est tenu de s’y conformer. Toutefois, le CE accepte de s’y conformer au-delà de la réponse de la CJCE, comme le montre l'arrêt CE Ass du 11 décembre 2006, Sté De Groot.
 
+CE 19 juin 1964, Société des Pétroles Shell-Berre
 Pour la petite histoire, il faut savoir qu’au début de la construction communautaire, le juge administratif était réticent à opérer un renvoi préjudiciel et abusait de la théorie de l’acte clair. L'arrêt du 19 juin 1964, Société des Pétroles Shell-Berre, fut l’occasion de reprocher au CE son nationalisme contentieux. Depuis, il n’hésite pas à renvoyer.

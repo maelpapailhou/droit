@@ -201,4 +201,3 @@ Il est possible de **sortir de sa famille élargie par le biais d’un rituel** 
 Elle est **composée du couple et des enfants**, et **le patrimoine se transmet donc des parents aux enfants** ***sans préoccupation de sexe ni de rang***. Il se transmet librement, la sippe n’a pas de droit de regard ni de contrôle sur la transmission des biens. Il y a une mobilité importante du patrimoine dans la société germanique.
 
 **Concernant la filiation germanique**, les enfants naturels nés hors mariage ont les mêmes droits que les enfants légitimes. Ils héritent donc du patrimoine sans difficulté. Cette pratique de considération se maintient pendant plusieurs siècles en Occident ; on la voit encore au XIXe siècle, y compris en France, malgré la forte opposition de l’Église.
-

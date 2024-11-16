@@ -1,7 +1,4 @@
-3 questiosn ur el drit de la famille, 2 sur le droit des contrats.
-
-
-rédige une dissertation de 1500 mots sur le sujet : XXXformels. Je veux intro développement et conclusion. C'es tune dissertation de droit. Ecris des paragraphes pas de listes numerotiée. Ecrit de façon très belle comme un auteur l'aurait fait.
+3 questions sur le droit de la famille, 2 sur le droit des contrats.
 
 Autres
 - [[Quels sont les éléments principaux du mariage protestant ?]]
@@ -11,6 +8,13 @@ Autres
 3. [[Quel est le rôle de la jurisprudence dans la main-mise de l’État sur le mariage ?]] / 4
 4. [[Qu’est-ce que la fiducie ?]] / 4
 5. [[Que sont les vices du consentement ?]] / 4
+
+#### 2023-2024 Session 2
+1. Quels sont les éléments caractéristiques de la filiation romaine ? / 4
+2. Comment évolue la question du divorce ? / 4
+3. Quels sont les éléments majeurs mis en place par Napoléon Bonaparte en droit de la famille ? / 4
+4. Qu’est-ce que l’expensilatio ? / 4
+5. Que sont les contrats innommés ? / 4
 
 #### 2022-2023 Session 1
 1. [[Qu’est-ce qui distingue la puissance paternelle romaine de la puissance paternelle germaine ?]] / 4

@@ -4,8 +4,6 @@ L’organisation politique féodale se développe sur les décombres de l’empi
 
 L’empire carolingien ne put toutefois survivre à une nouvelle vague d’invasions et de pillages. C’est dans un contexte général de grande insécurité et de repli que se développe une forme d’organisation politique originale. Centrée sur **l’hommage vassalique**, cette organisation, d’abord mise au service des ambitions impériales des Carolingiens, comble le vide laissé par l’effacement des institutions impériales et contribue à structurer un nouvel ordre socio-politique : la féodalité.
 
-.
-
 ## 1) De la relation de patronage à l’hommage vassalique
 
 ### a)_ _La relation de patronage (ou rapport de clientèle)_

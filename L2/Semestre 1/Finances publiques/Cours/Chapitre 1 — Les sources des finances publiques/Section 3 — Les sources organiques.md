@@ -1,4 +1,3 @@
-
 ## Paragraphe 1 : La LOLF
 
 Promulguée le 1er août 2001, la LOLF a remplacé l’ordonnance du 2 janvier 1959 et a institué de nouvelles règles d’élaboration et d’exécution du budget de l’État. Elle introduit notamment une démarche de performance pour améliorer l’efficacité des politiques publiques qui allie une logique de moyens et une logique de résultats. En développant une culture de résultats (responsabilisation du gestionnaire / liberté du gestionnaire), la LOLF avait pour objectif que l’Etat dépense mieux et améliore l’efficacité de l’action publique pour le bénéfice de tous (citoyens, usagers, contribuables et agents de l’État)
@@ -169,7 +168,7 @@ Mise en oeuvre d’un mécanisme de correction.
 
 La LOLF de 2001 fournissait déjà des informations enrichies au Parlement, et cette réforme va encore plus loin.
 
-### Trois axes :
+Trois axes :
 
 - Renforcement du pilotage, etc.
 

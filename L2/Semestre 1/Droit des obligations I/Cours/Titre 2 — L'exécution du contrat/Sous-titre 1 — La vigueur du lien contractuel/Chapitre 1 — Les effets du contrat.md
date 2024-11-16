@@ -29,8 +29,6 @@ Ces deux dispositions, dans un même article, **permettaient à deux conceptions
 
 Ces deux conceptions perdureront au-delà de 2016. L'évocation de ces conceptions (a) précèdera leur appréciation (b) et la tentative de synthèse opérée par la jurisprudence (c).
 
-#### a) Exposé des deux conceptions
-
 - **La conception individualiste, libérale ou encore classique de la force obligatoire du contrat** : Elle insiste sur le « *tient lieu de loi* » et minimise la « *bonne foi* ».
 	- illustrée par l’==article 1134 alinéa 1 ancien== et l’==article 1103 nouveau==. 
 
@@ -59,14 +57,14 @@ La Cour de cassation s'est également laissée séduire par cette conception, co
 
 La Cour de cassation a jugé que **le client avait commis une faute**, car « *tenu d’exécuter le contrat de bonne foi, il se devait de **vérifier tous les mois que sa consommation d’eau lui était facturée*** ».
 
-**Arrêt du 25 mars 1998** : 
+[[arrêt Chevassus-Marche 24 novembre 1998]]
 *M. Chevassus-Marche, représentant des grandes enseignes métropolitaines à La Réunion, avait un contrat d’agent commercial. Il s'est retrouvé confronté à l’évolution du marché, certaines grandes surfaces à La Réunion s’approvisionnant désormais dans d’autres pays. Il a demandé la révision du contrat, car il n’était plus compétitif.* 
 
 La Cour de cassation a jugé que « *tenu d’exécuter le contrat de bonne foi, **les mandants devaient mettre leur agent commercial en mesure d’exécuter son mandat*** ». 
 
 Les grandes sociétés ont été considérées de mauvaise foi pour avoir refusé de rééquilibrer le contrat.
 
-**Arrêt Mazda du 15 janvier 2002** : 
+[[Arrêt Mazda du 15 janvier 2002]]
 *Mazda a demandé à ses concessionnaires de faire des efforts financiers car les ventes de voitures étaient en baisse et la parité entre le Yen et l’Euro décroissait. Tous les concessionnaires ont accepté, sauf un, qui a fait faillite après avoir trop serré la ceinture. Il s’est avéré que Mazda réalisait en fait des bénéfices confortables et distribuait même des dividendes à ses actionnaires. Le concessionnaire a intenté un procès contre Mazda.* 
 
 La Cour de cassation a considéré que Mazda **était de mauvaise foi** et ***ne pouvait pas demander à ses concessionnaires de faire des efforts***.
@@ -116,7 +114,7 @@ La Cour casse l’arrêt avec un attendu ciselé : « *Dans aucun cas, il n’ap
 
 La Cour de cassation **rejette donc la théorie de l’imprévision**. Les parties auraient pu ***prévoir des clauses de révision du contrat***, mais elles ne l’ont pas fait. Elles ont donc entendu que **le contrat soit intangible**.
 
-[[arrêt Chevassus-Marche]]
+[[arrêt Chevassus-Marche 24 novembre 1998]]
 L’arrêt Chevassus-Marche n’évoque pas directement la théorie de l’imprévision, mais le résultat s’en rapproche : le contractant a pu obtenir la révision du contrat ou, tout du moins, la **condamnation du cocontractant qui refusait de le réviser**.
 
 [[1re chambre civile du 16 mars 2004]]
@@ -126,7 +124,7 @@ La Cour de cassation déboute la société, en retenant qu’elle se **plaignait
 
 Jacques Estaing, dans une note publiée dans _Dalloz_, commente l’arrêt en lien avec les écrits de Denis Mazeaud, avocat à la Cour de cassation.
 
-[[29 juin 2010 de la chambre commerciale]]
+[[29 juin 2010 de la chambre commerciale]] [[Coup de théâtre - la résolution du contrat emporte avec elle la clause limitative de responsabilité !]] [[Frémissement en matière d'imprévision]]
 **Consécration de la théorie de l'imprévision** (selon certains auteurs)
 
 *L’arrêt du 29 juin 2010 de la chambre commerciale concerne un contrat entre une centrale hydraulique et une société chargée de l’entretien des turbines pour un prix fixé. La société se retrouve confrontée à une augmentation exponentielle du coût de l’aluminium, ce qui déséquilibre le contrat. L’usine assigne la société devant le juge des référés, compétent lorsque la solution est évidente, c’est-à-dire sans contestation sérieuse. La société plaide que le juge des référés est incompétent car la question du déséquilibre du contrat en raison de l’évolution des circonstances économiques est une contestation sérieuse. En première et en seconde instance, les juges des référés se déclarent compétents.* 
@@ -315,7 +313,6 @@ En d'autres termes, le transfert de propriété ne procède plus d'une obligatio
   
 ## A) Le moment du transfert de propriété
 
-
 > **Article 1196 al 1 civ**
 > *Dans les contrats ayant pour objet l'aliénation de la propriété ou la cession d'un autre droit, le transfert s'opère lors de la conclusion du contrat.*
 
@@ -323,34 +320,41 @@ Cette règle **pose le principe du consensualisme**. L'expression « conclusion
 
 On pourrait donc penser que le texte ne traduit pas réellement le consensualisme mais préserve également le formalisme. Le rapport remis au Président de la République précise cependant le ==nouvel article 1196== consacre bien le principe selon lequel le transfert s'opère par le seul échange des consentements des parties caractérisant la conclusion du contrat sans aucune exigence de forme. L'avenir dira quelle interprétation sera confortée par la jurisprudence.  
   
-- Les exceptions. Le deuxième alinéa indique que le transfert de la propriété peut être différé soit par la volonté des parties, la nature des choses ou par l'effet de la loi.  
+- Les exceptions. 
 
-- « La volonté des parties » reposera le plus souvent sur une clause de réserve de propriété, situation très fréquente en pratique dans les contrats de vente. Par cette clause, le vendeur se garantit en cas de défaut de paiement total ou partiel de l'acheteur, restant propriétaire du bien jusqu'à complet désintéressement (J. Théron, « Pour une relecture de la réserver de propriété », RTD. civ. 2019, p. 713).
+Le deuxième alinéa indique que le transfert de la propriété peut être différé par la volonté des parties, la nature des choses, ou l'effet de la loi.
 
-- « La nature des choses » concerne notamment les hypothèses où le contrat porte sur une chose de genre dont la propriété ne sera transférée qu'à compter de l'individualisation du bien.
+- **La volonté des parties** repose le plus souvent sur une clause de réserve de propriété, situation très courante dans les contrats de vente. Par cette clause, le vendeur se protège en cas de défaut de paiement total ou partiel de l'acheteur, restant propriétaire du bien jusqu’au complet paiement (J. Théron, « Pour une relecture de la réserve de propriété », RTD civ. 2019, p. 713).
 
-- « L'effet de la loi » peut viser certains contrats comme la vente à terme de l'article 1601-2 du code civil. Ce dernier texte dispose en effet que :  
-    
-    _Tx._« La vente à terme est le contrat par lequel le vendeur s'engage à livrer l'immeuble à son achèvement, l'acheteur s'engage à en prendre livraison et à en payer le prix à la date de livraison. Le transfert de propriété s'opère de plein droit par la constatation par acte authentique de l'achèvement de l'immeuble ; il produit ses effets rétroactivement au jour de la vente ».
-    
+- **La nature des choses** concerne notamment les cas où le contrat porte sur une chose de genre, dont la propriété ne sera transférée qu’à compter de l’individualisation du bien.
 
+- **L’effet de la loi** peut viser certains contrats, comme la vente à terme prévue à l’==article 1601-2 du Code civil==.  
+
+> Article 1601-2 du Code civil
+> *La vente à terme est le contrat par lequel le vendeur s’engage à livrer l’immeuble à son achèvement, l’acheteur s’engage à en prendre livraison et à en payer le prix à la date de livraison. Le transfert de propriété s’opère de plein droit par la constatation par acte authentique de l’achèvement de l’immeuble ; il produit ses effets rétroactivement au jour de la vente.*
 ## B) Les effets du transfert de propriété
   
-- Transfert des risques. Le 3ème alinéa de l'article 1196 pose que le transfert de propriété emporte le transfert des risques de la chose. C'est la règle res perit domino (la chose périt pour le propriétaire). Il en résulte que le nouveau propriétaire supporte la perte de la chose dès que les parties ont échangé leurs consentements. La règle souffre cependant exception si le débiteur de l'obligation de délivrer (le vendeur) est mis en demeure par l'acquéreur. Dans ce cas, il supporte à nouveau les risques de la chose conformément au nouvel article [1344-2](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=AC437B9C830CDBA407F3398AA011FE00.tpdila19v_1?idArticle=LEGIARTI000032035275&cidTexte=LEGITEXT000006070721&dateTexte=20161001) (« La mise en demeure de délivrer une chose met les risques à la charge du débiteur, s'ils n'y sont déjà ». Même si le nouveau texte ne l'indique pas, il est également envisageable de déconnecter transfert de propriété et transfert des risques : il est en effet très fréquent que le vendeur sous réserve de propriété transfère les risques à l'acheteur dès la délivrance de la chose.  
-  
+Le ==troisième alinéa de l’article 1196== énonce que le transfert de propriété entraîne le transfert des risques de la chose. C’est la règle _res perit domino_ (la chose périt pour le propriétaire). Ainsi, le nouveau propriétaire supporte la perte de la chose dès l’échange des consentements. Cette règle souffre néanmoins exception si le débiteur de l’obligation de délivrer (le vendeur) est mis en demeure par l’acquéreur. D
 
+ans ce cas, le vendeur supporte de nouveau les risques de la chose, conformément au ==nouvel article 1344-2==. Bien que le texte n’en fasse pas mention, il est également possible de dissocier le transfert de propriété du transfert des risques : il est fréquent que le vendeur sous réserve de propriété transfère les risques à l’acheteur dès la délivrance de la chose.
+
+> **Article 1344-2 civ**
+> *La mise en demeure de délivrer une chose met les risques à la charge du débiteur, s’ils n’y sont déjà*
 ## C) Les conflits entre acquéreurs successifs
 
-  
-- Conflit entre acquéreurs de biens meubles. Le premier alinéa de l'article [1198](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=771A3C9D0D4F0FE54889922B638B1661.tpdila19v_1?idArticle=LEGIARTI000032041283&cidTexte=LEGITEXT000006070721&categorieLien=id&dateTexte=20161001) pose que lorsque deux acquéreurs successifs d'un même meuble corporel tiennent leur droit d'une même personne, celui qui en a pris possession en premier est préféré même si son droit est postérieur, sous réserve toutefois qu'il soit de bonne foi. Il y a là aussi un rappel de la règle bien connue posée par l'article [2276](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006447924&dateTexte=&categorieLien=cid), alinéa 1er selon lequel en fait de meuble la possession vaut titre.  
-  
-- Conflit entre acquéreurs de biens immeubles. Le second alinéa de l'article 1198 est nouveau. Il pose la même règle en remplaçant l'entrée en possession par la publication du titre au fichier immobilier. Ce nouveau texte sera très utile en pratique.  
-  
-La Cour de cassation avait en effet développé une jurisprudence où elle s'arrêtait à l'effet objectif de la publicité foncière et ne tenait aucun compte de l'éventuelle mauvaise foi du publiant.
+**Conflit entre acquéreurs de biens meubles.** 
+- Le ==premier alinéa de l’article 1198== prévoit que lorsque deux acquéreurs successifs d’un même meuble corporel tiennent leur droit d’une même personne, celui qui en a pris possession en premier est préféré, même si son droit est postérieur, à condition qu’il soit de bonne foi. 
+- Ceci rappelle la règle posée par l’==article 2276, alinéa 1er==, selon laquelle, en matière de meuble, la possession vaut titre.
 
-_Ex._Ainsi, en cas de conflit entre acquéreurs d'un même immeuble tenant leurs droits d'un même auteur, devait être déclaré propriétaire effectif celui qui a publié en premier l'acte translatif à son profit, nonobstant son éventuelle mauvaise foi, c'est-à-dire sa connaissance que le bien avait déjà été vendu à une autre personne (Cass. civ. 3ème, 10 févr. 2010, n° [08-21.656](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000021830274&fastReqId=685193015&fastPos=1) ; Cass. 3ème civ., 12 janv. 2011, n° [10-10.667](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000023434839&fastReqId=136800230&fastPos=1) ; Cass. civ. 3ème, 19 juin 2012, n° [11-17.105](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000026064227&fastReqId=283702903&fastPos=1)). La première chambre civile de la Cour de cassation était allée encore plus loin en jugeant que ne commettait pas de faute le notaire chargé d'instrumenter un acte de vente portant sur un bien immobilier dont il savait qu'il faisait l'objet d'une promesse synallagmatique de vente conclue antérieurement (Cass. civ. 1ère, 20 déc. 2012, n° [11-19.682](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000026815023&fastReqId=564982763&fastPos=1)).
+**Conflit entre acquéreurs de biens immeubles.** Le ==second alinéa de l’article 1198==, introduit récemment, pose la même règle en remplaçant l’entrée en possession par la publication du titre au fichier immobilier, règle particulièrement utile en pratique.
 
-  
-Le notaire se trouvait donc dans une position intenable vis-à-vis de l'acquéreur injustement évincé. Le nouvel article 1198, alinéa 2, met fin à ce courant jurisprudentiel et rétablit la condition de bonne foi du tiers acquéreur. Celle-ci étant présumée, il appartiendra à l'acquéreur primé par la publication de l'acte de vente au profit d'un autre que lui, de prouver la mauvaise foi de ce dernier.  
-  
 
+La Cour de cassation avait en effet développé une jurisprudence en s’arrêtant à l’effet objectif de la publicité foncière, sans prendre en compte l’éventuelle mauvaise foi du publiant.  
+
+Cass. civ. 3ème, 10 févr. 2010
+_Ex._ En cas de conflit entre acquéreurs d’un même immeuble tenant leurs droits d’un même auteur, le propriétaire effectif était celui qui publiait en premier l’acte translatif, même en étant de mauvaise foi, c’est-à-dire en sachant que le bien avait déjà été vendu à une autre personne.
+
+Cass. civ. 1ère, 20 déc. 2012
+La première chambre civile de la Cour de cassation allait même jusqu’à juger qu’un notaire instrumentant un acte de vente sur un bien immobilier, tout en sachant qu’il faisait déjà l’objet d’une promesse synallagmatique de vente, ne commettait pas de faute.
+
+Le notaire se trouvait ainsi dans une situation délicate vis-à-vis de l’acquéreur injustement évincé. Le ==nouvel article 1198, alinéa 2==, met fin à cette jurisprudence et rétablit la condition de bonne foi du tiers acquéreur. La bonne foi étant présumée, il appartient à l’acquéreur lésé par la publication de prouver la mauvaise foi de l’autre acquéreur.

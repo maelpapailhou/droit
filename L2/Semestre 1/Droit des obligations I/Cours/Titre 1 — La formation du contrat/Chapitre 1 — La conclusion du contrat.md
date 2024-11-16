@@ -161,6 +161,7 @@ Lorsque l'offre sera assortie de réserves, elle ne sera pas considérée comme 
 ###### B) Le régime juridique de l'offre
 
 ###### B.1) La rétractation de l'offre
+
 > **Article 1115 du code civil** 
 > (L'offre) Elle peut être librement rétractée tant qu'elle n'est pas parvenue à son destinataire.
 
@@ -219,12 +220,12 @@ Le nouvel article pose donc que toutes les offres, assorties ou non d'un délai,
 
 L'==article 1117== n'étant **pas d'ordre public**, l'auteur de l'offre aura tout intérêt à préciser s'il entend que son offre survive à son éventuel décès. Il pourra aussi, pour peu que la situation s'y prête, envisager l'hypothèse du décès du destinataire pour préciser que ses héritiers pourront alors accepter l'offre à noter que la loi du 20 avril 2018 a modifié l'article 1117 en précisant que l'offre était caduque en cas de décès du destinataire; cette modification ne joue qu'à compter du 1° octobre 2018).
 
-### Avant la réforme de 2016 :
+Avant la réforme de 2016 :
 - La jurisprudence n'était pas claire sur la caducité de l'offre en cas de décès de l'auteur.
 - **==Décision de 2014==** : Si l'offre n'avait pas de délai fixé, elle devenait caduque à la mort de l'offrant. Mais il y avait une incertitude pour les offres avec un délai.
 - **Interprétation a contrario** : Beaucoup pensaient qu'une offre **avec délai** restait valable même après le décès de l'auteur, à moins que le délai expire.
 
-### Après la réforme de 2016 :
+Après la réforme de 2016 :
 - **==Article 1117==** : L'offre est automatiquement caduque en cas de décès de l'offrant, qu'il y ait un délai ou non.
 - La ==loi de 2018== a clarifié que l'**offre devient aussi caduque** si le ***destinataire de l'offre meurt***.
 - La règle est devenue plus simple et uniforme : le décès de l'auteur ou du destinataire annule l'offre, peu importe s'il y avait un délai fixé.

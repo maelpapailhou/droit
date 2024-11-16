@@ -85,19 +85,19 @@ Conditions strictes pour l’admission d’un nouveau **PFRLR par le Conseil con
 **Liste des PFRLR importants** (liberté d’association, de défense, liberté individuelle, etc.), dont :  
 
 23 janvier 1987, Conseil de la concurrence
-- La compétence exclusive de la juridiction administrative en matière d’annulation des actes de la puissance publique (décision du 23 janvier 1987, **Conseil de la concurrence**).  
+La **compétence exclusive de la juridiction administrative en matière d’annulation des actes de la puissance publique** (décision du 23 janvier 1987, Conseil de la concurrence).  
 
 25 juillet 1989, TGV Nord
-- L’autorité judiciaire est gardienne de la propriété privée immobilière (décision du 25 juillet 1989, **TGV Nord**).  
+L’**autorité judiciaire est gardienne de la propriété privée immobilière** (décision du 25 juillet 1989, TGV Nord).  
 
 5 août 2011, Société SOMADIA
-- La pérennité des dispositions législatives et réglementaires particulières au département du Bas-Rhin (décision du 5 août 2011, **Société SOMADIA**).
+La **pérennité des dispositions législatives et réglementaires particulières au département du Bas-Rhin** (décision du 5 août 2011, Société SOMADIA).
 
 ### Objectifs à valeur constitutionnelle 
 Le Conseil constitutionnel **consacre certains droits fondamentaux** (comme ***les principes généraux du droit*** pour **le Conseil d'État**) mais rattache ces principes à des normes écrites.  
-- Préservation de la liberté personnelle (décision de 1988).  
-- Sauvegarde de l’ordre public (décision de 1982).  
-- Accessibilité et intelligibilité de la loi (décision du 16 décembre 1999).
+- Préservation de la liberté personnelle (==décision de 1988==).  
+- Sauvegarde de l’ordre public (==décision de 1982==).  
+- Accessibilité et intelligibilité de la loi (==décision du 16 décembre 1999==).
 
 [[CE, 3 mai 2002, Association réinsertion sociale du Limousin]]
 Ces normes ne font **pas partie du bloc de constitutionnalité**, mais elles ***s’imposent au législateur***. Le Conseil d'État leur refuse cependant une opposabilité directe à l’administration. Un justiciable ne peut pas s’en prévaloir à l’appui d’un recours pour excès de pouvoir.
@@ -144,14 +144,17 @@ Les **interprètes de la Constitution** sont autant le Conseil d’État que le 
 
 C’est là que l’==article 62== porte sur l’autorité des interprétations qui les motivent. Le Conseil constitutionnel a décidé depuis longtemps que l’autorité de ces décisions s’attache au dispositif et aux motifs qui en sont le soutien nécessaire.  
 
-CE assemblée du 20 décembre 1985, Société Outters
+[[CE assemblée du 20 décembre 1985, Société Outters]]
 En conséquence, le **juge administratif est en principe soumis aux décisions et aux interprétations de la Constitution délivrées par le Conseil constitutionnel**, lorsqu’il doit se prononcer sur une loi sur laquelle le juge constitutionnel s’est déjà prononcé,  d’assemblée du 20 décembre 1985, Société Outters. 
 
-Dans cette hypothèse, si la loi en question n’a pas fait l’objet d’une saisine, le Conseil d’État refuse de transposer hors de leur contexte des interprétations émanant du Conseil constitutionnel, voir _arrêt Sect. 22 juin 2007, LESOURD_. 
+Dans cette hypothèse, si **la loi en question n’a pas fait l’objet d’une saisine**, le Conseil d’État ***refuse de transposer hors de leur contexte des interprétations émanant du Conseil constitutionnel***, voir arrêt Sect. 22 juin 2007, LESOURD. 
 
+[[arrêt Sect. 22 juin 2007, LESOURD]]
+Dans l’arrêt Lesourd, le Conseil d’État adopte un raisonnement identique à celui du Conseil constitutionnel. Il faut remarquer que les dispositions législatives concernées étaient substantiellement similaires dans les deux cas.
 
-arrêt Sect. 22 juin 2007, LESOURD
-Dans l’arrêt Lesourd, le Conseil d’État adopte un raisonnement identique à celui du Conseil constitutionnel. Il faut remarquer que les dispositions législatives concernées étaient substantiellement similaires dans les deux cas. Qui plus est, la loi du 9 mai 2001 interprétée par le Conseil d’État en l’espèce est expressément mentionnée, de manière surérogatoire, par le Conseil constitutionnel dans sa décision de 2002 (v. supra). Cette « réserve d’interprétation par ricochet » avait à l’époque été analysée comme le fruit du regret des juges constitutionnels, la loi relative à l’égalité professionnelle n’ayant pas été déférée à leur contrôle lors de son adoption par le Parlement.
+Qui plus est, ==la loi du 9 mai 2001== interprétée par le Conseil d’État en l’espèce est expressément mentionnée, de manière surérogatoire, par le Conseil constitutionnel dans sa décision de 2002 (v. supra). 
+
+Cette « réserve d’interprétation par ricochet » avait à l’époque été analysée comme le fruit du regret des juges constitutionnels, la loi relative à l’égalité professionnelle n’ayant pas été déférée à leur contrôle lors de son adoption par le Parlement.
 
 Le Conseil d’État manifeste ainsi son indépendance, cela n’empêche pas qu'il reprenne à son compte des principes initialement dégagés par le Conseil constitutionnel.
 
@@ -197,12 +200,12 @@ Dans cette hypothèse, c’est la **théorie de l’écran législatif**. Le jug
 [[CE Sect, 6 nov 1936, Arrighi]]
 Dans cette hypothèse, c’est la théorie de l’écran législatif. Le juge va dire que le moyen est inopérant, soit inutile.  
 
-arrêt de 2005, Depiez et Baillard
+[[arrêt de 2005, Depiez et Baillard]]
 C’est un principe toujours d’actualité.
 
 Le Conseil d’État rappelle que la compétence du Conseil constitutionnel exclut celle du juge ordinaire pour exercer un contrôle de constitutionnalité des lois
 
-arrêt de Section du 31 octobre 2008, Section française de l’observatoire international des prisons
+[[CE Section, 31 octobre 2008, Section française de l’observatoire international des prisons]]
 Cette **conception monopolistique de la répartition des compétences persiste, même récemment**, comme en témoigne un *arrêt de Section du 31 octobre 2008*, Section française de l’observatoire international des prisons (association avec beaucoup d’arrêts). 
 
 On sait qu’a priori le contrôle de constitutionnalité des lois est insuffisant pour garantir la conformité de toutes les lois. La situation peut conduire à l’inaffectivité de certains droits constitutionnels, ce qui explique que progressivement la théorie de la loi ait été remise en cause. L’écran législatif n’a pas totalement disparu, bien qu’il soit réduit.
@@ -218,7 +221,7 @@ On sait qu’a priori le contrôle de constitutionnalité des lois est insuffisa
 #### 1) Les limites de l’écran législative
 **Hypothèses :**
 
-CE 27 octobre 2011, Confédération FDT ; CE 6 décembre 2012, Société Air Algérie
+[[CE 27 octobre 2011, Confédération FDT ; CE 6 décembre 2012, Société Air Algérie]]
 L’écran législatif n'existe pas. Par exemple, si l’on attaque un règlement autonome, le juge administratif considère non pas que l’écran n’existe pas, mais qu’il ne fonctionne pas ; il estime que l’écran est transparent. Il vérifie la conformité de l’acte par rapport à la Constitution (CE 27 octobre 2011, Confédération FDT ; CE 6 décembre 2012, Société Air Algérie). 
 
 Il considère que, si rien n'est précisé dans la loi concernant ces critères, on peut contrôler ces critères par rapport à la Constitution. L’écran législatif se produit lorsque le règlement est contrôlé par rapport à la loi et non par rapport à la Constitution. Toutes les dispositions matériellement autonomes pourront faire l’objet d’un contrôle de constitutionnalité.
@@ -231,16 +234,15 @@ Chaque fois que la loi donne une marge d’appréciation au pouvoir réglementai
 
 1. Interpréter la loi de telle sorte qu’elle n’apparaisse pas en contradiction avec la Constitution, en tenant compte des réserves d’interprétation formulées par le Conseil constitutionnel.
 
-première affaire de 1982, Butin Ah Won
+[[CC, première affaire de 1982, Butin Ah Won]]
 2. Le juge considère qu’il n’y a pas d’écran lorsque la loi en cause est antérieure à la norme constitutionnelle invoquée. Le juge administratif considère que la loi a été implicitement abrogée par l’adoption de textes constitutionnels postérieurs, raisonnant en termes de conflit de la loi dans le temps. La révision constitutionnelle postérieure abroge implicitement la loi. Le Conseil constitutionnel a appliqué cette théorie dans une première affaire de 1982, **Butin Ah Won**, où il y avait conflit entre une disposition réglementaire et une révision constitutionnelle postérieure. 
 
-CE Ass. 16 décembre 2005, Syndicat national des huissiers de justice
+[[CE Ass. 16 décembre 2005, Syndicat national des huissiers de justice]]
 Cela a été étendu par l’arrêt CE Ass. 16 décembre 2005, Syndicat national des huissiers de justice, et a été étendu en cas d'incompatibilité entre une disposition législative et une disposition constitutionnelle postérieure.
 
-
 #### 3) La remise en cause de l’écran
-arrêt assemblée 20 octobre 1989 **Nicolo**
 
+[[arrêt assemblée 20 octobre 1989 **Nicolo**]]
 L’écran législatif a d’abord cédé en droit international à connaître : arrêt assemblée 20 octobre 1989 **Nicolo**. Le Conseil d’État renverse la jurisprudence et refuse de contrôler la conformité d’actes administratifs à des traités internationaux dès lors que ceux-ci pouvaient s’appuyer sur une loi. Les lois postérieures doivent être conformes au traité de Rome. 
 
 QPC : Abrogation d’une loi ou d’une disposition législative si elle porte atteinte aux droits et libertés garantis par la Constitution.
@@ -298,11 +300,15 @@ Ce droit à un recours effectif a conduit à la suppression de la fonction de co
 
 **Les règles coutumières** :
 
+[[CE, Ass., 6 juin 1997, _Aquarone_]]
 - Elles n’appartiennent pas au bloc de constitutionnalité, selon le Conseil d’État, Ass., 6 juin 1997, _Aquarone_.
+
+[[CE Ass. 9 juillet 2010, _Mme Souad Chériet-Benséghir_]]
 - Toutefois, cette position semble évoluer. Le Conseil d’État a récemment affirmé que la France est tenue par la règle _Pacta sunt servanda_, qui est une règle coutumière, CE Ass. 9 juillet 2010, _Mme Souad Chériet-Benséghir_. Cette règle, reprise dans le préambule de la Constitution à l’alinéa 14, appartient au bloc de constitutionnalité, et sa remise en cause n’est pas certaine.
 
 **Les PGD (Principes généraux du droit international)** :
 
+[[CE 28 juillet 2000,]]
 - Ils ne bénéficient pas de l’autorité de l’article 55 de la Constitution. Cette réponse a été donnée par le Conseil d’État dans l’arrêt CE 28 juillet 2000, _Paulin_.
   
 
@@ -324,15 +330,18 @@ En 1999, le Conseil constitutionnel a dégagé des objectifs de valeur constitut
 
 **Contenu de la loi** :
 
+[[CC 60-8 DC du 11 août 1960]]
 - **Les lois organiques** (primant sur les lois ordinaires) sont prévues par certains articles de la Constitution pour en préciser le contenu et sont votées selon une procédure spécifique, prévue à l'article 46 de la Constitution. Elles sont soumises au contrôle obligatoire du Conseil constitutionnel et ont un domaine qui leur est propre. Si une loi ordinaire n’est pas conforme à une loi organique, on dit que la loi ordinaire est entachée d’un **vice d’inconstitutionnalité**, car la Constitution place les lois organiques à un niveau supérieur aux lois ordinaires. Si une loi ordinaire intervient dans un domaine réservé à la loi organique, il y aura un vice d’incompétence ou de violation de procédure (affaire CC 60-8 DC du 11 août 1960). Les lois organiques ont un domaine propre.
-    
-- **Les lois référendaires** : elles sont adoptées par le peuple et peuvent avoir soit le caractère de loi ordinaire, soit de loi organique, selon leur contenu. Le Conseil constitutionnel ne contrôle pas les lois référendaires, car il considère que c’est l’**expression directe de la souveraineté nationale**, et qu’il n’a donc pas à les contrôler.
-    
-- **Les lois d’habilitation** concernant les **ordonnances ratifiées** : pour que le Gouvernement puisse prendre des ordonnances dans le champ de l’article 34, il faut d’abord une délégation du Parlement. La loi d’habilitation doit déterminer précisément la finalité et le domaine de l’intervention. Une fois que cette loi est adoptée, l’ordonnance est **délibérée en Conseil des ministres**, elle est soumise pour avis au Conseil d’État et elle est signée par le président de la République (François Mitterrand, par exemple, avait refusé de signer un certain nombre d’ordonnances en 1986). À l’expiration du délai fixé par la loi d’habilitation, le gouvernement ne peut plus intervenir dans le domaine de la loi ; si l’ordonnance porte sur des matières législatives, elle ne pourra être modifiée que par le Parlement. Un projet de ratification devra être déposé, sinon l’ordonnance sera caduque. La révision constitutionnelle de 2008 a imposé une ratification expresse ; sinon, il y a retour à l’état du droit antérieur, ce qui rend les anciennes mesures applicables. En cas de ratification, l’ordonnance acquiert rétroactivement une valeur législative. Il reste aux justiciables des moyens de contestation : la QPC ou encore une exception d’inconventionnalité (arrêt du 8 décembre 2000, dans lequel le Conseil d’État l’a admis).
-    
-- **Les lois ordinaires** (bloc de légalité) : les lois sont des sources ordinaires de droit écrit. Une précision concernant la loi : les orientations et les objectifs présentés dans un rapport annexé à une loi ne sont pas revêtus de la valeur normative qui s’attache aux dispositions de la loi elle-même (CE Ass., 5 mars 1999, _Confédération nationale des groupes autonomes de l’enseignement public_).
-    
 
+- **Les lois référendaires** : elles sont adoptées par le peuple et peuvent avoir soit le caractère de loi ordinaire, soit de loi organique, selon leur contenu. Le Conseil constitutionnel ne contrôle pas les lois référendaires, car il considère que c’est l’**expression directe de la souveraineté nationale**, et qu’il n’a donc pas à les contrôler.
+
+[[CE du 8 décembre 2000]]
+- **Les lois d’habilitation** concernant les **ordonnances ratifiées** : pour que le Gouvernement puisse prendre des ordonnances dans le champ de l’article 34, il faut d’abord une délégation du Parlement. La loi d’habilitation doit déterminer précisément la finalité et le domaine de l’intervention. Une fois que cette loi est adoptée, l’ordonnance est **délibérée en Conseil des ministres**, elle est soumise pour avis au Conseil d’État et elle est signée par le président de la République (François Mitterrand, par exemple, avait refusé de signer un certain nombre d’ordonnances en 1986). À l’expiration du délai fixé par la loi d’habilitation, le gouvernement ne peut plus intervenir dans le domaine de la loi ; si l’ordonnance porte sur des matières législatives, elle ne pourra être modifiée que par le Parlement. Un projet de ratification devra être déposé, sinon l’ordonnance sera caduque. La révision constitutionnelle de 2008 a imposé une ratification expresse ; sinon, il y a retour à l’état du droit antérieur, ce qui rend les anciennes mesures applicables. En cas de ratification, l’ordonnance acquiert rétroactivement une valeur législative. Il reste aux justiciables des moyens de contestation : la QPC ou encore une exception d’inconventionnalité (arrêt du 8 décembre 2000, dans lequel le Conseil d’État l’a admis).
+
+[[CE Ass., 5 mars 1999, _Confédération nationale des groupes autonomes de l’enseignement public_]]
+- **Les lois ordinaires** (bloc de légalité) : les lois sont des sources ordinaires de droit écrit. Une précision concernant la loi : les orientations et les objectifs présentés dans un rapport annexé à une loi ne sont pas revêtus de la valeur normative qui s’attache aux dispositions de la loi elle-même (CE Ass., 5 mars 1999, _Confédération nationale des groupes autonomes de l’enseignement public_).
+
+[[Arrêt du 19 mars 2024  Alliance Police Nationale]]
 Arrêt du 19 mars 2024 : _Alliance Police Nationale_, commenté à la JDA, le Conseil d’État estime que le contenu de ces rapports annexés ne peut pas être appliqué dans le cadre d’un litige, car il n’a pas la valeur d'une loi et ne peut pas faire l’objet d’une question prioritaire de constitutionnalité.
 
 **Extension du domaine de la loi :**
@@ -340,11 +349,12 @@ Sous la Ve République, le domaine de la loi a été circonscrit par l’article
 
 - On a découvert d’autres chefs de compétence législative en combinant l’article 34 avec d’autres articles de la Constitution. De nombreux articles renvoient à la loi le soin de préciser les conditions d’application.
 
+[[CC 82-143 DC, 30 juillet 1982]]
 - Le Conseil d’État et le Conseil constitutionnel ont adopté une conception extensive du domaine de la loi et interprètent, dans un sens favorable au législateur, de nombreux articles de la Constitution (exemple : libre administration des collectivités territoriales). Le 6 février 1992, par exemple, l’organisation de la déconcentration est décidée par la loi, alors que cela relevait du pouvoir réglementaire. Le gouvernement recourt sciemment à la loi pour des raisons symboliques. Enfin, les mécanismes de sanction de l’empiètement ont perdu de leur importance (CC 82-143 DC, 30 juillet 1982) : **une loi qui empiète sur le domaine du gouvernement n’est pas pour autant inconstitutionnelle**. Les lois restent valides, sauf que désormais le Conseil constitutionnel se reconnaît le pouvoir de déclarer certaines dispositions de nature réglementaire.
 
 - Cela s’est accompagné d’une réduction du pouvoir réglementaire et de l’acte réglementaire (qualifié d’acte administratif). **Le domaine du règlement a été envahi par la loi**, qui reste finalement une source importante du droit administratif, même si intrinsèquement elle a perdu une grande partie de sa qualité.
 
-## Section 3 : Les sources réglementaires
+# Section 4 : Les sources réglementaires
 
 Une fois que la loi a posé le cadre, l’administration peut édicter des dispositions d’application.
 
@@ -355,9 +365,13 @@ Les **règlements autonomes ou ceux d’application** constituent toujours une s
 ### A) Le pouvoir réglementaire général
 Les titulaires du pouvoir réglementaire général interviennent dans tous les domaines et fixent des règles applicables sur l’ensemble du territoire et pour tous les administrés. Ces titulaires sont le **Président de la République** et le **Premier ministre**, qui agissent en principe par **décret**, lequel peut être **réglementaire** ou **individuel** (notamment pour la nomination des hauts fonctionnaires, faite par décret individuel).
 
+[[CE, 27 avril 1962, **Sicard]]
 Le Premier ministre tient son pouvoir réglementaire de l’article 21 et peut l’exercer après consultation du Conseil d’État ; il s’agit alors de **décrets pris en Conseil d’État**. Les décrets réglementaires qui ne sont pas délibérés en Conseil des ministres relèvent de la compétence du Premier ministre (lui seul peut les modifier). Il est arrivé que le Président de la République signe de tels décrets, ce qui n’entraîne aucune illégalité selon le Conseil d’État, qui juge cette signature superfétatoire (CE, 27 avril 1962, **Sicard**).
 
-Le **Président de la République** est compétent lorsque les **décrets sont pris en Conseil des ministres**. Cependant, peu de décrets doivent impérativement être pris en Conseil des ministres, comme par exemple ceux prévus à l’article 36-1 pour la proclamation de l’état de siège. Dans les autres cas, cette inscription est facultative. Toutefois, dès lors qu’un décret est délibéré en Conseil des ministres, il devient un acte du Président, modifiable par lui seul, comme le précise l’arrêt CE Ass., 10 septembre 1992, **Meyet**. Le Président signe également les ordonnances. Enfin, l’article 16 constitue une base juridique permettant au Président de prendre des actes à la fois législatifs et réglementaires.
+Le **Président de la République** est compétent lorsque les **décrets sont pris en Conseil des ministres**. Cependant, peu de décrets doivent impérativement être pris en Conseil des ministres, comme par exemple ceux prévus à l’article 36-1 pour la proclamation de l’état de siège. 
+
+[[CE Ass., 10 septembre 1992, **Meyet]]
+Dans les autres cas, cette inscription est facultative. Toutefois, dès lors qu’un décret est délibéré en Conseil des ministres, il devient un acte du Président, modifiable par lui seul, comme le précise l’arrêt CE Ass., 10 septembre 1992, **Meyet**. Le Président signe également les ordonnances. Enfin, l’article 16 constitue une base juridique permettant au Président de prendre des actes à la fois législatifs et réglementaires.
 ### B) le pouvoir réglementaire spécialisé
 
 Ce pouvoir est propre à certains secteurs ou à certaines personnes.
@@ -369,6 +383,7 @@ Ce pouvoir est propre à certains secteurs ou à certaines personnes.
 - Les **collectivités territoriales** disposent d’un pouvoir réglementaire pour l’exercice de leurs compétences, fondé sur la Constitution. Ces mesures doivent mettre en œuvre les normes contenues dans la loi et précisées par décret. Une disposition (article 72, alinéa 4) permet à titre expérimental aux collectivités de déroger aux règlements nationaux qui les concernent (exception).
 ### C) Le pouvoir réglementaire interne
 
+[[jurisprudence Jamart de 1936 aux chefs de service]]
 Il est dévolu par la **jurisprudence Jamart de 1936 aux chefs de service**.
 
 - Qui sont-ils ? préfets, chefs de service déconcentrés, directeurs d’établissements publics, autorités territoriales, ministres.
@@ -396,8 +411,8 @@ En principe, la question ne se pose pas si les autorités ont des champs de comp
 Définitions :
 
 - Un **acte réglementaire** a une portée générale ; il est pris de façon abstraite et non en fonction d’une situation particulière (exemple : décret déterminant les conditions d’obtention du permis de conduire).
-    
-- Un **acte individuel** vise une personne spécifiée, nominativement désignée, ou une personne en particulier (exemple : accord pour le versement d’une bourse d’études).
+
+- Un **acte individuel** vise une personne spécifiée, nominativement désignée, ou une personne n particulier (exemple : accord pour le versement d’une bourse d’études).
     
 
 La distinction est parfois complexe :
@@ -425,13 +440,7 @@ Régime :
 
 # Section 5 : Les sources extra-textuelles
 
-La jurisprudence reste une source importante du droit (même si promotion de la norme écrite à
-
-nos jours, par le mécanisme de la codification ou par l’initiative créative du législateur). Le JA a un
-
-fort pouvoir créateur, qui se manifeste dans ses décisions de façon générale (jurisprudence), soit
-
-de façon particulière (principes généraux du droit).
+La jurisprudence reste une source importante du droit (même si promotion de la norme écrite à nos jours, par le mécanisme de la codification ou par l’initiative créative du législateur). Le JA a un fort pouvoir créateur, qui se manifeste dans ses décisions de façon générale (jurisprudence), soit de façon particulière (principes généraux du droit).
 
 ## Paragraphe 1 : La jurisprudence amdinistrative
 - Elle a un caractère normatif qui découle de **l’autorité de la chose jugée**.
@@ -451,31 +460,44 @@ de façon particulière (principes généraux du droit).
 ## Paragraphe 2 : Les principes généraux du droit
 
 ### A) Définition et genèse
-Les **principes généraux du droit sont des normes jurisprudentielles, découvertes par le juge administratif ou le juge judiciaire**, à partir de conceptions idéologiques de la conscience nationale ou de nombreux textes constitutionnels, internationaux ou législatifs. Ces principes se distinguent des principes constitutionnels, des principes fondamentaux reconnus par les lois de la République, ainsi que des principes fondamentaux définis à l’article 34 de la Constitution.
 
-Le Conseil d'État a utilisé ces principes généraux dès la IIIe République, comme dans l'arrêt CE, 13 mai 1927, **Carrier**, en matière de protection de la liberté individuelle. Sous la IVe République, ce mouvement se poursuit, comme le montre l’arrêt **CE Sect., 5 mai 1944, Dame Veuve Trompier Gravier**, qui a érigé **le droit de la défense en principe général du droit**. L’évolution principale de ces principes réside surtout dans leur multiplication.
+Les **principes généraux du droit sont des normes jurisprudentielles, découvertes par le juge administratif ou le juge judiciaire**, à partir de conceptions idéologiques de la conscience nationale ou de nombreux textes constitutionnels, internationaux ou législatifs. Ces principes se distinguent des principes constitutionnels, des principes fondamentaux reconnus par les lois de la République, ainsi que des principes fondamentaux définis à l’==article 34 de la Constitution==.
+
+[[CE, 13 mai 1927, Carrier]]
+Le Conseil d'État a utilisé ces principes généraux dès la IIIe République, comme dans l'arrêt CE, 13 mai 1927, Carrier, en matière de protection de la liberté individuelle. 
+
+
+[[CE Sect., 5 mai 1944, Dame Veuve Trompier Gravier]]
+Sous la IVe République, ce mouvement se poursuit, comme le montre l’arrêt CE Sect., 5 mai 1944, Dame Veuve Trompier Gravier, qui a érigé le droit de la défense en principe général du droit. L’évolution principale de ces principes réside surtout dans leur multiplication.
 
 ### B) Variété des principes généraux du droit
 
-arrêt Société des concerts du conservatoire
+[[arrêt Société des concerts du conservatoire]]
 Ces principes encadrent l’administration de façon assez large. Certains d'entre eux sont en accord avec les droits des personnes, comme le principe d'égalité devant le service public consacré par l'arrêt Société des concerts du conservatoire. D'autres principes concernent le droit des étrangers, par exemple le droit de mener une vie familiale normale, qui protège contre les expulsions. 
 
-Conseil d'État du 1er avril 1988, Bereciartua-Echarri
-Il existe aussi le **principe de non-extradition des réfugiés politiques**, illustré par l'arrêt du Conseil d'État du 1er avril 1988, Bereciartua-Echarri. Un autre principe interdit l'extradition vers des pays ne respectant pas les droits fondamentaux, notamment ceux appliquant la peine de mort.
+[[Conseil d'État du 1er avril 1988, Bereciartua-Echarri]]
+Il existe aussi le **principe de non-extradition des réfugiés politiques**, illustré par l'arrêt du Conseil d'État du 1er avril 1988, Bereciartua-Echarri. 
+
+Un autre principe interdit l'extradition vers des pays ne respectant pas les droits fondamentaux, notamment ceux appliquant la peine de mort.
 
 Des principes similaires se retrouvent en droit du travail, tels que l'interdiction de licencier les femmes enceintes. 
 
-Il existe également des principes garantissant la **protection des administrés**, comme dans l'arrêt **Trompier Gravier** de 1944, et le principe d'ouverture du **recours pour excès de pouvoir même sans texte**, établi par l'arrêt **Dame Lamotte** du 17 février 1950 du Conseil d'État en Assemblée.
+[[arrêt Trompier Gravier de 1944]]
+Il existe également des **principes garantissant la protection des administrés**, comme dans l'arrêt Trompier Gravier de 1944,
 
+[[arrêt Dame Lamotte du 17 février 1950 du Conseil d'État en Assemblée]]
+et le **principe d'ouverture du recours pour excès de pouvoir même sans texte**, établi par l'arrêt Dame Lamotte du 17 février 1950 du Conseil d'État en Assemblée.
+
+[[Conseil d'État en Assemblée du 25 juin 1948, Société du Journal de l’Aurore]]
 Conseil d'État en Assemblée du 25 juin 1948, Société du Journal de l’Aurore
 En ce qui concerne l’ordre juridique, on retrouve le principe de **non-rétroactivité des actes administratifs**, proclamé dans l'arrêt du Conseil d'État en Assemblée du 25 juin 1948, **Société du Journal de l’Aurore**. 
 
-arrêt Alitalia du 3 février 1989
+[[arrêt Alitalia du 3 février 1989]]
 Un **autre principe général du droit est l’obligation de publication des règlements**, ainsi que l’**obligation d’abroger un acte illégal**, comme le rappelle l’arrêt Alitalia du 3 février 1989. 
 
 Ces principes visent à **garantir le bon fonctionnement et l’effectivité de l’ordre juridique** et correspondent aux **principes de sécurité juridique et de confiance légitime** (principe d'origine allemande). 
 
-Conseil d'État en Assemblée du 24 mars 2006, Société KPMG
+[[Conseil d'État en Assemblée du 24 mars 2006, Société KPMG]]
 **Le principe de sécurité juridique** a été consacré par un arrêt du Conseil d'État en Assemblée du 24 mars 2006, Société KPMG, qui rappelle que **la législation doit être claire et que son application doit être prévisible**.
 
 ### C) La force juridique de ces principes généraux du droit

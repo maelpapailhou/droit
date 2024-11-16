@@ -1,10 +1,6 @@
-# Section 2 : La durée du contrat
-
-  
 Les articles 1210 et suivants sont nouveaux. Le Code civil ne comprenait aucune disposition relative à la durée, avant la réforme de 2016. Ce vide est désormais comblé. Les articles posent un principe d'interdiction des engagements perpétuels (§1) puis distinguent entre les contrats à durée indéterminée et les contrats à durée déterminée (§2).  
   
-
-## §1 : La prohibition des engagements perpétuels[](https://cours.unjf.fr/repository/coursefilearea/file.php/58/Cours/07_item/indexI0.htm#)
+## Paragraphe 1 : La prohibition des engagements perpétuels
 
   
 - Des manifestations spéciales. Il existe dans le Code civil différents textes révélant une frilosité à l'encontre des engagements dont un contractant ne pourrait pas se démettre.
@@ -31,13 +27,13 @@ La Cour de cassation a montré que le vice de perpétuité pouvait se nicher dan
 
 _Ex._Un contrat de location de matériel évolutif permettait au locataire d’adapter son matériel, à charge de repartir pour une période de 42 mois. Le bailleur avait mis fin à l’option d’échange (pour risque d’insolvabilité du locataire), ce qui avait pour conséquence que le locataire devait continuer à exécuter le contrat, sans pour autant pouvoir le faire évoluer. La Cour sanctionne la clause pour vice de perpétuité (Cass. com., 11 mai 2022, n° [19-22015](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822679?init=true&page=1&query=19-22015&searchField=ALL&tab_selection=all) : RDC 2022/4, p. 34, obs. J. Huet ; RDC 2022/4, p. 44, obs. J.-B. Seube ; D. 2022, p. 1239, obs. A. Etienney de Sainte Marie ; RTD. civ. 2022, p. 613, obs. H. Barbier ; D. 2023, p. 254, obs. M. Mekki et R. Boffa). La chose est étonnante car (1) le bail avait un terme et (2) chaque partie bénéficiait d’une faculté de résiliation. En réalité, c’est plus le déséquilibre contractuel qui est sanctionné.
 
-## §2 : La distinction entre les contrats à durée indéterminée et les contrats à durée déterminée[](https://cours.unjf.fr/repository/coursefilearea/file.php/58/Cours/07_item/indexI0.htm#)
+## Paragraphe 2 : La distinction entre les contrats à durée indéterminée et les contrats à durée déterminée
 
   
 - Summa diviso . Les articles [1211 et suivants](https://www.legifrance.gouv.fr/affichCode.do;jsessionid=771A3C9D0D4F0FE54889922B638B1661.tpdila19v_1?idSectionTA=LEGISCTA000032041417&cidTexte=LEGITEXT000006070721&dateTexte=20161001) posent une distinction très classique entre les contrats à durée indéterminée (A) et les contrats à durée déterminée (B).  
   
 
-### A - Les contrats à durée indéterminée[](https://cours.unjf.fr/repository/coursefilearea/file.php/58/Cours/07_item/indexI0.htm#)
+### A) Les contrats à durée indéterminée
 
   
 - Le principe d'une résiliation unilatérale. Les contrats à durée indéterminée sont ceux qui ne sont affectés d'aucun terme extinctif. Ces contrats peuvent s'éteindre par le mutuus dissensus (c'est-à-dire l'accord des parties) ou par une résiliation unilatérale. Ce dernier mode de rupture est de loin le plus intéressant. L'article [1211](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=771A3C9D0D4F0FE54889922B638B1661.tpdila19v_1?idArticle=LEGIARTI000032041407&cidTexte=LEGITEXT000006070721&dateTexte=20161001) dispose à cet effet :
@@ -63,7 +59,7 @@ _Ex._Elle avait en effet admis que, sauf indication contraire du législateur, l
 
 - Comment sanctionner une rupture abusive ? Il n'est rien dit des conséquences d'une rupture brutale du contrat alors que, dans le projet d'ordonnance, il était précisé que la responsabilité du contractant ne pouvait être engagée qu'en cas d'abus, notion plus large que la rupture brutale. Le non-respect d'un délai raisonnable (qu'il soit ou non contractuellement prévu) doit être sanctionné : par des dommages et intérêts ? par le maintien du contrat ? Le rapport remis au Président de la République précise que, dans le silence du texte, les règles de la responsabilité civile de droit commun trouveront à s'appliquer en cas de faute commise par le cocontractant. Le nouvel article [1240](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=DB43C8DD8421AFA80CFA84C8E9F07A7C.tpdila13v_1?idArticle=LEGIARTI000032041571&cidTexte=LEGITEXT000006070721&categorieLien=id&dateTexte=20161001) du code – reprenant à l'identique l'ancien article 1382 – s'appliquera : devra être faite la preuve de la faute (délai trop court, mauvaise information), du préjudice et du lien de causalité et le principe de la réparation intégrale du préjudice limitera le montant des dommages et intérêts.
 
-### B - Les contrats à durée déterminée[](https://cours.unjf.fr/repository/coursefilearea/file.php/58/Cours/07_item/indexI0.htm#)
+### B) Les contrats à durée déterminée
 
   
 - Le texte. Les contrats à durée déterminée sont ceux qui sont affectés, par la volonté des parties, d'un terme extinctif (voir sur cette notion, les articles 1305 et s.). L'article [1212](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=DB43C8DD8421AFA80CFA84C8E9F07A7C.tpdila13v_1?idArticle=LEGIARTI000032041402&cidTexte=LEGITEXT000006070721&categorieLien=id&dateTexte=20161001) dispose que :  
@@ -73,7 +69,7 @@ _Tx._« Lorsque le contrat est conclu pour une durée déterminée, chaque part
 Le texte pose donc une obligation d'exécuter le contrat (1) ; il précise aussi les effets de l'arrivée du terme (2).  
   
 
-#### 1. L'obligation d'exécuter le contrat jusqu'à son terme.[](https://cours.unjf.fr/repository/coursefilearea/file.php/58/Cours/07_item/indexI0.htm#)
+#### 1) L'obligation d'exécuter le contrat jusqu'à son terme.
 
   
 - Portée du principe. A la différence du contrat à durée à indéterminée qui peut être rompu à tout moment, le contrat à durée déterminée doit être, sauf hypothèse d'une faute, exécuté jusqu'à son terme. Par exemple, si un jeune conducteur s'engage à prendre des leçons pendant six mois à raison de deux leçons de conduite par semaine, il ne peut mettre fin au contrat.  
@@ -84,7 +80,7 @@ Le texte pose donc une obligation d'exécuter le contrat (1) ; il précise aussi
   
   
 
-#### 2. Les effets de l'arrivée du terme.[](https://cours.unjf.fr/repository/coursefilearea/file.php/58/Cours/07_item/indexI0.htm#)
+#### 2) Les effets de l'arrivée du terme
 
   
 - Plan. A l'arrivée du terme, « nul ne peut exiger le renouvellement du contrat » (a). Les parties peuvent cependant aménager les effets de l'arrivée du terme (b).  

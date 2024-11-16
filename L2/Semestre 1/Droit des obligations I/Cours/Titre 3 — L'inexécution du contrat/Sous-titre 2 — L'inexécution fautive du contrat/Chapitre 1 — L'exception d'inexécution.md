@@ -1,46 +1,48 @@
-C'est un mécanisme frustre, presque animal. On oppose une exception d'inexecution.
+C'est un mécanisme fruste, presque animal. On oppose une exception d’inexécution.
 
-Hypothèse dans lauqele un contractant confronté à l'inxecution de son partefaire décide de ne pas executer ses prorpes oblgiations.
+Il s’agit de l’hypothèse dans laquelle un contractant confronté à l’inexécution de son partenaire décide de ne pas exécuter ses propres obligations.
 
-Articels 1219 et 1220 appellent à précider les conditiosn de l'exception d'inexecution, et les effets de l'exception d'inexecution.
+Les articles 1219 et 1220 appellent à préciser les conditions et les effets de l’exception d’inexécution.
 
-# Section 1 : les conditions de l'exception d'inexecution
+# Section 1 : les conditions de l'exception d'inexécution
 
-le code2 hyptohses :
+Le Code civil distingue deux hypothèses :
 
-## Paragraphe 1 : exception pour inexecution avérée
+## Paragraphe 1 : exception pour inexécution avérée
 
-Hypotjèse est visée à articel 1219 du code civil, une partie peiut refuser dexecuter son obligation si l'autre ne remplie pas la sienne, et si cette inexecution est suffisamenet grave. 
+L’hypothèse est visée à l’==article 1219 du Code civil==. Une partie peut refuser d’exécuter son obligation si l’autre ne remplit pas la sienne, et si cette inexécution est suffisamment grave.
 
-le texte passe sous silence une condition qui a déjà été dégagée par la jurisprudence de longue date, et qui evodemment va perdurer. Cette condition c'est celle de la mesure de l'inexecution. En d'autre termes, le créancier qui est confronté à l'inexecution de son débiteur, peut refuser d'executer ses propres obligations, mais à la condition que son exception qui l'ooppse soit proportionnée à l'inexecution.
+Le texte passe sous silence une condition déjà dégagée par la jurisprudence de longue date, et qui évidemment va perdurer. Il s’agit de la proportionnalité de l’inexécution. En d’autres termes, le créancier qui est confronté à l’inexécution de son débiteur peut refuser d’exécuter ses propres obligations, mais à la condition que l’exception qu’il oppose soit proportionnée à l’inexécution.
 
-Exemple : contrat de bial, on est locaitare et ça fait des semaines que vous demander au bailleur de faire des réparation pour permettre à une fenetre de bien fermer. Cette dépense incombe au bailleur, on demande depuis de faire des repartaions depuis des semaines. On peut avoir le reflexe de pas payer le loyer, mais elel est disproportionnée. Car c'est une obligaitons secondaire, alors que nous on cesse d'executer l'oblgiations principale. Doit y avoir une juste proportion. 
+**Exemple :** *dans un contrat de bail, on est locataire et cela fait des semaines que l’on demande au bailleur de faire des réparations pour permettre à une fenêtre de bien fermer. Cette dépense incombe au bailleur, et nous avons demandé ces réparations depuis des semaines. On pourrait avoir le réflexe de ne pas payer le loyer, mais ce serait disproportionné, car il s’agit d’une obligation secondaire de la part du bailleur, tandis que nous cesserions d’exécuter notre obligation principale. Il doit donc y avoir une juste proportion.*
 
-## Paragraphe 2 : exception pour inexecution  redoutée
+## Paragraphe 2 : exception pour inexécution  redoutée
+C’est une nouveauté de la réforme, visée à l’==article 1220 du Code civil==. Ici, la situation est différente.
 
-C'est une nouveauté de la réforme, visée à l'articel 1220 du code civil. ici la situation était différente.
+Un contractant qui craint que son partenaire n’exécute pas correctement le contrat peut, en vertu de l’==article 1220==, suspendre à titre de précaution l’exécution de ses propres obligations.
 
-Un contractant qui redoute que son partefaire n'execute pas correcement le contrat, l'articel 1220 va lui permettre de suspendre à titre de précaution l'execution de ses propres obligations. 
+Cette notion existe déjà en droit international de la vente, où elle est parfaitement comprise.
 
-cette figure existe déjà en droit international de la vente où elle se ocmprends parfaitement. 
+**Hypothèse :** un exportateur réunionnais exporte des marchandises en Afrique du Sud. L’acheteur sud-africain rencontre de grosses difficultés financières, et il y a de fortes chances qu’il ne paie pas. En droit international, on admet que le vendeur puisse ne pas expédier les marchandises par crainte de ne pas être payé.
 
-Hypothèse : exportateur réunionais qui exporte marchandises en afrique du sud. L'acheteur sud africian a de grosse difficultés financieres et de grosss chances pour qu'il ne paie pas, en droit internaitonal on admet que le vendeur puissene pas expedier les marchandes par crainte de ne pas être payé.
+Cela se comprend : si l’on envoie les marchandises sans être payé, on devra les rapatrier à ses frais.
 
-Cela se comprends : car si on envoeiles marchandeises, pas payés, on devra les rapatrier à mes frais.
+En droit interne, il n’est pas certain que ces justifications s’appliquent de la même manière. On peut même craindre que l’==article 1220== permette à des contractants de bonne foi douteuse de ne pas exécuter leurs propres obligations.
 
-En droit interne : pas certains que ces justificateifs existent aussi dans l'ordre interne, dans l'ordre natuonal. On peut meme penser que articel 1220 va permettre à des contractants à bonne foie douteuse pour ne pas executer leru propre obligation. 
+> **Article 1220 civ**
+> *une partie peut suspendre l’exécution de son obligation dès lors qu’il est manifeste que son cocontractant ne s’exécutera pas à l’échéance et que les conséquences de cette inexécution sont suffisamment graves pour elle ; elle doit en être notifiée dans les meilleurs délais*
 
-Article 1220 "une partie peut suspendre execution de son obligation dès lors qu'il est manifeste que son co-contractant ne s'executera pas àl'échéance et que les csq de cette inexecution sont sufifsanmetn grave pour elles, elle doit etre notiifée dans les meilleurs délais"; 
+L’article pose trois conditions pour l’exception pour inexécution redoutée :
 
-Pose 3 conditions à l'exception pour inexecution reodutée :
+1. Il faut que le risque d’une inexécution soit manifeste, c’est-à-dire que le cocontractant ne s’exécutera pas à l’échéance.
+2. Il faut que ce défaut d’exécution soit suffisamment grave.
+3. Il faut que la suspension soit notifiée dans les meilleurs délais.
 
-1. il faut que le risque du'ne ienxection soit manifeste que le co contractant ne s'executera pas a l'échéance
-2. il faut que ce défaut d'inexecution soit suffisament grave
-3. il faut que la suispension soit notiifée dans les meilleurs délais.
+Ce sont les juges du fond qui apprécieront le caractère manifeste du risque d’inexécution, la gravité, ainsi que la notification dans les meilleurs délais.
 
-c'est les juges du fond qui apprécieront el caractere manifeste ou non du risque d'inexecution, qui apprécieornt la gravitié, et la notiificaiton qui doit intervenir adns les meillerus délais.
+Pas d’illustrations jurisprudentielles à ce jour.
+# Section 2 : les effets de l'exception d'inexécution
 
-Pas d'illustratiosn jurisprudentiels.
-
-# Section 2 : les effets de l'exception d'inexecution
-
+**Inter partes :** Entre les parties, le contrat est suspendu. Il continue donc d'exister. La situation est bloquée et pourra évoluer soit vers une exécution par l'une des parties (entraînant alors celle de l'autre), soit vers une résolution judiciaire. L'exception d'inexécution est donc un moyen de pression... mais elle ne règle pas une situation de façon définitive.  
+  
+**Erga omnes** : A l'égard des tiers, l'exception est opposable. Dès lors si un tiers exerce, contre un contractant, une action fondée sur le contrat suspendu, son action sera paralysée. En revanche si le tiers invoque un droit distinct du contrat (responsabilité délictuelle par exemple), son action pourra perdurer.

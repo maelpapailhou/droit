@@ -1,7 +1,3 @@
-Voici une proposition de dissertation sur les contrats formels en droit romain :
-
----
-
 **Introduction**
 
 Le droit romain, fondement juridique de nombreuses législations modernes, s'est construit progressivement autour d'institutions et de principes qui reflétaient l'évolution de la société romaine elle-même. L’un des concepts les plus marquants du droit romain ancien est celui des *contrats formels*, contrats solennels et rigides qui nécessitaient l’accomplissement de rituels précis. Les contrats formels sont ainsi des actes juridiques qui tirent leur force et leur légitimité d’un certain formalisme, par des gestes, des paroles, ou encore par des documents écrits. Ces contrats avaient un objectif social et juridique précis : créer une obligation reconnue par le droit en évitant tout doute ou contestation quant aux engagements pris. Ces engagements, marqués par le strict respect de procédures publiques et solennelles, soulignent la volonté des Romains de faire prévaloir la rigueur et la stabilité dans les affaires juridiques, d'autant plus que ces contrats restaient limités à certaines catégories de biens et de personnes, en particulier les citoyens.

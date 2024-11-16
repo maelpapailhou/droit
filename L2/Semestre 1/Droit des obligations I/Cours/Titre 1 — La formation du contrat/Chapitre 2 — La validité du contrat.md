@@ -1218,11 +1218,11 @@ La **vente immobilière est un contrat consensuel** : entre le vendeur et l'ache
 
 Il y a donc bien une différence entre la forme validante et la forme de publicité.
 
-## Section 2 : Les sanctions de l'invalidité du contrat
+# Section 2 : Les sanctions de l'invalidité du contrat
 
 ==Avant la réforme de 2016==, les sanctions étaient nombreuses, et souvent la Cour de cassation se référait à l’inexistence du contrat ou à son inopposabilité. Pourtant, la réforme de 2016, aux ==articles 1178== et suivants, ***passe sous silence ces deux sanctions*** et n’envisage que deux autres : **la nullité d’une part, et la caducité d’autre part**.
 
-### Sous-section 1 : la nullité du contrat
+## Sous-section 1 : la nullité du contrat
 
 > **Article 1178 du Code civil** 
 > Un contrat qui ne remplit pas les conditions requises pour sa validité est nul.
@@ -1240,7 +1240,7 @@ Pour faire **déclarer nul un contrat**, il est nécessaire d'***intenter une ac
 
 En revanche, une fois la **nullité prononcée par le juge**, qu’il s’agisse d’une *nullité absolue ou relative*, elle **emportera exactement les mêmes effets**.
   %% DCP NULLITE SOIT PAR JUGE SOIT PAR ACCORD COMMUN??%%
-#### Paragraphe 1 : l’action en nullité : la distinction entre nullité relative et nullité absolue
+### Paragraphe 1 : l’action en nullité : la distinction entre nullité relative et nullité absolue
 
 Le critère de distinction entre ces deux nullités a évolué au fil du temps. 
 - **Au 19e siècle**, on considérait que si le *contrat était affecté d’un vice si grave, si important, qu’il ne pouvait pas être réparé*, **la nullité était absolue**. Mais si le contrat était affecté d’un *vice que l’on pouvait guérir*, il s’agissait d’une **nullité relative**. Ce critère se basait sur la **nature du vice affectant le contrat**.
@@ -1254,7 +1254,7 @@ Ce critère de distinction n’est pas toujours facile à mettre en œuvre. Ce c
 > **article 1179 du Code civil (retiens critère du début 20e siècle de Japiot)**
 > La nullité est absolue lorsque la règle violée a pour objet la sauvegarde de l’intérêt général ; elle est relative lorsque la règle violée a pour seul objet la sauvegarde d’un intérêt privé.
 
-###### 1) La nullité relative
+##### 1) La nullité relative
 
   La **nullité relative** est donc encourue *lorsque le contrat a méconnu une règle établie pour protéger l’intérêt particulier de l’un des contractants*. 
   
@@ -1308,15 +1308,15 @@ L’**action interrogatoire n’est pas une action en justice**. Il s’agit sim
 
 Toutefois, il faut être **prudent en initiant une action interrogatoire**, car vous pourriez **admettre implicitement l’existence d’un vice**. *Par exemple, vous pourriez dire : « Je me demande si, par une interprétation audacieuse… » etc.*
   
-###### 2) La nullité absolue
+##### 2) La nullité absolue
 La nullité absolue est encourue lorsque le contrat a méconnu une règle posée en vue de la protection de l’intérêt général. Dans ce cas, l’annulation pourra être obtenue beaucoup plus facilement.
 
 1. **Identité du demandeur à l’action** : Toute personne intéressée peut demander l’annulation du contrat. Cela inclut les deux contractants, mais également des tiers, ainsi que le juge, qui peut soulever lui-même cette question.
 2. **Pas de confirmation possible** : Lorsque la nullité absolue est encourue, les parties ne peuvent pas confirmer le contrat. Elles ne peuvent pas maintenir un contrat qui serait contraire à l’intérêt général.
 3. **Pas d’action interrogatoire** : Pour les mêmes raisons, il n’y a pas d’action interrogatoire. L’intérêt privé cède devant l’intérêt de la collectivité.
-#### Paragraphe 2 : Les effets de la nullité 
+### Paragraphe 2 : Les effets de la nullité 
 
-##### 1) L’étendue de la nullité
+#### 1) L’étendue de la nullité
 Il s'agit du problème de savoir si, lorsque seulement une partie du contrat ou une clause du contrat est annulée, cette **annulation** doit s’***étendre au contrat tout entier***, ou si elle est ***limitée à la stipulation illicite***. 
 
 Très souvent, **des législations spéciales donnent la réponse**. Par exemple, l'==article L212-1 du Code de la consommation== précise que *lorsqu’une clause est abusive, seule cette clause est réputée non écrite, et le contrat reste inchangé, étant simplement expurgé de la clause illicite*.
@@ -1332,7 +1332,7 @@ Ainsi, **lorsque le juge annule une clause**, il devra se demander si cette clau
 
 Il est souvent précisé que « cette clause est un élément déterminant du consentement de telle ou telle partie ».
 
-##### 2) La portée de la nullité
+#### 2) La portée de la nullité
 
 La **nullité est en effet une sanction rétroactive**. 
 
@@ -1373,7 +1373,7 @@ Le Code civil envisage deux hypothèses de caducité :
 1. un **contrat isolé** (==article 1186, alinéa 1==)
 2. la caducité lorsque **le contrat participe à une opération économique globale** (==article 1186, alinéa 2==).
 
-#### Paragraphe 1 : La caducité d'un contrat pour perte d'un de ses éléments essentiel
+### Paragraphe 1 : La caducité d'un contrat pour perte d'un de ses éléments essentiel
 
 La principale difficulté de ce texte réside dans le fait que la notion d’**élément essentiel n’est pas définie**. Il n’y a toutefois ***aucune difficulté lorsque disparaît l’objet ou le prix du contrat, qui sont des éléments essentiels du contrat***. 
 
@@ -1396,7 +1396,7 @@ Le contrat pourrait-il être frappé de caducité **lorsqu’un contractant perd
 
 %% CREUSER%%
 
-#### Paragraphe 2 : La caducité d'un contrat au sein d'une opération économique
+### Paragraphe 2 : La caducité d'un contrat au sein d'une opération économique
 
 > **article 1186 alinéa 2**
 > Lorsque l'exécution de plusieurs contrats est nécessaire à la réalisation d'une même opération et que l'un d'eux disparaît, sont caducs les contrats dont l'exécution est rendue impossible par cette disparition et ceux pour lesquels l'exécution du contrat disparu était une condition déterminante du consentement d'une partie.
