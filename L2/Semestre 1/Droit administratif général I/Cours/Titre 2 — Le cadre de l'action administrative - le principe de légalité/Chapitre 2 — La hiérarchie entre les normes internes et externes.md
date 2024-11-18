@@ -2,7 +2,13 @@
 
 C’est une question épineuse d’établir une hiérarchie entre la Constitution (C°) et les normes internationales. Il est évident que le **droit international doit primer sur le droit national**, y compris la C°. L’existence même du droit international suppose sa primauté, ce qui s’exprime dans le principe _pacta sunt servanda_, mentionné à l’alinéa 14 du préambule de la Constitution, avec une conséquence concrète : l’État ne peut pas invoquer son droit national pour se soustraire à ses obligations nées du traité (convention de Vienne). Cette primauté a été consacrée par la jurisprudence des juridictions internationales et européennes. On distingue ainsi deux **ordres juridiques** sur le territoire européen : **le Conseil de l’Europe (1950)** et **l’Union européenne (1957)**.
 
-L’avis de la **Cour internationale de justice en 1932**, relatif au traitement des nationaux polonais, confirme que le droit international prime sur le droit interne, même constitutionnel. La CJCE (Cour de justice des Communautés européennes) a également affirmé la **supériorité du droit communautaire primaire et dérivé sur tout le droit national** dans l'arrêt du 17 décembre 1970, International Handelsgesellschaft. Un autre arrêt important est celui du **15 juillet 1964, Costa c. Enel**, qui introduit le mécanisme de la question préjudicielle pour garantir cette primauté. 
+L’<u>avis de la Cour internationale de justice en 1932</u>, relatif au traitement des nationaux polonais, confirme que le droit international prime sur le droit interne, même constitutionnel. 
+
+<u>CJCE du 17 décembre 1970, International Handelsgesellschaft</u>
+La CJCE (Cour de justice des Communautés européennes) a également affirmé la supériorité du droit communautaire primaire et dérivé sur tout le droit national dans l'arrêt du 17 décembre 1970, International Handelsgesellschaft.
+
+<u>CJCE 15 juillet 1964, Costa c. Enel</u>
+Un autre arrêt important est celui du 15 juillet 1964, Costa c. Enel, qui introduit le mécanisme de la question préjudicielle pour garantir cette primauté. 
 
 L’article 189 des traités prévoit aussi cette primauté. 
 
@@ -16,21 +22,25 @@ Cas du droit international classique diﬀérent du droit de l’UE
 
 ### A) Hypothèse où le droit international classique est invoqué.
 
-Dans cette hypothèse, on imagine un acte administratif pris directement sur le fondement d’une décision constitutionnelle ; la Constitution (C°) devient alors la base légale. Cependant, cet acte administratif méconnaît une disposition internationale, ce qui crée un problème de conformité entre la disposition internationale et la C°. Dans cette situation, la C° fait écran entre l’acte et la norme internationale. Le juge administratif (JA) estime alors que la C° prime, comme le montre l’arrêt du **30 octobre 1998, Assemblée, Sarran et Levacher**. Dans cet arrêt, les requérants introduisent un recours pour excès de pouvoir (REP) contre un décret organisant les élections en Nouvelle-Calédonie, qui institue un corps électoral restreint (plus de 10 ans de résidence requis). Les requérants demandent au Conseil d’État d’annuler ce décret, en soutenant qu’il est contraire au principe d’égalité consacré par les engagements internationaux, notamment les pactes internationaux relatifs aux droits civils et politiques et la Convention européenne des droits de l’Homme.
+Dans cette hypothèse, on imagine un acte administratif pris directement sur le fondement d’une décision constitutionnelle ; la Constitution (C°) devient alors la base légale. Cependant, cet acte administratif méconnaît une disposition internationale, ce qui crée un problème de conformité entre la disposition internationale et la C°. Dans cette situation, la C° fait écran entre l’acte et la norme internationale. 
+
+<u>30 octobre 1998, Assemblée, Sarran et Levacher</u>
+Le juge administratif (JA) estime alors que la C° prime, comme le montre l’arrêt du 30 octobre 1998, Assemblée, Sarran et Levacher. 
+
+Dans cet arrêt, les requérants introduisent un recours pour excès de pouvoir (REP) contre un décret organisant les élections en Nouvelle-Calédonie, qui institue un corps électoral restreint (plus de 10 ans de résidence requis). Les requérants demandent au Conseil d’État d’annuler ce décret, en soutenant qu’il est contraire au principe d’égalité consacré par les engagements internationaux, notamment les pactes internationaux relatifs aux droits civils et politiques et la Convention européenne des droits de l’Homme.
 
 L’un des requérants soulève ici l’inconventionnalité de la C° et demande d’écarter l’article 76, qui renvoyait à une loi. La question qui se pose est donc de savoir quelle norme prime : les traités ou la C° ? Le Conseil d’État reprend les termes de l’article 55, affirmant que la suprématie que cet article confère aux engagements internationaux ne s’applique pas dans l’ordre interne aux dispositions de nature constitutionnelle. Le Conseil refuse d’examiner ce moyen et applique la C° en se prononçant, de manière implicite, en faveur de sa primauté.
 
-La Cour de cassation adopte la même position dans un arrêt du **2 juin 2000, Mme Fraisse** en assemblée plénière.
+<u>Cass arrêt du 2 juin 2000, Mme Fraisse en assemblée plénière</u>
+La Cour de cassation adopte la même position dans un arrêt du 2 juin 2000, Mme Fraisse en assemblée plénière.
 
 ### B) Dans l’hypothèse où le droit de l’Union est invoqué
 
-- La position de l’arrêt Sarran a été étendue à l’hypothèse du droit communautaire par l’arrêt CE,
+La position de l’arrêt Sarran a été étendue à l’hypothèse du droit communautaire par l’arrêt CE,
 
 3 Décembre 2001, Syndicat national de l’industrie pharmaceutique SNIP .
 
-- Dans cette espèce, le problème posé était de savoir si le décret déféré ne privait pas d’eﬀets
-
-des arrêts préjudiciels de la CJCE.
+Dans cette espèce, le problème posé était de savoir si le décret déféré ne privait pas d’eﬀets des arrêts préjudiciels de la CJCE.
 
 - Mais dans un **o****_biter dictum_**, le CE a cru bon de préciser que le principe de primauté du droit
 
@@ -159,8 +169,8 @@ Cependant, il existe des **traités pour lesquels cette condition ne s’appliqu
 
 Deux fondements :
 
-- Arrêt CEDH, 18 juin 1978, Irlande c. Royaume-Uni, qui rappelle que la réciprocité ne s’applique pas.
-- Conseil constitutionnel, 98-408 DC du 22 janvier 1999, à propos du traité créant une Cour pénale internationale.
+- <u>Arrêt CEDH, 18 juin 1978, Irlande c. Royaume-Uni</u>, qui rappelle que la réciprocité ne s’applique pas.
+- <u>Conseil constitutionnel, 98-408 DC du 22 janvier 1999</u>, à propos du traité créant une Cour pénale internationale.
   
 ##### B) La régularité de la signature de la procédure de ratification et de la publication
 
@@ -257,19 +267,20 @@ En revanche, sa force juridique est différente. Pour la force juridique des dir
 
 Les actes réglementaires **peuvent être annulés pour violation de la directive**, et si les délais de recours (2 mois) contre un acte réglementaire français sont respectés, on peut demander à l’administration de l’abroger. 
 
+<u>arrêt 3 ferries 1989, Alitalia</u>
 L'abrogation des actes réglementaires illégaux est un principe général du droit depuis l'arrêt 3 ferries 1989, Alitalia. Si l’administration refuse, on attaque le refus dans les 2 mois.
 
 Pour les **actes individuels**, on ne pourra **pas invoquer les dispositions qui sont dépourvues d’effets directs**. On va devoir invoquer l’illégalité ou l’inconventionalité de l’acte français de transposition.
   
 ##### B) L’interpretation des traités
 
-CE du 29 juin 1990, GISTI
+<u>CE du 29 juin 1990, GISTI</u>
 Traditionnellement, le juge renvoyait la question au Ministère des Affaires Étrangères (MAE). Le Conseil d’État (CE) a mis fin à cette pratique archaïque, qui pouvait sembler contraire au principe d’impartialité, dans l’arrêt CE du 29 juin 1990, GISTI.
 
 Pour le droit de l’Union, l’interprétation est effectuée soit par le juge s’il considère l’acte clair, soit il effectue un renvoi préjudiciel en interprétation ou en appréciation de validité, conformément à l’==article 267 TFUE==.
 
-CE Ass du 11 décembre 2006, Sté De Groot
+<u>CE Ass du 11 décembre 2006, Sté De Groot</u>
 Le renvoi préjudiciel a une autorité vis-à-vis du juge national ; le juge national est tenu de s’y conformer. Toutefois, le CE accepte de s’y conformer au-delà de la réponse de la CJCE, comme le montre l'arrêt CE Ass du 11 décembre 2006, Sté De Groot.
 
-CE 19 juin 1964, Société des Pétroles Shell-Berre
+<u>CE 19 juin 1964, Société des Pétroles Shell-Berre</u>
 Pour la petite histoire, il faut savoir qu’au début de la construction communautaire, le juge administratif était réticent à opérer un renvoi préjudiciel et abusait de la théorie de l’acte clair. L'arrêt du 19 juin 1964, Société des Pétroles Shell-Berre, fut l’occasion de reprocher au CE son nationalisme contentieux. Depuis, il n’hésite pas à renvoyer.

@@ -214,7 +214,7 @@ C’est l’agent qui commet la faute, mais on est dans des systèmes où c’es
 
 On distingue trois hypothèses de faute personnelle de l’agent :
 
-- **Faute commis une dehors du service sans lien** : La faute commise en dehors du service et sans lien avec celui-ci, comme dans le cas d'un incendie volontaire (voir un <u>arrêt de 1991, Société d’assurance des mutuelles</u>).
+- **Faute commise en dehors du service sans lien** : La faute commise en dehors du service et sans lien avec celui-ci, comme dans le cas d'un incendie volontaire (voir un <u>arrêt de 1991, Société d’assurance des mutuelles</u>).
 
 - **La faute commise en dehors du service mais ayant un lien avec celui-ci.** 
 	- Par exemple, soit une faute commise à l’occasion des fonctions, comme dans l’arrêt de 1954, _Bernard_, où un gardien de la paix, chargé de maintenir l’ordre lors d’une fête locale, se bat avec une personne après avoir quitté son poste ; <u>arrêt de 1954, Bernard</u>
@@ -222,39 +222,24 @@ On distingue trois hypothèses de faute personnelle de l’agent :
 
 - **La faute commise dans l’exercice du service mais se détachant de celui-ci.** : La faute se détache du service, car elle est très grave, d’une particulière gravité.
 
-  
+<u>CE 11 février 2015 Craighero</u>
+Le CE a défini la faute d’une particulière gravité dans cet arrêt. Elle est définie comme la faute d’un agent qui, eu égard à sa nature, aux conditions dans lesquelles elle a été commise, aux objectifs poursuivis par son auteur, et aux fonctions exercées par celui-ci, faute qui, d’une particulière gravité, doit être regardée comme une faute personnelle alors même qu’elle a été commise à l’occasion de l’exercice des fonctions.
 
-CE 11 février 2015 Craighero 
+Cette faute personnelle renvoie généralement à des agissements très graves, qui sont caractérisés soit par des violences et une brutalité inadmissibles, soit par des faits qui révèlent une intention de nuire et une malveillance.
 
-Le CE a défini la faute d’un particulier gravité dans cet arrêt. Elle est définie comme la faute d’un agent qui eu égard à sa nature, au conidtiosn dans lesquelles elle a été commise, eu égard aux objectifs poursuivi par son auteur, et aux fonctions exercées par celui ci, faute qui est d’une particulière gravité doit être regardée comme une faute personnelle alors meme quelle a été commieà l’occasion de l’exercice des fonctions. 
+-  **Faute personnelle :**
 
-  
-
-Cette faute personnelle renvoie généralement à des agissements très graves, qui sont caractérisés soit par des violences et une brutalité inadmissible, soit par des faits qui revelent une intention de nurie et une malveillance.
-
-  
-
-Faute personnelle :
-
-- Violence / brutalité : 1953 Delartre : il s’agit d’un policer qui poursuit un étudiant, l’étudiant qui se réfugie dans la loge d’un concierge, le policier donne des coup de poings au mari de la concierge. Les coup de poings ont été assimilés à une brutalité, une faute personnelle tellement important qu’elle se détache du service. 
-- Malveillance : 2013 Delalonde : un maire qui établit de fausses attestations de stage de formation qui donneront lieu à des subventions. donc intention de nuire. Jugé comme une faute personnelle.
-
+- **Violence / brutalité :** <u>1953 _Delartre_</u> : il s’agit d’un policier qui poursuit un étudiant, l’étudiant se réfugie dans la loge d’un concierge, le policier donne des coups de poing au mari de la concierge. Les coups de poing ont été assimilés à une brutalité, une faute personnelle tellement importante qu’elle se détache du service.
+- **Malveillance :** <u>2013 _Delalonde_</u> : un maire établit de fausses attestations de stage de formation qui donneront lieu à des subventions. Donc intention de nuire. Jugé comme une faute personnelle.
 
 #### 2) La faute de service
 
-  
+Elle a été définie par **Édouard Laferrière** (auteur du début du 20e siècle) :  
+*« Si l’acte dommageable est impersonnel, s’il révèle un administrateur plus ou moins sujet à l’erreur, et non l’homme avec ses faiblesses, ses passions, ses imprudences, l’acte reste administratif et ne peut être déféré aux tribunaux. »*
 
-Elle a été définie par Edouard Laferrière (auteur du début du 20e siècle) : « si l’acte dommageable est impersonnel, s’il révèle un administrateur plus ou moins sujet à l’erreur, et non l’homme avec ces faiblesses, ses passions, ses imprudences, l’acte reste administratif et ne peut être déféré aux tribunaux ». 
+On va ranger tout ce qui est défaut de surveillance ou défaut de contrôle, un défaut d’entretien, des imprudences, des négligences, des retards ou omissions, des promesses non tenues ou des renseignements inexacts. Cette notion a été interprétée de façon relativement large pour protéger les victimes, parce que bien souvent les agents sont dans l’impossibilité matérielle de supporter les conséquences graves de l’erreur.
 
-  
-
-On va ranger tout ce qui est défaut de surveillance ou défaut de contrôle, un défaut d’entretient, des imprudences des negligeances, des retars ou omissions, des promesses non tenues ou des renseignements inexacts. Cette notion a été interprétée de façon relativement large pour protéger les victimes, parce que bien souvent les agents sont dans l’impossibilité matérielle de supporter les conséquences graves de l’erreur. 
-
-  
-
-Si la faute de service es interprétée largement, ça signifie pas que les fonctionnaires bénéficient d’une totale impunité 
-
-  
+Si la faute de service est interprétée largement, ça ne signifie pas que les fonctionnaires bénéficient d’une totale impunité.
 
 ## B) Le cumul de responsabilité
 
@@ -296,336 +281,189 @@ Y’a 2 versants :
 - Les actions de la personne publique vers l’agent
 - L’agent qui se retourne contre la personne publique
 
-### A) Les relatiosn entre la personne publique et son agent 
+**Hypothèse 1 :**  
+Si la faute de l’agent est une faute de service, la personne publique n’a aucun droit de recours contre l’agent.
 
-  
+**Hypothèse 2 :**  
+Si la faute est une faute personnelle, conformément à l’arrêt Assemblée du 28 juillet 1951 _Laruelle et Delville_, les personnes publiques peuvent exercer une action récursoire contre l’agent dont la faute personnelle a entraîné le paiement de dommages et intérêts.
 
-Hypothèse 1 : 
+- **Si le dommage est dû exclusivement à une faute personnelle**, la personne publique pourra engager une action récursoire pour récupérer l’intégralité de la réparation (voir <u>arrêt du 17 décembre 1999 _Moine_</u>).
+- **Si le dommage résulte de fautes conjuguées (faute personnelle de l’agent et faute de service)**, l’agent ne pourra être tenu que pour la part correspondant à sa faute personnelle.
+- **Si le dommage découle de fautes personnelles de plusieurs agents**, la personne publique ne peut pas réclamer un remboursement intégral à un seul agent. Chacun est tenu dans la mesure où sa faute a contribué au dommage (*<u>arrêt du 22 mars 1955 Jeannier</u>*).
 
-Si la faute de l’agent est une faute de service, la personne publique n’a aucun droit sur l’agent. 
+L’action récursoire relève de la juridiction administrative, conformément à l’<u>arrêt du 28 juillet 1951 _Laruelle et Delville_.</u>
 
-  
+Lorsqu’un agent est condamné par un juge judiciaire à indemniser des victimes pour une faute de service, il peut engager une action récursoire contre son employeur, qui devra supporter la charge finale de l’indemnisation. Ce principe général du droit s’applique aux agents publics statutaires ou contractuels, ainsi qu’aux collaborateurs occasionnels du service public (<u>arrêt du 3 décembre 1949 _Commune de Berre-l’</u>Étang_).
 
-Hypothèse 2 :
+**Hypothèse 1 :** Si la faute est une faute de service non détachable des fonctions, l’employeur doit prendre en charge la totalité de l’indemnité due aux victimes (<u>arrêt du 4 novembre 1970 _Ville d’Arcachon_</u>).
 
-Si la faute est une faute personnelle : arrêt assemblée 28 juillet 1951 Laruelle et Delville : les personnes publiques ont le droit d’exercer une action récursoire contre l’agent dont la faute personnelle a provoqué le paiement de dommages et intérêts.
+**Hypothèse 2 :** Si la faute est une faute personnelle, la demande de garantie de l’agent sera rejetée.
 
-  
+Si une faute personnelle a conjugué ses effets avec une faute distincte de service, l’administration prendra en charge une partie des sommes dues par l’agent, en tenant compte de la gravité respective des fautes. 
 
-Si le dommage a une faute personnelle pour cause exclusive, la personne publique pourra engager une action récursoire pour récupérer l’intégralité de la réparation. Voir Arret 17 décembre 1999 Moine.
-
-  
-
-  
-
-  
-
-Si le dommage résulte des faits conjugués d’une faute personnelle de l’agent et d’une faute de service, ne pourra être réclamé à l’agent que la part qui correspond à la faute personnelle. 
-
-  
-
-Si le dommag est la conséquence de faute personnelle de plusieurs agents, la personne publique ne peut pas réclamer un entier remboursement à l’un des agents. Chacun n’est tenu que dans la mesure où sa faute à contribué au dommage. Arret 22 mars 1955 Jeannier. 
-
-  
-
-L’action récursoire relève toujours de la juridiction administrative. C’est ce qui résulte de l’arrêt du 28 juillet 1951 Laruelle et Delville. 
-
-  
-
-Lorsque’ c’est l’agent qui est condamné à réparer dédommage: l’agent condamné par le juge judiciaire à indemniser les victimes d’une faute de service peut engager une action récursoire contre son employeur, afin que celui ci supporte la charge finale de cette indemnisation. 
-
-  
-
-C’est un principe général du droit,  elle s’applique à l’ensemble des agents publics statutaires ou contractuels, mais aussi aux collaborateurs occasionnels du service publics. 3 décembre 1949 Commune de Berre-l’Etang.
-
-  
-
-Hypothese 1 : Si la faute est une faute de service non détachable des fonctions, l’employeur devra prendre en charge la totalité de l’indemnité du aux victimes. Voir 4 novembre 1970 Ville d’Arcachon.
-
-  
-
-  
-
-Hypothèse 2 : si la faute constitue une faute personnelle, la demande de garantie de l’agent sera rejetée. 
-
-  
-
-La faute a le caractère d’une faute personnelle, mais elle a conjuré ses effets vec une faute distincte, qui a le caractère d’une faute de service. Dans cette hypothèse l’administration prendra en charge une partie des sommes dues par l’agent à la victime, en tenant compte de la gravité respective des fautes.
-
-  
-
-Consacré dans un premier dans dans l’arrêt Delleville, et réitéré dans arrêt CE Ass 12 avril 2002 Papon. Le juge a estimé qu’il avait une faute personnelle et une faute de service, et la faute de servie est de nature à engagé la responsabiltié de l’état, qui a été condamné à prendre en charge la moitié des indemnités que Papon avait été condamné à verser. 
-
-  
+<u>CE Ass. du 12 avril 2002 Papon</u>
+Ce principe a été consacré par l’arrêt _Delville_ et réitéré dans l’arrêt CE Ass. du 12 avril 2002 _Papon_. Dans ce dernier, la faute personnelle et la faute de service ont été reconnues, et l’État a été condamné à prendre en charge la moitié des indemnités que Papon avait été contraint de verser.
 
 # Section 2 : La responsabilité sans faute
+La responsabilité a introduit la « socialisation du risque ». Dès que certaines activités humaines sont risquées et que le risque se réalise, c’est à tous qu’il revient de prendre en charge la réparation.  
 
-  
+Ce mécanisme peut devenir dangereux s’il n’est pas limité, la personne publique ne pouvant pas être contrainte de tout indemniser. Il existe l’idée qu’il y a une partie d’inconvénients, de dommages, qui doit être supportée.  
 
-La responsabilité a introduit la « socialisation du risque ». Des qe certaines activités humaines sont risquées etque le risque se réalise, c’est à tous qu’il revient de prendre en charge la réparation. 
+En matière de responsabilité sans faute, il y a autant de fondements que de faits générateurs.  
 
-  
+On a l’inconventionalité de la loi qui, pendant longtemps, était une cause de rupture d’égalité, mais qui tend aujourd’hui à devenir autonome.  
 
-Mécanisme peut devenir dangereux si pas limité, la personne publique ne pouvant pas être contrainte de tout indemniser. Existe l’idée qu’il y au une partie d’inconveniant, de dommage qui doit être supporté. $
+## Paragraphe 1 : la responsabilité fondée sur le risque 
 
-En matière de responsabilité sans faute, il y a autant de fondement que de faits générateurs. 
+### A) La responsabilité en raison de la dangerosité des choses, des activités et des situations
 
-  
+#### a) les choses dangereuses
 
-On a l’inconventionalité de la loi qui pendant longtemps était une cause de rupture d’égalité, mais qui tends à devenir aujourd’hui autonome.
+##### 1) les explosifs et les munitions
 
-  
+<u>CE 28 mars 1919, Regnault-Desrosiers : </u>
+le CE admet pour la première fois qu’on peut engager la responsabilité sans faute de l’État en raison d’une chose dangereuse, ici l’explosion d’un stock de munitions de guerre. Entreposer les munitions génère un risque.
 
-P1 : la responsabilité fondée sur le risque 
+Les feux d’artifice ne sont pas suffisamment dangereux pour entrer dans cette catégorie selon le <u>CE (1979, _Moisar_</u>).
 
-  
+##### 2) les armes et les engins dangereux
 
-A) les choses dangereuses
+Arrêt qui inaugure une responsabilité sans faute pour les armes : <u>CE 24 juin 1949, Lecomte, Franquette et Daramy. 
+</u>
 
-  
+On parle des armes à feu uniquement, les grenades lacrymogènes ne sont pas considérées comme des armes à feu.
 
- 1 ) les explosifs et les munitions
+**Important** : La responsabilité sans faute fondée sur la dangerosité de l’arme ne peut être utilisée que par les personnes ou les biens étrangers à une opération de police.
 
-  
+##### 3) des ouvrages publics dangereux
 
-CE 28 mars 1919 Regnault Desrosiers : le Ce admet pour la premier fois qu’on peut engager la resposnabiltié sans faute de l’état en raison d’une chose dangeureuse, ici explosition d’un stock de munition de guerre. Entreposer les munitions génèrent un risque. 
+Sont considérés comme des ouvrages publics dangereux les ouvrages de transport et de distribution d’électricité, de gaz et d’eau. Certains tronçons ont été, pendant un moment, considérés comme des ouvrages dangereux.
 
-  
+<u>1973, arrêt Dalleau : </u>
+une ancienne route du littoral est considérée comme un ouvrage exceptionnellement dangereux. Puis, après des travaux de sécurisation, le CE a changé d’avis dans un arrêt de 1982 (_Consorts Payet_) : la route n’est plus un ouvrage exceptionnellement dangereux. Dans ce cas, ce sera une faute présumée.
 
-Les feux d’artifices ne sont pas suffisamment dangereux pour rentrer dans cette catégorie selon CE 79 Moisar. 
+##### 4) le sang 
 
-  
+<u>CE Ass. 1995, Consorts Nguyen, Jouan, Pavar</u>
+Il a été estimé que les personnes transfusées qui ont été contaminées peuvent engager la responsabilité sans faute de l’Établissement français du sang, en raison du danger de contamination (CE Ass. 1995, Consorts Nguyen, Jouan, Pavar).
 
-2 ) les armes et les engins dangereux
+#### b) les méthodes dangereuses.
 
-  
+Ce sont un ensemble de pratiques qui ont engendré des dommages, et qui ont conduit à chercher à engager la responsabilité de l’État.
 
-Arret qui inaugure une responsabilité sans faute sur la responsabilité des armes : CE 24 juin 1949 Lecomte Franquette et Daramy. on parle des armes à faux uniquement, les grandes lacrymogènes sont pas considérés comme des armes à feux. 
+- Les méthodes libérales de rééducation en milieu semi-ouvert
 
-  
+Les jeunes s’évadaient, allaient brûler des voitures, etc. On a recherché la responsabilité de ces institutions.
 
-Important : La responsabilité sans faute fondée sur la dangerosité de l’arme ne peut être utilisée que par les personnes ou les biens qui sont étrangers à une opération de police. 
+<u>arrêt du 3 février 1956, Thouzellier</u>
+La responsabilité sans faute fondée sur la dangerosité de la méthode a été inaugurée dans l’arrêt du 3 février 1956, Thouzellier. Il s’agissait de méthodes libérales de rééducation en milieu semi-ouvert.
 
-  
+Cette jurisprudence a connu une portée assez importante car elle a été appliquée à d’autres méthodes jugées dangereuses. Ce sont des méthodes qui créent un risque spécial de dommage.
 
-3 ) des ouvrages publics dangereux
+Elle a été étendue au traitement des malades mentaux, comportant des sorties d’essai pour réadapter les patients à la vie normale.
 
-  
+Elle a également été appliquée aux permissions de sortie et aux méthodes de protection policière assurées à diverses personnalités.
 
-Sont considérés comme des ouvrages publics dangereux des ouvrages de transport et de distribution d’électricité, de gaz et d’eau. Certains tronçons ont été pendant un moment considérées comme un ouvrage dangereux. 
+Cette responsabilité n’était pas toujours adaptée lorsqu’il s’agissait de mineurs placés qui commettaient des forfaits.
 
-  
+<u>CE 11 février 2002, GIE Axa Courtage</u>
+Le 11 février 2002, GIE Axa Courtage, le CE a changé de fondement : on est passé de la notion de risque à celle de **théorie de la garde**. 
 
-1973 Arret Dalleau : ancienne route du littoral considéré comme un ouvrage exceptionnellement dangereux. Puis après travaux de sécurisation, changé d’avis dans un arret CE 1982 Consorts Payet, la route n’est plus un ouvrage exceptionnellement dangereux, alors ce sera une faute présumée.
+En droit civil, le gardien d’une chose ou d’un animal assume la responsabilité des dommages causés par cette chose. C’est la théorie de la garde. Pour les mineurs placés sous assistance éducative, le fondement adéquat est la garde et non la dangerosité.
 
-  
+- Ces méthodes dangereuses sont également retrouvées à l’hôpital.
 
-4 ) le sang 
+Exemple : lors de l’utilisation d’un traitement nouveau ou d’une nouvelle technique chirurgicale. La jurisprudence _Thouzellier_ a été étendue à des méthodes médicales dans l’<u>arrêt Bianchi, 1993</u>. Le CE a admis la responsabilité sans faute fondée sur la méthode ou le produit, mais sous des conditions strictes. Dans l’affaire _Bianchi_, le CE exigeait que le risque couvert par le traitement ait un caractère exceptionnel et que le dommage soit d’une extrême gravité (décès, paralysie, etc.).
 
-  
+<u>arrêt du 3 novembre 1997, Joseph Imbert d’Arles</u>
+Cette responsabilité devait rester exceptionnelle, mais elle a été étendue aux accidents d’anesthésie dans l’arrêt du 3 novembre 1997, Joseph Imbert d’Arles, concernant une circoncision rituelle où le patient ne s’est pas réveillé de l’anesthésie.
 
-Estimé que les personnes transfusées qui ont été contaminées peuvent engager la responsabilité sans faute de l’établissement français du sang, en raison du danger de contamination. CE Ass 1995 Consorts Nguyen, Jouan, Pavar.
+#### c) les situations dangereuses 
+Quand certaines personnes sont placées dans des situations dangereuses en conséquence de leurs obligations. Exemple : un consul obligé de rester en poste alors que la guerre fait rage est mis dans une situation dangereuse.
 
-  
+En cas de dommage, il sera indemnisé dans le cadre de la **responsabilité sans faute** fondée sur le risque.
 
-B)) les méthodes dangereuses.
+<u>CE Ass. Dame Saulze</u>  
+Une professeure fait cours enceinte alors qu’il y a une épidémie. L’enfant courait un risque de malformation, responsabilité de l’État engagée.
 
-  
+La responsabilité sans faute fondée sur le risque concerne la dangerosité des choses, des méthodes et des situations.
 
-Ce sont un ensemble de pratique qui sont engendrés des dommage, et cherché a engager la responasiblité de l’état. 
+Une autre hypothèse est un régime particulier.
 
-  
+### B) Responsabilité sans faute au profit des collaborateurs exceptionnels du service public
 
-1 ) les méthodes libérales de rééducation en milieu semi ouvert
+Inaugurée pour la première fois le 21 juin 1895, arrêt _Cames_, à propos d’un ouvrier qui avait été blessé en forgeant.
 
-  
+<u>Arrêt Ass. 22 nov. 1946 Commune de Saint-Prest-la-Plaine</u>  
+On applique l’arrêt _Cames_ aux collaborateurs, aux gens externes qui apportent leur concours à l’exécution du service public.
 
-Les jeunes s’évadaient, allaient bruler des voitures etc. On a recherché la responsabilité de ces institutions. 
+Les collaborateurs occasionnels du service public, s’ils subissent un dommage, vont bénéficier d’un régime d’indemnisation, dans lequel il n’y a pas besoin de démontrer qu’une faute a été commise.
 
-  
+**Le principe :** lorsque le collaborateur subit un dommage du fait du concours qu’il apporte au service public, la personne publique bénéficiaire de ce concours est engagée à son égard.
 
-La responsabilité sans faute fondé sur la dangerosité de la méthode a été inaugurée dans arret 3 février 1956 Thouzelleir . Methode libérale de rééducation une milieu semi ouvert.
+**Quelques conditions à réunir pour bénéficier de ce régime :**
 
-  
-
-Cette jurisprudence a connu une portée assez importante car appliquée à d’autre méthodes qu’on a trouvé dangereuse. Ce sont des méthodes qui créent un risque spécial de dommage.
-
-  
-
-Elle a été étendue au traitement des malades mentaux, qui comportent des sorties d’essais pour réapdapter les gens à la vie normale. 
-
-  
-
-Appliquée également aux permissions de sortir, et au méthodes de protection policière assurées à diverses personnalités.
-
-  
-
-cette repsosanbilié apparasiati pas tjrs adaptée quand il s’agissait de mineurs placés qui commettaient des forfaits. 
-
-  
-
-11 février 2002  GIE Axa Courtage : le CE a changé de fondement, on était plus fondé sur le risque mais sur la théorie de la garde. En droit civil, le gariden d’une chose ou d’un animal assume la resposanbilité des dommages causés par la chose. C’est la théorie de la garde. Pour les mineurs placés sous assistance éducative : le fondement adéquat est la garde et non la dangerosité.
-
-  
-
-Ces méthodes dangereuses sont aussi retrouvées à l’hôpital. 
-
-  
-
-Exemple : quand on prend un traitement nouveau, ou nouvelle technique chirurgicale. On a étendu cette jurisprudence Thouzellier à des méthode médicales dans un arrêt Bianchi 1993. On a admis la repsonsailité sans risque fondé sur la méthode ou le produit, mais à des conditions assez strictes. Dans l’affaire Bianchi, le CE exigeait que le risque que le traitement fait couvrir au malade ait un caractère exceptionnel, et que le dommage soit une extreme gravité (deces, paralysie, etc.)
-
-  
-
-Elle devait rester exceptionnelle, mais a été étendue aux accidents d’anesthésie dans 3 Nov 1997 Joseph Imbert d’Arles, à propos d’une circoncision rituelle, qui ne se réveille pas de l’anesthesie. 
-
-  
-
-C) les situations dangereuses 
-
-  
-
-Quand certaines personnes sont placées dans des situations dangereuses en conséquence de leurs obligations. Exemple un consul obligé de rester en poste alors que la guerre fait rage est mis dans une situation dangereuse.
-
-  
-
-En cas de dommage, il sera indemnisé dans le cadre de la respsanbiltéi sans faute fondé sur le risque.
-
-  
-
-CE Ass Dame Saulze.
-
-Prof fait cours enceinte, Alors que épidémie. Enfant courrait un risque de malformation, responsabilité de l’état engagé. 
-
-  
-
-La responsabilité sans faute fondée sur le risque c’est la dangerosité, des choses, des méthodes et des situations.
-
-  
-
-Autre hypothèse est un régime particulier. 
-
-  
-
-B) responsabilité sans faute au profit des collaborateurs exceiptinels du service public
-
-  
-
-Inauguré pour la première fois 21 juin 1895, arrêt Cames, a propos d’un ouvrier qui avait été blessé en forgeant. 
-
-  
-
-Arret Ass 22 Nov 1946 Commune de Saint Prest la Plaine. On va appliquer l’arrêt Cames aux collaborateurs, aux gens externes qui apportent leurs concours à l’exécution du service public.
-
-  
-
-Les collaborateur occasionnels du service public, s’ils subissent un dommage, vont bénéficier d’un regimbe d’indeministation, dans lequel pas besoin de démontrer qu’une faute a été commise.
-
-  
-
-  
-
-Le principe : lorsque le collaborateur subit un dommage du fait du concours qu’il apporte au service public. La personne publique bénéficiaire de ce concours est engagée à son égard. 
-
-  
-
-Quelques conditions à réunir pour bénéficier de ce régime : 
-
-1. Le concours soit apporté à un véritable service public (marche pas poru fêtes non traditionnelles ou si collectivités publique n’intervient pas)
-2. Il faut une collaboration effective : lorsqu’il y a un commencement d’exécution et une collaboration directe. Exemple assister à l’évènement ne suffit pas. Être usager du service public ne suffit pas; 
-3. Le concours doit être justifié 
+1. Le concours doit être apporté à un véritable service public (ne fonctionne pas pour des fêtes non traditionnelles ou si la collectivité publique n’intervient pas).
+2. Il faut une collaboration effective : lorsqu’il y a un commencement d’exécution et une collaboration directe. Exemple : assister à l’événement ne suffit pas. Être usager du service public ne suffit pas.
+3. Le concours doit être justifié.
 4. Précision : la collaboration peut être requise ou spontanée.
+### C) les dommages des tiers victimes d’accident de travaux publics
 
-  
+Hypothèse où une personne n’est pas usagère mais tierce.
 
-C)) les dommages des tiers victimes d’accident de travaux publcis
+Si une grue nous tombe dessus quand on passe à côté, on n’est pas usager. Pareil pour quelqu’un électrocuté par un câble de haute tension.
 
-  
+Les personnes qui ont la qualité de tiers par rapport à un ouvrage public ou à un chantier de travaux publics sont protégées du risque de dommage provenant de l’ouvrage ou des travaux par un régime de responsabilité sans faute.
 
-Hypothèse ou personne n’est pas usagée amis tiers.
+<u>1973 Leynaert</u> : pour la personne électrocutée
 
-  
+### D) la responaiblité de l’état du fait des attroupements et des rassemblements
 
-Si une grue nous tombe dessus quand on passe acté, on est pas usager. Pareil pour qqn électrocuté par un cable de haute tension. 
+C’est une responsabilité législative, qui a été créée par une loi du 7 janvier 1983.
 
-  
+## Paragraphe 2 : la rupture d’égalité devant les charges publiques
 
-Les personnes qui ont la qualité de tiers par rapport a un ouvrage public, ou à un chantier de travaux publics, ces personnes tiers par rapport à un ouvrage sont protégés du risque de dommage procédant de l’ouvrage ou des travaux par un régime de responsabilité sans faute. 
+ En matière de responsabilité sans faute, le préjudice revêt un caractère particulier. Pour être indemnisé, le requérant doit prouver que son préjudice est **anormal** et **spécial**. C’est ce qui limite la réparation en responsabilité sans faute.
 
-  
+Un préjudice est spécial lorsque **une seule personne** est concernée, ex. une balle perdue.
 
-1973 Leynaert pour la personne électrocutée. 
+Le préjudice est spécial lorsqu’une catégorie suffisamment spécifique de personnes, détachable de la communauté nationale, est identifiable. Exemple : en 1963, dans un arrêt _Bovero_, on a estimé qu’est spécial le préjudice subi par les propriétaires qui n’obtiennent pas, du fait de la loi, l’exécution d’un jugement ordonnant l’expulsion de familles de militaires servant en Algérie.
 
-  
+En 2009, dans un arrêt _SNC Domaine de Sausset-les-Pins_, on estime qu’il n’y a pas de préjudice spécial concernant les contraintes résultant de l’inconstructibilité, découlant de la loi littoral, qui concerne tous les terrains situés sur le littoral français.
 
-D)) la responaiblité de l’état du fait des attroupements et des rassemblements
+L’anormalité du préjudice est reconnue lorsqu’il y a une rupture caractérisée d’égalité, dépassant les inconvénients qui doivent être supportés par tous, au nom des exigences de la vie en société. Par exemple, un décès par balle perdue est considéré comme anormal.
 
-  
+### A) les dommages permanents de travaux publics
 
-C’est une resposnabilité législative, qui a été crée par une loi du 7 janvier 1983.
+Il s’oppose au dommage accidentel. Ce sont des dommages non accidentels, conséquence inévitable de l’exécution de travaux publics, ou de l’existence ou du fonctionnement d’un ouvrage public. Ces dommages ouvrent droit à réparation dès qu’ils sont **anormaux** et **spéciaux**.
 
-  
+Exemple : en 1931, un propriétaire dont le toit de la maison s’effondre parce qu’il est situé à côté d’une place municipale où des objets tombent sur son toit. Il recherche la responsabilité pour dommage permanent de travaux publics.
 
-P2 : la rupture d’égalité devant les charges publiques
+Le CE dit que cela existe bien, mais que dans ce cas précis, cela ne s’applique pas.
 
-  
+### B) Le préjudice causé par des mesures administratives régulières
 
-En matière de responsabilité sans faute, le préjudice revêt un caractère particulier. Pour être indemnisé, le requérant doit prouver que son préjudice est anormal et spécial. C’est ce qui limite la réparation en responsabilité sans faute.
+Il existe des mesures administratives régulières qui provoquent des dommages. Le CE accepte d’indemniser les préjudices qui résultent d’actes administratifs réguliers, conformes à la hiérarchie des normes.
 
-  
+<u>CE 30 novembre 1925 Couitéas.</u>
 
-Un préjudice est spécial lorsque une seule personne est concernée, ex une balle perdue.
+La responsabilité liée aux mesures régulières s’applique :
 
-  
+- Lorsqu’il s’agit d’une **décision individuelle légale**.
+- Lorsqu’un **acte administratif légal** est un règlement. Exemple : *<u>1963 Commune de Gavarnie</u>*.
 
-Le préjudice est spécial lorsqu’une catégorie suffisamment spécifique de personne détablable de la communauté nationale est identifiable. Exemple e, 1963, dans un arrêt Bovero, on a estimé qu’est spécial le préjudice subit par les propriétaires qui n’obtiennent pas du fait de la loi l’exécution de jugement ordonnant l’expulsion de famille de militaire servant en Algérie. 
+### C) La responsabilité du fait des lois
 
-  
+On distingue deux choses :
 
-En 2009 un arrêt SNC Domaine de Sausset les Pins, on estime que pas de préjudice spécial concernant les contraintes résultant des contraintes d’inconstructibilité, résultant de la loi littoral, qui concerne tous les terrains situés sur le littoral français. L’anormalité du préjudice est reconnue lorsqu’il y a une rupture caractérisée d’égalité, dépassant les inconvénients qui doivent être supportés par tous, au nom des exigences de la vie en société. Le décès par balle perdue est anormal.
+<u>1. CE Ass. 14 janvier 1938 La Fleurette</u>  
+    La loi n’est pas inconstitutionnelle, mais elle a des conséquences préjudiciables pour un individu. Dans ce cas, le CE admet qu’on puisse engager la responsabilité sans faute de l’État. Exemple : une entreprise a dû fermer car une loi a interdit le produit qu’elle vendait.
 
-  
+2. **Distinction :**
 
-A ) les dommages permanents de travaux publics
+    - **La responsabilité du fait des lois régulières :** Une loi cause un préjudice, mais elle ne présente aucun problème dans la hiérarchie des normes. On indemnise le préjudice **anormal** et **spécial**.
+    - <u>Arrêt Gardedieu 2007</u> : Une responsabilité du fait des lois inconventionnelles (en l’espèce, par rapport à la CEDH). On indemnise, mais on considère qu’il n’y a pas de faute, car il est difficile d’estimer que le législateur est fautif. C’est une responsabilité « _sui generis_ ».
 
-  
-
-Il s’oppose au dommage accidentel. Ce sont des dommages non accidentels, conséquence inévitable de l’exécution de travaux publics, ou de l’existence ou du fonctionnement d’ouvrage public. Ces dommages ouvrent droit à réparation dès qu’ils sont anormaux et spéciaux. Exemple un proprio en 1931, le toit de sa maison s’fondre car a coté du place municipale ou y’a des trucs qui tombent sur son toit. Il recherche la responabiltié pour dommage permanent de travaux public.
-
-  
-
-Le CE dit ue ça existe bien mais dans votre cas s’applique pas. 
-
-  
-
-B. Le préjudice causé par des mesures administratives régulières
-
-  
-
-Y’a des mesures adm régulières qui provoquent des dommages. Le CE accepte qu’on indemnise les préjudices qui resulte d’actes administratifs qui sont réguliers, conformes à la hiérarchie des normes. 
-
-  
-
-CE 30 novembre 1025 Couiters. 
-
-  
-
-La respisabiltié liée aux mesures régulières marches quand c une décision individuelle légale, et marche aussi quand l’acte administratif légal est un règlement. 1963 Commune de Gavarvie. 
-
-  
-
-C ) la responsaiblité du fait des lois
-
-  
-
-On distingue 2 choses : CE Ass 14 janvier 1938 La Fleurette. La loi est pas incontituonelle, mais elle a des conséquences préjudiciables pour un individu. Dans ce cas le CE admet qu’on puisse engager la respo,nsabilité sans faute de l’Etat. entreprise a du fermer car loi a interdit le produit qu’elle vendait. 
-
-  
-
-On dinstingue :
-
-- La responsabilité du fait des lois régulières : cause un préjudice mais aucun problème dans hiereracie de norme: on indemnise le préjudice anormal et spécial. 
-- Arret Gardedieu 2007 : une responsabilité du fait des lois inconventionnelles. (En l’espesce la CEDH). On indemnise, mais on considere que y’a pas de faute car on a du mal a estimer que le législateur est fautif. C’est une responasbilité « sui generis ». Il faut un préjudice certain et direct contrairement la responabiltié sans faute. C’est un moyen qui peut être soulevé en appel pour la première fois. 
-
-  
-
-Examen jusque ici.
+**Conditions :**
+- Il faut un **préjudice certain et direct**, contrairement à la responsabilité sans faute.
+- Ce moyen peut être soulevé en appel pour la première fois.
