@@ -1,7 +1,5 @@
 3 questions sur le droit de la famille, 2 sur le droit des contrats.
 
-Autres
-- [[Quels sont les éléments principaux du mariage protestant ?]]
 #### 2023-2024 Session 1
 1. [[Qu’est-ce qui différencie la conception romaine du mariage de la conception germaine ?]] / 4
 2. [[Comment évolue le sort des enfants naturels ?]] / 4

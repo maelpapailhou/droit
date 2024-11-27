@@ -243,7 +243,7 @@ Cela a été étendu par l’arrêt CE Ass. 16 décembre 2005, Syndicat national
 #### 3) La remise en cause de l’écran
 
 [[arrêt assemblée 20 octobre 1989 **Nicolo**]]
-L’écran législatif a d’abord cédé en droit international à connaître : arrêt assemblée 20 octobre 1989 **Nicolo**. Le Conseil d’État renverse la jurisprudence et refuse de contrôler la conformité d’actes administratifs à des traités internationaux dès lors que ceux-ci pouvaient s’appuyer sur une loi. Les lois postérieures doivent être conformes au traité de Rome. 
+L’écran législatif a d’abord cédé en droit international à connaître : arrêt assemblée 20 octobre 1989 **Nicolo**. Le Conseil d’État renverse la jurisprudence et refuse accepte contrôler la conformité d’actes administratifs à des traités internationaux dès lors que ceux-ci pouvaient s’appuyer sur une loi. Les lois postérieures doivent être conformes au traité de Rome. 
 
 QPC : Abrogation d’une loi ou d’une disposition législative si elle porte atteinte aux droits et libertés garantis par la Constitution.
 

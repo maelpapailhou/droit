@@ -36,44 +36,27 @@ La Cour de cassation adopte la même position dans un arrêt du 2 juin 2000, Mme
 
 ### B) Dans l’hypothèse où le droit de l’Union est invoqué
 
-La position de l’arrêt Sarran a été étendue à l’hypothèse du droit communautaire par l’arrêt CE,
+La position de l’arrêt _Sarran_ a été étendue à l’hypothèse du droit communautaire par l’arrêt 
 
-3 Décembre 2001, Syndicat national de l’industrie pharmaceutique SNIP .
+<u>CE,  3 décembre 2001, _Syndicat national de l’industrie pharmaceutique (SNIP)_.</u>
 
-Dans cette espèce, le problème posé était de savoir si le décret déféré ne privait pas d’eﬀets des arrêts préjudiciels de la CJCE.
+Dans cette espèce, le problème posé était de savoir si le décret déféré ne privait pas d’effets des arrêts préjudiciels de la CJCE.
 
-- Mais dans un **o****_biter dictum_**, le CE a cru bon de préciser que le principe de primauté du droit
-
-communautaire ‘_ne saurait conduire au demeurant dans l’ordre interne à remettre en cause la_
-
-_suprématie de la Constitution_’. Le CE ferme brutalement la porte à une prise en compte de
-
-l’autonomie et de la spécificité du droit communautaire, au profit d’une banalisation réduisant
-
-les traités communautaires au rang de ‘_traités internationaux ordinaires_’.
+- Mais dans un **obiter dictum**, le CE a cru bon de préciser que le principe de primauté du droit communautaire « _ne saurait conduire au demeurant dans l’ordre interne à remettre en cause la suprématie de la Constitution_ ». Le CE ferme brutalement la porte à une prise en compte de l’autonomie et de la spécificité du droit communautaire, au profit d’une banalisation réduisant les traités communautaires au rang de « _traités internationaux ordinaires_ ».
 
 ## Paragraphe 2 : La question de l'inconstitutionnalité du traité
 
 ### A) Invocation du Droit international classique
 
-- C’est l’hypothèse dans laquelle un requérant invoque l’inconstitutionnalité d’un traité, à
-
-l’occasion d’un recours contre un AA pris en application d’un TI, et où l’AA semble
-
-inconstitutionnel.
-
-- Le juge refuse d’examiner ce moyen comme inopérant, il rejette par principe quel que soit par
-
-ailleurs son bien-fondé éventuel. CE 8 Juillet 2002 Commune de Porta (arrêt non célèbre mais
-
-cité automatiquement sur la question)
-
-- Il n’est pas juge de la constitutionnalité des traités, cela revient au JC sur le fondement de
-
-l’**article 54** ou **61 C°**.
+- C’est l’hypothèse dans laquelle un requérant invoque l’inconstitutionnalité d’un traité, à l’occasion d’un recours contre un acte administratif pris en application d’un traité international, et où l’acte administratif semble inconstitutionnel.
+    
+- Le juge refuse d’examiner ce moyen comme inopérant ; il le rejette par principe, quel que soit par ailleurs son bien-fondé éventuel. <u>CE, 8 juillet 2002, _Commune de Porta_</u> (arrêt non célèbre mais cité automatiquement sur la question).
+    
+- Il n’est pas juge de la constitutionnalité des traités, cela revient au juge constitutionnel sur le fondement de l’**article 54** ou **61 C°**.
 
 ### B) Invocation d’une directive de l’UE
-**CE, Assemblée, 8 février 2007, Société Arcelor Atlantique**
+
+<u>**CE, Assemblée, 8 février 2007, Société Arcelor Atlantique**</u>
 
 **Faits :** Une directive a établi un système d’échange de quotas d’émission de gaz à effet de serre dans la Communauté européenne (CE). Cette directive a été transposée en France pour le volet législatif par l’ordonnance du 15 avril 2004, ratifiée par la loi. Ainsi, la directive a été transposée par un texte à valeur législative.
 

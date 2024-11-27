@@ -1,286 +1,32 @@
-1) Origine sociale et identification de classe, quelle place pour les ouvriers
+## 1) Origine sociale et identification de classe : quelle place pour les ouvriers dans les organes dirigeants des partis ouvriers ?
 
-dans les organes dirigeants des partis ouvriers ?
+### _a)_ _Des partis tiraillés entre conformisme politique et conformisme de classe_
 
-_a)_ _Des partis tiraillés entre conformisme politique et conformisme de_
+L’opposition entre élus d’un côté, permanents et militants de l’autre, ne tient pas seulement à leur position différente dans le parti politique. Historiquement, les premiers partis de masse ont été des partis ouvriers, qui entendaient se faire les représentants privilégiés sinon exclusifs de la classe ouvrière. Mais alors qu’ils prétendaient lutter pour l’abolition des inégalités de classe, ils avaient tendance à reproduire en leur sein les clivages de la société de classe, les élus étant le plus souvent issus des classes bourgeoises, tandis que les militants venaient de la classe ouvrière. Les élus du parti n’étaient donc pas socialement homogènes à la classe dont ils entendaient défendre exclusivement les intérêts. Par conséquent, leur situation paraissait démentir leur projet d’émancipation de la classe ouvrière.
 
-_classe_
+Cette tension interne aux partis ouvriers n’est jamais que la traduction sociologique de la contradiction politique à laquelle ces mêmes partis étaient confrontés en acceptant de jouer le jeu de la démocratie représentative, c’est-à-dire le jeu des élections pluralistes. Pour revendiquer avec succès le monopole de représentation de la classe ouvrière, il leur fallait en refléter les valeurs, y compris dans leur manière de faire de la politique. Mais la classe ouvrière n’a jamais constitué une classe homogène et n’a de toute façon jamais représenté en Europe la classe majoritaire. Sauf à renoncer à la conquête pacifique du pouvoir, ou à se condamner à faire de la figuration en attendant la survenue d’un improbable Grand Soir, les partis ouvriers étaient donc amenés à prospecter l’électorat au-delà de la classe ouvrière s’ils voulaient engranger des gains électoraux suffisants pour gagner des sièges, afin de peser plus lourd dans les instances politiques parlementaires et se trouver en situation d’y promouvoir leur programme. Une telle stratégie imposait cependant d’abandonner une posture trop radicale, trop « ouvriériste », au profit d’un discours plus consensuel (par exemple la main tendue du PCF aux chrétiens dans les années 1970, alors que les Églises étaient persécutées dans les démocraties populaires de l’Est) ; et, suivant la même logique, de sélectionner des candidats eux aussi plus consensuels.
 
-L’opposition entre élus d’un côté, permanents et militants de l’autre, ne tient pas seulement à
+Les candidats que les partis ouvriers présentaient au suffrage des électeurs ne devaient pas être identifiés exclusivement à la classe ouvrière ni à ses valeurs. L’aspect révolutionnaire était atténué, non seulement dans les discours et les programmes politiques, mais aussi dans les manières de discourir et de se comporter. Hors du monde ouvrier, et même en son sein, les électeurs attendaient des candidats et des futurs élus qu’ils maîtrisent (ou du moins donnent le sentiment de maîtriser) les usages légitimes de la culture dominante. Et cela valait pour des électeurs qui ne la maîtrisaient pas eux-mêmes, mais qui en jugeaient suivant des critères qu’ils croyaient conformes aux normes instituées : il convenait que le candidat parle bien, qu’il fût propre, élégant, qu’il donne une impression de sérieux et de savoir. Or, ce sont les membres des classes dominantes ou proches des classes dominantes qui ont le plus de chance de posséder de tels attributs : ce qui veut dire que même s’ils étaient peu nombreux à rejoindre les rangs des partis ouvriers, ils étaient dominants au sein de leur représentation parlementaire. Jaurès était normalien (l’École Normale est l’une des grandes écoles de la République, au même titre que Polytechnique, Centrale et quelques autres qu’il n’est possible de rejoindre qu’après être passé par les classes préparatoires), tout comme Léon Blum, pour citer deux grandes figures du socialisme français : le premier, fondateur de _L’Humanité_, le second, chef du gouvernement du Front Populaire en 1936, qui fit adopter la loi sur les 40 heures et les congés payés.
 
-leur position différente dans le parti politique. Historiquement, les premiers partis de masse ont été
+Ce clivage social, politique et organisationnel, qui réserve les postes électoraux et les postes clefs de l’encadrement des partis ouvriers à des membres issus de la classe dominante, a été une source constante de tensions et de mécontentements. En France, il a rendu difficile le rassemblement des différents partis ouvriers au sein d’une même organisation, la SFIO fondée par Jean Jaurès, qui ne voit le jour qu’à la fin du 19ᵉ siècle. Et cette fragile unité ne survivra pas au ralliement des parlementaires SFIO à l’Union Sacrée, en 1914. La guerre finie, la rupture intervient en février 1920, à l’occasion du Congrès de Tours.
 
-des partis ouvriers, qui entendaient se faire les représentants privilégiés sinon exclusifs de la classe
+### _b) L’échec politique de la 2ᵉ Internationale. Internationalisme et ouvriérisme_
 
-ouvrière. Mais alors qu’ils prétendaient lutter pour l’abolition des inégalités de classe, ils se
+Le Congrès de Tours a pour objet de refonder le socialisme français après quatre ans d’une guerre atroce qui a fait plusieurs millions de morts en Europe et laissé des millions de mutilés (les Gueules cassées, comme on les appelait, ont inspiré à Otto Dix des peintures stupéfiantes). Les débats sont placés sous le signe de la révolution russe, qui a éclaté en septembre 1917, de sa signification, du rôle du parti bolchévik emmené par Lénine, qui a développé une stratégie de radicalisation du mouvement révolutionnaire théorisée à travers la notion de _dictature du prolétariat_. La dictature du prolétariat définit le parti bolchévik comme l’avant-garde du mouvement ouvrier, dont il est censé incarner l’état de conscience le plus élevé, lavé des stigmates hérités de l’exploitation capitaliste, _désaliéné_ ; de sorte que nul autre que le parti n’a une conscience plus claire des intérêts véritables de la classe ouvrière, y compris contre les tendances et aspirations que celle-ci peut exprimer spontanément. Nul n’est donc plus apte à défendre la classe ouvrière que le parti, y compris contre cette dernière. Les intérêts du parti se confondent avec ceux de la classe dont il s’institue l’avant-garde et la tête pensante. Il en découle, entre autres conséquences, le refus du pluralisme politique, la constitution du parti en parti unique, la confusion du parti et de l’État. C’est au nom de ces principes que Lénine et les bolchéviks procéderont à la liquidation physique des menchéviks (des socialistes de tendance plus modérée qui appartenaient à la 2ᵉ Internationale, et que Lénine dénonçait comme des traîtres au service de la bourgeoisie) ; plus largement de toute espèce d’opposition, y compris interne, et que, dès sa prise de pouvoir, il s’engagera à éliminer par un processus de purges internes régulièrement renouvelé, qui culminera avec la prise de pouvoir de Staline.
 
-tendaient à reproduire en leur sein les clivages de la société de classe, les élus étant le plus souvent
+Pour les congressistes réunis à Tours, il s’agit donc, d’une façon ou d’une autre, de se prononcer sur le cours imprimé par Lénine à la révolution russe, et plus fondamentalement s’ils doivent faire leurs les principes qui inspirent sa stratégie, dont celui de dictature du prolétariat. L’occasion leur en est donnée par Lénine lui-même. Prenant acte de l’échec de la 2ᵉ Internationale à empêcher la survenue de la guerre de 14-18, et décidé à faire du parti bolchévik russe le chef de file des partis ouvriers partout dans le monde, il impulse la fondation d’une 3ᵉ Internationale, au sein de laquelle le Parti communiste d’Union soviétique jouira d’un complet leadership. Ainsi, les partis frères désireux de rejoindre cette Troisième Internationale doivent-ils souscrire intégralement à une série de propositions qui déterminent comment doit s’organiser leur subordination au parti bolchévik russe et comment ils doivent aussi s’organiser en interne, pour prévenir une nouvelle trahison comme celle de l’Union sacrée. Ce sont les vingt-et-une conditions que le parti communiste d’Union soviétique a définies unilatéralement et à propos desquelles les délégués qui participent au Congrès de Tours se déchirent jusqu’à la scission. Tandis qu’une minorité, emmenée par Léon Blum, où l’on retrouve la plupart des élus parlementaires, décide de rester fidèle à « la vieille maison », comme l’appelle Blum, et aux principes fondateurs de la 2ᵉ Internationale, la majorité des délégués, où l’on retrouve le gros des militants et des permanents, vote l’acceptation des vingt-et-une conditions². C’est l’acte fondateur du PCF.
 
-issus des classes bourgeoises, tandis que les militants venaient de la classe ouvrière. Les élus du
+Au cœur de l’affrontement entre fidèles à la 2ème Internationale et partisans de rallier la 3ème Internationale, deux questions principalement font débat, inextricablement liées l’une à l’autre, celle de l’impuissance de la 2ème Internationale à prévenir la guerre et plus généralement la définition d’une stratégie internationaliste propre à prévenir un nouvel échec de ce genre d’une part ; celle de l’attitude des parlementaires socialistes au moment du déclenchement de la guerre et plus globalement des critères de recrutement des cadres dirigeants et des élus d’autre part.
 
-parti n’étaient donc pas homogènes socialement à la classe dont ils entendaient défendre
+L’internationalisme, comme attitude et stratégie politique, a été théorisé par Marx, et elle découle très logiquement de sa conception du monde social centrée sur le travail. Marx estime que l’identité sociale et mentale des agents sociaux est déterminée au premier chef par leur position dans le système de production. Le véritable antagonisme qui structure les rapports sociaux, et qui seul permet de comprendre les ressorts véritables des guerres entre les nations, n’est pas un antagonisme national mais l’antagonisme qui oppose ceux qui détiennent et contrôlent la propriété des moyens de production (machines, usines, commerces, ce qu’on appelle le capital), et ceux qui la 2ème Internationale existe toujours sous le nom d’Internationale Socialiste, elle regroupe la plupart des partis socialistes et sociaux démocrates acquis à la démocratie parlementaire ; la 3ème Internationale n’a pas survécu à la chute du mur de Berlin et à l’effondrement du Parti communiste d’Union Soviétique.
 
-exclusivement les intérêts. Par conséquent, leur situation paraissait démentir leur projet
+possèdent que leur force de travail qu’ils sont contraints de vendre aux premiers pour pouvoir en vivre (ceux qu’on désigne à compter des années 1840 comme les prolétaires, les « classes laborieuses »). De sorte que la patrie authentique des ouvriers, ce n’est pas la nation du point de vue de Marx, c’est la classe ouvrière en tant que telle, sans souci d’appartenance nationale. Ce que résume ce slogan du _Manifeste du parti communiste_ rédigé par Marx à la demande de la Ligue des communistes, une organisation ouvrière internationaliste, et publié en février 1848 : « Prolétaires de tous les pays unissez-vous ! ».
 
-d’émancipation de la classe ouvrière.
+Fort de cette analyse, et avec le soutien d’Engels, Marx participera activement à la fondation de la 1ère Internationale à l’occasion d’un congrès qui se tient à Londres en 1864, réunissant des délégations venues de différents pays européens. Marx en rédige les statuts provisoires et le programme. Minée par les divisions politiques entre les différents courants du socialisme, cette 1ère Internationale disparaît à la suite de la scission des anarchistes emmenés par Bakounine. Une 2ème Internationale est alors initiée sous l’impulsion de Friedrich Engels, compagnon et confident de Marx, celui-ci mort en 1883, à l’occasion de l’Exposition Universelle de Paris en 1889. Elle regroupe les principaux partis ouvriers d’Europe, dont le SPD (le parti social-démocrate allemand) et la SFIO (Section Française de l’Internationale Ouvrière). Cette dernière est elle-même le résultat d’un patient travail d’unification mené par Jean Jaurès des différents courants autour desquels s’était structuré le mouvement ouvrier français depuis les années 1840. Mais le consensus réalisé par Jaurès ne lui survivra pas. Jaurès est assassiné par un nationaliste, Jacques Vilain, en août 1914, alors que l’Allemagne et la France sont au bord de la guerre, dont on sait que par le jeu des alliances croisées, elle entraîne toute l’Europe dans la tourmente. Or malgré leur appartenance à la 2ème Internationale, la SFIO et le Parti Social Démocrate allemand ne parviennent pas à prévenir le danger. Pire, chacun de leur côté ils se rallient à l’Union Sacrée : ils rejoignent dès le début le front commun qui se forme autour de leur gouvernement respectif et le soutiendront constamment dans ses efforts de mobilisation générale et dans la conduite de la guerre.
 
-Cette tension interne aux partis ouvriers n’est jamais que la traduction sociologique de la
+C’est donc un échec terrible pour la 2ème Internationale ouvrière. Nombre de militants en imputent la responsabilité aux élus parlementaires qu’ils jugent avoir trahi le parti et la cause en ayant voté la déclaration de guerre. À l’origine de cette trahison ils voient pour principale cause leur manque d’enracinement ouvrier. Au moment d’opérer le choix décisif, _l’origine sociale_ aurait parlé plus fort que leurs _convictions politiques_. Au fond, l’origine sociale n’est pas loin de représenter aux yeux de certains un caractère quasi-indélébile qui conditionnerait les attaches profondes et les comportements des individus : l’analyse n’est pas loin de basculer vers un _racisme_ _de classe_ que les dirigeants communistes n’éviteront pas toujours.
 
-contradiction politique à laquelle ces mêmes partis étaient confrontés en acceptant de jouer le jeu de
-
-la démocratie représentative, c’est-à-dire le jeu des élections pluralistes. Pour revendiquer avec
-
-succès le monopole de représentation de la classe ouvrière, il leur fallait en refléter les valeurs, y
-
-compris dans leur manière de faire de la politique. Mais la classe ouvrière n’a jamais constituée une
-
-classe homogène et n’a de toute façon jamais constitué en Europe la classe majoritaire. Sauf à
-
-renoncer à la conquête pacifique du pouvoir, ou à se condamner à faire de la figuration en attendant
-
-la survenue d’un improbable Grand Soir, les partis ouvriers étaient donc amenés à prospecter
-
-l’électorat au-dela de la classe s’ils voulaient engranger des gains électoraux suffisants pour gagner
-
-des sièges, afin de peser plus lourd dans les instances politiques parlementaires et se trouver en
-
-situation d’y promouvoir leur programme. Une telle stratégie impoait cependant d’abandonner une
-
-169posture trop radicale, trop « ouvriériste », au profit d’un discours plus consensuel (par exemple la
-
-main tendue du PCF aux chrétiens dans les années 1970, alors que les Églises étaient persécutées
-
-dans les démocraties populaires de l’Est) ; et suivant la même logique de sélectionner des candidats
-
-eux aussi plus consensuels.
-
-Ls candidats que les partis ouvriers présentaient au suffrage des électeurs ne devaient pas être
-
-identifiés exclusivement à la classe ouvrière, ni à se valeurs. L’aspect révolutionnaire était atténué,
-
-pas seulement dans les discours et les programmes politiques, mais dans les manières de discourir,
-
-les façons de se comporter. Hors du monde ouvrier, et même en son sein, les électeurs attendaient
-
-des candidats et des futurs élus qu’ils maîtrisâssent (ou du moins lui donnâssent le sentiment de
-
-maîtriser) les usages légitimes de la culture dominante. Et cela valait pour des électeurs qui ne la
-
-maîtrisaient pas eux-mêmes, mais qui en jugeaient suivant des critères qu’ils croyaient conformes
-
-aux normes instituées : il convenait que le candidat parle bien, qu'il fût propre, élégant, qu’il donnât
-
-une impression de sérieux et de savoir. Or ce sont les membres des classes dominantes ou proches
-
-des classes dominantes qui ont le plus de chance de posséder de tels attributs : ce qui veut dire que
-
-même s’ils étaient peu nombreux à rejoindre les rangs des partis ouvriers, ils étaient dominants au
-
-sein de sa représentation parlementaire. Jaurès était normalien (l’Ecole Normale est l’une des
-
-grandes écoles de la République, au même titre que Polytechnique, Centrale et quelques autre qu’il
-
-n'est possible de rejoindre qu’après être passé par les classes prépas), tout comme Léon Blum, pour
-
-citer deux grandes figures du socialisme français, le premier fondateur de _L’Humanité_, le second
-
-chef du gouvernement de Front Populaire en 1936 qui fit adopter la loi sur les 40 heures et les
-
-congés payés.
-
-Ce clivage social, politique et organisationnel, qui réserve les postes électoraux et les postes
-
-clefs de l’encadrement des partis ouvriers à des membres issus de la classe dominante, a été une
-
-source constante de tensions et de mécontentements. En France il a rendu difficile le rassemblement
-
-des différents partis ouvriers au sein d’une même organisation, la SFIO fondée par Jean Jaurès, qui
-
-ne voit le jour qu’à la fin du 19ème siècle. Et cette fragile unité ne survivra pas au ralliement des
-
-parlementaires SFIO à l’Union Sacrée, en 1914. La guerre finie, la rupture intervient en février
-
-1920, à l’occasion du Congrès de Tours.
-
-170_b)_ _L’échec politique de la 2__ème_ _Internationale. Internationalisme et_
-
-_ouvriérisme_
-
-Le Congrès de Tours a pour objet de refonder le socialisme français après quatre ans d’une
-
-guerre atroce qui a fait plusieurs millions de mort en Europe et laisse des millions de mutilés (les
-
-Gueules cassées comme on les appelait, elles ont inspiré à Otto Dix des peintures stupéfiantes). Les
-
-débats sont placés sous le signe de la révolution russe, qui a éclatée en septembre 1917, de sa
-
-signification, du rôle du parti bolchévik emmené par Lénine, qui a développé une stratégie de
-
-radicalisation du mouvement révolutionnaire théorisée à travers la notion de _dictature du_
-
-_prolétariat_. La dictature du prolétariat définit le parti bolchévik comme l’avant-garde du
-
-mouvement ouvrier, dont il censé incarner l’état de conscience le plus élevé, lavé des stigmates
-
-hérités de l’exploitation capitaliste, _désaliéné_ ; de sorte que nul autre que le parti n’a une
-
-conscience plus claire des intérêts véritables da la classe ouvrière, y compris contre les tendances et
-
-aspirations que celle-ci peut exprimer spontanément. Nul n’est donc plus apte à défendre la classe
-
-ouvrière que le parti, y compris contre cette dernière. Les intérêts du parti se confondent avec ceux
-
-de la classe dont il s’institue l’avant garde et la tête pensante. Il en découle, entre autres
-
-conséquences, le refus du pluralisme politique, la constitution du parti en parti unique, la confusion
-
-du parti et de l’État. C’est au nom de ces principes que Lénine et les Bolchéviks procéderont à
-
-liquidation physique des Menchéviks (des socialistes de tendance plus modérés qui appartenaient à
-
-la 2ème Internationale, et que Lénine dénonçait comme des traîtres au service de bourgeoisie) ; plus
-
-largement de toute espèce d’opposition y compris interne et que, dès sa prise du pouvoir, il
-
-s’engagera à éliminer par un processus de purges internes régulièrement renouvelé qui culminera
-
-avec la prise de pouvoir de Staline.
-
-Pour les congressistes réunis à Tours, il s’agit donc, d’une façon ou d’une autre, de se
-
-prononcer sur le cours imprimé par Lénine à la révolution russe, et plus fondamentalement s’ils
-
-doivent faire leurs les principes qui inspirent sa stratégie, dont celui de dictature du prolétariat.
-
-L’occasion leur en est donnée par Lénine lui-même. Prenant acte de l’échec de la 2ème
-
-Internationale à empêcher la survenue de la guerre 14-18, et décidé à faire du parti bolchévik russe
-
-171le chef de file des partis ouvriers partout dans le monde, il impulse la fondation d’une 3ème
-
-Internationale, au sein de laquelle le Parti Communiste d’Union soviétique jouira d’un complet
-
-leadership. Ainsi, les partis frères désireux de rejoindre cette Troisième Internationale doivent-ils
-
-souscrire intégralement à une série de propositions qui déterminent comment doivent s’organiser
-
-leur subordination au le parti bolchévik russe et comment ils doivent aussi s’organiser en interne,
-
-pour prévenir une nouvelle trahison comme celle de l’Union sacrée. Ce sont les vingt-et-une
-
-conditions que le parti communiste d’Union soviétique a défini unilatéralement et à propos
-
-desquelles les délégués qui participent au Congrès de Tours se déchirent jusqu’à la scission. Tandis
-
-qu’une minorité emmenée par Léon Blum, où l’on retrouve la plupart des élus parlementaires,
-
-décide de rester fidèle à « la vieille maison » comme l’appelle Blum et aux principes fondateurs de
-
-la 2ème Internationale, la majorité des délégués, où l’on retrouve le gros des militants et des
-
-permanents, vote l’acceptation des vingt-et-une conditions2. C’est l’acte fondateur du PCF.
-
-Au cœur de l’affrontement entre fidèles à la 2ème Internationale et partisans de rallier la 3ème
-
-Internationale, deux questions principalement font débat, inextricablement liées l’une à l’autre,
-
-celle de l’impuissance de la 2ème Internationale à prévenir la guerre et plus généralement la
-
-définition d’une stratégie internationaliste propre à prévenir un nouvel échec de ce genre d’une
-
-part ; celle de l’attitude des parlementaires socialistes au moment du déclenchement de la guerre et
-
-plus globalement des critères de recrutement des cadres dirigeants et des élus d’autre part.
-
-L’internationalisme, comme attitude et stratégie politique, a été théorisé par Marx, et elle
-
-découle très logiquement de sa conception du monde social centrée sur le travail. Marx estime que
-
-l’identité sociale et mentale des agents sociaux est déterminée au premier chef par leur position
-
-dans le système de production. Le véritable antagonisme qui structure les rapports sociaux, et qui
-
-seul permet de comprendre les ressorts véritables des guerres entre les nations, n’est pas un
-
-antagonisme national mais l’antagonisme qui oppose ceux qui détiennent et contrôlent la propriété
-
-des moyens de production (machines, usines, commerces, ce qu’on appelle le capital), et ceux qui
-
-2 la 2ème Internationale existe toujours sous le nom d’Internationale Socialiste, elle regroupe la plupart des partis
-
-socialistes et sociaux démocrates acquis à la démocratie parlementaire ; la 3ème Internationale n’a pas survécu à la chute
-
-du mur de Berlin et à l’effondrement du Parti communiste d’Union Soviétique.
-
-172ne possèdent que leur force de travail qu’ils sont contraints de vendre aux premiers pour pouvoir en
-
-vivre (ceux qu’on désigne à compter des années 1840 comme les prolétaires, les « classes
-
-laborieuses ») . De sorte que la patrie authentique des ouvriers, ce n’est pas la nation du point de
-
-vue de Marx, c’est la classe ouvrière en tant que telle, sans souci d’appartenance nationale. Ce que
-
-résume ce slogan du _Manifeste du parti communiste_ rédigé par Marx à la demande de la Ligue des
-
-communistes, une organisation ouvrière internationaliste, et publié en février 1848 : « Prolétaires
-
-de tous les pays unissez-vous ! ».
-
-Fort de cette analyse, et avec le soutien d’Engels, Marx participera activement à la fondation
-
-de la 1ère Internationale à l’occasion d’un congrès qui se tient à Londres en 1864, réunissant des
-
-délégations venues de différents pays européens. Marx en rédige les statuts provisoires et le
-
-programme. Minée par les divisions politiques entre les différents courants du socialisme, cette 1ère
-
-Internationale disparaît à la suite de la scission des anarchistes emmenés par Bakounine. Une 2ème
-
-Internationale est alors initiée sous l’impulsion de Friedrich Engels, compagnon et confident de
-
-Marx, celui-ci mort en 1883, à l’occasion de l’Exposition Universelle de Paris en 1889. Elle
-
-regroupe les principaux partis ouvriers d’Europe, dont le SPD (le parti social démocrate allemand)
-
-et la SFIO (Section Française de l’Internationale Ouvrière). Cette dernière est elle-même le résultat
-
-d’un patient travail d’unification mené par Jean Jaurès des différents courants autour desquels
-
-s’était structuré le mouvement ouvrier français depuis les années 1840. Mais le consensus réalisé
-
-par Jaurès ne lui survivra pas. Jaurès est assassiné par un nationaliste, Jacques Vilain, en août 1914,
-
-alors que l’Allemagne et la France sont au bord de la guerre, dont on sait que par le jeu des
-
-alliances croisées, elle entraîne toute l’Europe dans la tourmente. Or malgré leur appartenance à la
-
-2ème Internationale, la SFIO et le Parti Social Démocrate allemand ne parviennent pas à prévenir le
-
-danger. Pire, chacun de leur côté ils se rallient à l’Union Sacrée : ils rejoignent dès le début le front
-
-commun qui se forme autour de leur gouvernement respectif et le soutiendront constamment dans
-
-ses efforts de mobilisation générale et dans la conduite de la guerre.
-
-C’est donc un échec terrible pour la 2ème Internationale ouvrière. Nombre de militants en
-
-imputent la responsabilité aux élus parlementaires qu’ils jugent avoir trahi le parti et la cause en
-
-ayant voté la déclaration de guerre. A l’origine de cette trahison ils voient pour principale causse
-
-leur manque d’enracinement ouvrier. Au moment d’opérer le choix décisif, _l’origine sociale_ aurait
-
-173parlé plus fort que leurs _convictions politiques_. Au fond, l’origine sociale n’est pas loin de
-
-représenter aux yeux de certains un caractère quasi-indélébile qui conditionnerait les attaches
-
-profondes et les comportements des individus : l’analyse n’est pas loin de basculer vers un _racisme_
-
-_de classe_ que les dirigeants communistes n’éviteront pas toujours3
-
-.
-
-2) Une contre-culture communiste, enjeux et limites
+## 2) Une contre-culture communiste, enjeux et limites
 
 C’est donc à ce point que la question de l’Internationalisme retrouve celle de la sélection et de
 
@@ -556,7 +302,7 @@ vingts ans plus tôt, et qui laisse irrésolue la question du recrutement des é
 
 démocraties représentatives.
 
-**Conclusion : démocratie et mobilité sociale**
+## **Conclusion : démocratie et mobilité sociale**
 
 L’étude de Bernard Pudal montre combien, au delà du cas particulier du PCF, la promotion
 

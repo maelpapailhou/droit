@@ -80,7 +80,7 @@ Donc, il se prouve de **deux manières** :
 - La présomption de mariage concerne les femmes qui vivent habituellement avec le même homme.
 
 **Donc l’enfant né durant ce mariage sera légitime**. 
-- Il faut qu’il soit né au moins six mois après la conclusion du mariage et moins de dix mois après sa dissolution. 
+- Il faut qu’il soit né au moins ***six mois après la conclusion du mariage*** et ***moins de dix mois après sa dissolution.*** 
 - Il fait la volonté du père, c’est-à-dire que le père doit vouloir intégrer l’enfant dans sa gens. S’il ne le veut pas et que l’enfant est né dans le mariage et dans le délai prévu, l’enfant ne sera pas juridiquement intégré dans sa famille, donc il sera abandonné.
 
 **Les enfants refusés** sont fréquemment les filles, surtout quand il y en a plusieurs, ou ceux présentant des défauts physiques.
@@ -113,7 +113,9 @@ Il existe par ailleurs **des individus qui n’ont pas de gens**, pas de lignée
 
 La **deuxième particularité** est que, contrairement aux autres enfants, ***ils ont un lien de droit maternel***. Juridiquement, ils sont les enfants de leur mère. Cette **lignée maternelle** a ***beaucoup moins de puissance que la lignée paternelle*** ; les **droits d’héritage** sont donc ***limités et il y a une forte réprobation sociale***, les mettant à l’écart de la société.
 
-**Ce système va perdurer pendant des siècles et commencera à s’infléchir à la fin de l’Empire romain d’Occident**. Peu à peu, les Romains considèrent que l’***enfant doit également être reconnu comme l’enfant de sa mère***. C’est ainsi que la **==parenté cognatique==** apparaît, correspondant aux deux lignées.
+**Ce système va perdurer pendant des siècles et commencera à s’infléchir à la fin de l’Empire romain d’Occident**. Peu à peu, les Romains considèrent que l’***enfant doit également être reconnu comme l’enfant de sa mère***. 
+
+C’est ainsi que la **==parenté cognatique==** apparaît, correspondant aux deux lignées.
 
 C’est une évolution qui se fait tardivement, surtout pour des raisons de succession.
 
