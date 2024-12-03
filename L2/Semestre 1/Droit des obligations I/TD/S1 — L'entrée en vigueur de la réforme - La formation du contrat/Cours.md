@@ -38,7 +38,7 @@ Néanmoins, la cour d'appel s'est inspirée du contenu de la réforme pour harmo
 
 ---
 
-**Corrigé du professeur :**
+**Corrigé du professeur :** Cass. civ. lère, 6 janvier 2022
 
 **Question de droit :** Il s'agit de déterminer si, avant la réforme de 2016, la théorie de l'émission ou celle de la réception devait être prise en compte.
 

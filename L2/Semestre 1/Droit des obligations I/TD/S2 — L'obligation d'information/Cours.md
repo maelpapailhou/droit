@@ -50,6 +50,7 @@ Cette solution ne s'appliquera pas nécessairement à tous les types de contrats
 La solution est encadrée, car dans des domaines voisins, si l'information porte sur une qualité essentielle de la chose vendue, alors le dol peut être retenu.
 
 ---
+Cass. civ. 3ème, 17 janvier 2007
 ### I) Une solution circonscrite aux contrats de vente
 
 #### A) Le domaine propre de la solution

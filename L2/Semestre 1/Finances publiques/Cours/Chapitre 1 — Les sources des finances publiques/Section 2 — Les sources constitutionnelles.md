@@ -35,15 +35,10 @@ Le principe de consentement à l’impôt légitime la perception des recettes f
 
 ==Article 15== : Fixe **le contrôle de l’utilisation de l’argent public**. C’est la mission de la Cour des comptes. Le **rôle du Parlement est de contrôler l’action du gouvernement**.
 
-  
-
 ## Paragraphe 2 : les dispositions constitutionnelles finances publiques
-
-  
 
 ### 1) Les compétences du législateur
 
-  
 
 Article 34 : la loi fixe les regles concernant les compétences du législateur. Alinéa 5 : les recettes fiscales doit être prévu par la loi. 
 
@@ -90,12 +85,24 @@ Article 41 si un parlementaire va empiéter sur le domaine du gouvernement (arti
 
 Irrecevabilité fixé par article 40. Amendement : permet a un parlementaire de modifier une proposition de loi par un projet de loi. Mais limite : sont pas recevables lorsque diminution des ressources publiques. Si propose entraine une diminution des recettes fiscales, non fiscales, etc c’est interdit. Si va aggraver une dépense publique qui existe déjà. Ou création ou l’aggravation d’une charge publique : plus de fonctionnaires, etc. Mais diminution des dépenses c’est OK.
 
-  
 
 Article 47
+Le Parlement vote les projets de loi de finances dans les conditions prévues par une loi organique.
+
+Si l'Assemblée nationale ne s'est pas prononcée en première lecture dans le délai de quarante jours après le dépôt d'un projet, le Gouvernement saisit le Sénat qui doit statuer dans un délai de quinze jours. Il est ensuite procédé dans les conditions prévues à l'article 45.
+
+Si le Parlement ne s'est pas prononcé dans un délai de soixante-dix jours, les dispositions du projet peuvent être mises en vigueur par ordonnance.
+
+Si la loi de finances fixant les ressources et les charges d'un exercice n'a pas été déposée en temps utile pour être promulguée avant le début de cet exercice, le Gouvernement demande d'urgence au Parlement l'autorisation de percevoir les impôts et ouvre par décret les crédits se rapportant aux services votés.
+
+Les délais prévus au présent article sont suspendus lorsque le Parlement n'est pas en session.
+
+La Cour des comptes assiste le Parlement et le Gouvernement dans le contrôle de l'exécution des lois de finances.
+
 
 Encadrement Du vote des lois défiances, loi de la sécu article 48.
-
+article 48 :
+L'ordre du jour des assemblées comporte, par priorité et dans l'ordre que le Gouvernement a fixé, la discussion des projets de loi déposés par le Gouvernement et des propositions de loi acceptées par lui.
   
 
 Parlement vote projet de loi de finances. Article 47 détermine les délais accordés à chaque chambre. Délai de 40 jours pour assemblée nationale. 20 jours poru le sénat. 15 jours pour le sénat si assemblée c’est pas prononcé avant find u délais. 
@@ -128,8 +135,6 @@ Article 47-1 prévoit la meme chose pou Eloi de financement de la sécurité soc
 
 Article 47-2 existait pas avant révision cosn de 2008. Elle recense les missions d cela cour des comptes dont le contrôle de l’action du gouvernement. La cour des compte a mission de certifier les comptes des administrations publiques. Pour donner usa situation financière a ceux qui achètent des OTF.
 
-  
-
 Voir article 15. 
 
   
@@ -152,3 +157,8 @@ Article 72-2 : depuis révision 2004, la constitution garantie une autonomie fin
   
 
   
+constitution:
+Article 34 La compétence du Parlement en matière de lois budgétaires. Les lois de programmation. Article 39 La priorité de l’Assemblée nationale dans l’examen des lois de finances. Article 40 La limitation du pouvoir d’initiative et du droit d’amendement en matière budgétaire. Article 47 L’encadrement du vote des lois de finances. Article 47-1 L’encadrement du vote des lois de financement de la Sécurité sociale. Article 47-2 La mission d’assistance de la Cour des comptes. Article 49-3 Engagement de la responsabilité du Gouvernement devant l'Assemblée nationale sur le vote d'un projet de loi de finances ou de financement de la sécurité sociale. Article 72-2 L’autonomie financière des collectivités territoriales.
+
+ddhc :
+Article 13 Pour l'entretien de la force publique, et pour les dépenses d'administration, une contribution commune est indispensable : elle doit être également répartie entre tous les citoyens, en raison de leurs facultés. Article 14 Tous les citoyens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement, d'en suivre l'emploi, et d'en déterminer la quotité, l'assiette, le recouvrement et la durée. Article 15 La société a le droit de demander compte à tout agent public de son administration.
