@@ -1,5 +1,3 @@
-# L'Élément Moral des Infractions Intentionnelles
-
 ## Introduction
 
 Dans le droit pénal français, l'élément moral est une composante essentielle de l'infraction. Il ne suffit pas que l'élément matériel soit établi pour que l'infraction soit constituée ; il faut également que l'auteur ait eu une intention coupable. Les infractions intentionnelles, qui constituent la majorité des crimes et délits, exigent la caractérisation d'un élément moral appelé dol pénal ou dol criminel. Le dol s'entend de la conscience et de la volonté d'enfreindre la loi, voire d'atteindre un résultat déterminé.

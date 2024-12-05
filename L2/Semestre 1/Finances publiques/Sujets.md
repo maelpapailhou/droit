@@ -2,7 +2,7 @@ rédige une dissertaiton de 1500 mots sur le sujet suivant : XXX. Il s'agit d'un
 ###### 2023-2024 Session 1
 - Les fonctions de la Cour des comptes (7 p.)
 - Les limites juridiques à l’endettement des collectivités territoriales (7 p.)
-- [[Le principe d’universalité budgétaire]] (6 p.)
+- [[Droit/L2/Semestre 1/Finances publiques/Sujets/Le principe d’universalité budgétaire]] (6 p.)
 
 ###### 2022-2023 Session 1
 - Pourriez-vous me détailler le volet performance mise en place par la LOLF ? (5 points)

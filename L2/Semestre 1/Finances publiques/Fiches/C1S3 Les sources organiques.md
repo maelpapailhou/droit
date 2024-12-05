@@ -164,7 +164,3 @@ Cette loi organique réforme la LOLF de 2001, avec pour objectif d'améliorer la
 ### **Conclusion**
 
 Les sources organiques, notamment la LOLF de 2001, la loi organique de 2012 relative à la programmation et à la gouvernance des finances publiques, et la loi organique de 2021 relative à la modernisation de la gestion des finances publiques, constituent le socle du cadre juridique des finances publiques en France. Elles ont introduit des réformes majeures visant à améliorer la performance de la gestion publique, à renforcer le rôle du Parlement dans le processus budgétaire et à assurer une meilleure gouvernance des finances publiques, tout en respectant les engagements européens du pays.
-
----
-
-*Cette fiche détaillée présente de manière exhaustive les éléments constitutifs des sources organiques encadrant les finances publiques en France, en mettant en lumière les réformes clés, les innovations apportées et les implications pour la gestion budgétaire de l'État, sans omettre aucune information essentielle.*
