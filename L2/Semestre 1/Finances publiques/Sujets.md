@@ -1,8 +1,11 @@
-rédige une dissertaiton de 1500 mots sur le sujet suivant : XXX. Il s'agit d'une dsisertation juridique, dasn le cours de droit des finances publiques. Fais introduction, développement, et conclusion. Pas de problématique. Pas de titre, que des paragraphes, aucune numérotations ou bullet point. Ecrit très joliement comme si que c'était un auteur qui l'écriviat. Cite les articles, lois, traités, les sources, les chiffres, exemples, si y'en a. Il faut que ce soit très complet, détaillé.
 ###### 2023-2024 Session 1
 - Les fonctions de la Cour des comptes (7 p.)
 - Les limites juridiques à l’endettement des collectivités territoriales (7 p.)
 - [[Droit/L2/Semestre 1/Finances publiques/Sujets/Le principe d’universalité budgétaire]] (6 p.)
+
+###### 2023-2024 Session 2
+- La portée juridique du principe de sincérité budgétaire
+- Quelle est la portée juridique de la « règle d’or » budgétaire ?
 
 ###### 2022-2023 Session 1
 - Pourriez-vous me détailler le volet performance mise en place par la LOLF ? (5 points)
@@ -18,7 +21,7 @@ mes sentiments les meilleurs ».
 1. [[La logique de performance mise en œuvre par la LOLF]] (5 points)
 2. [[Les recettes fiscales de l’État]] (3 points)
 3. La commission mixte paritaire (2 points)
-4. [[Les pouvoirs du Parlement en matière budgétaire]] (5 points)
+4. [[Droit/L2/Semestre 1/Finances publiques/Sujets/Les pouvoirs du Parlement en matière budgétaire]] (5 points)
 5. Les modifications des crédits budgétaires (5 points)
 
 ###### 2021-2022 Session 1
@@ -40,7 +43,7 @@ Dans l’attente de vos éclaircissements, veuillez agréer mes sincères saluta
 - Pourriez-vous m’expliquer le volet performance mise en place par la LOLF ? (5 points)
 - Le Parlement participe-t-il à la préparation du budget ? (3 points)
 - La mémoire me fait défaut, pourriez-vous me citer les différentes catégories de lois de finances ? (2 points)
-- Vous serait-il possible de m'[[Indiquer le déroulement de l’examen et de l’adoption de la loi de finances initiale]] (5 points)
+- Vous serait-il possible de m'[[Droit/L2/Semestre 1/Finances publiques/Sujets/Indiquer le déroulement de l’examen et de l’adoption de la loi de finances initiale]] (5 points)
 - Enfin, que pouvez-vous me dire sur la responsabilité des comptables publics et le jugement des comptes ? (5 points)
 ###### 2020-2021 Session 2
 1) [[Les ressources de l’État]] (6 points)
