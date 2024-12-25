@@ -1,0 +1,9 @@
+Les établissements publics ont pour seule et unique fonction d'**assurer une mission de service public en particulier**, par exemple, les universités, établissements publics à mission spécifique chargés de la fonction d'enseignement supérieur.
+
+Depuis la décision du tribunal de conflits rendue en 1931 intitulée "Société Commerciale de l'Ouest Africain", on distingue parmi les établissements publics deux catégories de services publics : les services publics administratifs (SPA) et les services publics industriels et commerciaux (SPIC). 
+
+Il est important de comprendre ici que les établissements publics ont pour unique fonction d'exercer un service public. Le type de service public qui est donné aux uns et aux autres peut différer : **soit uniquement administratif, soit de nature économique** (industriel et commercial) pour lesquels il y a des règles particulières.
+
+Il y a deux cas : soit c'est une **personne morale de droit public**, ce qui a pour conséquence une **quantification** : l'établissement public a des **organes qui lui sont propres, peut avoir un patrimoine, des propriétaires** (support matériel de type patrimonial pour mener à bien les fonctions qui lui sont attribuées). Une université a besoin d'amphis et doit donc être propriétaire ou alors se voir affecter par l'État des amphis pour qu'elle puisse proposer des enseignements. Elle doit disposer d'un budget pour financer les missions qui lui sont attribuées.
+
+Les établissements publics vont exercer un contrôle plus ou moins étroit, ainsi on va distinguer en fonction de la personne qui a le contrôle de l'établissement autre que nationaux, les établissements publics locaux : les universités sont des établissements publics nationaux, tandis que les collèges et les lycées sont locaux.

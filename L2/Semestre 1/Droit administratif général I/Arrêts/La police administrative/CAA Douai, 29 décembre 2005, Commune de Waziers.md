@@ -1,0 +1,3 @@
+Un arrêté anti-coupure d'eau et anti-coupure d'électricité ne peut pas non plus trouver son fondement dans le respect de la dignité de la personne humaine. En revanche, lorsque le préfet accorde le concours de la force publique pour exécuter une décision de justice, c'est surtout le cas des expulsions, il doit adopter cette décision en tenant compte de ses conséquences au regard de la dignité humaine. Donc le préfet peut refuser d'expulser en se fondant sur le respect de la dignité de la personne humaine.
+
+La question est de savoir ce qui différencie les deux composantes de la dignité et de la moralité publique. En doctrine, certains se sont demandés si la moralité était une composante de la dignité ou inversement.

@@ -1,0 +1,30 @@
+BFM : haut fonctionnaire nommé par décrêt du président de la République, devoir de neutralité (ni syndiqué, ni élu, pas maire, pas député, pas président de région, n'appartient à aucun parti, normalement doit pas donner son avis (probleme Didier Lallemand), sous autorité du ministre de l'interieur. Représentant de l'Etat et du gouvernement dans un territoire. Inspiration de la création du post (25 mars 1852) décret bonapartiste : "on peut gouverner de loin mais on administre bien que de près". Double attribution 1) continuité de l'état et du respect des lois 2) représentant selon article 72 charge des interets nationaux et application des lois et décisions.
+
+---
+Les préfets sont **nommés par le président de la République** parmi les attributs du président, notamment la nomination de certains hauts fonctionnaires. La nomination se fait par **décret pris en conseil des ministres.** C’est le **premier ministre qui propose, avec le ministre de l’Intérieur** (proposition conjointe), une personnalité pour le poste de préfet, qui est ensuite retenue par le président de la République et nommée par décret.
+
+Il y a une **très grande liberté dans le choix des personnalités qui sont nommées préfets**. Pour être nommé préfet, il faut **bénéficier de la confiance de l'autorité qui le nomme**. La *réforme de la haute fonction publique en 2021 a entraîné la suppression de l'ENA*, qui a été remplacée par un **nouveau corps d'administrateurs de l'État**. Une ordonnance a été adoptée pour supprimer l’ENA et un décret a été publié pour créer un nouveau corps d'administrateurs de l'État. Cette réforme met **fin au corps des préfets et des sous-préfets** à partir du début de l'année 2023. La fonction publique est pensée davantage comme un métier que comme un statut, vers un autre corps.
+
+Le même **décret du 6 avril 2022** fixe une *durée maximale pour l'exercice des fonctions de préfet*, de sorte qu'on ne peut pas être préfet au-delà de **9 ans au total**, quel que soit le nombre d'emplois occupés pendant cette période. Ainsi, une même personne peut être affectée dans différents postes de préfet, mais la durée totale ne peut pas dépasser 9 ans.
+
+En outre, il est institué un **comité consultatif** qui **formule un avis sur l'attitude professionnelle des personnes susceptibles d'être nommées pour la première fois**. Pour entrer dans la fonction (non corps) de préfet, il faut que le **comité déclare que la personne est capable d'exercer**. Ce sont ceux qui font partie du corps des administrateurs de l'État. Depuis ce décret, on peut distinguer au sein de la catégorie de préfet, à partir de début 2023, quatre groupes en fonction de leur importance et particularités, etc.
+
+1. Le premier groupe de métiers ou de postes de préfet comprend **la préfecture de police de Paris, la préfecture de la région Île-de-France et la préfecture de Paris**. 
+2. Le deuxième groupe comprend **les préfets de région**. 
+3. Le troisième groupe comprend **les préfets de département, les préfets de région d'outre-mer, les hauts-commissaires**, comme en Nouvelle-Calédonie et en Polynésie, et les préfets pour Wallis et Futuna, les Terres australes et antarctiques françaises. 
+4. Le quatrième groupe comprend **les autres emplois de préfets ou les préfets délégués, y compris les sous-préfets** qui n'ont pas disparu.
+
+Le **sous-préfet** est une personne qui **assiste le préfet dans l'accomplissement de ses missions**, notamment dans les **réunions de la région mono-départementale**. Deux tiers des sous-préfets sont répartis par dossiers comme dans les ministères, et deux tiers des ministères sont répartis par secteurs.
+
+Le **préfet** est l'**homme du gouvernement dans le département et doit donc représenter fidèlement le gouvernement dans le département**. C'est la raison pour laquelle le *préfet et le sous-préfet* sont soumis à un **statut particulier**, qui est **dérogatoire par rapport à la haute fonction publique.**
+
+**Quelles sont les particularités du statut de préfet ? En quoi le préfet est-il un administrateur à part ?** 
+1. Tout d'abord, les **opinions politiques, philosophiques ou religieuses du préfet peuvent être prises en compte**. Ainsi, les opinions peuvent être incluses dans le dossier, *contrairement aux autres agents de la fonction publique.* 
+2. Ensuite, le **préfet n'a pas la liberté syndicale ni le droit de grève**. 
+3. Troisièmement, le **déroulement de la carrière du préfet dépend largement du gouvernement**. C'est le *gouvernement qui décide des mutations, de l'avancement, voire même de la révocation d'un préfet*.
+
+Le **système de mutations d'un préfet**, qui peut avoir lieu plusieurs fois dans une carrière de préfet, a pour but de **créer un lien de connivence entre le préfet et les intérêts locaux**. L'idée est qu'il n'existe **pas d'écran politique entre la société économique locale et le gouvernement**, et que le préfet est systématiquement le **relais du gouvernement** et **non un écran qui a sa propre opinion autre que celle du gouvernement**.
+
+Enfin, le préfet peut faire l'objet de **sanctions disciplinaires**, et **plus facilement que d'autres agents de l'administration**. Les sanctions peuvent être **plus lourdes** et il n'est **pas nécessaire de réunir un conseil de discipline**. Dans le **droit de la fonction publique**, il y a **systématiquement des conseils de discipline**, des sections disciplinaires qui s'*occupent de tel manquement ou comportement d'un agent avant de faire une sanction*. Si le **préfet est un agent de l'administration**, il n'est pas **dans la même position que les autres fonctionnaires ou agents contractuels qui font fonctionner l'État**.
+
+Le **préfet bénéficie d'un statut** qui lui permet de bénéficier d'une **certaine hiérarchie**, mais il est également **privé de certaines garanties que les fonctionnaires ou les agents contractuels ont**. Le *gouvernement peut donc intervenir à tout moment et contrôler le préfet au maximum*. **Le préfet est donc un administrateur à part dans l'administration française.**

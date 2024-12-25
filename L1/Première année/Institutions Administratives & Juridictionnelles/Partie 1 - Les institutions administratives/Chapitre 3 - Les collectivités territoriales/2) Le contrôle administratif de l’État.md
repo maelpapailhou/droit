@@ -1,0 +1,9 @@
+Le contrôle administratif de l’État sur les collectivités territoriales (CT) est un pouvoir qui vise à vérifier que les CT exercent leurs compétences dans le respect de la loi et des règlements en vigueur. Ce contrôle s'effectue à plusieurs niveaux.
+
+Tout d'abord, l’État exerce un contrôle a priori sur les actes des CT. Cela signifie que les actes des CT doivent être transmis au représentant de l’État dans le département ou la région avant leur mise en œuvre. Le représentant de l’État peut alors demander des modifications ou bloquer la mise en œuvre des actes s'il estime qu'ils sont contraires à la loi ou aux règlements.
+
+Ensuite, l’État exerce un contrôle a posteriori sur les actes des CT. Les actes des CT peuvent faire l'objet d'un recours en annulation devant le juge administratif s'ils sont illégaux. Ce recours peut être exercé par tout citoyen, mais également par le représentant de l’État dans le département ou la région.
+
+Enfin, l’État exerce un contrôle financier sur les CT. Ce contrôle porte sur les comptes et la gestion financière des CT. Il est effectué par la Chambre régionale des comptes, qui évalue la gestion financière et le respect des règles budgétaires et comptables des CT. En cas d'irrégularités, la Chambre régionale des comptes peut saisir le juge administratif.
+
+En somme, le contrôle administratif de l’État sur les CT vise à garantir la légalité et la transparence de la gestion publique locale. Ce contrôle s'exerce à plusieurs niveaux et permet de prévenir les dérives financières, administratives ou juridiques des CT. Il participe ainsi au bon fonctionnement de la démocratie locale et à la protection des intérêts des citoyens.

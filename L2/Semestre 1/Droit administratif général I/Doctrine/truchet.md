@@ -1,0 +1,1 @@
+article de Truchet (1982, JDA), il affirme que "le service public est avant tout un label".

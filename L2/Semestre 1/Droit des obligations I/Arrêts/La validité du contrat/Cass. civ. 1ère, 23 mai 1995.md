@@ -1,0 +1,1 @@
+  1. ==Cass. civ. 1ère, 23 mai 1995== : N'est pas nul le contrat de location de vidéogrammes qui ne mentionne que le genre des films donnés en location et non leur titre, dès lors que la convention stipule au profit du locataire une possibilité d'échange des films et qu'ainsi, la désignation de l'objet, suffisamment précise, n'est pas laissée à la seule volonté du bailleur

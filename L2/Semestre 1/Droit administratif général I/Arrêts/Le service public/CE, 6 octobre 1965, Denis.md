@@ -1,0 +1,1 @@
+il peut y avoir (très rarement) un contrat entre l’usager et le service public (exemple : un locataire d’un office public d’HLM est titulaire d’un bail d’habitation, qui est un contrat de droit privé). 

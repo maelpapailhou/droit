@@ -1,0 +1,86 @@
+https://www.doc-du-juriste.com/droit-prive-et-contrat/droit-des-obligations/commentaire-d-arret/commentaire-arret-assemblee-pleniere-cour-cassation-1er-decembre-1995-question-466161.html?utm_source=search&utm_medium=internal
+
+Il s'agit d'un des 4 arrêts rendus par la Cour de cassation, réunie en assemblée plénière, le 1er décembre 1995. La haute juridiction opère par ces arrêts un revirement jurisprudentiel quant à la question de la détermination du prix comme condition de validité du contrat.
+
+Le litige porte sur un contrat de location entretien d'une installation téléphonique, conclu entre deux sociétés le 15 novembre 1982, et qui vaut pour une durée de 15 ans. En 1984, la société bénéficiaire des services rendus dans le cadre de ce contrat déclare vouloir rompre le contrat de manière anticipée, la société cocontractante lui réclame en conséquence l'indemnité contractuelle, correspondant au montant de la clause pénale, prévue par le contrat en cas de rupture anticipée. Mais la société à l'origine de la rupture invoque la nullité du contrat pour indétermination du prix.
+
+Suite à la décision de la juridiction de 1re instance est interjeté appel devant la Cour d'appel de Paris, qui rend sa décision dans un arrêt en date du 26 mars 1991. Elle prononce l'annulation du contrat litigieux au motif de la présence dans le contrat d'une clause d'exclusivité, considérée comme un obstacle au libre débat du prix entre les parties. Sa décision s'appuie sur une ==jurisprudence antérieure de la chambre commerciale de la Cour de cassation du 5 et 19 novembre 1991==, qui ***limite la prohibition de l'indétermination du prix à la situation de la clause d'exclusivité dans le contrat***. La société co- contractante attaque cet arrêt en se pourvoyant en cassation. La Cour de cassation rend un arrêt infirmatif, elle casse et annule l'arrêt de la Cour d'appel.
+
+La Cour de cassation statue que l'**indétermination du prix ne conditionne plus la validité contractuelle et ne constitue plus une cause de nullité du contrat**. Elle ajoute qu'est seul ***prohibé l'abus dans la fixation du prix***, susceptible d'être **sanctionné de résiliation ou indemnisation**.
+
+Cette solution retenue par les juges révèle une volonté de **protéger la partie faible du contrat, conciliée à l'objectif de sécurité juridique** (l). Ce revirement jurisprudentiel modifie l'intervention du juge, en déplaçant son contrôle de la formation à l'exécution du contrat (l).
+
+### I) Une solution revelatrice d'une volonte de protection de la partie faible, néanmoins limitée par la recherche de la sécurité juridique
+
+Le revirement jurisprudentiel opéré ne **soumet plus la validité du contrat à la détermination du prix**. Il traduit ainsi une manifestation du déclin du principe fondateur du droit des contrats de l'autonomie des volontés (A). En choisissant de sanctionner uniquement l'abus de droit, les juges visent le retour d'une certaine sécurité juridique (B).
+
+#### A) La remise en cause du principe jurisprudentiel de la détermination du prix comme condition de la validité contractuelle traduisant une atteinte au principe d'autonomie des volontés
+
+La loi n'établit aucune **réglementation générale quant à la détermination du prix**, ***sauf par des dispositions particulières relatives à certains types de contrats tels que le contrat de vente*** par l'==article 1591 du Code civil==. 
+
+**Dans le silence de la loi, le juge est donc intervenu par une jurisprudence évolutive**. Dans un ==arrêt de la 3e chambre civile de la Cour de cassation du 27 avril 1971== est admise l'***interprétation large*** de l'article 1591, qui dispose que « *le prix doit être déterminé et désigné par les parties* », en l'appliquant aux contrats-cadres. Cette décision repose sur le **principe de l'autonomie des volontés**, duquel découle l'***idée que le juste prix est celui sur lequel les parties se sont accordées au moment de la conclusion du contrat dès lors que le consentement est libre et éclairé***; idée traduite par l'expression du juriste Fouillée « qui dit contractuel dit juste ». 
+
+La **jurisprudence a assoupli cette exigence** en admettant le ***prix objectivement déterminable***, en raison de l'*instabilité économique qui rend aléatoire l'évaluation future du prix dans les contrats-cadres*.
+
+> Fouillé (juriste)
+> Fouillée « qui dit contractuel dit juste ».
+
+Ces derniers organisent les rapports entre fournisseur de prestations et distributeur par le recours à des contrats d'application, et sont conçus pour régir le long terme ; ils se prêtent donc mal à l'exigence d'un prix déterminé ou déterminable.
+
+Puis la jurisprudence change de fondement par un ==arrêt de la chambre commerciale de la Cour de cassation du 11 octobre 1978==, en s'appuyant sur l'==article 1129== portant sur la détermination de la chose, qui est appliqué au prix. **Les juges sanctionnent l'indétermination du prix par la nullité du contrat**. Cette jurisprudence est vivement critiquée, elle est accusée de ***ruiner la sécurité juridique en exposant la quasi-totalité des contrats-cadres à la merci d'une action en nullité***.
+
+Sensibles à ces objections, **les juges de cassation ont limité la portée de la solution prétorienne** retenue dans un arrêt de la ==chambre commerciale du 5 et 19 novembre 1991==, en statuant que ***la prohibition de l'indétermination du prix ne valait qu'en présence d'une clause d'exclusivité***. 
+
+En effet, cette dernière empêche que le prix soit « *librement débattu et accepté* », et place l'une des parties, le fournisseur, en situation de dépendance et de soumission par rapport à l'autre qui pourrait alors imposer son prix de manière unilatérale. 
+
+**Cette évolution jurisprudentielle montre bien la volonté des juges de protéger la partie faible du contrat**. Afin que cette position soit suivie par les autres formations de la haute juridiction, l'Assemblée plénière intervient alors par les 4 arrêts du 1er décembre 1995. En déterminant que « *lorsqu'une convention prévoit la conclusion de contrats ultérieurs, l'indétermination du prix de ces contrats dans la convention initiale n'affecte pas, sauf dispositions légales particulières, la validité de celle-ci* » ; la Cour de cassation **abolit le principe de détermination du prix comme condition de validité du contrat**. 
+
+Elle porte ainsi **atteinte au principe d'autonomie des volontés**, qui voudrait que ***le prix soit le fruit du libre accord des volontés individuelles et qu'il soit déterminé au moment de la formation du contrat***. 
+
+Le juge serait alors uniquement compétent pour **juger du libre accord des parties sur le prix**, et **non pour vérifier l'équilibre du contrat**. Ce revirement jurisprudentiel témoigne donc du choix des juges de faire ***valoir la protection de la partie faible du contrat sur le principe fondateur de la liberté contractuelle***.
+
+#### B) Un rappel de l'objectif de sécurité juridique au travers d'une répression cantonnée à l'abus de droit et l'abandon de la sanction de nullité du contrat
+
+En décidant de **la disparition de la détermination du prix comme une condition de validité du contrat**, la Cour de cassation a dû recourir à un autre moyen de protéger la partie faible du contrat. Elle a choisi de **sanctionner uniquement l'abus dans la fixation du prix**, qui ne ***constitue pas une cause de nullité du contrat cependant***. 
+
+**La sanction de la nullité frappait traditionnellement les contrats à prix indéterminés ou non objectivement déterminables**. Il s'agissait d'une **nullité absolue**, susceptible d'être ***demandée par les deux parties***. Il en résultait donc une ***grande insécurité juridique***, d'autant plus que la ***nullité entraîne l'anéantissement rétroactif du contrat et la mise en œuvre d'une restitution***, dont l'application **pratique peut se révéler dangereuse et complexe**. 
+
+Par ailleurs, l'indétermination du prix sanctionné par une nullité du contrat avait pour objectif premier de protéger la partie faible au contrat.
+
+Pourtant, la sanction de nullité pouvait parfois provoquer l'effet inverse, étant absolue, **elle pouvait ainsi être demandée par la partie forte au détriment de la partie faible**. Or, la répression de l'indétermination du prix avait pour objet de défendre l'intérêt particulier de la partie faible uniquement. En outre, la nullité du contrat peut impliquer pour le co- contractant en situation de dépendance la fin de son fonds de commerce; la prononciation de la nullité du contrat est alors tout à son désavantage. La sanction de nullité retenue par la jurisprudence n'était donc pas adaptée aux objectifs de protection de la partie faible et de sécurité juridique. 
+
+D'autre part, le revirement jurisprudentiel initié par cet arrêt du 1er décembre 1995 met en avant la notion d'abus plutôt que celle de bonne foi retenue par l'arrêt Alcatel de la 1re chambre civile de la Cour de cassation du 26 novembre 1994. Les juges s'étaient alors appuyés sur l'exécution du contrat de mauvaise foi par une des parties pour considérer que le prix n'était ni déterminé, ni objectivement déterminable. En se fondant sur la théorie de l'abus de droit, les juges ne sanctionnent concrètement que l'abus dans la fixation du prix. Ainsi n'est pas condamné le prix excessif. Cette solution prétorienne met en avant le devoir de loyauté, résultant de la longue collaboration entre les parties d'un contrat-cadre. Il y a alors abus à fixer un prix qui impliquerait pour son cocontractant la mise en péril de son activité, c'est-à-dire qui impliquerait son exclusion du marché ou sa ruine. L'abus de droit est finalement beaucoup plus restrictif dans la mesure où il nécessite un exces de celul qui rixe le prix dans le but de tirer un protit au detriment de son cocontractant. L'abus dans la fixation du prix est donc très rarement retenu, il apparaît en effet difficile pour le contractant dont l'objet de l'obligation est déterminé unilatéralement par l'autre partie de démontrer que l'exercice de ce pouvoir unilatéral a dégénéré en abus. Cette solution retenue par les juges a donc contribué à renforcer et accroître la sécurité juridique, au détriment de la protection de la partie faible du contrat.
+
+La recherche d'une certaine sécurité juridique s'effectue également au travers du glissement du contrôle du juge de la formation du contrat vers son exécution.
+
+Cette tendance s'est manifestée notamment par l'abandon de la nullité du contrat au profit de nouvelles sanctions agissant sur l'exécution du contrat.
+
+### Il)L'intervention du juge dans le contrôle de l'exécution du contrat-cadre
+
+L'instauration de nouvelles sanctions que sont la résiliation du contrat et l'indemnisation constitue une modalité du contrôle du juge de l'exécution du contrat
+
+(A). Les pouvoirs de contrôle limités conférés au juge semblent cependant incohérents avec la solution retenue par les juges de cassation (B).
+
+#### A) Le contrôle judiciaire de l'exécution du contrat consacré par l'instauration de nouvelles sanctions plus adaptées
+
+Dès l'==arrêt Alcatel de la 1re chambre civile de la Cour de cassation du 26 novembre 1994== qui **sanctionnait l'exécution de mauvaise foi du contrat par le versement de dommages et intérêts**, la jurisprudence a effectué un glissement du contrôle du juge de la formation du contrat vers son exécution. 
+
+En effet, le **contrôle par le juge de la formation du contrat dans la jurisprudence antérieure** a démontré son ***inadéquation avec le principe d'autonomie des volontés des contractants***. 
+
+En outre, **la sanction de nullité a souvent été remise en cause de par son effet négatif sur la sécurité juridique**. Cela explique notamment pourquoi les juges ont décidé par cet arrêt de 1995 d'énoncer de nouvelles sanctions applicables à l'incrimination, correspondant désormais à l'abus dans la fixation du prix; elles sont de deux ordres : la résiliation du contrat et l'indemnisation. 
+
+La **résiliation** se définit comme ***une résolution judiciaire sans rétroactivité qui frappe les contrats à exécution successive***. Cette nouvelle sanction supprime donc le problème posé par la nullité du contrat, qui imposait la remise des choses en l'état et ainsi de remettre en cause des relations passées. 
+
+De plus, l'indemnisation permet elle de couvrir l'injustice passée en rétablissant par le versement de dommages et intérêts un certain équilibre contractuel. L'objectif de protection de la partie faible poursuivi par les juges paraît donc mieux servi avec l'application de cette sanction.
+
+D'autre part, cette jurisprudence traduit bien un changement d'orientation du droit des contrats. En mettant fin à l'existence de l'indétermination du prix comme cause de nullité du contrat, et en refusant d'ériger l'abus dans la fixation du prix au même titre, le juge se montre désormais soucieux de laisser sa chance au contrat en quelque sorte. Les règles qui gouvernent sa formation sont donc plus souples ; seuls les contrats pour lesquels une disposition particulière continue à poser l'exigence d'un prix déterminé pourront être annulés. En ce qui concerne tous les autres contrats, l'intervention judiciaire voit son point d'application se déplacer. Elle vise en effet, non plus à annuler le contrat, mais à en contrôler son exécution en réprimant l'abus d'une des parties de sa liberté reconnue à fixer le prix. Par conséquent, les sanctions désormais encourues concernent bien l'exécution du contrat ; la résiliation du contrat par exemple se justifie en raison de la mauvaise exécution du contrat par l'une des parties. Cet arrêt de 1995 a donc contribué à renforcer les exigences en matière d'exécution du contrat; sa formation étant désormais soumise à une intervention moins intrusive du juge. Cette solution prétorienne retenue par les juges de la Cour de cassation vise donc, selon son objectif théorique initial, à continuer à assurer la protection de la partie faible du contrat tout en portant une atteinte moindre à la sécurité juridique.
+
+B) Un manque de cohérence entre la solution prétorienne retenue et les pouvoirs de contrôle du juge restreints
+
+En posant le principe selon lequel l'indétermination du prix des contrats d'application dans la convention-cadre n'affecte pas la validité de celle-ci, la Cour de cassation paraît admettre qu'une convention-cadre est valable lorsqu'elle renferme une clause renvoyant au tarif du fournisseur, mais également lorsqu'elle reste muette sur ce point. La jurisprudence antérieure a en effet élargi la qualification de prix déterminé au prix objectivement déterminable, qui se définit comme un mode de calcul arrêté dès l'origine par les contractants et donc indépendant de la volonté ultérieure des parties, qui permet de déterminer aisément le montant le moment venu par l'application de la clause prévue au contrat. En son absence, il n'existe donc aucun accord entre parties sur le prix ou sur son mode de détermination, les contractants n'ayant désormais plus l'obligation de déterminer le prix pour rendre le contrat valable. La situation juridique est donc radicalement différente selon que figure ou non dans le contrat une clause de référence au tarif du fournisseur.
+
+Dans l'hypothèse où une telle clause figure dans le contrat, le juge n'interviendra que pour contrôler le prix fixé par le fournisseur et décider de l'existence de l'abus de droit. Cependant, en l'absence d'une telle clause, seul un nouvel accord des parties intervenant à l'occasion de chaque application du contrat-cadre devrait permettre de fixer le prix. Or si les parties n'arrivent pas alors à s'entendre et que leur désaccord entraîne un litige devant le juge, ce dernier devrait alors déterminer le prix lui-même.
+
+Pourtant, la Cour de cassation n'accorde pas au jour d'aujourd'hui un tel pouvoir au juge ; elle limite l'intervention judiciaire au contrôle de la fixation du prix par l'une des parties. L'examen de la solution de 1995 des juges de cassation, au regard des pouvoirs accordés au juge en la matière, met donc en évidence un manque évident de cohérence. Il peut alors paraître regrettable que la haute juridiction n'ait pas préféré retenir le système mis en place par l'arrêt Alcatel du 29 novembre 1994, quitte à préciser et approfondir les modalités d'interventions du juge. Cette jurisprudence présentait en effet une réelle cohérence; l'exigence d'un prix
+
+déterminable était satisfaite dès lors que le contrat faisait référence à un tarif dont le juge contrôlait l'application. La portée de ce revirement jurisprudentiel est donc d'autant plus difficile à déterminer, l'incertitude demeurant en ce qui concerne les contrats-cadres, ne relevant d'aucune disposition légale particulière, pour lesquels les parties n'ont convenu d'aucun prix. En outre à supposer même que la Cour de cassation mette en harmonie les règles qui gouvernent la détermination du prix avec les pouvoirs du juge en reconnaissant à ce dernier le pouvoir de fixer le prix ; une telle solution porterait de nouveau une atteinte sérieuse au principe fondateur du droit des contrats du libre accord des volontés individuelles.

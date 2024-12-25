@@ -1,0 +1,1 @@
+1.Damages2.commit3.judicial4.innocent5.offence6.lawyer7.dispute8.tribunal9.case10.judge11.plead12.defendant13.claimant14.settlement15.arrest16.hearing17.convict 18.breach19.prosecute20.appeal21.accuse22.binding23.civil24.defence25.contract26.criminal 27.jury28.evidence29.fine30.injunction

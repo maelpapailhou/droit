@@ -1,0 +1,1 @@
+Si des officiers sont en planque pour surprendre des malfaiteurs en flagrant délit, cela reste une opération de police judiciaire, même s'ils renoncent à leur projet et qu'il n'y a finalement pas d'infraction. Cela résume la décision du Tribunal des conflits du **27 juin 1955, Dame Barbier**.

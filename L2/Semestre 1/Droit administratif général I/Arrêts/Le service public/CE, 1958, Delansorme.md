@@ -1,0 +1,1 @@
+Troisième exception : si l’activité constitue le prolongement d’un service public préexistant. Le CE, en 1958 dans l’arrêt _Delansorme_, a validé la création d’un atelier mécanique par une commune, destiné à compléter son parc de stationnement.

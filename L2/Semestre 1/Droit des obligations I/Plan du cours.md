@@ -1,0 +1,83 @@
+## Titre 0 : Généralités
+- Chapitre 0 : Introduction
+	- Section 1 : la définition d'une obligation
+	- Section 2 : l'importance du droit des obligations
+	- Section 3 : la classification des obligations
+		- Paragraphe 1 : La classification essentielle fondée sur la source des obligations
+		- Paragraphe 2 : les autres classifications (classifications secondaires)
+	- Section 4 : le contrat
+		- Paragraphe 1 : la genèse de la réforme
+			- I) Pourquoi réformer ?
+			- II) Comment réformer le droit des contrats ?
+		- Paragraphe 2 : le contenu de la réforme
+		- Paragraphe 3 : l'entrée en vigueur de la réforme
+- **Chapitre 1 : Les principes du droit des contrat**
+	- Section 1 : la liberté contractuelle
+	- Section 2 : la force obligatoire du contrat
+	- Section 3 : la bonne foie
+- **Chapitre 2 : Les classifications des contrats**
+	- Section 1 : les contrats nommés et les contrats innomés
+	- Section 2 : les contrats synallagmatiques et les contrats unilatéraux
+	- Section 3 : les contrats à titre gratuits et les contrats à titre onéreux
+	- Section 4  : les contrats commutatifs et les contrats aléatoires
+	- Section 5 : les contrats consensuels, les contrats solennels et les contrats réels
+	- Section 6 : les contrats de gré à gré et les contrats d'adhésion
+	- Section 7 : les contrats cadre et les contrats d'application
+	- Section 8 : les contrats à exécution instantané et les contrats à exécution successive
+
+## Titre 1 : La formation du contrat
+- **Chapitre 1 : La conclusion du contrat**
+	- Section 1 : les négociations
+		- Paragraphe 1 : la liberté de négociation
+		- Paragraphe 2 : le devoir générale d'information
+			- 1) Le domaine d’information  
+			- 2) Le régime d’information
+	- Section 2 : l'offre et l'acceptation
+		- Paragraphe 1 : Les dispositions générales
+			- 1) L'offre
+				- A) la notion d'offre
+					- 1. La précision
+					- 2. La fermeté 
+				- B) Le régime juridique de l'offre
+			- 2) L'acceptation
+				- A) la notion d'acceptation
+				- B) le régime d'acceptation
+		- Paragraphe 2 : les dispositions particulières
+			- 1) Le recours aux conditions générale
+			- 2) Les contrats entre absents
+				- A) Présentation classique
+				- B) Le sort des contrats électroniques 
+	- Section 3 : les avants contrats
+		- Paragraphe 1 : le pacte de préférence
+		- Paragraphe 2 : la promesse unilatérale
+- **Chapitre 2 : La validité du contrat**
+	- Section 1 : les conditions de validité du contrat
+		- Sous-section 1 : les conditions de fond du contrat
+			- Paragraphe 1 : le consentement
+				- 1) Les règles communes à tous les vices du consentement
+					- *1.a) Les règles leur caractère déterminant*
+					- *1.b) Le vice du consentement
+					- *1.c) La prescription
+				- 2) Les différents vices du consentement
+					- *2.a) L'erreur*
+						- 2.a.i) Les erreurs indifférentes
+						- 2.a.ii) Les erreurs admises
+					- *2.b) Le dol*
+					- *2.c) La violence*
+			- Paragraphe 2 : leurs capacité à contracter
+				- 1) La capacité à contracter
+				- 2) La représentation
+					- 1.a) Les action interrogatoires
+					- 2.b) les conflits d'interêts
+			- Paragraphe 3 : Le contenu du contrat
+				- 1) La licéité du contenu contractuelle
+				- 2.a) L'ordre public et les bonne moeurs
+					- 1.a.i) l'ordre public
+					- 2.a.ii) les bonnes moeurs
+				- 1.b) Le sors du contrat contraire à l'ordre public et les bonnes moeurs
+			- Paragraphe 3 : un contenu licite et certain
+		- Sous-section 2 : les conditions de forme du contrat
+	- Section 2 : les sanctions de l'invalidité du contrat
+
+
+

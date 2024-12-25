@@ -1,0 +1,72 @@
+**Accroche**
+Bertrand Mathieu, dans son manuel Droit constitutionnel et institutions politiques, rappelle que « *le régime parlementaire est l'ancêtre des régimes démocratiques. Son succès a été exceptionnel puisqu'il est aujourd'hui le plus répandu dans les États libéraux où il constitue en quelque sorte le **régime de droit commun*** ». Ainsi, le modèle de régime parlementaire apparait comme étant un modèle politique très populaire, car **consacrant l'expression de la volonté du peuple.**
+
+**Définition**
+Il convient cependant de revenir sur ce que l'on entend par « régime parlementaire ». On qualifiera de régime parlementaire, selon la définition présentée par **Michel Troper et Francis Hamon** dans Droit Constitutionnel, un régime fondé sur, d'une part, la **responsabilité du gouvernement devant le Parlement**, et de l'autre, **un chef d'État qui n'est pas élu au suffrage universel**. Si cette notion de régime parlementaire est **souvent rattachée au Royaume-Uni**, c'est bien parce qu'il est le *premier Etat à avoir posé ses fondations* et a, à ce titre, **servi d'inspiration à travers l'Europe**.
+
+**Contexte**
+Sa pérennisation en fait une référence, mais elle n'exclut pas qu'il ait connu des **transformations considérables aux fins des siècles**. En effet, on peut retracer les origines du **parlementarisme britannique** au XIlle siècle, en **1215**, avec la signature de la Grande Charte dite **Magna Carta** par le roi Jean Sans Terre qui marque, en plus d'accorder des **libertés individuelles** aux sujets britanniques, une **première limitation aux pouvoirs du roi** avec l'attribution au conseil des vassaux du droit de consentir à l'impôt. 
+
+Vers **1340**, c'est le **bicaméralisme** caractéristique britannique qui apparait avec la *séparation du Parlement en deux chambres*. S'ensuit alors un historique d'un **pouvoir législatif qui gagne en autorité** et **assoit peu à peu sa souveraineté face à une figure exécutive**, celle du roi, qui s'efface progressivement pour **aujourd'hui n'assurer au'une fonction de représentation** et être remplacée par le gouvernement, qui est néanmoins lui aussi soumis à la suprématie du Parlement, organe fort de par son rôle démocratique. 
+
+**Intêret**
+C'est cette séparation des pouvoirs inédite que **Montesquieu a pu observer puis théoriser**, et qui est désormais au **fondement de toute constitution**. C'est donc l'entièreté du régime parlementaire britannique qui est prise comme modèle.
+
+Ainsi, si l'on en revient à notre propos de départ, le système anglais de par son ancienneté a pu servir de **point de départ dans l'élaboration de modèles de régimes parlementaires**, que l'on retrouve aujourd'hui par exemple dans les pays nordiques, notamment en Suède, mais également en Italie et en Allemagne. Il n'est également pas exclu que ces pavs aient pu **reprendre le modèle britannique et se le réapproprier**. Nombreux sont les États qui s'*identifient comme étant des régimes parlementaires*, mais en ayant pour autant des modèles **gouvernementaux différents** de ce que l'on se figure en pensant au régime parlementaire classique, donc britannique.
+
+**Problématique**
+Cela nous amène à nous poser la question suivante : Existe-t-il un modèle unique de régime parlementaire ?
+
+Nous répondrons à cette question en nous intéressant dans un (I) aux **fondations immuables** opérées au régime parlementaire, puis en (Il) aux **variantes** de ce régime parlementaire britannique classique.
+
+### I. Des fondations immuables propres au régime parlementaire
+
+Nous verrons dans cette partie les principaux éléments que l'on retrouve, par définition, dans tous les Etats qui revendiquent être des régimes parlementaires, soit une **collaboration étroite des pouvoirs** (A) et la **dynamique de contre-pouvoirs et de responsabilité** (B).
+
+#### A. Une collaboration étroite des pouvoirs
+
+Si l'on se réfère au **modèle de référence**, soit le modèle britannique, il repose essentiellement sur une **séparation des pouvoirs**. Mais cette séparation de pouvoir ne veut pas stricte, mais bien au contraire **souple**. 
+- Les pouvoirs exécutifs et législatifs sont en **constante collaboration**. Certains pensent même, malgré les conceptions à priori, que le régime repose au contraire sur la **fusion des pouvoirs exécutifs et législatifs** : C'est le leader du parti majoritaire à la Chambre des communes qui devient le *chef du cabinet et donc du gouvernement*. C'est une même personne qui exerce ces deux fonctions, celle de **leader de la majorité parlementaire et de Premier ministre** (c'est parce qu'il est le premier qu'il est le second). 
+- Une **caractéristique fondamentale** du modèle type de régime parlementaire britannique est donc cette **interdépendance des pouvoirs**, car l'***exécutif est le produit direct du législatif*** : *la composition du gouvernement est toujours déterminée, certes indirectement, par les résultats des élections législatives*.
+
+Si l'on transpose ce principe parlementaire à d'autres régimes qui le reprennent, on voit que celui-ci est bel et bien présent. 
+- Dans le régime parlementaire italien, il est d'autant plus important, car, comme le consacre l'article 83 de la Constitution de 1947, le Président de la République est élu par le Parlement, à la majorité des deux tiers de l'assemblée. 
+- Le même constat peut être fait en Allemagne. L'Allemagne, gouvernement fédéral, fait reposer son pouvoir législatif sur deux assemblées : le Bundesrat et le Bundestag. Si le Bundesrat, composé des représentants des Länder, s'attelle à examiner les questions et lois qui lui sont propres, c'est au sein du Bundestag, semblable à l'Assemblée nationale française, qui se trouve la réelle autorité législative. Ce sont également les députés du Bundestag qui élisent le Chancelier. On peut préciser l'idée de collaboration des pouvoirs en Allemagne en examinant dans la Loi fondamentale allemande datant de 1949 des articles qui consacrent cette collaboration constante et très étroite entre les pouvoirs législatifs et exécutifs. Comme le dispose l'article 43, « Le Bundestag et ses commissions peuvent exiger la présence de tout membre du gouvernement fédéral. (2) Les membres du Bundesrat et du gouvernement fédéral ainsi que leurs délégués ont accès à toutes les séances du Bundestag et de ses commissions. Ils doivent être entendus à tout moment. ». Nous voyons bien ici que les deux pouvoirs travaillent ensemble.
+
+Cet article met également en lumière un aspect fondamental du régime parlementaire, celui de la balance des pouvoirs, c'est-à-dire que chaque pouvoir peut agir sur l'autre. Ici, le Bundestag peut convoquer des membres du gouvernement, mais de la même manière, les membres du gouvernement peuvent exiger d'être entendus par le Bundestag.
+
+#### B. Une dynamique de contre-pouvoirs et de responsabilité
+
+Comme l'a été partiellement mis en lumière l'article 43 de la Loi fondamentale, dans un régime parlementaire existent des balances de contre-pouvoirs et responsabilité d'un pouvoir vis-à-vis d'une autre. Pour revenir au cadre posé par notre étude, intéressons-nous d'abord au régime parlementaire de référence britannique.
+
+Les pouvoirs législatif et exécutif, pour se contrôler l'un l'autre, disposent de pouvoirs réciproques. Même si se distingue une prédominance du pouvoir législatif, car étant l'organe le plus à même de représenter l'expression du peuple, car composée au suffrage direct, il n'en reste néanmoins pas moins nécessaire de disposer d'un moyen de contrôler ce pouvoir. En ce sens, la notion de responsabilité politique est centrale au sein du régime parlementaire britannique. En effet, les deux entités sont liées de par l'influence directe des élections législatives sur la direction du gouvernement, ce qui crée un lien de responsabilité mutuelle. Cela signifie que l'exécutif doit rendre compte de ses actes devant le législatif et a besoin de lui pour mettre en place et faire passer ses projets. Nous avons pu voir une conséquence directe de cette responsabilité dans le cadre du Brexit, notamment avec les multiples présentations de deals de la part de Theresa May devant le Parlement sans succès, qui l'ont finalement contrainte à démissionner, même si elle était à la tête du parti majoritaire à la Chambre des communes. De la même manière, le Premier ministre dispose, du moins disposait, d'un pouvoir de dissolution du Parlement jusqu'à l'adoption en 2011 du Fixed-Term Parliaments Act.
+
+Ainsi, en tant que principe fondamental parlementaire, la notion de responsabilité politique est donc centrale au sein des autres modèles parlementaires européens. Si l'on se réfère une nouvelle fois à l'Allemagne, la Loi fondamentale prévoit deux motions qui établissent cette responsabilité mutuelle des deux pouvoirs. Le Président fédéral peut, sur demande du Chancelier fédéral, dissoudre le Bundestag si une motion de confiance (vote d'un parlement par lequel les députés décident d'accorder ou non leur confiance au gouvernement en place n'obtient pas la majorité des membres du Bundestag. De la même manière, le Bundestag dispose d'un pouvoir de motion de défiance constructive, c'est-à-dire qu'il peut renverser le Chancelier fédéral. Seule différence avec la motion de défiance britannique, on dit que celle-ci est « constructive », car les députés doivent choisir un successeur au Chancelier à la majorité des membres.
+
+Cependant, dans le régime parlementaire italien, le Président de la République a le pouvoir de dissoudre les chambres du parlement en vertu de l'article 88 de sa Constitution, mais le vote contraire à une motion de confiance du Parlement ne comporte pas l'obligation de démissionner du gouvernement. Cette modalité différente laisse apparaitre de premières divergences qui peuvent exister entre le modèle type parlementaire britannique et ses « reproductions » à travers le monde.
+
+Car, en effet, s'il n'est peut-être pas pertinent de parler de régimes parlementaires au pluriel étant donné qu'ils comportent tous des éléments fondamentaux que l'on retrouve constamment, il est possible de parler de variantes au régime parlementaire.
+
+### II Des variantes au régime parlementaire britannique classique
+
+Nous nous intéressons donc dans cette seconde partie aux différentes modalités de scrutin qui peuvent exister au sein dans la mise en place d'un régime parlementaire (A) dont découlent plusieurs répartitions des partis, et notamment le bipartisme face au pluripartisme (B).
+
+#### A. Les modalités de scrutin
+
+L'organisation du régime parlementaire britannique repose sur le fait d'un scrutin uninominal. En effet, les citoyens britanniques sont appelés à ne voter que pour un seul tour, qui fait se dégager une majorité électorale. C'est ce qui sera théorisé par la loi Duverger, qui prévoit que le scrutin majoritaire uninominal à un tour tend à favoriser la formation d'un système bipartite. Si c'est ce modèle de scrutin qui forge la scène politique et par extension parlementaire du Royaume-Uni, les modalités électorales en Allemagne ou en Italie sont bien différentes.
+
+Là où un scrutin simple à un tour prend place en Grande-Bretagne, en Allemagne c'est un système électoral à deux voix plus complexe qui se tient. On parle de scrutin mixte : Les citoyens disposent de deux voix. Avec la première ils élisent directement un député de leur circonscription. Avec la seconde voix, ils élisent une le reste des députés, en votant pour un parti avec sa liste régionale de députés dans le cadre d'un scrutin proportionnel national. Concrètement, cela veut dire qu'aux côtés des députés élus au premier tour, chaque parti obtient un certain pourcentage de sa répartition au sein des places restantes du Bundestag (au moins 5 % des votes sont nécessaires pour qu'un parti siège au Budenstag). Deux cas de figure peuvent ensuite apparaître. Si le parti obtient moins de votes directs que de votes prévus par la répartition proportionnelle, alors il doit ajouter des députés supplémentaires pour compléter les places prévues. Si c'est l'inverse qui se passe, alors le parti conserve quand même ces sièges dits surnuméraires. Ainsi, il apparait très clairement que c'est ce second vote qui occupe la place la plus importante, étant donné qu'il pose les rapports de force au sein du Bundestag.
+
+En Italie, c'est un système électoral similaire qui est mis en place depuis 2017 avec la loi de Rosatellum bis. Les élections se déroulent en un seul tour sous la base d'un système mixte comme en Allemagne. Quelques petites différences existent néanmoins : le seuil minimum pour entrer au Parlement est de 3 %.
+
+II apparait ainsi comme évident que le mode de scrutin a pour effet direct l'organisation du régime parlementaire dont il est sujet, et en particulier au niveau de la répartition des partis au sein des parlements.
+
+#### B. Le bipartisme face au pluripartisme
+
+Comme évoqué précédemment, le mode de scrutin a une incidence directe sur le nombre de partis au sein du régime parlementaire. Dans le régime parlementaire britannique, c'est le scrutin qui fait se dégager une majorité électorale et qui aboutit à l'avènement du « two-party system ». Ce n'est pas l'élection à la pluralité des voix qui fait se dégager deux partis, mais plutôt que, étant donné que la majorité est requise, les électeurs de partis qui gagnent des « petites » proportions des votes vont peu à peu être poussés à voter vers des partis majoritaires plus importants. Ce mode électoral qui favorise l'érection de deux partis majoritaires permet aux électeurs de choisir directement la tendance de leur gouvernement et d'assurer un 
+
+exécutif stable qui n'a, depuis Tatcher, été travailliste seulement deux fois. Ainsi, en Grande-Bretagne, c'est une alternance constante entre les deux partis majoritaires.
+
+Si l'on cherche à comparer ces modalités à celles en Allemagne et en Italie, celles-ci sont très différentes. En effet, comme évoqué précédemment, c'est un système de vote mixte qui définit la composition du Parlement. En ce sens, on retrouve une pluralité dans les partis qui se présentent et ne se distingue pas de majorité définie.
+
+Cela aboutit alors à la formation de gouvernements de coalition et d'alliances entre les partis pour obtenir la majorité lors des votes parlementaires.

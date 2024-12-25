@@ -1,0 +1,1 @@
+En 2009, l'arrêt **Bateaux-Mouches** a précisé que lorsqu'on réglemente le nombre de personnels d'équipage, il ne faut pas favoriser les grands transporteurs au détriment des bateaux de taille plus modeste.

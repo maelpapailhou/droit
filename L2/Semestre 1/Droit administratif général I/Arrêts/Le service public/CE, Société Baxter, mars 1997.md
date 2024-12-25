@@ -1,0 +1,2 @@
+CE **Société Baxter** en mars 1997
+En France, il n’y a aucune obligation de traiter différemment, comme l’a établi l’arrêt CE **Société Baxter** en mars 1997. En droit de l’Union européenne, cependant, il est reconnu que des personnes dans des situations différentes doivent être traitées différemment.

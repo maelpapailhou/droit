@@ -1,0 +1,4 @@
+Conseil d'État du 21 juin 2000, **SARL Plage "Chez Joseph"**.
+En plus de ces missions détachables, l'autorité de police peut imposer à une personne privée, dans le cadre de son activité, de veiller au maintien de l'ordre public. Cela a été illustré par l'arrêt du Conseil d'État du 21 juin 2000, **SARL Plage "Chez Joseph"**. Dans cette affaire, le concessionnaire de plage avait l'obligation de veiller à l'ordre public (par exemple, en assurant la présence de maîtres-nageurs sauveteurs) et de mettre en place des douches et des toilettes pour l'hygiène publique.
+
+La personne publique ne transfère pas son pouvoir de police aux concessionnaires. Cela a été confirmé par l'arrêt **Consorts Amaudruz**.

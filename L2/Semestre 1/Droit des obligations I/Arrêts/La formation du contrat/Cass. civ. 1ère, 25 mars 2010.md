@@ -1,0 +1,1 @@
+La solution a ainsi été désactivée lorsque le dirigeant d'une société achète des parts à un de ses associés sans lui révéler leur valeur. 

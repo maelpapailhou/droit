@@ -1,0 +1,35 @@
+société monde ; « world human society » ; Déclaration universelle des droits de l’homme ; gouvernance globale ; environnement ; épidémie ; criminalisation ; démographie ; Organisations non gouvernementales ; sacré ; géographie des réseaux ; révolution relationnelle ; société civile ; opinion publique ; diplomatie verte ; droit international de l’environnement ; justice restaurative
+
+-   Société monde : la notion de société monde fait référence à l'idée d'une communauté humaine globale, interconnectée et interdépendante, dépassant les frontières nationales et culturelles. Cette vision implique une prise de conscience de la nécessité de coopération et de solidarité entre les peuples et les nations pour faire face aux défis communs tels que la pauvreté, les conflits, la protection de l'environnement, etc.
+    
+-   "World human society" : cette expression désigne également la société mondiale, mais elle met davantage l'accent sur le caractère universel et humain de cette communauté globale, qui rassemble toutes les cultures, les religions et les nations dans un projet commun de progrès et d'émancipation.
+    
+-   Déclaration universelle des droits de l'homme : la Déclaration universelle des droits de l'homme est un texte fondateur du droit international, adopté par l'Assemblée générale des Nations unies en 1948. Elle énonce les droits fondamentaux de chaque individu, tels que le droit à la vie, à la liberté, à l'éducation, à la santé, etc. Cette Déclaration vise à protéger les droits de chaque individu, quelles que soient sa nationalité, sa religion ou sa culture, et à promouvoir une culture de paix et de respect mutuel.
+    
+-   Gouvernance globale : la gouvernance globale fait référence à l'ensemble des processus, des institutions et des normes qui régulent les relations entre les acteurs internationaux, qu'ils soient étatiques ou non-étatiques. La gouvernance globale implique une coordination et une coopération internationale pour faire face aux défis globaux tels que le changement climatique, la pauvreté, les conflits, etc. Elle est basée sur le principe de la souveraineté partagée et de la responsabilité commune.
+    
+-   Environnement : l'environnement désigne l'ensemble des éléments naturels et humains qui entourent un individu ou une communauté. La protection de l'environnement est devenue un enjeu crucial pour la communauté internationale, car les activités humaines ont un impact significatif sur la santé de la planète et la survie de l'humanité. La protection de l'environnement implique une prise de conscience de la nécessité de préserver les ressources naturelles, de limiter les émissions de gaz à effet de serre, de préserver la biodiversité, etc. Elle implique également une coopération internationale pour faire face aux défis environnementaux globaux.
+
+-   Épidémie : une épidémie désigne une propagation rapide et importante d'une maladie au sein d'une population. Les épidémies peuvent avoir des conséquences graves sur la santé des individus et sur l'économie et la société en général.
+    
+-   Criminalisation : la criminalisation est le processus par lequel une action ou un comportement est défini comme un crime par la loi. La criminalisation peut varier selon les pays et les cultures, et peut parfois être utilisée pour réprimer des activités politiques ou sociales légitimes.
+    
+-   Démographie : la démographie est l'étude des populations humaines, de leur évolution, de leur répartition géographique, de leur croissance démographique, etc. Elle permet de comprendre les dynamiques sociales, économiques et politiques qui façonnent les sociétés.
+    
+-   Organisations non gouvernementales : les organisations non gouvernementales (ONG) sont des associations à but non lucratif qui travaillent sur des enjeux sociaux, environnementaux, humanitaires, etc., sans être rattachées à un État. Les ONG jouent un rôle important dans la promotion des droits de l'homme, la lutte contre la pauvreté et les inégalités, la protection de l'environnement, etc.
+    
+-   Sacré : le sacré fait référence à tout ce qui est considéré comme sacré, c'est-à-dire comme étant investi d'une dimension spirituelle ou religieuse, et qui mérite donc un respect particulier. Le sacré peut prendre différentes formes selon les cultures et les religions, et peut influencer les comportements individuels et collectifs.
+    
+-   Géographie des réseaux : la géographie des réseaux est une branche de la géographie qui s'intéresse à l'étude des réseaux de communication, de transport, d'information, etc. Elle permet de comprendre les dynamiques spatiales et territoriales des réseaux, leur impact sur les relations sociales et économiques, et leur rôle dans la mondialisation des échanges.
+
+-   Révolution relationnelle : la révolution relationnelle désigne un changement de paradigme dans les relations humaines, caractérisé par une plus grande prise en compte des valeurs telles que l'empathie, l'ouverture d'esprit, la tolérance, le respect, etc. Elle remet en cause les schémas traditionnels de domination, de discrimination et de violence, et vise à promouvoir des relations plus équitables et solidaires.
+    
+-   Société civile : la société civile désigne l'ensemble des acteurs et des organisations qui ne sont pas liés directement à l'État ou au marché, et qui oeuvrent pour l'intérêt général. Elle peut inclure des ONG, des associations, des syndicats, des mouvements sociaux, etc. La société civile joue un rôle important dans la promotion de la démocratie, des droits de l'homme, de l'égalité, etc.
+    
+-   Opinion publique : l'opinion publique désigne l'ensemble des attitudes, des croyances et des valeurs partagées par une population à un moment donné. Elle est influencée par de nombreux facteurs, tels que les médias, les élites politiques, les réseaux sociaux, etc. L'opinion publique peut avoir un impact important sur les décisions politiques et sur les évolutions sociales.
+    
+-   Diplomatie verte : la diplomatie verte désigne l'ensemble des actions diplomatiques visant à promouvoir la protection de l'environnement et la lutte contre le changement climatique. Elle peut inclure des accords internationaux sur le climat, des négociations sur la préservation de la biodiversité, des programmes de coopération pour le développement durable, etc.
+    
+-   Droit international de l'environnement : le droit international de l'environnement désigne l'ensemble des règles et des normes juridiques qui régissent la protection de l'environnement à l'échelle internationale. Il peut inclure des traités internationaux sur la pollution, la gestion des ressources naturelles, la protection de la faune et de la flore, etc.
+    
+-   Justice restaurative : la justice restaurative désigne une approche de la justice qui vise à réparer les préjudices subis par les victimes d'un crime, tout en permettant au délinquant de prendre conscience de ses actes et de se réinsérer dans la société. Elle repose sur la participation active des parties prenantes et sur une réflexion collective sur les causes et les conséquences du crime.

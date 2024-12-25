@@ -1,0 +1,6 @@
+- **Congrès** : Il s'agit d'une réunion ou conférence de souverains, d'ambassadeurs, de délégués de divers pays. Aux États-Unis, le Congrès est l'ensemble du corps législatif, comprenant les sénateurs et les représentants¹.
+- **Cour suprême** : C'est la juridiction la plus élevée dans certains États. Par exemple, aux États-Unis, la Cour suprême est l'organe judiciaire suprême⁷.
+- **Veto** : C'est un acte par lequel un individu ou un organe s'oppose temporairement ou définitivement à l'entrée en vigueur d'une décision d'un autre individu ou d'un autre organe⁹.
+- **Pocket veto** : C'est un veto indirect d'un responsable exécutif tel qu'un gouverneur ou un président. Il peut être utilisé comme tactique lorsqu'un exécutif ne veut pas autoriser un projet de loi, mais ne veut pas non plus attirer la controverse avec un veto direct et veut s'assurer que le projet de loi ne deviendra pas loi¹².
+- **Executive agreement** : C'est un accord entre les chefs de gouvernement de deux ou plusieurs nations qui n'a pas été ratifié par le pouvoir législatif. Les accords exécutifs sont considérés comme politiquement contraignants pour les distinguer des traités juridiquement contraignants¹⁷.
+- **Impeachment** : C'est une procédure du droit permettant au pouvoir législatif de destituer un haut fonctionnaire²⁶.

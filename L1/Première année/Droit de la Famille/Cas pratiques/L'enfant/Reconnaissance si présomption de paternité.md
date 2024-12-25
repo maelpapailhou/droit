@@ -1,0 +1,10 @@
+**Sandrine et Pierre sont mariés depuis quinze ans, ils ont une fille agée de 2 ans. La filiation de l’enfant est établie à l’égard de ses deux parents : la filiation maternelle est établie par l’acte de naissance, la filiation paternelle est établie par la présomption de paternité. Pierre peut-il reconnaitre l’enfant ?**
+
+**Problème :**
+La reconnaissance étant un mode subsidiaire d'établissement de la filiation, est-ce que la filiation de l'enfant est établie à l'égard de son père par présomption de paternité ? Est-ce que la reconnaissance est ouverte et possible en l'espèce ?
+
+**Majeure :** 
+L'article 316 du Code civil précise que la filiation peut être établie autrement que par la reconnaissance lorsque la filiation est prévue au présent chapitre. Or, la présomption de paternité est prévue par l'article 312 qui appartient donc au présent chapitre relatif à l'établissement de la filiation qui est visé par l'article 316. La présomption de paternité constitue donc un des modes d'établissement visé par l'article 316. La reconnaissance est donc un mode subsidiaire d'établissement de la filiation.
+
+**Mineure :** 
+En l'espèce, la filiation de l'enfant est-elle établie à l'égard de son père par la présomption de paternité ? La présomption de paternité, visée à l'article 312 du Code civil, constitue un mode subsidiaire d'établissement de la filiation, prévu par l'article 316 du même code. En l'espèce, la filiation de l'enfant est établie à l'égard de son père par la présomption de paternité, qui est un des modes d'établissement de la filiation prévus par le chapitre relatif à l'établissement de la filiation auquel appartient l'article 316. La reconnaissance de l'enfant par le père, prévue à l'article 313, constitue un mode subsidiaire d'établissement de la filiation qui n'est pas ouvert en l'espèce, Pierre ne pouvant donc pas reconnaître l'enfant.

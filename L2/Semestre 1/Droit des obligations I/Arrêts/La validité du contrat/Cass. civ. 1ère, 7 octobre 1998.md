@@ -1,0 +1,2 @@
+
+Désormais la Cour retient que « un contrat peut être annulé pour cause illicite ou immorale, même lorsque l'une des parties n'a pas eu connaissance du caractère illicite ou immoral du motif déterminant de la conclusion du contrat »

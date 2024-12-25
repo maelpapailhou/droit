@@ -1,0 +1,1 @@
+Lorsque les SPIC sont gérés par une personne privée, les contrats seront de droit privé. L'arrêt **TC 3 mars 1969, Société Interlait** illustre cette situation, où il n’y avait pas de personne publique impliquée.

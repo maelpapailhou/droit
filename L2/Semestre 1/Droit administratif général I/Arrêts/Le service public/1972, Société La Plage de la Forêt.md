@@ -1,0 +1,1 @@
+On valide également la création de piscines municipales en  dans l'arrêt **Société La Plage de la Forêt**, ainsi que le jugement du tribunal administratif de Clermont-Ferrand, commenté à la JDA, qui admet comme légale la création d’un café-hôtel-restaurant municipal.

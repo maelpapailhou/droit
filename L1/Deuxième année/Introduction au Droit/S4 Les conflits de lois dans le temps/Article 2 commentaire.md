@@ -1,0 +1,1 @@
+https://www.doc-du-juriste.com/droit-prive-et-contrat/droit-civil/commentaire-article/article-2-code-civil-application-temps-introduction-plan-detaille-640588.html?utm_source=search&utm_medium=internal

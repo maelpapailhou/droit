@@ -1,0 +1,1 @@
+**Les agents non titulaires (contractuels) :** (TC, 25 mars 1986, **Berckaly**). Ces agents non titulaires des SPA sont considérés comme des agents de droit public.

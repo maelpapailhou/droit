@@ -1,0 +1,11 @@
+Les pages 143 à 188 de l'ouvrage "Relations internationales" de Jean-Jacques Roche abordent la question des acteurs non-étatiques dans les relations internationales.
+
+L'auteur commence par rappeler l'importance traditionnelle des États dans les relations internationales et leur rôle de principaux acteurs de la scène internationale. Cependant, depuis le milieu du XXe siècle, de nouveaux acteurs non-étatiques sont apparus et ont gagné en importance, que ce soit les organisations internationales, les entreprises multinationales, les groupes de pression, les mouvements sociaux ou encore les individus.
+
+L'auteur souligne également que la distinction entre acteurs étatiques et non-étatiques n'est pas toujours claire, certains acteurs pouvant être à la fois étatiques et non-étatiques selon les situations (par exemple, les entreprises publiques ou les ONG soutenues par des États).
+
+Jean-Jacques Roche aborde ensuite les différentes catégories d'acteurs non-étatiques en détaillant leur rôle et leur influence dans les relations internationales. Il analyse ainsi le cas des organisations internationales, qui sont devenues des acteurs incontournables de la scène internationale, avec des domaines d'intervention très variés (commerce, droits de l'homme, santé, etc.). Les entreprises multinationales sont également abordées, leur importance économique et leur impact sur les relations internationales étant considérables.
+
+L'auteur évoque également les groupes de pression, qui cherchent à influencer les décisions politiques, ainsi que les mouvements sociaux, qui militent pour des causes particulières (environnement, droits des femmes, etc.). Enfin, l'auteur aborde le rôle des individus, notamment à travers le concept de "diplomatie publique", qui permet aux individus de s'impliquer directement dans les relations internationales grâce aux nouvelles technologies de communication.
+
+En conclusion, Jean-Jacques Roche souligne que la montée en puissance des acteurs non-étatiques a modifié en profondeur les relations internationales, leur influence ne cessant de croître au fil du temps. Il invite ainsi les acteurs traditionnels (États et organisations internationales) à tenir compte de ces nouveaux acteurs pour mieux appréhender les défis de la scène internationale.

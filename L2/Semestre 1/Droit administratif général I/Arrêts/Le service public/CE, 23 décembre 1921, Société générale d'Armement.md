@@ -1,0 +1,1 @@
+Cette notion apparaîtra dans un autre arrêt, **Conseil d'État, 23 décembre 1921, Société générale d'Armement**, où l’on emploie pour la première fois le terme SPIC.

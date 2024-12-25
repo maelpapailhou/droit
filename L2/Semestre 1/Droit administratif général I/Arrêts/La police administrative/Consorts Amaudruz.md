@@ -1,0 +1,1 @@
+La personne publique ne transfère pas son pouvoir de police aux concessionnaires. Cela a été confirmé par l'arrêt **Consorts Amaudruz**.

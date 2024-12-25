@@ -1,0 +1,1 @@
+Dans l'arrêt de la Cour de justice de l'Union européenne du 9 décembre 1997, **Commission contre France**, l'État français a été condamné pour s’être abstenu de faire respecter la libre circulation des marchandises, ce qui pose une obligation de maintenir l'ordre public dans ce contexte précis.

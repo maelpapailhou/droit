@@ -1,0 +1,10 @@
+La **portée** de cette décision est principalement liée à la répartition des compétences entre la loi et le pouvoir réglementaire en matière de sécurité sociale, ainsi qu'aux conditions d'octroi d'une aide financière aux médecins accrédités.
+
+1. **Excès de pouvoir du pouvoir réglementaire** : Le Conseil d'État juge que le décret attaqué va au-delà des compétences du pouvoir réglementaire. En effet, l'article 34 de la Constitution stipule que seuls les principes fondamentaux de la sécurité sociale, notamment la création d'aides financières, relèvent du domaine de la loi. Or, l'article 16 de la loi du 13 août 2004 prévoit que tous les médecins accrédités peuvent bénéficier de cette aide, sans exclure ceux qui auraient fait l'objet de certaines sanctions ou pénalités. En excluant ces médecins, le décret ajoute une condition non prévue par la loi, excédant ainsi la compétence du pouvoir réglementaire.
+    
+2. **Annulation des dispositions litigieuses** : Les parties du décret qui excluent certains médecins du bénéfice de l'aide sont annulées. Cela signifie que ces médecins peuvent à nouveau prétendre à l'aide, même s'ils ont fait l'objet de sanctions, tant que ces sanctions ne sont pas expressément prévues par la loi.
+    
+3. **Impact financier et administratif** : L'État est également condamné à verser une somme de 2 000 euros à l'Union des chirurgiens de France (UCDF), ce qui montre la reconnaissance de la légitimité de la requête. Cela crée un précédent dans l'application des aides financières et clarifie les conditions d'octroi, en limitant la marge de manœuvre du pouvoir réglementaire.
+    
+
+En résumé, cette décision souligne que le pouvoir réglementaire ne peut restreindre des droits créés par la loi en ajoutant des conditions non prévues par celle-ci, renforçant ainsi la séparation des compétences entre le législatif et le réglementaire.

@@ -1,0 +1,1 @@
+https://www.doc-du-juriste.com/droit-prive-et-contrat/droit-des-affaires/commentaire-d-arret/cour-cassation-chambre-commerciale-28-juin-2005-reticence-635487.html?utm_source=search&utm_medium=internal

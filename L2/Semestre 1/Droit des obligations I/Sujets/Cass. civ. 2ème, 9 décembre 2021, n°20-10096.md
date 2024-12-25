@@ -1,0 +1,1 @@
+https://actu.dalloz-etudiant.fr/a-la-une/article/lindependance-de-lavocat-nexclut-pas-sa-dependance-economique/h/b3f43f36470a45e08d00c6a4e71f5572.html

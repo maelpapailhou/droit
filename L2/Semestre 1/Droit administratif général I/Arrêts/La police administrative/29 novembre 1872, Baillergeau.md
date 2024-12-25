@@ -1,0 +1,1 @@
+En tant qu'actes administratifs, les mesures de police sont justiciables du recours pour excès de pouvoir. Elles sont soumises au principe de légalité, qui n'a été consacré qu'à la fin du 19e siècle, avec l'arrêt **Baillergeau**, rendu le 29 novembre 1872. 

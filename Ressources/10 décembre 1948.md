@@ -1,0 +1,1 @@
+Déclaration universelle des droits de l'Homme du

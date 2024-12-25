@@ -1,0 +1,1 @@
+Dans **TC, 19 octobre 1998, Mlle Veuve Laroche**, un prévenu mis en examen pour meurtre a été remis en liberté sans protection, avant d'être assassiné. Cela a été imputé à la police administrative, car il relevait de celle-ci de préserver la sécurité des citoyens.

@@ -1,0 +1,1 @@
+À ce sujet, on peut citer l’arrêt du Conseil d’État du 6 novembre 1985, dans lequel le ministre des Transports attaquait l’État, car une compagnie avait subi un préjudice lors d’une grève des contrôleurs aériens.

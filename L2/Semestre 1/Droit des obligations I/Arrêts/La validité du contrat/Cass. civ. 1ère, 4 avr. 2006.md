@@ -1,0 +1,1 @@
+Cass. civ. 1ère, 4 avr. 2006, no [02-18.277](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000007050189&fastReqId=548907446&fastPos=1), portant sur des contrats d'exploitation d'une chaufferie et d'approvisionnement de combustible ; 

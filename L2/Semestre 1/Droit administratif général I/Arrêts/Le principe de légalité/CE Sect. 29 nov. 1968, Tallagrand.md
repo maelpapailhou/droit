@@ -1,0 +1,3 @@
+- CE Sect. 29 nov. 1968, **Tallagrand** (important) : le Conseil d’État estime que le principe de solidarité ne pouvait pas servir de base à une action en indemnité en l’absence de dispositions législatives qui en assurent l’application.
+
+1. [[CE Sect. 29 nov. 1968, Tallagrand]] Faute de loi édictée pour leur mise en œuvre, ces principes ne s’imposent pas à l’administration, et leur méconnaissance n’est pas invocable à l’appui d’un recours exercé devant le juge administratif.

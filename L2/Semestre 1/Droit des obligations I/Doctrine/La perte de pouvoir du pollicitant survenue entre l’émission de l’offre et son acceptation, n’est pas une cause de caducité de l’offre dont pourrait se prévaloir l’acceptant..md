@@ -1,0 +1,24 @@
+Un salarié avait un accord avec une société datant de 1992 sur les conditions d'indemnisation s'il devait quitter le groupe. En 1996, la société lui fait une nouvelle offre avec des conditions différentes. Le salarié accepte cette offre en 1998, après un changement de direction au sein de la société. Plus tard, mis à la retraite, il réclame l'application de l'accord de 1992.
+
+La cour d'appel refuse sa demande, en considérant que l'offre de 1996 était valable et qu'il fallait appliquer ses nouvelles conditions. Le salarié conteste cette décision et fait un pourvoi en cassation, en disant que l'offre était caduque à cause du changement de direction, et qu'elle aurait dû être renouvelée après ce changement.
+
+La Cour de cassation a dû décider si la perte de pouvoir de la personne qui avait fait l'offre rendait celle-ci caduque. Elle a finalement jugé que ce n'était pas le cas. Selon la Cour, c'est à l'offrant de décider de retirer ou non l'offre en cas de changement. En d'autres termes, tant que l'offre n'a pas été retirée, elle reste valable, même s'il y a un changement de direction.
+
+**Cette décision s'appuie sur une jurisprudence constante**. En effet, une offre peut devenir caduque pour plusieurs raisons : 
+1. si le délai d'acceptation est dépassé, 
+2. si l'offrant décède ou 
+3. devient incapable. Mais **la perte de pouvoir n'est pas reconnue comme une cause de caducité de l'offre**.
+
+---
+Suite à un accord conclu le 1er octobre 1992 entre une société et un salarié relativement aux conditions d’indemnisation de ce dernier au cas où il quitterait le groupe, la société lui adresse, le 16 décembre 1996, une offre prévoyant de nouvelles conditions d’indemnisation. Tandis qu’en 1997, un changement de direction intervient au sein de la société, le salarié accepte l’offre l’année suivante. Par la suite, le salarié, mis à la retraite, sollicite l’application de l’accord conclu en 1992.
+
+La cour d’appel rejette sa demande, considérant que l’offre du 16 décembre 1996 avait valablement engagé la société, et qu’il convient dès lors d’appliquer les conditions d’indemnisations propres à celle-ci. 
+
+Le salarié forme un pourvoi en cassation, à l’appui duquel il fait valoir que l’offre, en raison de la perte de pouvoir du pollicitant survenue avant l’acceptation, était caduque, et que le contrat n’avait donc pas pu être valablement formé, en dépit de son acceptation. Il estime que l’offre aurait ainsi dû être réitérée à la date du changement de direction de la société. 
+
+La Cour de cassation était donc amenée à se prononcer sur le point de savoir si la perte de pouvoir du pollicitant, était une cause de caducité de l’offre, dont pouvait se prévaloir l’acceptant. Celle-ci considère que la cour d’appel a valablement jugé que l’offre émise en 1996 engageait les parties, dès lors que seul l’offrant aurait pu, le cas échéant, se prévaloir d’un délai d’expiration de l’offre, ou de l’absence de pouvoir du mandataire, afin de rétracter ou dénoncer l’offre.
+
+Cette solution n’est guère étonnante, puisqu’elle ne fait que confirmer une jurisprudence constante. En effet, les juges du droit ont, au fil des décisions, pu préciser les éléments essentiels dont la disparition prive l’offre d’efficacité. Ainsi, l’offre peut être frappée de caducité en raison de l’expiration du délai d’acceptation (Civ. 3e, 20 mai 1992, n° 90-17.647), ou, en l’absence de mention expresse d’un tel délai, à l’issue d’un délai raisonnable (Civ. 3e, 20 mai 2009, n° 08-13.230). Mais, comme le rappelle en l’espèce la Haute juridiction, il appartient alors à l’offrant, et non au destinataire de l’offre, d’invoquer la caducité de l’offre. Encore, l’offre peut être déclarée caduque pour cause de décès du pollicitant (Civ. 1re, 25 juin 2014, n° 13-16.529), ou en raison de son incapacité. 
+
+Ainsi, la jurisprudence ne reconnaît pas la perte de pouvoir du pollicitant, comme une cause de caducité de l’offre, et le législateur a entériné cette position, puisque le nouvel article **[1117](https://www.dalloz-avocats.fr/documentation/Document?id=CCIV172533&ctxt=0_ciR0MzE9MTExN8KnciRlbz0iQ09ERVNfQ0NJViLCp3gkc2Y9ZHotY29kZXM=&ctxtl=0_cyRwYWdlTnVtPTHCp3MkdHJpZGF0ZT1GYWxzZcKncyRzb3J0PcKncyRzbE5iUGFnPTIwwqdzJGlzYWJvPVRydWXCp3MkcGFnaW5nPVRydWXCp3Mkb25nbGV0PURaL0RaRlLCp3MkZnJlZXNjb3BlPUZhbHNlwqdzJHdvSVM9RmFsc2XCp3MkYnE9&nrf=0_TGlzdGU=)** du Code civil issu de l’ordonnance du 10 février 2016 reprend ces causes de caducité (Ord. n° 2016-131 du 10 févr. 2016 art. 2). Notons également que la loi du 20 avril 2018, dont les dispositions entreront en vigueur le 1er octobre 2018, prévoit que l’offre est caduque en cas de décès du destinataire de l’offre (L. n° 2018-287 du 20 avr. 2018, art. **[4](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=6027AA4EC3947C904A2010BDE6F13241.tplgfr25s_1?idArticle=JORFARTI000036825606&cidTexte=JORFTEXT000036825602&dateTexte=29990101&categorieLien=id)**).
+

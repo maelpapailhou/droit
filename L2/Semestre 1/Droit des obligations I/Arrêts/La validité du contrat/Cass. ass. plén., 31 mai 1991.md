@@ -1,0 +1,1 @@
+De même, lors de l'affaire des mères porteuses, la Cour de cassation a admis que « la convention par laquelle une femme s'engage, fut-ce à titre gratuit, à concevoir et à porter un enfant pour l'abandonner à sa naissance contrevient tant au principe d'ordre public de l'indisponibilité du corps humain qu'à celui de l'indisponibilité des personnes ».

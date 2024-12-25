@@ -1,0 +1,11 @@
+Paris, Presses de la Fondation nationale des sciences politiques Dalloz, 1992, p. 65-106
+ 
+Les pages 65 à 106 de l'ouvrage "Le retournement du monde - sociologie de la scène internationale" de Bertrand Badie et Marie-Claude Smouts présentent une analyse des transformations récentes des relations internationales et des implications de ces changements pour la compréhension de la politique internationale.
+
+Les auteurs soutiennent que les **transformations récentes de la scène internationale ont conduit à un retournement de la situation géopolitique**, caractérisée par une perte de l'ordre établi et une montée de la complexité. Ce **retournement est dû en partie à l'émergence de nouveaux acteurs sur la scène internationale**, *tels que les organisations non-gouvernementales et les groupes de la société civile, ainsi qu'à l'affaiblissement relatif des États-nations*.
+
+Les auteurs analysent également les transformations de la diplomatie internationale, en soulignant notamment l'évolution de la pratique diplomatique vers une diplomatie de la négociation, caractérisée par une plus grande implication des acteurs non-étatiques et la recherche de solutions négociées à des problèmes complexes.
+
+Les auteurs abordent également la question de la mondialisation, qui a eu des implications importantes pour la politique internationale, notamment en ce qui concerne la régulation des échanges économiques et le rôle des organisations internationales. Les auteurs soutiennent que la mondialisation a conduit à une fragmentation de l'espace politique, caractérisée par une multiplicité d'acteurs et de régimes.
+
+Enfin, les auteurs examinent les implications de ces transformations pour la théorie des relations internationales. Ils soutiennent que les approches traditionnelles, telles que le réalisme et le libéralisme, ne sont plus suffisantes pour comprendre la complexité de la scène internationale contemporaine. Ils proposent une nouvelle approche, basée sur la notion de "décentrement", qui prend en compte la diversité des acteurs et des régimes politiques sur la scène internationale et qui cherche à développer une analyse critique des relations de pouvoir dans un monde en mutation constante.

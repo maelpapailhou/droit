@@ -1,0 +1,1 @@
+décision du Conseil constitutionnel de 1999 : le Conseil décide que le PACS est un contrat et qu'en tant que tel, il est soumis à toutes les règles que prévoit le Code civil pour les contrats

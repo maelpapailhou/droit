@@ -1,0 +1,1 @@
+Assemblée, 16 novembre 1956, Union syndicale des industries aéronautiques

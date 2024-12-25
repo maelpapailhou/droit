@@ -1,0 +1,1 @@
+Ces normes ne font pas partie du bloc de constitutionnalité, mais elles s’imposent au législateur. Le Conseil d'État leur refuse cependant une opposabilité directe à l’administration. Un justiciable ne peut pas s’en prévaloir à l’appui d’un recours pour excès de pouvoir.

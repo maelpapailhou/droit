@@ -1,0 +1,1 @@
+Marshall Mc Luhan ; Max Weber ; Joseph Nye ; Hans Joachim Morgenthau ; Alfred Zimmern ; James Rosenau ; Samuel Huntington

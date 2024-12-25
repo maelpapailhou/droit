@@ -1,0 +1,10 @@
+1.  Vrai ou faux : **Dans un système mercantiliste, l'Etat joue un rôle primordial en adoptant des politiques protectionnistes ?** Réponse : **Vrai**
+2.  Vrai ou faux : **Adam** **Smith est un économiste écossais du courant de pensée néo-classique ?** Réponse : **Vrai**
+3.  Vrai ou faux : **Un marché est efficace lorsqu'à l'équilibre le maximum de transactions possibles est réalisé, un marché est autorégulateur si le prix de marché ne s'écarte jamais durablement du prix d'équilibre ?** Réponse : **Vrai**
+4.  À **quel économiste classique attribue-t-on la loi des débouchés et de l'offre et de la demande ?** Réponse : **Jean-Baptiste Say**
+5.  **Parmi ces auteurs physiocrates, lequel a proposé un découpage de la nation en trois grandes classes : la classe productive, la classe des propriétaires et la classe stérile ?** Réponse : **François Quesnay**
+6.  Vrai ou faux : **Les économistes classiques sont un groupe d'économistes qui ont émergé au XVIe et XVIIe siècles, principalement en Angleterre ?** Réponse : **Faux, les économistes classiques ont émergé au XVIIIe et XIXe siècles, principalement en Angleterre.**
+7.  Vrai ou faux : **Les avantages comparatifs sont un concept économique développé par Thomas Mun ?** Réponse : Faux, les **avantages comparatifs sont un concept économique développé par *David Ricardo*.**
+8.  **Quel terme économique correspond à la capacité relative d'un pays à produire un bien ou un service à un coût inférieur à celui d'un autre pays ?** Réponse : **Avantages comparatifs**
+9.  Vrai ou faux : **Un marché est un lieu où les acheteurs et les vendeurs se rencontrent pour l'échange de biens seulement ?** Réponse : **Faux, un marché est un lieu où les acheteurs et les vendeurs se rencontrent pour l'échange de biens et de services**.
+10.  Vrai ou faux : L'**Etat de droit est un des principes fondamentaux du Libéralisme ?** Réponse : **Vrai**

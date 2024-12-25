@@ -1,0 +1,1 @@
+https://www.doc-du-juriste.com/droit-prive-et-contrat/droit-civil/commentaire-d-arret/cour-cassation-premiere-chambre-civile-27-juin-2006-448349.html

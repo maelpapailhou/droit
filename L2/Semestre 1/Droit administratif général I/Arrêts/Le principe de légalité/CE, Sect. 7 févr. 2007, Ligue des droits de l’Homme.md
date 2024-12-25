@@ -1,0 +1,1 @@
+-   : cette disposition est directement applicable et invocable.

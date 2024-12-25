@@ -1,0 +1,1 @@
+ : - Lorsque l'offre sera assortie de réserves, elle ne sera pas considérée comme « ferme ».

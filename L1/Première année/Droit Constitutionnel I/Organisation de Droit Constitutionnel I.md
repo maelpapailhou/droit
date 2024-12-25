@@ -1,0 +1,2 @@
+- Ne sont que représentés les séances des cours de Travaux Dirigés par Séances (S1, S2, S3, etc.)
+- Les dissertations et commentaires ont soit étés demandés en cours, soit été pris sur Internat car ils sont en rapports avec les cours.

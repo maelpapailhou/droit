@@ -1,0 +1,3 @@
+Un autre arrêt, **, considère que l'enlèvement des ordures ménagères ne fait pas partie des fonctions publiques par nature. La conception défendue par Maurice Hauriou est donc une conception très stricte, correspondant au minimum que l'État doit accomplir, en phase avec les attentes de l'époque.
+
+La responsabilité, en principe, est une responsabilité portée devant le juge judiciaire, avec application du droit privé. L'arrêt **TC 11 juillet 1933, Dame Melinette** précise que la responsabilité des SPIC est, en règle générale, de droit privé. Toutefois, par exception, une responsabilité administrative s'applique si des travaux ou ouvrages publics sont en cause, ou si des prérogatives de puissance publique ou la domanialité publique attirent le droit public.

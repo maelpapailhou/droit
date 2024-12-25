@@ -1,0 +1,1 @@
+Cependant, cela reste une opération de police administrative lorsqu'un gardien de la paix effectue une simple ronde de surveillance, même s'il tire un coup de feu à l'occasion de cette ronde, car aucun élément ne permettait de penser que ce gardien participait à une opération de police judiciaire (**TC, 26 mars 1990, Devossel**).

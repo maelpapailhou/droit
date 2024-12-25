@@ -1,0 +1,11 @@
+"La faiblesse de croire" est un ouvrage de Michel de Certeau publié en 1987. Dans cet ouvrage, de Certeau explore le thème de la croyance et examine la manière dont elle fonctionne dans la société contemporaine.
+
+Le livre se divise en plusieurs parties qui explorent différents aspects de la croyance. Dans la première partie, de Certeau aborde la question de la modernité et de la sécularisation. Il analyse comment la croyance religieuse a été progressivement marginalisée dans la société occidentale moderne, et comment d'autres formes de croyances ont émergé pour combler le vide laissé par la religion traditionnelle.
+
+Dans la deuxième partie, de Certeau se penche sur les pratiques quotidiennes et les rituels ordinaires qui sont souvent teintés de croyances. Il examine comment ces pratiques, comme les superstitions, les habitudes culturelles et les rituels sociaux, peuvent servir de substituts à la croyance religieuse et donner un sentiment de sens et de contrôle dans un monde complexe et incertain.
+
+La troisième partie du livre explore la notion de "croire sans croire". De Certeau soutient que même si les gens se déclarent souvent athées ou agnostiques, ils continuent néanmoins à entretenir des croyances sous des formes différentes. Il examine comment la croyance peut prendre des formes dissimulées ou déguisées dans des discours philosophiques, politiques ou scientifiques.
+
+Dans la dernière partie de l'ouvrage, de Certeau aborde la question de la croyance dans le contexte du postmodernisme. Il explore les différentes manières dont les individus construisent leurs propres récits et systèmes de croyances dans un monde fragmenté et marqué par la diversité culturelle.
+
+En résumé, "La faiblesse de croire" de Michel de Certeau examine la nature de la croyance dans la société moderne et postmoderne. L'auteur explore les différentes formes que peut prendre la croyance, ainsi que ses liens avec la religion, la culture et la société contemporaine. Le livre offre une réflexion approfondie sur le rôle de la croyance dans la construction de l'identité individuelle et collective.

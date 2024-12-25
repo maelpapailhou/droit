@@ -1,0 +1,87 @@
+```
+1% La commune de Corenc bénéficie d'une certaine notoriété à raison de son festival de mime. Créé par des passionnés dans les années 1980, ce festival est géré par l'association « Le silence est d'or ». Au fil des années, la commune a été amenée à participer au fonctionnement et au budget de l'association. Les représentants de la commune sont désormais majoritaires au sein de son conseil d'administration qui est présidé par le maire et son budget repose largement sur des subventions municipales.
+
+Comme chaque année, le conseil municipal a voté en janvier 2022 l'allocation d'une subvention à ladite association en vue du festival 2024 qui aura lieu en juillet. Cette délibération a fait l'objet d'un recours pour excès de pouvoir de la part d'un habitant de la commune, Monsieur Contremarceau. Il estime notamment que l'attribution de cette subvention aurait dû être précédée d'une mise en concurrence. Le maire vous interroge sur les chances de succès d'une telle argumentation.
+```
+
+En effet, il soutient le fait que l'attribution de cette subvention aurait dû être soumise à une procédure de mise en concurrence.
+
+### A. Sur la qualification de service public
+
+#### a. Sur la caractérisation d'un service public
+
+Peut-on qualifier de service public l'activité d'organisation de festivals exercée par une personne privée ?
+
+Le service public se définit de manière juridique comme une ***mission d'intérêt général, assurée de manière directe ou indirecte par une personne publique***. Il arrive que cette qualification soit **directement déterminée par la loi**, mais dans la plupart des hypothèses, c'est sur **la base de critères jurisprudentiels que s'opère la qualification du service public**. Le conseil d'État a posé la règle de référence dans l'arrêt de section du ==CE APREI, du 22 février 2007==. ***Une personne privée qui assure mission d'intérêt général sous le contrôle de l'admin et présente des PPP effectue un*** SP. On est donc en présence de trois critères, **un organique, un matériel et un formel**.
+
+Sur le critère de la **prérogative de puissance publique**, on l'a longtemps évoquée comme **indispensable**, notamment avec ==l'arrêt Narcy en 1963==. Il fallait alors un ***intérêt général attaché à personne publique*** qui détenait des ***prérogatives de puissance publique***. Ce caractère a finalement disparu avec un arrêt ==1990, ville de Melun==, et il est alors possible de **caractériser une activité de mission de service public** lorsqu'elle ne détient **pas prérogative de puissance publique**. Le Conseil d'État dans l'==arrêt APREI de 2007== l'a notamment confirmé.
+
+Néanmoins, les critères matériels et organiques persistent toujours, notamment **la nécessité d'une mission d'intérêt général**. Ce critère peut être objectif ou subjectif, et en France, on est dans une démarche de qualification plutôt subjective, c'est-à-dire qu'elle **dépend d'un choix politique, qui est fait par le législateur ou l'admin selon les cas**. En effet, certaines activités sont érigées comme mission d'intérêt général, comme dans l'==arrêt Ville De Cannes Contre Ponce en 1988==, dans lequel le Tribunal des conflits considère qu'une activité était d'intérêt général car elle participait au développement de la culture et du tourisme. Il y existe alors toute une jurisprudence autour de la question de la qualification d'intérêt général de l'activité culturelle.
+
+Dans l'==arrêt ASTRUC, en 1916==, on considère en effet que **la culture n'est pas une mission d'intérêt général, ce qui est d'ailleurs confirmé par Maurice Hauriou**. Mais cette appréciation a évolué dans le temps, et notamment avec l'arrêt Gueusi, dans lequel un théâtre était en jeu et avait été considéré comme supportant une activité d'intérêt général, car une personne publique s'assurait de la production artistique.
+
+Cet arrêt était encore assez ambigu, mais l'arrêt Dauphin est alors venu confirmer l'existence d'un service public culturel.
+
+Finalement, pour qu'une activité soit considérée d'activité de service public, elle doit être **rattachée à une personne publique soit directement, soit indirectement**. La **loi** peut ***caractériser directement le rattachement à une personne publique***, mais dans l'hypothèse où elle ne le fait pas, des **critères jurisprudentiels s'en chargent**. Le juge va alors regarder un **faisceau de 5 indices**, soient :
+- l'origine de la création, 
+- le contrôle éventuel de la personne effectué sur ses organes, 
+- l'origine de son financement, 
+- l'éventuelle mise à disposition de moyens humains et matériels par la personne publique et enfin, 
+- la détention de PPP.
+
+La collectivité peut également confier une mission de service public à une régie dotée d'une **autonomie financière et de la personnalité morale**, et peut ainsi créer un organisme privé uniquement chargé d'exercer cette mission et sur lequel elle exerce un contrôle total (==article L. 2221-10 du CGCT==). Souvent, le cadre juridique est un contrat par lequel la personne publique va donner la gestion du service public à personne privée. Mais il n'est pas indispensable, l'==arrêt Commune d'Aix En Provence, en 2007==, a permis de constater qu'il **peut y avoir un rattachement à un service public alors même que la personne publique n'a pas la charge de l'activité**.
+
+La question était alors de savoir si le festival, d'initiative privée, pouvait être considéré comme un service public. Les critères venaient l'infirmer, ainsi par cet arrêt le Conseil d'état a réalisé un revirement de jurisprudence, ouvrant ainsi une brèche pour permettre de caractériser cette activité de service public. « *Une activité créée par personne privée peut quand même se faire reconnaître comme SP si une personne publique, en raison de l'intérêt général qui s'y attache, de l'importance qu'elle y apporte, et exerce un droit de regard sur son organisation, et, le cas échéant, lui accorde des financements*. ».
+
+Cette solution a certes été rendue possible par le Conseil d'état, mais pas automatique. En ==2016, dans l'arrêt Sarl Cathédrale d'images==, il n'a pas caractérisé l'activité de service public, alors que la configuration été assez proche de l'arrêt précédent. Mais ici, la commune en cause n'avait aucun rôle dans la programmation et la tarification de l'activité, et la haute juridiction a alors dit que la commune n'avait pas de droit de regard sur l'organisation et le fonctionnement, et donc que cela ne justifiait en rien la caractérisation de service public.
+
+En l'espèce, nous nous retrouvons face à **une activité exercée par un personne privée**, elle n'est donc ***pas directement gérée par une personne publique*** et ***la qualification de service public est alors plus compliquée à atteindre*** que s'il s'agissait d'une personne publique. La qualification d'un festival organisé par une association, donc une personne morale de droit privé, n'est pas déterminée par la loi, et il convient alors d'observer sa correspondance avec les trois critères jurisprudentiels.
+
+Le **critère des prérogatives de puissances publiques ne s'applique pas au cas d'espèce**, sachant que l'association n'en dispose aucune. En effet, le fait qu'elle en dispose se caractériserait pas exemple dans une adhésion obligatoire, ce qui ne semble pas être le cas en l'espèce. Cependant, cela n'exclut pas le fait que son activité puisse être caractérisée de service public selon l'==arrêt Ville de Melun==, par le fait que **ce critère n'est plus indispensable aujourd'hui**.
+
+Néanmoins, **le critère d'intérêt général peut être observé**, puisqu'en l'espèce, il est dit que ce festival organisé par l'association ***fait bénéficier à la commune d'une certaine notoriété***.
+
+De plus, les enjeux qu'elle pourrait apporter à la commune semblent assez similaires à ceux décrits dans l'==arrêt Ville de Cannes==, car elle **participe au développement de la culture et du tourisme**. On peut en effet considérer que le festival de mime correspond à une activité culturelle. L'évolution jurisprudentielle, confirmant la caractérisation de la culture en tant qu'intérêt général, affirme de plus le fait que le festival organisé par l'association est en lien avec l'intérêt général.
+
+Finalement, il convient de regarder **le critère de la personne publique**. En effet, comme il est dit plus haut, l'***association en charge de l'activité est une personne morale de droit privée***, et donc on ne peut pas caractériser directement une personne publique. La loi ne caractérise ici pas directement le rattachement à la personne publique, il convient donc de se rapporter aux critères jurisprudentiels, donc le faisceau d'indices. Le festival a pour origine l'association, donc la personne privée.
+
+Ainsi, le premier critère n'est pas respecté. Par ailleurs, il ne semble ***pas que l'association détienne des prérogatives de puissance publique***, et il n'est ***pas précisé si la commune met à disposition des moyens humains ou matériels pour la réalisation de l'activité***. En revanche, les deux autres critères sont respectés, car en l'espèce, **les représentants de la commune sont majoritaires au sein du conseil d'administration**, et il est dit qu'une subvention est versée chaque année au bénéfice du festival, donc l'origine du financement est en partie réalisé par la commune. De plus, nous ne nous trouvons pas dans le cas où la personne publique a délibérément confié la gestion d'un service public à un personne privée, puisque l'association a créé le festival d'elle-même, puis la commune s'est ajoutée peu à peu à son fonctionnement. Ce n'est donc ici ***pas par un contrat que la coopération entre la commune et l'association s'est réalisée***. Cependant, par l'==arrêt Commune d'Aix En Provence==, le Conseil d'état a admis la possibilité qu'il pouvait **exister un rattachement à un service public alors même que la personne publique n'en avait pas la charge, par des faits assez proches de notre cas d'espèce.** En effet, comme nous l'avons démontré plus haut, ce festival peut être considéré comme une activité d'intérêt général. Par ailleurs, commune exerce un droit de regard sur l'activité, puisqu'elle est majoritaire au sein de conseil d'administration, et elle lui porte une importance particulière.
+
+Par la vérification de ces critères, il semblerait alors que l'**activité exercée par l'association puisse être caractérisée de mission de service public**, en vertu de la jurisprudence d'==Aix en Provence.==
+
+#### b. Sur la distinction entre SPIC et SPA
+
+Un festival de mime reconnu comme un service public est-il considéré comme un service public industriel et commercial (SPIC) ou un service public administratif (SPA) ?
+
+En droit, la notion de service public connait, par ailleurs, deux subdivisions.
+
+Certaines activités pourront alors être qualifiées de service public industriel et commercial (SPIC), tandis que d'autres connaitront la qualification de service public administratif (SPA). Un SPIC est un SP mais se rapproche bcp de ce que pourrait faire une entreprise privée. Le Conseil d'état a ainsi dégagé plusieurs critères en ==1956 par l'arrêt USIA==, afin de pouvoir **distinguer clairement ces deux catégories**. En principe, lorsque l'on se retrouve devant un service public, il s'agit généralement d'un SPA, mais **les critères permettent de créer une exception avec le SPIC**. 
+
+Le **législateur peut caractériser directement de SPIC ou de SPA des activités par la loi**, notamment comme l'==article L342-13 du code de tourisme== qui qualifie de SPIC l'exploitation des remontées mécanismes et des pistes de ski. 
+
+S'il n'y a pas de telle qualification directe, il s'agit d'appliquer les critères jurisprudentiels. Ce que dit l'==arrêt USIA de 1956== est que pour qu'**une activité soit érigée en SPIC**, il faut que **trois critères cumulatifs aillent en ce sens**. 
+- En premier lieu, il faut que l'activité en cause soit une activité de service ou de production susceptible d'être prise en charge par une personne privée. 
+- Ensuite, il faut que l'***essentiel des ressources proviennent de redevances acquittées par les usagers en contrepartie d'un service fourni,*** et finalement, le juge va observer avec un faisceau d'indices les modalités de fonctionnement et d'organisation, tels que le régime comptable, la détention ou non de PPP ou encore le statut des personnels. 
+- Par ailleurs, il apparait, au regard de la jurisprudence ==Aix-en-Provence==, que l'activité de gestion et d'organisation de festivals culturels constitue, en réalité, une activé de service public administratif (CE, 06/04/2007, Commune d'Aix-en-Provence).
+
+En l'espèce, il n'**existe pas de qualification directe du législateur pour une activité de festivals en SPIC ou en SPA**. Il convient alors de se tourner vers les critères établis par la jurisprudence. En l'espèce, il apparait, au regard des **nombreuses subventions accordées par la commune** à 'association, que ***son mode de financement principal ne soit pas d'origine privé***. Ainsi, alors que ces **critères jurisprudentiels sont cumulatifs**, on peut affirmer, sans avoir besoin de vérifier les deux autres, que l'activité de l'**association ne peut être érigée en SPIC**. 
+
+En outre, en rappelant la jurisprudence d'Aix en Provence, on remarque que pour des faits assez similaires, le Conseil d'état accordé à l'activité de festivals culturels un caractère largement administratif.
+
+Ainsi, le service public exercé en l'espèce par l'association peut être caractérisé de service public administratif.
+
+### B. Sur la recevabilité du moyen
+
+Une activité culturelle qualifiée de SPA peut-elle dépendre des dispositions du droit de la concurrence ?
+
+En droit, le droit de la concurrence, notamment issu du droit de l'Union Européenne, établit un contrôle strict de l'intervention des pouvoirs publics dans le domaine économique. Ainsi, l'attribution de subventions publiques à la personne chargée d'exécuter une activité économique de service public doit obéir à ce régime strict pour permettre de garantir la libre concurrence. La jurisprudence de la Cour de justice de l'Union Européenne a ainsi retenu que de telles subventions devaient être contrôlées, afin qu'elles n'attribuent pas un avantage concurrentiel, et ainsi qu'elles soient contraires au droit de la concurrence. Par l'arrêt Altmarck de 2003, la CJCE énonce alors que ces subventions doivent se limiter à la stricte couverture des dépenses engendrées par l'exercice de l'activité de service public. Le Conseil d'État a alors voulu s'accorder avec cette jurisprudence européenne avec plusieurs arrêts, notamment en 2017 avec la Société Corsica Ferries France, et en 2022 avec SNCF mobilités.
+
+Néanmoins, le champ d'application de ce droit de la concurrence doit être strictement limité aux sphères économiques. La CJCE a rappelé en 1987, commission contre l'Italie, que seules les activités économiques, offrant des biens et des services sur un marché précis, peuvent être soumises à une telle réglementation.
+
+Concernant les services publics, la catégorie des SPIC correspondrait directement avec une activité économique, mais par l'arrêt UNICEM en 2003, le Conseil d'État a admis des possibilités dans lesquelles une activité de SPA puisse correspondre à une activité économique. Il conviendrait alors, pour qualifier un SPA d'activité économique, de procéder par élimination des catégories d'activités non-économiques. On pourrait placer dans cette catégorie les activités régaliennes directement en lien avec l'exercice de prérogatives de puissance publique, comme relevé dans l'arrêt SAT Fluggesellschaft contre Eurocontrol en 1994 par la CJCE. Par ailleurs, les activités purement sociales fondées sur un principe de solidarité sont également exclues du droit de la concurrence par leur activité non-économique (CJCE, 17 février 1993, Poucet et Pistre).
+
+En l'espèce, l'association en question est qualifiée de SPA, comme observé plus haut, et ainsi il n'existe pas de critère matériel pour déterminer si elle est considérée comme une activité économique, contrairement aux SPIC. Le droit de la concurrence ne semble alors pas pouvoir lui être opposé. Néanmoins, on ne peut pas observer une certaine caractéristique purement régalienne directement en lien avec des prérogatives de puissance publique, ni purement sociale fondée sur un principe de solidarité. Ainsi, en vertu des arrêts Poucet et Pistre et SAT Fluggesellschaft contre Eurocontrol, cette activité dirigée par l'association ne semble pas pouvoir être exclue du domaine économique.
+
+De plus, en reprenant la définition d'une activité économique, l'activité de ce festival semble en effet offrir des services, soient le fait de regarder des spectacles, sur un marché économique, on pourrait caractériser cette activité d'économique. Cette activité peut alors être soumise au droit de la concurrence. Ainsi, en vertu de la jurisprudence Altmark, il conviendrait de s'assurer que l'attribution de ces subventions ne conduirait pas à accorder un avantage concurrentiel à l'association.
+
+Ainsi, l'invocation d'un tel moyen est subordonnée à la qualification de l'activité retenue, que ce soit un SPIC ou un SPA, et dépendra ainsi de la qualification retenue par le juge administratif, en charge de la qualification des services publics.

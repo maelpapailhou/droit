@@ -1,0 +1,1 @@
+Pas d’exception. (Arrêt de 1966, Dame veuve Canasse, à propos d’une chute mortelle dans une gare SNCF. Chute avant de prendre le train, donc contentieux judiciaire.)

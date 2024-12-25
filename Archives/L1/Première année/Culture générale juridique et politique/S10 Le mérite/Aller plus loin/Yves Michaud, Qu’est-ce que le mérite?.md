@@ -1,0 +1,11 @@
+"Qu'est-ce que le mérite?" est un livre écrit par Yves Michaud, philosophe français, publié en 2011. Dans cet ouvrage, Michaud se penche sur la notion de mérite et explore ses dimensions philosophiques, sociales et politiques.
+
+Michaud **remet en question l'idée traditionnelle selon laquelle le mérite est principalement lié aux compétences individuelles et au travail acharné**. Il critique l'idée selon laquelle les individus réussissent ou échouent en fonction de leurs seuls mérites personnels, en mettant en évidence l'*importance des circonstances sociales, économiques et historiques* dans lesquelles les individus évoluent.
+
+L'auteur explore également la manière dont le **mérite est construit et évalué socialement**. Il examine les critères et les normes utilisés pour juger du mérite dans différents domaines de la vie, tels que l'éducation, la carrière professionnelle, les arts, le sport, etc. Il souligne les biais et les injustices inhérents à ces évaluations, mettant en évidence les inégalités sociales qui peuvent en découler.
+
+Michaud aborde également la question de la légitimité du mérite comme principe de distribution des ressources et des opportunités dans une société. Il explore les tensions entre l'égalité et le mérite, et propose des réflexions sur la manière dont le mérite peut être pris en compte tout en garantissant une plus grande justice sociale.
+
+L'auteur examine également les débats politiques et sociaux entourant la notion de mérite, notamment la question de la méritocratie et ses conséquences sur la cohésion sociale et la mobilité sociale.
+
+En résumé, "Qu'est-ce que le mérite?" remet en question les conceptions traditionnelles du mérite et explore les dimensions philosophiques, sociales et politiques de cette notion. Yves Michaud propose une analyse critique des critères d'évaluation du mérite et des inégalités sociales qui en découlent, tout en examinant les débats autour de la légitimité du mérite comme principe de distribution des ressources dans la société. Cet ouvrage offre une réflexion approfondie sur la notion de mérite et ses implications dans nos sociétés contemporaines.,Gallimard, coll. «Folio essais», Paris, 2011.

@@ -1,0 +1,1 @@
+Un propriétaire qui fait une offre d'indemnisation à son locataire car il se croit, à tort, soumis au statut des baux commerciaux

@@ -1,0 +1,1 @@
+Léa et Robert vivent ensemble depuis douze ans. Ils ont conclu un PACS il y a trois ans. Léa voudrait aujourd’hui quitter Robert ; elle se demande si elle peut décider seule de rompre le PACS sans devoir verser de compensation financière à Robert pour cette rupture unilatérale.

@@ -1,0 +1,1 @@
+Déclinaison du principe de continuité de l'État, **le principe de continuité des services publics a valeur constitutionnelle**

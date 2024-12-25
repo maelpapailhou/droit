@@ -1,0 +1,41 @@
+La première approche a pour objectif de regarder la position de l'administration au sein des différents organes de l'État. Il s'agit alors de traiter les moyens que l'administration emploie pour exercer ses missions. **La fonction principale qui incombe à l'administration est d'exécuter la loi**. Traditionnellement, l'administration exécute et applique la loi, c'est-à-dire qu'elle met en œuvre le contenu de la loi. La fonction d'exécuter la loi est héritée de la philosophie des Lumières, en particulier de la théorie de la séparation des pouvoirs.
+
+Une théorie qui certes est traduite dans le droit positif depuis 1789, toutefois, il faut tout de suite nuancer en complétant. Pourquoi faut-il nuancer cette idée selon laquelle l'administration exécute la loi et elle fait que cela parce que c'est en partie faux et plus totalement d'actualité ?
+
+En premier lieu, les tâches dont s'acquittent les **organes de l'exécutif** (président, gouvernement) ne **se limitent pas à la seule exécution de la loi**. 
+- D'autres fonctions, rôles, missions que ces organes institués exercent aujourd'hui, d'un ordre politique et d'un ordre juridique. 
+- Par exemple, selon la Constitution de la Cinquième République, les **organes exécutifs participent aussi à la fonction législative**. 
+- Le gouvernement a l'**initiative pour la loi**, c'est le gouvernement qui en principe propose des projets de loi au gouvernement. Le gouvernement est composé de l'Assemblée Nationale et du Sénat, qui sont libres de voter le texte ou non. 
+- Le gouvernement et le président, surtout le gouvernement, ont l'initiative des lois.
+
+Ensuite, d'autres organes, surtout le président, parmi les deux organes selon la même Constitution, sont chargés de la **conduite des affaires étrangères, la représentation internationale de la France**. La conduite des relations extérieures du pays. 
+- Le président va choisir avec quel État les traités internationaux sont conclus et en tant que chef des armées pourrait déclarer la guerre. 
+- L'exécution de la loi à proprement parler n'est qu'une des fonctions des organes qu'on qualifie traditionnellement d'exécutif.
+
+Ensuite, si on se cantonne dans le champ de l'**application de la loi, de** quoi parle-t-on ? Que signifie, que recouvre l'expression "**exécution de la loi**" ? Une série d'opérations peuvent être imbriquées, incluses sous ce champ qui est celui d'exécuter la loi au sens large, sens restreint, de manière intermédiaire, etc. 
+- Avant tout, pour que la loi puisse être exécutée, avant tout, **elle doit être connue**. En tout cas, dans les *sociétés civilisées, démocratiques, le droit doit être accessible à tous*. 
+- La première condition de cette connaissance est de diffuser les textes, et en particulier les lois qui sont l'incarnation de la volonté des représentants du peuple.
+- Pour connaître alors la loi, **il faut la diffuser**, et pour la diffuser, il faut alors la publier. En France, le système de **diffusion des normes passe par le Journal Officiel de la République Française**. 
+	- L'accès au droit informatisé aujourd'hui permet au plus grand nombre en théorie via le site legifrance.gouv.fr, qui est donc le portail français d'accès au contenu des règles qui sont en vigueur. 
+	- Les textes votés par le Parlement, les textes réglementaires, les traités internationaux qui engagent la France sont publiés dans le Journal Officiel et aussi en version numérique sur Legifrance.
+
+La diffusion de la loi signifie aussi la **codification des textes**, une meilleure connaissance des textes. Ils doivent être présentés de *manière cohérente, claire et intelligible* (terme utilisé dans la **jurisprudence**). Le Code civil, le Code général des impôts sont des **codifications** qui permettent une **meilleure diffusion de la loi**. L'exécution de la loi peut aussi passer par la codification.
+
+L'**exécution** à proprement parler peut être **juridique, normative et aussi matérielle, réelle**. 
+- L'**exécution normative et juridique des textes** signifie que l'administration se voit dotée d'une compétence d'adopter des actes administratifs, réglementaires. Cela signifie que l'administration peut prendre et mettre des règlements. 
+- Un autre type de texte par rapport à la loi est le **règlement adopté par les organes de l'administration en vue d'exécuter la loi**. 
+	- Si on se place sur le terrain de la hiérarchie entre textes, la loi se superpose par rapport aux règlements (les règlements sont placés sous les lois). 
+	- D'un point de vue de la hiérarchie des normes, les deux, par rapport successifs, sont placés sous l'autorité de la Constitution.
+
+Du point de vue des **règlements**, il existe **différents types de textes** qui peuvent être **adoptés par des organes administratifs**, tels que **des décrets, des arrêtés et des circulaires**. 
+- **Les décrets**, selon la Constitution, relèvent **uniquement du Président de la République**. Certains actes peuvent être adoptés uniquement par le Président, par exemple pour certaines catégories de fonctionnaires. 
+- **Les arrêtés** sont une autre catégorie au sein des normes réglementaires qui **relèvent des ministres**, mais pas seulement, car des ***arrêtés déconcentrés peuvent également être pris par les préfets, les maires ou les recteurs***. 
+	- Ils peuvent concrétiser une loi d'un point de vue juridique et exécuter le champ d'action qui incombe aux organes institués de la loi votée par le Parlement (unions, ministères, etc.). Ils rendent ainsi plus lisible le cadre d'action, non seulement pour les organes qui exécutent la loi, mais également pour les usagers. 
+	- Il y a donc deux catégories de destinataires : le public (les citoyens, les usagers) et les agents (car ce sont eux qui doivent être en mesure de la mettre en action).
+
+Lorsque l'on parle de règlement pour le juxtaposer à la loi, **un règlement est un acte administratif unilatéral (c'est-à-dire non négocié) à caractère normatif (il contient une norme, un modèle de comportement qui est inclus dans le texte).** 
+- Il a une **portée générale et impersonnelle** et permet de distinguer les actes administratifs unilatéraux des actes administratifs individuels. Un règlement est un acte qui émane de l'administration et a pour vocation de conduire le comportement par les moyens du droit, par des moyens impersonnels et généraux. Les règlements sont supposés compléter la loi et mettre en œuvre les dispositions législatives. C'est la raison pour laquelle la hiérarchie entre les normes (loi et règlements) va de pair avec une hiérarchie fonctionnelle (la fonction législative étant supposée être prioritaire en matière normative par rapport à la fonction réglementaire et administrative). D'où l'idée parfois évoquée de règlement d'application de la loi. La première fonction des règlements (textes réglementaires, décrets, arrêtés, circulaires) est de matérialiser le contenu de la loi (l'idée de subordination du règlement à la loi).
+
+Le deuxième cas d'exécution de la loi est un préalable nécessaire à l'**exécution matérielle de la loi**, c'est-à-dire que l'**administration doit fournir des prestations en nature telles que des services publics, des soins médicaux**, des accès à des piscines municipales, etc. Ces prestations pour le public sont issues des textes réglementaires qu'elle applique pour matériellement proposer un service public, par exemple, enseigner ou soigner, ou encore fournir des prestations financières telles que les caisses d'allocations, les systèmes de bourses existant par région ou niveau, etc. Ces textes réglementaires permettent à l'administration de mettre en œuvre et d'exécuter la loi par la force de normes législatives et réglementaires contraignantes, ce qui distingue la personne morale État des autres personnes.
+
+Plus on descend dans la hiérarchie des normes, plus on descend dans la hiérarchie entre les fonctions, et plus notre exécution sera précise. La loi est supposée couvrir un plus grand nombre de généralités qui peuvent lui être associées. La loi est générale, puis il y a les actes administratifs individuels qui découlent de la loi, et enfin les actes administratifs généraux qui permettent l'exécution concrète du système juridique.

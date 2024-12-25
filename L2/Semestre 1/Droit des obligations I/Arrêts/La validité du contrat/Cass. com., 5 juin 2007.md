@@ -1,0 +1,1 @@
+		- Cass. com., 5 juin 2007, portant sur des contrats de vente, de location et de maintenance). 

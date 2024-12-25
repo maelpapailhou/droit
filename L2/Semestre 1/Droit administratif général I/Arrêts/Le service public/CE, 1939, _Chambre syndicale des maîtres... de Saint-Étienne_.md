@@ -1,0 +1,1 @@
+de 1939, le CE (_Chambre syndicale des maîtres... de Saint-Étienne_) a jugé que la création de bains-douches communaux par la ville de Saint-Étienne ne violait pas cette liberté, car les bains-douches relevaient d’une mission de salubrité publique.

@@ -1,0 +1,9 @@
+"la délégation à une personne privée des compétences de police administrative générale, inhérente à l'exercice de la force publique nécessaire à la garantie des droits, est contraire à la Constitution". Cette décision, rendue à l'époque à propos de la loi d'orientation et de programmation sur la sécurité intérieure, a été réaffirmée en 2017. 
+
+Cette règle est même devenue un principe inhérent à l'identité constitutionnelle de la France, selon une décision du Conseil constitutionnel (2021-240 QPC du 15 octobre 2021, société Air France 2). 
+
+Le **principe inhérent à l’identité constitutionnelle** de la France impose une limite à l'Union européenne. En cas de conflit entre une norme française et une norme européenne, c’est généralement la norme européenne qui s'applique. Toutefois, il existe des exceptions, dont les principes inhérents à l’identité constitutionnelle de la France. Avant, cette catégorie existait sans contenu précis, mais cette décision marque un premier élément dégagé par le Conseil constitutionnel, permettant de poser une limite à la primauté des normes européennes.
+
+Cependant, la portée de ce principe est nuancée. Seules deux activités matérielles de police relèvent exclusivement de la compétence des autorités de police : la surveillance des personnes réacheminées et l'exercice de la contrainte sur ces personnes.
+
+Dans l'affaire Air France, la compagnie avait été sanctionnée pour ne pas avoir réacheminé dans leur pays d'origine deux étrangers expulsés. Le Code de l'entrée et du séjour des étrangers et du droit d'asile impose aux compagnies aériennes cette obligation. Le Conseil constitutionnel précise que seule la surveillance des personnes et l'exercice de la contrainte relèvent de la mission de police, mais le réacheminement lui-même n'est pas une mission de police.

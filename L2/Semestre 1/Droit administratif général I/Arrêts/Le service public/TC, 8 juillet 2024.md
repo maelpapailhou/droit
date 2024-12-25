@@ -1,0 +1,1 @@
+A tenu compte de l’objet du service, et surtout de l’origine des ressources constituées « principalement du prix acquitté par les usagers ». Il a aussi pris en compte les modalités de fonctionnement « marquées par la pluralité des intervenants publics ou privés », alors même que ce service des pompes funèbres est assuré en régie par la commune de Toulouse.

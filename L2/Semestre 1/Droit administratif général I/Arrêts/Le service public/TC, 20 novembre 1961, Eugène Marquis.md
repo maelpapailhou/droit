@@ -1,0 +1,1 @@
+Admet également que la création d'un terrain de camping municipal est un service public. 

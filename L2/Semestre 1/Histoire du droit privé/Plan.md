@@ -1,0 +1,73 @@
+Thème 1 — Histoire du droit de la famille
+- **Partie 1 : L'héritage de l'antiquité**
+	- Section 1 : La famille romaine
+		- Paragraphe 1 : la fluidité du lien matrimonial
+			- A) L’accord de volonté
+			- B) Une alliance imparfaite
+		- Paragraphe 2: la rigueur de la construction généalogique
+	- Section 2 : La famille germaine 
+		- Paragraphe 1: le mariage germain
+		- Paragraphe 2 : La parenté germaine 
+			- A) La famille élargie
+			- B) La famille ordinaire
+- **Partie 2 — La famille au Moyen-Âge**
+	- Chapitre 1 : la sanctification du lien matrimonial
+		- Section 1 : le contrôle exercé par l'église
+			- Paragraphe 1 : les instruments de contrôle de l'Eglise
+			- Paragraphe 2 : les buts de la discipline de la population
+		- Section 2 : l'institutionnalisation du mariage
+			- Paragraphe 1 : le consensualisme affirmé : la formation du lien matrimonial
+			- Paragraphe 2 : le consensualisme encadré : la théorie des nullités
+				- A) Les empêchements dirimants
+					- 1) Les empêchements dirimants absolu
+					- 2) Les empêchements dirimants relatifs
+				- B) Les empêchements prohibitifs
+		- Section 3 : le modele généalogique de l'église
+			- Paragraphe 1 : la filiation légitime
+				- A) La qualité d'enfant légitime
+				- B) Les effets de la filiation légitime
+			- Paragraphe 2 : La filiation hors mariage
+	- Chapitre 2 : La protection des intérêts patrimoniaux dans le mariage. 
+		- Section 1 : la gestion des patrimoines : une pratique différenciée. 
+			- Paragraphe 1: le régime Dotal
+			- Paragraphe 2 : le régime communautaire
+		- Section 2 : la liquidation des régimes matrimoniaux
+			- Paragraphe 1 : la dissolution de la communauté
+				- A) les causes de la dissolution
+				- B) la répartition des biens à la dissolution de la communauté
+			- Paragraphe 2 : la protection du conjoint survivant
+
+- **Partie 3 : La sécularisation du droit de la famille**
+	- Chapitre 1 : la laïcisation de l’ordre familial
+		- Section 1 : le contrôle de l’état sur le mariage
+			- Paragraphe 1 : la crise du modèle religieux 
+				- A) La conception protestante du mariage
+				- B)?
+			- Paragraphe 2 : l'affirmation croissante d’une tutelle étatique
+				- A) Les interventions législatives
+				- B) La construction jurisprudentielle
+		- Section 2 : L'encadrement monarchique des rapports de filiation
+			- Paragraphe 1 : La filiation légitime
+	- Chapitre 2 : La libéralisation des rapports personnels du 18ème au 21ème siècle
+		- Section 1 : la famille refondée
+			- Paragraphe 1 : le mariage révolutionnaire 
+			- Paragraphe 2 : les rapports de filiation à la Révolution
+		- Section 2 : la famille ordonnée au 19ème siècle
+			- Paragraphe 1 : le mariage au 19ème siècle
+			- Paragraphe 2 : la filiation au 19ème siècle
+				- A) Les fondements de la puissance paternelle
+				- B) Le maintient de l’égalité successoral
+		- Conclusion sur la famille au 20ème siècle
+
+Thème 2 — Histoire du droit des contrats
+- Partie 1 : L'héritage du droit romain
+	- Chapitre 1 : la typologie des contrats romains.
+		- Section 1 : les contrats formels de l’ancien droit romain
+			- Paragraphe 1 : les contrats formels primitifs
+				- A) La « mancipatio »
+				- B) Le « nexum »
+			- Paragraphe 2 : les contrats formels de l’époque classique. 
+				- A) Le contrat verbis
+				- B) Le contrat literris
+		- Section 2 : Les contrats réels
+			- Paragraphe 1 : le contrat réel de droit strict

@@ -1,0 +1,1 @@
+Ainsi, une fois l’activité créée, la personne publique ne doit pas fausser la concurrence, concernant l'IGN qui loue du matériel de photographie aérienne. La location de matériel est légale car considérée comme une activité annexe, et elle respecte les tarifs de marché. Il faut donc qu'au-delà de la création, l'activité respecte les règles de la concurrence.

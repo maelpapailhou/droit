@@ -1,0 +1,1 @@
+Puis, dans l'arrêt **Chambre syndicale de Nevers**, on aborde le secteur alimentaire, notamment durant l’entre-deux-guerres. Progressivement, d'autres besoins que ceux jugés essentiels sont pris en compte. Par exemple, la création d’un camping municipal a été validée dans l'arrêt **1964 Commune de Verville**.

@@ -1,0 +1,3 @@
+Une personne achète un immeuble pour le mettre en location. Elle s’aperçoit que le marché locatif est très mauvais et qu’elle ne tire pas toute la rentabilité espérée de l’immeuble. 
+
+“L’appréciation erronée de la rentabilité économique de l’opération n’est pas constitutive d’une erreur sur la substance de nature à vicier le consentement du contractant à qui il appartenait d’apprécier la valeur économique et les obligations qu’il souscrivait”. 

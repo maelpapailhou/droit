@@ -1,0 +1,7 @@
+Les avantages comparatifs sont un **concept économique** développé par *David Ricardo* au XIXème siècle qui se **réfère à la capacité relative d'un pays à produire un bien ou un service à un coût inférieur à celui d'un autre pays**. En d'autres termes, les avantages comparatifs décrivent les **domaines dans lesquels un pays est plus compétitif qu'un autre**, en *termes de coûts de main d'œuvre, de matières premières ou de technologie*.
+
+Selon la théorie des avantages comparatifs, les **pays devraient se spécialiser dans les domaines où ils ont des avantages comparatifs** et *échanger avec d'autres pays pour des produits où ils ont des désavantages comparatifs*. Cela permet aux pays de **bénéficier de gains de productivité et de croissance économique** en utilisant *efficacement leurs ressources*.
+
+Cette théorie est souvent utilisée pour expliquer les **tendances commerciales entre les pays**, et *pourquoi certains pays peuvent être plus compétitifs que d'autres dans certaines industries*.
+
+Elle a également des implications pour la politique économique, en soutenant que les **politiques protectionnistes** qui cherchent à *protéger les industries domestiques* peuvent être **contre-productives**, car elles peuvent **empêcher les pays de se spécialiser dans les domaines où ils ont des avantages comparatifs**.

@@ -1,0 +1,1 @@
+exemple de l’==alinéa 4==, pas assez précis, devant être explicité par une loi.  

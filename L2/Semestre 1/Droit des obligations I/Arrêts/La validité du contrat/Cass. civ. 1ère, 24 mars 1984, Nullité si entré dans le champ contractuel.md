@@ -1,0 +1,1 @@
+En revanche, la nullité ne peut être obtenue lorsque le doute sur l'authenticité est entré dans le champs contractuel. Tel est le cas lorsque est vendu un tableau « attribué à... ». La dissipation ultérieure de tout doute sur ce point n'a pas permis d'obtenir l'annulation du contrat.

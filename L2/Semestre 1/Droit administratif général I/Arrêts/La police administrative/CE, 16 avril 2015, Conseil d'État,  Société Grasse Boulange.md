@@ -1,0 +1,3 @@
+Il serait préférable d’avoir une police spéciale nationale pour ce genre de questions relatives à la dignité de la personne humaine. Un arrêt confirmant que la dignité appartient à la composante de l'ordre public est celui du 16 avril 2015, Conseil d'État, _Société Grasse Boulange_. Dans cette affaire, une boulangerie-pâtisserie proposait des pâtisseries représentant des personnages dans une situation obscène, et le maire avait interdit leur exposition. (N° 389372).
+
+Le Conseil d'État n'a pas suivi le maire, estimant que même si l'exposition de ces pâtisseries était de nature à choquer, elle ne constituait pas en elle-même une atteinte à la dignité humaine, donc il n’y avait pas de trouble à l'ordre public.

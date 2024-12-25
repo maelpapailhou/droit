@@ -1,0 +1,15 @@
+- État de droit : C'est un principe fondamental selon lequel l'exercice du pouvoir doit être soumis à la loi. L'État de droit implique que tous, y compris les gouvernants, sont soumis aux lois et aux règles juridiques. Il garantit la protection des droits fondamentaux, la séparation des pouvoirs, l'indépendance judiciaire et l'accès à la justice.
+
+- Principe de constitutionnalité : C'est le principe selon lequel la constitution est la norme suprême de l'ordre juridique. Il implique que toutes les lois et les actes des pouvoirs publics doivent être conformes à la constitution. Ce principe permet de garantir la primauté de la constitution et la protection des droits et libertés fondamentaux.
+
+- Justice constitutionnelle : C'est le domaine du système judiciaire qui traite des questions relatives à la constitution et à la conformité des lois et des actes aux normes constitutionnelles. La justice constitutionnelle est chargée de veiller au respect de la constitution et de garantir sa primauté.
+
+- Cour suprême / Cour constitutionnelle : Il s'agit d'une juridiction qui a le pouvoir de décider des questions constitutionnelles. Une cour suprême est la plus haute instance judiciaire d'un pays, tandis qu'une cour constitutionnelle est spécifiquement chargée de juger de la conformité des lois à la constitution.
+
+- Contrôle de constitutionnalité : C'est le processus par lequel une cour constitutionnelle ou une autre autorité compétente examine la conformité d'une loi, d'un acte législatif ou d'une action gouvernementale à la constitution. Le contrôle de constitutionnalité vise à garantir que les lois et les actes sont conformes aux principes constitutionnels.
+
+- Exception d'inconstitutionnalité : C'est un mécanisme juridique qui permet à un individu de contester la constitutionnalité d'une loi dans une procédure judiciaire. L'exception d'inconstitutionnalité permet à une personne de soulever l'argument selon lequel une loi ou une disposition législative est contraire à la constitution et doit être invalidée.
+
+- Question prioritaire de constitutionnalité : C'est un mécanisme juridique qui permet à une juridiction ordinaire de soumettre une question de constitutionnalité à la cour constitutionnelle. Cela permet à une juridiction de demander à la cour constitutionnelle de se prononcer sur la conformité d'une loi à la constitution.
+
+- Bloc de constitutionnalité : C'est l'ensemble des textes juridiques ayant une valeur constitutionnelle dans un système juridique donné. Le bloc de constitutionnalité peut inclure non seulement la constitution formelle, mais aussi d'autres textes ayant une valeur constitutionnelle, tels que des traités internationaux ou des principes généraux du droit. Ces textes font partie intégrante de l'ordre constitutionnel et doivent être respectés et appliqués par les pouvoirs publics.

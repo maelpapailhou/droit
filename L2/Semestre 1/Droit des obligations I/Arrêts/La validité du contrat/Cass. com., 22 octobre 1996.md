@@ -1,0 +1,4 @@
+
+Une entreprise avait confié un colis à la société Chronopost qui l'avait perdu. Elle réclamait 500 000 francs de dommages et intérêts au titre de la perte de chance d'avoir pu participer à un marché, et Chronopost lui opposait la clause qui plafonnait sa responsabilité au coût du service (soit 30 francs). 
+
+La Cour avait retenu que « viole l'article 1131 du code civil la cour d'appel qui fait application d'une clause limitative de responsabilité, alors qu'en raison du manquement du débiteur à une obligation essentielle, cette stipulation qui contredit la portée de l'engagement pris, doit être réputée non écrite ».

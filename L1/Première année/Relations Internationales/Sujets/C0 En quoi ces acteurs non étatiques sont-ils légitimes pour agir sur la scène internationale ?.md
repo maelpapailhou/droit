@@ -1,0 +1,1 @@
+Il y a une crise de la souveraineté, des pouvoirs de l’État sur la scène internationale. Les États sont dépassés sur la scène internationale par ces acteurs. Les états ne sont plus les seuls acteurs de relations internationales (phénomène du 20e siècle).

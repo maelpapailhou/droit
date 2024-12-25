@@ -1,0 +1,1 @@
+La nature juridique d'un service public n'est pas immuable. Par exemple, dans l'affaire du bac d'Eloka, le transport maritime de personnes a été qualifié de SPIC. Pourtant, en 1974, l'arrêt **CE, Denoyez et Chorques** concernant le transport maritime entre la Charente-Maritime et l'île de Ré a qualifié cette activité de SPA. 

@@ -1,0 +1,12 @@
+ Paris, LGDJ, 1998, p. 32-120
+Les pages 32 à 120 de l'ouvrage "Politique internationale" de Josepha Laroche présentent une analyse détaillée de la notion de politique internationale, de son évolution historique et des enjeux contemporains de la politique internationale.
+
+Dans les premières pages de l'ouvrage, l'auteur définit la notion de politique internationale en la distinguant de la politique intérieure et en soulignant sa dimension interétatique et transnationale. Elle analyse ensuite l'évolution historique de la politique internationale, en insistant sur les transformations de la diplomatie et sur l'émergence de nouveaux acteurs internationaux, tels que les organisations internationales et les groupes de la société civile.
+
+L'auteur examine également les différents modèles d'analyse de la politique internationale, tels que le réalisme, le libéralisme, le constructivisme et le féminisme, en soulignant les forces et les limites de chacun de ces modèles. Elle insiste sur la nécessité d'une analyse critique des relations de pouvoir dans les relations internationales, en prenant en compte les dimensions de genre et les perspectives des pays du Sud.
+
+Dans les pages suivantes, l'auteur analyse les enjeux contemporains de la politique internationale, tels que la globalisation, les conflits internationaux, la coopération internationale et les défis environnementaux. Elle souligne notamment l'importance de la coopération internationale pour répondre aux défis mondiaux et la nécessité de prendre en compte les perspectives des pays du Sud dans les décisions politiques internationales.
+
+Enfin, l'auteur examine la notion de sécurité internationale, en analysant les différentes dimensions de la sécurité, telles que la sécurité économique, la sécurité militaire, la sécurité environnementale et la sécurité humaine. Elle souligne l'importance d'une approche holistique de la sécurité internationale, qui prenne en compte les dimensions politiques, économiques, sociales et environnementales de la sécurité.
+
+En somme, les pages 32 à 120 de l'ouvrage "Politique internationale" de Josepha Laroche offrent une analyse approfondie de la notion de politique internationale, de son évolution historique et des enjeux contemporains de la politique internationale, en mettant l'accent sur la nécessité d'une analyse critique des relations de pouvoir et sur la prise en compte des perspectives des pays du Sud.

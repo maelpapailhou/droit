@@ -1,0 +1,4 @@
+Les usagers ne peuvent pas invoquer des « droits acquis » au maintien du service public. C’est la règle de parallélisme des formes. S'il existe une base légale ou conventionnelle, alors oui, sinon non. 
+
+---
+Ce principe a pour conséquence **que les usagers des services publics n'ont pas de droits acquis au maintien en vigueur d'une réglementation**, puisque les modalités d'organisation et de fonctionnement du service doivent changer pour s'adapter à ces nécessités d'intérêt général. Si le service public est seulement facultatif, les usagers n'ont pas même droit au maintien du service lui-même, qui peut donc être supprimé si son gestionnaire estime qu'une telle adaptation est nécessaire (CE, sect., 27 janv. 1961, Vannier).

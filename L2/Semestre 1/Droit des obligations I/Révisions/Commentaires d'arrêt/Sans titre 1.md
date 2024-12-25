@@ -1,0 +1,1 @@
+https://www.doc-du-juriste.com/droit-prive-et-contrat/droit-des-obligations/commentaire-d-arret/cour-cassation-chambre-commerciale-11-avril-2012-erreur-motifs-contrat-485290.html

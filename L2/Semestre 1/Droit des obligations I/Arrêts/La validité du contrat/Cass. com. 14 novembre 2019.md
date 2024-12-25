@@ -1,0 +1,1 @@
+Les publicités du promoteur immobilier peuvent ainsi avoir pour effet d'intégrer dans le champ contractuel le but de défiscalisation (sur la valeur contractuelle que peuvent avoir les documents publicitaires s'ils sont précis et détaillés)

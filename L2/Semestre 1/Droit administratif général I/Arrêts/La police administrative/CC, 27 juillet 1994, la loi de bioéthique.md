@@ -1,0 +1,2 @@
+Conseil constitutionnel du 27 juillet 1994 sur la loi de bioéthique
+La **sauvegarde de la dignité de la personne humaine contre toute forme d'asservissement et de dégradation** est un principe à valeur constitutionnelle, depuis la décision du Conseil constitutionnel du 27 juillet 1994 sur la loi de bioéthique qui donne déjà un fondement constitutionnel à la dignité. Notion assez restrictive, par exemple, arrêt Commune d'Arcueil, messagerie rose, non attentatoire à la dignité humaine.

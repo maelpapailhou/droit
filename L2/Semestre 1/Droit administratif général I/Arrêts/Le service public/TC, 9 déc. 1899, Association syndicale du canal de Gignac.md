@@ -1,0 +1,1 @@
+la proximité d'un organisme avec le service public permettait seulement, dans certaines hypothèses, de qualifier la nature de l'organisme en le considérant comme une personne morale de droit public
