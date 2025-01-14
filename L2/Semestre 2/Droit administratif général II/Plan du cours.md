@@ -1,0 +1,11 @@
+Titre 1 : Les moyens juridiques de l'administration
+- Chapitre 0 : Préambule
+- Chapitre 1 : Les actes administratifs
+	- Section 1 : la notion d'acte administratif unilatéral
+		- Paragraphe 1 : le critère organique
+			- A) Les actes pris par une autorité administrative
+				- Hypothèse 1 : Corrélation entre la personne publique et l’autorité administrative
+				- Hypothèse 2 : Autorité administrative non liée à une personne publique (AAI)
+			- B) Les actes pris par les particuliers
+				- 1) Théorie du fonctionnaire de fait
+				- 2) Actes accomplis par les personnes morales de droit privés

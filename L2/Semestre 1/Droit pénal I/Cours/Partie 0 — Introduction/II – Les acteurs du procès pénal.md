@@ -1,0 +1,29 @@
+Le processus qui mène au jugement des infractions pénales se réalise par **l'intervention de divers acteurs, et le code de procédure pénale fixe le rôle de chacun.** L’acteur essentiel est « la juridiction pénale » : tribunal de police, cour criminelle. Il existe également les parties au procès pénal, parmi lesquelles la partie avec le rôle le plus actif est le demandeur, c'est-à-dire le ministère public. **Le ministère public** est un **corps hiérarchisé** dont le sommet est occupé par le ministre de la Justice (garde des Sceaux). Celui-ci a **un statut particulier, car il est extérieur au ministère public, bien qu'il le chapeaute.** En vertu de **l’article 5 de l’ordonnance du 22 décembre 1958**, il est précisé que « les magistrats du parquet sont placés sous la direction et le contrôle de leur chef hiérarchique et sous l’autorité du garde des Sceaux. » Cette autorité s’exprime notamment via **l’article 30 du code de procédure pénale**, qui consacre ce que l’on appelle **« les instructions générales »** que le ministre peut donner au parquet. Ce texte, issu de **la loi du 9 mars 2004**, consacre une pratique très ancienne. Cela signifie que **chaque année, le ministre peut adopter une circulaire précisant la politique pénale nationale.** Cette pratique des instructions générales ne doit pas être confondue avec les instructions particulières, qui concernent des dossiers précis. **La loi du 25 juillet 2013** a supprimé la possibilité pour le garde des Sceaux de donner des instructions particulières dans certains dossiers **(ancien article 30, alinéa 3 du code de procédure pénale).**
+
+_Autour du ministère public, une controverse importante existe._ L’idée est de savoir si les magistrats du parquet méritent **la qualification de magistrats.** Notamment, la Cour européenne pose un certain nombre d’exigences pour que la personne poursuivie soit présentée à un magistrat dans un délai raisonnable. La question sous-jacente est celle de l’indépendance ou de la dépendance du parquet. **La Cour européenne des droits de l’homme (CEDH)** rappelle régulièrement la France à l’ordre sur l’indépendance des magistrats du parquet. À titre d’exemple :
+
+- **CEDH, 29 mars 2010, Medvedyev c. France** : les magistrats doivent présenter les garanties requises d’indépendance à l’égard de l’exécutif et des parties.
+- **CEDH, 23 novembre 2010, Moulin c. France** : le procureur ne dispose pas des garanties nécessaires pour être considéré comme un magistrat au sens de la Convention.
+- **CEDH, 7 juin 2013, Vassis c. France** : une privation de liberté durant 18 jours, à la suite d’une interception en mer sur la seule intervention du parquet, ne respecte pas les exigences de contrôle des atteintes à la liberté individuelle par un juge habilité à exercer les fonctions judiciaires.
+
+Une réforme a été annoncée en juillet 2020 sur l’indépendance des magistrats du parquet et du siège. Il faudra probablement passer par une révision constitutionnelle, puisque les statuts des magistrats du parquet et du siège sont prévus par la Constitution.
+
+**La police judiciaire** a pour rôle de constater les infractions, d’identifier les auteurs et complices des faits, et de rechercher des preuves. La police judiciaire intervient dès l’enquête préliminaire, c’est-à-dire après la commission de l’infraction. (Ne pas confondre avec la police administrative, qui intervient à titre préventif pour empêcher la réalisation d’infractions.) La police judiciaire est composée d’officiers de police judiciaire (OPJ), d’agents de police judiciaire (APJ), et d’agents de police judiciaire adjoints (APJA). Elle dispose de pouvoirs d’investigation pouvant porter atteinte aux libertés individuelles (par exemple, des constats). L’activité de la police judiciaire doit nécessairement être chapeautée par un magistrat (protecteur des libertés individuelles). Au début de l’affaire, c’est le parquet qui supervise l’activité de la police judiciaire. Mais si le procureur requiert l’ouverture d’une instruction, dans ce cas, c’est un juge d’instruction qui dirige les enquêtes et donne des ordres.
+
+Il existe deux types d’ordres :
+
+1. **Les mandats** : mandat d’arrêt, mandat de comparution, ou mandat de dépôt.
+2. **Les commissions rogatoires** : commission rogatoire de perquisition, commission rogatoire de saisie, ou commission rogatoire permettant la mise sur écoute.
+
+En matière de procès pénal, la demande est en principe réservée au parquet (ministère public). On dit qu’il est **« le bras armé de la vengeance publique ».** Le ministère public est composé de procureurs généraux, de procureurs de la République, de substituts du procureur, et d’avocats généraux. Le ministère public intervient à deux moments clés du procès pénal :
+
+1. Lors du déclenchement du procès pénal. On dit qu’il détient **le monopole de l’exercice des poursuites pénales** **(article 40 du code de procédure pénale)**.
+2. Lorsqu’il est saisi d’une affaire, il apprécie tant la légalité (le droit de poursuivre) que l’opportunité (le bien-fondé de poursuivre).
+
+À partir de là, plusieurs décisions sont possibles :
+
+- **Classement sans suite ou sous conditions** (par exemple, indemnisation). Ces décisions doivent être motivées.
+- Recours à une médiation pénale, une transaction pénale, ou une comparution sur reconnaissance préalable de culpabilité (CRPC).
+- Ouverture d’une instruction ou renvoi de l’affaire devant une juridiction de jugement.
+
+Lorsqu’une personne est renvoyée devant une juridiction de jugement, le ministère public soutient la prévention. On dit souvent qu’à l’audience, **« la parole du ministère public est libre, mais sa plume est serve ».** Par exception, **l’article 2 du code de procédure pénale** permet aux victimes d’infraction de saisir les juridictions répressives à condition qu’elles aient souffert personnellement et directement de l’infraction.

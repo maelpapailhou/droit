@@ -1,0 +1,160 @@
+---
+
+---
+ABSENT
+
+## Section 1 : La désignation de la personne physique responsable
+
+### Paragraphe 1 : Le principe de la responsabilité pénale personnelle
+
+---
+
+#### A) La définition de l'auteur de l'infraction
+
+
+- dabord prendre en def auteur de infraction : code pénal certians indices/elements ; 2 distinction : l'auteur matériel et auteur intellectuel
+
+##### 1) L'auteur direct et indirect d'une infraction non-intentionnelle
+
+La distinction actuelle résulte de la ==loi du 10 juillet 2000==, qui a réformé les infractions d’imprudence.
+
+Le législateur a modifié l’==article 121-3 du Code pénal==, article central définissant les fautes pénales. Désormais, les ==alinéas 3 et 4 ==distinguent l’auteur **direct** de l’auteur **indirect**.
+
+> **Article 121-3 al. 3 et 4 (modifié par la loi du 10 juillet 2000) du Code pénal**  
+> "Toutefois, lorsque la loi le prévoit, il y a délit en cas de mise en danger délibérée de la personne d’autrui.  
+> Il y a également délit, lorsque la loi le prévoit, en cas d’imprudence, de négligence ou de manquement à une obligation de prudence ou de sécurité prévue par la loi ou les règlements sauf si l’auteur des faits a accompli les diligences normales compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses compétences ainsi que du pouvoir et des moyens dont il disposait."
+#### B) Les conséquences du principe de responsabilité pénale personnelle
+
+Le princope de resp pénale personnelle signifie 2 choses : d'une part, l'exclusion de la responsabilité pénale collective ; d'autre part, l'exclusion de la responsabilité pénale du fait d'autrui.
+
+##### 1) L'exclusion de la reponsabilité pénale collective
+
+le principe est lorsqu'une infraction est commise par plusiuers personnes, cette infraction n epeut aps être imputée collectivement au groupe. le juge doit examiner la culpabilité de chacun de maniere distincte. Les qualifications et les peines peuvnet parfaitement être différentes d'un individu à l'autre. 
+
+On commet un braquage ensemble, mais tout le monde fait pas la même chose. Les qualifications e tles peines sontr donc indivudalisés.
+
+En principe, le fait que l'action soit collective n'a aucune incidence particuliere sur la culpabilité. 
+
+En revanche, la loi attache au caractère collectif des faits des conséquences juridiques particulières dans 2 cas précis.
+
+1. La loi crée parfois des circonstances aggravantes liées au fait d'être plusieurs : les circonstances aggravantes doivent être prévues pour exister (principe de la légalité). 2 circonstances aggravates sont envisageables : la réunion, et la bande organisée qui necessite un niveau d'organisation supplémentaire. 
+2. Le législateur a créé des infractions collectives qui ne peuvent être caractérisées qu'en cas de pluralité de participants, qui commence à.2 personnes. Exemple : délit d'association de malfaiteurs (voir article), le délit de participation à un complot (idem).  Il s'agit d'une dérogation que le législateur a adopté au principe de responsabilité pénale personnelle, car on va être responsable pour l'infraction commise par plkusiuers
+
+Pour procéder à ce travial d'individualisation, encore faut-il que le juge parvienne à savoir qui a fait quoi. Le probleme se situe dans les hypothèses d'action collective non individualisable. 
+
+En principe, faute de pouvoir indivualiser l'action de chacun, le juge devrait relaxer. 
+
+Exemple 1 : une bande de jeunes frappent un SDF, celui-ci décède du fait des coups. Mais il n'est pas possible d'identifier l'auteur du coup fatal. 
+
+Exemple 2 : un conseil municipal adopte une délibération constitutive d'une discrimination. C'est une entité appart-entière, sans savoir qui a voté quoi. 
+
+On va voir apparaitre des parades jurisprudentielles pour eviter qu eles ifnractions demeurent impunies dans l'hypothèse d'action collective non indivualisable.
+
+On distingue 2 situations :
+1. il se peut que l'impossiblité d'individualiser l'action de chacun est pratique, càd un probleme de preuve ou on sait pas qui a fait quoi
+2. l'impossiblté d'indivuadliser laction de chacun est pas pratique mais juridique, on vise les décisions collégiales consittutives di'nfractions oénales
+
+###### a) l'impossiblité pratique di'ndivualiser l'action de chacun
+
+dans ce cas de figure, on peut systématiser la jurisprude,nce, et il apparait 2 parades différentes, selon, que l'infraction concernée est non intentionnelles ou intentionnelle. 
+
+Hypothèse 1 : Lorsque l'infraction commise est intentionnelle et que l'action de chacun n'est pas indivudalisable, la jurisprudence mobiilise la "théorie de la complicité correspective". 
+
+Cela concerne les violences intentionnelles. L'arrêt fondateur qui a lancé cette théorie jurisprudentielle est Chambre criminelle, 13 juin 1972 : scène de violence commise par les membres d'un groupe, et pour pouvoir déclarer  l'ensemble des participants pénalement resppnsable individuellement, chacun va être considéré comme complice de celui qui a porté le coup fatal. Chacun est correspectivemetn complice de celui qui a porté le coup fatal. Il aurait fallu un auteur principal, donc au plan des principes pénaux compliqué à justifier. 
+
+Il faut une scène unique de violence, impliquant plusieurs agresseurs, et une impssibilité de savoir qui a fait quoi. 
+
+arret du 23 mars 2022 : 4 fonctionnaries de police à bord de 2 voitures, attaqués par un groupe d'une quinzaine de personnes qui jettent dans leur direction des bouteilles incendiaires, poursuivies pour tentative de meurtre sur personnes depositaire de la puissance publique. 
+
+La cour revele qu e"lorsque les violences ont étés exercées volontairement et simulatnément dans une intention homicide par plusieurs accusés au cour d'une scène unique de violence, l'infraction peut être apprécie dans son ensemble sans qu'il soit nécessaire pour le juge de préciser la nature des violences exercées par chacun des accusés sur chacune des victimes."
+
+
+Hypothèse 2 : lorsque l'infraction est non-intentionnelle, on applique la notion (pas théorie) de commune imprudence. Ch crilinelle 23 juillet 1986: 2 jeunes font une course en voiture, l'un renverse un piéton, l'autre percute ce meme piéton. Il est mortellement blessé. La police et les médecins et le juge ne parviennet pas à déterminer lequel de ces 2 chocs à déterminé la mort.
+
+Le raisonneme,nt de la cour de cassation a docn été le suivant "les deux protagonistes ont étés condamnés pour homicide involontaire meme si l'on sait parfaitemetn que c'est la faute d'un seul qui a provoqué la mort."
+
+Les protagonostes ont créés leurs "commun,e imprudence" un risque grave qui s'est réalisé. Ca conduit à condamner 2 personnes pour l'infraction commise par l'ne des deux seulement.
+
+attenton : le probleme se pose en des termes radicalemetns différents, si on sait laquelle des 2 fautes a causé le résultat de l'infraction, donc si l'action de chacun est individualisable. 
+
+Exemple : un camion roule à une vitesse excessive, le conducteur perd la maitrise de son vvéhicule et le camion arrive en travers de la route à double sens. Une voiture arrive en sens contraire et heurte le camion qui est dans sa voie. Les passagers de la voiture sont alors blessés. Un deuxième camion arrive lui aussi à vitesse excessive et percute la voiture accidentée. Les passagers de la voiture décedent. C'est la faute du deuxieme camion qui a causé leurs mort. 
+
+C'est un arrêt de la chambre criminelle du 23 mars 1994, donc avant la loi du 10 juillet 2000. 
+
+en 1994, l'autuer de la premiere faute a égalemetn été déclaré pénalemetn responsable pour homicide involontaire, l'auteur direct ou indirect n'étiat pas distingué. C'est la théorie de l'équivalence des conditosn : tous les evenemts qui contrbient à cause rla cause du dommag epeut entrainer la faute simple.
+
+Apres la loi du 10 juillet 2000, on aurait disitngué auteur direct et indirect. Donc une faute simple d'imprudence suffit à engager sa responsabilité pénale du second conducteur car c'est l'auteur direct. Pour le prmeier auteur, il a contribué à créer la situation qui permet la réalisation du dommage est l'auteur indirect. Il faut donc prouver une faute aggravée, caractérisée ou délibérée. 
+
+###### a) L'impossibilité juridique d'indivualiser l'action de chacun les decisons collegiales constitutives d'infraction pénale
+
+l'obstacle apparait dirimant, c'est le droit lui meme qii s'oppose à l'opération d'individualisation de l'action de chacun.
+
+la décision est censée émaner de tous.
+
+Il e faut pas oublier la possibilité de mettre ne oeuvre la responsabilité pénale d'une personne morale
+
+la resposnabilité pénale des perosnne morale est une innovation majeure du code péal de 1994, elle obeità des contiions trictes à l'article 121-2 du code pénal. Il faut que l'infraction ait été commise au nom et pour le compte de la perosnne morale, ou dans le cadre de l'activité de laperosnne morale,et deuxieme condition par un organe ou un representant de la perosnne morale. 
+
+pour les personnes morales de droit public, comme l'état, il y aune condition relgementaire. Mais etat est pénalement irresponsable, car c'est lui qui donne les sanctions.
+
+Condition supplémentaire : il faut que l'infraction ai été commise dans l'exercice d'activité qui sotn suscrptibles de faire l'objet de convention, de délégation de service public. 
+
+La cour de cassation a clairement indiqué, dans un arrpet à connatire du 11 mai 1999 à propos des délibératiosn de conseil municipal, que le consiel municipal engage non pas la responsabilité de chacun des membres du conseil municipal, masi peut engager la responsabilité pénale de la commune si les conditions légales sont vérifiées. 
+
+Remarques : 
+Cette piste est sans issue, car la délibérationd u conseil miunicoapl c'est l'exercice de la démocratie locale, et ça ne se délègue pas. 
+
+Il est possible égalemetn, sur initiatve de la jurisprudence, de revenir à une responsabilité pénale des perosnnes physiques. 
+
+L'arrêt du 11 mai 1999 est suivi de 2 autres arrêts de la chambre criminelle, du 17 décembre 2002 et du 19 novembre 2003.
+
+L'arrêt du 17 décembre 2002
+Cour de cassation dit que cette impossibilité juridqiue d'individualiser l'action de chacun n'est absoulumetn pas exclusive de toute responsabilité pénale perosnnelle des personnes physiques.  La cour a souligné que la resposnabilité pénale des perosnnes physiques est enggagée indémendament du vote de la délibération pour des faits matériels distincts commis par les personnes physiques. 
+
+Dans cet arrêt, ce uqi va mpermettre de retenir la responsabilité pénale d'une perosnne physique, le maire va être pénalemet responsable parce qu'il a revendiqué lui meme le projet.
+
+
+dans l'arrêt de 2003, on reproche à l'adjoint au maire d'avoir rapporté sur le projet devant le consiel municipal et l'aurait soumis au vote. 
+
+##### 2) l'exclusion de la reponsabilité du fait d'autrui
+
+La responsabilité pénale du fait d'autrui est un mécamisne de droit ciivl, obligaiton de répondre des dommages causés par le fait d'autrui, en paant des dommages et interts.
+
+La responsabilité et le code civil admettent de façon exceptionnelle la resppnsabilité civile du fait d'autrui. Ce mecanisme n'est pas transposable en droit pénal. La responsabilité pénale est personnelle. On ne petu pas être pénalement déclaré resposanble du fait d'autrui.
+
+Exemple : le mineur qui commets une infraction, ses parents ne sont pas pénalemetn resposanble pour lui. Le juriste Loysel avait une formulation "tous délits sont personnels, et en matire criminelle il n'y a point de garant". 
+
+Ce princpe rencontre des difficultés d'application, notemment pour le chef d'entreprise. Depuios le milieu du 19e siècle, s'est développé une jurisprudence, admettant la mise en jeu de la resoonsabilité pénale du chef d'entreprise pour des infractions commises au sein de son entreprise non pas par lui meme masi par ses préposés. 
+
+Le chef d'entreprisen'est ni auteur ni complice de l'infraction dont il n'a même pas connaissance. 
+
+Exemple hypothèse d'un accident surveu du seuk faiit d'un préposé qui n'auraiut pas repsect éles regles d'hygiene et de sécurité. Une tendance est apparue a faire remonter la responsabilité pénale vers le chef d'entreprise. C'est ainsi que l'entreprise est devenue le "terrain d'election" d'une responsabilit épénale dite du fait d'autrui. 
+
+Le legislateur a meme pris le relais de la jurispriudence en reconnaissant des cas de respps,ablité pénael du fait d'autrui avant parfois de faire marche arriere. Y'a til vrament une responasbilité pénale du chef d'entreprise pour le fait d'autrui?
+
+#### 1)  Le champ d'appkicaiton de la resposnabiité pénale du chef d'entreprise du fait d'autrui
+
+quelles sont els infractiosn pour lesquelles le chef d'entreprise es tsusceptible de voir sa resposnabilité pénale engagée alors qu'elles sont commises par un préposé? 
+
+Il n'existe aucun texte général prévoyant la responsabilité pénale du chef d'entreprise du fait de son préposé. 
+
+En revanche, il existe des textes particuleirs qui prévoient ou ont pu prévoir la mise en jeu de la responsabilité pénale du chef d'entreprise du fait d'autrui.
+
+Exemple 1 : l'ex article L263-2 devenu L4741-1 du code du travail avant d'être supprimé en 2011 et 2016. il a été repreis dans la version du code du travail avant d'être supprimée. 
+
+Le texte concernait les manquements aux dispositons relatives à l'hygiène et à la sécurité du travail. Ces manquements, qu'ils soient connus par le chef d'entreprise ou par un préposé, la responabilité ermontait, avant 2011, au chef d'entreprise. 
+
+Exemple 2 : articels L213-1 et 213-2 du code de la consommation, abrogés par une ordonnace du 14 mars 2016.
+
+Pendnat longtemps, les importateurs et les fabricants ont étés punis pénalement à l'occasion des fruades alimentaires réalisées par des tiers ou des intermediaires. 
+
+Exemple 3 : article 42 de la loi du 29 juillet 1881, les directeurs de publciation et/ou les éditeurs sont responsables pénalemetn des crmes et des délits qui seraient cmmis par voie de presse. Ils doivent contorler les publications. 
+
+Les infractions pour lesqelles la responsabilité pénale du chef d'entreprise du fait d'autrui a pu être prévue ou est prévue sont poru certaines non intentionnelles (ex violation norme hygiene ou sécurité) ou intentionnelles. (vverif)
+
+sil existe aucun texte general relatif à la resoonsabilité pénale du chef d'entreprise du fait d'autrui, et si les textes ponctuels consacrant ce type de repsojsabilité ont tendance à diminuer, il existe en revanche une jurisprudence assez extensive qui prévoit cette responsabilité du chef d'entreprise du fait d'autrui. 
+
+Jurisprudence citée par la doctrine comme point d'ancrage : ch criminelle 28 février 1956.
+
+#### 2) la mise en oeuvre de la responsabilité du chef d'entreprise du fait d'autrui
+

@@ -1,8 +1,9 @@
 L'étude des sources de la matière pénale nous conduit tout d'abord à souligner l'apparente variété de ces sources. Une fois les textes incriminateurs présentés, nous évoquerons le contrôle de la régularité de la norme auquel le juge devra parfois procéder. Enfin, il conviendra de préciser le champ d'application de la loi pénale dans le temps et dans l'espace.
 ### Section 1 : la variété des sources
-La constitution de 1958 pose un principe de hiérarchisation des normes.
+La ==constitution de 1958== pose un principe de hiérarchisation des normes.
 #### Paragraphe 1 : Les traités internationaux et conventions internationales
 On les étudie en premier car ils ont une valeur supérieure aux lois internes. Arrêt Nicolo et arrêt Cassation 1975 Fabre. Ce principe vaut que la loi interne soit antérieure ou postérieure (théorie de la loi écran).
+
 [[CE, 20 octobre 1989, Nicolo]]
 [[Cass,  24 mai 1975, Jacques Vabre]]
 
@@ -17,12 +18,25 @@ En clair, les conventions internationales portent le plus souvent des règles de
 
 La Convention européenne des droits de l'homme et le contrôle de conventionnalité peuvent quand même avoir des impacts importants sur la procédure pénale et le droit pénal au fond.
 
-**Impacts de la CEDH sur la procédure pénale française :**
-- **==Article 8 de la CEDH (droit à la vie privée et familiale)**== : affaire tranchée par la Cour européenne des droits de l'homme le 24 avril 1990, connue sous le nom de l'affaire Kruslin contre France, célèbre car elle a mis un coup d'arrêt aux écoutes téléphoniques françaises version artisanale. La CEDH a censuré la pratique des écoutes téléphoniques françaises comme constituant une ingérence dans la vie privée. Argumentaire de la Cour : aucun texte ne les prévoyait ou ne les réglementait. Juste un texte, l'article 81 du Code pénal, stipulait qu'on pouvait prendre les mesures nécessaires. La loi du 18 juillet 1991 a introduit 40 articles dans le Code pénal pour encadrer la pratique des écoutes téléphoniques.
+- **Impacts de la CEDH sur la procédure pénale française :**
 
-- **==Arrêt de la CEDH du 27 août 1992, affaire Tomasi contre France**,== concernant l'article 3 de la CEDH sur la prohibition des tortures, des traitements inhumains, dégradants, etc., en rapport avec les traitements infligés par la police.
+[[CEDH, 24 avril 1990, Kruslin contre France]]
+**==Article 8 de la CEDH (droit à la vie privée et familiale)**== : affaire tranchée par la Cour européenne des droits de l'homme le 24 avril 1990, connue sous le nom de l'affaire Kruslin contre France, célèbre car elle a mis un coup d'arrêt aux écoutes téléphoniques françaises version artisanale. 
 
-Une condamnation par la CEDH peut remettre en cause une condamnation pénale grâce à une procédure créée le 15 juin 2000 : **la procédure spéciale de réexamen**. Lorsqu’un procès pénal a été définitivement jugé en France, soit parce que la Cour de cassation a rejeté le pourvoi, soit parce que le délai de recours en première instance ou en appel est écoulé, si la CEDH relève qu’il y a eu violation d’un droit protégé par la Convention et que cette violation fait peser un doute sur la culpabilité de l’intéressé, cela conduira à un réexamen de l’affaire par les juridictions internes. Par exemple, en cas de condamnation pour meurtre, si la CEDH constate une violation du droit à un délai raisonnable mais que cela ne remet pas en cause la culpabilité, il n’y aura pas de réexamen. En revanche, si la CEDH constate une violation du droit à un procès équitable, qui engendre un doute sur la culpabilité, un réexamen pourrait être ordonné.
+La CEDH a censuré la pratique des écoutes téléphoniques françaises comme constituant une ingérence dans la vie privée. 
+
+Argumentaire de la Cour : aucun texte ne les prévoyait ou ne les réglementait. Juste un texte, l'==article 81 du Code pénal==, stipulait qu'on pouvait prendre les mesures nécessaires. 
+
+La ==loi du 18 juillet 1991== a introduit 40 articles dans le Code pénal pour encadrer la pratique des écoutes téléphoniques.
+
+[[CEDH, 27 aout 1992, Tomasie contre France]]
+Concernant l'==article 3 de la CEDH== sur la prohibition des tortures, des traitements inhumains, dégradants, etc., en rapport avec les traitements infligés par la police.
+
+Une condamnation par la CEDH peut remettre en cause une condamnation pénale grâce à une procédure créée le ==15 juin 2000== : **la procédure spéciale de réexamen**. 
+
+Lorsqu’un procès pénal a été définitivement jugé en France, soit parce que la Cour de cassation a rejeté le pourvoi, soit parce que le délai de recours en première instance ou en appel est écoulé, si la CEDH relève qu’il y a eu violation d’un droit protégé par la Convention et que cette violation fait peser un doute sur la culpabilité de l’intéressé, cela conduira à un réexamen de l’affaire par les juridictions internes. 
+
+Par exemple, en cas de condamnation pour meurtre, si la CEDH constate une violation du droit à un délai raisonnable mais que cela ne remet pas en cause la culpabilité, il n’y aura pas de réexamen. En revanche, si la CEDH constate une violation du droit à un procès équitable, qui engendre un doute sur la culpabilité, un réexamen pourrait être ordonné.
 
 Donc, un procès peut être réexaminé si un droit de la CEDH a été violé et que cela fait peser un doute sur la culpabilité de l’intéressé.
 
@@ -33,20 +47,30 @@ In fine, les conventions internationales portent assez peu sur des incrimination
 
 1) **La coopération**
 Le droit français a commencé en matière pénale par la coopération entre États, avec l’UE qui a été le premier espace de discussion. La coopération peut se faire de deux manières différentes.
-- Initialement, elle a été au niveau européen une coopération qualifiée de coopération judiciaire pénale classique. Elle se caractérisait par sa lenteur et sa lourdeur. En clair, on passait par un canal diplomatique, par exemple, un diplomate français allait en Espagne pour faire avancer un dossier. S’il n’y avait pas de canal diplomatique : c'était l’autorité centrale. La convention d’extradition de 1957 permettait d’envisager l’extradition d’une personne, mais cela passait par des canaux diplomatiques, rien n’était automatique. 
-- Un autre exemple, à la même période, est la convention d’entraide de 1959. On passait par les ministères de la justice français, qui s’adressaient à leurs homologues pour voir si sur certains dossiers on pouvait avancer ensemble. C'était lourd et lent, car dans ces débuts de coopération, aucun délai n'était prévu. Et cette coopération n'était envisagée que pour les infractions les plus graves, avec des différences de perception entre États sur ce qui est grave ou non. Les choses se sont accélérées dans les années 1970, avec une coopération judiciaire dite améliorée. Les accords de Schengen ont marqué une coopération renforcée entre États membres. C’est également la convention de 1995 sur la simplification de l’extradition.
 
-À terme, l’aboutissement de ce processus est le principe de reconnaissance mutuelle. Ce principe a été lancé au sein de l’Union européenne en 1998 sous la présidence britannique. Il fonctionne avec un espace pénal européen où les délais sont fluidifiés, etc. À partir de là, il n'y a plus un État requérant et un État requis comme au début de la coopération, mais plutôt un État émetteur d’une condamnation et un État exécutant. Par exemple, si quelqu’un est condamné, un autre État l’amène.
+Initialement, elle a été au niveau européen une coopération qualifiée de coopération judiciaire pénale classique. Elle se caractérisait par sa lenteur et sa lourdeur. En clair, on passait par un canal diplomatique, par exemple, un diplomate français allait en Espagne pour faire avancer un dossier. S’il n’y avait pas de canal diplomatique : c'était l’autorité centrale. 
+
+La ==convention d’extradition de 1957== permettait d’envisager l’extradition d’une personne, mais cela passait par des canaux diplomatiques, rien n’était automatique. 
+
+Un autre exemple, à la même période, est la ==convention d’entraide de 1959==. On passait par les ministères de la justice français, qui s’adressaient à leurs homologues pour voir si sur certains dossiers on pouvait avancer ensemble. C'était lourd et lent, car dans ces débuts de coopération, aucun délai n'était prévu. Et cette coopération n'était envisagée que pour les infractions les plus graves, avec des différences de perception entre États sur ce qui est grave ou non. 
+
+Les choses se sont accélérées dans les années 1970, avec une coopération judiciaire dite améliorée. Les ==accords de Schengen== ont marqué une coopération renforcée entre États membres. C’est également la ==convention de 1995== sur la simplification de l’extradition.
+
+À terme, l’aboutissement de ce processus est le **principe de reconnaissance mutuelle**. Ce principe a été lancé au sein de l’Union européenne en 1998 sous la présidence britannique. Il fonctionne avec un espace pénal européen où les délais sont fluidifiés, etc. À partir de là, il n'y a plus un État requérant et un État requis comme au début de la coopération, mais plutôt un État émetteur d’une condamnation et un État exécutant. Par exemple, si quelqu’un est condamné, un autre État l’amène.
 
 Cette évolution est passée d’une coopération timide, prudente et méfiante à une coopération mutuelle, avec la création d'un parquet européen. Mais cela reste avant tout une question de procédure, on s’entend pour attraper les auteurs. On reste donc sur de la procédure lorsqu’on parle de coopération.
 
-2) Le deuxième niveau d'implication est l'harmonisation, c'est-à-dire le rapprochement des législations. C’est comme si, dans des domaines précis, on avait adopté des conventions. L'évolution a notamment été initiée par le Conseil de l'Europe, qui a permis des rapprochements, puis par l'UE elle-même. Des conventions du Conseil de l'Europe en matière de blanchiment, de corruption, fixent des minima requis pour les États. Le traité d'Amsterdam avait visé la matière pénale dans le cadre du troisième pilier de l’UE, puis par la suite, les traités qui ont suivi et notamment une décision importante de la CJCE ont fait en sorte de faire évoluer la répartition par piliers pour donner plus de compétences à l’UE en matière pénale. On a vu arriver des décisions-cadres plus impactantes en matière de terrorisme, des actions communes en matière de criminalité organisée, ou encore des décisions-cadres en matière de stupéfiants pour instaurer une dynamique commune. Cela concerne également des domaines comme la fraude, la contrefaçon, la traite humaine, etc.
+2) **L'harmonisation**
 
-3) Le troisième niveau est l’uniformité, une législation commune, voire une législation internationale. Peut-on avoir des juridictions pénales internationales ? Les juridictions pénales internationales sont historiquement de deux types : la Cour pénale internationale et le Tribunal international
+Le deuxième niveau d'implication est l'harmonisation, c'est-à-dire le rapprochement des législations. C’est comme si, dans des domaines précis, on avait adopté des conventions. L'évolution a notamment été initiée par le Conseil de l'Europe, qui a permis des rapprochements, puis par l'UE elle-même. Des conventions du Conseil de l'Europe en matière de blanchiment, de corruption, fixent des minima requis pour les États. Le traité d'Amsterdam avait visé la matière pénale dans le cadre du troisième pilier de l’UE, puis par la suite, les traités qui ont suivi et notamment une décision importante de la CJCE ont fait en sorte de faire évoluer la répartition par piliers pour donner plus de compétences à l’UE en matière pénale. On a vu arriver des décisions-cadres plus impactantes en matière de terrorisme, des actions communes en matière de criminalité organisée, ou encore des décisions-cadres en matière de stupéfiants pour instaurer une dynamique commune. Cela concerne également des domaines comme la fraude, la contrefaçon, la traite humaine, etc.
+
+3) **L'uniformité**
+
+Le troisième niveau est l’uniformité, une législation commune, voire une législation internationale. Peut-on avoir des juridictions pénales internationales ? Les juridictions pénales internationales sont historiquement de deux types : la Cour pénale internationale et le Tribunal international
 
 **Tribunal international (TBI) :**  
-- Classification : Les tribunaux internationaux (TBI) sont des juridictions supranationales créées ponctuellement pour traiter des situations spécifiques, avec des effets rétroactifs, ce qu'on appelle des tribunaux ad hoc. Ces juridictions ad hoc ont un champ de compétence limité. Leur force réside dans le fait qu'elles étaient soutenues par l’organisation des nations unies. C’est donc le conseil des nations unies qui décident quand on TBI est à instaurer.  
-- Champ d’application : Après la Seconde Guerre mondiale, plusieurs TBI ont été créés, comme ceux de Nuremberg et de Tokyo.. La faiblesse est l’application d’un cas par cas et donc il y a une certaine incertitude quand un TBI doit être mis en place.
+- **Classification** : Les tribunaux internationaux (TBI) sont des ***juridictions supranationales*** créées ponctuellement pour traiter des situations spécifiques, avec des ***effets rétroactifs***, ce qu'on appelle des tribunaux ad hoc. Ces juridictions ad hoc ont un champ de compétence limité. Leur force réside dans le fait qu'elles étaient soutenues par l’organisation des nations unies. C’est donc le conseil des nations unies qui décident quand on TBI est à instaurer.  
+- **Champ d’application** : Après la Seconde Guerre mondiale, plusieurs TBI ont été créés, comme ceux de *Nuremberg* et de *Tokyo*. La faiblesse est l’application d’un cas par cas et donc il y a une certaine incertitude quand un TBI doit être mis en place.
 
 **Cours pénal international (CPI)**  
 - Intro : Pour éviter le problème de l'application au cas par cas, la Cour pénale internationale, basée sur la Convention de Rome, a été mise en place. Il s’agit donc d’une cour permanente.  

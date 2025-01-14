@@ -1,0 +1,9 @@
+Le droit pénal soulève trois questions fondamentales : quels sont les éléments indispensables pour qu’un fait puisse être qualifié d’infraction (théorie générale de l’infraction pénale) ? Comment imputer l’infraction caractérisée à une personne (responsabilité pénale), c’est-à-dire déterminer qui va répondre des faits ? Enfin, quelles sont les peines et mesures qui peuvent être prononcées, ainsi que les sanctions pénales applicables ?
+
+L’hypothèse de départ est la suivante : le juge pénal est saisi des faits (_in rem_), et non des personnes (_in personam_). Cela signifie qu’au cours d’un procès, l’auteur des faits peut être identifié ou modifié en cours de procédure. Une fois saisi, le juge doit établir l’existence d’une infraction pénale, ce qui constitue **« l’opération de qualification pénale »**.
+
+Cependant, caractériser une infraction par rapport à une personne juridique ne signifie pas nécessairement que cette personne sera déclarée pénalement responsable. La question se pose alors : à qui l’infraction sera-t-elle imputée ?
+
+**Exemple** : un agent peut ne pas se voir imputer une infraction s’il bénéficie d’une cause d’irresponsabilité pénale. Dans ce cas, il sera relaxé ou acquitté, c’est-à-dire exonéré de toute responsabilité pénale. Cela peut également être le cas lorsque l’infraction est commise pour le compte d’une personne morale.
+
+**Exemple supplémentaire** : un chef d’entreprise peut parfois être tenu responsable des infractions commises par ses salariés. De plus, il arrive que l’infraction commise par un agent soit également imputée à d’autres personnes, par exemple en cas de complicité.
