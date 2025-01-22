@@ -1,234 +1,461 @@
+>**Article 1240 du Code civil**
+>*Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer.*
 
-article 1240
+>**Article 1241 du Code civil**
+>*Chacun est responsable du dommage qu'il a causé non seulement par son fait, mais encore par sa négligence ou par son imprudence.*
 
-article 1241 al 1.
+> **Article 1242 alinéa 1 du Code civil**
+> *On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde.*
 
-une victime subit un dommage, ce dommage peut prendre son origine soti dans le comportemetn fautif d'une personne, soit comportemtn dont une personne doit repondre (ex enfant), soit d'une chose que l'on avait sous sa garde (machine, voiture, etc.). 
+Une victime subit un dommage. Ce dommage peut avoir pour origine :
+- Le **comportement fautif** d’une personne,
+- Le comportement d’une personne dont une autre doit répondre (_exemple : un enfant_),
+- Ou encore une **chose** sous la garde d’une personne (_exemple : une machine, une voiture, etc._).
 
-il y a 3 faits génératus 
-- le fait personnel
-- le fait d'autrui
-- le fait des choses
+**Les trois faits générateurs de responsabilité**
+1. **Le fait personnel**
+2. **Le fait d’autrui**
+3. **Le fait des choses**
 
-ppur obtenir réparation, il faut un faut un dommage etun fait générauter, qui sont 2 premieres conditiosn de l aresponsabilité civile, enfaute fait il qui'l y aun lien de cause à effet entre le dommage et le fait génératuer, c'est le lien de causalité. 
+Pour obtenir réparation, il est nécessaire de réunir **trois conditions principales** :
+1. Un **dommage**,
+2. Un **fait générateur**,
+3. Un **lien de causalité** entre le dommage et le fait générateur.
 
-Les 2 constantes sont le dommage et le lien de causalité quelque soit le fait géénrateur (parmis les 3).
+Les **deux** **constantes** **de la responsabilité** civile, quel que soit le fait générateur, sont :
+- Le **dommage**,
+- Le **lien de causalité**.
 
-Selon le fait generaute,r le régime de la responsabiltié n'est pas le meme. en revanche, les points communs entre les 3 formes de responsabilité du fait personnel, du fait d'autrui, du fait des choses, il faut un lein de fausalité.
+**Distinction selon le fait générateur**
+Le régime de la responsabilité varie selon le fait générateur (fait personnel, fait d’autrui, ou fait des choses).  
+Cependant, le **point commun** entre ces trois formes de responsabilité est qu’il faut toujours prouver un **lien de causalité** entre le fait générateur et le dommage.
 
-Tout préjdice n'est pas réparable.
+**Tous les préjudices ne sont pas réparables.**
 
 ## Section 1 : un préjudice réparable
 
-article 1235 du projet de réforme "est réparable tout préjudice certain résultant d'un dommage et consistant en la lésion d'un interet licite patrimonial ou extra-patrimonial"
+> **Article 1235 du projet de réforme**
+> Est réparable tout préjudice certain résultant d’un dommage et consistant en la lésion d’un intérêt licite, patrimonial ou extrapatrimonial.
 
-on distingue préjudice et dommage
+On distingue préjudice et dommage
+### Paragraphe 1 : La distinction entre dommage et préjudice
 
-### Paragraphe 1 – La distinction entre dommage et préjudice
+Le législateur utilise uniquement le terme **dommage**, sauf pour désigner le **préjudice écologique**.
 
-le legislateur uitilise que le terme dommage sauf pour le préjudice ecologique. 
+Le **dommage** désigne l’atteinte constatée aux intérêts d’une personne.
+_Exemple : une atteinte à l’intégrité physique ou à un bien._
 
-ce qu'on appel dommage c'est l'atteinte constatée aux interets d'une personne. Ex atteinte à integrité physique ou a un de nos bien.
+Le **préjudice**, en revanche, correspond aux **conséquences de cette atteinte**.
 
-Le préjudice correspond aux consequences de l'atteinte.
+**Exemple** :
+Un magasin est incendié volontairement ou involontairement.
+- L’incendie lui-même constitue le **dommage**.
+- Les conséquences de cet incendie, telles que :
+    - La perte des stocks de marchandises (_préjudice matériel_),
+    - La perte de revenus due à l’impossibilité de poursuivre l’activité commerciale dans les mêmes conditions (_préjudice économique_),  
+        représentent les **préjudices**.
 
-exemple on a incendié de maniere volontaire ou involontaire un magasin dont one st propriétaire ou exploite à des fins commerciales. l'incendie en lui meme c'est le dommage. 
+Cette distinction entre dommage et préjudice permet de **préciser les conséquences d’un même fait dommageable**.
 
-mais on perds egalemetn les stock de marchandises, donc on subit un préjudice mateirel, et aussi on perd un gain car dans les mois qui vont suivre on pourra pas poursuivre dans les memes conditiosn les activités. 
+**Distinction entre victime directe et victime par ricochet**
+Il peut également arriver qu’un même fait dommageable cause des **préjudices à plusieurs victimes** différentes :
+1. **Victime directe** :
+    - Celle qui subit **immédiatement**, sans intermédiaire, l’atteinte et les préjudices qui en découlent.
+    - _Exemple : Lors d’un incendie, le propriétaire du magasin subit un dommage matériel direct, tandis qu’un employé blessé subit un préjudice corporel._
 
-distinction permet d'affiner, de préciser les consequences d'un meme fait dommageable. une meme atteinte, un meme fait dommageable va produrie des atteintes de nature differentes. 
+2. **Victime par ricochet** :
+    - Les personnes subissant **indirectement** les conséquences du dommage subi par la victime directe.
+    - _Exemple : Si un employé gravement blessé ne peut plus travailler, son conjoint et ses enfants deviennent des victimes par ricochet en raison de la perte de revenus familiaux._
 
-peut égalemetn arriver qu'une meme atteinte, qu'un meme fait dommageable cause des préjudices à plusieurs victimes differentes. on dinstingue la victime directe et la ivctime par ricocet. 
+Cette distinction fonctionne bien en cas de **préjudices corporels** ou **matériels**, mais elle est moins pertinente pour des préjudices de nature **immatérielle**.
 
-la victime direct est celle qui subit immédiatement sans intermediaire l'atteinte, et donc les préjudices qui en sont les consequences. de meme parmis les victimes directes, il peuty en avoir plusiuers. ex incendie proprio a un dommage mais un elployé subit un prejudice corporel, pour le meme fait dommageable, mais préjudices differents. Donc plusieurs victimes directes. si une victime petu plus travailler, alors conjoint et enfant seront les victimes par ricochet car pas de revenus. c'est les consequences pour un meme dommage.
+**Exemple pratique : Accident de la route**
+- Une personne passe un feu rouge par imprudence (_fait générateur_).
+- Elle entre en collision avec un autre véhicule (_dommage_).
+- Si le conducteur de l’autre voiture est blessé, cela entraîne un **préjudice corporel** pour ce conducteur.
 
-distinction a des limites, marche bien en cas de prejudice corporel ou mateirel, masi fonctionne moins bien lorsque le préjudice subit est de nature immateriel. 
+**Cas particulier : atteinte à la vie privée**
+L’**==article 9 du Code civil==** protège la vie privée. Il suffit qu’il y ait une **atteinte** à la vie privée pour que cet article soit mis en œuvre et permette d’exiger une réparation.  
 
-exemples : 
-on est au volatn de notre oviture, faute de conduite, on pase au rouge sans voir, accidente autre voiture. Cette faute de conduite c le fait générateur. ensuite on a accidenté l'autre voiture, c'est le dommage. si le conducteur se blesse alors préjudice corporel.
+>**Article 9 du Code civil**
+>*Chacun a droit au respect de sa vie privée.*
+>*Les juges peuvent, sans préjudice de la réparation du dommage subi, prescrire toutes mesures, telles que séquestre, saisie et autres, propres à empêcher ou faire cesser une atteinte à l'intimité de la vie privée : ces mesures peuvent, s'il y a urgence, être ordonnées en référé.*
 
-article 9 civ sur la vie privée, il suffit qu'il y ait une atteinte à la vie privée pourq eu l'arctilcle 9 puisse être mis en oeuvre et exigeer une repration. Donc coincidence entre le fait generateur et le dommage subit, donc pas besoin de justifier d'un préjudice. 
+Dans ce cas, il y a **coïncidence entre le fait générateur et le dommage subi**, ce qui signifie qu’il n’est pas nécessaire de justifier d’un préjudice supplémentaire.
 
-### paragraphe 2
+### Paragraphe 2 : Les conditions du préjudice réparable
 
-article 1235 du projet de réforme : pour être reparable, le préjudice doit être reel et certain, il doti etre licite et souvent ojjn ajoute qu'il doit être légiitme, et le préjudice doit être personnel.
+==**Article 1235 du projet de réforme**== : pour être réparable, le préjudice doit être réel et certain, il doit être licite et souvent on ajoute qu'il doit être légiitme, et le préjudice doit être personnel.
 
-#### A) le préjudice doit etre reel et certain
+> **Article 1235 du projet de réforme**
+> *Est réparable tout préjudice certain résultant d’un dommage et consistant en la lésion d’un intérêt licite, patrimonial ou extrapatrimonial*
 
+#### A) Le préjudice doit être réel et certain
 
-sous entend que le préjudice allégué par celui qui agit en justice soit veritable. 
+Le préjudice allégué par celui qui agit en justice doit être **véritable**.
 
-on va apprécier le préjudice de maniere abstraite, considerer qu'il est reel si ce préjudice est ceui que n'importe quelel personne dans les memes conditions auraient ressentis; 
+**Appréciation abstraite du préjudice**
+Le préjudice est apprécié de manière **abstraite** : il est considéré comme réel si c’est un préjudice que **n’importe quelle personne placée dans les mêmes conditions** aurait ressenti.
 
-ex un accideent, corps d'une personne est attietn, objectiveme,t y'a une attiente à integrité corporelle. sauf que dans la réalité, d'un point de vue subjectif, on a pas tous la meme sensibilité à la douleur, le meme age, les meme conditions, et cas rare du fait ou la personne petu pas ressentir la douleur (paralysie ou maladie). mais comme on apprécie le prejudice de maniere abstraite on en conclu pas moins que son prejudice est reel. 
+**Exemple** :
+En cas d’accident, si l’intégrité corporelle d’une personne est objectivement atteinte, cela constitue une atteinte à l’intégrité physique. Cependant, d’un point de vue **subjectif**, nous n’avons pas tous la même sensibilité à la douleur, les mêmes conditions physiques ou le même âge.
 
-la question du caractère certain du préjudice, sous enteand que le préjudice aiat déjà été réalisé, sauf que le préjudice peut etre ressenti qu'arpres. N'empeche que pour etre réparable le préjudce doit être certain, et on sous entend que le préjudice doit être actuel, qu'il est déjà subit. 
+- _Cas particulier :_ Une personne paralysée ou souffrant d’une maladie l’empêchant de ressentir la douleur peut ne pas percevoir de souffrance physique.
 
-mais un prejudice futur, cà dnon encore subit peut aussi etre certain. question de la perte de chance. idée que un préjudice qui n'est pas certain masi hauteurment probable peut être réparable, peut il etre réparable? 
+Même dans de tels cas, puisque le préjudice est évalué de manière **abstraite**, on conclut que ce préjudice est **réel** malgré ces spécificités individuelles.
+
+**Caractère certain du préjudice**
+Le préjudice doit également être **certain**, c’est-à-dire qu’il doit être :
+
+- **Déjà réalisé** (préjudice actuel).
+
+Cependant, un **préjudice futur** (non encore subi) peut aussi être considéré comme certain et donc réparable, à condition qu’il soit **hautement probable**.
+
+**Exemple : La perte de chance**
+Un préjudice futur, comme une perte de chance, peut être indemnisé s’il repose sur des éléments suffisamment probants pour démontrer que l’atteinte est hautement probable, même si elle ne s’est pas encore matérialisée.
 
 ##### 1) La réparation du préjudice actuel et du préjudice actuel
 
-y'a préjudice actuel lrosque le dommage a produit djéà toutes ces consequences nuisibles. Et y'a préjudice futur n' pas encore produit toutes ses répercussions pour le demandeur mais il est certain qu'il se produira. 
+Un **préjudice actuel** se caractérise par le fait que le dommage a **déjà produit toutes ses conséquences nuisibles**.
 
-consecration du préjudice futur a été fait pare la 1ere chambre des requete 1er juin 1932 "s'il n'est pas possible d'allouer des domamges et repartaions pour un prejudice purement eventuel, il en est aturement lorsque le préjudice bien que futur apparait comme la prolongation certaine et directe d'un état de chose actuel".
+Un **préjudice futur**, quant à lui, désigne un dommage dont toutes les répercussions pour le demandeur ne se sont pas encore produites, mais qui est **certain** de se réaliser.
 
-Exemple si une perosnne est certaon qu'il ne porra plus exercer sa profession.
+**Consécration du préjudice futur**
+La **consécration juridique** du préjudice futur a été faite par la **1ère chambre des requêtes**, dans un **==arrêt du 1er juin 1932==** :
+
+> *S'il n'est pas possible d'allouer des dommages et réparations pour un préjudice purement éventuel, il en est autrement lorsque le préjudice, bien que futur, apparaît comme la prolongation certaine et directe d'un état de choses actuel.*
+
+**Exemple :**
+Une personne qui, à la suite d’un dommage, est **certainement dans l’incapacité d’exercer sa profession** peut demander réparation au titre du préjudice futur.
 
 ##### 2) La perte de chance
 
-hypothèse où préjudice non encore réalisé, un préjudice qui peut être futur mais reste question de savoir si la perte de chance constitue un préjudice certain.
+Dans l’hypothèse d’un **préjudice non encore réalisé**, il peut s’agir d’un **préjudice futur**, mais la question demeure de savoir si la **perte de chance** constitue un **préjudice certain**.
 
-Exemple : on est inscrit à université, on admet que début avril début d'un accident quelques jours d'un accident qui entraine hospitalisation, et donc ca empeche de passer examens. 
+**Exemple 1 : Étudiant empêché de passer ses examens**
+Un étudiant inscrit à l’université subit un accident début avril, entraînant une hospitalisation qui l’empêche de passer ses examens.  
 
-peut on réparer le fait qu'on ai raté les examens, donc l'année? mais on sait pa si en ayant apssé les examens on auait eu l'année. En tout cas sur de perte de probabilité de réussir l'année.
+Peut-on réparer la perte de son année universitaire ?
+- On ne peut pas affirmer avec certitude que, s’il avait passé les examens, il aurait validé son année.
+- Cependant, il est certain qu’il a perdu une **probabilité de réussir** son année.
 
-sur le terrian des rapports entre un avocat et son client, et eventuelle responsabilité avocat vis a vis de son client, notemment lorsque avocat a omis de relever un vice de procédure dans le proces, ce qui n'a pa spermis au client de gagner son proces.  ou si avocat a pas dit à son client la possibilité d'une voie de recours.
+**Exemple 2 : Relation avocat-client et responsabilité professionnelle**
+Un avocat peut engager sa responsabilité envers son client s’il :
+- Omet de relever un **vice de procédure**, empêchant ainsi le client de gagner son procès.
+- Ne conseille pas son client sur la possibilité d’une **voie de recours**.
 
-ici rien aussi dit au client qu'il aurait necessairement gagné son proces, masi aurait peut etre permis d'obtenir gain de cause.
+Dans de telles situations, il n’est pas certain que le client aurait gagné son procès, mais il a perdu une chance de succès en raison de l’omission de l’avocat.
 
-donc finamenet meme si le préjudic en'est pas réalisé, elle peut être indemnisable.
+**Indemnisation de la perte de chance**
+Même si le préjudice n’est pas réalisé, il peut être indemnisable.
 
-formule posée dans arret de pricncipe de la chambre criminelle 9 octobre 1975, la cassation a défini ainsi la perte de chance "chaque fois qu'elle constatiat la disparition par les faits de délits (faits dommageables) de la probabilité d'un evenement favorable".
+Arrêt de principe : ==**Chambre criminelle, 9 octobre 1975**==
 
-c'est niqueent lorsque l'element visé es tun element favorable uon parle de perte de chance.
+La Cour de cassation a défini la perte de chance comme :
 
-toutefois, le dommage n'a fait disparaitre qu'une probabilité, mais il fut que le dommage ait altéré ces probabilités de maniere certaine. 
+>[!Définition]
+> **La perte de chance**
+> *La disparition, par des faits dommageables, de la probabilité d’un événement favorable.*
 
-La jurisprudence est relativement favorable à la victime, car emme uen perte de chance faible est indemnisable.
+Cela signifie que l’on parle de perte de chance uniquement lorsque l’élément visé est un **événement favorable**.
 
-ex meme si proba reussite examen faible car résultats 1er semestre, la chance de faire mieux au second semestre à été altérée.
+Cependant, il faut que le **dommage ait altéré ces probabilités de manière certaine**.
 
-dans un arret 2 civ 25 mai 2022, un jeune athlete renversé par une bicyclette, a du renoncer à totues les competitions sportives et demande réparation du préjudice. Demande notemmeent réparation pou rla perte d echance de participer aux jeux olympiques.
+**Jurisprudence favorable aux victimes**
+La jurisprudence est relativement **favorable à la victime**, car même une **perte de chance faible** peut être indemnisable.
 
-les juges du fond avaient considéré que les résultats fournis aux précédentes competitions sportives, ils avianet estimé que avait encore jamais atteint niveau necessaire pour être qualifié. 
+- _Exemple :_  
+    Un étudiant ayant obtenu de mauvais résultats au premier semestre peut quand même être indemnisé pour une perte de chance, car sa possibilité d’améliorer ses résultats au second semestre a été altérée.
 
-les juges du fond en ont donc deduit qu'il apportait pa sla preuve d'une perte de chance. 
+**Illustration : ==Arrêt 2ᵉ Civ., 25 mai 2022==**
+Un jeune athlète renversé par une bicyclette a dû renoncer à toutes les compétitions sportives et demande réparation de son préjudice, notamment pour la perte de chance de participer aux Jeux olympiques.
 
-malgres cela lacour de cassaton censure les juges du fond, en affirmant de. maniere assez large qeu totue perte de chance ouvre droit à réparation, des lors que le demandeur a perdu une chance de participer.
+- Les **juges du fond** ont considéré que les résultats de l’athlète dans ses précédentes compétitions ne démontraient pas qu’il avait atteint le niveau nécessaire pour se qualifier. Ils en ont donc conclu qu’il n’y avait pas de perte de chance prouvée.
+- **Cour de cassation** : Elle a censuré cette décision, affirmant que toute perte de chance ouvre droit à réparation, dès lors que le demandeur a perdu une chance, même faible, de participer à l’événement en question.
 
-dans le projet de réforme, la notion est rperise dans articel 1238 du projet, qui reprend les termes de la chabre criminelle de 1975.
+Le **projet de réforme** reprend cette notion dans l’**==article 1237==**, utilisant les termes de l’arrêt de la ==Chambre criminelle de 1975== pour définir la perte de chance.
 
+> **Article 1237 du projet de réforme**
+> *La perte de chance constitue un préjudice réparable dès lors qu’elle consiste en la disparition actuelle et certaine d’une éventualité favorable.*
+> *Ce préjudice doit être mesuré à la chance perdue et ne peut être égal à l’avantage qu’aurait procuré cette chance si elle s’était réalisée.*
 
 #### B) La question du caractère licite et légitime du préjudice
 
-ces caracteres là ont été identifié depuis lontemps par a jrisprnce. 
+Ces caractères ont été identifiés depuis longtemps par la **jurisprudence**.
 
-ch criminelle 28 férier 1863, la cour de cassationa vait admis que il n'était pas necessaire qu'il soit porté atteinte a un droit (subjhect)f pour que le préjudice soit réparable.
+**==Chambre criminelle, 28 février 1863==**
+Dans cet arrêt, la Cour de cassation a admis qu’il n’était pas nécessaire qu’un droit subjectif soit lésé pour que le préjudice soit réparable.
 
-il s'agissait d'un homme qui travailait et entretenait son frere et sa soeur. Il était le seul a avoir des revenus dans la famille. Il décede dans un accident, donc freres et soeur splus aucun revenu. On a considéré que cette perte de revenu par frere et soeur est réelle et légitime, bien que au nom de la loi civile, les freres et soeurs n'ont pas un droit à une obligation alime,ntaire.
+**Les faits :**  
+Un homme travaillait et entretenait son frère et sa sœur, étant le seul à percevoir des revenus dans la famille. À la suite d’un accident, il décède, laissant ses proches sans ressources.  
+Bien que, selon le droit civil, les frères et sœurs n’aient pas droit à une obligation alimentaire, la Cour de cassation a reconnu que la perte de revenus subie constituait un **préjudice réel et légitime**, et qu’il devait être réparé.
 
-malgres cela cassation consiere qu'il y a préjudice réparable et légitime. 
+**Conditions de licéité et de légitimité du préjudice**
+Pour qu’un préjudice soit réparable, il doit être à la fois **licite** et **légitime**.
 
-il faut malgres totu que le prjjudice soit licite et légitime.
+**1)  Licéité de l’intérêt lésé**
+L’intérêt lésé ne doit pas être contraire au droit.
 
-tout d'abord, l'interet lésé doit être licite. Càd qu'il ne faut aps que cet interet soit contarire au droit. on peut donc pas obtenir un dédommagement (pareil pour les proches). Exemple revenu qi vent de la drogue, ou travail non déclaré. si accident préjudice corporel et mateirel, mais ce travail et les interets etaient illicites et donc non réparable. Le fait de jouer au casino, pas illicite en soit, sauf que certaines perosnnes interdites de casino. une fois, une personne qui a demandé a elle meme d'etre interdite de casino, gagne de l'argent, on lui refuse l'argent car illicite.
+- **Exemple 1 :** Si les revenus proviennent d’une activité illicite, comme le trafic de drogue ou un travail non déclaré, le préjudice corporel ou matériel pourrait être reconnu, mais le préjudice lié à ces revenus ne serait pas réparable.
+- **Exemple 2 :** Une personne qui s’est volontairement fait interdire l’accès aux casinos ne peut pas réclamer le paiement de ses gains si elle enfreint cette interdiction.
 
-plus subtil est la question de l'interet légitime. 
+**2. Légitimité de l’intérêt lésé**
+La légitimité de l’intérêt lésé est une notion plus subtile.
 
-préjudice subi par la concubine d'unepersonne qui est décédé alors que de son vivant il entretenat sa concubine.
+**Cas particulier : la concubine**  
+Pendant longtemps, le préjudice subi par une concubine à la suite du décès de son partenaire n’était pas reconnu, car cette relation hors mariage n’était pas prise en compte par le droit.
 
-pendat longtemps on estimatiq eu cette relation hors mariage était hors du droit, mais avec exemple frere et soeurs meme si c pas dans le droit pon peut uqand meme avoir réparation. 
+Cependant, un **revirement de jurisprudence** a eu lieu avec un arrêt de la **==Chambre mixte, 27 février 1970, arrêt Dangereux==**. La Cour a admis que :
+- Une concubine pouvait légitimement obtenir **réparation d’un préjudice matériel** lié à la perte des ressources fournies par son partenaire,
+- Mais aussi d’un **préjudice moral** lié à cette perte.
+Voici une version corrigée et reformulée de votre texte :
 
-reviremetn opéré dans un arret chambre mixte 27 février 1970, arret Dangereux a admis que la concubine pouvait légitimemetn se voir indemniser le préjudice qui pouvait résulter du prejudice mateirle et aussi moral qui resultait de la perte de son partenaire.
+**Le préjudice lié à la naissance d’un enfant**
 
-cas du préjudice lié à la naissance d'un enfant.
+Deux hypothèses principales sont à envisager :
+**1. La naissance non désirée**
 
-2 hypotheses à envisager :
-- la naissance qui n'a pas été désirée : une femme qui tombe eneinte souhaite proceder à une IVG, mais l'acte médical ne fonctionne pas. la question étiat de savoir si la mere peut demander la réparation de son préjudice. la réponse de la cour de cassation est négative, 1ere chambre civile 25 juin 1991, qui a idt uqi'l n'y avait pas d'interet légitime. la cour précise que la assance ne eptu pas a elle seule constituer un préjudice réparable.Attention à nuancer c la naissnce qui est pas réparable, mais si préjudice lié à l'acte de l'IVG, ou lorsque enfant à la suite d'un viol ou relation incestieuse, là le préjudice est réparable. Mais pas naisasne de l'enfant qui est un préjudice réparable mais les circonstances dans lequelles il a été concu. 
-- naissance désirée mais quand les enfants sont nés avec un handicap pas décellé avant la naissance : affaire Perruche, des parents qui souhaitaient un enfant. Lors des premeirs examens, le radiologue n'avait pas décelé une anomalie sur le foetus. Enfnat né gravement handicapé, alors que si les parents aviaent eu connaisance de cette anomalie il auraitn eu la possibilité de mettre un terme à la grossesse. la question était de savoir si le fait d'être né avec un handicap était un préjudice réparable? la cour de casstion dans cette affaire s'est réunie en assemblée pléniere 17 novembre 2000 en répondant de maniere positive, avec pour conseuqence que cela entarinait une prise en charge du handicap tout au long de la vie de l'enfant. Estimé que ca avait causé un préjudic eaussi bein à enfan tqu'aux parents. cet arret a été confirmé par d'autre ass plenierai 13 janvier 2001 dans 3 arrets. tout le corps médical s'indignait, car responsabiltié médiclae fortement amplifiée. forte oppostion du public à tel pointq ue le legislateur, intervenu par une loi du 4 mars 2002, relatif au droit de smalades età la qualitié du systeme de santé, qui a modifié à cet égard le code de l'action social et des familles (CASF). pour ocntre rl ajurisprudence Perruche, artilce L114-5 al 1 du CASF, il a été inscrit que nul ne peut se prévaloir d'un prjudice du seul fati de sa naissance.
+Une femme enceinte souhaite procéder à une IVG, mais l’acte médical échoue. La question posée était de savoir si la mère pouvait demander réparation de son préjudice.
 
-selon la loi,  il n'est pas jurdiuqlent légitime de se plaidre d'être né et de vivre. 
+- **Réponse de la Cour de cassation :**  
+    Dans un arrêt de la **==1ʳᵉ chambre civile du 25 juin 1991==**, la Cour a jugé qu’il n’y avait pas d’intérêt légitime à demander une telle réparation. La naissance, à elle seule, **ne peut constituer un préjudice réparable**.
 
-question sur la rétroactivité de la loi e tsur son application en cours. Intervention du consiel cons, d ela CEDH, etc.
+- **Nuances à apporter :**  
+    Ce n’est pas la naissance en tant que telle qui est réparable, mais les **circonstances entourant la conception**.
+    - Par exemple, dans les cas où la grossesse résulte d’un **viol** ou d’une **relation incestueuse**, le préjudice est reconnu comme réparable.
+    - De même, si le préjudice résulte d’une **faute liée à l’acte médical** (échec ou erreur dans la procédure d’IVG), celui-ci peut être réparé.
 
-al 2 L114-5, la responsabilité du médecin petu quand meme etre engagée mais seulement en cas de faute. 
+**2. La naissance avec handicap non décelé avant la naissance**
 
-al 3 précise que seul le préjudice de sparents est réparable, alors que arret pérruche avait considéré que est réparable préjudice des parents et celui de l'enfnat. Les charges particueires déoculatn du handicpa totu au long du handicap de enfant relvent de la solidrationé nationale, qui vont prendre ne charge les pépenses.
+**L’==affaire Perruche==** illustre cette hypothèse :
+- Des parents souhaitaient avoir un enfant. Lors des premiers examens prénataux, le radiologue n’a pas détecté une anomalie sur le fœtus.
+- L’enfant est né gravement handicapé. Les parents ont fait valoir que, s’ils avaient été informés de l’anomalie, ils auraient choisi de mettre fin à la grossesse.
+- La question était donc : **le fait d’être né avec un handicap constitue-t-il un préjudice réparable ?**
+
+- **Décision de la Cour de cassation :**  
+    En **==assemblée plénière, le 17 novembre 2000==**, la Cour a répondu **positivement**. Elle a estimé que la naissance dans ces conditions causait un préjudice à la fois à l’enfant et aux parents, impliquant une prise en charge du handicap tout au long de la vie de l’enfant.
+
+- **Conséquences de l’arrêt Perruche :**
+    - Cette décision a été confirmée par trois autres arrêts rendus en **==assemblée plénière le 13 janvier 2001==**.
+    - Elle a suscité une vive opposition dans le corps médical, qui considérait que la responsabilité médicale était fortement amplifiée.
+    - Cette opposition a également gagné une partie de l’opinion publique, conduisant le législateur à intervenir pour contrer cette jurisprudence.
+
+**==Loi du 4 mars 2002== : Une réponse à l’arrêt Perruche**
+
+La **loi du 4 mars 2002**, relative aux droits des malades et à la qualité du système de santé, a modifié **l'==article L.114-5 alinéa 1== du Code de l’action sociale et des familles (CASF)** pour contrer la jurisprudence Perruche.
+
+> **Article L.114-5 alinéa 1 du CASF** :
+> *Nul ne peut se prévaloir d’un **préjudice du seul fait de sa naissance**.*
+> *La personne née avec un handicap dû à une faute médicale peut obtenir la réparation de son préjudice lorsque l'**acte fautif a provoqué directement le handicap ou l'a aggravé**, ou n'a pas permis de prendre les **mesures susceptibles de l'atténuer**.*
+> *Lorsque la responsabilité d'un professionnel ou d'un établissement de santé est engagée vis-à-vis des parents d'un enfant né avec un handicap non décelé pendant la grossesse à la suite d'une faute caractérisée, les parents peuvent demander une indemnité au titre de leur seul préjudice. Ce préjudice ne saurait inclure les charges particulières découlant, tout au long de la vie de l'enfant, de ce handicap. La **compensation de ce dernier relève de la solidarité nationale**.*
+
+- **Principes posés par la loi :**
+    - Selon la loi, il n’est **pas juridiquement légitime de se plaindre d’être né et de vivre**.
+    - Toutefois, la **responsabilité du médecin** peut être engagée en cas de **faute médicale** (alinéa 2).
+    - Seuls les **parents** peuvent obtenir réparation de leur préjudice, notamment les charges particulières liées au handicap de l’enfant (alinéa 3).
+
+- **Solidarité nationale :**  
+    Les **frais liés au handicap** tout au long de la vie de l’enfant relèvent de la **solidarité nationale**, et non de la responsabilité médicale.
+    
+
+**Questions soulevées**
+
+La loi a également soulevé des débats concernant :
+
+- **Sa rétroactivité**, notamment pour les affaires en cours.
+- Les décisions rendues par le **Conseil constitutionnel** et la **Cour européenne des droits de l’homme (CEDH)** sur cette question.
 
 #### C) Le caractère personnel du préjudice
 
-en princpe on ne peut demander réparation pour un préjudice qui n'est pas le sien. en revanche si jamais la victime décede et qu'on fait parti des ayants droits de la vicitme, les droits qui sont apparus dans son patrimoine avant son deces sont réparables. 
+**La règle générale : réparation du préjudice personnel**
+En principe, une personne ne peut demander réparation que pour un préjudice qui lui est **personnel**.
 
-en revanche, la questsion plsu subtile d svoir si la mort elle meme est un préjudice réparable. En réalité le deces en lui meme n'est pas un préjudice réparable. Ex si la personee est morte sur le coup, sans souffrif, il n'a pas eu le temps our qu'un droit à réparation soit ouvert dans son patrimoine. Donc pas de préjudice moral, ou de perte de revenu. 
+Toutefois, si la victime décède, les **ayants droit** de cette dernière peuvent demander réparation pour les droits qui sont apparus dans le patrimoine de la victime **avant son décès**.
 
-jurpsirdnece préicse cette nuance là, arret civ 2 civ 23 novembre 2017, ennfat de 4 ans noyé dans la piscine des voisins. parents intentent action en répartion du préjudice morla, et aussi réparation du fait du préjudice subit par leur enfant par suite de la perte de sa vie. Les juges ont refusé de donenr droit à la demande de sparents en precisant que aucun préjudice né dnas le patrimoine de enfant. En revanche ce qui aurait pu etre indemnisable c'est le préjudice d'angoice de mort imminente, càd lorsque la eprsonne se voit mourrir, est un préjudice qui a pu apapraitre dans le patrimoine avant le déces. 
+**La question de la réparation de la mort elle-même**
+La question de savoir si la **mort elle-même** constitue un préjudice réparable est plus complexe.
 
-exception : question du préjudice collectif.  on a reconnu à certain groupepments la possibilité d'agir au nom d'aures personnes. Exemple le cas de ssyndicats, qui peuvent agir pour défendre les interets des travailleurs. egalement l cas d'association qui défendent égaemetn un interet collectif. 
+- **La mort comme telle n’est pas un préjudice réparable** :
+    - _Exemple_ : Si une personne décède **instantanément** sans souffrir, elle n’a pas eu le temps de voir apparaître dans son patrimoine un droit à réparation. Par conséquent, il n’y a pas de **préjudice moral** ni de **perte de revenus**.
 
-en droit de la consommation est apparu y'a une 10aine d'année la possibiltié d'action de groipe.
+- **Jurisprudence : ==arrêt Civ. 2, 23 novembre 2017==** :  
+    Dans cette affaire, un enfant de 4 ans s’est noyé dans la piscine de voisins.
+    - Les parents ont intenté une action en réparation pour leur **préjudice moral**, mais aussi pour le préjudice subi par leur enfant en raison de la perte de sa vie.
+    - La Cour a refusé d’indemniser ce second préjudice, en précisant qu’aucun droit à réparation n’était apparu dans le patrimoine de l’enfant avant son décès.
 
-aussi exemple du préjudice ecologique, on admet que ce soit des associations ou des groupemetn qui epadet réparation de ce préjudice eclogique.
+Cependant, un préjudice **peut être indemnisé dans certains cas spécifiques**, comme :
+- **Le préjudice d’angoisse de mort imminente** :  
+    Ce préjudice survient lorsque la victime, consciente de sa mort imminente, subit une angoisse insoutenable avant de décéder. Si ce préjudice apparaît avant le décès, il peut être transmis au patrimoine de la victime et donc être réparé.
+
+**Exception : le préjudice collectif**
+Dans certains cas, des **groupements** ou des **associations** sont autorisés à agir au nom de plusieurs personnes pour demander réparation d’un préjudice collectif.
+
+**Exemples :**
+1. **Les syndicats** :
+    - Ils peuvent agir pour défendre les intérêts des travailleurs qu’ils représentent.
+
+2. **Les associations** :
+    - Elles peuvent agir dans le cadre d’intérêts collectifs, comme la défense des consommateurs ou de l’environnement.
+    - _Exemple :_ La possibilité d’intenter une **action de groupe** en droit de la consommation, introduite il y a une dizaine d’années.
+
+3. **Le préjudice écologique** :
+    - Pour des atteintes à l’environnement, des associations ou des groupements peuvent demander réparation au titre de ce préjudice.
 
 # Section 2 :  La pluralité des préjudices réparables
 
-La nomenclature Dinthilac, nom d'un magistrat de la 2eme chambre civile, président de la chambre, rédigé un rapport sur les différents chefs ed préjudice et les a classé.
+La **nomenclature Dintilhac**, du nom d’un magistrat de la 2ᵉ chambre civile, président de cette chambre, a été établie à la suite d’un rapport rédigé sur les différents **chefs de préjudice**, qui ont ensuite été classés.
 
-a un grand interet pratique pour avocats et magistrats. nomenclature pas de nature normative, juste une oeuvre docrirnale d'un magistrat. 
+Cette nomenclature présente un **grand intérêt pratique** pour les avocats et les magistrats. Cependant, elle n’a pas de **valeur normative** : il s’agit simplement d’une **œuvre doctrinale** réalisée par un magistrat.
 
-le projet de réforme envisage de généraliser l'utilisation de cette nomenclature Dinthilac.
-
+Le projet de réforme envisage de **généraliser l’utilisation de la nomenclature Dintilhac**, afin de standardiser l’évaluation des préjudices.
 ### Paragraphe 1 : Le préjudice matériel
 
-il s'agit des consequences dommagealbes qui peuvent être évalués monétairemetn, économiquement. Donc préjudice patrimonial. On petu s'insipirer de l'articel 1231-2 du code civil, qui normalemetn est un article à propos de la responsabilité contractuelle, maks qui a une approche de la perte matérielel qui petu tout à fais être utilisée quadn il s'agit de resposnabiltéi civile extra contractelle.
+Il s'agit des **conséquences dommageables** qui peuvent être **évaluées monétairement** ou **économiquement**, ce qui constitue le **préjudice patrimonial**.
 
-article 1231-2 : y'a préjudice mateirle soit lorque y'a perte eprouvé soit un gain manqué. 
+On peut s’inspirer de l’**==article 1231-2 du Code civil==**, qui concerne normalement la responsabilité contractuelle, mais dont l’approche sur la **perte matérielle** peut tout à fait être appliquée dans le cadre de la responsabilité civile extracontractuelle.
 
-(gain manqué : pas pu s'enrichir à cause du dommage). 
+> **Article 1231-2 du Code civil**
+> *Les dommages et intérêts dus au créancier sont, en général, de la perte qu'il a faite et du gain dont il a été privé, sauf les exceptions et modifications ci-après.*
 
-y'a la perte de biens qu'on a dans le patrimoine. Y'a toutes les dépenses avancées suite à ce dommaeg. Frais de sooin, de tansport, de rééducation., etc. Pas tou tle monde a la meme mutueleld e santé. Perte de revenu, devoi rréamnégager un logement,e tc.
+Un préjudice matériel existe :
+- Soit lorsqu’il y a une **perte éprouvée** (ce que la victime a perdu),
+- Soit lorsqu’il y a un **gain manqué** (ce que la victime aurait pu gagner mais n’a pas pu à cause du dommage).
+
+**Exemples de préjudices matériels :**
+1. **Perte de biens dans le patrimoine** :
+    - Dommages causés à des biens matériels.
+
+2. **Dépenses engagées à la suite du dommage** :
+    - Frais de soins,
+    - Frais de transport,
+    - Frais de rééducation.
+
+3. **Perte de revenus** :
+    - Incapacité temporaire ou permanente de travailler.
+
+4. **Aménagements nécessaires** :
+    - Exemples : réaménager un logement en raison d’un handicap ou acheter du matériel médical.
 
 ### Paragraphe 2 : Le préjudice moral
 
-on parle de préjudice moral lorsqui'l y a atteint eau sentiment de la fictime, quelque soit ce sentiment. Peut etre lié à un préjudice corporel ou matéirel, rare qu'il soti autonome.
+On parle de préjudice moral lorsqu’il y a une **atteinte aux sentiments de la victime**, quels qu’ils soient.
 
-préjudice considéré comme discutable, estce que les larmes peuvent se monneyer? 
+Le préjudice moral peut être lié à un **préjudice corporel** ou **matériel**, mais il est rare qu’il soit totalement **autonome**.
+ 
+ **Caractéristiques du préjudice moral**
+1. **Caractère discutable** :
+    - Certains s’interrogent sur la légitimité de ce préjudice : _peut-on "monnayer" les larmes ou la douleur morale ?_
 
-par ailleurs difficilement quantiifable.
+2. **Difficulté de quantification** :
+    - Évaluer un préjudice moral reste délicat en raison de sa nature subjective et immatérielle.
 
-exemple perte d'un proce, animal, aussi préjudice moral lorsque y'a atteinte à un dorit de la personnalité. Lorsque on porte atteinte au respect de notre vie privée, lorsqu'on porte atteinte à notre honneur, à la présomption d'innocnece.
+**Exemples de préjudices moraux**
+1. **Atteinte aux droits de la personnalité** :
+    - **Respect de la vie privée** : Divulgation d’informations confidentielles.
+    - **Atteinte à l’honneur ou à la présomption d’innocence**.
 
-aussi prejudice smoral qui sont la consequence de préjudicle coporel. D'abord les souffrances endurées, comme sofufraces psychoques, aussi préjudice esthétique, le fait d'avoir été défiguré, d'avoir des cicatrices.  Egalement le préjudice sexuel, si suite à acccident on peut plus avoir de relation avec partenaire, préjudice de nature moral considéré comme réparabele. Préjudice d'havilissement. Préjudice d'établissement, qui est den epas pouvoir fonder de famille. Le préjudice religieux, ne plus pouvoir se rendre dans etablissement de culte. Le préjudice d'anxiété ou de mort imminente, le fait d'etre exposé une maladie ex seropositif pas sida mais exposé au sida. 
+2. **Préjudice moral découlant d’un préjudice corporel** :
+    - **Souffrances endurées** : Douleurs physiques ou psychologiques.
+    - **Préjudice esthétique** : Défiguration ou cicatrices visibles.
+    - **Préjudice sexuel** : Incapacité d’avoir des relations intimes avec un partenaire à la suite d’un accident.
+    - **Préjudice d’établissement** : Impossibilité de fonder une famille.
+    - **Préjudice religieux** : Incapacité de se rendre dans un lieu de culte.
+    - **Préjudice d’anxiété** : Angoisse liée à une exposition à un danger (par exemple, exposition au VIH sans développer le SIDA).
+    - **Préjudice de mort imminente** : Angoisse ressentie lorsqu’une personne se sait sur le point de mourir.
 
-cour de cassation plusuers arret en décemre 2024, prjudice d'anxiété qui a pu être subi à mayotte du fait des restrictions d'eau, et du fait que l'eau acheminée contient potentiellemetn des substances dangerueses pour la santé. En l'espece pas prouvé. masi la mauaise qualité de l'eau est un préjudice d'nanxiété.
+**Jurisprudence récente : le préjudice d’anxiété**
+La **Cour de cassation** a rendu plusieurs ==arrêts en décembre 2024== concernant le **préjudice d’anxiété**.
+- _Exemple :_ À Mayotte, certains habitants ont intenté une action en justice en raison des **restrictions d’eau** et de la **mauvaise qualité de l’eau potable**, potentiellement dangereuse pour la santé.
+- **Décision** : Bien que la preuve d’un risque pour la santé n’ait pas été établie, la **mauvaise qualité de l’eau** a été reconnue comme une source d’anxiété pour les habitants.
 
-égalemetn le préjudice d'angoisse et d'inquiétude. ex pas de nouvelle d'un proche qui a été dans un acccident. 
+**Autres formes de préjudice moral**
+1. **Préjudice d’angoisse et d’inquiétude** :
+    - _Exemple :_ Ne pas avoir de nouvelles d’un proche impliqué dans un accident peut entraîner une grande angoisse.
+
+2. **Préjudice moral lié à la perte** :
+    - Perte d’un procès, d’un animal de compagnie, ou encore de tout bien ayant une valeur affective particulière.
 
 ### Paragraphe 3 : Le préjudice corporel
 
-en principe se limite à l'atteinte physiologqe, au corps humain. EN pratique tres ouvent entre le dommage mateirel et le dommage moral. Il est rarement isolé. On lui associe la pluprt du tmeps les conseqences materielles comme frais medicaux, et aussi l'atteinte morae, psyhchque liée au corps himain.
+En principe, le préjudice corporel se limite à l’**atteinte physiologique** du corps humain.
+
+En pratique, il est très souvent situé **entre le dommage matériel et le dommage moral**, et il est rarement isolé. On lui associe la plupart du temps :
+- Les **conséquences matérielles**, comme les frais médicaux,
+- Et les **atteintes morales** ou psychologiques liées au corps humain.
 
 ### Paragraphe 4 : Le préjudice par ricochet
 
-on peut ocnsiderer que pas que la vicitme directe qui subit u prjéudice mais que ces proches peuvnet egalemetn en subir. En fait c seulemen tn cas de deces de la vicitme où en cas d'atteinte particulierement rvve à l'integrité physique de la vicitme directe que la victime par ricochet a droit à réparation. 
+On peut considérer que **non seulement la victime directe** subit un préjudice, mais que ses **proches** peuvent également en subir.
 
-la vicitme par ricochet petu subir 2 types de préjudices : un préudice mateirel, et un prjéudice moral (préjudice d'affecton), du fait de la perte du'n proche pour elque eon avait des sneitmetns.
+Cependant, le droit à réparation pour une **victime par ricochet** est reconnu uniquement :
+1. En cas de **décès de la victime directe**,
+2. Ou en cas d’atteinte particulièrement **grave** à l’intégrité physique de la victime directe.
 
-il y a d'autres préjudices par ricochets, comme préjudice sexuel, pour le fait de la victime directe de plus aovir de rapport sexuel. Par ricochet le partenaire ne peut plus en avoir aussi avec la vicitme directe. 
+**Les types de préjudices subis par ricochet**
 
-question de savoir si un enfant qui était simplemetn concu mais pas encore né au moment du déces de son pere peut etre considéré comme une victime par ricochet, du fiat de la perte de son pere qu'il n'a pas connu.
+La victime par ricochet peut subir :
+1. **Un préjudice matériel** :
+    - Par exemple, la perte de revenus ou de soutien financier à la suite du décès ou de l’incapacité de la victime directe.
 
-la jurisprudence l'a admis de maniere claire depus un revirmeent de la 2civ 14 décembre 2017. Dans cette affaie elle a estimé que l'enfnat simplement non encore né masi déjà concu pouvait prétendre avoir a areparer son prjéudice.
+2. **Un préjudice moral** (préjudice d’affection) :
+    - Celui-ci résulte de la perte d’un proche pour lequel on éprouvait des **sentiments profonds**.
 
-illustration du'n adage, un principe connu en droit francais selon lequel l'enfant est réputé concu à chaque fois qu'ul y va de son nteret, condiiton d'avoir été concu. Exemple heritage petu hérité.
+D’autres préjudices par ricochet sont également reconnus, comme le **préjudice sexuel**.
+- _Exemple_ : Si la victime directe ne peut plus avoir de relations sexuelles à la suite d’un dommage corporel, le partenaire peut également demander réparation en tant que victime par ricochet.
 
-autre affaire : une demi soeur née apres années deces, on conisdere que pas de préjudice.
+**Cas particulier : enfant conçu mais non encore né au moment du décès**
+La question se pose de savoir si un enfant simplement conçu, mais **non encore né** au moment du décès de son père, peut être considéré comme une victime par ricochet en raison de la perte de ce parent qu’il n’a jamais connu.
+
+La jurisprudence a **clairement admis** cette possibilité à la suite d’un revirement dans un arrêt de la **==2ᵉ chambre civile, en date du 14 décembre 2017==**. Dans cette affaire, la Cour a jugé qu’un enfant simplement conçu, mais non encore né, pouvait demander réparation pour son préjudice lié à la perte de son père.
+
+**Illustration : l’adage "l’enfant conçu est réputé né chaque fois qu’il y va de son intérêt"**
+Cet adage, bien connu en droit français, permet à un enfant conçu de bénéficier de certains droits à condition qu’il soit né vivant et viable.
+
+- _Exemple :_ En matière de succession, un enfant conçu peut hériter au même titre que les autres héritiers.
+
+**Limite jurisprudentielle**
+La jurisprudence fixe toutefois des limites.
+
+- _Exemple :_ Une demi-sœur née **plusieurs années après le décès** de son parent n’a pas été reconnue comme victime par ricochet, car elle n’était pas encore conçue au moment des faits.
 
 ### Paragraphe 5 : Le préjudice écologique
 
-de quelle maneire on prend en compte les atteitnes qui sont portées à la nature? et plus largement à l'environnement? 
+**La prise en compte des atteintes à la nature et à l’environnement**
 
-lorsque cette atteinte à pour ocnsequence de laiser des interets individuels. 
+**1. Lorsque l’atteinte lèse des intérêts individuels**
+L’atteinte à l’environnement peut entraîner des **préjudices découlant directement du dommage** causé à des intérêts individuels (propriétés, activités économiques, etc.).
 
-ensuite des préjudices qui découlent de ce dommage.
+**2. Considérer l’atteinte à l’environnement en tant que telle**
+La question fondamentale est : **doit-on considérer l’atteinte à l’environnement lui-même comme un préjudice réparable ?**
 
-est-ce que il faut considerer l'atteinteà l'nevirnenement lui meme?
+**Réponse en droit international**
+C’est d’abord en **droit international** que l’on a apporté une réponse positive :
 
-c'est d'abord en droit international que on a apporté une rpéonse positive, on a des conventions, directives europ qui consacrent la notion de préjudice ecologique, et ce depuis le début des années 1990. 
+- Plusieurs **conventions internationales** et **directives européennes**, depuis le début des années 1990, reconnaissent la notion de **préjudice écologique**.
+- Ces textes consacrent l’idée que l’environnement peut être protégé pour lui-même, indépendamment des intérêts privés ou collectifs immédiats.
 
-Sur le terrain du droit français, la jurisprudence a consacré la notion de prjéudice écologique, d'abord dans l'affaire Erika,plusuers décions (fait : pétrolier echoeularge des cotes bretonnes) ch criminelel 25 septembre 2012 reconnnait et ocnsacre existence du préjudce ecologique autonome, càd distinct des préjudices matéirels aux personnes privées. Affecte un interet collectif et légitime. 
+**Évolution en droit français**
 
-casastion consacre que atteinte irreversibles à l'ecosysteme, ex fait disparaitre espece d'animal, les mets en danger de disparition, etc.
+1) **Jurisprudence : L’==affaire Erika==**
 
-ensuite c la loi du 8 aout 2016 qui cette fois a introduti dans le code civil ax articles 1246 et suivants pour dire que totue perosner epsonable dun prejuidce ecologique est tenue de le payer, arilce 1247 donne une def du préjudice econolique "atteinte non négligeable aux elements et fonctions des eco systems ou au benefice collectif tiré par l'homme de leru envirennement." En meme temps le code civil indique les peronnes qii peuvent agir pour réparation du préjudice collectif. ex association, collectivité, un etablisemtn public, et puis le code indique la facondont on doit réparer le préjudice, par nature sauf si pas possible.
+En **droit français**, la **jurisprudence** a reconnu la notion de **préjudice écologique autonome**.
 
+- **Faits :** Dans l’affaire **Erika**, un pétrolier a fait naufrage au large des côtes bretonnes, provoquant une importante pollution.
+- **Décision :** Dans un ==arrêt de la **chambre criminelle du 25 septembre 2012**==, la Cour de cassation a consacré l’existence du préjudice écologique autonome, distinct des préjudices matériels subis par des personnes privées.
+- **Portée :** Ce préjudice affecte un **intérêt collectif légitime**, comme l’écosystème lui-même (exemple : disparition d’une espèce ou mise en danger de certaines populations animales ou végétales).
 
+2) **Légalisation par la ==loi du 8 août 2016==**
+
+La loi du 8 août 2016 a **introduit la** **notion de préjudice écologique** dans le Code civil, aux ==articles 1246 et suivants==.
+
+> **Article 1247 du Code civil**
+> *Est réparable, dans les conditions prévues au présent titre, le préjudice écologique consistant en **une atteinte non négligeable aux éléments ou aux fonctions des écosystèmes ou aux bénéfices collectifs tirés par l'homme de l'environnement**.*
+
+- **Personnes habilitées à agir :**  
+    Les personnes pouvant demander réparation pour un préjudice écologique collectif sont :
+    - Les **associations** ;
+    - Les **collectivités territoriales** ;
+    - Les **établissements publics**.
+
+- **Modalités de réparation :**  
+    La réparation doit se faire **par nature** (restauration de l’environnement) sauf si cela est impossible, auquel cas une compensation financière est envisagée.

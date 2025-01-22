@@ -18,12 +18,12 @@
 
 Une obligation peut elle-même avoir plusieurs sources. Qu'est-ce qui, dans notre patrimoine, fait apparaître ce droit subjectif, cette créance ?
 
-Dans sa version de 1804, le Code civil semblait distinguer cinq sources d'obligations :
-- le contrat,
-- le quasi-contrat,
-- le délit,
-- le quasi-délit,
-- la loi.
+Dans sa version de 1804, le Code civil semblait distinguer **cinq sources d'obligations** :
+- ***le contrat,***
+- ***le quasi-contrat,***
+- ***le délit,***
+- ***le quasi-délit,***
+- ***la loi.***
 
 **Définitions (lexique juridique)**
 - **Quasi-contrat** (==art 1300 civ==) : Fait purement volontaire dont il résulte un engagement de celui qui en profite sans y avoir droit, et parfois un engagement de son auteur envers autrui. Cette définition donnée par la loi est suffisamment souple pour autoriser le juge à traiter comme quasi-contrat d'autres situations que celles réglementées par le Code civil au titre de la gestion d'affaires, du paiement de l'indu et de l'ex-enrichissement sans cause 
@@ -31,18 +31,18 @@ Dans sa version de 1804, le Code civil semblait distinguer cinq sources d'obliga
 
 En droit des obligations, la réforme partielle de 2016 a organisé le Code civil. Désormais, le Livre 3, consacré aux différentes manières dont on acquiert la propriété, contient un titre dédié aux sources d'obligations.
 
-Il n'existerait plus que trois sources d'obligations :
-- l'acte juridique,
-- le fait juridique,
-- la seule loi.
+**Il n'existerait plus que trois sources d'obligations :**
+- ***l'acte juridique,***
+- ***le fait juridique,***
+- ***la seule loi.***
 
-> **1er alinéa de l'article 1100 du Code civil :**  
-> "Les obligations naissent d'actes juridiques, de faits juridiques ou de l'autorité seule de la loi."
+> **Article 1100 alinéa 1 du Code civil**  
+> *Les obligations naissent d'actes juridiques, de faits juridiques ou de l'autorité seule de la loi.*
 
 Les obligations qui naissent d'un fait juridique découlent d'autres sources indiquées par le Code civil à l'article 1100-2.
 
-> **Article 1100-2 alinéa 2 du Code civil :**  
-> "Les obligations qui naissent d'un fait juridique sont régies, selon le cas, par le sous-titre relatif à la responsabilité extracontractuelle ou le sous-titre relatif aux autres sources d'obligations."
+> **Article 1100-2 alinéa 2 du Code civil**  
+> *Les obligations qui naissent d'un fait juridique sont régies, selon le cas, par le sous-titre relatif à la responsabilité extracontractuelle ou le sous-titre relatif aux autres sources d'obligations.*
 
 Cette responsabilité extracontractuelle est aussi appelée responsabilité délictuelle, bien que l'adjectif soit impropre.
 
