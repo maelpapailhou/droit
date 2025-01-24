@@ -199,7 +199,8 @@ Initialement, le **Conseil d'État (CE)** refusait de contrôler ces actes en ra
 Le **Conseil d'État** a défini les actes de gouvernement comme des actes qui apparaissent comme **politiques** en raison des matières dans lesquelles ils sont accomplis. Leur nature politique les rendait inattaquables. Pendant longtemps, il était impossible de contester ces actes ou d'engager la responsabilité de l'État pour les conséquences préjudiciables qu'ils entraînaient.
 
 Cependant, aujourd'hui, il est possible d'engager la **responsabilité de l'État** pour les conséquences dommageables de ces actes, bien qu'ils restent insusceptibles de recours devant le juge administratif.
-### Les **4 catégories d’actes de gouvernement** :
+
+Les **4 catégories d’actes de gouvernement** :
 
 1. **Actes du pouvoir exécutif concernant ses rapports avec le Parlement**
     - Exemple : la décision d’appliquer l’==article 16 de la Constitution== a été déclarée comme un acte de gouvernement (==arrêt **Rubin de Servens**, CE Ass., 2 mars 1962==).
@@ -220,200 +221,142 @@ Cependant, aujourd'hui, il est possible d'engager la **responsabilité de l'Éta
 **Définition et caractéristiques de l’acte administratif :**
 L’acte administratif est pris par une **autorité administrative** qui accomplit une **mission administrative**, ce qui exclut les actes législatifs, juridictionnels et purement exécutifs.  
 Cependant, pour être qualifié d’acte administratif, il doit également être **normatif**, c’est-à-dire produire des effets juridiques.
-#### Paragraphe 2 : Le critère finaliste
+### Paragraphe 2 : Le critère finaliste
 
-_Quel est le but de l’AA unilatéral ?_
+**Quel est le but de l’acte administratif unilatéral (AAU) ?**
 
-Il modifie l’ordonnancement juridique en prescrivant des obligations ou en conférant des droits aux
+>[!Définition]
+>L’acte administratif unilatéral modifie l’ordonnancement juridique en prescrivant des obligations ou en conférant des droits aux administrés. C’est souvent à ce stade que l’on évoque la **caractéristique décisoire** de l’acte. Un acte décisoire affecte l’ordonnancement juridique.
 
-administrés. Souvent c’est à ce stade qu’on évoque la caractéristique décisoire de l’acte. Un acte
+Le juge administratif (JA) utilise un autre terme pour désigner cette caractéristique : **"faire grief"**, c’est-à-dire que l’acte porte atteinte à la situation juridique de l’individu.
 
-décisoire est un acte qui affecte l’ordonnancement juridique.
+Pour le professeur Chapus :
+> Un acte est décisoire « lorsque la manifestation de volonté de son auteur se traduit par l’édiction d’une norme destinée à modifier l’ordonnancement juridique ou au contraire à le maintenir en l’état ».
 
-Le JA utilise un autre terme : « faire grief ». Ça veut également dire que l’acte porte atteinte à la
+**Les conséquences d’un acte qui fait grief**
+Lorsqu’un acte fait grief, c’est-à-dire qu’il modifie l’ordre juridique, trois situations sont possibles :
 
-situation juridique de l’individu.
+1. **Ajout d’obligations** : L’acte impose de nouvelles obligations à l’administré.
+2. **Retrait d’obligations** : L’acte supprime des obligations qui pesaient sur l’administré.
+3. **Maintien en l’état** : L’acte refuse de modifier une situation juridique existante (par exemple, rejet d’une demande de permis de construire).
 
-Pour le professeur Chapu? : Un acte est décisoire « lorsque la manifestation de volonté de son
+Ces modifications ont un **impact juridique concret** sur la situation de l’administré.
 
-auteur se traduit par l’édiction d’une norme destinée à modifier l’ordonnancement juridique ou au
+**Le caractère exécutoire de l’acte administratif**
+Le caractère **exécutoire** est une notion essentielle du droit public. Ce concept, formulé par Hauriou, désigne la capacité de l’administration à édicter des obligations ou des interdictions **sans avoir à saisir le juge au préalable**.
 
-contraire à le maintenir en l’état ».
+*Exemple : Une décision d’interdiction de baignade est immédiatement exécutoire.*
 
-Quand un acte fait grief (= modification de l’ordre juridique) il peut se passer 3 choses :
+Le ==Conseil d’État, dans l’arrêt **Huglo** du 2 juillet 1982==, a qualifié le caractère exécutoire de **"règle fondamentale du droit public"**.
 
-- il ajoute des obligations
+**Caractéristiques et typologie des AAU**
+Les actes administratifs unilatéraux peuvent :
 
-- il affecte en retirant des obligations
+- Être **décisoires** (donc attaquables devant le juge administratif).
+- Avoir des **effets notables**, même sans être décisoires (et rester attaquables).
+- Ne pas avoir de **normativité** (et donc ne pas être attaquables).
 
-- quand l’acte conduit à refuser une obligation : maintien en l’état. Un acte qui modifie
+**Les actes non normatifs**
+Certains actes pris par des autorités administratives ne modifient pas l’ordonnancement juridique. Ils ne sont donc pas normatifs :
 
-l’ordonnancement juridique est un acte qui fait grief.
-
-Juridiquement ça change la situation. _Ex : j’ai pas de permis de construire → c’est sûr que je_
-
-_n’ai pas de permis de construire_.
-
-Être confronté au caractère exécutoire d’un acte. Exécutoire est une formule (vient de Hauriou).
-
-Le caractère décisoire est la promotion d’un acte à recevoir une exécution, possibilité pour
-
-l’administration d’édicter des obligations ou interdictions sans avoir à saisir le juge au préalable.
-
-Ex : décision d’interdiction de baignade est exécutoire.
-
-Le CE a décidé en 1982, HUGLO : que le caractère décisoire de l’acte est une règle fondamentale
-
-du droit public. _Ex : décision de rejet de demande de permis._
-
-Acte essentiel de l’acte administratif, mais la normativité n’est pas toujours au rdv.
-
-**AA unilatéral peuvent :**
-
-- être décisoire (attaquable)
-
-- avoir des effets notables (attaquable)
-
-- ne pas avoir de normativité
-
-Il y a des actes qui sont pris par des autorités administratives mais qui finalement ne sont pas
-
-normatifs :
-
-- actes préparatoires ou confirmatifs
-
-- actes indicatifs
-
-- mesures d’ordre intérieur qui sont normatives mais assimilées à des mesures non normatives
+1. **Actes préparatoires ou confirmatifs** : Actes qui précèdent ou confirment une décision, sans avoir d’effet juridique autonome.
+2. **Actes indicatifs** : Actes qui se limitent à fournir des informations ou des orientations, sans imposer de normes.
+3. **Mesures d’ordre intérieur (MOI)** : Bien que normatives, elles sont assimilées à des mesures non normatives car leurs effets juridiques sont très limités (par exemple, les règlements internes des établissements pénitentiaires).
 
 ##### A) Les mesures préparatoires (ou confirmatives)
 
-Mesures sans conséquence sur le droit en vigueur, pas de portée décisoire.
+**Mesures sans conséquence sur le droit en vigueur**
+Ces mesures n'ont pas de portée décisoire.
 
-Elles annoncent un acte futur (acte préparatoire), et c’est l’acte futur qui sera normateur. Ou alors la
+- **Actes préparatoires** : Ils annoncent un acte futur, et c’est cet acte futur qui sera normatif.
+- **Mesures confirmatives** : Elles rappellent simplement une norme déjà posée, sans en créer de nouvelle.
 
-mesure rappelle une norme déjà posée : mesures confirmatives.
-
-On considère qu’aucun de ces actes ne possèdent de volonté.
+On considère qu’aucun de ces actes ne traduit une volonté autonome.
 
 ###### 1) Les mesures préparatoires
 
-L’acte administratif unilatéral sincère souvent dans un processus décisionnel qui fait
+L’acte administratif unilatéral s’insère souvent dans un processus décisionnel qui inclut des actes préparatoires, lesquels n’affectent pas la situation juridique des administrés.
 
-intervenir des actes préparatoires qui n’affectent pas la situation juridique des administrés.
+>[!Définition]
+>Les **actes préparatoires** sont des propositions d’actes (par exemple, une proposition de mise à la retraite, des avis préalables, des consultations, des recommandations). Ils précèdent et concourent à la naissance d’une décision administrative. Par exemple, une délibération d’un conseil municipal à huis clos est un acte préparatoire.
 
-Actes préparatoires :
+**Cas particuliers**
+Dans certaines hypothèses limites, la jurisprudence assimile à un acte administratif unilatéral (AAU) certains avis et propositions qui lient totalement le pouvoir de décision de l’autorité destinataire.
 
-- des propositions d’acte (proposition mise à la retraite, avis préalables à des décisions,
+- **Exemple** : Arrêt ==CE, 27 avril 1987, _Ville de Grenoble_== : Un avis du Conseil supérieur de la fonction publique territoriale obligeait le maire à réduire la sanction initialement proposée. Même s’il s’agissait d’un avis, il était attaquable, car il liait son destinataire. Le Conseil supérieur prenait en réalité le fond de la décision.
 
-consultations, recommandations). Actes qui précèdent et concours à la naissance d’une décision
+**Mise en demeure**
+La mise en demeure peut avoir deux statuts :
 
-administrative (quand un conseil municipal délibère à huis-clos c’est un acte préparatoire).
+1. **Mesure préparatoire** : Lorsqu’elle constitue simplement la première étape d’une opération administrative.
+2. **Acte décisoire** : Lorsqu’elle contient des éléments nouveaux, des menaces précises ou fixe un délai d’exécution.
+    - **Exemple** : Arrêt CE, Section, 25 janvier 1991, _Confédération nationale des associations familiales catholiques_ : Une mise en demeure adressée par un ministre à un laboratoire pharmaceutique de reprendre la commercialisation d’une pilule a été considérée comme attaquable.
 
-Il existe cependant des hypothèses tengeantes, parfois la jurisprudence assimile à un AAU
+**Régime des actes préparatoires**
+Les actes préparatoires sont insusceptibles de recours en raison de leur absence de normativité. Toutefois, cela ne porte pas atteinte à l’état de droit, car les éventuels inconvénients qu’ils posent ne se réalisent qu’au moment où l’acte final est adopté.
 
-des avis et propositions qui lient totalement le pouvoir de décision de l’autorité destinataire : arrêt
-
-CE 27 avril 1987, ville de Grenoble dans lequel un avis du conseil supérieur de la fonction publique
-
-territoriale qui obligeait le maire à réduire la sanction initiaient proposée. Même si c’est un avis du
-
-conseil supérieur de la fonction publique territoriale, il est attaquable. L’avis oblige son destinataire,
-
-le conseil supérieur prend le fond de la décision.
-
-La mise en demeure a 2 statuts :
-
-- mesure préparatoire quand elle constitue la première étape d’une opération administrative
-
-- en revanche elle ne l’est pas quand elle apporte un élément nouveau quand elle contient
-
-des menaces précises ou quand elle fixe un délai d’exécution : arrêt section 25 janvier 1991
-
-confédération nationale des associations familiales catholiques à propos de la mise en demeure
-
-adressée par un ministre à un laboratoire pharmaceutique de reprendre la commercialisation d’une
-
-pilule.
-
-Les actes préparatoires sont donc insuceptibles de recours en raison de leur absence de
-
-normativité mais cela ne porte pas atteinte à l’état de droit parce que les inconvénients qu’ils portent
-
-en eux ne vont se réaliser que lorsque l’acte final sera adopté.
-
-Actes préparatoires devient un Acte final qui est attaquable. On peut les poursuivre pour
-
+Un **acte préparatoire** devient un **acte final** qui, lui, est attaquable. Les actes préparatoires peuvent néanmoins être contestés par voie d’exception d’illégalité.
 exception d’illégalité.
 
 ###### 2) Des mesures confirmatives
 
-Elles confirment une décision déjà prise. La décision est confirmative que si la demande est
+Elles confirment une décision déjà prise. Une décision est confirmative uniquement si la demande est **exactement la même**. En revanche, si l’objet de la demande change, la seconde décision sera considérée comme une **nouvelle décision**, laquelle est attaquable.
 
-exactement la même. Car si l’objet de la demande change la seconde décision sera une nouvelle
+- **Exemple** : Si l’on demande un permis de construire qui ne respecte pas les normes, puis que l’on modifie tous les éléments de la demande pour se conformer aux exigences, alors cette nouvelle demande sera considérée comme différente de la première, et la décision prise sera attaquable.
 
-décision qui est attaquable. Ex : on demande un permis mais on ne respecte pas les normes, on
+Lorsque l’administré réitère une demande et que l’administration maintient son refus sans apporter de modifications à la décision initiale, la seconde décision est considérée comme **confirmative** de la première. Elle **n’est pas attaquable**, car elle ne fait que reprendre la substance normative de la première décision.
 
-modifie tous les éléments. Si tout change la demande est nouvelle.
+Les personnes publiques agissent parfois dans le cadre de la gestion privée, en dehors de toute prérogative de puissance publique. Cela implique que, même si les critères organiques et finalistes sont réunis, ces actes seront confiés au juge judiciaire.
 
-Lorsque l’administré réitère une demande si l’administration ne change pas d’avis et réitère
+Dans cette catégorie, on trouve les **actes unilatéraux de gestion du domaine privé**. Ces actes ne sont pas des actes administratifs car ils ne s'inscrivent pas dans une mission de service public et ne mettent pas en œuvre des prérogatives de puissance publique. Par exemple, le refus d'autoriser la circulation sur un chemin rural est considéré comme un acte de droit privé.
 
-son refus alors la seconde décision est confirmative de la première, elle n’est pas attaquable
+En matière de **SPIC** (services publics industriels et commerciaux), les actes d’organisation, qui structurent le fonctionnement du SPIC, sont des actes administratifs (par exemple, le règlement intérieur). En revanche, les actes individuels relèvent du droit privé et sont donc soumis à la compétence du juge judiciaire, conformément à un bloc de compétence établi par le législateur
 
-puisqu’elle ne fait que reprendre la substance normative de la première décision.
+##### B) Les actes inclus dans la catégorie : les documetns de portée générales
 
+On range dans cette catégorie les circulaires, les lignes directrices et, plus généralement, les actes de droit souple.
 
-1 ) les mesurs préparatoires ou confirmatives
+>[!Définition]
+>**Soft law** 
+>Le droit souple désigne des normes qui ont une normativité moins contraignante que le droit classique.
 
-(completer)
+###### 1) Les circulaires
 
-les personnes publiques agissent parfois dans le cadre de la gestion privée, en dehors de toute prérogative de puissance publique, ce qui fait que mem s les criètres organiques et ifnalsites sont réunis, ces actes seront confiés au juge judiciare. 
+Le nom de circulaire dérive de la lettre circulaire qui existait sous l'Ancien Régime, ainsi nommée en raison de sa vocation à faire le tour du royaume.
 
-on a dnas cette catégorie les actes unilatéraux de gestion du domaine privé, ce ne sont pas des actes  administratifs car ne s'inscrivent pas dans une mission de serivce public,  il ne mettent pas non plus en oeuvre des prérogatives de puissances publiques, exemple du refus d'autoriser la circulationsur un chemin rural, qui est considéré comme un acte de droit privé. 
+>[!Définition]
+>La **circulaire** est l'acte par lequel le Premier ministre et les ministres informent les fonctionnaires des orientations de la politique gouvernementale.
 
-en matiere de SPIC, les actes d'organisation qui organisent le spic sont des actes administratifs (ex du regement interieur), masi des actes individuels sotn des actes de droit privé dévolu au juge judiciare en vertu d'un bloc de competence décidé par le legislateur. 
+Lorsqu'une loi est adoptée, la circulaire est le texte qui explique aux fonctionnaires comment appliquer cette loi. Elle sert à expliciter les conditions d'application des lois et règlements, ainsi qu'à déterminer les règles de fonctionnement des services.
 
-##### B) les actes inclsu dans la catégorie : les documetns de portée générales
+**Outil très utilisé**, on en recense entre 10 000 et 15 000 par an. En pratique, les fonctionnaires attendent souvent d'avoir reçu la circulaire adéquate pour appliquer les dispositions législatives ou réglementaires déjà en vigueur. Cependant, **la circulaire en elle-même ne modifie pas l'état du droit**.
 
-on range les circulaires, les lignes directrices et plus generalemetn les actes de droit souple. 
+Étant très utilisée, la circulaire n'a pas d'effet direct sur les administrés, mais peut en avoir un **effet indirect**, d'où la nécessité d'encadrer son utilisation et d'offrir un droit de recours si elle produit des effets concrets sur les administrés.
 
-soft law : droit souple qui a une normativité moijns importante que le droit classique. 
+**Régime de publication des circulaires**
+En démocratie, il est supposé que les actes soient publics. **Le principe de la publication** a été codifié à l'==article L312-2 du CRPA==, issu de la loi n° 2018-727 du 10 août 2018, dite loi ESSOC (État au Service d'une Société de Confiance) :
 
-###### 1) les circulaires
+> **Article L312-2 du CRPA**
+> *Font l'objet d'une publication les instructions, les circulaires ainsi que les notes et réponses ministérielles qui comportent une interprétation du droit positif ou une description des procédures administratives. Les instructions et circulaires sont réputées abrogées si elles n'ont pas été publiées, dans des conditions et selon des modalités fixées par décret.*
 
-Le nom de circulaire dérive de la lettre circulaire qui existait sous l'ancien régime, qui était qualifié ainsi par sa vocation à faire le tour du royaume.
+Cette codification reprend l'==article 1er du décret du 8 décembre 2008== et de la jurisprudence.
 
-La circulaire est l'acte, est la voie normale par laquelle le premier ministre et les ministres informent les fonctionnaires des orientations de la politque gouvernementale. 
+Les modalités de publication sont régies par l'==article R312-8 du CRPA==, qui prévoit que les circulaires adressées par les ministres aux services et établissements de l'État sont publiées sur un site relevant du Premier ministre, où elles sont classées et répertoriées pour en faciliter la consultation.
 
-quand une loi est adoptée, lac irculaire est le texte par lequel on va expliquer aux fonctionnaires comment appliquer ce texte.
+> **Article R312-8 du CRPA**
+> *Les circulaires et instructions adressées par les ministres aux services et établissements de l'Etat sont publiées sur un site relevant du Premier ministre. Elles sont classées et répertoriées de manière à faciliter leur consultation.*
 
-Sert à expliciter les conditions d'applicatin des lois et des reglements, et à déterminer les regles de fonctionnemetn des services. 
+Pour la première fois, une **publication numérique** devient un mode spécifique de publication des circulaires. Depuis le 1er janvier 2019, les circulaires doivent être publiées **au plus tard 4 mois après leur signature**. En cas de non-publication dans ce délai, elles sont réputées **abrogées**.
 
-outil très utilisé, 10 à 15000 par an. en pratique, les fonctionnaires attendent d'avoir recu la circulaire adéquate pour faire applicaiton des dispotioons legislatives ou reglementaries déjà env igueru. 
+Si une circulaire a été appliquée en violation des règles de publication, elle est abrogée mais reste attaquable.
 
-la circulaire en elle meme ne vient pas modifier l'état du droit.
+**Invocabilité des circulaires**
+L'==article L312-3 du CRPA== prévoit que toute personne peut se prévaloir des documents administratifs mentionnés à l'==article L312-2==, notamment les circulaires. En pratique, cela signifie que **les administrés peuvent invoquer les circulaires publiées** pour contester une décision administrative.
 
-comme c un outil particulierement utilisé, ciruclaire pas d'effets que sur lef onctionnaire car effet indirect sur l'administré d'où la necessité d'encadrer son utilisation et a octroyer un droit de recours si elle a un effet concret, reel sur l'administré.
+> **Article L312-3 du CRPA**
+> *Toute personne peut se prévaloir des documents administratifs mentionnés au premier alinéa de l'article L. 312-2, émanant des administrations centrales et déconcentrées de l'Etat et publiés sur des sites internet désignés par décret.*
 
-dans ce régime y'a ma pubicaiton. En démocratie suppose que les actes soient publics. Le principe de la publication a été codifé à l'article L312-2 du CRPA telle squ'issu de la loi 10 aout 2018-727, autrement appelée la loi Essoc (Etat au Service d'une Société de confiance).
-
-"les ciruclaires.. interpretaion du droit positif.. les inscritoosn et circuaires sont réputés abrogées si pas été publéies dans conditons et mdoaltiés fixés par un decret". Cette codfication rerpends l'article 1er du décret du 8 décembre 2008 et de la jurisprudence.
-
-Les modalités de la publicatin sont régiées par un aricle R312-8 du CRPA, qui prévoient que les circulaires addressées par les ministres au service et établissement de l'état, sont publiés sur un site relevant du premier mnistre, classées et répertoriées de façon à faciliter leurs consultation. 
-
-pour la premiere fois on rpopse un epublication sur un site, donc une application numérique devient un mdoe spécifique de publication des circulaires. 
-
-y'a un délais pour les publier. Depuis le 1er janvier 2019, les circulaires doinvet êtres publiées au plus tard 4 mois après leurs signatures. Après ces 4 mois, l'absence de publication est sanctionnée par l'abrogation.
-
-Si la circulaire a quand meme été appliqué en violation des règles de publication, elle est abrogée et reste attaquable. 
-
-l'invocabilité est la possibilité pour un requerant d'invoquer la circulaire à son recours, elle est préuve à articel 412-3 du CRPA, qui dispose que toute perosnne peut se prévaloir des documents administratifs mentionnés au 1er alinéa de article L312-2.
-
-Toute personen petu se prévaloir d'une circulaire qui émane dees adminsitrations centrales et déconcentrés, et publiés sur le site internet prévu.
-
-Noralement, dans une circulaire il n'y a pas d'éléments normatifs, donc elle e peut pas etre attaquée, ais il arrive qu'une ciruclaire contienne des éléments normateurs.
-
-c'est ce qui a donné lieu à une éovlution juurspridentielle sur la question du caract!re attaquable des circularies. 
+**Normativement**, les circulaires n'introduisent normalement pas de nouvelles règles de droit et ne sont donc pas attaquables. Cependant, il arrive qu'elles contiennent des éléments normateurs, ce qui a conduit à une évolution jurisprudentielle concernant leur caractère attaquable.
 
 
 
@@ -479,75 +422,61 @@ ces ciruclaries seront illégales si elles interprent de façon erronée un text
 
 ###### 2) Les logiques directrices
 
-c une norme d'orientation addressée par les chefs de service dans l'exercice de leur pouvoir discretionnarie adressée à leurs subordonnés afin de fixer une ligne générale de conduite et d'assurer une cihérence de lerus actions. 
+C’est une norme d’orientation adressée par les chefs de service dans l’exercice de leur pouvoir discrétionnaire, destinée à leurs subordonnés, afin de fixer une ligne générale de conduite et d’assurer une cohérence dans leurs actions.
 
-idée est d'encadrer souplement les activités publiques et privées, la ligne directrice a un rôle d'incitaiton et d'inpulsion ferme sur les fins, masi effacé quant aux moyens pour y parvenir.
+L’idée est d’encadrer souplement les activités publiques et privées. La ligne directrice a un rôle d’incitation et d’impulsion : elle est ferme sur les fins, mais effacée quant aux moyens d’y parvenir.
 
-a l'époque c'était des directives, la légalité des directives a été admises arret princpe CE section 11 decembre 1970, Crédit Fonciers de France, plsu au GAJA. 
+À l’origine, ces normes étaient appelées directives. La légalité des directives a été admise dans l’arrêt de principe ==_CE, Section, 11 décembre 1970, Crédit Foncier de France_== (GAJA).  
+Dans cette affaire, un organisme avait refusé une subvention au motif que le vendeur ne respectait pas la directive.
 
-il s'agit d'n organisme qui avait refusé une subvention aux motifs que le vendeur ne suivait pas la directive. 
+Dans l’arrêt _Jousselin_ du 19 décembre 2014, le Conseil d’État a été saisi à propos d’une directive prise par l’agence pour l’enseignement français à l’étranger, visant à fixer des critères d’attribution des bourses pour les enfants français scolarisés à l’étranger. Cette nouvelle dénomination (ligne directrice) n’a rien changé à son caractère non réglementaire.
 
-arret Jousselin 19 decembre 2014
+Dans ==_CE, 23 mai 1969, Société Distillerie Bralant_==, le Conseil d’État a confirmé l’absence de caractère réglementaire des lignes directrices. Ces dernières sont souvent perçues comme un substitut à l’absence de pouvoir réglementaire, le pouvoir réglementaire des ministres étant très limité.
 
-le CE a été saisi sur le domaine d'instruction specifique prise par l'agence sur l'enseignemetn frnaçais à l'étranger, pour fixer des criteres d'attribution des bourses des enfants franais scolariés à l'étranger. 
+Dans un ==arrêt du 21 septembre 2020 (_Durand_), le Conseil d’État== a précisé qu’une autorité investie du pouvoir réglementaire peut valablement édicter une ligne directrice pour encadrer son pouvoir de décision ou celui de ses subordonnés. La doctrine a marqué cet arrêt, car c’était la première fois que le Conseil d’État analysait ce pouvoir d’édiction comme dépassant un simple palliatif à l’absence de pouvoir réglementaire. Cela offre un choix aux autorités en vertu du principe d’indisponibilité des compétences.
 
-cette nouvelle denomnation n'a rien changé au caractère réglementaire.
-
-CE 23 mai 1969 Societe Distillerie Bralant
-Pas de caractere reglementaire. LEs lignes directirces ont souvent étés eprcues comme un substitut à l'absence de pouvoir reglementaire, le pouvoir reglementaire des minisres étatn trs liité.
-
-dans un arret du 21 septembre 2020, Durand, le CE a précisé qu'une autorité investie du pouvoir réglementaire petu valabement edicter une ligne directrice par laquelle elle encadre son pouvoir de décision ou celui de ses subordonnés. Doctrine a été marquée par cet arrê car premiere fois que le conseil d'état analyse ce pouvoir d'ediction des lignes directrices n'est pas un simple palliatif à l'absence de détentiond e pouvoir reglementaire, car il donne le choxi aux autorités en vertu du principe d'indispolnibilité des competences.
-
-Les directives lient l'administration de façon souple, l'adm conserve donc un pouvori d'appréciation dans l'examen des sitautiosn individuelles, et peut pratiquer des dérogations. 
-
-arrret 20 mars 2017 Région Acquitaine Limousin poitoux charante
-
-le premier destinatiar ede la ligne directrice c'est le fonctionnaire. pas d'effet immédiat à l'effet des particleirs masi ont des effets indirects. 
-
-l'individu peut deferer au juge une mesure et se prévaori la ligne directrice. Elle est donc invocable. on peut pas attaquer la ligne directrice directement.
-
-Arret GISTI
-
-la ligne directrice sera attaquabel si elle peroduit des efets notables. 
-
-enfin ces lignes directrices sont opposables aux administrés.
+**Les principales caractéristiques des lignes directrices :**
+- **Souplesse** : Les lignes directrices lient l’administration de façon souple. L’administration conserve un pouvoir d’appréciation dans l’examen des situations individuelles et peut pratiquer des dérogations (==_CE, 20 mars 2017, Région Aquitaine Limousin Poitou-Charentes_==).
+- **Destinataires** : Les lignes directrices s’adressent principalement aux fonctionnaires et n’ont pas d’effet direct sur les particuliers, mais elles peuvent produire des effets indirects.
+- **Invocabilité** : Un individu peut invoquer une ligne directrice devant le juge dans le cadre d’une mesure administrative, même si la ligne directrice elle-même ne peut pas être attaquée directement (==_CE, GISTI_==).
+- **Effets notables** : Une ligne directrice sera toutefois attaquable si elle produit des effets notables.
+- **Opposabilité** : Les lignes directrices sont opposables aux administrés.
 
 ##### 3) Le droit souple
 
-le CE a consacré sonrapport annuel en 2013 (page 61 du rapport annuel du conseil d'état), qui propose une défition avec 3 condiions cumulatives.
+Le **Conseil d’État** a consacré son rapport annuel de 2013 (page 61) à la notion de droit souple et y propose une définition reposant sur trois conditions cumulatives :
 
-Conditions
-1. le droit souple a pour objet de modifier ou d'orienter les comportements de leurs destinatires en solicitant dans la mesure du possible leur adhésion. 
-2. ils ne créen par prar eux memes de droits ou d'obligation pour leur destinataire
-3. ils présentes par leur ocnteu et leur élaboration un degrés de formaltioston e de structuraion qui les apparente aux regles de droit. 
+**Conditions :**
+1. Le droit souple a pour objet de **modifier ou d’orienter les comportements** de ses destinataires en sollicitant, dans la mesure du possible, leur adhésion.
+2. Il ne crée pas, par lui-même, de **droits ou d’obligations** pour ses destinataires.
+3. Il présente, par son contenu et son élaboration, un **degré de formalisation et de structuration** qui l’apparente aux règles de droit.
 
-CE 12 juin 2020 GISTI
+**==CE, 12 juin 2020, _GISTI_==**
 
-- Applciaitons de l'arret GISTI :
+- **Applications de l'arrêt GISTI** :
 
-21 decembre 2020 association autisme espoir vers l'ecole
-l'asso avait attaqué le rejet par la présidente de la haute autorité de santé une demande de rééxamen de la recommendation de bonnen pratique relative à l'autisme. 
+1. **==21 décembre 2020, _Association Autisme Espoir vers l’École_==**  
+    L’association a attaqué le rejet, par la présidente de la Haute Autorité de Santé (HAS), d’une demande de réexamen de la recommandation de bonnes pratiques relatives à l’autisme.
 
-ces recommendations sont du droit soupel. Elles servent à guider le profesionel de santé losqui'ls mettent en place leur stratégie de soin. Pas obligaiton our medecin de l'appliquer mais peuvent choisir de s'y referer. 
+Ces recommandations relèvent du droit souple. Elles servent à guider les professionnels de santé lorsqu’ils mettent en place leur stratégie de soins.  
+Bien que les médecins ne soient pas obligés de les appliquer, ils peuvent choisir de s’y référer.
 
-Le CE a précisé le cadre où ces recommandatins pevent être légales, et le CE apprécie la légalité de la recommendation au regard des regles qui sont applicables au moment où ils statuent. 
+Le **Conseil d’État** a précisé le cadre dans lequel ces recommandations peuvent être légales. Il apprécie leur légalité au regard des règles applicables au moment où il statue.
 
-arret 18 decembre 2021 Société Hydroption
-Attaqué une délibération de la comission de régulation énergie. (autorité administrative indeeante). 
+2. **==18 décembre 2021, _Société Hydroption_==**  
+    L’affaire portait sur une délibération de la Commission de Régulation de l’Énergie (CRE), une autorité administrative indépendante.
 
-la comission de regulation d'energie aviat inteprrété la portée d'une clause dans des accords figurant avec EDF. 
+La CRE avait interprété la portée d’une clause dans des accords avec EDF, ce qui avait pour objet d’influer de manière significative sur le comportement des intéressés.
 
-cette interpretaion a eu pour objet d'influer de maniere signfiicative le comportement des interessés. 
+3. **==8 avril 2022==**  
+    Une position de la Commission Nationale de l’Informatique et des Libertés (CNIL), prise dans une FAQ, a été attaquée.
 
-arret du 8 avril 2022 
-avait été attqué une position de la comission nationale de l'informatique et des libertés, elle avait répondu à une question sru la FAQ, et quelquen avait attaqué la réponse. Le CE a estimé que cette prise de position de la CNIL dans la FAQ était bien attaquable. 
+Le **Conseil d’État** a estimé que cette prise de position était bien attaquable.  
+La CNIL avait posé un régime spécifique pour l’installation de trackers, influençant ainsi les opérateurs économiques. Cette interprétation de la loi a été considérée comme une mesure attaquable.
 
-la CNIL avaita posé un regime pour la pose de trackers, qui a été attqué. Car inflence les opérateurs eeconomqiues. 
-
-la cNIl a interprété uen loi, et cette reponse a été considéré comme ataquable.
-
-
-Les actes administraitfs unilatauaux peuvent etre distingués selon la forme de l'acte et selon leur contenu.
+Les **actes administratifs unilatéraux** peuvent être distingués selon :
+- ***La forme de l’acte***
+- ***Son contenu***
 
 ### A) la distinction selon la forme de l'acte
 
