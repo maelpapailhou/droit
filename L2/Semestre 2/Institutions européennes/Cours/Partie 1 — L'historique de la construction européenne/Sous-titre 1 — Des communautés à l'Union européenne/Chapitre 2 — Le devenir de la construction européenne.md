@@ -1,5 +1,5 @@
 cette construction va évluer grace à l'acte uni eurpéen.
-## Section 1 : de la consolidation à l'approfondissemtn de la construction européenne
+## Section 1 : De la consolidation à l'approfondissement de la construction européenne
 
 dans les années 70, la construction européenne est relancée sur le plan monétaire, avec la création en 1979 du système monétaire européen, le SME, qui est chargé d'assurer la stabiloté mpnétaire en europe, et de créer l'écu qui est l'ancete de l'euro. 
 
@@ -15,11 +15,11 @@ il constitue la prémiere édiiton importante des traité originaire, fondateurs
 
 Ils visent à consolider la construction européenne, qui sera renforcée avec la création de l'uneion européenne, et les traités supérieurs. 
 
-### Paragrapeh 1 : l'étape de al consolidaiton : l'acte unique européen 
+### Paragraphe 1 : L'étape de la consilidation : l'acte unique européen 
 
 l'objectif rpemeir de ce traiété c'est la réalsaitiond u maché unqieu voulu par jacques delors. 
 
-#### A) l'achevenemt du marché intérieur
+#### A) L'achèvement du marché intérieur
 
 l'acte unique européen (AUE) prévoit lamise ne palce le premier janvier 1993 du marché interieur, càd d'un espace sans frontières interieures, dans lequel la lbire circulation des marchandises ,des personnes, des services et des capitaux est assurée. 
 
@@ -33,7 +33,7 @@ marché unqieu est un succes, envié des usa et du japon, a tel point que les et
 
 acte unqieu auepen a 2 volets : intéagration et coopération. 
 
-##### 1) Les avancés institutionelles et matérielles
+##### 1) Les avancés institutionnelles et matérielles
 
 sur le plan institutionel, le tarité réforme en profondeur les institutosn des communautés. Le traité étend le champ de la majorté qualifié au sein du conseil pour facilite rla prise de déciision. En consequence le compromsi de luxembourg est remis en cause,dans les faits (de facto) parce qu'il n'y a pas d'abrogation formelle en droit (de jure). 
 
@@ -44,7 +44,7 @@ sur le plan institutionnel, le tribunal de premier instance (TPI) voit le jour, 
 sur le plan maétirel, outre l'achevemetn du marché interieur, le traité étend les domaines de compétences de la communauté économqieu eurpéene. 
 
 de nouvelels politiques scommunes voient le jour dans les domaines de l'environnement, de la recherche et du développemetn tecnilogique. De même, la politique sociale est élargie, afin d'harmosier les conditons de travail (en terme de sécurité et d'hygiiene), la politique de cohésion économique et sociale est consacrée, la politique régionale devient la politique de cohésion economique et sociale, pour réduire le retard des régiosn défavoriséesq. 3 catégories de régiosn en europe, on voudrai tla convergence économqiue des régiosn. On aide les régiosn en retard à rattraper leur retard. C une création de Jacques Delor. 
-##### 2) L'institutionalisation de la coopération politique européenne
+##### 2) L'institutionnalisation de la coopération politique européenne
 AUE traité uniqeu car comose dispoitons relatives àl'integration et a la coopéraiton. 
 
 celle ci consistait poru les ministres des affaires érrangeres à se réunir tous les 6 mois pour orienter l'action européenne. Le traité codifie cette pratique. Le traité officialise l'existence du conseil européen, qui a été créé en 1974. Avant let raité de Rome ce terme n'exsitait aps, il existaite n marge des traités.
@@ -52,18 +52,18 @@ celle ci consistait poru les ministres des affaires érrangeres à se réunir to
 enfin l'acte unique européen préconise la création d'une véritable union politque euripéenne, qui va être créé par le traité de Maastricht. 
 
 
-### Paragraphe 2 : la création de l'union européenne : le traité de maastricht
+### Paragraphe 2 : La création de l'Union Européenne : le Traité de Maastricht
 
 Le traité d emaastricht, ou traité sur l'union européenne, est le 5eme grand traité de l'histoire communautaire, après le traité de paris de 1951 qui crée la CECA, les 2 traités de rome 1957 (la CEE) et la CEEA, et acte uniqeu europen de 1986 pour le marché interieur. 
 
-#### A) L'élaboration du traité de Maastricht.
-##### 1) les orignes du traité 
+#### A) L'élaboration du traité de Maastricht
+##### 1) Les orignes du traité 
 
 il est né de l'initiative du chancelier allemand Kohl, et du président français Mitteradn, de concoquer une conference intergovuernemetngale (CIG), afin de faire face aux défis extéreirusd e l'europe. Ex efondrement de l'empire soviétique, la réunification allemande, la démocartisation (PECO Pays centrial oriental).
 
 A l'issu de 2 conférences, qui ont été ouvertes en décemre 1990, une conférence sur l'UEM, et l'autre sur l'union politique, apres ces deux conférence le traité sur l'UE, lE TUE, est signé de 8 en 1992, mais sa ratification va se révéler diffiicile. 
 
-##### 2) Une ratification diffiicle
+##### 2) Une ratification difficile
 
 elle est marquée par le non danois en 1992, qui sera suvii d'un référundum positif en 1993. En effet le danemark a obtenu des dérogations concernant les questiosn de citoyenneté, de défense commune et de passage à la monnaie unique. 
 
@@ -77,7 +77,7 @@ de plus, l'articel 88-1 qui autoirse la participation de la république françai
 
 le traité de maastricht entre en viguer le 1er nivembre 1993, le conseil constitutionel a en effet déclaré le traité conforme à la cnstituon révisée, dans une décision Maastricht II, du 2 septembre 1992. Et 3ème décision, le consiel cons s'est déclaré incompétent pour controler la loi référendaire autorisatn la ratification du traié de maastricht (Décision III 23 deptembre 1992)
 
-#### B) l'apport du traité de maastricht
+#### B) L'apport du Traité de Maastricht
 
 sur le plan formel, le traité est complexe. il comprend 4 titres, 17 protocoles. Les protocoles ont la meme valeur juriique que le traité lui meme, et 33 déclaratons annexes qui ont valeur politique, et non pas valeur juridique. 
 
@@ -94,7 +94,7 @@ TM = UE = Les CE + PESC + JAI
 CE : méthod ed'integration
 PESC : JAI méthode de coopération 
 
-##### 1) Le pillier communautaire : la logique di'ntégration.
+##### 1) Le pillier communautaire : la logique d'intégration
 
 Le premier pillier comprend les 3 communautés europénnes : CECA, CEEA, et la CEE (CEE devenue CE communauté européenne, car union n'est plus exclusivoemetn éocnomique, en raison de l'exetension de sescompetences au deli de la sphece economique). 
 
@@ -107,7 +107,7 @@ sur le plan institutionnel, ls pouvoirs du parement européen nsont renforcés a
 concernant le conseil, le champ de recours à la majorité qualifiée est élargie. sont aussi crées le comité des région et le médiateur européen, ainsiq ue la faculté pour la cour de justice de prononcer des amendes (sanciton pecniere) ax etats qui ne respectent pas una rret de la cour, ou des astreintes (une somme à payer par jour de retard dans l'execution d'un arret de la cour de justice, ex etat n'a pas pris une loi de transposion d'une directive, la cour de justice condamne cet etat en disat qu'ele a comis un manquement) contre les etats qui ne respectent pas les arrets de la cour, les ayants condamné pour manquemetn ou violation au droit communautaire. 
 
 la cour de socmptes devient une institution communautarie aec le traié de maastricht (avant c'était un organe). Instituin on est plus de léigimtié, plus de pouvoisf; 
-##### 2) Les pilliers intervouveeltaux  : la logique de coopération intergouvernementale
+##### 2) Les pilliers intervouveeltaux : la logique de coopération intergouvernementale
 
 PESC (poliituqe etrangere ..) et JAI (justice affaire inteiruer)
 ici auucn edelegation de souveraineté  n'a été consentie, le consiel vote à l'unanimité, le rôle de la ocmission et du parement européen est moindre, et la cour de justice est incompétente. 

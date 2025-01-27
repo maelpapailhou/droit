@@ -4,7 +4,9 @@ Parmi les organisations qui existent, deux occupent une place importante : d’u
 
 Le **Conseil de l’Europe** est à l’origine de la **Convention de sauvegarde des droits de l’homme et des libertés fondamentales (CEDH)**, qui repose sur un système de protection des droits de l’homme garanti par la **Cour européenne des droits de l’homme**, située à Strasbourg.
 
-L’**Union européenne** propose un système institutionnel et juridique encore plus original que celui du Conseil de l’Europe, en étant fondé sur le principe d’**intégration** (la méthode communautaire d’intégration).
+*Le **Conseil de l’Europe** est une organisation intergouvernementale créée en **1949** pour promouvoir la **démocratie**, les **droits de l’homme** et l’**État de droit** en Europe. Son siège se trouve à **Strasbourg, en France**, et il regroupe actuellement **46 États membres**, ce qui en fait une organisation paneuropéenne.*
+
+L’**Union européenne** propose un système institutionnel et juridique encore plus original que celui du Conseil de l’Europe, en étant fondé sur le principe d’*intégration* (la méthode communautaire d’intégration).
 
 Quelle que soit leur spécificité, les organisations européennes partagent une certaine idée de l’Europe.
 
@@ -50,8 +52,7 @@ Pour sortir de la tutelle américaine et s’affirmer vis-à-vis des pays tiers,
 Le **9 mai 1950**, dans une déclaration historique (aujourd’hui célébrée comme la **Journée de l’Europe**), **Robert Schuman**, alors ministre français des Affaires étrangères, propose une nouvelle vision de l’Europe. Cette vision repose sur l’**intégration**, grâce à une délégation de souveraineté dans un domaine limité mais décisif.
 
 Schuman, reprenant les propos de Jean Monnet, déclare :
-
-> "L’Europe ne se fera pas d’un coup, ni dans une construction d’ensemble. Elle se fera par des réalisations concrètes créant d’abord une solidarité de fait."
+> *L’Europe ne se fera pas d’un coup, ni dans une construction d’ensemble. Elle se fera par des réalisations concrètes créant d’abord une solidarité de fait.*
 
 Pour mettre en œuvre cette politique, Schuman privilégie une **approche sectorielle et progressive**.
 
@@ -81,18 +82,18 @@ Dans cette démarche, la souveraineté et les compétences de chaque État sont 
 En conséquence, les politiques nationales restent de la **seule responsabilité des États**.
 
 #### 2) Caractéristiques des organisations de coopération
-
 - **Caractère intergouvernemental des principaux organes** :  
     Les organes sont composés de représentants des États membres.
-    
+
 - **Absence de caractère obligatoire des actes adoptés** :  
     Les actes adoptés par l'organisation ne sont pas juridiquement contraignants.
-    
+
 - **Vote à l'unanimité** :  
     Les décisions doivent être prises avec l'accord unanime des États membres.
-    
+
 - **Absence de sanction juridictionnelle** :  
     Lorsqu'un État transgresse ses engagements, aucune sanction juridictionnelle n'est appliquée, sauf si l'État y consent. On parle de **règlement pacifique des différends internationaux**.
+
 #### 3 ) Les limites du principe
 
 Certaines organisations de coopération peuvent prévoir des **procédures d'intégration**.
@@ -113,7 +114,6 @@ Il s'agit ici non seulement de rapprocher les politiques nationales, mais égale
 Les États ne se contentent pas de coordonner leurs politiques, ils mettent en place des politiques communes, **définies et gérées par l'organisation européenne**.
 
 Dans cette logique :
-
 - Une **volonté commune** se substitue aux **volontés individuelles des États**.
 - Les **organes et institutions** de l'organisation exercent des fonctions qui sont traditionnellement l'apanage des États (fonctions exécutives, législatives et juridictionnelles).
 

@@ -27,7 +27,7 @@ Ces textes n’ont pratiquement pas évolué depuis 1804. On leur a parfois ajou
 
 L’==ordonnance de 2016== n’a apporté **aucune modification** au fond du **droit de la responsabilité extracontractuelle**. Elle s’est ***limitée à renuméroter les articles*** : l’article 1382 est devenu ==article 1240==, et ainsi de suite.
 
-Par la suite, d’autres nouveautés ont été introduites dans le Code civil, mais elles concernent des régimes spéciaux de responsabilité civile. Aujourd’hui, il y a bien plus de cinq articles sur ce sujet dans le Code civil :
+Par la suite, d’autres nouveautés ont été introduites dans le Code civil, mais elles concernent des **régimes spéciaux de responsabilité civile**. Aujourd’hui, il y a bien plus de cinq articles sur ce sujet dans le Code civil :
 
 1. **Responsabilité du fait des produits défectueux** :  
     Les ==articles 1245== et suivants introduisent un chapitre sur ce sujet, résultant de la transposition d’une ==directive européenne de 1985==.
@@ -51,7 +51,7 @@ Un **avant-projet** et un **projet de réforme du droit de la responsabilité ci
 
 En 2020, une proposition de loi a été déposée au Sénat. Cependant, cette proposition ne reprenait pas le projet de 2017 et n’a pas été transmise à l’Assemblée nationale, ce qui l’a rendue caduque.
 
-La **==loi du 15 avril 2024==**, intitulée "***visant à adapter le droit de la responsabilité civile aux enjeux actuels***", n’a introduit qu’un seul article dans le Code civil. Celui-ci concerne exclusivement les troubles anormaux du voisinage.
+La **==loi du 15 avril 2024==**, intitulée "***visant à adapter le droit de la responsabilité civile aux enjeux actuels***", n’a introduit qu’un seul article dans le Code civil. Celui-ci concerne exclusivement les *troubles anormaux du voisinage*.
 
 Depuis 1804, très peu de lois sont venues modifier en profondeur le droit de la responsabilité civile.
 
@@ -69,6 +69,11 @@ On dit du **droit de la responsabilité civile** qu’il est de ***nature jurisp
 
 L’Union européenne agit relativement peu dans ce domaine. En revanche, la Cour européenne des droits de l’homme (CEDH) établit parfois un lien entre un droit à la réparation et le droit de propriété.
 
+*Par exemple, la Cour peut considérer qu'une violation du droit de propriété, en vertu de l'article 1 du Protocole n°1 de la Convention, peut entraîner un droit à réparation pour les personnes concernées.*
+
+***James et autres c. Royaume-Uni"** (1986).* 
+*Dans cette affaire, des requérants contestaient la législation britannique qui permettait aux locataires de racheter les propriétés qu'ils louaient. La Cour a reconnu que l'État avait le droit d'imposer des restrictions à la propriété pour des raisons d'utilité publique, mais que cela devait être proportionné et respectueux des droits des propriétaires.*
+
 4) **Les sources doctrinales**
 
 La doctrine n’est pas une source de droit en tant que telle, mais elle inspire fortement le droit. Les **avant-projets de réforme** sont principalement ***le fruit de la doctrine***. Celle-ci sert à synthétiser et analyser les concepts juridiques, jouant ainsi un rôle indirect mais significatif dans l’évolution du droit.
@@ -84,6 +89,10 @@ La doctrine n’est pas une source de droit en tant que telle, mais elle inspire
 | **Maîtrise de l'action**   | La victime                                         | Le ministère public                                                                           |
 | **Sanction**               | Dommages-intérêts (parfois exécution en nature)    | Peines privatives de liberté, amendes et autres peines                                        |
 | **Juridiction compétente** | Tribunaux civils                                   | Tribunal de police (contraventions), Tribunal correctionnel (délits), Cour d'assises (crimes) |
+
+>[!Définition]
+>**Responsabilité pénale**
+>Obligation de répondre de ses actes délictueux en subissant une sanction pénale dans les conditions et selon les formes prescrites par la loi. Plus spécialement, cette expression est utilisée à propos de certaines personnes en raison d'une qualité qui leur est propre (ex. : responsabilité pénale de l'instigateur).
 
 Au Moyen Âge, les responsabilités étaient confondues. Aujourd'hui, elles sont opposées, et cela était déjà le cas avant le Code civil.
 
@@ -159,19 +168,18 @@ Porter les deux actions devant un **même juge pénal** présente plusieurs avan
 La **==loi du 10 juillet 2000==**, modifiant la loi pénale, a introduit une évolution importante :
 
 > **Article 4-1 du Code de procédure pénale** :
-> L’absence de faute pénale **non intentionnelle** ne fait pas obstacle à ce que le juge civil reconnaisse l’existence d’une **faute civile**.
+> *L’absence de faute pénale **non intentionnelle** ne fait pas obstacle à ce que le juge civil reconnaisse l’existence d’une **faute civile**.*
 
 Ce changement permet au juge civil d’attribuer une réparation même en l’absence de condamnation pénale pour faute non intentionnelle.
 
-### La responsabilité administrative
+### B) La responsabilité administrative
 
 L’idée est ici que le dommage subi n’a pas été causé par une personne privée, mais par une **personne publique** : l’État ou une émanation de celui-ci (fonctionnaire, établissement public, collectivité, etc.).
 
 Dans ce cas, l’action en responsabilité (ou action en réparation du dommage) ne relève pas de la compétence du **juge judiciaire**, mais de celle du **juge administratif**. Ce dernier dispose d’une compétence exclusive pour statuer sur ce type d’action.
 
 Ce principe a été posé par le célèbre arrêt **==TC, 1873, Blanco==**.
-
-### La responsabilité contractuelle et extra-contractuelle
+### C) La responsabilité contractuelle et extra-contractuelle
 Ces deux hypothèses relèvent de la **responsabilité civile**, mais elles se distinguent comme suit :
 
 **1) Responsabilité contractuelle**
@@ -185,10 +193,9 @@ Ces deux hypothèses relèvent de la **responsabilité civile**, mais elles se d
 
 **Réparation du dommage**
 1. **Responsabilité délictuelle** :
-    
     - Principe de **réparation intégrale** : tous les dommages subis par la victime doivent être indemnisés.
+
 2. **Responsabilité contractuelle** :
-    
     - La réparation se limite aux **dommages prévisibles**, c’est-à-dire ceux que les parties pouvaient envisager lors de la conclusion du contrat.
     - Une **clause limitative de responsabilité** peut être prévue dans le contrat, établissant un plafond pour la réparation ou excluant certaines poursuites.
 
@@ -249,7 +256,7 @@ Exemple récent : arrêt de la **==Cour de cassation du 21 décembre 2023==**
 **Évolution des fondements de la responsabilité civile**
 Initialement, la responsabilité civile était fondée sur la **faute**. Cependant, deux autres fondements ont progressivement émergé : **le risque** et **la garantie**.
 
-- **LA FAUTE**
+1) **LA FAUTE**
 
 La faute peut être définie comme :
 - La **violation d’une norme**,
@@ -296,7 +303,7 @@ Une autre évolution importante concerne les **personnes dépourvues de discerne
 
 Cela conduit à dire que le **discernement n’est pas nécessaire** pour établir une faute en responsabilité civile.
 
-- **LE RISQUE**
+2) **LE RISQUE**
 
 Deux auteurs, **Saleilles** et **Josserand**, figures du XIXᵉ siècle, ont mis en avant ce **nouveau fondement** de la responsabilité civile : le **risque**.
 
@@ -320,7 +327,7 @@ Dans ce contexte, la responsabilité est **détachée de l’idée de faute**, c
 **Incidence sur la responsabilité du fait d’autrui**
 Cette approche axée sur le risque a également eu un impact sur le régime de la **responsabilité du fait d’autrui**. Elle renforce l’idée que celui qui bénéficie d’une activité ou qui en est responsable doit en assumer les conséquences, indépendamment de l’existence d’une faute.
 
-- **LA GARANTIE**
+3) **LA GARANTIE**
 
 Un autre auteur, **Boris Starck**, est à l’origine de la **théorie de la garantie**, qui propose un **changement de méthode** et de **point de vue**.
 
@@ -331,8 +338,7 @@ La responsabilité civile a pour but principal de **réparer un dommage**. Par c
 - Du **comportement** de l’auteur,
 - Ou du **profit** que celui-ci aurait pu tirer de son activité, ou encore du risque qu’il a pu créer pour autrui.
 
-### **Le principe fondamental de la théorie de la garantie**
-
+**Le principe fondamental de la théorie de la garantie**
 Starck établit un principe selon lequel il existe un **droit individuel à la sécurité**. Ce droit implique une obligation de **garantir cette sécurité** à la victime, ce qui pourrait être envisagé:
 - De manière **préventive**, en amont, pour éviter la survenance du dommage.
 
@@ -358,7 +364,6 @@ Bien que cette théorie n’ait pas connu un grand succès dans son ensemble, el
 L’objectif principal de la responsabilité civile est de **rétablir l’équilibre** entre la situation de la victime après le dommage et celle dans laquelle elle se trouvait avant le préjudice.
 
 Cela se fait :
-
 - Soit en versant une somme d’argent équivalente au préjudice subi,
 - Soit en fournissant un **bien de valeur équivalente**, possédant les mêmes fonctions et caractéristiques techniques pour rétablir l’équilibre.
 

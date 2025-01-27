@@ -294,3 +294,84 @@ Cependant, cette interprétation n’est pas toujours partagée par les juges :
 
 ## Section 3 : Les classifications de l’impôt
 
+
+les cotisations sociales
+
+le consiel d'état et la cour de cassation ont progressivement rejoint l'interpreation de la cour de justice en retenant une lecture diplomatique. Ces deux juridictions considenretn qu'un prlevement peut appartenir aux deux catégories. Au delà de ces divergences jursprudentieles, on retiendra docn que si les cotisaitons sociales sont des prélevement obligaotires a meme titre que l'impot, il y a des elements flagrandts qui les distingue.
+
+d'une part dans les cotisatiosn socials, elles relevent de la compétence du pouvoir réglementaire pour la définition des regles de calculs, ou encore la fixation des taux , et cela en concertationa vecc les partenaires sociax. 
+
+Autre eemtnq ui permet de distinguer les cotisatiosn sociales e les impt,s les cotisations sociales donnet lieu àune contrepartie directe.  Càd on cotise dans le but d'obtenir des prestatiosn sociales. 
+
+## section 3 : les classifications d'impot
+
+les classifications distingent les différents types d'impots en se basant sur un critère lié à la technique d'impostion. 
+
+ce critère cela peut etre le redevable de l'impot§ ce qui renvoei a la quesiton de savoir qui est imposé), l'assiete de l'impot, ou encore le mode de calculd e l'impot. 
+
+on distingue generalement les impots reels et personnels. 
+
+### Paragraphe 1 : les classification économique de l'impot
+
+#### A Les impots reels er personnels
+
+cette distinction est la plus ancienne, l'impot réel c'est celui qui frappe une opération, un bien ou un eosmme d'argent, uniquement dans sa nature, sa valeur monétaire ou quantité, abstraction faite de la personne du contribuable. 
+
+l'impot personnel a l'invere est un impot qui frappe directepent la personne en raison de son existence meme. L'impot personnnel pre a disparu, en 1948 une taxe sur les personnes ouasive, mais cette taxe n'a jamais été appliquée. Ajd l'impot sur le reveneu des personnes physiques est un hybride en impot personne et impot reel, puisque il vient frapper les revenus d'une personne, mais tout en tenant compte de la situationde cette personne.  
+#### B) Impots sur le capital. sur le revneuet sur  la depense
+
+le capital, le revenu et la dépense ce sont des concepts économiques qui permettent d'appréhender la richesse. 
+
+le capital c'est uen richesse acquise, il renvoie à une approche patrimoniale. Le revenu est une richessse renouvelée qui preovietn de l'exploitation d'une actrivité, et la dépense est une richesse indirecte . en effet, l'individu utilise ses ressources  pour acquérir un bien ou un service. 
+
+le système fiscal français va comporter des impotssur le capital, le reveu ou encore la dépense.
+
+Ex l'imposition du capital se manifeste par exemple à travers l'impot sur la fortune immobiliere, ou encore les taxes foncieres, les biens et droits imobiliers osnt taxés independament. Les biens sont taxés sans saavoir s'ils produisnet ou non des revenus. 
+
+L'impositon sur la dépense se manifeste par la TVA dopnt le poid final est sipporté par le consommateur, et l'imposition sur les revenus elle est symbolisée par l'impot sur le revenu des personnes privées. 
+
+chacune de ses impositons présente ses forces et ses faiblesses, les impot ssur le revenu et sur el capital offrent quelqeus garanteis à l'état. En effet l'état est quasiment assuré que le contribuable dispose des ressources nécessaires pour faire face à ses oblgiaitosn fiscales. 
+
+en ce qui concerne l'imposition sur la dépense elle est en principe indoolore et simple a mettre en oeuvre, puisqu'elle se concrétise à l'occasion d'un achat. Toutefois l'impisition sru la dépense elel en epremt pas de personaliser l'impot ou de mettre en palce une progressivité en fonction de ses revenus. 
+
+de plus, son caractère indolore concerne surtout les entreprises qui vont facturer la TVA au client,et non pas le consomateur final. c'est un impot uqui es pas progressif car quelqeu soit le revenu on paie le meme taxu de tva. 
+#### C)Impots proportionnels et progresifs
+
+cette distinction va tenir cmpte des modalités de calcl de la part fiscale. l'impot proportionnel revient a appliquer un pourcentage arithmétique identique. quelqeu soit le montant de l'assiete imposable.
+
+Exemple le taux de droit commun de TVA est de 20%,.
+
+l'impo progresisf presente la particularité de s'appueyr sur les taux variables qui vont le plus sovnet augmenter avec la base d'impositon. Ex c'est le cas du bareme progerssif de l'impot sur le revenu.
+
+
+PAragraphe 2 : les classifications juridqieus de l'impot
+
+les classificatiosn juridiques s'appuient sur des criteres différents, ces classificatiosn reposent davantage sur le fait générateur ou encore les techniques de collecte de l'impot. 
+
+on va distinguer d'unc oté les impots directs et indirects, et impots analitiques et synthétiques
+
+A) impot directs et indirects
+
+les impots directs frappent directmenet les biens ou les revenus d'une personne du seul fait qu'elle possede ses biens ou revenus. Les impots indirects n'atteignent le contribuable qu'indirectement, càd à l'occasion de l'emploi de ressources ou de dépenses. 
+
+les impots indirects frappetn la production,  l'échange ou encore la consmmation. 
+
+cette disitnction entraine des consequences juriques importantes. L'article L199 du livre des procédures fiscales détermine le juge compétent en matiere de contenteiux fiscal, cet article prévoit que le contnetiex relatif aux impots directs, il relve de la competence des juridicitons administratices, età l'onverse le contnetieux relatif aux impots indirects il releve des jrudicitions judiciaires. 
+
+le contnetieux fiscal est donc partaté par un dualisme juridictonel. 
+
+quelques rares exceptons à ce princpe : la TVA fait figre d'exception, puisque son contentieux releve de la competence du juge administratif alors meme qu'il s'agit d'un impot indirect. 
+
+cette distinciton est égaemten imprtante au niveia du recouvrement. en efet la plupar des impots directs : impto sru le revenu, impot sur les sociéts, ou encore imptos locaux sont recouvrés par des voies de roles laors.
+les roels sont des titres executoires en vertu desqueles les comptables effectuent et poursuivent el recouvrement de simpots directs et des taxes assimiéles. 
+
+et pour les impots dinriects, il n'y a pas de role. Et l'imoto est payé au moment où l'opéraitone st réalisée.  donc impot est payé le plsu souvent spontanément a la suite dune déclaration.
+C pas exemple le cas des droits de douane. 
+
+B) impots analitiques et impots synthétiques 
+
+l'impto analityqeu il porte sur une opération ou un élément, ils sont assez ancien, rudimentaires, tres développée sousl l'ancien régime. IL n'ont pas disparu, il existe encore des taxes sur les boissons alcoolisées, l'essence ou encore les tabac. 
+
+et l'impot synthetique il porte sur un ensmelbe d'opéraiton, l'impot fait la syntehese de divers elemtns relatifs à la sitaution du contribuable. ET donc les impots les plus modernes osnt des impots synnthetiqeus. 
+
+chapitre 1 : les sources du droit fiscal 
