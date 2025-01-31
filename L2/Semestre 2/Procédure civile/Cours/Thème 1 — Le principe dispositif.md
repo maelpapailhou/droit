@@ -135,5 +135,291 @@ L’article 397 du CPC n’impose pas de règles de forme précises pour le dés
 
 ### A) Le contrôle des règles de procédures
 
+Sont visés les ar5cles 2 et 3 du CPC :
+
+- Ar5cle 2 exige des par5es que leurs actes soient réalisés dans les formes et dans les
+
+délais requis.
+
+- L’ar5cle 3 donne pouvoir au juge pour veiller au bon déroulement de l’instance ce qui
+
+vise le contrôle des actes de procédures et des ..
+
+
 ### B) Le contrôle des faits et de droits
 
+Le juge sera chargé de contrôler les faits et le droit.
+
+1) Les faits
+
+Concernant les faits, l’ar5cle 7 du CPC dispose que
+
+Le juge ne peut fonder sa décision sur des faits qui ne sont pas dans le débat. »
+
+Le juge peut prendre en considéra4on même les faits que les par4es n’auraient pas
+
+spécialement invoquées au sou4ent de leur préten4on »
+
+Finalement, il se peut que l’élément factuel per5nent ne soit pas u5lisé par les par5es dans
+
+ses préten5ons. Or, le juge peut le souligner et dire que « c’est cet élément-là qui aurait du
+
+être mis en lumière dans les préten5ons ». Donc le juge n’est tenu de juger que sur les
+
+préten5ons des par5es. Le juge peut se servir des exposés des faits pour rendre son
+
+jugement. Le juge respecte le premier alinéa car les faits ont été exposés dans le débat par
+
+les par/es.
+
+In fine, le juge contrôle les faits.
+
+Selon l’ar5cle 8, le juge peut « inviter les par4es à fournir les explica4ons de faits qu’il es4me
+
+nécessaire à la solu4on du li4ge. »
+
+Poten5ellement, cela peut complètement modifier la physionomie du procès. Le juge peut
+
+demander tout complément d’informa5on aux par5es, dès qu’il le juge nécessaire. Le juge
+
+pourrait avoir une ac5vité inquisitoriale à vouloir rechercher la vérité.
+
+➔ L’énoncia5on des faits par les par5es ne suﬃt pas nécessairement à permeare au
+
+juge de comprendre les faits.
+
+➔ Dans la pra5que, l’ar5cle 8 n’est pas très u5lisé dans l’absolu, excessivement,
+
+notamment parce que ce n’est pas le rôle du juge de chercher les faits, c’est aux
+
+par5es de les exposer . Aussi, cela demande beaucoup de temps et les tribunaux sont
+
+engorgés. L’ar5cle 8 est u5lisé avec parcimonie.
+
+2) Les preuves
+
+Si les par5es ont la charge de prouver les faits (ar5cle 9), les juges peuvent aussi jouer un
+
+rôle ac5f puisqu’ils peuvent prononcer toutes les mesures d’instruc5on, soit à la demande
+
+d’une par5e, soit d’oﬃce.
+
+Les mesures d’instruc/on sont des moyens probatoires à l’instruc5on des juges civiles.
+
+C’est la possibilité des faire des constats, demander des exper4ses, audi4onner des
+
+témoins, prendre les conseils d’un ami de la cour (amicus coriae).
+
+• A la demande d’une par5e pourquoi ?
+
+Parce que la capacité probatoire des par5es est limitée. Or l’ar5cle 9 dispose qu’il appar5ent
+
+aux par5es d’apporter les preuves et les préten5ons. Or, il faut les détenir ces preuves. Si la
+
+preuve nécessaire se trouve dans les mains d’un 5ers ou dans les mains de la par5e adverse,
+
+il va être diﬃcile pour la par5e demanderesse de la preuve de l’obtenir.
+
+D’où l’u5lité ici pour les par5es de saisir le juge afin qu’il exige comme mesure d’instruc5on
+
+la remise d’un document.
+
+Cela se fait uniquement si la par5e elle-même ne peut pas se procurer la preuve. C’est avant
+
+tout aux par5es d’amener la preuve. C’est uniquement lorsque la par5e ne peut pas se
+
+procurer la preuve, et qu’elle a jus5fié en quoi ceae preuve était déterminante que le juge va
+
+décider d’oﬃce une mesure d’instruc5on.
+
+➔ Se fait par voie d’ordonnance de requête.
+
+• Mesure d’oﬃce pourquoi ?
+
+Lorsque les preuves apportées par les par5es manquent de logique, manquement d’un
+
+élément essen5el, ou nécessitent une exper5se, le juge peut demander d’oﬃce une mesure
+
+d’instruc5on. Nécessité de meilleure compréhension par la juge. Ici encore, il ne fait pas le
+
+travail des par5es d’apporter les preuves, il demande un complément de preuve pour
+
+comprendre d’avantage le li5ge.
+
+Ar5cle 12 du CPC : « Le juge peut d’oﬃce soulever des moyens de droits.
+
+Puisque le juge peut u5liser tous les faits et même décider de mesures d’instruc5ons, ceci
+
+peut conduire à une modifica4on du fondement juridique.
+
+La ques/on est de savoir si ce@e modifica/on du changement juridique est une obliga/on
+
+pour le juge ou une faculté ?
+
+Cela arrive lorsque l’objet du li4ge est décalé par rapport à la réalité.
+
+➔ Ex : un contrat passé entre un dealer et un acheteur. L’acheteur intente une instance
+
+contre le dealer pour non-respect du contrat. Or, il est totalement normal pour le juge
+
+de déclarer la nullité du contrat car il viole une règle d’ordre public. En fait, le juge
+
+peut recentrer l’aﬀaire sur le sujet principal, déterminent.
+
+Les juges du fond ont souligné que ce n’est qu’une simple faculté. Le prof pense que lorsque
+
+le moyen de droit envisagé est une règle d’ordre public, le juge devrait avoir pour obliga4on
+
+de relever la règle d’ordre public.
+
+Les juges doivent-ils chercher un fondement juridique lorsque les par/es n’en soulèvent
+
+aucun ?
+
+L’ar5cle 12 prévoit que le juge tranche le li5ge conformément aux règles de droit applicable.
+
+Or, si les par5es n’évoquent pas les fondements juridiques de leurs préten5ons, le juge doit
+
+tout de même trancher le li5ge conformément aux règles de droit applicable. Il doit donc
+
+aller chercher le fondement juridique per5nent.
+
+Le décret de 98 exige que le demandeur précise les fondements juridiques dans
+
+l’argumenta4on, ce qui permet au juge de refuser de soulever tout fondement juridique si
+
+celui-ci ne l’a pas fait.
+
+L’ar5cle 12 nous dit que le juge doit « donner ou res4tuer leur exacte qualifica4on aux faits
+
+ou actes li4gieux, sans s’arrêter à la dénomina4on que les par4es auraient proposée. »
+
+Le juge à un rôle de contrôle sur la qualifica/on juridique des faits et plus par/culièrement
+
+des actes. L’idée étant de pouvoir déterminer la bonne qualifica5on avant d’aborder les
+
+règles de droits applicables.
+
+En ma5ère contractuelle, ceae mission du juge prend tout son sens, notamment du fait de la
+
+mul5plicité des qualifica5ons des contrats.
+
+Pour des raisons fiscales, la vente peut être déguisées en dona5on. Donc le juge doit bien
+
+vérifier s’il s’agit d’un contrat de vente ou un contrat de dona5on.
+
+On retrouve aussi un concours de qualifica5on entre le contrat de travail et le mandat social.
+
+Le juge doit donc donner la bonne qualifica5on.
+
+D’ailleurs, il existe des conten4eux qui ne portent uniquement sur la qualifica4on d’un
+
+contrat.
+
+Ce travail de qualifica5on connaît une excep5on marginale, qui concerne les droits dont les
+
+par5es ont les libres disposi5ons (ex contrat sui generis).
+
+Une fois que le juge a qualifié les faits, au regard du droit, le juge doit trancher le li5ge
+
+conformément aux règles de droit qui lui sont applicables.
+
+Mais alors, quel est le rôle du juge lorsque les par4es n’ont pas présenté les règles de droit lui
+
+perme\ant de trancher le li4ge ?
+
+Aurait-il l’obliga5on de soulever la bonne règle de droit lorsque les par5es ne l’ont pas fait ?
+
+La Cour de Cassa/on, tout en disant que le juge avait comme simple faculté de soulever la
+
+règle de droit lorsque les par/es se trompent dans les qualifica/ons, elle a admis que dans
+
+ce cas ou aucune par/e n’a présenté les règles de droit lui perme@ant de trancher le li/ge,
+
+c’est au juge d’aller chercher le fondement juridique applicable.
+
+Face à certaines incohérences, une décision de l’Assemblée plénière du 7 juillet 2006 est
+
+venue parsemer le flou : elle explique que « les par4es doivent présenter au sein d’une seule
+
+et même instance toutes les demandes conduisant aux mêmes fins. »
+
+Cela fait que si toutes les demandes n’ont pas été données en une instance, on ne pourra pas
+
+les introduire lors d’une prochaine instance. Ceae JSP tend à limiter les instances. Ici, on
+
+souhaite éviter les procès à répé55on.
+
+➔ La France se fait condamner souvent par la CEDH au 5tre de l’ar5cle 6 : droit à un
+
+procès équitable dans un délai raisonnable.
+
+Toutes les réformes en ma5ère d’appel ont été faites pour rendre les procédures irrecevables
+
+et désengorger les tribunaux.
+
+À la première lecture de l’AP, on se rend compte que les demandes doivent toutes être
+
+rendues en première instance.
+
+▪ Mais, s’agit-il d’une concentra5on des moyens ou d’une concentra5on des
+
+demandes ?
+
+Si une par4e n’a pas soulevée le bon fondement juridique en première instance, il ne pourra
+
+pas relever les bons fondements juridiques en 2e instance.
+
+Avant ceae JSP, les par5es pouvaient corriger instances après instances les fondements
+
+juridiques invoqués. Ainsi, le juge pouvait juste répondre en 1ere instance qu’il n’était pas
+
+compétent.
+
+En 2006, le juge est obligé de requalifier les faits dès la 1ere instance.
+
+Contrat entre 2 membres de famille : un homme doit travailler pour son beau-frère dans des
+
+champs contre un salaire. Il n’est pas payé. Il saisit les prud’hommes et voit sa demande de
+
+paiement du contrat de travail rejeté, car les prudhommes es4ment qu’il y’a une proximité
+
+familiale, donc il ne s’agit pas d’un contrat de travail.
+
+Puis, il saisit le tribunal de commerce pour enrichissement injus5fié.
+
+Ceae aﬀaire amène à la jurisprudence de 2006.
+
+Suite à ceae décision de 2006, il y’a eu 2 interpréta5ons des chambres de la CC.
+
+- La «
+
+bonne interpréta4on
+
+», même si elle semble absurde : Chambre civile et
+
+chambre sociale : concentra5on de toutes les demandes
+
+- La 2e interpréta5on : 2 et 3 e Chambre civile : il n’est pas interdit d’intenter un
+
+nouveau procès avec une nouvelle demande. Il faut juste évoquer tous les
+
+fondements juridiques pour jus5fier la nouvelle demande.
+
+In fine, c’est la posi5on de la 2e chambre civile qui va l’emporter. Elle s’est rallié à la posi5on
+
+des autres chambres civile qu’est la concentra5on des moyens en 2016 : « S’il incombe au
+
+demandeur de présenter dès l’instance rela4ve à la première demande l’ensemble des
+
+moyens qu’il es4me de nature à fonder celle-ci, il n’est pas tenu de présenter pour la même
+
+instance toutes les demandes fondées sur les mêmes faits. »
+
+Cela ne répond pas à la ques5on de savoir quoi faire lorsque l’on n’a pas soulevé le moyen
+
+per5nent ?
+
+Un décret est venu préciser qu’il était à la charge des par5es de présenter les fondements
+
+juridiques au sou5ent de leurs demandes.

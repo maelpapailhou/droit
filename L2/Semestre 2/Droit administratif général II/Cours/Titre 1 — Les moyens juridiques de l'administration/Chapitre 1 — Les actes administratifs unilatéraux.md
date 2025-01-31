@@ -635,8 +635,7 @@ Le régime des actes administratifs se divise en **quatre moments clés** :
 3. ***La vie de l’acte** : Période durant laquelle l’acte produit ses effets.*
 4. ***La mort de l’acte** : Ensemble des règles régissant la disparition de l’acte.*
 
-### **Une évolution marquée par la codification**
-
+**Une évolution marquée par la codification**
 Pendant longtemps, les principes régissant ces moments ont été dégagés par le juge administratif. Cependant, la **==loi du 12 novembre 2013==** a habilité le gouvernement à entreprendre, par voie d’ordonnance, une **codification** des règles encadrant les relations entre l’administration et les citoyens, dans un objectif de simplification.
 
 Dans cette optique, le président François Hollande souhaitait provoquer un **"choc de simplification"**. Cette démarche a abouti à l’adoption de l’**==ordonnance du 23 octobre 2015==**, qui a donné naissance au **Code des relations entre le public et l’administration (CRPA)**.
@@ -713,5 +712,342 @@ L'intérêt principal de la procédure réside dans les garanties qu’elle offr
 1. *La procédure consultative*      
 2. *La procédure contradictoire*  
 
+##### 1) La procédure consultative 
+Permet une meilleure acceptation des décisions prises unilatéralement, en associant à cette prise de décision des acteurs extérieurs aux administrations françaises et européennes.
 
+Ce processus garantit une meilleure coordination administrative et une prise en compte des divers intérêts présents au sein d’une société civile de plus en plus complexe.
 
+Le problème est que les organismes consultés se sont multipliés, ce qui a conduit à une décision de rationaliser les consultations en supprimant certains organes.
+
+Le dernier texte en date est le décret du 8 juin 2006 relatif à la création, à la composition et au fonctionnement des commissions administratives à caractère consultatif.
+
+Ce texte est désormais codifié dans le **==CRPA à l'article R133-2==**, qui prévoit que les ***commissions antérieures à ce décret seront supprimées***, seules restant celles ayant prouvé leur efficacité. Toute création d’une commission sera précédée d’une étude d’impact, et cette commission ne sera en vigueur que pour une durée de 5 ans.
+
+Cette commission rend des avis. L’avis peut être pris spontanément par l’administration, c’est-à-dire sans qu’un texte ne l’impose, mais, le plus souvent, les textes rendent la consultation obligatoire.
+
+On parle alors d’un **avis obligatoire**, qui doit être recueilli, mais qui n’est pas nécessairement suivi. Il convient donc de distinguer l’**avis obligatoire** de l’**avis conforme**, qui, lui, doit impérativement être suivi.
+
+Pour qu’un avis soit légalement recueilli, les organes qui le rendent doivent être régulièrement composés. Ainsi, la présence d’une personne non prévue par les textes vicie l’avis rendu, sauf si l’on peut prouver que l’influence de cette personne a été nulle (c’est-à-dire que l’avis serait strictement le même sans sa présence).
+
+Si l’organe est délibérant, composé de plusieurs personnes, le quorum (nombre minimum de personnes nécessaires pour délibérer) doit être atteint. Ce quorum correspond à la moitié des membres +1. Si ce quorum n’est pas atteint, une nouvelle convocation est organisée, et, lors de cette seconde réunion, aucun quorum n’est requis pour ne pas bloquer le fonctionnement de l’institution.
+
+Il est également impératif que les membres soient convoqués suffisamment à l’avance pour prendre connaissance du dossier. Encore faut-il que le dossier soit complet.
+
+Une fois l’avis rendu, avec le quorum et la convocation effectuée en amont (en général 7 jours à l’avance), l’administration doit agir dans un délai ni trop court ni trop long, afin que les éléments sur lesquels l’avis est rendu ne changent pas entre-temps.
+
+Les avis peuvent être **simples**, ce qui signifie que l’administration n’est pas obligée de les suivre, ou **conformes**, ce qui oblige l’administration à les suivre. Dans cette dernière hypothèse, il est parfois possible de contester directement l’avis.
+
+##### 2) La procédure contradictoire
+Elle est fondamentale, car elle permet à l’administré de se faire entendre et de présenter ses observations. Cela se rattache aux droits de la défense : savoir quels sont les éléments retenus à son encontre et pouvoir présenter ses arguments sur ce dossier. La contradiction repose sur l’idée d’avoir un droit de réponse.
+
+Ainsi, cette procédure contradictoire, qui est le prolongement des droits de la défense, a été érigée en principe de droit depuis l’arrêt **==CE, 1944, Dame Veuve Trompier-Gravier==**.
+
+Désormais, cette règle figure à **l’article L120-1 du CRPA**, et son champ d’application est défini à **l’article L121-1 du CRPA**.
+
+Il existe **cinq catégories d’actes** qui ne peuvent être adoptés qu’après l’instauration d’une procédure contradictoire :
+
+- Toutes les mesures défavorables à leur destinataire, notamment les refus.
+- Toutes les mesures qui dérogent à une réglementation.
+- Toutes les mesures de police.
+- Les mesures prises **en considération de la personne**.
+- Les décisions mentionnées à **l’article L211-2, 8°**, qui rejettent un recours administratif préalable obligatoire exigé par une disposition législative ou réglementaire.
+
+Certaines décisions administratives ne peuvent pas être directement déférées au tribunal. Avant cela, il est parfois obligatoire de contester la décision devant l’administration via un **recours administratif préalable obligatoire**. Les décisions rendues sur ces recours administratifs préalables doivent impérativement respecter une procédure contradictoire.
+
+Des **exceptions à cette obligation** sont prévues à **l’==article L221-2 du CRPA==**. Ainsi, la procédure contradictoire peut être écartée dans certaines hypothèses :
+- En cas d’urgence.
+- En cas de circonstances exceptionnelles.
+- Lorsque l’ordre public ou les relations internationales le justifient.
+- Pour certaines mesures prises par les organismes de sécurité sociale.
+- Dans tous les cas où une disposition législative le prévoit expressément.
+
+De plus, les articles **L121-1 et L121-2 du CRPA** ne s’appliquent pas aux relations entre l’administration et ses agents. Ces relations sont régies par **les articles L122-1 et L122-2**, qui précisent les modalités concrètes de mise en œuvre du principe du contradictoire.
+
+Les **modalités prévues incluent** :
+- La possibilité de présenter des observations écrites.
+- La possibilité de présenter des observations oralement.
+- La possibilité de se faire assister.
+- L’obligation d’entendre la personne concernée après communication des griefs.
+- Le droit d’obtenir la communication de son dossier.
+
+Le non-respect de cette procédure peut entraîner **l’annulation de l’acte administratif** concerné.
+
+#### C) La forme de l'acte 
+Ce sont les éléments formels relatifs à l'**instrumentum**. Les éléments les plus importants incluent :
+- La **motivation**,
+- La **signature et le contreseing**,
+- Depuis la loi relative aux CRPA, un acte doit également comporter le **nom**, le **prénom**, et la **qualité** de l'auteur de l'acte, afin de permettre son identification.
+
+À côté de ces éléments substantiels, il existe des éléments **non substantiels**, dont l'importance est bien moindre :
+- La **date**,
+- Le **lieu**,
+- Les **visas** (tous les textes sur lesquels la décision se base),
+- La **forme** de l'acte (écrit ou non),
+- Le **caractère explicite**.
+
+Ces éléments, lorsqu'ils sont omis, ne conduisent pas à une annulation automatique de l'acte.
+
+**Le caractère explicite**
+Le **silence gardé** pendant **deux mois** par une autorité administrative sur une demande vaut **décision implicite d'acceptation**, en vertu de la **==loi du 12 novembre 2013==** (==article 1er==).  
+
+Cette loi est entrée en vigueur de manière progressive :
+- En **2014** pour les services de l’État,
+- En **2015** pour les services des collectivités territoriales.
+
+Ce texte est codifié à **l'==article L231-1 du CRPA==**. La réforme a été introduite sous la présidence de François Hollande, mais elle a été vivement critiquée en doctrine. En effet, de nombreuses dérogations au principe ont été prévues, à tel point que certains estiment qu’il existe plus de dérogations que d'applications concrètes du principe. Ces exceptions sont énoncées à **l'==article L231-4 du CRPA==**.
+
+**La forme électronique**
+Les règles applicables aux échanges électroniques entre l'administration et les citoyens figurent aux **==articles L112-7 ==et suivants du CRPA**.  
+
+Ces dispositions sont issues de l'**==ordonnance du 8 décembre 2005==**, visant à résoudre des problématiques liées à la sécurité, à la confidentialité, à la preuve et à l'authentification des textes et des signatures.
+
+##### 1) les formalités substantielles : les signatures et les contre-seing
+
+lorsquu'n texte exige qu'un acte soit écrit, le juge veille à ce que ce dernier soit signé par l'autorité compétence. le défaut de signature est tjrs une cause d'annulationd el'acte. Car sans signature un acte n'est pas authentitfié. 
+
+de la meme façon, l'absence d'un contreseing qui est exigé par un texte entraine tjrs l'illégalité de l'acte.
+
+en revanche, la sur abondance de contre seing, cad des signatures supplémentaires qui ne sont pas exiger par le texte, elle est sans conséquence sur la légalité de l'acte. 
+
+la signature electornique, prévue à article L212-3 du CRPA se développe et l'authentification par se mode a été étendu à l'ensemble des actes admonistratifs.
+
+la dématérialisation atteint aussi les préocudures d'achat publique, et es juridictions administratives. Donc la signauter electornique est légale. 
+
+##### 2) Le cas de la motivation
+
+ce sont toutes les raisons de fait ou de droit qui ont déterminés l'admministrationà adopter l'acte.  
+
+ex on demadne un permsi de cnstruire on liste les raisons pour elsquelles pas acceptées.
+
+la motivation est régemetnée dans son contenu, on doit dire qiuel article pas respecté. Elle doit contenir les motiivatisn de fait et de droitqui cosntitue le fondemetn de l'acte.
+
+cette motivation ne peut pas être une formule stéréotypée. 
+
+les motivatisn qui se content de reprendre le texte mis en euvre sont insuffisantes. exemple dans le cas des expulsions, on peut pas motiver les oslutons en disant que la personne a commis des actes portnat atteinte à autri, meme si bonen raison d'excliure qqn. Fuat detailelr els actes contraires à l'ordr epublci. on a interet a ce que les actes commis soit proportionnés à l'expulioN. la suele motivation d econtraàre a l'ordre publci est insuffisnate. sinon cune formule type, et l'act eencore l'annulation. 
+
+la motivation doit aussi être accessible, càd qu'elel figure sur l'acte. Faut aps la renvoyer a un acte ulterieur. 
+
+en france on est pas oblié de motiver tous les actes. Avnat 79 on motivait rien. depuis 79 la mitivation a incrit le régime de l'acte. ajd cette mtoifation figure au CRPA article L211-2, qui repren dla loi du 11 juillet 1979 (loi célébre), qui aviat mis ifn à la non motivation des actes administraifs .
+
+3 chefs d'obligaiton : L212-2 du CRPA 
+- doit etre motivé les déciosns individuelels défavorables aux personens qu'lele concerne directmeent
+- les mesures qui restreingnet l'exercice des libetés publiques ou qui constituent une mesure de police  (principe du contradicotire)
+- les mesures qui infligent une sanction (retrait d'autorisatin de vendre de l'acool,du dmaincce public, etc)
+- mesures qui subordonnent l'octori d'une autorisation à des conditons respectives ou qui imoosent des obligations
+- mesures qui retient ou abroge une décision créatrice de droit. 
+- également toutes les mesures qui opposent une prescritpion, (à completer), une déchéance
+- les décisions qui refusnet un avantage dont l'attribution cosntitue un droit poiur les personnes remplissant les conditons légales pour l'obtenir.
+
+2eme fondement d'obligation : L211-3  : les déiiosn administraitves individuelelsq ui rédorgent aux regles génrales fixées par la loi ou l ereglment. 
+
+3eme fondemetn : L211-4 : renvoie aux decrets dd'utres catégoreis de décison qui doivent etre motivés. 
+
+arret du 2 octobre 2022 fédération sud éducation, CNIL qui refusait de donner suite à une plainte d'une personnefondée sur la meconnaisance du droit d'acces qu'une personen tient des dispositons de articel 15 du RGPD. 
+
+le CE a estimé que ce refus fait parti des décisons qu'il faut mtoiver parce que ce refus à la CNIL a été analysé come une déciion adminsitrative défaborble qui refuse un avantage dont la solution constitue un droit.
+
+un tel refus doit être motivé. l'obligation de mtoivation n'est pas absolue. 
+1ere limtie c'est l'urgence, masi administré petu demander une communication des motifs et l'administration doit les lui communiquer dnas un délais d'1 mois ne fois situaton d'rgene passé. 
+
+2eme limite c le secre tmédical, le secret des délibrétiaosn du gouvenremetne, défense nationale, politque exteireu, la sureté de l'état et la sécurité publique. 
+
+y'a des déciions qui par nature ne peut pas être motivé alorsq ue c'esr une décision favorabel. 
+
+les décions implicites de rejet ne doivent pas etre écrites car elles sont implicites, dépourvues de suport papier, elles sont jamasi motivées ar la nature meme de la décision.
+
+la décison d'acceptaiton aps beosin car on va pas les attaquer.
+
+pour décission implicite de rejet : elle n'est pas tres ijnteresatne du poitnde vue de l'admonstraiton del ajsiutce. La loi a prévu que l'absence de mtoivation de rend pas illégal a elle seul ce type de déciison. L'administré peut demander la communication d eces motifs, et devra etre répondu sous. 1 mois.
+
+SI l'adminsitation ne le fait pas au bout du mois, à ce moment là l'acte initial pourra êttre attaqué. A noter qu'on attaque aps le refus de communiquer le motif, mais le refus initial. C'est ce qui résulte d'na rret du 29 mars 1985 Arret Testa.
+si elle le fait pas, ce délais de recours est prolongé de 2 mois a paritr du jour où les motifs sont communiqués.
+
+sur la fonciton de l amtoivation : 
+
+avantages de la motivation : 
+1. la motivation est conforem a ne certiane idée de la démocratei, idée selon lauelle les administraters doivent rendre comptes aux administrés des raisons pour lesquelles ils se sont déterminés. 
+2. la motiv permet le controle de l'admonistraton, permet d'acceder aux elemetns justfiicatiofs de la décision, va permettre osit d'engager unr ecours contentieux, soit si on comrpend les raisons on petu aissi renoncer a un recours, poru pas s'exposer a un contenteux inutile
+3. la mtoiv est conforme àun ebonn eadministration, parce qu'elle incite l'administration à produire un acte mal jusitifé
+
+inconvénetnts
+1. soumis l'adminsitraiton àd es oblgiations qui peuvent ralentir son fonctionnement, 
+2. quand elle est mal observée elle petu etre à l'origjen d'annnultaion d'acte dont la légalitéinterne est sans reproche
+3. elle incite l'administration à s'abstenir de décider explicitement sur les demandes dont elle est saisie
+
+paragraphe 2 : la naissance
+
+la naissnace du'n acte est une oepration simple, qui fait appel à des cocnepts simplses, mais dont l'enchevetremetn est compliqué. 
+
+l'entrée en vigueur consiste en la mise en actiond es effets de droit projeté par la décision. Ces effets sont opposables par l'administration à l'administré, ils sont invocables par l'admiistré à l'enontre de l'administration ou de tiers. 
+
+l'entree en vigueur est une epsce d'aooutissement qui ssuppose de passer par des étapes préliinaries, d'abord pour exister l'acte doit être signé. mais l'existence de rime pas avec l'entrée en vigueur. 
+
+en plus il faut qu'ils fassent l'objet d'une mesure de publicité (article L221-2 du CRPA) : la publicaiton au joirdal officiel, l'affichag,e et la notificaiton qudna l apersenn recoit l'acte, boite physique ou electornique.
+enfin entée en vigeur peut etre subordonnée à une échéance, càd entrera en vigeuru a une date précise. c a varié selon qi'il est regleemntaire, indviduel. 
+
+### Paragraphe 2 : Les règles relatives à l'élaboration de l'acte
+#### A) l'opposabilité et la publciité 
+
+#### A) l'opposbilité e tla publicitié
+
+pporu qu'un acte proudusie ses effets il doit etre opposable. Signfiique que l'administraiton, les destinataires et les tiers pourront imposer, exiger le respect de l'acte, càd invoquer dnas leurs relations les droits et les obligaitons qu'ils créent. 
+
+un acte inoposable est dépourvu de force obligatoire.
+
+cette oppisabilité dépend del apublciité. La publicité n'est pas une dcondition d'existence de l'acte, ni une conditon de légaltié. C'est une conditon d'efficacité de l'acte.
+
+La publciité permet à l'acte d'être connu. Cette publciité varie selon le type d'acte.
+
+##### 1) La publicité pour les actes réglementaires
+
+pour ces actes, le mode de publciité est la publiation ou l'affichage. 
+- les lois, es decrets et les ordonances doivnet etre publiés au journal officiel en vertu de l'atlce R221-11 du CRPA. 
+- pour les arretés ministeirels, a publicatin dans les bulletins officiels des ministeres interessés suffit ((education natioanl, etc.) article L221-17 du CRPA énonce que la publication au bulletin officiel diffusé sous forme electornique a la meme valeur que la publication sur papier. 
+- les décisiosn des autorités locales doivent être publiés dans les recueils appropriés ou affichés sur des panneaux. voir à ce sujet articels L221-1 à L222-4 du CRPA.
+
+la publication des actes administratifs réglementaires est une obligation, c'est un principe generla du droit depusi una rret du 12 décembre 2003 Syndicat des comissaires et des hauts focntionnaires de la police nationale. 
+
+il faut parfois une formalité supplémentaire, à saovir la transmission axu représentants de l'éta tpour les reglements des autorités locales décentralosés. Pour que le prefet puisse exercer le controle de légalité , ils ont 15 jours pour transmettre l'acte. Si ce bureau estime que l'acte comprte une illégalité, il l'attaque. 
+
+depuis 1982 on a substtieur une autre forme de légalité. 
+
+##### 2) les actes individuels
+
+relevent du'ne logique différente. Un ace qui a un destinatiare designé. le mode de publicité pur les actes indivduels c'est sa notification. Article L221-8 du CRPA qui dispose que une déciison individuelle expresse est opposable à la personne qui en fait l'objet au moment où elle est notifiée.
+
+Le mode de notification calssique est la lettre recomandée avec accusé de reception, masi pas obligatoire. Mais on a une preuve.
+
+mais c pas le mode de droit commun obligatoire.
+
+le mode de communciatone st libre mais doit assurer la communication effective du desitnataire.`
+
+arret 28 novembre 2012. 
+le conseil d'état est venu préciser que la publication au bulleitn offiicel ne fait pas courir de délais contre les décisiosn individuelles. On ne peiut pas pulbie rien deciison en pensnat que ça viendra compenser l'absence de notification.
+
+certainsa ctes réglementaires doivnet être notifiés et publiés parce que leur importance dépasse les seules personens visées. exemple decrets de nomonaton des hauts fonctionnares, ou permis de constrire. Car il es tnotifié à la perosnne qui l'a demandé, mais la personne qi l'a demandé doit l'affficher en bordure de terrain, pour permettre l'information et les tiers (epeuvent attaquer une construction).
+
+l'importance de la publicaton est l'entrée en vigueur. Les édélias de recours contre une décision ne sont opposalbes qu'à la condition d'avoir été mentionée, ainsi que les voies de recours dans la notification de la déicison.
+
+exemple notifiation de refus du permis de construire entre ne vigueur, moidife ordonanncement juridqiue. C auss le point de depart des délais de recours (délais de reocurs 2 mois +1 jour). Mais 2 mois c cours. ce qui est prévu c'est que sur votre acte physique imprimé sur papier, on mentionne l'existence de voie de reocurs dans le corps de l'ace. Plsu long si distance (géographoque). Si cela ne figure pas dans l'acte, on va estimer que à ce moment là, les délais de recours ne commencent pas à courrir. Donc ils peuvent pas expirer. Donc l'acte sera attaquable tout le tmeps.
+
+c articel R421-5 du code de justice administratif.
+
+la écision reste légale. C pas parce qu'on a oublié de mentonner les voies de recours qu'lle est illégale, elle est juste applicale indéfiniemetn.
+
+CE Ass, 13 juillet 2006,  Czabaj
+le conseil d'état est venud ire que meme lorsque les voies et délais de recour ne sont pas metnioknés, un acte ne peut pa être attaquable éternelelment.
+
+le recours doit quand meme etre introduit dans un délais raisonable. 
+
+c'est un administré qui aviat uen pension de retraite, sauf qu'il l'attaque 22 ans apres. le conseil d'état va relever son recours comme tardif au nom de la sécurité juridqiue.
+
+le probleme c'es tque une durée raisonable c'est susceptible d'appréciation. Donc peut differer pour chaque juge. 
+
+arrêt Czabaj a eu une descendance très imporante, notamment arret du 18 mars 2019 du conseil d'état, qui précise que la jurispriudence Czabaj est applicable à a contestation d'une décision implicite de rejet, née du silence gardé par l'administration sur unedemande présentée devnat elle.
+
+après une demande, le refus implicite de rejet est de 2 mois. QUand on fait une dmeande génralement on a un accusé de reception qui précise voie de recours en cas de refus implicite. Noralemnet on devria pourvoi rl'attaquer indéfiniement.
+
+mais Czabaj est venud ire que quadn refu simplicite, on dorit introduire le recours dans un délasi raisonable.
+
+arret 12 octobre 2020, Ministere de la culture et de l'alimentation, qui etend le raisonnemetn de l'arret 2019 aux décisiosn implicites de rejet, et du silence gardé sur un recours admoinistratif.
+
+pour certains actes, il faut faire un recours daministrati fprélable. C'est idée soit qu'on demande au superieru hierahcique de celui qui a pris la déicison de revenir dessus, soit on demande à la mme autorité (recours gracieux) si elle veut pas changer d'avis. But est de désemcombrer la juridiction daministrative.
+
+demande 2 janvier, recours le 30 mars. refus ilplicite du recours. On fait un recours contnteiux, à faire dans un délai raisonsable. Arret 12 octobre 2020. 
+
+puis consiel d'état a rendu un avis 12 juillet 2023
+
+le CE rappelle que les requérants sotn tenus par un délai raisonable pour introduire leur recours. Il est meme allé plus loiin, car a prologné l'arret Czabaj pour les instances en cours.
+
+CeDH a condamné la france le 9 novembre 2023, Legros, numero 72173/17 a condamné la france sur l'apllication aux instance en cours estimatn donc que ça violati le droit d'accès à un tribunal. article 6 paragraphe 1. Mais a pas condamné sur le fond l'instauraiton d'un délais raisonable. 
+
+La CEDH considere que la définition par voie prétorienne duen condition de recevabilité... (à completer).
+
+#### B) publicité et entré en vigueur
+
+Très souvent, l'entrée en vigueur **coïncide avec la publicité**, qui rend l'acte opposable.
+
+**L'article L221-2, alinéa 2 du CRPA** énonce qu'un **acte réglementaire entre en vigueur le lendemain** du jour de l'accomplissement des formalités prévues au premier alinéa, sauf disposition contraire prévue par la loi, par l'acte réglementaire lui-même, ou par un autre règlement.
+
+Cependant, **l'auteur de l'acte peut retarder son entrée en vigueur** à une date ultérieure. Enfin, si l'acte nécessite des **mesures d'application**, son entrée en vigueur est reportée à la date d'entrée en vigueur de ces mesures.
+
+#### C) L’existence et la validité de l’acte ATTENTION REFAIRE ARRETS
+La **signature fait exister un acte**, et, à partir du moment où il existe, certaines actions deviennent possibles.
+
+1. **Quand l'acte existe :**
+    - Le recours pour excès de pouvoir est **recevable**. Ainsi, la légalité de l'acte peut être contrôlée et son annulation prononcée si nécessaire.
+    - **==Arrêt CE Sect., 26 juin 1959, Syndicat des ingénieurs-conseils :**==  
+        La légalité de l'acte est appréciée **à la date de la signature**. Une fois l'acte signé, **l'abrogation** est possible, tout comme le contrôle de légalité de cette abrogation.
+
+2. **L'==arrêt CE Sect., 29 mars 2000, Confédération nationale des syndicats dentaires :**  ==
+    Le fait qu'une décision ne soit pas encore entrée en vigueur **n'empêche pas l'administration d'en faire application**, à condition que les **mesures d'exécution** ne prennent pas elles-mêmes effet avant l'entrée en vigueur de la décision initiale.
+    - **CE, 30 juillet 2003, GEMTROT (Groupement des éleveurs moyennais de travailleurs)**, confirmé par **CE, 3 février 2011, Syndicat national des installateurs en radiocommunication**.
+
+3. **Distinction selon la nature des mesures d'application :**
+    - **Mesures réglementaires d'application** :  
+        Si un acte réglementaire est signé mais pas encore publié :
+        - Les mesures réglementaires d'application prises sur son fondement **sont légales** à condition que la base légale soit conforme et que l'acte initial entre en vigueur à temps.
+    - **Mesures individuelles d'application** :  
+        En revanche, si un **acte individuel** est pris sur la base d'un acte réglementaire non encore entré en vigueur, cet acte individuel **est privé de base légale**.
+4. **Conséquences pratiques :**
+    
+    - Lorsqu’un **acte réglementaire est signé mais pas encore en vigueur**, il peut servir de base à d’autres **actes réglementaires**, mais pas à des **actes individuels**.
+    - Si un acte individuel est refusé sur la base d’une norme non encore entrée en vigueur, ce refus peut être **attaqué**.
+    - L'entrée en vigueur ultérieure de la base légale **ne régularise pas une décision individuelle** prise avant cette entrée en vigueur.
+
+#### D) La non-rétroactivité
+
+C'est l'idée que **l'acte administratif ne peut entrer en vigueur à une date antérieure à celle de sa publication**.
+
+Cette règle a été consacrée dans un arrêt important du **==25 juin 1948, Société du journal L’Aurore==**, consacrant la **non-rétroactivité des actes administratifs** comme un **principe général du droit**.
+
+**Exceptions à la règle :**
+La rétroactivité est permise dans certains cas, notamment pour répondre à des **obligations nécessaires**.
+
+**Exemple :**  
+Un fonctionnaire révoqué le 1er janvier 2024 attaque sa décision. Le tribunal administratif rend un jugement en avril 2026, annulant la révocation. L’administration, en désaccord, interjette appel, mais la décision est confirmée en juillet 2028. Lorsque le fonctionnaire est réintégré, cela implique la **reconstitution de sa carrière**, y compris les évolutions qu’il aurait pu obtenir. Cela nécessite donc l’adoption d’actes rétroactifs.
+
+Cet exemple repose notamment sur l’arrêt du **==26 décembre 1925, Rodière==**.
+
+Enfin, la rétroactivité est également admise lorsque l’administration **ne peut pas faire autrement**.
+
+### Paragraphe 3 : La vie de l'acte
+
+#### A) L'exécution de l'acte
+Il s'agit pour l'administration d'appliquer les actes légaux qu'elle a pris, car ils lui sont opposables.
+
+Si l'administration ne respecte pas les actes qu'elle a adoptés, non seulement elle commettrait une **illégalité** et une **faute**, mais cela conduirait à un fonctionnement arbitraire, contraire au droit administratif. Une fois qu'elle a adopté un acte, elle a l'obligation de l'exécuter.
+
+En revanche, lorsqu'un règlement est **illégal**, l'autorité administrative ne doit pas l'appliquer (**==avis du Conseil d'État, 9 mai 2005, Marangio==**).
+
+Dans l'arrêt **==CE, 16 décembre 2005, Lacroix==**, concernant les actes individuels, l'administration doit continuer de leur donner effet tant qu'ils n'ont pas été retirés. Un acte individuel doit être sorti de vigueur pour cesser de produire ses effets.
+
+**L'exécution des actes administratifs**
+L'exécution des actes administratifs renvoie à ce que **Hauriou** appelait le ***privilège du préalable***. Cette expression reflète l'idée que les actes administratifs disposent, dès leur entrée en vigueur, d'une autorité immédiate, préalable à toute vérification juridictionnelle. Cela signifie que l'administration n'a pas besoin de se faire conférer un titre exécutoire par le juge pour donner une force exécutoire à ses décisions.
+
+En France, **les actes administratifs sont** **présumés réguliers**. Cette présomption est importante, car lorsqu'un recours est introduit contre un acte, celui-ci demeure **obligatoire** tant que le juge ne l'a pas déclaré **illégal**.
+
+De plus, en France, les recours ne sont **pas suspensifs**.
+
+C'est pourquoi des **procédures d'urgence** (comme les référés) ont été créées, permettant aux justiciables d'obtenir la suspension des effets d'un acte par un juge, le temps que le juge du fond statue sur sa légalité.
+
+#### B) Les solutions en cas de non exécution
+
+**3 solutions pour surmonter la résistance de l'administré :**
+1. Les sanctions pénales
+2. Les sanctions administratives
+3. L'exécution forcée
+##### 1) l'exécution pénale
+
+L'**==article R610-5 du Code pénal==** permet à l'administration d'exercer des poursuites devant le juge pénal contre toute personne ayant contrevenu aux obligations édictées par des **décrets** et **arrêtés de police**.
+
+C'est un texte **général**, mais il existe également d'autres textes **spéciaux**. Ainsi, le recours aux sanctions pénales est possible lorsqu'un texte le prévoit expressément.
+
+#### 2) Les sanctions administratives
+
+Elles ont un **caractère hybride** : ce sont des actes répressifs par leur **contenu**, mais administratifs par leur **auteur**.
+
+Elles se sont développées dans les années 1940, sous le régime de Vichy, notamment en matière d'économie dirigée. 
+
+**==Conseil constitutionnel, 28 juillet 1989, Commission des opérations de bourse==**
+Dans un premier temps, le Conseil constitutionnel a sanctionné ces sanctions, puis a admis leur existence dans une décision du 28 juillet 1989 (Commission des opérations de bourse). Cette décision a toutefois imposé qu’un certain nombre de **garanties** soient respectées.

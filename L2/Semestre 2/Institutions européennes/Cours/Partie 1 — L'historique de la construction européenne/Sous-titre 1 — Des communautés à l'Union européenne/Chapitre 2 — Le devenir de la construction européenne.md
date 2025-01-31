@@ -1,98 +1,106 @@
-cette construction va évluer grace à l'acte uni eurpéen.
+Cette construction va évoluer grâce à **l'Acte unique européen**.
 ## Section 1 : De la consolidation à l'approfondissement de la construction européenne
 
-dans les années 70, la construction européenne est relancée sur le plan monétaire, avec la création en 1979 du système monétaire européen, le SME, qui est chargé d'assurer la stabiloté mpnétaire en europe, et de créer l'écu qui est l'ancete de l'euro. 
+Dans les années 1970, la construction européenne est relancée sur le plan monétaire avec la création, en 1979, du **Système monétaire européen (SME)**. Ce dernier est chargé d'assurer la stabilité monétaire en Europe et de créer l'**ECU**, l'ancêtre de l'euro. (Apparemment, "ECU" signifie "grosse vache" en allemand.)
 
-apparement écu c'est grosse vache en allemand.
+Cette décennie est également marquée par la création du **Conseil européen** en décembre 1974 et par la première élection, en juin 1979, du Parlement européen au suffrage universel direct, en application d'un acte de 1976 (un traité).
 
-création en décembre 1974 du conseil européen et premiere eection en jui 1979 du parleemtn européen au suffrage universel. direct. Et cela en application d'un actede 1976, un traité (plusiuers types de traité : acte, charte). sur cette peruode europe connait ausis son preier elargemenst avec adhésion du royaume uni, irelande et  du danemark en 1973.
+Pendant cette période, l'Europe connaît également son **premier élargissement** avec l'adhésion du **Royaume-Uni**, de l'**Irlande** et du **Danemark** en 1973. L'Europe des 6 devient ainsi l'**Europe des 9**. Cependant, cette période est aussi marquée par le **premier "non" norvégien** à l'Europe, pour des raisons liées notamment à la pêche en mer du Nord. En 1994, un **deuxième "non" norvégien** sera exprimé.
 
-l'europe est 6 devient l'europe des 9. C aussi le premier non,, norvégien à l'uerope, pour des raisons de peche en mer du nord. en 94 deuxieme non norvégien.
+Après cette période de relance, un **second élargissement** a lieu en 1981 avec l'entrée de la **Grèce**, formant ainsi l'**Europe des 10**. Puis, un **troisième élargissement** intervient en 1986 avec l'adhésion de l'**Espagne** et du **Portugal**, portant l'Europe à **12 membres**.
 
-après cette période de relance, apres un second élargement en 81, avec l'entrée de la grece (europe des 10). Puis 3eme élargissmetn en 1986 avec l'adhésion de l'epsagne et du portugal (europe des 12), Jacques Delors, nouveau président de la comission, propose d'achever le marché unique pour donner un nouveau souffle à la construction communautaire. Pour cela, l'acte unique euroéen est signé  les 17 et 28 février 1986 (2 lieux de signatres à Luxembourg à à La Haye). Entre ne vigueur le 1er juillet 1987. 
+Pendant ce temps, Jacques Delors, nouveau président de la Commission européenne, propose d'achever le marché unique pour donner un nouvel élan à la construction communautaire. Pour cela, l'**Acte unique européen** est signé les **17 et 28 février 1986** (dans deux lieux : **Luxembourg** et **La Haye**) et entre en vigueur le **1er juillet 1987**.
 
-il constitue la prémiere édiiton importante des traité originaire, fondateurs des commiunautés européennes. On dit aussi traité constitutif. 
+Il constitue la première **révision importante** des traités originaires, fondateurs des Communautés européennes, que l'on appelle aussi **traités constitutifs**. Cet acte vise à consolider la construction européenne, qui sera renforcée par la création de l'Union européenne et les traités ultérieurs.
 
-Ils visent à consolider la construction européenne, qui sera renforcée avec la création de l'uneion européenne, et les traités supérieurs. 
+### Paragraphe 1 : L'étape de la consolidation : l'Acte unique européen
 
-### Paragraphe 1 : L'étape de la consilidation : l'acte unique européen 
-
-l'objectif rpemeir de ce traiété c'est la réalsaitiond u maché unqieu voulu par jacques delors. 
-
+L'objectif premier de cet acte est la **réalisation du marché unique**, voulue par Jacques Delors.
 #### A) L'achèvement du marché intérieur
 
-l'acte unique européen (AUE) prévoit lamise ne palce le premier janvier 1993 du marché interieur, càd d'un espace sans frontières interieures, dans lequel la lbire circulation des marchandises ,des personnes, des services et des capitaux est assurée. 
+L'Acte unique européen (AUE) prévoit la mise en place, au **1er janvier 1993**, d'un **marché intérieur** : un espace sans frontières intérieures, dans lequel la **libre circulation des marchandises, des personnes, des services et des capitaux** est assurée.
 
-à cette fin, il est prévu d'adopter un train de 279 directives communautaires qui sotn énoncées dans le livre blanc de la comission euopenne de 1985, et pour éliminer les obstacles  techniques, physiques et fiscaux qui subsistent aux frontieres intra communautaires. 
+Pour atteindre cet objectif, il est prévu d'adopter un ensemble de **279 directives communautaires**, énoncées dans le **Livre blanc de la Commission européenne** de 1985. Ces directives visent à éliminer les obstacles **techniques**, **physiques** et **fiscaux** qui subsistent aux frontières intra-communautaires.
 
-le marché intérieur est el terme juridique utilisé dans le traité. Marché unqiue est el terme utilisé par la comoson européenne.
+Le terme juridique utilisé dans le traité est **marché intérieur**, tandis que l'expression **marché unique** est davantage utilisée par la Commission européenne.
 
-marché unqieu est un succes, envié des usa et du japon, a tel point que les etats membres de l'association eiropenne de libre échange (AELE),  signent avec la communauté européenne un accofd 'espace économique europen en 1992. Ceta ccord crée une immense zone de libre échange entre les etats membres de s 2 organisaitons (AELE et communauté economique européenne). C'est l'accord EEE. à l'eception toutefois de la suissse qui signe le traité mais ne le ratifie pas (qui dit non par réferundum). toutefois un accord bilatéral sera signé par la suite. (entre la suisse et communauté européenne).
+Le marché unique est un **succès**, envié par les États-Unis et le Japon, à tel point que les États membres de l'**Association européenne de libre-échange (AELE)** signent, en 1992, un **accord sur l'Espace économique européen (EEE)** avec la Communauté européenne. Cet accord crée une immense **zone de libre-échange** entre les États membres des deux organisations (**AELE** et **Communauté économique européenne**). Cependant, la **Suisse** ne ratifie pas cet accord après un référendum négatif. Par la suite, des **accords bilatéraux** seront signés entre la Suisse et la Communauté européenne.
 
 #### B) Les avancés de l'acte unique européen
 
-acte unqieu auepen a 2 volets : intéagration et coopération. 
-
+L'Acte unique européen (AUE) repose sur deux volets : **intégration** et **coopération**.
 ##### 1) Les avancés institutionnelles et matérielles
 
-sur le plan institutionel, le tarité réforme en profondeur les institutosn des communautés. Le traité étend le champ de la majorté qualifié au sein du conseil pour facilite rla prise de déciision. En consequence le compromsi de luxembourg est remis en cause,dans les faits (de facto) parce qu'il n'y a pas d'abrogation formelle en droit (de jure). 
+Sur le plan **institutionnel**, le traité réforme en profondeur les institutions des communautés. Le traité étend le champ de la **majorité qualifiée** au sein du Conseil pour faciliter la prise de décision. En conséquence, le **==compromis de Luxembourg==** est remis en cause dans les faits (**de facto**), même s'il n'est pas formellement abrogé en droit (**de jure**).
 
-les pouvor sdu paremetn européen sont renforcés, grâce à la création des procédures : la coopération et la ???. 
+Les pouvoirs du Parlement européen sont renforcés grâce à la création de nouvelles procédures, notamment celle de la **coopération**.
 
-sur le plan institutionnel, le tribunal de premier instance (TPI) voit le jour, au coté de la cour de justice des communauté européenne (CJCE) poru désengorger le CJCE. depuis le tarité de lisbonen c'est devenu le tribunal de l'ue (CJUE), qui s'appelle juste le tribunal. 
+Toujours sur le plan institutionnel, le **Tribunal de première instance (TPI)** est créé pour désengorger la Cour de justice des Communautés européennes (CJCE). Depuis le ==**traité de Lisbonne**==, ce tribunal est devenu le **Tribunal de l’Union européenne (TUE)**, appelé simplement ***le Tribunal***.
 
-sur le plan maétirel, outre l'achevemetn du marché interieur, le traité étend les domaines de compétences de la communauté économqieu eurpéene. 
+Sur le plan **matériel**, outre l’achèvement du marché intérieur, le traité élargit les domaines de compétence de la **Communauté économique européenne (CEE)**.
 
-de nouvelels politiques scommunes voient le jour dans les domaines de l'environnement, de la recherche et du développemetn tecnilogique. De même, la politique sociale est élargie, afin d'harmosier les conditons de travail (en terme de sécurité et d'hygiiene), la politique de cohésion économique et sociale est consacrée, la politique régionale devient la politique de cohésion economique et sociale, pour réduire le retard des régiosn défavoriséesq. 3 catégories de régiosn en europe, on voudrai tla convergence économqiue des régiosn. On aide les régiosn en retard à rattraper leur retard. C une création de Jacques Delor. 
+De nouvelles **politiques communes** voient le jour, notamment dans les domaines de l’**environnement**, de la **recherche** et du **développement technologique**. De plus, la **politique sociale** est étendue pour harmoniser les conditions de travail, notamment en matière de **sécurité** et d’**hygiène**.
+
+La **politique de cohésion économique et sociale** est également consacrée, transformant la **politique régionale** en un outil pour réduire les écarts entre les régions européennes. L’objectif est d’encourager la **convergence économique** des régions en aidant celles en retard à rattraper leur niveau de développement. Cette initiative est une création de **Jacques Delors**.
 ##### 2) L'institutionnalisation de la coopération politique européenne
-AUE traité uniqeu car comose dispoitons relatives àl'integration et a la coopéraiton. 
+L’==AUE== est un traité unique car il combine des dispositions relatives à l'**intégration** et à la **coopération**.
 
-celle ci consistait poru les ministres des affaires érrangeres à se réunir tous les 6 mois pour orienter l'action européenne. Le traité codifie cette pratique. Le traité officialise l'existence du conseil européen, qui a été créé en 1974. Avant let raité de Rome ce terme n'exsitait aps, il existaite n marge des traités.
+La **coopération** consistait, pour les ministres des Affaires étrangères, à se réunir tous les six mois pour orienter l’action européenne. Le traité codifie cette pratique. Il officialise également l'existence du **Conseil européen**, créé en 1974. Avant le traité de Rome, ce terme n’existait pas, et cette instance fonctionnait en marge des traités.
 
-enfin l'acte unique européen préconise la création d'une véritable union politque euripéenne, qui va être créé par le traité de Maastricht. 
-
-
+Enfin, l’==Acte unique européen== préconise la création d’une véritable **union politique européenne**, qui verra le jour avec le **==traité de Maastricht==**.
 ### Paragraphe 2 : La création de l'Union Européenne : le Traité de Maastricht
 
-Le traité d emaastricht, ou traité sur l'union européenne, est le 5eme grand traité de l'histoire communautaire, après le traité de paris de 1951 qui crée la CECA, les 2 traités de rome 1957 (la CEE) et la CEEA, et acte uniqeu europen de 1986 pour le marché interieur. 
+Le **==traité de Maastricht==**, ou **traité sur l'Union européenne (TUE),** est le cinquième grand traité de l'histoire communautaire, après le **==traité de Paris de 1951==** qui crée la CECA, les deux **==traités de Rome de 1957==** (CEE et CEEA), et l'**==Acte unique européen de 1986==**, qui a permis l'achèvement du marché intérieur.
 
 #### A) L'élaboration du traité de Maastricht
-##### 1) Les orignes du traité 
+##### 1) Les origines du traité 
 
-il est né de l'initiative du chancelier allemand Kohl, et du président français Mitteradn, de concoquer une conference intergovuernemetngale (CIG), afin de faire face aux défis extéreirusd e l'europe. Ex efondrement de l'empire soviétique, la réunification allemande, la démocartisation (PECO Pays centrial oriental).
+Ce traité est né de l'initiative du chancelier allemand **Helmut Kohl** et du président français **François Mitterrand**, qui ont décidé de convoquer une **conférence intergouvernementale (CIG)** pour répondre aux défis extérieurs auxquels l'Europe faisait face :
+- *Effondrement de l'empire soviétique,*
+- *Réunification de l'Allemagne,*
+- *Démocratisation des pays d'Europe centrale et orientale (PECO).*
 
-A l'issu de 2 conférences, qui ont été ouvertes en décemre 1990, une conférence sur l'UEM, et l'autre sur l'union politique, apres ces deux conférence le traité sur l'UE, lE TUE, est signé de 8 en 1992, mais sa ratification va se révéler diffiicile. 
+Deux conférences ont été ouvertes en décembre 1990 : l'une sur l'**Union économique et monétaire (UEM)** et l'autre sur l'**Union politique**. À l'issue de ces deux conférences, le **==traité sur l'Union européenne (TUE)**== a été signé le **==7 février 1992==**, mais sa ratification s'est révélée difficile.
 
 ##### 2) Une ratification difficile
 
-elle est marquée par le non danois en 1992, qui sera suvii d'un référundum positif en 1993. En effet le danemark a obtenu des dérogations concernant les questiosn de citoyenneté, de défense commune et de passage à la monnaie unique. 
+La ratification du traité a été marquée par plusieurs défis :
+- **Le "non" danois** en 1992, suivi d’un référendum positif en 1993 après que le Danemark a obtenu des **dérogations** concernant les questions de citoyenneté, de défense commune et de passage à la monnaie unique.
+- **Le Royaume-Uni** a également obtenu des dérogations en matière de **politique sociale** et de passage à la monnaie unique.
 
-De même le royaume uni en a obtenu des dérogations en matiere de politiqeu socaile et de passage à la monnaie unique. 
+En France, la **Constitution a dû être révisée en 1992** pour permettre la ratification du traité. Le ===**Conseil constitutionnel**, dans sa décision **Maastricht I (9 avril 1992===)**, a jugé que certaines dispositions du traité étaient contraires à la Constitution, notamment celles relatives au **droit de vote et d'éligibilité des citoyens européens** aux élections municipales. Il a estimé que cela portait atteinte aux **conditions essentielles de l'exercice de la souveraineté nationale**.
 
-en France, la constitution a été révisée en 1992 pour permettre la ratification du traité. En efet le conseil constitutionnel français, dans un edecion Maastricht I, de 1992 a jugé certaines dispositons du traité contraire à la constitution, celles relatives au droit de vote et d'égibilité aux elections municipales, car il a ditque ca porre atteinte aux conditions essentielle de l'exercice de l asovuerainté nationael. 
+En conséquence :
+- Les conseillers municipaux européens résidant en France ne peuvent pas exercer les fonctions de **maire** ou **adjoint au maire**, fonctions réservées aux nationaux.
+- Ils ne peuvent pas participer à l'élection des sénateurs.
+- L'**==article 88-3 de la Constitution française==** a été ajouté pour encadrer ces restrictions.
 
-en conséquence il a fallu interdire aux consiellers municipaux européens résidents en France d'exercer les fonctiosn de maire ou d'adjoint aux maires, qui sont réservés aux nationaux, ou encore de participer aux elections des sénateurs (article 88-3 de la constitution française). 
+De plus, l'**==article 88-1==** a été intégré à la Constitution pour autoriser la participation de la République française à l'Union européenne.
 
-de plus, l'articel 88-1 qui autoirse la participation de la république française à l'union européenne. 
-
-le traité de maastricht entre en viguer le 1er nivembre 1993, le conseil constitutionel a en effet déclaré le traité conforme à la cnstituon révisée, dans une décision Maastricht II, du 2 septembre 1992. Et 3ème décision, le consiel cons s'est déclaré incompétent pour controler la loi référendaire autorisatn la ratification du traié de maastricht (Décision III 23 deptembre 1992)
+Le traité de Maastricht est finalement entré en vigueur le **==1er novembre 1993==**.
+- Le Conseil constitutionnel a déclaré le traité conforme à la Constitution révisée dans sa décision **==Maastricht II (2 septembre 1992)==**.
+- Dans une **==troisième décision (23 septembre 1992)==**, il s'est déclaré **incompétent** pour contrôler la **loi référendaire** autorisant la ratification du traité.
 
 #### B) L'apport du Traité de Maastricht
 
-sur le plan formel, le traité est complexe. il comprend 4 titres, 17 protocoles. Les protocoles ont la meme valeur juriique que le traité lui meme, et 33 déclaratons annexes qui ont valeur politique, et non pas valeur juridique. 
+Sur le plan formel, le traité de Maastricht est complexe. Il comprend **quatre titres**, **17 protocoles** (ayant la même valeur juridique que le traité lui-même) et **33 déclarations annexes** (ayant une valeur politique mais non juridique).
 
-le traité comprend un préambule, des dispositons communes, et des dispositons spécifiques à chaque pillier. 
+Le traité est structuré en un **préambule**, des **dispositions communes** et des **dispositions spécifiques à chaque pilier**.
 
-au titre des dispositons commune ssont consacrés le principe de subsdiiarité (qui vise à préserver les compétneces des états membres contre une intervention inustifiée des institutions communautaires) et aussi le principe de proportionnalité, qu implqie que l'action eurpéenne soi tproportionelle aux objectifs poursuvisi. 
+- **Dispositions communes** : consacrent deux principes fondamentaux :
+    - Le **principe de subsidiarité**, visant à préserver les compétences des États membres contre une intervention injustifiée des institutions communautaires.
+    - Le **principe de proportionnalité**, selon lequel l'action européenne doit être proportionnée aux objectifs poursuivis.
 
-enfin le traité de maastricht crée la citoyenneté européenne. L'apport fondamental de ce traité demeure la créationde l'union européenne, une unin à l afois politque, sociale, économique et monétaire. 
+- **Citoyenneté européenne** : Le traité introduit également la **citoyenneté européenne**, permettant à tout citoyen d’un État membre de jouir de droits supplémentaires au sein de l'Union (par exemple, le droit de vote et d'éligibilité aux élections locales et européennes dans un autre État membre).
 
-l'UE comporte alors pilliers qui reposent sur un cadre institutionnel unique (càd on a les memes institutions pour chauqe pilier maiz avec des puvoirs diff) : consiel , conseil europen, comission, et parlemet europen. Toutefois le traité de Lisbonne a mis fin aux 3 piliers. le traité de maastricht à traité la PESC. 
 
-TM = UE = Les CE + PESC + JAI
+L'apport fondamental du traité reste la **création de l'Union européenne (UE)**, une union politique, sociale, économique et monétaire.
 
-CE : méthod ed'integration
-PESC : JAI méthode de coopération 
+L'UE repose alors sur **trois piliers**, gérés par un cadre institutionnel unique (Conseil, Conseil européen, Commission, Parlement européen), mais avec des pouvoirs différents selon le pilier. Toutefois, le traité de Lisbonne a mis fin à cette structure des trois piliers.
+
+**TM = UE = Les CE + PESC + JAI**
+- CE : méthode d'integration
+- PESC & JAI : méthode de coopération 
 
 ##### 1) Le pillier communautaire : la logique d'intégration
 

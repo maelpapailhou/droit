@@ -16,22 +16,24 @@ ABSENT
 
 ##### 1) L'auteur direct et indirect d'une infraction non-intentionnelle
 
-La distinction actuelle résulte de la ==loi du 10 juillet 2000==, qui a réformé les infractions d’imprudence.
+La distinction actuelle résulte de la ==**loi du 10 juillet 2000**==, qui a réformé les infractions d’imprudence.
 
-Le législateur a modifié l’==article 121-3 du Code pénal==, article central définissant les fautes pénales. Désormais, les ==alinéas 3 et 4 ==distinguent l’auteur **direct** de l’auteur **indirect**.
+Le législateur a modifié l’==**article 121-3 du Code pénal**==, article central définissant les fautes pénales. Désormais, les ==alinéas 3 et 4 ==distinguent l’auteur **direct** de l’auteur **indirect**.
 
 > **Article 121-3 al. 3 et 4 (modifié par la loi du 10 juillet 2000) du Code pénal**  
 > "Toutefois, lorsque la loi le prévoit, il y a délit en cas de mise en danger délibérée de la personne d’autrui.  
 > Il y a également délit, lorsque la loi le prévoit, en cas d’imprudence, de négligence ou de manquement à une obligation de prudence ou de sécurité prévue par la loi ou les règlements sauf si l’auteur des faits a accompli les diligences normales compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses compétences ainsi que du pouvoir et des moyens dont il disposait."
 #### B) Les conséquences du principe de responsabilité pénale personnelle
 
-Le principe de responsabilité pénale personnelle signifie deux choses : d'une part, l'exclusion de la responsabilité pénale collective ; d'autre part, l'exclusion de la responsabilité pénale du fait d'autrui.
+Le **principe de responsabilité pénale personnelle** signifie deux choses : 
+- d'une part, l'exclusion de la responsabilité pénale collective ; 
+- d'autre part, l'exclusion de la responsabilité pénale du fait d'autrui.
 
 ##### 1) L'exclusion de la responsabilité pénale collective
 
-Le principe est que lorsqu'une infraction est commise par plusieurs personnes, cette infraction ne peut pas être imputée collectivement au groupe. Le juge doit examiner la culpabilité de chacun de manière distincte. Les qualifications et les peines peuvent parfaitement être différentes d'un individu à l'autre.
+Le principe est que lorsqu'une **infraction est commise par plusieurs personnes**, cette infraction ne peut ***pas être imputée collectivement au groupe***. Le juge doit examiner la culpabilité de chacun de manière distincte. Les qualifications et les peines peuvent parfaitement être différentes d'un individu à l'autre.
 
-Par exemple, si un braquage est commis en groupe, tout le monde ne joue pas le même rôle. Les qualifications et les peines sont donc individualisées.
+*Par exemple, si un braquage est commis en groupe, tout le monde ne joue pas le même rôle. Les qualifications et les peines sont donc individualisées.*
 
 En principe, le fait que l'action soit collective n'a aucune incidence particulière sur la culpabilité.
 
@@ -71,7 +73,7 @@ Lorsque l'infraction commise est intentionnelle et que l'action de chacun n'est 
 
 Cela concerne notamment les violences intentionnelles.  
 
-<u>Chambre criminelle, 13 juin 1972</u>
+**==Chambre criminelle, 13 juin 1972==**
 L'**arrêt fondateur qui a introduit cette théorie jurisprudentielle** est Chambre criminelle, 13 juin 1972 : dans cette affaire, une scène de violence a été commise par les membres d’un groupe. 
 
 Pour pouvoir déclarer chaque participant pénalement responsable individuellement, chacun a été considéré comme complice de celui qui avait porté le coup fatal. En d'autres termes, chaque participant est correspectivement complice de l'auteur du coup fatal.
@@ -83,8 +85,8 @@ Cependant, cette approche pose des difficultés au regard des principes pénaux,
 - Plusieurs agresseurs impliqués,
 - Une impossibilité de déterminer qui a fait quoi.
 
-<u>Arrêt du 23 mars 2022  </u>
-Quatre fonctionnaires de police à bord de deux voitures sont attaqués par un groupe d’une quinzaine de personnes lançant dans leur direction des bouteilles incendiaires. Les agresseurs sont poursuivis pour tentative de meurtre sur des personnes dépositaires de l’autorité publique.
+**==Arrêt du 23 mars 2022==**  
+Quatre fonctionnaires de police à bord de deux voitures sont attaqués par un groupe d’une quinzaine de personnes lançant dans leur direction des bouteilles incendiaires. Les agresseurs sont poursuivis pour **tentativ<u></u>e** de meurtre sur des personnes dépositaires de l’autorité publique.
 
 La Cour a déclaré que :  
 _"Lorsque les violences ont été exercées volontairement et simultanément, dans une intention homicide par plusieurs accusés au cours d’une scène unique de violence, l’infraction peut être appréciée dans son ensemble, sans qu’il soit nécessaire pour le juge de préciser la nature des violences exercées par chacun des accusés sur chacune des victimes."_
@@ -93,7 +95,7 @@ _"Lorsque les violences ont été exercées volontairement et simultanément, da
 
 Lorsque l’infraction est non intentionnelle, on applique la notion (et non la théorie) de **"commune imprudence"**.
 
-Exemple : <u>Chambre criminelle, 23 juillet 1986  </u>
+Exemple : **==Chambre criminelle, 23 juillet 1986==**  
 Deux jeunes font une course en voiture. L’un renverse un piéton, puis l’autre percute ce même piéton. Celui-ci est mortellement blessé. La police, les médecins et le juge ne parviennent pas à déterminer lequel des deux chocs a causé la mort.
 
 La Cour de cassation a raisonné ainsi :  
@@ -105,7 +107,7 @@ Les deux protagonistes ont créé, par leur **"commune imprudence"**, un risque 
 
 Le problème se pose différemment lorsque l’action de chacun est individualisable. Dans ce cas, la responsabilité est déterminée pour chaque auteur.
 
-Exemple : <u>Chambre criminelle, 23 mars 1994</u>  
+Exemple : **==Chambre criminelle, 23 mars 1994==**
 Un camion roule à une vitesse excessive et son conducteur perd la maîtrise du véhicule. Le camion se retrouve en travers de la route à double sens. Une voiture arrive en sens inverse, heurte le camion et ses passagers sont blessés. Un second camion, également à vitesse excessive, percute la voiture accidentée, causant la mort des passagers.
 
 En 1994, l’auteur de la première faute a été déclaré pénalement responsable pour homicide involontaire, sans distinction entre auteur direct ou indirect. Cela reposait sur la **théorie de l’équivalence des conditions**, selon laquelle tout événement ayant contribué à causer le dommage peut entraîner une responsabilité pénale en cas de faute simple.
@@ -137,17 +139,17 @@ Cette piste est sans issue, car la délibération du conseil municipal représen
 
 Il est toutefois possible, sur initiative de la jurisprudence, de revenir à une responsabilité pénale des personnes physiques.
 
- <u>L'arrêt du 11 mai 1999</u>
+**==L'arrêt du 11 mai 1999==**
 Cet arrêt a été suivi par deux autres arrêts de la chambre criminelle, rendus le **17 décembre 2002** et le **19 novembre 2003**.
 
-<u>L'arrêt du 17 décembre 2002 :</u>  
+**==L'arrêt du 17 décembre 2002 :==**
 La Cour de cassation a jugé que l'impossibilité juridique d'individualiser l'action de chacun n'exclut absolument pas toute responsabilité pénale personnelle des personnes physiques.  
 
 La Cour a souligné que la responsabilité pénale des personnes physiques peut être engagée indépendamment du vote de la délibération, pour des faits matériels distincts commis par ces personnes.
 
-Dans cet arrêt, la responsabilité pénale d'une personne physique, en l'occurrence le maire, a été retenue car celui-ci avait revendiqué lui-même le projet.
+Dans cet arrêt, la responsabi<u></u>lité pénale d'une personne physique, en l'occurrence le maire, a été retenue car celui-ci avait revendiqué lui-même le projet.
 
-<u>L'arrêt du 19 novembre 2003 :</u>  
+==L'arrêt du 19 novembre 2003 :  ==
 Dans cet arrêt, il est reproché à l'adjoint au maire d'avoir présenté un rapport sur le projet devant le conseil municipal et de l'avoir soumis au vote.
 
 ##### 2) L'exclusion de la responsabilité du fait d'autrui
@@ -167,13 +169,13 @@ Le chef d'entreprise n'est ni auteur ni complice de l'infraction, dont il n'a m�
 Le législateur a même pris le relais de la jurisprudence en reconnaissant des cas de responsabilité pénale du fait d'autrui, avant parfois de faire marche arrière.
 
 Y a-t-il vraiment une responsabilité pénale du chef d'entreprise pour le fait d'autrui ?
-###### a)  Le champ d'application de la responsabilité pénale du chef d'entreprise du fait d'autrui
+###### a) Le champ d'application de la responsabilité pénale du chef d'entreprise du fait d'autrui
 
 Quelles sont les infractions pour lesquelles le chef d'entreprise est susceptible de voir sa responsabilité pénale engagée alors qu'elles sont commises par un préposé ?
 
-Il n'existe aucun texte général prévoyant la responsabilité pénale du chef d'entreprise du fait de son préposé.
+Il n'existe **aucun texte général** prévoyant la responsabilité pénale du chef d'entreprise du fait de son préposé.
 
-En revanche, il existe des textes particuliers qui prévoient ou ont pu prévoir la mise en jeu de la responsabilité pénale du chef d'entreprise du fait d'autrui.
+En revanche, il existe des **textes particuliers** qui prévoient ou ont pu prévoir la mise en jeu de la responsabilité pénale du chef d'entreprise du fait d'autrui.
 
 ***Exemple 1 :** l'ancien article L263-2, devenu L4741-1 du Code du travail, avant d'être supprimé en 2011 et 2016. Il avait été repris dans une version antérieure du Code du travail avant sa suppression.*
 
@@ -189,10 +191,10 @@ Les infractions pour lesquelles la responsabilité pénale du chef d'entreprise 
 
 S'il n'existe aucun texte général relatif à la responsabilité pénale du chef d'entreprise du fait d'autrui, et si les textes ponctuels consacrant ce type de responsabilité ont tendance à diminuer, il existe en revanche une jurisprudence assez extensive qui prévoit cette responsabilité du chef d'entreprise du fait d'autrui.
 
-<u>Chambre criminelle, 28 février 1956</u>
+**==Chambre criminelle, 28 février 1956==**
 Jurisprudence citée par la doctrine comme point d'ancrage
 
-###### b) la mise en oeuvre de la responsabilité du chef d'entreprise du fait d'autrui
+###### b) La mise en oeuvre de la responsabilité du chef d'entreprise du fait d'autrui
 
 arret chambre criminelle 1956
 
@@ -216,11 +218,11 @@ la juris a retenue la resp du président d'une société dont la filiale avait p
 
 Aussi exemples en matiere d'infraction douaniere, ou encore en terme d'infraction de publicité illicite pour le tabac. (1998)
 
-##### 2) la mise en oeuvre de la responsaiblté pénale du chef d'entreprise du fait d'autrui
+##### 2) La mise en oeuvre de la responsabilité pénale du chef d'entreprise du fait d'autrui
 
-la mise en oeuvre de la responsabilité pénale du chef d'entreprise du fait d'autrui n'est possible que si certaines conditions sont réunies. Toutefois, le chef d'entreprise a la possibilité de s'exonerer de sa repsonsabilité
+La mise en œuvre de la responsabilité pénale du chef d'entreprise du fait d'autrui n'est possible que si certaines conditions sont réunies. Toutefois, le chef d'entreprise a la possibilité de s'exonérer de sa responsabilité.
 
-###### A) les conditions de mise en oeuvre
+###### A) Les conditions de mise en oeuvre
 
 les textes et la jurisprudence vont dans le meme sens. La mise en jeu de cette resp pénale du chef d'entreprise du fait d'autrui n'est possible qu'à 2 conditions :
 

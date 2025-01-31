@@ -1,0 +1,218 @@
+
+# Theme 4
+
+## Section 1 : les éléments constitutifs de la faute
+
+Les elemnts objectifs :
+
+l'élement objectif signifie que la faute est constituée à la fois d'un élément matéirel et d'un élément légal. l'élément matériel article 1240 est "tout fait quelcoqneu de l'homme". C un fait, un comportement, donc materiellementla faute est un écart de comportement entre celui qui a eu le défendeur et celui qu'il aurait du avoir. 
+
+élément légal : objectivement, la faute est la violation d'une norme de ocnduite.
+
+il pue ty avoir plusieurs sortes : celle suqi sont imposé, prescrites par un texte légal (loi ou reglement).
+
+peut etre exemple pour les employeurs, ou produits, alor on ommet uen faute pour manquemetn à une oblgiation légale.
+
+2eme cas de fgure : il peut également s'agir du'une noprme de conduite imposée par un texte d'ordre privé, càd une reglementation privée (un texte de nature privée), exemple regles de déonthologie auxquelels sont soumises un grand nombre de profession. Ce sont les ordres de medecin,s avocats, etc qui ont fait.
+
+Les regles sportives aussis sont élaborés par les fédérations sportives. est-ce que s'ecarter d'uune norme de conduite qui n'est inscrite ni dans la loi ni dans une norme privé constitue une faute? 
+
+la réponse est oui, c'est une question d'papréciation. Jena Carbonnier évoque un devoir de comportemnet, de diligence et de prudence?
+
+est-ce que la personne s'est comportée comme une personne raisonable? càd diligence et prudente par rapport à un standart de conduite?
+
+on va véfifier, apprecier de manier eobjective e ton va comparer le comortement du défenderua avec celui d'une personen raisonable.
+
+cependnat cette appréciation est effectée de maniere objective, c'est une appréciation in abstracto. Appréciation in concreto c'est subjectif. 
+
+on va proceder a uen appreciation objective, càd que pour apprécier le compormtenet du défenduer, on va pas tenir de compte des elements de sa personnalité (ex étourdie, maladaroite,...). 
+
+mais un comportment peut changer selon age, santé de la personne, competence professionnelle, etc. S'il sagit d'un medecin on apprécie par rapport à un médecin, pas par rapport àqqn qui a pas fait medecine. Pareil si personne est handicapée, on compare le comportmeent fautif par rapport àune perosnne qui a la meme situation qeu lui.
+
+Mais fait abstractionde la personnalité individuele. 
+
+on dit aussi que quand on procede à une appréciation in abstracto, 
+
+avant expreession dans code civil "bon pere de faille". Disparu par une loi de 2014. 
+
+element subjectif : il s'agit d'apporter une considératin morale, une appréciation mroale sur laqualification de la faute et sur le comportmeent du défendeur. 
+
+est-ce que pour que le comportmenet soit jugé fautif, est-ce qu'il faut que l'auteur de ce comportment ai eu conscience du caractere inadéquate de son comportement? est-ce qu'il a une comprehension suffisant de bien et de mal pour considerer son comortement comme fuatif ou non? C'est la composante morale. 
+
+le résultat de tout ça c'était de conduire à l'irresponsabilité d'un coté les enfants (c'est la notion de discernemetn qui entre en jeu, on utilise le terme d'infans en latin). 2eme conséquence était de dédclarer irrespnsable els personnes atteintes d'un trouble mental. 
+
+cette eixgence de capacité de discernemetn a été progressivement suppriée d'abord par le législatuer et ensuite par la jurisprudence. 
+
+le legislatuer c en 1968 au mometn où il a réformé le droti des incapacités, il a introduit une nouvelel disposiiton dans le code civil qui aujourd'hui se trouve à l'articel 414-3. Selon ce texte "celui qui a causé un dommage a autrui alors qu'il était sous l'empire d'un trouble mental n'en est pas moins obligé à réparation". 
+
+puis dnas un deuxieme temps, c'es tla jurusprudnece uqi a fait evoluer sa position, ca concerne les enfnats. la cour de cassation ad écidé que la capcaité de dsiceremetn ne doit plus être prise en compte pour décider de l'existence d'une faute attribuée à un enfnat. 
+
+2 décisions de l'assemblée pléniaire du 9 mai 1983 qui ont opéré ce revirement (arrets Lemaire et Deguini). Qand on parle d'infans on parle d'enfna tne bas age, la quesiton se posait docn de l'age à partir lequel y'a discenement. C pas exacte, et la loi donne l'info nulle part.  2eme raison etait d'ameliorer l'indemnisation. 
+
+dans arret Lemaire : il s'agissait d'une garçon de 13 ans qui était décédé accidentellement en voulatn visser une ampoule electrique. qq jours avant travaux dans le logement, electriciena fait une erreur de montage dans la lampe. 
+
+les parents agissent contre cet electriicen penalement et civilement. Sur le terrain penal il est reconnu coupable d'homocide involontaire, asi sur le terrain civil il est partiellemetn exonéré en raison de la faute commise par le gaçon, qui n'a pas coupé le circuit electrique avant de toucher à l'ampoule. 
+
+La faute depuis ces arrets est uniquemetn appréciée de maniere objective. ces arrets ont objectivés la notion de faute.
+
+Postiion qui peuet etre considérée comme critiquable dans la doctirne, masi dans le projet de 2017 dans l'état actuel on reste sur cette position. 
+
+doncsoit l'enfna test atueur du dommage soi tvictime du dommage. Si l'autuer est enfnat du dommage, cela a pour ocnséquence que son manque de discernemetn n'empeche pas dutotu de le considérer comme fautif. 
+
+autre hypothse comme dans l'affaire lemaire, si l'enfnat est victime d'un dommage, sa faute petu etre une cause d'exoneration de l'auteur. 
+
+## Section 2 – Les différents types de fautes civiles
+
+### A) La distinction entre faute par commission et faute par omission
+
+La faute de commission consiste à avoir fairt ce que l'on aurait pas du faire.
+
+si on manque a une obligation de sécurié, on a la aussi commis une faute sanctionnée, c la faute par omission. On suit pa une prescription de la loi. 
+
+adage de loysel "qui peut mais n'empeche, peche".
+
+### B. La faute intentionnelle et la faute non intentionnelle
+
+
+la faute intentionelle et la faut enon intentionnelel : en principe l'intention n'a aucune incidence surla mise en cause de la reponsabilié de l'auteur du dommage. article 1241 dit que la faite non intentionelel engage egalement la reesponsabilité.
+
+cependant y'a des cas ou on prend en compte la faute intnetionelel qui n'est pa ssans consequence sur let errain de la responsabiltié civile.
+
+la doctrine a constaté que que les juges du cond ont tendnace à être plus severe lorsqu'il s'agit d'unef aute intentionelel. 2eme prise en considération : lorsqu'il s'agit des assurances. Parfois la faute intentionnele va pour l'assureur constituer une éxonération. 
+
+parfois dans certain types de responsabilité, la faute intentioneleest prise en considération. d'abord elle est prise en comte par la loi de 1985 en mateire d'accident de la circlaton de l aroute. 
+
+dans cette loi, lorsque la victime a volontairement recherché le dommage, (ex se jettes ru ela voitre), c un element que la loi prend en consideration, alors qu'elle est en principe favorable au victiem. 
+
+pour le cas du préposé (l'employé), la responsabilité du préposé est subordonné à un dépassemnet de sa mission. C en'est retenu qu'en cas de faute intentionnel. 
+
+3eme exemple en droit des sociétés : la repsonsabilité personnel d'un dirigeant de osciété peut etre mis en cause, et en cas de faute intentionele la responsabilité physique peut etre engagée. 
+
+y'a égalemetn d'autre types de fautes avec d'autres caractères qui sontapparus dans la legislation, et qui s'ajoutent à cette disinction traiditionelel entre faute intentionelle et faute non intentionelle, notammene tne dorti du travail et droit de la santé.
+
+en droit d ela santé : la loi du 4 mars 2002, suiteà l'affaire perruche, on peut pas poursuivr el emedin du simple fait que pas empecher la naissance de l'enfnat; Mais novuelle legilsation prevoit que si faute caractérisée du medicn, il engage sa responsabilité pour indemniser les parents. 
+
+en droit du travail : c ainsiq u'apparaisnet la notion de faute lourdre, grave, inexcusable. 
+
+
+## Section 3 – Les domaines d’application de la faute civile
+
+### A. Faute dans l’exécution d’un contrat. Principe d’identité des fautes contractuelle et délictuelle
+
+Est-ce que l'inexecution ou exefuction defectueurse du contrat qui cause un dommage à un tiers, est-ce que ca engage la responsabiltié délictuelle?
+
+on se tient dans le domaine délicat de la distinction entre resposnabilité civile et repsonsabiltié contractuel.
+
+elles n'obeissent pas au mmee regime. on s'interroge sur l'idnetité entre la faute civile contractuelle et la fuate civile deluctuelel.
+
+cette question peut surgir dans une chaine de contrat. Ex on achet eune voiture chez le ocncessionaire. Il a lui meme acheté une voiture aupres du constructeur. Si jamais au b out de uqelques detemps d'usage, on est vicitme d'une panne qui es tliée à un défaut de construction de la voiuture, alors on a la possibilité soit d'agir contre le concessionaire aures duqelqu on a acheté la voiture, sauf que la loi permet égalemtn d'agir directmeent contre le favricant. 
+
+la jurisprudence de la cour de cassation a opéré une distinction poru dire que lorsqu'il y a eu une chaine translative de propriété, dans ce cas l'action en responsabiltié civile qu'on intente est de nature contractuelle, bien que il y ai eu des intermediaries dans la chaine des contrats. Ass pleniaire 7 février 1986, il en a été décidé ainsi.
+
+Dans un arret Besse, ass plénairie 12 juillet 1991, la cour de cassation a estimé toujours dans une chaine de contrat, y'a pas de vente successive, donc pas de transfert successif de propriété. Lorsqui'l y aune chaine de contrat mais sans qu'il y ai transfert de propriété, dans ce cas là la responsabilité est d enature délictuelle (avec la différence de régime qui en découle).
+
+il se peut également que un tiers soit victime de la mauvaise eecution d'un contat, mais en dehors d'une chaine de contrat. Ex dans immeuble, le voisin effectue des travaux dans son propre logement, et les travaux causent vous cause un dommage. 
+
+est-ce que ce manquemetn contaractel qui cause un dommage peut entrainer la resposnabilité civile de l'auteur? Estce que ce manquement contractuel est un fait générateur de repsosnabiltié délictuelle?
+
+pendant longtmeps la cour de cassation aété divisée. Ajd la positon de celle ci semble plusclaire.
+
+au début des années 2000, il y avait une oppositon entre la chambre civile et la chamvbre commericale. 
+
+pour la chambre civile, la preuve d'un manquemement contracutel suffit à engager la resposnabiltié déluctelel. Arret 1civ 10 juillet 2000. 
+
+en revanche, la chambre commerciale, arret ch commercial 5 avril 2005, disait que pour engager la responsabilité délictuellen i fallati que le tiers fasse la preuve d'uen faute délictuelel autonome, càd independante de l'inexecution contracutelle. 
+
+la cour de cassation s'est réunie en assemlée plneaire 6 octobre 2006 elle a tranché la controverse, (nom Boot Shop, soit Myr'ho). La cour de cassation a tranché en dsant que le simple manquement contracutel suffi tà engager la reponsabilité délictuelle de l'auteur de l'inexecution ou de la mauvaise execution.
+
+hypothse d'un bial, proprietaire d'un immeuble qui avait doné un bail de local commercial à une société. Ensuite cette société a confié la gérence de ce fond de commerce à un tiers. ici aucun transfert de propriété. 
+
+le locataire gérant reporche au bailleur (société qui a loué initiatelent le local) rpeprohe un défaut d'entretien des locaux, et a égalemetn assigné en justice le propriétaire pour remettre en état les infrastructures.
+
+dans ce cas le propriétaire était un teirs par rapport au locataire gérant. Malgres cela, l'ass plenairie a estimé que a ce moment là le locaitare gerant (càd le tiers au contrat initial) pouvait engager la responsabilité du propriétaire en se fondant uniquemetn sur le défaut d'entretient sans avoir a appprter une autre preuve (exisstence d'une faute délictuelle).
+
+cette jursprudence a été critiquer, car porte attteinte à effet relatif du contrat. Suite à quoi la jursprudnece a encore évolué, et dans cette volution suite aux arrets Boot Shop, les juges qui ont fait evoluer la postion n'ont pas été insensibles au projet de réforme.
+
+dans le projet de réforme, le projet remet en cause cette solution de 2006. L'article 1234 du projet il est précisé que lorsque l'inexecution du contrat provoque un dommage à un tiers, celui ci ne peut agir que su rle terrain de la repsonsabilité delictuelle, masi encore le tiers est obligé de rapporter la preuve d'une faute.
+
+c'est ainsi que a partir des années 2017, la cour de cassation  a changé de position. elle estrevenue sur la juruspruence de 2006, et c'est ainsi que, sans doute inspiré par ce projtet de nouveaux arrets ont montrés que la formule de 2006 devait être nuancée. C ainsi qeu décision chambre de commerc edu 18 janvier 2017 a estimé que l ne suffisait pas de démontre rl'existence d'un maquement ocntactuel. Il fallati encore établir que ce manqueetn cntatuel prenait sa soruce dans une fuate de nature delictuelle. 
+
+de meme la cour de cassatinn en 2017 estimati qeu le simple mqnauement contarcutle ne suffisait pas. Elle estimati qu'il falait faireplus qu'un manquemetn contractuel. Montrer qu'il était particuleirement importnat, et que il suffisait pas de montrer que chose non conforme à ce que le contrat prévoyait pour engager la responsabilité delictuelle. Fallait demontrer que le défaut de conformité provoquait un vice particueir du tiers pour consittuer une faute.
+
+On revient docn en arreiege.
+
+cependant, plus recemetn en 2020, la cour de cassaiton de nouveau opere un reviremetn important et par ce reviremetn d'un arret d'assemblée plénaiire du 13 janvier 2020, un tiers au contrat peut invoquer un manquemetn contractuel sur le fondement de la repsonsaibltié délictuelle des lors que ce manquement a partir du moment où ce manquemetn contracutel lui a causé un dommage. 
+
+il suffit d'établir un lien de causalité entre le manquemetn contrautle et le dommage subit, sans avoir a demontrer lexistence d'une faute delictuelle. 
+
+arret : usine de bois rouge, et autre usine du sud, avaient convenu d'une convention d'asistance en cas de pane l'une de l'autre en pleine campagne sucriere.
+
+ces machines sont aliméntés par des centrales thermiques. En 2009, un incendie se déclare dans la centrale thermqiue qui allimante d'usine de bois rouge, avec pour reslat que l'usile de bois rouge est obligé d'arreter sa production pendnat 4 semaines. 
+
+dcp usine du sud prend le relais, mais ce faisant puiqsu'elle porte assistnace à usine de bois rouge, l'uside du sud constate qu'lele enregistre des pertes d'exploitaiton sru sa propreo production.  Apres coup elle demande réparation à la centrale thermqiue du nord qui est finalemetn à l'origine de l'arret de l'usine de bois rouge.
+
+devant les juges du fond, son action est rejetée, car centrale thermique a aps executé sonoblgiation contracutele de usine de bois rouge. Sauf que la c'est uside du sud qui demande réprartionn, qui n' apas de contrat avec.
+
+pour les juges du fond il falalit faire la preuve d'une faute contractuelle indépendante du j'inélexuction contractuelle. 
+
+en matiere ocntracutle distinction entre obligation de reusltat et obligation demoyen; En 'esece l'inexecution en cause c'était une oblitation de résultat. 
+
+moyen : tout mettre en oeuvre pour atteindre un but, on doit motnrer que défaut de negligence. Le ismple fait que le resultat n'ai pas été atteinte ne suffi tpas
+
+la cour de cassation den 2020 balaie les doutes, appluqeu la jurisprudence Boot Shop de 2006. Il s'agissait d'une iblgiatin de résultat, et malgres cela pas de distinciton sue oblgiation de moyen ou de drésulta,t affirme que le tiers au contrat peut invoquer le manquement ocntracutle qui ui a causé un dommage simplement en démontratn el line de causalité entre mahqueetn contactuel et le dommage subit.
+
+la jurosrpduence de la cour de cassation petu faciliter l'indemnisation. En plus il était pas dit que la centrale terhmique avait commis une faute pour son incendie (si provoqué elle meme l'incendie). 
+
+de novueau une préicison apportée en 2024 par la cour de cassation, qui peut etre analsé comme un enouvelle préicission.
+
+décision chambre commericela 3 juillet 2024, la cour de cassation a précisé que le tiers au contrat qui invoque un manquement contractuel qui lui a causé un dommage, et se fonde sur le terrain de la responsabilité delictuelle. Dans un contrat peut y aovir des clause slimtatives de resposnabilité (chiffré).
+
+la cour de cassationa précisé que ces clasues limitative sde reponsaibltié pourront etre opposés au tiers qui onvique manquement pour resposnabilté contractueell.
+
+méthodoloige :
+- tjrs didentifié si contart ou pas, si resp cntractuele ou delictuelle
+- si chaine d econtrats, on estime que resp est contracutell e à al conditon que translatif de propriété
+- sichaine d econtrat mais à un moemt donné y'a rupture de transfert de prorpiété (ou jamais eu), alors la repsonsabilité est unqieumetn de nature delictuelle.
+- la jursprudence de 2006 et de 2020 font qu'un manquemetn cotractueln, meme en agissant sur le terrain de la repsonsabiltié delictuel, si un manquemetn crée un domag epour un tiers au contrat, la resp du co contractant defectueux peut etre engagée simplemetn en demontrant faute ontractueel..
+
+### B) L’exercice abusif d’un droit ou d’une liberté
+
+ici on se demande si ans l'exercice d'un droit, quelqu'un cause un dommage à autri, est-ce que ca peut etre fautif.
+
+ca a donné naissance en doctrine à la théorie de l'abus de droit , et dans le prolongemetn de la theorie del'abus de droit, sur elquele on fait emerger les troubels anormaux du voisigage.
+
+mais théorie plus générale que ca.
+
+affaire celebre : l'affaire clément-bayard, qui a donén lieu à un arret de la cjambre des requetes le 3 aout 1915, il s'agissait du'n epersonne qui était propriétaire d'un terrain, qui était mitoyen d'un autre terrain où se situait un aérodrome sur lequel aterrisait des mongolfiaires, ballons dirigeabels. 
+
+mais cette activité dérangeait le propriétaire du premier terrain. c ains que il avait observé la trajectoire des mesures dirigeables qui survolaient son terrain avant d'atterir. Il a sur son terrain dirigé des piques de fer de manere à ce que les ballons dirigeables se heurten tà ses piquets de fer et endommagent. l'expoitant de l'aérodrome intente une action contre clement bayard en resposnabilité pour avoir érigé ces piquets de fer. 
+
+clement bayard se defendait derriere l'exercice de son droit de propriété. en princiep lorsqu'on est titulaire du droit d epropriét,é on es titulaire d'un droit absolu. Pour les redacteur su dode civil, la propriete indiviudellle occupait une plac eimportante. (usus fructus abusus). 
+
+la cour de cassation a estimé que c'était son droit de propriété, mais que meme si droit absolu l'exercice de ce droit peut etre fautif lorsqu'on avait abusé du droit d epropriété.
+
+les juges avaient relevés que les dipsotiifs d'eriger les arres d efer n'avaient aucune utilisé pour le propriétaire.
+
+mais érigé dans l'unique but fd enuire au voisin.
+
+exercer un dorit en soit n'est pas fautif, mais c'es tl'intention d enuir dans l'exercice d'un droit qui elle est fautive.
+
+en revnahce l'intention de nuir eest quant à elle fuative.
+
+c'est ainsi que on a créé une source autonome de responsabilité, qui pouviat êtr ememe indépendnate de toute idée de faute.
+
+par la suite, on a étendu cette notion d'abus de droit au trouble du voisinage.
+
+exemple chien fait des saletés dans parties communes de batiment, alorsq ue le contrat l'autorisise. 
+
+l'intention de nuire et l'ahus de droit a donné naissance aux troubes anormaux du voisinage, avec poru seule conditon que le trouble subit soit anormal par rapport àl'usage normal qu'on peut supporter. 
+
+casation a estimé que une personne qui  das l'exercice d'un droit ne se coporte pas comme une persone raisonable engage  sa reposanbilité meme snas intention de nire.
+
+loi du 15 avril 2024  a introduti dans le code civil un nouvel article 1253 civ, "celui qui est à l'irigine d'un trouble excédant les inconvéniants nirmaux du voisigage est reposnabke de plein droit du dommage qui en résulte". 
+
+autre exemple : dans le domaine d el a presse et de la liberté d'expression, c pas un droit mais un e liberté d'expression.
+
+elle apaprtent égaleent aux jourlaistes.En matiere de presse y'a une loi ancienne de 1881 qui protege les acteurs de la presse et elel limite ou conditone de maniere speicifque commetn la mise ne cause de la reponsabilité (du jouranlsite ou de l'éditeur). c'est que dans e cas de diffamation de'une perosnne décédéd ou que dans seule intention de nuir aux heritiers et proches de la perosnen decedée qu'on va pouvoir engager la responsabilité.
+
+

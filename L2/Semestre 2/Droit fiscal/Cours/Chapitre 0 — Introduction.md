@@ -373,5 +373,3 @@ B) impots analitiques et impots synthétiques
 l'impto analityqeu il porte sur une opération ou un élément, ils sont assez ancien, rudimentaires, tres développée sousl l'ancien régime. IL n'ont pas disparu, il existe encore des taxes sur les boissons alcoolisées, l'essence ou encore les tabac. 
 
 et l'impot synthetique il porte sur un ensmelbe d'opéraiton, l'impot fait la syntehese de divers elemtns relatifs à la sitaution du contribuable. ET donc les impots les plus modernes osnt des impots synnthetiqeus. 
-
-chapitre 1 : les sources du droit fiscal 
