@@ -1,3 +1,15 @@
+**Prompt**
+_Je dois rédiger une réponse à la question suivante en droit fiscal : [insère la question]. Cette réponse doit être rédigée de manière fluide et complète, sans plan apparent. Elle doit être approfondie et inclure les éléments suivants :_
+
+- **Définitions précises** des concepts juridiques en lien avec la question, avec des références aux textes applicables.
+- **Fondements juridiques** en citant les articles de loi pertinents (Code général des impôts, Constitution, conventions fiscales, directives européennes si applicable).
+- **Jurisprudence importante** en lien avec la question, qu’elle provienne du Conseil constitutionnel, du Conseil d’État, de la Cour de cassation, de la CJUE ou d’autres juridictions pertinentes.
+- **Exemples concrets** et situations pratiques illustrant les principes exposés.
+- **Références doctrinales** : noms d’auteurs, ouvrages ou articles marquants si pertinent.
+- **Problématiques et enjeux** actuels liés à la question, y compris les éventuelles controverses doctrinales ou évolutions législatives.
+- Une rédaction fluide et bien structurée, avec des transitions logiques entre les idées, sans plan apparent.
+- Un ton académique et argumenté, adapté à un exercice universitaire en droit fiscal.
+
 ### 2023-2024 S1
 - Le financement du service public d’enlèvement des ordures ménagères
 - L’application et l’influence de la Convention européenne de sauvegarde des droits de l’homme en droit fiscal français
