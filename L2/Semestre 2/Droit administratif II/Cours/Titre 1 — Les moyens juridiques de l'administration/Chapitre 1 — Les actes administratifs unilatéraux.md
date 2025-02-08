@@ -41,9 +41,7 @@ Le président de la République est :
 - Une **autorité politique** lorsqu’il agit en vertu de l’==article 8== (nomination et révocation du Premier ministre) ou de l’==article 12== (dissolution de l’Assemblée nationale) de la Constitution.
 
 **Pas de définition législative satisfaisante** : la ==loi du 12 avril 2000== donne une définition de l’autorité administrative :
-
->[!Définition]
-_"Sont considérés comme **autorités administratives**, au sens de la présente loi, les administrations de l’État, les collectivités territoriales, les établissements publics à caractère administratif, les organismes de sécurité sociale, et les autres organismes chargés de la gestion d’un service public administratif."_
+>_"Sont considérés comme **autorités administratives**, au sens de la présente loi, les administrations de l’État, les collectivités territoriales, les établissements publics à caractère administratif, les organismes de sécurité sociale, et les autres organismes chargés de la gestion d’un service public administratif."_
 
 Cependant, cette définition n’a pas été reprise par le **Code des relations entre le public et l’administration**.
 
@@ -55,10 +53,9 @@ Ceci n’est pas nécessairement regrettable, car cette définition pose problè
 2. **Confusion conceptuelle** :  
     Elle confond la **personnalité administrative** et les **personnes morales**. Par exemple, les collectivités territoriales sont des **personnes morales**, et non simplement des autorités administratives.
 
->[!Définition]
-il s'agit d'un organe ou d'un agetn qui a le pouvoir d'édicter des actes administratifs unilatéraux au nom de la perosnne morale.
+Il s'agit d'un organe ou d'un agent qui a le pouvoir d'édicter des actes administratifs unilatéraux au nom de la personne morale.
 
-On peut envisager l’illustration au **négatif**, c’est-à-dire ce qui **n’est pas une autorité administrative**. Trois types de situations se distinguent :
+On peut envisager l’**illustration au négatif**, c’est-à-dire ce qui **n’est pas une autorité administrative**. Trois types de situations se distinguent :
 1. **Les organes et agents sans pouvoir de décision** : Cela inclut ceux qui se limitent à des tâches de préparation ou de conseil.
 2. **L’administration consultative** : Cela concerne les commissions, comités et autres organismes qui rendent des avis, des propositions ou des recommandations sans disposer d’un pouvoir décisionnel.
 3. **Les autorités exerçant des fonctions autres qu’administratives** : Cela inclut les fonctions **législatives**, **juridictionnelles** ou encore **diplomatiques**.
@@ -67,29 +64,22 @@ On peut envisager l’illustration au **négatif**, c’est-à-dire ce qui **n�
 
 1) **Hypothèse 1 : Corrélation entre la personne publique et l’autorité administrative**
 
-Dans cette situation, l’autorité administrative est un **organe** de la personne publique. Trois exemples peuvent être donnés :
+Dans cette situation, l’**autorité administrative est un organe de la personne publique**. Trois exemples peuvent être donnés :
 
 1. ***Les autorités de l’État*** :  Il s’agit des autorités exécutives, notamment :
-    
-    - Le **président de la République** : ses actes sont des actes administratifs. _Exemple : <u>CE, 1962, Canal</u>, qui reconnaît la nature administrative de certains actes du président._
+    - Le **président de la République** : ses actes sont des actes administratifs. _Exemple : ==**CE, 1962, Canal**==, qui reconnaît la nature administrative de certains actes du président._
     - Le **Premier ministre** : en tant que chef du gouvernement, il adopte également des actes administratifs.
-    - Les **ministres** : ils disposent d’un pouvoir réglementaire en tant que chefs de service. _Exemple : <u>CE, 1936, Jamart</u>, qui consacre ce pouvoir.
-_
+    - Les **ministres** : ils disposent d’un pouvoir réglementaire en tant que chefs de service. _Exemple : ==**CE, 1936, Jamart**==, qui consacre ce pouvoir.
+
 2. ***Les autorités déconcentrées*** : Il s’agit des autorités administratives qui agissent au nom de l’État dans les territoires :
-    
     - Le **maire**, le **préfet**, ou encore les **directeurs des administrations déconcentrées** sont des autorités administratives adoptant des actes administratifs.
 
 3. ***Les collectivités territoriales et les établissements publics*** : Ces entités disposent d’autorités administratives qui agissent dans le cadre de leur compétence propre.
 
 2) **Hypothèse 2 : Autorité administrative non liée à une personne publique (AAI)**
 
-Dans ce cas, il s’agit d’autorités administratives indépendantes.  
-Ces autorités, bien que non directement rattachées à une personne publique, exercent un pouvoir administratif. _Exemple : l’Autorité de la concurrence, la CNIL (Commission nationale de l’informatique et des libertés), etc._
+Dans ce cas, il s’agit d’**autorités administratives indépendantes**. Ces autorités, bien que non directement rattachées à une personne publique, exercent un pouvoir administratif. _Exemple : l’Autorité de la concurrence, la CNIL (Commission nationale de l’informatique et des libertés), etc._
 
-| hiérarchie                                                                                                                 | exécutif                             | législatif | judiciaire |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ---------- | ---------- |
-|                                                                                                                            | président et premier ministres       |            |            |
-| autorité adm indeendantes obeissent pas aux president et premeir minitre, ex autorité de la concurrence, arcom, CNIL, etc. | administration centrale déconcentrés |            |            |
 C’est le cas de toutes les **personnes privées** qui exercent des **missions de service public** et qui, à ce titre, peuvent adopter des **actes administratifs** (ordres professionnels, fédérations sportives, fédérations de chasse, etc.).
 
 L’acte administratif émane, en principe, d’une **autorité administrative**, qui est généralement une **autorité publique** exerçant une **fonction exécutive**.
@@ -104,9 +94,32 @@ Normalement, les actes pris par les particuliers ne sont pas des **actes adminis
 
 ##### 1) Théorie du fonctionnaire de fait
 La première exception est la **théorie du fonctionnaire de fait**.  
+
 Elle s’applique dans des **circonstances exceptionnelles** où les autorités administratives n’exercent pas leur rôle. Dans ce cas, de simples particuliers peuvent se **substituer à l’autorité défaillante**.  
+
 Cette théorie permet de valider la décision prise par ces particuliers, à condition que le but poursuivi soit **l’intérêt général**.
 
+*La **théorie du fonctionnaire de fait** permet de valider les actes administratifs pris par une personne qui **n’a pas légalement la qualité d’agent public** mais qui exerce néanmoins des fonctions administratives.*
+
+***Conditions d’application***
+*Cette théorie s’applique dans deux situations principales :*
+
+- ***Circonstances exceptionnelles***  
+    *Lorsqu’une situation empêche l’administration régulière d’exercer ses fonctions, une personne peut se substituer temporairement à elle pour assurer la continuité du service public.*  
+    ***Exemple** : En période de guerre, des citoyens peuvent être amenés à exercer des fonctions de police locale en l’absence des forces de l’ordre.*
+
+- ***Erreur de nomination***  
+    *Lorsqu’une personne est désignée par erreur à un poste administratif mais qu’elle exerce ses fonctions de bonne foi, ses actes restent valables dans l’intérêt général.*  
+    ***Exemple** : Un maire élu irrégulièrement qui prend des décisions administratives avant l’annulation de son élection.*
+
+***Exemples jurisprudentiels***
+- ***Conseil d’État, 6 décembre 1907, Sieur Deplanque***  
+    *Un préfet suspend un maire, mais la suspension est irrégulière. Le Conseil d’État décide que les actes pris par le maire suspendu sont valables, car il a agi dans l’intérêt général en tant que fonctionnaire de fait.*
+
+- ***Conseil d’État, 7 février 1936, Sieur Thérond***  
+    *Un fonctionnaire occupe un poste alors que sa nomination est irrégulière. Le Conseil d’État valide ses actes, considérant qu’ils ont été pris dans l’intérêt du service public.*
+
+*En conclusion, cette théorie permet de garantir la continuité de l’administration et d’assurer la validité des décisions prises par des personnes non investies légalement mais exerçant leurs fonctions de bonne foi.*
 ##### 2) Actes accomplis par les personnes morales de droit privés
 La deuxième exception concerne les **actes accomplis par des personnes morales de droit privé**, investies d’une **mission de service public** et disposant de **prérogatives de puissance publique**.  
 
@@ -125,16 +138,16 @@ Les actes sont considérés administratifs dans les cas suivants :
 
 1. **Service public administratif (SPA)**
     - Si la personne privée est investie de prérogatives de puissance publique.
-    - Exemple : une fédération sportive agréée et délégataire de compétences ministérielles (_jurisprudence récente_).
+    - *Exemple : une fédération sportive agréée et délégataire de compétences ministérielles (jurisprudence récente).*
 
 2. **Service public industriel et commercial (SPIC)**
-    - Seules les **modalités d’organisation du service** sont considérées comme des actes administratifs (_jurisprudence de 2024_).
+    - Seules les **modalités d’organisation du service** sont considérées comme des actes administratifs (_jurisprudence de 2024_ ==TC, 2024, Commune de Toulouse==).
 
 #### C) Les actes pris par les autorités publiques non-administratives
 
 ##### 1) Le parlement et les actes administratifs
 
-Lorsque le Parlement adopte une loi, il agit en tant qu’autorité administrative. Le Parlement est aussi une administration au sens commun du terme : bâtiments, cantines, site internet, etc.
+Lorsque le Parlement adopte une loi, il agit en tant qu’**autorité administrative**. Le Parlement est aussi une **administration au sens commun du terme** : *bâtiments, cantines, site internet, etc.*
 
 Cependant, les organes parlementaires n’appartiennent pas à l’administration. Et pourtant, ils prennent des actes matériellement administratifs.
 
@@ -142,26 +155,34 @@ Pendant longtemps, les actes pris par des organes parlementaires étaient assimi
 
 C’est ce qui résultait de l’arrêt du **==Conseil d’État, 26 août 1950, Vouters==**.
 
-Tous ces actes bénéficiaient alors d’une immunité juridictionnelle. En effet, dès lors qu’un acte n’était pas considéré comme administratif, aucun juge n’était compétent pour en connaître. Ainsi, si ces actes étaient illégaux ou causaient un préjudice, aucune responsabilité ne pouvait être engagée.
+Tous ces actes bénéficiaient alors d’une **immunité juridictionnelle**. En effet, dès lors qu’un acte n’était pas considéré comme administratif, aucun juge n’était compétent pour en connaître. Ainsi, si ces actes étaient illégaux ou causaient un préjudice, **aucune responsabilité ne pouvait être engagée**.
 
 Aujourd’hui, cette situation demeure en grande partie, mais il existe **deux exceptions**.
 
 - **Exception 1 : Agents publics des assemblées parlementaires**
 
-L’==ordonnance du 17 novembre 1958== relative au fonctionnement des assemblées parlementaires assimile à des actes administratifs unilatéraux les actes individuels relatifs aux agents publics employés par les assemblées parlementaires.
+L’==**ordonnance du 17 novembre 1958** ***relative au fonctionnement des assemblées parlementaires***== assimile à des actes administratifs unilatéraux les actes individuels relatifs aux agents publics employés par les assemblées parlementaires.
 
-Cette disposition évite les dénis de justice et ouvre une voie de recours pour tout ce qui relève de la carrière des fonctionnaires parlementaires.
+Cette disposition **évite les dénis de justice et ouvre une voie de recours** pour tout ce qui relève de la carrière des fonctionnaires parlementaires.
 
-==Arrêt du Conseil d’État, 4 juillet 2003, Papon==
+**==Arrêt du Conseil d’État, 4 juillet 2003, Papon==**
 Cet arrêt précise que le régime de pension des anciens députés fait partie du statut des parlementaires. Ce statut se rattache à l’exercice de la souveraineté nationale. En conséquence, l’acte en question n’est pas un acte administratif.
 
 - **Exception 2 : Marchés publics**
 
 L’arrêt de principe du **==Conseil d’État (Assemblée), 5 mars 1999, Président de l’Assemblée Nationale==** prévoit que les marchés publics revêtant le caractère de contrats administratifs passés par les assemblées parlementaires relèvent de la compétence du juge administratif.
 
+>[!Définition]
+>Les **marchés publics** sont des contrats administratifs conclus à titre onéreux avec des opérateurs économiques privés ou publics par l'Etat et ses établissements publics ainsi que par les collectivités territoriales et leurs établissements publics, en vue de la fourniture de travaux, de biens ou de services. Ils sont soumis à des règles précises de passation, en vue d'assurer l'égal accès à la commande publique de toutes les entreprises, l'égalité de leur traitement et la transparence des procédures.
+>
+>Les principales formes de marchés publics sont : l'appel d'offres, le marché à procédure adaptée, le marché négocié, le dialogue compétitif.
+
+> **Article L1111-1 du CCP**
+> *Un marché est un contrat conclu par un ou plusieurs acheteurs soumis au présent code avec un ou plusieurs opérateurs économiques, pour répondre à leurs besoins en matière de travaux, de fournitures ou de services, en contrepartie d'un prix ou de tout équivalent.*
+
 ##### 2) Les juridictions
 
-Les juridictions sont en dehors de l'appareil administratif. Le pouvoir judiciaire est indépendant. C'est l'expression même de la séparation des pouvoirs : les juridictions ne prennent pas d'actes administratifs. Elles rendent des jugements, des arrêts, etc.
+Les juridictions sont **en dehors de l'appareil administratif**. Le pouvoir judiciaire est indépendant. C'est l'expression même de la séparation des pouvoirs : les juridictions ne prennent pas d'actes administratifs. Elles rendent des jugements, des arrêts, etc.
 
 On distingue les **actes juridictionnels** des **actes administratifs** pris par les organes juridictionnels.
 
@@ -192,41 +213,46 @@ Les **actes portant sur l’exécution du service public de la justice judiciair
 - *Les décrets de grâce présidentielle,*
 - *Toutes les décisions des juges d’application des peines qui affectent la nature ou la durée de la peine (par exemple, réduction de peine, libération conditionnelle, permissions de sortie).*
 
-##### 3. Les actes de gouvernement
+##### 3) Les actes de gouvernement
 
 Initialement, le **Conseil d'État (CE)** refusait de contrôler ces actes en raison des considérations politiques dont ils procèdent. Ces actes, pris pour des **motifs politiques**, relevaient de la double casquette du Président de la République en tant qu'autorité politique et administrative. Lorsqu'ils étaient pris dans ce cadre, ils n'étaient pas susceptibles de recours.
 
-Le **Conseil d'État** a défini les actes de gouvernement comme des actes qui apparaissent comme **politiques** en raison des matières dans lesquelles ils sont accomplis. Leur nature politique les rendait inattaquables. Pendant longtemps, il était impossible de contester ces actes ou d'engager la responsabilité de l'État pour les conséquences préjudiciables qu'ils entraînaient.
+>[!Définition]
+>Le **Conseil d'État** a défini les **actes de gouvernement** comme des actes qui apparaissent comme **politiques** en raison des matières dans lesquelles ils sont accomplis. Leur nature politique les rendait inattaquables. Pendant longtemps, il était impossible de contester ces actes ou d'engager la responsabilité de l'État pour les conséquences préjudiciables qu'ils entraînaient.
 
-Cependant, aujourd'hui, il est possible d'engager la **responsabilité de l'État** pour les conséquences dommageables de ces actes, bien qu'ils restent insusceptibles de recours devant le juge administratif.
+*Le Conseil d'État a défini les actes de gouvernement dans plusieurs arrêts au fil du temps. Une des définitions les plus marquantes a été formulée dans l'==arrêt **"Prince Napoléon" du 18 février 1875==**. Dans cet arrêt, le Conseil d'État a affirmé que les actes de gouvernement sont des actes accomplis par les hautes autorités administratives ou gouvernementales françaises et qui échappent au contrôle juridictionnel en raison de leur nature politique.*
+
+Cependant, aujourd'hui, il est possible d'engager la **responsabilité de l'État** pour les conséquences dommageables de ces actes, bien qu'ils restent **insusceptibles de recours devant le juge administratif**.
 
 Les **4 catégories d’actes de gouvernement** :
 
 1. **Actes du pouvoir exécutif concernant ses rapports avec le Parlement**
-    - Exemple : la décision d’appliquer l’==article 16 de la Constitution== a été déclarée comme un acte de gouvernement (==arrêt **Rubin de Servens**, CE Ass., 2 mars 1962==).
-    - Exemple : la décision de dissoudre l’Assemblée nationale est également considérée comme un acte de gouvernement (==arrêt **Allain**, CE, 20 février 1989==).
+    - Exemple : la décision d’appliquer l’==article 16 de la Constitution== a été déclarée comme un acte de gouvernement (==**arrêt Rubin de Servens, CE Ass., 2 mars 1962**==).
+    - Exemple : la décision de dissoudre l’Assemblée nationale est également considérée comme un acte de gouvernement (==**arrêt Allain, CE, 20 février 1989**==).
 
 2. **Rapports constitutionnels entre le Président de la République et le Gouvernement**
-    - L’==article 8 de la Constitution==, qui régit la nomination des membres du Gouvernement, donne lieu à l’adoption d’actes de gouvernement qui ne sont pas attaquables en justice (==arrêt **Hoffer**, CE, 16 novembre 2005==).
+    - L’==article 8 de la Constitution==, qui régit la nomination des membres du Gouvernement, donne lieu à l’adoption d’actes de gouvernement qui ne sont pas attaquables en justice (==**arrêt Hoffer, CE, 16 novembre 2005**==).
 
 3. **Actes relatifs au Conseil constitutionnel**
     - Toutefois, certains actes en lien avec le Conseil constitutionnel peuvent être attaquables.
-    - Exemple : la nomination d’un membre du Conseil constitutionnel a été jugée attaquable dans l’==arrêt **Mme Ba**, CE Ass., 9 avril 1999==.
+    - Exemple : la nomination d’un membre du Conseil constitutionnel a été jugée attaquable dans l’==**arrêt Mme Ba, CE Ass., 9 avril 1999**==.
 
 4. **Actes du Gouvernement français dans ses rapports avec les organisations internationales (OI) et les États étrangers**
     - Sont inattaquables les actes pris au cours de la négociation ou de l’exécution d’accords internationaux, dès lors qu’ils ne sont pas considérés comme "détachables".
-    - Exemple : la décision de reprendre les essais nucléaires dans le Pacifique (==arrêt **Association Greenpeace France**, CE, 29 septembre 1995==).
-    - Exemple : le refus de rapatrier des femmes et enfants de djihadistes (==CE, 23 avril 2019==) a été jugé comme un acte de gouvernement et donc inattaquable.
+    - Exemple : la décision de reprendre les essais nucléaires dans le Pacifique **(==arrêt Association Greenpeace France, CE, 29 septembre 1995**==).
+    - Exemple : le refus de rapatrier des femmes et enfants de djihadistes **(==CE, 23 avril 2019**==) a été jugé comme un acte de gouvernement et donc inattaquable.
 
 **Définition et caractéristiques de l’acte administratif :**
-L’acte administratif est pris par une **autorité administrative** qui accomplit une **mission administrative**, ce qui exclut les actes législatifs, juridictionnels et purement exécutifs.  
-Cependant, pour être qualifié d’acte administratif, il doit également être **normatif**, c’est-à-dire produire des effets juridiques.
+
+>[!Définition]
+>L’acte administratif est pris par une **autorité administrative** qui accomplit une **mission administrative**, ce qui exclut les actes législatifs, juridictionnels et purement exécutifs.  
+>Cependant, pour être qualifié d’acte administratif, il doit également être **normatif**, c’est-à-dire produire des effets juridiques.
 ### Paragraphe 2 : Le critère finaliste
 
 **Quel est le but de l’acte administratif unilatéral (AAU) ?**
 
 >[!Définition]
->L’acte administratif unilatéral modifie l’ordonnancement juridique en prescrivant des obligations ou en conférant des droits aux administrés. C’est souvent à ce stade que l’on évoque la **caractéristique décisoire** de l’acte. Un acte décisoire affecte l’ordonnancement juridique.
+>L’**acte administratif unilatéral** modifie l’ordonnancement juridique en prescrivant des obligations ou en conférant des droits aux administrés. C’est souvent à ce stade que l’on évoque la **caractéristique décisoire** de l’acte. Un acte décisoire affecte l’ordonnancement juridique.
 
 Le juge administratif (JA) utilise un autre terme pour désigner cette caractéristique : **"faire grief"**, c’est-à-dire que l’acte porte atteinte à la situation juridique de l’individu.
 
@@ -247,7 +273,7 @@ Le caractère **exécutoire** est une notion essentielle du droit public. Ce con
 
 *Exemple : Une décision d’interdiction de baignade est immédiatement exécutoire.*
 
-Le ==Conseil d’État, dans l’arrêt **Huglo** du 2 juillet 1982==, a qualifié le caractère exécutoire de **"règle fondamentale du droit public"**.
+Le ==**Conseil d’État, dans l’arrêt Huglo du 2 juillet 1982**==, a qualifié le caractère exécutoire de **"règle fondamentale du droit public"**.
 
 **Caractéristiques et typologie des AAU**
 Les actes administratifs unilatéraux peuvent :
@@ -334,14 +360,14 @@ Lorsqu'une loi est adoptée, la circulaire est le texte qui explique aux fonctio
 Étant très utilisée, la circulaire n'a pas d'effet direct sur les administrés, mais peut en avoir un **effet indirect**, d'où la nécessité d'encadrer son utilisation et d'offrir un droit de recours si elle produit des effets concrets sur les administrés.
 
 **Régime de publication des circulaires**
-En démocratie, il est supposé que les actes soient publics. **Le principe de la publication** a été codifié à l'==article L312-2 du CRPA==, issu de la loi n° 2018-727 du 10 août 2018, dite loi ESSOC (État au Service d'une Société de Confiance) :
+En démocratie, il est supposé que les actes soient publics. **Le principe de la publication** a été codifié à l'==**article L312-2 du CRPA**==, issu de la loi n° 2018-727 du 10 août 2018, dite loi ESSOC (État au Service d'une Société de Confiance) :
 
 > **Article L312-2 du CRPA**
 > *Font l'objet d'une publication les instructions, les circulaires ainsi que les notes et réponses ministérielles qui comportent une interprétation du droit positif ou une description des procédures administratives. Les instructions et circulaires sont réputées abrogées si elles n'ont pas été publiées, dans des conditions et selon des modalités fixées par décret.*
 
-Cette codification reprend l'==article 1er du décret du 8 décembre 2008== et de la jurisprudence.
+Cette codification reprend l'==**article 1er du décret du 8 décembre 2008**== et de la jurisprudence.
 
-Les modalités de publication sont régies par l'==article R312-8 du CRPA==, qui prévoit que les circulaires adressées par les ministres aux services et établissements de l'État sont publiées sur un site relevant du Premier ministre, où elles sont classées et répertoriées pour en faciliter la consultation.
+Les **modalités de publication** sont régies par l'==**article R312-8 du CRPA**==, qui prévoit que les circulaires adressées par les ministres aux services et établissements de l'État sont publiées sur un site relevant du Premier ministre, où elles sont classées et répertoriées pour en faciliter la consultation.
 
 > **Article R312-8 du CRPA**
 > *Les circulaires et instructions adressées par les ministres aux services et établissements de l'Etat sont publiées sur un site relevant du Premier ministre. Elles sont classées et répertoriées de manière à faciliter leur consultation.*
@@ -351,7 +377,7 @@ Pour la première fois, une **publication numérique** devient un mode spécifiq
 Si une circulaire a été appliquée en violation des règles de publication, elle est abrogée mais reste attaquable.
 
 **Invocabilité des circulaires**
-L'==article L312-3 du CRPA== prévoit que toute personne peut se prévaloir des documents administratifs mentionnés à l'==article L312-2==, notamment les circulaires. En pratique, cela signifie que **les administrés peuvent invoquer les circulaires publiées** pour contester une décision administrative.
+L'==**article L312-3 du CRPA**== prévoit que toute personne peut se prévaloir des documents administratifs mentionnés à l'==**article L312-2==,** notamment les circulaires. En pratique, cela signifie que **les administrés peuvent invoquer les circulaires publiées** pour contester une décision administrative.
 
 > **Article L312-3 du CRPA**
 > *Toute personne peut se prévaloir des documents administratifs mentionnés au premier alinéa de l'article L. 312-2, émanant des administrations centrales et déconcentrées de l'Etat et publiés sur des sites internet désignés par décret.*
@@ -426,23 +452,24 @@ Cette évolution jurisprudentielle marque un **élargissement progressif** des p
 ###### 2) Les logiques directrices
 
 >[!Définition]
->C’est une norme d’orientation adressée par les chefs de service dans l’exercice de leur pouvoir discrétionnaire, destinée à leurs subordonnés, afin de fixer une ligne générale de conduite et d’assurer une cohérence dans leurs actions.
+>La **logique directrice** est une norme d’orientation adressée par les chefs de service dans l’exercice de leur pouvoir discrétionnaire, destinée à leurs subordonnés, afin de fixer une ligne générale de conduite et d’assurer une cohérence dans leurs actions.
 
 L’idée est d’encadrer souplement les activités publiques et privées. La ligne directrice a un rôle d’incitation et d’impulsion : elle est ferme sur les fins, mais effacée quant aux moyens d’y parvenir.
 
-À l’origine, ces normes étaient appelées directives. La légalité des directives a été admise dans l’arrêt de principe ==**_CE, Section, 11 décembre 1970, Crédit Foncier de France_**== (GAJA).  
+À l’origine, ces normes étaient appelées directives. La **légalité des directives a été admise dans l’arrêt de principe** ==**CE, Section, 11 décembre 1970, Crédit Foncier de France**== (GAJA).  
+
 Dans cette affaire, un organisme avait refusé une subvention au motif que le vendeur ne respectait pas la directive.
 
-Dans l’arrêt **==_Jousselin_ du 19 décembre 2014, le Conseil d’État==** a été saisi à propos d’une directive prise par l’agence pour l’enseignement français à l’étranger, visant à fixer des critères d’attribution des bourses pour les enfants français scolarisés à l’étranger. Cette nouvelle dénomination (ligne directrice) n’a rien changé à son caractère non réglementaire.
+Dans l’arrêt **==Jousselin du 19 décembre 2014, le Conseil d’État==** a été saisi à propos d’une directive prise par l’agence pour l’enseignement français à l’étranger, visant à fixer des critères d’attribution des bourses pour les enfants français scolarisés à l’étranger. Cette ***nouvelle dénomination (ligne directrice) n’a rien changé à son caractère non réglementaire***.
 
-Dans ==**_CE, 23 mai 1969, Société Distillerie Bralant_**==, le Conseil d’État a confirmé l’absence de caractère réglementaire des lignes directrices. Ces dernières sont souvent perçues comme un substitut à l’absence de pouvoir réglementaire, le pouvoir réglementaire des ministres étant très limité.
+Dans ==**CE, 23 mai 1969, Société Distillerie Bralant**==, le Conseil d’État a confirmé l’***absence de caractère réglementaire des lignes directrices***. Ces dernières sont souvent perçues comme un substitut à l’absence de pouvoir réglementaire, le pouvoir réglementaire des ministres étant très limité.
 
-Dans un ==**arrêt du 21 septembre 2020 (_Durand_), le Conseil d’État**== a précisé qu’une autorité investie du pouvoir réglementaire peut valablement édicter une ligne directrice pour encadrer son pouvoir de décision ou celui de ses subordonnés. La doctrine a marqué cet arrêt, car c’était la première fois que le Conseil d’État analysait ce pouvoir d’édiction comme dépassant un simple palliatif à l’absence de pouvoir réglementaire. Cela offre un choix aux autorités en vertu du principe d’indisponibilité des compétences.
+Dans un ==**arrêt du 21 septembre 2020 (_Durand_), le Conseil d’État**== a précisé qu’une autorité investie du pouvoir réglementaire peut valablement ***édicter une ligne directrice pour encadrer son pouvoir de décision ou celui de ses subordonnés***. La doctrine a marqué cet arrêt, car c’était la première fois que le Conseil d’État analysait ce pouvoir d’édiction comme dépassant un simple palliatif à l’absence de pouvoir réglementaire. Cela offre un choix aux autorités en vertu du principe d’indisponibilité des compétences.
 
 **Les principales caractéristiques des lignes directrices :**
-- **Souplesse** : Les lignes directrices lient l’administration de façon souple. L’administration conserve un pouvoir d’appréciation dans l’examen des situations individuelles et peut pratiquer des dérogations **(==_CE, 20 mars 2017, Région Aquitaine Limousin Poitou-Charentes_**==).
+- **Souplesse** : Les lignes directrices lient l’administration de façon souple. L’administration conserve un pouvoir d’appréciation dans l’examen des situations individuelles et peut pratiquer des dérogations **(==CE, 20 mars 2017, Région Aquitaine Limousin Poitou-Charentes**==).
 - **Destinataires** : Les lignes directrices s’adressent principalement aux fonctionnaires et n’ont pas d’effet direct sur les particuliers, mais elles peuvent produire des effets indirects.
-- **Invocabilité** : Un individu peut invoquer une ligne directrice devant le juge dans le cadre d’une mesure administrative, même si la ligne directrice elle-même ne peut pas être attaquée directement (==**_CE, GISTI_**==).
+- **Invocabilité** : Un individu peut invoquer une ligne directrice devant le juge dans le cadre d’une mesure administrative, même si la ligne directrice elle-même ne peut pas être attaquée directement (==**CE, GISTI**==).
 - **Effets notables** : Une ligne directrice sera toutefois attaquable si elle produit des effets notables.
 - **Opposabilité** : Les lignes directrices sont opposables aux administrés.
 
@@ -478,14 +505,12 @@ La CRE avait interprété la portée d’une clause dans des accords avec EDF, c
 Le **Conseil d’État** a estimé que cette prise de position était bien attaquable.  
 La CNIL avait posé un régime spécifique pour l’installation de trackers, influençant ainsi les opérateurs économiques. Cette interprétation de la loi a été considérée comme une mesure attaquable.
 
-### Paragraphe 3 : Les catégories d'actes administratifs unilatéraux
-
+### Paragraphe 3 : Les catégories d'actes administratifs unilatérau
 Les **actes administratifs unilatéraux** peuvent être distingués selon :
 - ***La forme de l’acte***
 - ***Son contenu***
 
 #### A) La distinction selon la forme de l'acte
-
 Cette catégorisation s'attache à **l'"enveloppe" de l'acte**, ou **instrumentum**.
 ##### 1) La variété des catégories formelles d'acte
 
@@ -496,12 +521,12 @@ Seules deux autorités peuvent signer un décret : le **président de la Républ
 En général, les décrets s'appliquent sur l'ensemble du territoire.
 
 **Les décrets**
-L'==article 13 de la Constitution== précise que le président de la République signe les **ordonnances** et les **décrets délibérés en Conseil des ministres**.
+L'====article 13 de la Constitution==== précise que le président de la République signe les **ordonnances** et les **décrets délibérés en Conseil des ministres**.
 
 - Lorsqu'un décret est délibéré en Conseil des ministres, seul le président peut le signer et le modifier.
 - Si le décret n'est **pas pris en Conseil des ministres**, c'est le **Premier ministre** qui le signe.
 
-Ces décrets sont **contre-signés** par le Premier ministre et les ministres responsables (==article 19 de la Constitution==). *Par exemple, le ministre du Budget contre-signe un décret ayant un impact budgétaire, ou encore les ministres compétents dans les domaines de l’Outre-mer, de la santé, etc.*
+Ces décrets sont **contre-signés** par le Premier ministre et les ministres responsables (====article 19 de la Constitution====). *Par exemple, le ministre du Budget contre-signe un décret ayant un impact budgétaire, ou encore les ministres compétents dans les domaines de l’Outre-mer, de la santé, etc.*
 
 Cette disposition est particulièrement importante en période de **cohabitation**.
 
@@ -553,7 +578,6 @@ Autorités compétentes :
 Seules les **autorités réglementaires** (celles qui disposent d’un pouvoir réglementaire) peuvent adopter de tels actes.
 
 **Attention** : Les ministres n’ont pas, en principe, de pouvoir réglementaire de droit commun. Ils ne peuvent en disposer que :
-
 - Si une **loi leur accorde explicitement ce pouvoir**.
 - Ou en leur qualité de **chef de service**, dans le cadre de l’organisation interne de leur administration.
 
@@ -600,9 +624,9 @@ Les distinctions entre actes réglementaires et actes individuels peuvent se cro
 
 **Importance des distinctions**
 Ces distinctions sont cruciales pour déterminer le régime juridique applicable à l’acte administratif, notamment en ce qui concerne :
-- *Les modalités de recours,*
-- *Les conditions de retrait ou d’abrogation,*
-- *Les droits des administrés concernés.*
+- Les modalités de recours,
+- Les conditions de retrait ou d’abrogation,
+- Les droits des administrés concernés.
 
 ##### 4) L'acte créateur de droit et non créateur de droit
 
@@ -612,7 +636,7 @@ Ces distinctions sont cruciales pour déterminer le régime juridique applicable
 ***Exemples** : permis de construire, autorisation de vendre de l'alcool, etc.*
 
 **Les règlements et les actes non créateurs de droit**
-- **Les règlements** ne sont jamais des actes créateurs de droit. Seuls les actes individuels d'application des règlements le sont. En effet, un règlement est anonyme et général, il ne confère donc aucun avantage à un individu en particulier.
+- **Les règlements** ne sont ***jamais des actes créateurs de droit***. Seuls les **actes individuels d'application des règlements le sont**. En effet, un règlement est anonyme et général, il ne confère donc aucun avantage à un individu en particulier.
 - Certains **actes individuels** ne sont pas créateurs de droit :
     1. **La nomination des agents publics à des emplois à la décision du gouvernement**, c’est-à-dire les hauts fonctionnaires (en général, leur mandat prend fin en même temps que celui de l’élu qui les a nommés).
     2. **Les décisions obtenues par fraude**.
@@ -765,7 +789,7 @@ Des **exceptions à cette obligation** sont prévues à **l’==article L221-2 d
 - Pour certaines mesures prises par les organismes de sécurité sociale.
 - Dans tous les cas où une disposition législative le prévoit expressément.
 
-De plus, les articles **L121-1 et L121-2 du CRPA** ne s’appliquent pas aux relations entre l’administration et ses agents. Ces relations sont régies par **les articles L122-1 et L122-2**, qui précisent les modalités concrètes de mise en œuvre du principe du contradictoire.
+De plus, les articles ==**L121-1 et L121-2 du CRPA==** ne s’appliquent pas aux relations entre l’administration et ses agents. Ces relations sont régies par **les ==articles L122-1 et L122-2==**, qui précisent les modalités concrètes de mise en œuvre du principe du contradictoire.
 
 Les **modalités prévues incluent** :
 - La possibilité de présenter des observations écrites.
@@ -806,7 +830,6 @@ Les règles applicables aux échanges électroniques entre l'administration et l
 Ces dispositions sont issues de l'**==ordonnance du 8 décembre 2005==**, visant à résoudre des problématiques liées à la sécurité, à la confidentialité, à la preuve et à l'authentification des textes et des signatures.
 
 ##### 1) Les formalités substantielles : les signatures et les contre-seing
-
 Lorsqu’un texte exige qu’un acte soit **écrit**, le juge veille à ce que ce dernier soit **signé** par l’autorité compétente. Le **défaut de signature** est toujours une cause d’annulation de l’acte, car sans signature, un acte n’est pas **authentifié**.
 
 De la même façon, l’absence d’un **contresigne**, lorsqu’il est **exigé par un texte**, entraîne toujours l’illégalité de l’acte.
@@ -819,7 +842,8 @@ La **dématérialisation** concerne également les **procédures d’achat publi
 
 ##### 2) Le cas de la motivation
 
-La **motivation d’un acte administratif** correspond à l’ensemble des **raisons de fait et de droit** qui ont **déterminé** l’administration à adopter cet acte.
+>[!Définition]
+>La **motivation d’un acte administratif** correspond à l’ensemble des **raisons de fait et de droit** qui ont **déterminé** l’administration à adopter cet acte.
 
 **Exemple** : lorsqu’une demande de permis de construire est refusée, la décision doit énoncer les raisons précises du refus.
 
@@ -1084,7 +1108,7 @@ Très souvent, l'entrée en vigueur **coïncide avec la publicité**, qui rend l
 
 Cependant, **l'auteur de l'acte peut retarder son entrée en vigueur** à une date ultérieure. Enfin, si l'acte nécessite des **mesures d'application**, son entrée en vigueur est reportée à la date d'entrée en vigueur de ces mesures.
 
-#### C) L’existence et la validité de l’acte ATTENTION REFAIRE ARRETS
+#### C) L’existence et la validité de l’acte
 La **signature fait exister un acte**, et, à partir du moment où il existe, certaines actions deviennent possibles.
 
 1. **Quand l'acte existe :**
@@ -1127,13 +1151,13 @@ Enfin, la rétroactivité est également admise lorsque l’administration **ne 
 ### Paragraphe 3 : La vie de l'acte
 
 #### A) L'exécution de l'acte
-Il s'agit pour l'administration d'appliquer les actes légaux qu'elle a pris, car ils lui sont opposables.
+Il s'agit pour l'administration d'**appliquer les actes légaux qu'elle a pris, car ils lui sont opposables**.
 
 Si l'administration ne respecte pas les actes qu'elle a adoptés, non seulement elle commettrait une **illégalité** et une **faute**, mais cela conduirait à un fonctionnement arbitraire, contraire au droit administratif. Une fois qu'elle a adopté un acte, elle a l'obligation de l'exécuter.
 
 En revanche, lorsqu'un règlement est **illégal**, l'autorité administrative ne doit pas l'appliquer (**==avis du Conseil d'État, 9 mai 2005, Marangio==**).
 
-Dans l'arrêt **==CE, 16 décembre 2005, Lacroix==**, concernant les actes individuels, l'administration doit continuer de leur donner effet tant qu'ils n'ont pas été retirés. Un acte individuel doit être sorti de vigueur pour cesser de produire ses effets.
+Dans l'arrêt **==CE, 16 décembre 2005, Lacroix==**, concernant les actes individuels, l'***administration doit continuer de leur donner effet tant qu'ils n'ont pas été retirés***. Un acte individuel doit être sorti de vigueur pour cesser de produire ses effets.
 
 **L'exécution des actes administratifs**
 L'exécution des actes administratifs renvoie à ce que **Hauriou** appelait le ***privilège du préalable***. Cette expression reflète l'idée que les actes administratifs disposent, dès leur entrée en vigueur, d'une autorité immédiate, préalable à toute vérification juridictionnelle. Cela signifie que l'administration n'a pas besoin de se faire conférer un titre exécutoire par le juge pour donner une force exécutoire à ses décisions.
@@ -1145,7 +1169,6 @@ De plus, en France, les recours ne sont **pas suspensifs**.
 C'est pourquoi des **procédures d'urgence** (comme les référés) ont été créées, permettant aux justiciables d'obtenir la suspension des effets d'un acte par un juge, le temps que le juge du fond statue sur sa légalité.
 
 #### B) Les solutions en cas de non exécution
-
 **3 solutions pour surmonter la résistance de l'administré :**
 1. Les sanctions pénales
 2. Les sanctions administratives
@@ -1157,7 +1180,6 @@ L'**==article R610-5 du Code pénal==** permet à l'administration d'exercer des
 C'est un texte **général**, mais il existe également d'autres textes **spéciaux**. Ainsi, le recours aux sanctions pénales est possible lorsqu'un texte le prévoit expressément.
 
 ##### 2) Les sanctions administratives
-
 Elles ont un **caractère hybride** : ce sont des actes répressifs par leur **contenu**, mais administratifs par leur **auteur**.
 
 Elles se sont développées dans les années 1940, sous le régime de Vichy, notamment en matière d'économie dirigée. 
@@ -1224,7 +1246,6 @@ Si l’**exécution forcée** entraîne :
 elle pourra alors **constituer une voie de fait** (**==TC, 8 avril 1935, Action Française==**).
 
 ### Paragraphe 4 : Les règles relatives à la disparition de l’acte
-
 Il arrive que certains **actes administratifs** fixent **eux-mêmes** leur **durée de validité**.
 
 **Exemple** : une **décision de fermeture temporaire** d’un restaurant pour **deux mois**.
@@ -1257,7 +1278,6 @@ Pour mettre fin à un acte administratif, **une intervention formelle est néces
 
 Ainsi, **l’administration** a le pouvoir d’abroger ou de retirer un acte, tandis que **seul le juge peut l’annuler**.
 #### A) L'abrogation
-
 L’**abrogation** met fin à l’**existence d’une décision** **uniquement pour l’avenir**.
 - Elle **ne remet pas en cause** les **effets produits** par l’acte lorsqu’il était en vigueur.
 - Contrairement au **retrait** ou à l’**annulation**, elle n’a pas d’**effet rétroactif**.
@@ -1267,7 +1287,6 @@ On distingue :
 2. ***L’obligation d’abroger** :*
 
 ##### 1) La liberté d'abroger
-
 L’administration peut **abroger à tout moment** les **actes non créateurs de droits**, qu’ils soient **réglementaires ou non réglementaires**, conformément à **l’==article L. 241-3 du CRPA==**.
 
 Le **principe de sécurité juridique** impose à l’autorité réglementaire d’**édicter des mesures transitoires** lorsque celles-ci sont nécessaires.
@@ -1297,9 +1316,7 @@ L’abrogation des **actes créateurs de droits non réglementaires** est encadr
     - **Sur demande du bénéficiaire de la décision**, l’administration peut, **sans condition de délai**, **abroger une décision créatrice de droit, même légale**, à condition que cette abrogation **ne porte pas atteinte aux droits des tiers**.
 
 ##### 2) L’obligation d’abroger
-
 Depuis l’**==arrêt d’assemblée du 3 février 1989, Compagnie Alitalia==**, l’administration a **l’obligation d’abroger un règlement illégal**, que :
-
 - L’acte ait été **illégal dès son origine**.
 - L’acte soit **devenu illégal** en raison d’un **changement de circonstances de droit ou de fait**.
 
@@ -1310,7 +1327,6 @@ Cette jurisprudence a été **codifiée à l’==article L. 243-2 du CRPA==**.
 Ainsi, lorsqu’un **règlement devient illégal**, l’administration a l’**obligation de le retirer**, garantissant ainsi la conformité du droit administratif aux évolutions législatives et factuelles.
 
 #### B) Le retrait
-
 Le **retrait** d’un acte administratif a une **dimension rétroactive**.
 - Il produit ses **effets pour l’avenir**, comme l’**abrogation**, **mais aussi pour le passé**.
 - Il met fin à l’application de l’acte et **anéantit rétroactivement** les effets qu’il a pu produire.
@@ -1340,7 +1356,7 @@ Ainsi, le retrait d’un acte administratif obéit à **des règles précises** 
 
 Un **règlement n’est pas retiré de droit**.
 
-Leur régime est prévu à **l’==article L. 243-3 du CRPA**== :
+Leur régime est prévu à **l’ ==article L. 243-3 du CRPA**== :
 
 - **L’administration ne peut retirer** un **acte réglementaire** ou un **acte non réglementaire non créateur de droits** que si :
     1. **Il est illégal**.
