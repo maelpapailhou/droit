@@ -23,7 +23,7 @@
 | UE 11 | Droit pénal général - II          | 20             | 10             | CC (50%) CT - Écrit 3H (50%) | Écrit 3H                                                         | 3    |
 | UE 12 | Procédure civile                  | 30             |                | CT - Écrit 2H                | Écrit 2H                                                         | 3    |
 | UE 13 | Droit fiscal                      | 20             |                | CT - Écrit 2H                | Écrit 2H                                                         | 2    |
-| UE 14 | Institutions européennes          | 24             |                | CT - Écrit 2H                | Écrit 2H                                                         | 2    |
+| UE 14 | Institutions européennes          | 24             |                | CT - Écrit 2H                | Écrit 2H                                                         | 3    |
 | UE 15 | Histoire des idées politiques - I | 24             |                | CT - Écrit 2H                | Écrit 2H                                                         | 3    |
 | UE 16 | Anglais juridique                 | 1              | 15             | CC                           | CC - Report de la note de session 1                              | 2    |
 | UE 17 | UEO                               |                | 15             | CC                           | CC - Report de la note de session 1                              | 2    |

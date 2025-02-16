@@ -5,11 +5,11 @@ ABSENT
 
 ## Section 1 : La désignation de la personne physique responsable
 
-### Paragraphe 1 : Le principe de la responsabilité pénale personnelle
+## Section 1 : Le principe de la responsabilité pénale personnelle
 
 ---
 
-#### A) La définition de l'auteur de l'infraction
+### Paragraphe 1 :  La définition de l'auteur de l'infraction
 
 
 - dabord prendre en def auteur de infraction : code pénal certians indices/elements ; 2 distinction : l'auteur matériel et auteur intellectuel
@@ -23,13 +23,13 @@ Le législateur a modifié l’==**article 121-3 du Code pénal**==, article cen
 > **Article 121-3 al. 3 et 4 (modifié par la loi du 10 juillet 2000) du Code pénal**  
 > *Toutefois, lorsque la loi le prévoit, il y a délit en cas de mise en danger délibérée de la personne d’autrui.*  
 > *Il y a également délit, lorsque la loi le prévoit, en cas d’imprudence, de négligence ou de manquement à une obligation de prudence ou de sécurité prévue par la loi ou les règlements sauf si l’auteur des faits a accompli les diligences normales compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses compétences ainsi que du pouvoir et des moyens dont il disposait.*
-#### B) Les conséquences du principe de responsabilité pénale personnelle
+### Paragraphe 2 : Les conséquences du principe de responsabilité pénale personnelle
 
 Le **principe de responsabilité pénale personnelle** signifie deux choses : 
 - d'une part, l'exclusion de la responsabilité pénale collective ; 
 - d'autre part, l'exclusion de la responsabilité pénale du fait d'autrui.
 
-##### 1) L'exclusion de la responsabilité pénale collective
+#### A) L'exclusion de la responsabilité pénale collective
 
 Le principe est que lorsqu'une **infraction est commise par plusieurs personnes**, cette infraction ne peut ***pas être imputée collectivement au groupe***. Le juge doit examiner la culpabilité de chacun de manière distincte. Les qualifications et les peines peuvent parfaitement être différentes d'un individu à l'autre.
 
@@ -63,7 +63,7 @@ On distingue **deux situations** :
 1. **Impossibilité d’individualiser l’action de chacun pour des raisons pratiques** : Cela relève d’un problème de preuve, où il est impossible de déterminer qui a fait quoi.
 2. **Impossibilité d’individualiser l’action de chacun pour des raisons juridiques** : Cela concerne les décisions collégiales constitutives d’infractions pénales.
 
-###### a) L'impossibilité pratique d'individualiser l'action de chacun
+##### 1) L'impossibilité pratique d'individualiser l'action de chacun
 
 Dans ce cas de figure, on peut systématiser la jurisprudence, et il apparaît deux parades différentes, selon que l'infraction concernée est non intentionnelle ou intentionnelle.
 
@@ -116,7 +116,7 @@ En 1994, l’auteur de la première faute a été déclaré pénalement responsa
 - **Auteur direct** : La responsabilité pénale peut être engagée en cas de faute simple d’imprudence.
 - **Auteur indirect** : Celui qui contribue à créer la situation permettant la réalisation du dommage doit avoir commis une **faute aggravée, caractérisée ou délibérée** pour être pénalement responsable.
 
-###### b) L'impossibilité juridique d'individualiser l'action de chacun
+##### 2) L'impossibilité juridique d'individualiser l'action de chacun
 
 Dans ce cas, l'obstacle apparaît dirimant : c'est le droit lui-même qui s'oppose à l'opération d'individualisation de l'action de chacun.  
 La décision est censée émaner collectivement de tous.
@@ -152,7 +152,7 @@ Dans cet arrêt, la responsabi<u></u>lité pénale d'une personne physique, en l
 ==L'arrêt du 19 novembre 2003 :  ==
 Dans cet arrêt, il est reproché à l'adjoint au maire d'avoir présenté un rapport sur le projet devant le conseil municipal et de l'avoir soumis au vote.
 
-##### 2) L'exclusion de la responsabilité du fait d'autrui
+#### B) L'exclusion de la responsabilité du fait d'autrui
 
 La responsabilité pénale du fait d'autrui est un mécanisme de droit civil, consistant en l'obligation de répondre des dommages causés par le fait d'autrui, en versant des dommages et intérêts.
 
@@ -169,7 +169,7 @@ Le chef d'entreprise n'est ni auteur ni complice de l'infraction, dont il n'a m�
 Le législateur a même pris le relais de la jurisprudence en reconnaissant des cas de responsabilité pénale du fait d'autrui, avant parfois de faire marche arrière.
 
 Y a-t-il vraiment une responsabilité pénale du chef d'entreprise pour le fait d'autrui ?
-###### a) Le champ d'application de la responsabilité pénale du chef d'entreprise du fait d'autrui
+##### 1) Le champ d'application de la responsabilité pénale du chef d'entreprise du fait d'autrui
 
 Quelles sont les infractions pour lesquelles le chef d'entreprise est susceptible de voir sa responsabilité pénale engagée alors qu'elles sont commises par un préposé ?
 
@@ -194,7 +194,7 @@ S'il n'existe aucun texte général relatif à la responsabilité pénale du che
 **==Chambre criminelle, 28 février 1956==**
 Jurisprudence citée par la doctrine comme point d'ancrage
 
-###### b) La mise en oeuvre de la responsabilité du chef d'entreprise du fait d'autrui
+##### 2) La mise en oeuvre de la responsabilité du chef d'entreprise du fait d'autrui
 
 **==Arrêt Chambre Criminelle 1956== : L'évolution de la responsabilité pénale du chef d'entreprise du fait d'autrui**
 
@@ -241,7 +241,6 @@ Cette jurisprudence est applicable non seulement aux infractions non intentionne
     - Infractions **douanières**,
     - Infractions **de publicité illicite pour le tabac** (**1998**).
 
-##### 2) La mise en oeuvre de la responsabilité pénale du chef d'entreprise du fait d'autrui
 
 La mise en œuvre de la responsabilité pénale du chef d'entreprise du fait d'autrui n'est possible que si certaines conditions sont réunies. Toutefois, le chef d'entreprise a la possibilité de s'exonérer de sa responsabilité.
 
@@ -375,7 +374,7 @@ La délégation **ne peut être que partielle** : il est **impossible de délég
 
 Si le chef d’entreprise, **après avoir délégué un pouvoir**, participe **personnellement** à l’infraction, la délégation devient **sans effet**. Il redevient alors **personnellement responsable**.
 
-Ce point a été **précisé par la Cour de cassation en mai 1993 et en 2003** (date à vérifier).
+Ce point a été **précisé par la ==Cour de cassation le 5 mai 1993 et le 23 avril 2003==**.
 
 **Le délégataire doit répondre à trois critères**
 
@@ -433,382 +432,343 @@ Lorsqu’une entente est temporaire ou ponctuelle entre plusieurs personnes, le 
 
 Dans ces situations, la qualification de l’implication des personnes impliquées dépend de la manière dont elles ont contribué à la commission de l’infraction.
 
-#### A) La complicité
+### Paragraphe 1 : La complicité
 
-art 121-6 et 121-7 du code pénal
+> **Article 121-6 du Code pénal**
+> *Sera puni comme auteur le complice de l'infraction, au sens de l'article 121-7.*
 
-dans la commisison de l'infraction, le complice semble n'avoir jouéq u'un role secondaire, il a aidé l'autuer principal, il lui a donné des instructions, ou il l'a provoqué à commetre l'infraction. c'est bien l'auteur principal qui accompli les éléments constitutifs de l'infraction. 
+> **Article 121-7 du Code pénal**
+> *Est complice d'un crime ou d'un délit la personne qui sciemment, par aide ou assistance, en a facilité la préparation ou la consommation.*
+> *Est également complice la personne qui par don, promesse, menace, ordre, abus d'autorité ou de pouvoir aura provoqué à une infraction ou donné des instructions pour la commettre.*
 
-il faut bien comprendre que sans l'aide du complice, l'ifnraciton n'aurait pas pu se commetttre, donc role du complice est pas si secondaire que cela.
+Dans la commission de l'infraction, **le complice semble n’avoir joué qu’un rôle secondaire** : il a aidé l’auteur principal, lui a donné des instructions, ou l’a provoqué à commettre l’infraction. C’est bien **l’auteur principal** qui accomplit les éléments constitutifs de l’infraction.
 
-il n'est donc pas évident de déterminer quels doit etre la responsabilité pénale du complice. on réprime pas de la meme maniere celui qui aide et celui qui concoit le proket.
+Cependant, il faut bien comprendre que **sans l’aide du complice, l’infraction n’aurait peut-être pas pu être commise**. Le rôle du complice n’est donc pas si secondaire que cela.
 
-il existe 2 grnads systemes pour appréhender la complicité.
-1.  : théorie de la criminalité d'emprunt
+Dès lors, il n’est pas évident de déterminer **quelle doit être la responsabilité pénale du complice**. On ne peut pas réprimer de la même manière **celui qui aide** et **celui qui conçoit le projet criminel**.
 
-on emprunte la crimionalité. dans cette théorie on considere que l'acte du compliec es tun acte accessoire au comportemetn de lauteur principal qui lui constitue une infraction. 
+Il existe **deux grands systèmes** permettant d’appréhender la complicité.
 
-l'acte accessoire de la complicité va donc être empruntée a criminalité de l'auteur principal. l'idée est que l'acte du complcie est dépourvu de criminalité propre "l'accessoire suivant l'acte principal principal emprunte la criminalité de l'acte principal pricipal". 
+1) **La théorie de la criminalité d’emprunt**
 
-inconvenient majeur de cette théorie est que la'cte de complicité n'est punissable que si le comportemetn de l'auteur principal l'est aussi. 
+Dans cette théorie, **l’acte du complice est considéré comme un acte accessoire** par rapport au comportement de l’auteur principal, qui, lui, constitue une infraction.
 
-2. théorie dite du délit distinct
+L’idée principale est que **l’acte du complice n’a pas de criminalité propre** :
 
-on considere que l'acte du complic ea une criminalité prorpe, une criminalité autonome. L'acte du complice est un délit autonome par rapport à l'infaction princiapel qui était visée. Il peut donc être réprimé de maniere indépendante. 
+> « L’accessoire suit le principal : l’acte de complicité emprunte la criminalité de l’acte principal ».
 
-inconvénient majeur : elle nie purement et simplemetn la notion de complicité. 
+**Inconvénient majeur** : cette théorie implique que **l’acte de complicité n’est punissable que si le comportement de l’auteur principal l’est aussi**.
 
-le droit français a opté pour le systeme de la criminalité d'emprunt. c'est ce qui ressors de l'articel 121-6. Le complice n'a pas de crimoinalité porpre, c'est un système de criminalité d'emprunt. En revanche le complice en droit français a bien une pénaité propre. 
+2) **La théorie du délit distinct**
 
-mais notre droit fait des concessions au système du délit autonome, du délit distinct. on voit fleurir les délits de provocation.
+Dans cette seconde approche, on considère que **l’acte du complice a une criminalité propre, une criminalité autonome**. L’acte du complice est alors **un délit distinct**, indépendant de l’infraction principale.
 
-en 1986 propositin de réforme du droit pénal, on voulati faire de l'instigateur une catégorie juridiqeu autonome appart. 
+**Inconvénient majeur** : cette théorie **nie purement et simplement la notion de complicité**, puisqu’elle assimile le complice à un auteur à part entière.
 
+**Le choix du droit français**
+Le droit français a opté pour **le système de la criminalité d’emprunt**. C’est ce qui ressort de **==l’article 121-6 du Code pénal==**, qui dispose que **le complice est puni comme l’auteur**.
 
-##### 1) Les conditions de la complicité punissable
+Ainsi, **le complice n’a pas de criminalité propre**, mais **il a bien une peine propre**.
 
-La complicité est donc un acte de par+cipa+on à l’infrac+on commise par autrui, auteur principal.
+Toutefois, le droit français fait **des concessions au système du délit autonome** : en effet, on voit apparaître **des infractions spécifiques de provocation**, qui s’écartent du principe de criminalité d’emprunt.
 
-Ce n’est pas n’importe quel acte de par:cipa:on. En clair, pour pouvoir être qualifié de complicité, l’acte de
+En **1986**, une **proposition de réforme du droit pénal** envisageait même de **faire de l’instigateur une catégorie juridique autonome**, distincte du complice. Cette réforme n’a cependant pas abouti.
 
-par:cipa:on doit vérifier les condi:ons men:onnées à l’ar:cle 121-7.
+#### A) Les conditions de la complicité punissable
 
-Plus précisément, 3 condi:ons sont nécessaires pour engager la responsabilité pénale d’un par:cipant sur
+La complicité est donc un **acte de participation** à l’infraction commise par autrui, **l’auteur principal**.
 
-le terrain de la complicité.
+Cependant, **ce n’est pas n’importe quel acte de participation**. En clair, pour pouvoir être qualifié de complicité, **l’acte de participation doit remplir les conditions mentionnées à l’==article 121-7 du Code pénal==**.
 
-1. Un fait principal punissable
+Plus précisément, **trois conditions sont nécessaires** pour engager la responsabilité pénale d’un participant sur le terrain de la complicité.
 
-C’est ce que la doctrine appelle l’élément légal de la complicité.
+**Un fait principal punissable**
+C’est ce que la doctrine appelle **l’élément légal de la complicité**.
 
-L’exigence d’un fait principal punissable est une conséquence de la théorie de la criminalité d’emprunt. En
+L’exigence d’un fait principal punissable est une conséquence directe **de la théorie de la criminalité d’emprunt**.  
 
-clair, pas de complicité punissable si l’acte de par:cipa:on est érigé en délit dis:nct.
+En clair, il ne peut y avoir de complicité punissable si l’acte de participation est érigé en délit distinct.
 
-Le fait principal est celui qui est commis, accompli par l’auteur principal. Ce fait principal doit présenter
+Le **fait principal** est **l’infraction commise par l’auteur principal**.
 
-plusieurs caractéris:ques pour que la théorie de la criminalité d’emprunt puisse jouer. Il y’a finalement 2
+Pour que la théorie de la criminalité d’emprunt puisse s’appliquer, **ce fait principal doit répondre à certaines exigences**.
 
-grandes exigences.
+Il existe **deux grandes exigences** à respecter.
 
-###### a) Un fait principal punissable - l’« élément légal » de la complicité
-Il faut tout d’abord que le fait de l’auteur principal soit cons2tu2f d’une infrac2on pénale.
+##### 1) Un fait principal punissable - l’« élément légal » de la complicité
+Il faut tout d’abord que **le fait de l’auteur principal soit constitutif d’une infraction pénale**.
 
-Tout d’abord, si l’auteur principal commet des faits qui n’entrent dans le champ d’aucun texte incriminateur,
+Si l’auteur principal commet des faits **qui ne relèvent d’aucun texte incriminateur**, il n’y a naturellement **aucune complicité punissable**.
 
-il n’y’a naturellement aucune complicité punissable. C’est l’hypothèse du suicide, qui n’est pas une infrac:on
+**Exemple** : le suicide n’est pas une infraction punissable. Ainsi, **le complice d’un suicide ne peut pas être réprimé** sur la base du suicide. 
 
-punissable. Ainsi, le complice d’un suicide ne peut pas être réprimandé sur la base du suicide. Mais l’ar:cle
+Cependant, **l’==article 223-13 du Code pénal== incrimine de façon autonome la provocation au suicide**.
 
-223-13 incrimine de façon autonome la provoca:on au suicide.
+Par ailleurs, même si **le fait principal est bien constitutif d’une infraction pénale**, cela **ne suffit pas toujours**. **L’article 121-7 du Code pénal exige parfois un certain degré de gravité de l’infraction**. Cet article distingue **deux formes de complicité** :
 
-le fait principal a beau être cons:tu:f d’une infrac:on pénale : il est de cas ou cela ne suﬃt pas. L’ar:cle
+1. **Complicité par aide ou assistance**  
+	- L’infraction principale commise doit être **un délit ou un crime**.  
+	- **Il n’existe pas de complicité par aide ou assistance pour une contravention**.
+    
+2. **Complicité par provocation ou par instruction**  
+- Le complice peut être poursuivi **quelle que soit la qualification de l’infraction principale** (crime, délit ou contravention).
 
-121-7 exige parfois un certain degré de gravité d’infrac:on. Cet ar:cle vise la complicité par aide ou
+**Une lacune problématique ?**
+Faut-il considérer comme gênant le fait que **la complicité par aide ou assistance d’une contravention ne soit pas punissable** ?
 
-assistance et la complicité par provoca;on ou par ins;ga;on.
+En réalité, le législateur **tend parfois à incriminer différemment** ces situations. Il adopte **une approche large des contraventions de violences**, ce qui permet d’étendre la répression.
 
-- En ma:ère de complicité par aide ou assistance, l’infrac:on principale commise doit être un délit ou
+De plus, les juges ont tendance, dans ces hypothèses, **à requalifier celui qui aide en auteur** plutôt qu’en simple complice.
+###### 2) Une participation au fait principal punissable selon l’un des modes prévus par l’article 121-7 Cpén. - l’« élément matériel » de la complicité
 
-un crime. Dit autrement, il n’y a pas de complicité par aide ou assistance de contraven:on.
+Il s’agit d’une **condition nécessaire**. En réalité, on distingue **deux hypothèses** de fait principal punissable :
+- **Il est punissable lorsqu’il est consommé.**
+- **Il est punissable lorsque le fait principal est tenté et que les conditions de la tentative sont réunies.**
 
-- En revanche, en ma:ère de complicité par provoca:on ou par instruc:on, le complice peut-être
+Dans ce cas, la complicité est punissable. On parle alors de **complicité de tentative**.
 
-poursuivi quel que soit la qualifica:on criminelle, correc:onnelle ou contraven:onnelle de
+**==Crim. 23 mai 1973==** :  
+Un prisonnier conçoit avec son frère un **plan d’évasion**, dans lequel est envisagée **l’élimination éventuelle d’un gardien** si cela s’avérait nécessaire.
 
-l’infrac:on principale.
+Le jour J, le frère armé qui aide à l’évasion tente d’assassiner le gardien.
+- **Le frère qui aide le prisonnier** est poursuivi et condamné pour **complicité d’évasion** et pour **tentative d’assassinat**.
+- **Le prisonnier** est poursuivi et condamné pour **évasion**, ainsi que pour **complicité de tentative d’assassinat**.
+`
+**Distinction entre complicité de tentative et tentative de complicité**
+Si **la complicité de tentative est punissable**, en revanche, **la tentative de complicité ne l’est pas**.
 
-Est-il vraiment gênant que la complicité par aide ou assistance de contraven;on ne soit pas punissable ?
+**==Crim. 25 octobre 1962, affaire Lacour==** :  
+M. Lacour avait tenté d’être **complice d’un assassinat**, mais le crime n’a finalement pas été commis.  
 
-Page sur 15 58À la vérité, le législateur va incriminer parfois de manière « dis:ncte ». On re:ent une approche très large
+**Conclusion** : la tentative de complicité n’est pas punissable.
 
-des contraven:ons violences. Par ailleurs, les juges vont avoir tendance dans ces hypothèses à considérer
+Cette situation est également appelée **« l’instigation non suivie d’effet »**.
 
-celui qui aide comme un auteur.
+L’affaire **LACOUR** a rapidement conduit à une **réaction de la jurisprudence**, qui a mobilisé une qualification pénale alternative : **l’association de malfaiteurs** (==article 450-1 du Code pénal==).
 
-##### 2) Une participation au fait principal punissable selon l’un des modes prévus par l’article 121-7 Cpén. - l’« élément matériel » de la complicité
+> **Article 450-1 du Code pénal** :  
+> *Constitue une association de malfaiteurs tout groupement formé ou toute entente établie en vue de la préparation, caractérisée par un ou plusieurs faits matériels, d’un ou plusieurs crimes ou délits passibles d’au moins cinq ans d’emprisonnement.*
 
-Il s’agit d’une condi:on nécessaire. On dis:ngue à la vérité 2 hypothèses de fait principal punissable.
+Si les juges avaient eu cette qualification en tête au moment de l’affaire **LACOUR**, ils auraient pu l’utiliser.
 
-- Il est punissable lorsqu’il est consommé.
+**L’association de malfaiteurs permet de sanctionner même les petites associations (deux personnes suffisent).**  
 
-- Il est punissable lorsque le fait principal est tenté et que les condi:ons de la tenta:ve sont réunies.
+**La peine encourue peut aller jusqu’à 10 ans d’emprisonnement et 150 000 € d’amende.**
 
-Dans ce cas, la complicité est punissable. On dit ici que la complicité de tenta:ve est punissable.
+**Une intervention tardive du législateur : ==la loi Perben II de 2004==**
+Face à la solution jurisprudentielle, le législateur a mis du temps à intervenir.  
 
-CC, 23 Mai 1973 : un prisonnier conçoit avec son frère un plan d’évasion. Plan dans lequel est envisagé une
+**Il a fallu attendre la loi Perben II du 9 mars 2004** pour qu’un **délit de provocation à l’assassinat** soit créé (==article 221-5-1 du Code pénal==).
 
-suppression éventuelle d’un gardien qui tendrait à s’imposer.
+> **Article 221-5-1 du Code pénal** :  
+> *Le fait de faire à une personne des offres, des promesses, ou de lui proposer des dons, présents ou avantages quelconques afin qu’elle commette un assassinat (ou un empoisonnement) est puni de **10 ans d’emprisonnement et 150 000 € d’amende**, lorsque ce crime **n’a été ni commis ni tenté**.*
 
-Le jour J, le frère armé qui aide l’évasion va comme8re une tenta:ve d’assassinat sur le gardien.
+Ce texte qualifie cette infraction de **mandat criminel**.
 
-Le frère qui aide le prisonnier va être poursuivi et condamné pour complicité d’évasion et pour tenta:ve
+Si **l’instigation est suivie des faits**, on revient à **la théorie de la complicité** : le complice sera puni selon le régime général de la complicité.  
 
-d’assassinat.
+**La peine pour mandat criminel est identique à celle prévue en matière d’association de malfaiteurs.**
 
-Le prisonnier quant à lui va être poursuivi et condamné pour évasion, et évidemment pour complicité de
+Trois hypothèses où le fait principal n’est pas (ou n’est plus) punissable**
+1. L’action publique ne doit pas être prescrite.
+2. L’infraction principale ne doit pas avoir bénéficié d’une amnistie réelle.
+	- **Amnistie réelle** : porte sur l’infraction elle-même, les faits ne sont plus punissables.
+	- **Amnistie personnelle** : concerne uniquement **l’auteur principal**, mais **ne protège pas un éventuel complice**.
 
-tenta:ve d’assassinat.
+3. Il ne doit pas exister de faits justificatifs empêchant de punir l’infraction principale.
 
-Si la complicité de tenta:ve est punissable, en revanche, la tenta:ve de complicité n’est pas punissable.
+**Deux grandes catégories de causes d’irresponsabilité pénale existent** :
+- **Les faits justificatifs** (exemple : légitime défense, état de nécessité).
+- **Les causes de non-imputabilité** (exemple : trouble mental, contrainte).
 
-C’est l’hypothèses de l’aﬀaire LACOUR, CC, 25 octobre 1962.
+**Conséquence** :
+> Si l’infraction principale disparaît en raison d’un fait justificatif, alors **la complicité ne peut pas être punissable**.
 
-Sur le terrain de la tenta:ve d’assassinat, Mr LACOUR n’était pas punissable. Mr LACOUR a tenté d’être
+Cependant, **si l’auteur principal n’est pas puni pour une autre raison, la complicité peut tout de même être sanctionnée**.
 
-complice. Cependant elle n’est pas punissable. La tenta:ve de complicité est encore appelée «
+**Distinction entre impossibilité pratique et impossibilité juridique de punir l’auteur principal**
 
-l’ins;ga;on
+1) **L’impossibilité de punir l’auteur principal peut être factuelle**
+- **Auteur principal en fuite.**
+- **Auteur principal inconnu.**  
+	- Dans ces cas, la complicité reste punissable.
 
-non suivie des faits ».
+2) **L’impossibilité juridique de punir l’auteur principal**
+- **L’auteur principal bénéficie d’une amnistie personnelle**  
+	- Cela **ne protège pas le complice**, qui reste punissable.
+- **L’auteur principal est déclaré irresponsable pénalement** (exemple : trouble mental).  
+- Cette cause **ne s’étend pas au complice**, qui peut être condamné.
+- **L’auteur principal bénéficie d’une grâce présidentielle.**  
+	- La grâce **ne s’étend pas au complice**, qui demeure punissable.
 
-Par la suite, l’aﬀaire LACOUR a déclenché assez rapidement un pallia:f jurispruden:el. Il a consisté pour la
+**Effet de l’extinction de l’action publique sur le complice**
+- **Si l’auteur principal décède**, l’action publique à son encontre **s’éteint**, mais **le complice reste punissable**.
+- **Si le fait principal n’est pas constitutif d’une infraction (faute d’élément légal, matériel ou moral), alors il n’y a pas de complicité punissable.**  
+    **Exemple** : le suicide n’étant pas une infraction, **la complicité de suicide n’est pas punissable**.
 
-JSP a mobiliser une qualifica:on pénale qui est celle d’
+**Exemple : l’affaire du sang contaminé (==CC, 18 juin 2003==)**
+Les poursuites étaient engagées **contre des médecins prescripteurs** pour **empoisonnement**, ainsi que contre **les dirigeants du CNTS et des responsables politiques** pour **complicité d’empoisonnement**.
 
-«
+**Problème** :  
+Les médecins ont échappé à toute condamnation car **l’élément moral faisait défaut** : ils n’avaient pas l’intention de tuer (**dol spécial**).
 
-associa+on de malfaiteurs », ar:cle 450-1 du code
+**Conséquence** :
+> **Pas de fait principal punissable = pas de complicité punissable.**
 
-pénal, pour réprimer les hypothèses d’ins:ga:on poursuivie des faits.
+##### b) Une participation au fait principal punissable selon l’un des modes prévus par l’article 121-7 Cpén. - l’« élément matériel » de la complicité
 
-«
+C’est ce que la doctrine appelle l’**élément matériel de la complicité**.
 
-cons;tue une associa;on de malfaiteurs, tout groupement formé ou toute entente établie en vue de la
+Toute participation à une infraction punissable n’est pas nécessairement constitutive d’un acte de complicité punissable. En effet, encore faut-il que cet acte de participation réponde à l’une des formes prévues par la loi.
 
-prépara;on caractérisée par un ou plusieurs faits matériels d’un ou plusieurs crimes ou un ou plusieurs délits
-
-passibles d’au moins 5 ans d’emprisonnement. »
-
-Ici, l’aﬀaire LACOUR aurait pu bénéficier de ce texte si les juges y avaient pensé avant.
-
-Ce texte est assez large et condamne même les pe:tes associa:ons ( 2 personnes).
-
-La peine prévue en ma;ère d’associa;on de malfaiteurs peut aller jsq 10 ans d’emprisonnement, 150 K
-
-euros d’amende.
-
-Comme la jsp a trouvé un pallia:f, - d’urgence pour le législateur.
-
-Il faudra a8endre la loi Perbenne II du 9 mars 2004 pour qu’il crée un délit de provoca:on à l’assassinat qui
-
-s’applique aussi à l’empoisonnement. C’est ici l’ar:cle 221-5-1.
-
-«
-
-le fait de faire à une personne des oﬀres ou des promesses ou de lui proposer des dons, présents, ou des
-
-avantages quelconques afin qu’elle comme8e un assassinat (ou un empoisonnement) et puis lorsque ce
-
-crime n’a été ni commis ni tenté, cela est puni de 10 ans d’emprisonnement et 150 K euros d’amende. »
-
-Ce fameux mandat criminel est un délit. Si l’ins:ga:on est suivie des faits (si l’infrac:on principale est
-
-consommée ou tentée), dans ce cas, on revient à la théorie de la complicité. Le complice d’une infrac:on
-
-La peine prévue pour le mandat criminel est une peine iden:que à celle qui existait en ma:ère d’associa:on
-
-de malfaiteur.
-
-Dans 3 hypothèses, le fait principal va être considéré comme n’étant pas ou n’étant plus punissable ;
-
-- L’ac;on publique ne doit pas être prescrite
-
-Page sur 16 58- L’infrac;on principale ne doit pas être ou avoir profité d’une amnis;e réelle = elle porte sur une
-
-infrac;on commise. Les faits ne sont pas punissables (cela concerne généralement les infrac;ons à
-
-faibles importances) (concerne les faits et NON UNE PERSONNE). Amnis;e personnelle = ;ent à la
-
-qualité de son bénéficiaire. Cela n’interdit pas la punissabilité d’un complice éventuel.
-
-- Il ne doit pas y’avoir de fait jus;fica;f qui empêcheraient de punir l’infrac;on principale. Les causes
-
-d’irresponsabilité pénale sont de 2 natures :
-
-o Les faits jus;fica;fs :
-
-o et les causes de non imputabilité : elles agissent sur l’élément moral de l’infrac;on de façon
-
-in personam.
-
-CSQ : il n’y a pas d’infrac;on principale ni de complicité punissable puisque le texte incriminateur fait
-
-disparaître l’infrac;on.
-
-Il suﬃt que le fait principal soit punissable même si ce fait principal n’est pas puni.
-
-En clair, l’impunité de l’auteur ne signifie pas nécessairement que l’infrac:on n’était pas punissable, donc la
-
-complicité peut parfaitement être punie.
-
-> L’impossibilité de punir l’auteur principal peut être pra:que.
-
-C’est l’hypothèse d’un auteur principal en fuite. Aussi, c’est l’hypothèse de l’auteur principal inconnu.
-
-> L’impossibilité juridique de punir l’auteur principal
-
-C’est le cas lorsque l’auteur principal bénéficie d’une amnis:e personnelle. Toutefois ça n’interdit pas de
-
-punir le complice.
-
-Aussi, si l’auteur principal bénéficie d’une cause d’imputabilité (folie par exemple). Ce8e cause
-
-d’imputabilité n’est pas transférée au complice.
-
-Également, imaginons une grâce présiden:elle pour l’auteur principal, le complice reste punissable.
-
-> L’ac:on publique est éteinte à l’encontre de l’auteur principal.
-
-Si l’auteur principal décède, le sort du complice reste quand même punissable.
-
-Naturellement, si le fait principal ne devait pas cons:tuer une infrac:on faute de pouvoir caractériser un
-
-élément cons:tu:f, dans ce cas, il n’y a naturellement pas de complicité punissable.
-
-➔ Ex : suicide : la complicité de suicide n’est pas punissable car S n’est pas une infrac:on.
-
-CC, 18 juin 2003, aﬀaire du sang contaminé : des poursuites étaient engagées contre les médecins
-
-prescripteurs sous la qualifica:on pénale d’empoisonnement. Et les poursuites étaient également engagées
-
-contre les dirigeants du CNTS et les poli:ques, instructeurs, pour complicité d’empoisonnement.
-
-Comme les médecins ont échappés à toute condamna:on pénale, car il n’y avait pas l’élément moral :
-
-animus né candi + inten;on de tuer (dol spécial) -> pas de fait principal punissable donc pas de complicité
-
-punissable.
-
-2. La par:cipa:on au fait principal punissable selon l’un des modes prévus par l’ar:cle 121-7
-
-du CP, doit répondre à l’une des formes légales de complicité.
-
-C’est ce que la doctrine appelle l’élément matériel de la complicité.
-
-Toute par:cipa:on à une infrac:on punissable n’est pas nécessairement cons:tu:ve d’un acte de
-
-complicité punissable. En eﬀet, encore faut-il que cet acte de par:cipa:on réponde à l’une des formes
-
-prévues par la loi.
-
-Ces diﬀérentes formes de complicité obéissent également à un certain nombre de règles communes du
-
-point de vue de la matérialité. Ce sont des règles qui ont été posées, énoncées, systéma:sées par la JSP.
+Ces différentes formes de complicité obéissent également à un certain nombre de règles communes du point de vue de la matérialité. Ce sont des règles qui ont été posées, énoncées et systématisées par la jurisprudence.
 
 a) Les règles communes posées par la jurisprudence
 
-Page sur 17 58L’arrêt de principe devient comme tel lorsque des auteurs connus ont considéré que c’était un arrêt de
+L’arrêt de principe devient tel lorsque des auteurs reconnus considèrent qu’il s’agit d’un arrêt de principe.
 
-principe.
+L’**==arrêt de principe du 15 janvier 1948==** : la Cour de cassation a posé deux conditions matérielles à la répression de la complicité. Elle exige :
 
-L’arrêt de principe est un arrêt du 15 janvier 1948 : la CC a posé 2 condi:ons matérielles à la répression de la
+1) **Condition 1 : la nécessité d'un acte positif**
 
-complicité. La CC exige :
-- Condition 1 : la necessité d'un acte positif
+Le principe : l'exigence d'un acte positif de complicité semble apparemment logique. Le droit pénal ne réprime pas l'infraction de commission par omission, sauf exception. Il apparaît donc logique que la complicité ne puisse pas prendre la forme d'une abstention ou d'une omission.
 
-le principe : l'exigence d'un acte postiif de complicité semble apparemetn logique. Le droit pénal ne réprime pas l'infraction de commission par omission sauf exception. Il apparait donc logique que la complicité ne puisse pas prendre la forme d'une abstention, d'une omission. 
+**Exemple** : un individu qui assiste à la commission d'un meurtre et qui ne fait rien pour l'empêcher ne sera, en principe, pas poursuivi pour complicité de meurtre. Toutefois, il pourra être poursuivi sur le fondement de textes spéciaux, comme la non-assistance à personne en danger ou le non-empêchement de crime.
 
-Exemple : un individu qui assiste à la comission d'un meurtre et qui ne fait rien pour l'empecher, il ne va pas en principe être poursuivi pour complicité de meurtre. Mais il pourra etre poursuivi sur le fondements de textes spéciaux, comme la non assistance à personne en danger, ou non-empechement de crime.
+**Exception** : l'attitude passive peut être constitutive de complicité
+Toutefois, il existe des cas dans lesquels l'attitude passive n'est pas neutre. Elle peut s'interpréter comme une adhésion à la réalisation de l'infraction, d'où l'existence de tempéraments jurisprudentiels au principe.
 
-Exception : toutefois, il est des cas dans lesquels l'attitude passive n'est pas neutre. elle peut s'interpreter comme une adhésion à la réalisaiton de l'infraction, d'où l'existence de tempéraments jurisprudentiels au principe. 
+La jurisprudence considère que la passivité d’une personne spectatrice peut s’assimiler à de la collusion et entraîner des poursuites sur le terrain de la complicité.
 
-la jurisprudence considere que la passivité de la personne qui est spéctatrice va s'assimiler à de la collusion et sera donc poursuivi sur le terrain de la complicité.
+**Hypothèse 1 : La personne qui a l'obligation d'empêcher la commission d'infractions en raison de ses fonctions**
 
-Hypothèse 1 de la personne qui a le devoir, l'iobigliation d'empecher la commission d'infractions de par ses fonctions. exemple le doinier qui va fermer les yeux à la frontière, sera considérée comme complice au trafic (arret 27 octobre 1971).
+Exemple : un douanier qui ferme les yeux à la frontière sera considéré comme complice d’un trafic (==arrêt du 27 octobre 1971==).
 
-exemple du policier qui laisserai un de ses collègues commetre des vols. 
+Autre exemple : un policier qui laisse l’un de ses collègues commettre des vols.
 
-Hypothèse 2 : arret ch criminelle 13 septembre 2016, il s'agissaait d'un pratiicen qui a laissé faire par autrui des actes qui relevaient en principe de sa seule competence. Le medecin avait donné son nom au cabinet, alors que pas lui qui réalisait les actes poussés qui devaient être réalisés par un médeci. Docn le médecin était complice de ces pratiques illégales de la médecine.
+**Hypothèse 2 : Arrêt de la ==chambre criminelle du 13 septembre 2016==**
 
-hypothèse complementaire de la 2eme : lrsqu ela perosnne aviat le pouvoir d'empecher la comission de l'i,nfraction et ne l'a pas fait. On va considerer qu'ne st potentielleetn complice.
+Il s'agissait d'un praticien qui avait laissé autrui accomplir des actes relevant en principe de sa seule compétence. Ce médecin avait prêté son nom à un cabinet alors qu’il n'était pas lui-même l’auteur des actes médicaux nécessitant son intervention. Il a donc été considéré comme complice de pratiques illégales de la médecine.
 
-Le dévoir est assez claire, mais le devoir c'est compliqué. Exemple 1 : le tenancier d'un bar et cette personne ne va pas empecher le tapage nocture dans son etablissement. la chambre criminelel 8 juillet 1949 va considerer que le tenancier avait le pouvoir au sens physique de mettre les gens dehors. 
+**Hypothèse complémentaire de la deuxième : la personne qui avait le pouvoir d’empêcher la commission de l’infraction et ne l’a pas fait**
 
-exemple 2 : pouvoir psychologique : pri,cipal actionnaire d'une societe anonyme qui est en plsu membre du directoire. On va lui reprocher de ne pas s'être opposé aux abus de biens sociaux commis par le PDG. 
+On peut considérer qu’elle est potentiellement complice.
 
-- condiiton 2 : la necessité du'n acte anteireuru ou concomittan tà la réalisation de l'infracton principale
+Le devoir est relativement clair, mais la notion de pouvoir est plus complexe.
 
-l'acte du complice ne petu aps a priori intervenir apres la comission d'une infractin principale.  seule possibilité est l'acte postérieur, qui peut par exception êtr epunssable sur le terrain de la complicité, a condition qu'il résulte d'una ccord antierieur. on se met d'accor den amont pour aider apres la comission d'infraction.
+- **Exemple 1 : Le tenancier d’un bar**  
+    S'il n'empêche pas le tapage nocturne dans son établissement, il peut être tenu pour responsable. La chambre criminelle, dans un arrêt du 8 juillet 1949, a considéré que le tenancier avait le pouvoir, au sens physique, de mettre les fauteurs de troubles dehors.
+    
+- **Exemple 2 : Le pouvoir psychologique**  
+    Un principal actionnaire d'une société anonyme, également membre du directoire, ne s'est pas opposé aux abus de biens sociaux commis par le PDG. On lui a reproché son inaction, qui pouvait s’apparenter à une forme de complicité.
 
-exemple de l'individu qui attend au volant d'une voiture les auteurs d'un braquage pour permettre leru fuites. 
+2) **Condition 2 : La nécessité d’un acte antérieur ou concomitant à la réalisation de l’infraction principale**
 
-il ne faut pas oublier que l'acte posterieur est parfois réprimé par la loi pénale à titre autonome, sous la qualification soit de recel de choses (on écoule le produit d'une infraction art 312-1 du code pénal) ou encore recel de malfaiteurs (on cache les délincants art 434-6 du code pénal).
+L'acte du complice ne peut pas, a priori, intervenir après la commission de l'infraction principale. La seule exception concerne l’acte postérieur, qui peut être puni sur le terrain de la complicité à condition qu'il résulte d’un accord antérieur. Autrement dit, il faut que les parties se soient entendues en amont pour apporter une aide après la commission de l’infraction.
 
-- condition 3 (pas de l'arrêt 48) : la complicité de complicité
-faut il un acte de complicité direct ou un acte indirect est ils suffisant? 
+**Exemple** : un individu qui attend au volant d’une voiture afin de permettre la fuite des auteurs d’un braquage.
 
-en theorie, on retient un principe qui est le principe de la crimnalité d'emprunt. L'acte du complic en' apas criminalité propre.  il n'emprunte la criminalité de l'auteur principal. le complic edu complice ne peut pas emprunter la criminalité du complice, car il n'a pas de criminalité, il l'emprunte lui meme à 'lauteur principal.
+Il ne faut pas oublier que l’acte postérieur est parfois réprimé de manière autonome par la loi pénale, sous d’autres qualifications :
+- **Le recel de choses** : lorsqu’une personne écoule le produit d’une infraction (==article 312-1 du Code pénal==).
+- **Le recel de malfaiteurs** : lorsqu’une personne cache des délinquants (==article 434-6 du Code pénal==).
 
-pourtant, la cour de cassation a adopté une position originale à la faveur d'un arrêt rendu par la ch crimoinelle 30 mai 1989, considéré que dans une affaire où on avait un donneur d'instruction, un recruteur à qui les instructiosna vianet été donnés, et 2 tueurs quiaviaent été embauchées par les recrueurs; Les deux tueurs vont etre les auteurs principaux. le recruteur des tueurs est le complic edes auteurs principaux. mais les ordres venaient de l'instigateur, qui avait recruté le recruteur qui a recruté les tueurs. Donc l'instigateur est le cerveau. 
+3) **Condition 3 : La complicité de complicité**
 
-la cour de casastion considere qu'on peut parfaitement etre complice d'un coplice. elle souligne que "l'article(ajd article 121-7) n'exige aps que les instructions soient donnés directmeent par leur auteur. "
+Faut-il un acte de complicité direct ou un acte indirect est-il suffisant ?
 
-le complice indirect (le complice du complice) ne ser apunsisable que s'il a eu l'intention d'aider l'auteur principal de l'infraction. 
+En théorie, on retient le principe de la criminalité d’emprunt. L’acte du complice n’a pas de criminalité propre : il emprunte la criminalité de l’auteur principal. Dès lors, le complice du complice ne peut pas emprunter la criminalité du complice, car ce dernier ne fait lui-même qu’emprunter la criminalité de l’auteur principal.
 
-exemple : une personne veut tuer l'habitant d'un imeuble. cette prsonne recrute un tueru a gage qui va recolter des info susr les habitudes de vie de la vicitme aupres du concierge. l'instigateur aussi se renseigne aupres du concierge. le concierge fourni des infos au complice; Il ne peut pas etre complice car il n'a pas eu l'intetion de s'associer au meurtre du résidant. 
+Cependant, la Cour de cassation a adopté une position originale dans un arrêt rendu par la ==chambre criminelle le **30 mai 1989**==. Dans cette affaire, il existait une chaîne d’intermédiaires :
 
-au delà de nos exigences communes, il convient de distinguer les 3 modes de complicité. 
+- Un **instigateur** qui a donné les instructions initiales,
+- Un **recruteur** qui a reçu ces instructions et engagé des tueurs à gages,
+- **Deux tueurs**, auteurs principaux du crime.
 
-la logique de distiction de ses formes de coplcité est aussi pratique. L'etat d'esprit du complice est radicalement différent selon les hypothèses d'une complicité par aide ou assisatnce, le projet criminel est celui de l'auteur principal, le complice va juste aider, assister. 
+Le recruteur des tueurs était complice des auteurs principaux, mais l’instigateur, qui avait recruté le recruteur, apparaissait comme le véritable cerveau de l’opération.
 
-dans une cimplicité par instigation, le projet criminel c'est celui du complice. 
+La Cour de cassation a considéré que l’on pouvait parfaitement être complice d’un complice. Elle souligne que **l’==article 121-7 du Code pénal== n’exige pas que les instructions soient données directement par leur auteur**.
 
-forme 1 de complicité : la complicité par aide ou assistance (art 121-7 al. 1 code penal) "est complice d'un crime ou d'un délit (pas de contravention) la personne qui sciemment par aide ou assistance en a facilité la prépartion ou la consommation".
+Toutefois, le **complice indirect** (le complice du complice) ne sera punissable que s’il a eu l’intention d’aider l’auteur principal de l’infraction.
 
-l'ancien article 60 visait a coté de la complicté par aide ou assistance une autre hypothèse. dans lal rédaion de 1994, on ne parle plus de "fourniture de moyen" mais elle n'est qu'un cas particulier de l'aide ou l'assistance.
+**Exemple** : une personne souhaite tuer un résident d’un immeuble et engage un tueur à gages. Ce dernier récolte des informations sur les habitudes de la victime auprès du concierge. L’instigateur, de son côté, se renseigne aussi auprès du concierge.  
+Si le concierge fournit des informations au complice sans savoir qu’elles vont servir à un meurtre, il ne pourra pas être poursuivi pour complicité, car il n’a pas eu l’intention de s’associer à l’homicide.
 
-exemple de cas de complciité par aide ou assistance : cas de celui qu ifait le guet pendant un vol, celui qui joue du clairon pour couvrir les cris d'une jeune fille violée, celui qui va fournir l'arme du crime
+**Distinction des trois modes de complicité**
+Au-delà des exigences communes, il convient de distinguer les trois modes de complicité. Cette distinction repose sur des considérations pratiques : l’état d’esprit du complice varie radicalement selon les cas.
 
-la juripsurdnece a dégagé progressivement les conditiosn dans lequelles la fourniture de moyens est un cas de complicité punissable. 
+1. **Complicité par aide ou assistance**
+    - Le projet criminel est celui de l’auteur principal.
+    - Le complice se contente d’aider ou d’assister.
 
-2 qestions qui se sont posées :
-1. le moyen fournit dot il avoir été utile à la comisison de l'infraction? Ex on foruni un. pistoler masi il la tue avec un couteau. La jurisprudence dit que oui. 
-2. le moyen doit il avoir été indispensable (pas d'autre moens possible)? Peu importe que le moyen n'ait pas été indispensable. Le moyen n'a aps été necessaire mais utile.
+2. **Complicité par instigation**
+    - Le projet criminel est celui du complice, qui incite l’auteur principal à commettre l’infraction.
 
-2eme forme : la complicité par instigation
+1) **1re forme de complicité : la complicité par aide ou assistance (==article 121-7, alinéa 1 du Code pénal==)**
 
-soit la provocation, soit par les instructions. C'st lhypoth!se classique où le complice es tle cerveau. 
+Selon cet article, **"est complice d'un crime ou d'un délit (mais pas d'une contravention) la personne qui, sciemment, par aide ou assistance, en a facilité la préparation ou la consommation."**
 
-2 hypothses de complicté par instigation à articel 121-7 al 2. La complciité par provocation est beaucoup plus exigeante que la complicité par instruction qui est un pei plus ouverte.
+L'ancien **article 60** du Code pénal envisageait, en plus de la complicité par aide ou assistance, une autre hypothèse. Dans la rédaction de 1994, on ne parle plus de la "fourniture de moyens", mais celle-ci est considérée comme un cas particulier d’aide ou d’assistance.
 
+**Exemples de complicité par aide ou assistance** :
+- Une personne qui fait le guet pendant un vol,
+- Une personne qui joue du clairon pour couvrir les cris d’une victime de viol,
+- Une personne qui fournit l’arme du crime.
 
-la complciité par instigation 
+La jurisprudence a progressivement précisé les conditions dans lesquelles la **fourniture de moyens** constitue une complicité punissable.
 
-le projet criminel est clairemetn celui du complice lui meme.
+**Deux questions se sont posées** :
+1. **Le moyen fourni doit-il avoir été utile à la commission de l'infraction ?**
+    - **Exemple** : Une personne fournit un pistolet, mais l'auteur tue finalement avec un couteau.
+    - **Réponse de la jurisprudence** : **Oui, le moyen doit être utile, même s’il n’a pas été effectivement utilisé.**
 
-quand on parle de complicité par instigation, on parle de 2 hypotheses.
+2. **Le moyen fourni doit-il avoir été indispensable (aucun autre moyen possible) ?**
+    - **Réponse de la jurisprudence** : **Non, peu importe que le moyen n’ait pas été indispensable, du moment qu’il a été utile.**
 
-Hypothese 1 ) la complicité par provocation
+2° **2e forme de complicité : la complicité par instigation**
+La complicité par instigation peut se faire de deux manières :
+- **Par provocation**,
+- **Par des instructions**.
 
-est complice la personne qui, par, don, promesse, menace, ordre, abus d'autorité ou de pouvoir, aura provoqué a une infraction. 
+Il s'agit de l’hypothèse classique où **le complice est le cerveau** de l’infraction.
 
-la provocatione st donc une cation intentionelle par laquelle on tnete d'infuencer la raison d'autrui pour lui faire commecte une infraction. 
+L’**==article 121-7, alinéa 2** du Code pénal== prévoit deux cas de complicité par instigation :
+1. **La complicité par provocation**, qui est beaucoup plus exigeante,
+2. **La complicité par instruction**, qui est un peu plus large.
 
-le legislateur a choisi d'adopter des délits spéciaux, spécifiques de provocation. ex provocation au suicide.
+Dans ce type de complicité, **le projet criminel est clairement celui du complice lui-même**.
 
-celui qui provoqeu est poursuivi en qualité d'autuer principal, il n'est pas complice car y'a un délit specifque de provocation. 
+Lorsqu’on parle de complicité par instigation, on distingue ces **deux hypothèses fondamentales**.
 
-s'il n'existe pas de texte spécial (le spécial déroge au général),  alors c'est seukemetn là qu'on envisage la répressionde la provoatio, via ka complicité. Il faut alors verifier les conditons prévues à l'articel 121-7.
+- **Hypothèse 1 : La complicité par provocation**
+Est complice la personne qui, **par don, promesse, menace, ordre, abus d'autorité ou de pouvoir, aura provoqué une infraction**.
 
-3 conditons pour qu'il y ait provocation
-- la provocation doit être accompagnée de l'une des circonstances limitativemetn énumérée à article 121-7
-- elle doit s'adrsser à une personne déterminée ou ua un groupe de personne détemrinée
-- il va falloir que la provocation soit suivie des faits, sinon pas provocation au sens de la complicité.
+La provocation est donc une **action intentionnelle** par laquelle on tente **d’influencer la raison d’autrui** pour lui faire commettre une infraction.
 
-hypothèse 2 ) la complicité par instruction
+Le législateur a choisi d’adopter des délits spéciaux relatifs à la provocation, par exemple la **provocation au suicide**.
 
-est complice la perosnne qui aura donné des instructions pour ocmettre une infraction. 
+Dans ces cas-là, **celui qui provoque est poursuivi en qualité d’auteur principal** et non comme complice, car il existe un délit spécifique de provocation.
 
-ce cas de complciité est plus aisé à caractériser, car on exige pas de don, promesse, menace, abus d'autorité ou de pouvoir. 
+En revanche, **si aucun texte spécial ne prévoit une infraction autonome de provocation**, on peut alors envisager la répression par le biais de **la complicité** (puisque le **spécial déroge au général**). Il faut alors vérifier les conditions prévues à **l’article 121-7 du Code pénal**.
 
-la preuve de sueles instruction suffit. Encore faut-il qu'il s'agisse de véritables instructions. De simples renseignements ne sont pas instructions. de meme, n conseil, une suggestion ne suffisent pas.
+**Trois conditions pour qu’il y ait provocation**
+1. La provocation doit être **accompagnée de l’une des circonstances limitativement énumérées** à **l’article 121-7** (don, promesse, menace, ordre, abus d’autorité ou de pouvoir).
+2. Elle doit **s’adresser à une personne déterminée ou à un groupe de personnes déterminé**.
+3. La provocation doit être **suivie d’effets**. Si elle reste sans conséquence, il n’y a pas provocation au sens de la complicité.
 
-il faut donc une directive claire, etprécise. 
+**Hypothèse 2 : La complicité par instruction**
+Est complice la personne qui **aura donné des instructions pour commettre une infraction**.
 
-la jurisprudence est plus souple encore. Elle estime que pas necessaire que intruction ait servi ou non. 
+Ce cas de complicité est **plus facile à caractériser** que la complicité par provocation, car il **ne nécessite ni don, promesse, menace, abus d’autorité ou de pouvoir**.
 
-3 ) L'élément moral de la complicité : Une participation intentionnelle au fait principal punissable - l’« élément moral » de la complicité
+La **preuve de simples instructions suffit**. Toutefois, encore faut-il qu’il s’agisse de **véritables instructions** :
+- **De simples renseignements ne sont pas des instructions**.
+- **Un conseil ou une suggestion ne suffisent pas**.
+
+Il faut donc **une directive claire et précise**.
+
+La jurisprudence est encore plus souple : **il n’est pas nécessaire que l’instruction ait effectivement servi à la commission de l’infraction**.
+
+##### 3 ) L'élément moral de la complicité : Une participation intentionnelle au fait principal punissable - l’« élément moral » de la complicité
 
 pour que la complicité soitpunissable, il faut que le complice ait l'intention de participer à l'infraciton principale aumoment où il a agit. l'intention recouvre aussi la conscience et volonté de s'associer à l'infraciton principale. 
 
@@ -883,9 +843,9 @@ hypothèse 4 : la victime n'est pas celle que l'instigateur avait désigné à l
 
 maix si victime pas cellee qsui a été choisie par investigaute rn raison d'un choix délibéré du tueur a gage, alors pas de complicité de tentative d'assasinat possible. 
 
-#### B) la repression de la complicité
+#### B) La répression de la complicité
 
-L'==article **121-6** du Code pénal dispose== que **"sera puni comme auteur l e complice de l'infraction"**. Ce principe semble simple d’application, mais en pratique, les choses sont bien plus complexes.
+L'==article **121-6** du Code pénal dispose== que **"sera puni comme auteur le complice de l'infraction"**. Ce principe semble simple d’application, mais en pratique, les choses sont bien plus complexes.
 
 En matière de répression de la complicité, **deux systèmes sont concevables** :
 
@@ -1017,69 +977,88 @@ on admet cette souplesse. la jurisprudence est contra legem alorsq eu avant 94 l
 
 En matière d’abus de bien social, **une autre stratégie** est parfois utilisée : **Considérer que la personne qui n’a pas la qualité requise est en réalité un dirigeant de fait**.
 
-### Paragrzaphe 2 : la coaction
+### Paragraphe 2 : La coaction
 
-il arrive que l'aide apportée par le participantr à l'nfraction d'autrui dépasse le stade dela simple complicité.
+Il arrive que l'aide apportée par le participant à l'infraction d'autrui dépasse le stade de la simple complicité.
 
-toute la difficulté va être celle de savoir à partir de quadn l'agent basucle de la qualité de complice à celle de co auteur.
+Toute la difficulté réside dans la détermination du moment où l'agent bascule de la qualité de complice à celle de co-auteur.
 
+La distinction entre coaction et complicité n'est pas seulement théorique, elle présente un enjeu et un intérêt pratique. En effet, la complicité et la coaction ne sont pas réprimées selon les mêmes règles.
 
+Parfois, l'agent sera punissable si l'on considère qu'il a agi en tant que complice, mais ne le sera pas si on l'envisage comme un co-auteur, et réciproquement.
 
-la disitnciton entre coaction et complicté n'est pas suelement théorique, il y a un enjeu, un interet pratique. La complicité et la co action ne sont pas reprimés selon les meme regles.
+Les besoins de la répression conduisent le législateur et les juges à prendre parfois quelques libertés avec la distinction entre complicité et coaction. Ainsi, ils peuvent assimiler le complice au co-auteur, ou inversement, en fonction des exigences de la répression.
 
-parfoi sl'agent dera punissable si on consiere qu'il a agit en tnat que ocmplice, mais ne le sera pas si on l'nevisage comme un co auteur, et reciproquemetn.
+#### A) La distinction entre la co-action et la complicité
 
-les besoiins de la repression font que le legislateur et les juges prenennt parfois quelques libertés par rapport à la distinction complicité, coaction, et vont parfois assimiler le complice au co auteur, ouvice versa poru les besoins de la repression.
+Quand on aborde une distinction on aborde toujours les critères puis les enjeux de la distinction.
+##### 1) Le critère de la distinction
+L'auteur d'une infraction est celui qui la consomme, c'est-à-dire celui qui réalise tous les éléments constitutifs (élément légal, matériel et moral).
 
-#### A) La distinction entre la coaction et la complicité
+Le co-auteur est donc celui qui commet avec un autre une infraction. Les éléments constitutifs de cette infraction doivent pouvoir être caractérisés à son égard.
 
-quand on aborde uen distinction tjrs aborder les criteres puis les enjeux de la distinction.
-##### 1) le critere de la distinction
+Le complice, quant à lui, est celui qui accomplit l'un des actes de complicité définis par la loi à l'==article 121-7 du Code pénal==, à savoir : aide ou assistance, provocation ou instruction.
 
-l'auteur d'une infraction est celui qui consomme, commet l'infarction, càd celui qui réalise tous els element sconstitufis (element legal, materiel et moral). 
+Le critère est donc assez simple à déterminer : si l'on peut caractériser les éléments constitutifs de l'infraction sur la tête de l'agent, alors on parle de co-auteur.
 
-le co autuer, c'est donc celui qu i commet avec un autre une ifnraction. Les elements constituifs de cette infraction doivent pouvoir etre caractérisés sur sa tete. Le complice est celui qui accompli l'un de actes de complcitié défini par la loi article 121-7, a savoir aide ou assitanceprovocation ou instruction.
+Dans le cas contraire, deux situations sont possibles :
+- Soit les actes accomplis par l'agent relèvent de l'==article 121-7==, et dans ce cas, l'agent est complice.
+- Soit les actes de l'agent ne relèvent pas de cet article, auquel cas il n'est pas punissable.
 
-le crietere est donc assez simple adeterminé. si on peut caracteriser les elemnts constitutifs de l'infraction sur la tête d el'agent, on parle de co auteur. 
+Le critère retenu par le droit français pour distinguer la complicité de la coaction est un critère **objectif**, car il repose sur la question de savoir si l'agent a accompli ou non les éléments constitutifs de l'infraction.
 
-dans le cas contraire, soit les actes accomplis par l'agnt  toent sous le coup de l'article 121-7, dans ce cas agent est complice. soit les actes de l'agent ne revelent pas de l'articel 121-7, dans ce cas l'agent n'est pas punissable. 
+Un autre critère, dit **subjectif**, consisterait à sonder l'intention de l'agent, autrement dit : a-t-il voulu être auteur ou simplement complice ?
 
-le critere retenu pa rle droit francais pour distinguer complicité et coaction, c un critere qualifié de critere objectif. Car on regarde si l'agent a accomplis ou non les éléments constitutifs.
+Si le critère de distinction semble clair et simple à mettre en œuvre, ce n'est pas toujours le cas en pratique. Certains actes de complicité sont difficiles à distinguer de la coaction, notamment les actes d'aide ou d'assistance.
 
-l'autre critere subjectif consistait àsonder l'intention de l'agent. En clair, notre agent a til voulu etre auteur ou simplmenet complice. 
+**Exemple**
+Un individu recrute deux hommes pour tuer un avocat. Les deux hommes font appel au concours de la maîtresse de l'un d'eux. Cette dernière contacte l'avocat sous un faux nom et un prétexte imaginaire afin de lui fixer un rendez-vous. Elle s'y rend accompagnée des deux tueurs.
 
-le critere de distinction semble cair et simple de mise e oeuvre. mais pas toujoiurs le cas , il est des actes de complicité difficile à disitnguer de al co action. il s'agit des actes d'aide ou d'assistance 
+Lorsque l'avocat ouvre la porte, l'un des deux hommes se rue sur lui et le poignarde jusqu'à ce que mort s'ensuive. Le deuxième homme s'est contenté de maintenir la victime pour l'empêcher de crier, et la maîtresse a refermé la porte à clé pour éviter toute intervention extérieure.
 
-exemple: un individu qui recrute 2 hommes pour tuer un avocat. les deux hommes fotn appel au concours de la maitresse de l'un deux. la maitresse contacte l'avocat sous un faux nom et un pretexte imaginiare et elle tient un rendez-vous. Elle se rend au rendezvosu accompagné des 2 tueurs. l'avocat ouvre laporte, l'un des deux hommes se rue sur lui et le poignarde jusqu'à ce que mort s'en suive. Le deugieme homme s'est contenté de contenir la victime en l'empechant de crier, et l amaitresse a refermé la porte a clé pour ne pas qu'il doit dérangé. 
+Dans cette affaire, il est évident que les deux hommes sont co-auteurs de l'assassinat. L'individu qui les a recrutés est l'instigateur : il est complice par instigation.
 
-dans cette affaire ilest evident que les deux homems sont co auteurs d'un assasinat. L'indovidi qui a recruté c'est l'instigateur, il est complice par instigation. Rste le sort de la mairtresse, elel a été poursuivie et condaméne en qualité de co auteur. c'est ch criminel e25 janvier 1962. Elle note "l'existence d'uen participation personnelle volontaire et directe en qalité de co auteur à l'ction criminelle". 
+Reste la question du sort de la maîtresse. Elle a été poursuivie et condamnée en qualité de **co-auteur**. La ==**Chambre criminelle de la Cour de cassation**, dans un arrêt du **25 janvier 1962**==, a retenu à son encontre « l'existence d'une participation personnelle, volontaire et directe en qualité de co-auteur à l'action criminelle ».
 
+##### 2) L’intérêt de la distinction
 
-##### 2) interet de la distinction
+Certes, le complice est puni **comme s'il était** auteur de l'infraction. Complice et auteur semblent donc être sanctionnés de la même manière. C’est vrai dans la plupart des cas, mais il existe des exceptions.
 
-certes lecomplie est puni comme s'il éatit auteur de l'infraction. complice et auteurs semblent etre punis de la meme facon. c'est vrai la plupart du temps, mais ile xiste des exceptions.
+Trois exceptions majeures justifient toute l'importance de la distinction :
+1. **En matière de contravention, la complicité par aide ou assistance n’est pas punissable**, alors que la coaction d’une contravention l’est toujours. Ainsi, lorsqu’un individu aide ou assiste un autre en matière de contravention, il sera préférable, dans l’intérêt de la répression, de retenir la qualification de co-auteur plutôt que de complice.
 
-3 exceptions qui font tout l'enjeu d ela idstction :
+2. **Certaines infractions ne peuvent être commises que par des personnes possédant une qualité spécifique** (exemple : dépositaire de l’autorité publique, dirigeant d’entreprise en matière d’abus de biens sociaux, délit de concussion). Une personne qui participe à l’infraction sans posséder cette qualité ne peut être punissable **en tant que co-auteur**. En revanche, si elle est poursuivie en tant que complice, la jurisprudence adopte une interprétation plus large de l’article 121-6 du Code pénal, permettant ainsi de contourner cette restriction.
 
-1. En matiere d econtrvention, la complicité par aide ou assisantce n'est pas punissabel. or, la coactioon de contravnetion c'est tjrs punissable. Dans ce cas, quandon est sur une aid eou assistance en matier de contareventn on va pref la qualif de co auteur.
-2. certaines infractions ne peuvent etre commise par de spersonnes possedant une certaine qualité précise, exemple depositaire de l'autorité publique, delit de concussion, dirigeant. la personne qui paritifpe à l'infraction de co auteur qui n'est pas punissalbe parce qu'elle ne possede pas la qualité requise.  En revnache is la poursiite se fait comme complice, la on peut compter sur une jurudprudnece dynamique, un peu contra legem, qui interprete articel 121-6.
-3. la complicité n'est pnissalbe que si le fait principal est lui meme punissalbe. ilf aut que l'auteur principal soit passé à l'acte, ou à minima tenté l'infraction. avantage est qqu'en amtiere de co action, ette condition n'est pas requise, on va pas cherhcer un fait principal. le coauteur est puni independant de savoir si les auteurs sont passés à l'acte. Exempel braquage à 3, si on est omplice de celui qui cjange d'avis aors pas punissable; Mais si co auteur on est puni, cacun est envisagé par rapport à la consommationde l'auteur principal.
+3. **La complicité n’est punissable que si le fait principal est lui-même punissable** : il faut que l’auteur principal soit passé à l’acte ou, à minima, ait tenté l’infraction. À l’inverse, en matière de coaction, cette condition n’est pas requise : il n’est pas nécessaire de prouver un fait principal, chaque co-auteur étant puni indépendamment des actes des autres.
 
-ce sont precisement ces 3 interets de la distinction qui paradoxalment vont epliquer la relativité de la distinction.
+    - **Exemple** : un braquage à trois personnes. Si un complice apporte son aide à un individu qui, finalement, renonce à passer à l’acte, il ne pourra pas être poursuivi. En revanche, si cet individu est un **co-auteur**, il sera puni, car la responsabilité de chacun est envisagée indépendamment des actes des autres co-auteurs.
 
-#### B) 
+Ces trois distinctions sont précisément celles qui, paradoxalement, expliquent la **relativité de la distinction** entre complicité et coaction.
+#### B) La relativité de la distinction entre la coaction et la complicité
 
-il est des cas ou le participant au fait d'autri ne sera punissalbe que s'il est complice ou ou caoteur, doù la tetaton du legisltuer ou du juge de traiter le complie come s'ilé tait co auteur ou le co auteur comme s'il était complice lorsque cela les arranges pour les besoins de la repression.
+Il existe des situations où **le participant à un fait commis par autrui ne sera punissable que s'il est qualifié de complice ou de co-auteur**. Dès lors, **le législateur et les juges sont parfois tentés de manipuler la qualification** en fonction des besoins de la répression.
 
-parofis le legislateur assimile le complice au co auteur. exemple circonstance aggraante dite de réunion, la repression de certaines infractions ex le vol, le viol est aggarvé lorsque l'infraction est commise en reunion. 
+**L’assimilation du complice au co-auteur par le législateur**
 
-si le legislatuer s'arretait la, il n'y aurai d'aggravation que dans l'hypotèse où il y a des co auteurs.
+Dans certains cas, le législateur assimile **explicitement** le complice au co-auteur.
 
-le legiltuaer precise que ces infractiosn sont aggravées lorsqu'leles sotn cmmsies par pluoers personnes agissant en qualité d'auteur et de complice.
-sans cette preciison, le complice serait punissabe mais il échaperaient aux peines aggarvées. parfois c la jusiprudence qii assimile complice et co auteur. 
+- **Exemple** : la circonstance aggravante de **réunion** en matière de vol ou de viol.
+    - Ces infractions sont plus sévèrement réprimées lorsqu’elles sont commises en réunion, c’est-à-dire par plusieurs personnes.
+    - **Problème** : si le législateur ne précisait rien, **seuls les co-auteurs** bénéficieraient de cette circonstance aggravante, et **les complices y échapperaient**.
+    - **Solution** : le législateur a donc précisé que ces infractions sont aggravées **lorsqu’elles sont commises par plusieurs personnes agissant en qualité d’auteurs et de complices**.
 
-ch criminel 24 juin 1922. LA jursiprudence va privilegier uen analyse sous angeld e la co acgtion alors que c'tétait plutot de la complciité. 
+**L’assimilation du complice au co-auteur par la jurisprudence**
 
-jeunss gens formaient un cortege autour d'un porteur de drapeau, et ce drapeau était interdit par arrêté prefectoral (drapeau des jeunesses communistes). les jeunes vont etre poursuivies pour infraction à l'arrêté prefectoral qui a permois de brandir ce drapeaU. y'a queun auteur principal, celui q ui brnadit le drapeau. Les autres sont complice par aide ou assiantce, peut etre par provocation. Mais la complciité de ocntravention par aide ou assisnce n'est pas possible. la cassation va considerer que ce cortege implique une manifetatiion commune et simultanée constituant une meme contravention. 
+Dans d’autres cas, c’est la **jurisprudence** qui assimile complicité et coaction pour assurer une répression plus efficace.
 
-les juges procedent parfosi à l'opération inverse en assimilant le co autuer au complice, lorsque simplemetn àa permet la repression. 
+- **Exemple : ==Crim. 24 juin 1922==**
+    - Des jeunes forment un cortège autour d’un individu portant un drapeau interdit par arrêté préfectoral (drapeau des Jeunesses Communistes).
+    - Ils sont poursuivis pour infraction à cet arrêté, interdisant de brandir ce drapeau.
+    - **Problème** : seul le porteur du drapeau est véritablement auteur de l’infraction. Les autres ne sont que complices (par aide, assistance ou provocation). Or, **la complicité de contravention par aide ou assistance n’est pas punissable**.
+    - **Solution de la Cour de cassation** : elle considère que ce cortège constitue une **manifestation commune et simultanée**, constituant **une même contravention** pour tous. Ainsi, elle qualifie l’ensemble des participants de **co-auteurs**, permettant leur condamnation.
+
+**L’opération inverse : l’assimilation du co-auteur au complice**
+
+À l’inverse, la jurisprudence assimile parfois **le co-auteur à un complice**, lorsque cela permet une meilleure répression.
+
+En conclusion, **la distinction entre coaction et complicité, bien qu’apparemment claire, est donc en réalité très relative**, car elle dépend largement des nécessités de la répression et de l’interprétation des juges et du législateur.

@@ -1,3 +1,14 @@
+**Principe dispositif:** principe selon lequel les parties ont l'initiative du procès et en déterminent le contenu. Ce principe conduit à ce que le juge doive trancher et ne puisse trancher que les points qui lui sont soumis.
+
+**Principe contradictoire:** principe selon lequel les arguments et pièces doivent être débattus entre les parties.
+
+**Principe d'immutabilité:** principe selon lequel les parties ne peuvent faire valoir de nouvelles prétentions en cours de procès sauf à ce qu'elles se rattachent à celles initiales par un lien suffisant.
+
+**Principes directeurs:** principes qui guident l'établissement des règles de procédure civile, que sont le principe dispositif, le principe contradictoire et le principe d'immutabilité.
+
+---
+*Avec le **principe contradictoire**, le **principe dispositif** organise le déroulement du procès civil. L'on parle de **principes directeurs**.*
+
 Le **principe dispositif** traduit le caractère accusatoire de la procédure civile, en opposition avec la logique inquisitoire de la procédure pénale.
 
 Le caractère accusatoire, ou la logique accusatoire, repose sur le fait qu’une partie formule des demandes contre une autre partie. Par exemple, une partie peut accuser l’autre de ne pas avoir respecté un contrat, d’avoir causé un dommage ou de ne pas avoir payé ses dettes.
@@ -9,8 +20,8 @@ Le rôle moteur du procès revient aux parties, principalement au demandeur. La 
 Ce principe est représenté par l’adage **"le procès est la chose des parties"**.
 
 En contraste, une autre technique procédurale est la logique inquisitoire, que l’on retrouve en procédure pénale. Cette logique donne au juge la mission de rechercher la vérité. Elle rappelle le fonctionnement des tribunaux d’inquisition dans l’Église catholique.
-## Logique inquisitoire
 
+**Logique inquisitoire**
 La logique inquisitoire diffère de la logique accusatoire : ici, ce sont les parties qui doivent faire avancer le procès. Si une partie a raison mais n’apporte pas les preuves nécessaires, elle sera déboutée. Le juge, dans cette logique, n’a pas de rôle actif dans la recherche des preuves ou de la vérité.
 
 Dans la logique accusatoire, **le juge a un rôle actif**, tout comme les parties, mais c’est surtout le juge qui est chargé de rechercher la vérité pour rendre son jugement. Les parties (ministère public, procureur, défense) essaient de l’orienter dans cette recherche en apportant des preuves.
@@ -21,7 +32,7 @@ Des fois des mixtes entre les deux : juge peut avoir un rôle plus actif. Et au 
 
 Le prionciepo dispositi, le proces est à la csoe des parties. Ce princpe dispositif s'adresse donc d'abord aux parties et il va conduire à définir leur role, et aussi sur le. role du juge, qu in'est pas le moteur du proces mais pas qu'un simple arbitre.
 
-Sous l’influence de l’==article 6, paragraphe 1, de la Convention européenne des droits de l’homme (CEDH),== qui garantit le droit à un **procès équitable**, les missions du juge en procédure civile ont évolué depuis une vingtaine d’années. En effet, la **nécessité de respecter un délai raisonnable** a conduit à un ***renforcement des pouvoirs du juge pour accélérer les procédures***.
+Sous l’influence de l’==**article 6, paragraphe 1, de la Convention européenne des droits de l’homme (CEDH),==** qui garantit le droit à un **procès équitable**, les missions du juge en procédure civile ont évolué depuis une vingtaine d’années. En effet, la **nécessité de respecter un délai raisonnable** a conduit à un ***renforcement des pouvoirs du juge pour accélérer les procédures***.
 
 La France a été **condamnée à plusieurs reprises** pour le ***non-respect des délais raisonnables dans les procédures judiciaires*** et pour les ***conditions de détention en prison***.
 
@@ -30,25 +41,36 @@ Le **juge** dispose désormais de **pouvoirs permettant d’accélérer la proc�
 
 ### A) Le principe
 
-Attention : NCPC (avant nouveau, depuis 1975).
+**Attention : NCPC (avant nouveau, depuis 1975).**
 
-Artilce 1er du code de procedure ciivie : "seules les parties introduisent l'instance hors les cas où la loi en dispose autrement". A l'inverse, le jug ene se saisit pas d'office. 
+L’article 1er du Code de procédure civile dispose : _« Seules les parties introduisent l'instance, hors les cas où la loi en dispose autrement. »_ À l’inverse, le juge ne se saisit pas d’office.
 
-L'instance est une autre formile pour dire l'existnece du proces.  
+L’**instance** est une autre manière de désigner l’existence d’un procès.
 
-Le principe est que ce sotn les parites qui introducsnet l'instance, le jug ene petu aps s'auto saisir d'una ffaire, sauf quand la loi en dispose autrement. Hypothèses rares en nombres de saisine d'office du juge : en matiere de protection des personnes protégées (majeurs ptogérés) car ne sont pas en mesure de saisir le juge ; et en matiere deprocedure collective, ex en cas de faillite d'une entreprise, (tous ceux à qui la société doit de l'argent). Les dirigeants peuivent eux meme engager cette procedure collective, mais parfois ne veulent pas le faire. Les créanciers peuvent aussi engager cette procedure. A defaut d'une initiative par les parties, y'a une possibilité pour le tribunal de commerce d'ouvrir une procedure collective.
+Le principe est que **ce sont les parties qui introduisent l’instance**. Le juge ne peut pas s’auto-saisir d’une affaire, sauf dans les cas prévus par la loi. Ces hypothèses de saisine d’office sont rares, notamment dans deux domaines :
 
-le rôle particulier du ministere public dans la procedure civile (aussi appelé le parquet). 1ere instance ; procureru de la répobuqlie qui intervient. En procedure pénale c'est celui qui aurait été à l'initaitive des poursuuties, qi va saisir la juridition pour dmeander ne condamnatoon.
+- **La protection des personnes vulnérables** (ex. : majeurs protégés), car elles ne sont pas en mesure de saisir le juge elles-mêmes.
+- **Les procédures collectives** (ex. : faillite d’une entreprise). En cas de cessation des paiements, les dirigeants peuvent engager eux-mêmes la procédure collective, mais parfois, ils refusent de le faire. Les créanciers ont aussi la possibilité de l’initier. À défaut d’initiative de leur part, le tribunal de commerce peut ouvrir une procédure collective d’office.
 
-2 ordres : la juridiion du siege, qui rendent des jugement, et le parqet (debout), qui est le ministere public : magistrats pas là pour juger mais pour preparer les odssiers en procedure penale. il demande au nom du peuple franaçsi que telle personne osit condamnée. 
+**Le rôle particulier du ministère public en procédure civile**
+Le ministère public (aussi appelé **le parquet**) joue un rôle particulier. En **première instance**, c’est le **procureur de la République** qui intervient.
 
-normalement il a rien. à faire dans le civil car regarde interents particuliers et pas general, mais ca peut arriver. Exemple mariage homosexuel c le mionistere public qui demande annulation du mariage, car atteinte à l'ordre public. Il intervient comme n'importe qiel partie, il a la meme place. il est plus le procureur qi demande la condamnation, c'es tpar simple demanderu qu'il demande la nullité d'un acte privé. 
+En procédure pénale, le parquet est généralement à l’initiative des poursuites et saisit la juridiction pour demander une condamnation.
 
-parofis aussi appels ou pourvoi en cassation demandé par le ministere public pour que la loi soit rappélée par la cour de cassation.
-donc en matiere penale moteur inquisitoriael, mais pas en matiere civile.
+Il existe **deux ordres distincts** dans l’organisation judiciaire :
 
+1. **La juridiction du siège**, qui rend les jugements.
+2. **Le parquet**, composé de magistrats du ministère public (dits « magistrats debout »), qui ne jugent pas mais préparent les dossiers en procédure pénale et représentent l’accusation au nom du peuple français.
 
-seuls les parties introduisent l'instance. Si il veut intervenir comme partie il sera traité par n'importe quel parti. 
+Normalement, le ministère public n’a **aucun rôle en procédure civile**, car celle-ci concerne les intérêts **particuliers** et non l’intérêt général. Cependant, il peut exceptionnellement intervenir, notamment dans les affaires touchant **l’ordre public**.
+
+- **Exemple** : Dans l’affaire du mariage homosexuel avant sa légalisation, c’est le ministère public qui demandait l’annulation du mariage, au motif qu’il constituait une atteinte à l’ordre public. Dans ce cas, il intervient **comme n’importe quelle autre partie**, et non comme procureur réclamant une condamnation.
+
+Le ministère public peut également **former un appel ou un pourvoi en cassation** afin que la Cour de cassation rappelle la loi et assure son application uniforme.
+
+**Distinction entre procédure pénale et procédure civile**
+- En matière **pénale**, la procédure suit un **modèle inquisitoire**, où le ministère public joue un rôle moteur dans l’instruction et les poursuites.
+- En matière **civile**, c’est un modèle **accusatoire**, où seules les parties introduisent l’instance. Si le ministère public veut intervenir, il le fait comme une **partie classique**, sans pouvoir particulier.
 
 ### B) Lors de l'instance
 
@@ -148,278 +170,112 @@ vise le contrôle des actes de procédures et des ..
 
 ### B) Le contrôle des faits et de droits
 
-Le juge sera chargé de contrôler les faits et le droit.
+Voici votre texte corrigé :
 
-1) Les faits
+---
 
-Concernant les faits, l’ar5cle 7 du CPC dispose que
+### **Le rôle du juge : contrôle des faits et du droit**
 
-Le juge ne peut fonder sa décision sur des faits qui ne sont pas dans le débat. »
+#### **1) Les faits**
 
-Le juge peut prendre en considéra4on même les faits que les par4es n’auraient pas
+L’article 7 du Code de procédure civile dispose que :  
+_« Le juge ne peut fonder sa décision sur des faits qui ne sont pas dans le débat. »_
 
-spécialement invoquées au sou4ent de leur préten4on »
+Toutefois, il peut prendre en considération même les faits que les parties n’auraient pas spécialement invoqués au soutien de leurs prétentions.
 
-Finalement, il se peut que l’élément factuel per5nent ne soit pas u5lisé par les par5es dans
+Il arrive que l’élément factuel pertinent ne soit pas mis en avant par les parties dans leurs prétentions. Or, le juge peut souligner cet élément et considérer qu’il aurait dû être mis en lumière. Cependant, le juge est tenu de statuer uniquement sur les prétentions des parties. Il peut néanmoins s’appuyer sur les faits exposés dans le débat pour rendre sa décision.
 
-ses préten5ons. Or, le juge peut le souligner et dire que « c’est cet élément-là qui aurait du
+Ainsi, **le juge contrôle les faits**.
 
-être mis en lumière dans les préten5ons ». Donc le juge n’est tenu de juger que sur les
+L’article 8 du CPC précise que :  
+_« Le juge peut inviter les parties à fournir les explications de faits qu’il estime nécessaires à la solution du litige. »_
 
-préten5ons des par5es. Le juge peut se servir des exposés des faits pour rendre son
+Cette disposition peut modifier la physionomie du procès, car le juge a la possibilité de demander aux parties des compléments d’information lorsqu’il le juge nécessaire. On pourrait ainsi y voir une **tendance inquisitoriale**, où le juge chercherait à établir la vérité.
 
-jugement. Le juge respecte le premier alinéa car les faits ont été exposés dans le débat par
+Cependant, en pratique, **l’article 8 est peu utilisé**. En effet, ce n’est pas le rôle du juge de rechercher lui-même les faits : c’est aux parties de les exposer. De plus, le recours à cet article alourdit la procédure, ce qui est problématique dans un contexte de tribunaux déjà engorgés. **Ainsi, le juge ne l’utilise qu’avec parcimonie.**
 
-les par/es.
+---
 
-In fine, le juge contrôle les faits.
+#### **2) Les preuves**
 
-Selon l’ar5cle 8, le juge peut « inviter les par4es à fournir les explica4ons de faits qu’il es4me
+Si les parties ont la charge de prouver les faits (article 9 du CPC), les juges jouent également un rôle actif puisqu’ils peuvent prononcer **des mesures d’instruction**, soit à la demande d’une partie, soit d’office.
 
-nécessaire à la solu4on du li4ge. »
+Les **mesures d’instruction** sont des moyens probatoires permettant aux juges civils de mieux instruire l’affaire. Elles peuvent inclure :
 
-Poten5ellement, cela peut complètement modifier la physionomie du procès. Le juge peut
+- La réalisation de **constats**,
+- La demande **d’expertises**,
+- L’**audition de témoins**,
+- Le recours à un **amicus curiae** (ami de la Cour, apportant un éclairage juridique).
 
-demander tout complément d’informa5on aux par5es, dès qu’il le juge nécessaire. Le juge
+##### **a) Mesure à la demande d’une partie**
 
-pourrait avoir une ac5vité inquisitoriale à vouloir rechercher la vérité.
+Les parties disposent de **capacités probatoires limitées**. Or, **l’article 9** du CPC leur impose d’apporter les preuves au soutien de leurs prétentions. Cependant, certaines preuves peuvent être entre les mains d’un **tiers** ou de la **partie adverse**, ce qui rend leur obtention difficile.
 
-➔ L’énoncia5on des faits par les par5es ne suﬃt pas nécessairement à permeare au
+Dès lors, **une partie peut saisir le juge pour qu’il ordonne une mesure d’instruction**, comme l’obligation pour un tiers ou l’adversaire de remettre un document.
 
-juge de comprendre les faits.
+⚠ **Cette demande ne peut être formulée que si la partie ne peut pas se procurer la preuve elle-même** et **si elle justifie en quoi cette preuve est déterminante**.
 
-➔ Dans la pra5que, l’ar5cle 8 n’est pas très u5lisé dans l’absolu, excessivement,
+➔ **Cette demande se fait par voie d’ordonnance sur requête.**
 
-notamment parce que ce n’est pas le rôle du juge de chercher les faits, c’est aux
+##### **b) Mesure d’office**
 
-par5es de les exposer . Aussi, cela demande beaucoup de temps et les tribunaux sont
+Le juge peut ordonner une mesure d’instruction **même en l’absence de demande des parties** dans plusieurs cas :
 
-engorgés. L’ar5cle 8 est u5lisé avec parcimonie.
+- **Lorsque les preuves apportées par les parties manquent de cohérence**,
+- **Lorsqu’un élément essentiel fait défaut**,
+- **Lorsqu’une expertise est nécessaire**.
 
-2) Les preuves
+Dans ce cadre, le juge **ne fait pas le travail des parties**, mais il demande un **complément de preuve** afin de mieux comprendre le litige.
+#### **3) Le contrôle du droit par le juge**
 
-Si les par5es ont la charge de prouver les faits (ar5cle 9), les juges peuvent aussi jouer un
+L’article 12 du CPC dispose que :  
+_« Le juge peut d’office soulever des moyens de droit. »_
 
-rôle ac5f puisqu’ils peuvent prononcer toutes les mesures d’instruc5on, soit à la demande
+Puisque le juge peut utiliser **tous les faits** et même **ordonner des mesures d’instruction**, cela peut parfois **conduire à une modification du fondement juridique** du litige.
 
-d’une par5e, soit d’oﬃce.
+##### **Obligation ou faculté ?**
 
-Les mesures d’instruc/on sont des moyens probatoires à l’instruc5on des juges civiles.
+Si les parties ne soulèvent aucun fondement juridique, **le juge doit malgré tout trancher le litige conformément aux règles de droit applicables**.
 
-C’est la possibilité des faire des constats, demander des exper4ses, audi4onner des
+Le décret de 1998 impose au demandeur de préciser les **fondements juridiques** dans son argumentation. Cela permet au juge de refuser de rechercher un fondement juridique **si le demandeur ne l’a pas fait**.
 
-témoins, prendre les conseils d’un ami de la cour (amicus coriae).
+L’article 12 prévoit également que :  
+_« Le juge doit donner ou restituer leur exacte qualification aux faits ou actes litigieux, sans s’arrêter à la dénomination que les parties auraient proposée. »_
 
-• A la demande d’une par5e pourquoi ?
+Le juge a donc un **rôle de contrôle sur la qualification juridique des faits et des actes**.
 
-Parce que la capacité probatoire des par5es est limitée. Or l’ar5cle 9 dispose qu’il appar5ent
+##### **Exemples de requalification**
 
-aux par5es d’apporter les preuves et les préten5ons. Or, il faut les détenir ces preuves. Si la
+- **Vente ou donation déguisée ?**  
+    Pour des raisons fiscales, une vente peut être déguisée en donation. Le juge doit alors vérifier la véritable nature de l’acte.
+- **Contrat de travail ou mandat social ?**  
+    La distinction est essentielle car elle entraîne des conséquences en matière de protection sociale et de droit du travail.
 
-preuve nécessaire se trouve dans les mains d’un 5ers ou dans les mains de la par5e adverse,
+Dans certains cas, la seule question en litige est celle de **la qualification juridique d’un contrat**.
 
-il va être diﬃcile pour la par5e demanderesse de la preuve de l’obtenir.
+⚠ **Exception marginale** : pour les droits dont les parties disposent librement (ex. : contrat sui generis), le juge n’a pas à requalifier.
 
-D’où l’u5lité ici pour les par5es de saisir le juge afin qu’il exige comme mesure d’instruc5on
+**La jurisprudence sur la concentration des moyens**
+La question se pose de savoir **si une partie peut modifier ses fondements juridiques d’un procès à un autre**.
 
-la remise d’un document.
+Dans un arrêt **de l’==Assemblée plénière du 7 juillet 2006==**, la Cour de cassation a décidé que :  
+_« Les parties doivent présenter au sein d’une seule et même instance toutes les demandes conduisant aux mêmes fins. »_
 
-Cela se fait uniquement si la par5e elle-même ne peut pas se procurer la preuve. C’est avant
+Conséquence :  
+Si une demande n’a pas été soulevée en première instance, **elle ne pourra pas être introduite lors d’une nouvelle instance**. **L’objectif est d’éviter les procès à répétition.**
 
-tout aux par5es d’amener la preuve. C’est uniquement lorsque la par5e ne peut pas se
+Cette jurisprudence vise à **désengorger les tribunaux**, mais elle est critiquée, car elle **peut priver une partie de la possibilité d’invoquer un fondement juridique pertinent en appel**.
 
-procurer la preuve, et qu’elle a jus5fié en quoi ceae preuve était déterminante que le juge va
+##### **Deux interprétations divergentes**
 
-décider d’oﬃce une mesure d’instruc5on.
+1. **Chambre civile et chambre sociale** :
+    - **Interprétation stricte** → toutes les demandes doivent être présentées dès la première instance.
+2. **2e et 3e chambres civiles** :
+    - **Interprétation plus souple** → une nouvelle demande peut être intentée dans un autre procès si de **nouveaux fondements juridiques** sont invoqués.
 
-➔ Se fait par voie d’ordonnance de requête.
+Finalement, **en 2016**, la **2e chambre civile s’est alignée** sur la première interprétation et a retenu la concentration des moyens :  
+_« S’il incombe au demandeur de présenter dès l’instance relative à la première demande l’ensemble des moyens qu’il estime de nature à fonder celle-ci, il n’est pas tenu de présenter dans la même instance toutes les demandes fondées sur les mêmes faits. »_
 
-• Mesure d’oﬃce pourquoi ?
+Cela signifie qu’une partie doit **exposer tous les moyens** juridiques dès la première instance, mais **elle peut toujours formuler de nouvelles demandes ultérieurement**, tant qu’elles sont distinctes des premières.
 
-Lorsque les preuves apportées par les par5es manquent de logique, manquement d’un
-
-élément essen5el, ou nécessitent une exper5se, le juge peut demander d’oﬃce une mesure
-
-d’instruc5on. Nécessité de meilleure compréhension par la juge. Ici encore, il ne fait pas le
-
-travail des par5es d’apporter les preuves, il demande un complément de preuve pour
-
-comprendre d’avantage le li5ge.
-
-Ar5cle 12 du CPC : « Le juge peut d’oﬃce soulever des moyens de droits.
-
-Puisque le juge peut u5liser tous les faits et même décider de mesures d’instruc5ons, ceci
-
-peut conduire à une modifica4on du fondement juridique.
-
-La ques/on est de savoir si ce@e modifica/on du changement juridique est une obliga/on
-
-pour le juge ou une faculté ?
-
-Cela arrive lorsque l’objet du li4ge est décalé par rapport à la réalité.
-
-➔ Ex : un contrat passé entre un dealer et un acheteur. L’acheteur intente une instance
-
-contre le dealer pour non-respect du contrat. Or, il est totalement normal pour le juge
-
-de déclarer la nullité du contrat car il viole une règle d’ordre public. En fait, le juge
-
-peut recentrer l’aﬀaire sur le sujet principal, déterminent.
-
-Les juges du fond ont souligné que ce n’est qu’une simple faculté. Le prof pense que lorsque
-
-le moyen de droit envisagé est une règle d’ordre public, le juge devrait avoir pour obliga4on
-
-de relever la règle d’ordre public.
-
-Les juges doivent-ils chercher un fondement juridique lorsque les par/es n’en soulèvent
-
-aucun ?
-
-L’ar5cle 12 prévoit que le juge tranche le li5ge conformément aux règles de droit applicable.
-
-Or, si les par5es n’évoquent pas les fondements juridiques de leurs préten5ons, le juge doit
-
-tout de même trancher le li5ge conformément aux règles de droit applicable. Il doit donc
-
-aller chercher le fondement juridique per5nent.
-
-Le décret de 98 exige que le demandeur précise les fondements juridiques dans
-
-l’argumenta4on, ce qui permet au juge de refuser de soulever tout fondement juridique si
-
-celui-ci ne l’a pas fait.
-
-L’ar5cle 12 nous dit que le juge doit « donner ou res4tuer leur exacte qualifica4on aux faits
-
-ou actes li4gieux, sans s’arrêter à la dénomina4on que les par4es auraient proposée. »
-
-Le juge à un rôle de contrôle sur la qualifica/on juridique des faits et plus par/culièrement
-
-des actes. L’idée étant de pouvoir déterminer la bonne qualifica5on avant d’aborder les
-
-règles de droits applicables.
-
-En ma5ère contractuelle, ceae mission du juge prend tout son sens, notamment du fait de la
-
-mul5plicité des qualifica5ons des contrats.
-
-Pour des raisons fiscales, la vente peut être déguisées en dona5on. Donc le juge doit bien
-
-vérifier s’il s’agit d’un contrat de vente ou un contrat de dona5on.
-
-On retrouve aussi un concours de qualifica5on entre le contrat de travail et le mandat social.
-
-Le juge doit donc donner la bonne qualifica5on.
-
-D’ailleurs, il existe des conten4eux qui ne portent uniquement sur la qualifica4on d’un
-
-contrat.
-
-Ce travail de qualifica5on connaît une excep5on marginale, qui concerne les droits dont les
-
-par5es ont les libres disposi5ons (ex contrat sui generis).
-
-Une fois que le juge a qualifié les faits, au regard du droit, le juge doit trancher le li5ge
-
-conformément aux règles de droit qui lui sont applicables.
-
-Mais alors, quel est le rôle du juge lorsque les par4es n’ont pas présenté les règles de droit lui
-
-perme\ant de trancher le li4ge ?
-
-Aurait-il l’obliga5on de soulever la bonne règle de droit lorsque les par5es ne l’ont pas fait ?
-
-La Cour de Cassa/on, tout en disant que le juge avait comme simple faculté de soulever la
-
-règle de droit lorsque les par/es se trompent dans les qualifica/ons, elle a admis que dans
-
-ce cas ou aucune par/e n’a présenté les règles de droit lui perme@ant de trancher le li/ge,
-
-c’est au juge d’aller chercher le fondement juridique applicable.
-
-Face à certaines incohérences, une décision de l’Assemblée plénière du 7 juillet 2006 est
-
-venue parsemer le flou : elle explique que « les par4es doivent présenter au sein d’une seule
-
-et même instance toutes les demandes conduisant aux mêmes fins. »
-
-Cela fait que si toutes les demandes n’ont pas été données en une instance, on ne pourra pas
-
-les introduire lors d’une prochaine instance. Ceae JSP tend à limiter les instances. Ici, on
-
-souhaite éviter les procès à répé55on.
-
-➔ La France se fait condamner souvent par la CEDH au 5tre de l’ar5cle 6 : droit à un
-
-procès équitable dans un délai raisonnable.
-
-Toutes les réformes en ma5ère d’appel ont été faites pour rendre les procédures irrecevables
-
-et désengorger les tribunaux.
-
-À la première lecture de l’AP, on se rend compte que les demandes doivent toutes être
-
-rendues en première instance.
-
-▪ Mais, s’agit-il d’une concentra5on des moyens ou d’une concentra5on des
-
-demandes ?
-
-Si une par4e n’a pas soulevée le bon fondement juridique en première instance, il ne pourra
-
-pas relever les bons fondements juridiques en 2e instance.
-
-Avant ceae JSP, les par5es pouvaient corriger instances après instances les fondements
-
-juridiques invoqués. Ainsi, le juge pouvait juste répondre en 1ere instance qu’il n’était pas
-
-compétent.
-
-En 2006, le juge est obligé de requalifier les faits dès la 1ere instance.
-
-Contrat entre 2 membres de famille : un homme doit travailler pour son beau-frère dans des
-
-champs contre un salaire. Il n’est pas payé. Il saisit les prud’hommes et voit sa demande de
-
-paiement du contrat de travail rejeté, car les prudhommes es4ment qu’il y’a une proximité
-
-familiale, donc il ne s’agit pas d’un contrat de travail.
-
-Puis, il saisit le tribunal de commerce pour enrichissement injus5fié.
-
-Ceae aﬀaire amène à la jurisprudence de 2006.
-
-Suite à ceae décision de 2006, il y’a eu 2 interpréta5ons des chambres de la CC.
-
-- La «
-
-bonne interpréta4on
-
-», même si elle semble absurde : Chambre civile et
-
-chambre sociale : concentra5on de toutes les demandes
-
-- La 2e interpréta5on : 2 et 3 e Chambre civile : il n’est pas interdit d’intenter un
-
-nouveau procès avec une nouvelle demande. Il faut juste évoquer tous les
-
-fondements juridiques pour jus5fier la nouvelle demande.
-
-In fine, c’est la posi5on de la 2e chambre civile qui va l’emporter. Elle s’est rallié à la posi5on
-
-des autres chambres civile qu’est la concentra5on des moyens en 2016 : « S’il incombe au
-
-demandeur de présenter dès l’instance rela4ve à la première demande l’ensemble des
-
-moyens qu’il es4me de nature à fonder celle-ci, il n’est pas tenu de présenter pour la même
-
-instance toutes les demandes fondées sur les mêmes faits. »
-
-Cela ne répond pas à la ques5on de savoir quoi faire lorsque l’on n’a pas soulevé le moyen
-
-per5nent ?
-
-Un décret est venu préciser qu’il était à la charge des par5es de présenter les fondements
-
-juridiques au sou5ent de leurs demandes.
+Enfin, un **décret est venu préciser** qu’il appartient aux parties de **présenter les fondements juridiques au soutien de leurs demandes**, ce qui limite encore davantage l’intervention du juge pour rechercher la bonne règle de droit.

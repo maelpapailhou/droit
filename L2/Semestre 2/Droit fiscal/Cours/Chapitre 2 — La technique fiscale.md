@@ -73,8 +73,6 @@ Si le contribuable choisit la **réduction forfaitaire**, il n’a **aucune dém
 
 #### B) L’évaluation indiciaire
 
-### **Correction des fautes d’orthographe, de grammaire et de syntaxe :**
-
 La **méthode indiciaire** consiste à **évaluer la matière imposable à partir de certains signes ou indices extérieurs constatables**.
 
 Ces signes sont **présumés révéler l’ampleur de la matière imposable**. Pendant longtemps, ce mode d’évaluation a été privilégié. **Exemple historique** : au XIXᵉ siècle, un impôt reposait sur la **contribution sur les portes et fenêtres**.

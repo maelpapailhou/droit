@@ -147,7 +147,7 @@ Les actes sont considérés administratifs dans les cas suivants :
 
 ##### 1) Le parlement et les actes administratifs
 
-Lorsque le Parlement adopte une loi, il agit en tant qu’**autorité administrative**. Le Parlement est aussi une **administration au sens commun du terme** : *bâtiments, cantines, site internet, etc.*
+Lorsque le Parlement adopte une loi, il agit en tant qu’**autorité législative**. Le Parlement est aussi une **administration au sens commun du terme** : *bâtiments, cantines, site internet, etc.*
 
 Cependant, les organes parlementaires n’appartiennent pas à l’administration. Et pourtant, ils prennent des actes matériellement administratifs.
 
@@ -171,6 +171,8 @@ Cet arrêt précise que le régime de pension des anciens députés fait partie 
 - **Exception 2 : Marchés publics**
 
 L’arrêt de principe du **==Conseil d’État (Assemblée), 5 mars 1999, Président de l’Assemblée Nationale==** prévoit que les marchés publics revêtant le caractère de contrats administratifs passés par les assemblées parlementaires relèvent de la compétence du juge administratif.
+
+Le juge administratif peut donc connaître des recours contre les actes du Parlement ayant un caractère administratif.
 
 >[!Définition]
 >Les **marchés publics** sont des contrats administratifs conclus à titre onéreux avec des opérateurs économiques privés ou publics par l'Etat et ses établissements publics ainsi que par les collectivités territoriales et leurs établissements publics, en vue de la fourniture de travaux, de biens ou de services. Ils sont soumis à des règles précises de passation, en vue d'assurer l'égal accès à la commande publique de toutes les entreprises, l'égalité de leur traitement et la transparence des procédures.

@@ -4,24 +4,7 @@
 **Faits**
 Le propriétaire d'un cheval de course loue celui-ci à un entraîneur afin de lui permettre de participer à une course hippique. La société organisatrice de l'événement met à disposition un box pour accueillir l’animal. Cependant, dans ce box, le cheval meurt électrocuté après avoir mordu un fil électrique.
 
-**Procédure**
-Le propriétaire assigne contre la société organisatrice, son président et l'entraîneur, afin d'obtenir des dommages-intérêts en réparation de son préjudice.
-
-Dans un arrêt du 5 juillet 1956, la Cour d'appel de Bordeaux a répartit la responsabilité du président de la société à hauteur de 50 %, celle de la société organisatrice à 25 %, et celle de l’entraîneur à 25 %. Elle a toutefois refusé d’indemniser le propriétaire du cheval pour la perte du gain éventuel que l’animal aurait pu rapporter à l’avenir, mais lui a accordé une indemnisation au titre du préjudice moral causé par la mort de son cheval.
-
-Un pourvoi en cassation est alors formé.
-
-**Thèses en présence**
-Ils contestent l’indemnisation du préjudice moral accordée au propriétaire du cheval, soutenant qu’un tel préjudice ne peut exister que pour la perte d’un être humain et non d’un animal.
-
-Ils reprochent également à la Cour d’appel d’avoir admis un préjudice moral pour l’entraîneur du fait de la perte du cheval alors qu'aucune circonstance particulière ne le justifiait.
-
-Enfin, ils critiquent la condamnation solidaire des co-responsables, en affirmant que la solidarité ne peut être prononcée.
-
 **Problème de droit**
-- Un préjudice moral peut-il être indemnisé en cas de perte d’un animal sans toutefois démontrer son existence ?
-- La solidarité peut-elle être prononcée entre plusieurs responsables d’un même dommage sans qu'elle soit ne justifiée ?
-
 ***Correction : perte d'un cheval, un préjudice réparable?*** 
 
 **Solution**
@@ -55,20 +38,6 @@ Un homme ayant confié la défense de ses intérêts à un avocat dans un litige
 
 Estimant que cette négligence lui a fait perdre une chance d'obtenir gain de cause contre la banque, il assigne son avocat en responsabilité civile professionnelle et demande des dommages-intérêts.
 
-**Procédure**
-Par un arrêt du 4 juin 2015, la cour d'appel d'Aix-en-Provence condamne l'avocat à verser au client la somme de 10 000 euros à titre de dommages-intérêts pour la perte de chance subie.
-
-Estimant cette indemnisation insuffisante, le client forme un pourvoi en cassation pour contester le montant accordé. L'avocat, de son côté, conteste sa condamnation et forme également un pourvoi.
-
-**Thèses en présence**
-Le client reproche à la Cour d'appel d'avoir limité l’indemnisation à 10 000 euros sans motiver suffisamment cette décision. Il estime que la réparation d’une perte de chance doit être proportionnelle à la chance réellement perdue. Or, dans l'arrêt attaqué, la Cour d'appel ne précise ni l'avantage que cette chance aurait pu procurer ni le pourcentage de chance perdue, ce qui constituerait un défaut de motivation au sens de l’article 455 du Code de procédure civile.
-
-Il soutient également que le fait que la Cour de cassation ait censuré une décision précédente ne signifie pas nécessairement que la Cour d'appel de renvoi aurait rendu la même décision. Selon lui, cette dernière aurait pu prendre en compte d’autres faits pour apprécier différemment le caractère averti de l’emprunteur et ainsi aboutir à une décision plus favorable. En ne répondant pas à cet argument, la Cour d’appel aurait manqué à son obligation de répondre aux conclusions des parties en vertu du même article.
-
-L'avocat, quant à lui, reproche à l'arrêt de l’avoir condamné à verser des dommages-intérêts à son client. Il soutient que la Cour d’appel a indemnisé son client sans justifier en quoi la juridiction de renvoi aurait pu retenir la responsabilité de la banque. Il rappelle que la Cour de cassation avait déjà censuré deux décisions ayant retenu cette responsabilité et que les faits constatés excluaient toute faute de la banque. En statuant ainsi, la Cour d’appel aurait privé sa décision de base légale au regard de l’article 1147 du Code civil.
-
-Il affirme aussi que seule une perte de chance sérieuse peut donner lieu à indemnisation. Or, la Cour d’appel a reconnu que la chance perdue par son client était "même minime", ce qui ne suffirait pas à justifier une réparation. Il considère donc que la Cour d’appel a violé l’article 1147 du Code civil en accordant une indemnisation pour une perte de chance insuffisamment caractérisée.
-
 **Problème de droit**
 Les questions posées à la Cour de cassation étaient de savoir si la reconnaissance d’une perte de chance, même minime, suffit à justifier une indemnisation et si la Cour d’appel devait motiver davantage sa décision en quantifiant précisément la chance perdue et ses conséquences économiques.
 
@@ -93,9 +62,6 @@ Une femme a été victime d’un accident de la circulation. L'assurance a été
 
 La victime a demandé la réparation de la perte de ses rémunérations durant la période d’incapacité temporaire totale de travail et, pour justifier ses pertes de revenus, elle a produit des bulletins de salaire ainsi que des attestations indiquant qu’elle percevait également des rémunérations non déclarées.
 
-**Procédure**
-Dans un arrêt de la cour d'appel de Montpellier, rendu 29 avril 1999, les juges du fond déclarent recevables ces attestations, et condamentn l'assurance à indemniser la vicitme des pertes de revenus,n qu'ils soient déclarés ou non. La société d'assurance cobteste la prise en compte de ces revenus non-déclarés et forme un pourvoi en acassation.
-
 **Question de droit**
 Une victime peut-elle obtenir la réparation de la perte de revenus issus d’une activité non déclarée ?
 
@@ -114,11 +80,6 @@ Un employé a été victime d'un accident de travail lorsquu'ne machine s'est br
 Les proches de la victime ont assigné la société Bois du Dauphiné et ses assureurs en responsabilité et indemnisation pour leurs propres préjudices.Parmi leurs demandes figurait notamment le remboursement des **frais engagés pour adapter leur logement afin de pouvoir accueillir la victime**, devenu en fauteuil roulant.
 
 L’assureur de la société, qui couvrait la responsabilité civile professionnelle au moment de l'accident, conteste l’application de sa garantie.
-
-**Procédure**
-La cour d'appel de Grenoble, dans un arrêt du 14 juin 2016, a condamné la société et son assureur à indemniser les proches de la victime pour leurs frais d’adaptation de logement afin de rendre celui-ci accessible à la victime. Elle a reconnu que ces dépenses constituaient un préjudice économique des victimes par ricochet.
-
-L’assureur a formé un pourvoi en cassation, contestant notamment cette indemnisation au motif que ces dépenses relevaient uniquement du préjudice propre de la victime principale et non d'un préjudice subi par ses proches.
 
 **Question de droit**
 Les proches d'une victime peuvent-ils obtenir réparation des frais engagés pour adapter leur logement afin de pouvoir continuer à l'accueillir, ou ces dépenses relèvent-elles exclusivement du préjudice propre de la victime principale ?
@@ -155,10 +116,6 @@ La Cour de cassation, en Assemblée plénière, a cassé l'arrêt de la cour d'a
 > **Article 1er de la loi du 4 mars 2002**
 > *I. - Nul ne peut se prévaloir d'un préjudice du seul fait de sa naissance.*  
 > *La personne née avec un handicap dû à une faute médicale peut obtenir la réparation de son préjudice lorsque l'acte fautif a provoqué directement le handicap ou l'a aggravé, ou n'a pas permis de prendre les mesures susceptibles de l'atténuer.*  
-> *Lorsque la responsabilité d'un professionnel ou d'un établissement de santé est engagée vis-à-vis des parents d'un enfant né avec un handicap non décelé pendant la grossesse à la suite d'une faute caractérisée, les parents peuvent demander une indemnité au titre de leur seul préjudice. Ce préjudice ne saurait inclure les charges particulières découlant, tout au long de la vie de l'enfant, de ce handicap. La compensation de ce dernier relève de la solidarité nationale.*  
-> *Les dispositions du présent I sont applicables aux instances en cours, à l'exception de celles où il a été irrévocablement statué sur le principe de l'indemnisation.*  
-> *II. - Toute personne handicapée a droit, quelle que soit la cause de sa déficience, à la solidarité de l'ensemble de la collectivité nationale.*  
-> *III. - Le Conseil national consultatif des personnes handicapées est chargé, dans des conditions fixées par décret, d'évaluer la situation matérielle, financière et morale des personnes handicapées en France et des personnes handicapées de nationalité française établies hors de France prises en charge au titre de la solidarité nationale, et de présenter toutes les propositions jugées nécessaires au Parlement et au Gouvernement, visant à assurer, par une programmation pluriannuelle continue, la prise en charge de ces personnes.*
 
 ### Crim., 26 mars 2013, n° 12-82.600
 

@@ -28,14 +28,15 @@ Les **deux** **constantes** **de la responsabilité** civile, quel que soit le f
 
 **Distinction selon le fait générateur**
 Le régime de la responsabilité varie selon le fait générateur (fait personnel, fait d’autrui, ou fait des choses).  
+
 Cependant, le **point commun** entre ces trois formes de responsabilité est qu’il faut toujours prouver un **lien de causalité** entre le fait générateur et le dommage.
 
 **Tous les préjudices ne sont pas réparables.**
 
-## Section 1 : un préjudice réparable
+## Section 1 : Un préjudice réparable
 
 > **Article 1235 du projet de réforme**
-> Est réparable tout préjudice certain résultant d’un dommage et consistant en la lésion d’un intérêt licite, patrimonial ou extrapatrimonial.
+> *Est réparable tout préjudice certain résultant d’un dommage et consistant en la lésion d’un intérêt licite, patrimonial ou extrapatrimonial.*
 
 On distingue préjudice et dommage
 ### Paragraphe 1 : La distinction entre dommage et préjudice
@@ -46,6 +47,28 @@ Le **dommage** désigne l’atteinte constatée aux intérêts d’une personne.
 _Exemple : une atteinte à l’intégrité physique ou à un bien._
 
 Le **préjudice**, en revanche, correspond aux **conséquences de cette atteinte**.
+
+Dommage:
+**Texte corrigé :**
+
+>[!Définition]
+>**Dommage**
+>1° **Au sens large**, synonyme de préjudice.
+>Pour ouvrir droit à réparation, il doit être certain et direct. En matière contractuelle, il doit, de surcroît, être prévisible.
+>2° **Au sens strict**, toute atteinte certaine à un intérêt reconnu et protégé par le droit. Le dommage désigne alors le fait brut à l'origine de la lésion affectant la personne.
+
+En ce sens, il est distinct du préjudice, qui correspond à la conséquence de cette lésion. Ainsi, l'article L. 623-2 du Code de la consommation précise que l'action de groupe « ne peut porter que sur la réparation des préjudices patrimoniaux résultant des dommages matériels subis par les consommateurs ».
+
+#### **Types de dommages**
+- **Dommage corporel** : Dommage portant atteinte à l'intégrité physique d'une personne : blessure, mutilation, infirmité, invalidité. Quoique la personne humaine soit hors du commerce juridique, la jurisprudence admet en ce domaine la validité des clauses exonératoires de responsabilité.
+	→ _Clause de non-responsabilité._
+- **Dommage écologique** : Voir _Préjudice écologique, Préjudice environnemental._
+- **Dommage matériel** : Dommage subi par une personne dans son patrimoine, résultant le plus souvent d’une lésion portée à des biens corporels (incendie d’un immeuble, destruction d’un véhicule) ou, plus généralement, d’une lésion d’un intérêt à caractère économique.
+- **Dommage moral** : Dommage portant atteinte aux attributs extrapatrimoniaux de la personne (considération, honneur, réputation), à la personnalité morale (croyances, convictions, pudeur), aux sentiments ou à l'agrément de vie (mort d'un être cher, rupture de fiançailles, gêne sexuelle). Malgré son caractère immatériel, le dommage moral est réparable, quelles que soient sa consistance et sa gravité. Il peut être invoqué par une personne morale. 
+- Constitue un dommage propre l'**angoisse de mort imminente** ressentie par la victime directe.
+- **Dommage par ricochet** : Dommage matériel ou moral qu'éprouvent, par répercussion du dommage subi par la victime directe, les personnes qui lui sont proches par la parenté (enfant), l'alliance (conjoint), l'affection, la profession ou toute autre relation (concubin, employeur, associé). À ce titre, la jurisprudence reconnaît comme dommage distinct le préjudice d'attente et d'inquiétude subi par les proches d'une victime directe.
+
+
 
 **Exemple** :
 Un magasin est incendié volontairement ou involontairement.
@@ -121,7 +144,7 @@ Un **préjudice actuel** se caractérise par le fait que le dommage a **déjà p
 Un **préjudice futur**, quant à lui, désigne un dommage dont toutes les répercussions pour le demandeur ne se sont pas encore produites, mais qui est **certain** de se réaliser.
 
 **Consécration du préjudice futur**
-La **consécration juridique** du préjudice futur a été faite par la **1ère chambre des requêtes**, dans un **==arrêt du 1er juin 1932==** :
+La **consécration juridique** du préjudice futur a été faite par la ==**1ère chambre des requêtes**, dans un **arrêt du 1er juin 1932**== :
 
 > *S'il n'est pas possible d'allouer des dommages et réparations pour un préjudice purement éventuel, il en est autrement lorsque le préjudice, bien que futur, apparaît comme la prolongation certaine et directe d'un état de choses actuel.*
 
@@ -256,12 +279,11 @@ La **loi du 4 mars 2002**, relative aux droits des malades et à la qualité du 
 
 - **Solidarité nationale :**  
     Les **frais liés au handicap** tout au long de la vie de l’enfant relèvent de la **solidarité nationale**, et non de la responsabilité médicale.
-    
+
 
 **Questions soulevées**
 
 La loi a également soulevé des débats concernant :
-
 - **Sa rétroactivité**, notamment pour les affaires en cours.
 - Les décisions rendues par le **Conseil constitutionnel** et la **Cour européenne des droits de l’homme (CEDH)** sur cette question.
 
