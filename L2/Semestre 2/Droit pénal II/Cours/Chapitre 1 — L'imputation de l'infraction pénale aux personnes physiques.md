@@ -1,20 +1,108 @@
 ---
 
 ---
-ABSENT
+La désignation de la personne physique pénalement responsable se fait sur la base d’un **principe séculaire** : **le principe de responsabilité personnelle**. Ce principe guide naturellement le juge dans son **opération d’imputation** et s’applique **de manière simple** lorsque l’infraction est **le fait personnel d’un seul individu**.
 
-## Section 1 : La désignation de la personne physique responsable
+En revanche, lorsque l’infraction **implique plusieurs participants**, la situation se complique. Dès lors, le droit pénal a dû établir **des règles légales spécifiques** afin d’encadrer la **pluralité de participants** à une infraction.
 
 ## Section 1 : Le principe de la responsabilité pénale personnelle
 
----
+Ce principe est consacré par **l’==article 121-1 du Code pénal==**, qui dispose que ***"nul n’est responsable pénalement que de son propre fait*"**.
+
+Ce principe est qualifié de **moderne**, car il remonte à **la Révolution française**. Avant cette époque, tant que **la justice était privée**, la responsabilité pénale **revêtait un caractère collectif** et non **individuel et personnel**. En effet, ce n’était **pas la victime qui agissait contre la personne qui l’avait offensée**, mais **le groupe** (famille, clan, tribu) auquel appartenait la victime, qui agissait contre le **groupe de l’auteur** (_Touche un, touche tous_).
+
+La forme la plus archaïque de justice privée était **la vengeance privée**. À cette époque, **l’individu n’était rien en dehors de son groupe**.
+
+Par la suite, un **double phénomène** s’est produit :
+1. **La publication de la justice**
+2. **L’essor de l’individualisme juridique**
+
+Ces évolutions ont progressivement conduit à considérer la **responsabilité pénale comme individuelle et personnelle**. Dès lors, le procès pénal a opposé **l’auteur des faits à la société**, représentée par **le ministère public**.
+
+La **Révolution française** a confirmé cette évolution, mais **ne l’a pas inscrite dans un texte**.
+
+Le **Code pénal de 1810** n’a pas non plus consacré **expressément** ce principe. Il a longtemps semblé **évident**, au point de **ne pas nécessiter de formulation écrite**.
+
+Pourtant, **la jurisprudence en a rapidement reconnu l’existence**. L’arrêt du **3 mars 1859** illustre ce principe, en affirmant que **"nul n’est responsable pénalement qu’en raison de son fait personnel"**.
+
+Il faudra cependant attendre **le Code pénal de 1994** pour voir apparaître **une consécration textuelle explicite** du principe à **l’==article 121-1**,== qui constitue **le premier article consacré aux questions de responsabilité pénale**.
+
+La signification exacte de ce principe est **assez simple** : **seule peut être déclarée pénalement responsable d’une infraction la personne qui l’a personnellement commise, c’est-à-dire son auteur**.
+
+Une question demeure toutefois : **comment définir l’auteur d’une infraction ?**
+
+Enfin, il convient de noter que **le principe de responsabilité pénale personnelle ne doit pas être confondu avec le principe de la personnalité des peines**, qui repose sur des considérations distinctes.
+
 
 ### Paragraphe 1 :  La définition de l'auteur de l'infraction
 
+La **réforme de 1994** ne s’est pas contentée d’affirmer le **caractère personnel de la responsabilité pénale**. Le **Code pénal** a également donné **une définition précise de l’auteur de l’infraction**. Celle-ci est formulée à **l’article 121-4**, qui dispose :
 
-- dabord prendre en def auteur de infraction : code pénal certians indices/elements ; 2 distinction : l'auteur matériel et auteur intellectuel
+> **"Est auteur de l’infraction celui qui a consommé l’infraction, c’est-à-dire celui qui commet les éléments constitutifs de l’infraction, ou celui qui a tenté de la commettre."**
 
-##### 1) L'auteur direct et indirect d'une infraction non-intentionnelle
+L’examen des **différents textes incriminateurs** permet de constater que **la notion d’auteur revêt une réalité plurielle**. En effet, selon les infractions concernées, **les textes n’adoptent pas toujours la même conception de l’auteur**.
+
+La doctrine a tenté de **systématiser** cette diversité et, parfois, d’**extrapoler** certaines distinctions. Deux principales oppositions sont classiquement retenues :
+
+1. **La distinction entre l’auteur matériel et l’auteur intellectuel**, qui concerne principalement **les infractions intentionnelles**.
+2. **La distinction entre l’auteur direct et l’auteur indirect**, qui s’applique essentiellement **aux infractions non intentionnelles**.
+
+Ces distinctions permettent d’affiner **l’imputation de la responsabilité pénale** en fonction du rôle joué par chaque individu dans la commission de l’infraction.
+
+#### A) L'auteur matériel et l'auteur intellectuel
+
+L'auteur matériel et l'auteur intellectuel
+
+Cela concerne les infractions intentionnelles. Le Code pénal incrimine, pour une personne qu’on appelle alors doctrinalement parlant « auteur intellectuel » ou « auteur moral », le fait de faire commettre le ou les éléments matériels de l’infraction par une autre personne.
+
+L’auteur intellectuel n’agit pas lui-même, il recourt au service d’un tiers. Ce tiers pourra être tantôt un auteur matériel, tantôt un complice.
+
+Il peut parfaitement exister un auteur intellectuel sans auteur matériel.
+
+Exemple le plus évident de cette qualification : l’**==article 211-1 du Code pénal==**, qui est consacré à un type de crime contre l’humanité, le génocide.
+
+> **article 211-1 du Code pénal**
+> *Constitue un génocide le fait, en exécution d'un plan concerté tendant à la destruction totale ou partielle d'un groupe national, ethnique, racial ou religieux, ou d'un groupe déterminé à partir de tout autre critère arbitraire, de commettre ou de faire commettre, à l'encontre de membres de ce groupe, l'un des actes suivants :* *atteinte volontaire à la vie ; – atteinte grave à l'intégrité physique ou psychique ; – soumission à des conditions d'existence de nature à entraîner la destruction totale ou partielle du groupe ; – mesures visant à entraver les naissances ; – transfert forcé d'enfants.*
+> *Le génocide est puni de la réclusion criminelle à perpétuité.*
+
+Ce texte présente la particularité d’incriminer, au titre d’auteur, tant l’auteur matériel que l’auteur intellectuel.
+
+Comment appréhender celui qui exécute matériellement les faits ?
+
+**Trois hypothèses à envisager :**
+1. L’auteur matériel effectue les actes en ayant conscience et volonté de les faire. Dans ce cas, il s’agit bien d’un auteur à part entière. (Dol complet : conscience et volonté de commettre l’infraction.)
+2. Celui qui exécute matériellement n’a pas véritablement l’intention de commettre l’infraction, mais a seulement la conscience et la volonté de participer à l’infraction projetée par autrui. Dans ce cas, celui qui exécute matériellement doit être appréhendé sous l’angle de la complicité, par aide ou assistance (article 121-6, alinéa 1).
+3. Celui qui exécute matériellement n’a pas la conscience de s’associer au projet criminel d’un tiers. Dans ce cas, il est exonéré de toute responsabilité.
+
+**Exemple** : j’aide une personne à porter sa valise sans savoir que cette personne est un voleur et que je l’aide à transporter son butin.
+
+L’auteur matériel doit bien avoir une intention pour être catégorisé comme auteur.
+
+**Comment appréhender pénalement celui qui conçoit le projet criminel, communément appelé « le cerveau » ?**
+
+Classiquement, le cerveau (instigateur) doit être appréhendé via la complicité : **==article 121-6, alinéa 2==** : « *Est complice la personne qui, par don, promesse, menace, ordre, abus d’autorité ou de pouvoir, aura provoqué à une infraction ou donné des instructions pour la commettre.* »
+
+On vise ici la ***complicité par provocation ou instruction***, appelée dans son ensemble la **complicité par instigation**. En clair, le cerveau est avant tout considéré, en droit français, comme le complice des actes accomplis par l’auteur matériel.
+
+Très critiquable, car c’est le cerveau qui fait commettre à l’auteur matériel l’infraction. Il est à l’origine du plan. (Ma propre critique.)
+
+**Pourquoi le législateur français prévoit-il, dans certains cas particuliers tels que le génocide, d’ériger les cerveaux en auteurs à part entière ?**
+
+1. Il s’agit de stigmatiser la criminalité particulière de l’auteur intellectuel. Il peut paraître compliqué d’envisager le cerveau comme un simple complice. C’est lui la tête pensante. La vérité est qu’en droit français, la complicité est placée au rang des criminalités différentes.
+
+2. Il s’agit également parfois de prévoir une répression propre, accrue, pour le cerveau. Si le cerveau est réprimé via la théorie de la complicité (principe en droit français), la peine encourue par le complice en droit français est la même que celle encourue si l’on est auteur principal. Parfois, elle semble insuffisante. Faire de l’instigateur un auteur intellectuel à part entière permet, le cas échéant, de prévoir une répression accentuée.
+
+**Exemple** : le cerveau qui organise le trafic de stupéfiants est l’auteur intellectuel. Il est puni plus sévèrement (« réclusion criminelle à perpétuité »), là où les auteurs matériels sont passibles, selon le degré de circonstances aggravantes, d’un « emprisonnement » ou d’une « réclusion criminelle » pour une durée précisée par le texte.
+
+3. Le détour par la théorie de la complicité exige la satisfaction des conditions de punissabilité de la complicité. Or, dans ces conditions, on trouve notamment l’exigence d’un fait principal punissable. Si l’auteur des faits ne passe pas à l’acte, je ne suis pas complice de ses faits.
+
+Souvent, ce fait principal punissable fait défaut : dans ce cas, ériger l’instigateur au rang d’auteur permet de se détacher des conditions de la complicité.
+
+En somme, les expressions « auteur matériel » et « auteur intellectuel » sont à accueillir avec précaution. Il ne faut pas imaginer que l’auteur matériel n’a pas d’intention, car cela n’est pas vrai.
+
+On peut regretter que le législateur ait choisi de créer ponctuellement des textes qui reconnaissent l’auteur intellectuel d’une infraction. Il aurait sans doute été plus intéressant d’envisager d’incriminer de manière générale les instigateurs en droit pénal. Le principe de légalité oblige que l’auteur intellectuel existe lorsque le Code pénal le vise expressément.
+
+##### 1) L'auteur direct et indirect
 
 La distinction actuelle résulte de la ==**loi du 10 juillet 2000**==, qui a réformé les infractions d’imprudence.
 
@@ -519,7 +607,6 @@ Faut-il considérer comme gênant le fait que **la complicité par aide ou assis
 En réalité, le législateur **tend parfois à incriminer différemment** ces situations. Il adopte **une approche large des contraventions de violences**, ce qui permet d’étendre la répression.
 
 De plus, les juges ont tendance, dans ces hypothèses, **à requalifier celui qui aide en auteur** plutôt qu’en simple complice.
-###### 2) Une participation au fait principal punissable selon l’un des modes prévus par l’article 121-7 Cpén. - l’« élément matériel » de la complicité
 
 Il s’agit d’une **condition nécessaire**. En réalité, on distingue **deux hypothèses** de fait principal punissable :
 - **Il est punissable lorsqu’il est consommé.**
@@ -615,7 +702,7 @@ Les médecins ont échappé à toute condamnation car **l’élément moral fais
 **Conséquence** :
 > **Pas de fait principal punissable = pas de complicité punissable.**
 
-##### b) Une participation au fait principal punissable selon l’un des modes prévus par l’article 121-7 Cpén. - l’« élément matériel » de la complicité
+##### 2) Une participation au fait principal punissable selon l’un des modes prévus par l’article 121-7 Cpén. - l’« élément matériel » de la complicité
 
 C’est ce que la doctrine appelle l’**élément matériel de la complicité**.
 
@@ -768,80 +855,82 @@ Il faut donc **une directive claire et précise**.
 
 La jurisprudence est encore plus souple : **il n’est pas nécessaire que l’instruction ait effectivement servi à la commission de l’infraction**.
 
-##### 3 ) L'élément moral de la complicité : Une participation intentionnelle au fait principal punissable - l’« élément moral » de la complicité
+##### 3) L'élément moral de la complicité : Une participation intentionnelle au fait principal punissable - l’« élément moral » de la complicité
 
-pour que la complicité soitpunissable, il faut que le complice ait l'intention de participer à l'infraciton principale aumoment où il a agit. l'intention recouvre aussi la conscience et volonté de s'associer à l'infraciton principale. 
+Pour que la complicité soit punissable, il faut que le complice ait l'intention de participer à l'infraction principale au moment où il agit. L'intention recouvre aussi la conscience et la volonté de s'associer à l'infraction principale.
 
-ça conduit à souligner que si une personne s'associe à une infrcaction sans en avoir conscience, elle ne petu pas en etre complice. C hypothèse classique du conceirge qui donne des renseignements.
+Cela conduit à souligner que si une personne s'associe à une infraction sans en avoir conscience, elle ne peut pas en être complice. C'est l'hypothèse classique du concierge qui donne des renseignements sans savoir qu'il aide un criminel.
 
-dès lors, 2 difficulé d'application du principe ont pu émerger en pratique. 
+Dès lors, deux difficultés d'application du principe ont pu émerger en pratique.
 
-1ere question : existe-il une complicité d'infraction non intnetionelle? peut on se rendre comlice d'une infraction non intentionelle?
+**1re question : Existe-t-il une complicité d'infraction non intentionnelle ? Peut-on se rendre complice d'une infraction non intentionnelle ?**
 
-a priori,  on ne devraitpas pouvoir se rendre complice du'ne infraction non intenrionele. 
-La compiité exige l'intention de s'associer à une infraction principale. Comment avoir l'intention de s'associer à une infraction principale qui n'est pas voulue?
+A priori, on ne devrait pas pouvoir se rendre complice d'une infraction non intentionnelle. La complicité exige l'intention de s'associer à une infraction principale. Comment avoir l'intention de s'associer à une infraction qui n'est pas voulue ?
 
-en premier electure, les notions de complicité et d'infraction non intentionelles semblent s'exclure. 
+À première lecture, les notions de complicité et d'infraction non intentionnelle semblent s'exclure.
 
-en matiere d'infraction non intentionelle, eil convient de distinguerle résultat qui n'est pas voulu, e l'acte du comportemetn qui lui a. été voulu.
-idée est que pour pouvoir reprimer la complicité di'nfraction non intentionnele, il suffit de considérer que l'intention du complice n'a pas porté sur le résultat de l'infraciton principale, mais simplement sur l'acte. 
+En matière d'infraction non intentionnelle, il convient de distinguer le résultat, qui n'est pas voulu, de l'acte ou du comportement, qui lui, a été voulu. L'idée est que, pour pouvoir réprimer la complicité d'infraction non intentionnelle, il suffit de considérer que l'intention du complice ne porte pas sur le résultat de l'infraction principale, mais simplement sur l'acte.
 
-c'est en ce sens qu'a tranché la cour de cassaiton ch criminelle 30 septebrme 2016, on a condamné une assisstante médicale. comme auteur de violence non intentionelle, et le médecin a pu etre considéré comme complic edes violenes non intentionelles de son sassistance.
+C'est en ce sens qu'a tranché la Cour de cassation, chambre criminelle, le 30 septembre 2016. Une assistante médicale a été condamnée comme auteur de violences non intentionnelles, et le médecin a pu être considéré comme complice des violences non intentionnelles de son assistante.
 
+**2e question : Que se passe-t-il lorsqu'il existe une discordance entre l'intention de l'instigateur (le complice) et celle de l'auteur principal ?**
 
-2eme question : que se passe il lorsqu'uil exise une discordance entre l'intention de l'instigateur (le complice), et de l'auteur principal? 
+Lorsque l'auteur principal accomplit l'infraction que l'instigateur a voulu ou envisagé, il y a alors concordance totale, concordance parfaite entre l'intention de l'instigateur et le fait commis par l'auteur principal.
 
-lorsque auteur principal accompli l'infraciton que l'instigatuer a voulu ou envisagé, il y a alors concordance totale, concordance parfaite entre intention de instigateur et le fait commis par l'auteur principal.
+Dans ce cas, l'élément moral est vérifié, l'élément moral est constitutif.
 
-dans ce cas, l'élément moral est vériifé, l'élément moral est constitutif. 
+La réalité est cependant beaucoup plus complexe. En jurisprudence, quatre situations, quatre hypothèses peuvent se présenter :
 
-la réalité est bcp plus complexe, en jurisprudence 4 situations, 4 hypotheses peuvent se présenter.
+1. **Le fait accompli par l'auteur principal est moins grave que celui qui était projeté par l'instigateur.**
+    
+    L'adage « qui peut le plus peut le moins » s'applique. En clair, si l'intention de l'instigateur a porté sur une infraction plus grave que celle qui est effectivement commise, on considère qu'elle englobe l'infraction commise. L'élément moral de la complicité va être considéré comme constitué. Par conséquent, l'instigateur va être déclaré complice de l'infraction réalisée.
+    
+    Cette règle ne vaut cependant que si la différence entre l'infraction effectivement commise et celle souhaitée est une différence de gravité et non une différence radicale de nature.
+    
+    Exemple : L'instigateur recrute un tueur à gages pour assassiner une personne. L'infraction projetée est un crime contre une personne. Finalement, le tueur ne commet que le délit de blessures volontaires. C'est encore une atteinte aux personnes.
+    
+    On va considérer que l'instigateur est bien complice du délit de blessures volontaires, mais pas complice d'un crime d'assassinat qui n'a pas eu lieu.
+    
+    Ce n'est pas parfaitement satisfaisant au vu de la dangerosité de l'instigateur.
+    
+    Le système français repose sur un emprunt de criminalité, et l'instigateur n'est pas une catégorie autonome.
+    
+    Si la discordance est totale, la complicité ne sera pas punissable.
+    
+    Exemple : si le tueur à gages se sert de l'arme confiée par l'instigateur en vue de réaliser un assassinat pour commettre une extorsion de fonds, il n'y aura pas ici de possibilité de répression de la complicité.
+    
+2. **Le fait accompli par l'auteur principal est finalement plus grave que celui qui était projeté par l'instigateur.**
+    
+    Ici, on retrouve la distinction entre discordance totale et discordance partielle.
+    
+    - Si la discordance est totale (discordance de but), il n'y aura pas de répression possible de la complicité.
+        
+        Exemple : L'affaire criminelle du 13 janvier 1955, dite affaire Nicolaï. Un créancier, impatient de se faire rembourser, recrute un homme de main pour intimider son débiteur. Il lui confie deux pistolets pour lui faire peur. Le lendemain, l'homme de main ne trouve pas le débiteur mais se dispute violemment avec un concierge qu'il abat avec l'une des armes confiées.
+        
+        L'homme de main a été déclaré coupable d'assassinat. Le créancier, poursuivi pour complicité d'assassinat, a été mis hors de cause.
+        
+        La Cour de cassation n'a pas précisé si la discordance totale était liée au changement de victime ou au fait d'avoir donné la mort alors qu'on voulait seulement intimider.
+        
+    - Si la discordance est partielle (discordance de moyens), le complice devra assumer la responsabilité de l'infraction qui aura été effectivement commise.
+        
+        Exemple : Une personne recrute un homme de main pour cambrioler X. L'homme de main, de sa propre initiative, se munit d'une arme. Le vol est donc aggravé par la circonstance de port d'arme. C'est plus grave, mais l'instigateur est complice du vol aggravé.
+        
+3. **L'infraction envisagée par le complice est en fait indéterminée.**
+    
+    Exemple : Une personne offensée recrute un homme de main avec pour seule instruction « vengez-moi ».
+    
+    La Cour de cassation considère que l'instigateur peut être déclaré complice quelle que soit l'infraction commise par l'auteur principal.
+    
+4. **La victime n'est pas celle que l'instigateur avait désignée à l'auteur principal.**
+    
+    Tout dépend du changement de victime.
+    
+    - Si le changement est lié à une erreur de l'auteur principal, doctrine divisée : soit complicité de tentative d'assassinat sur la victime initiale, soit complicité d'assassinat sur la victime effective.
+        
+    - Si le changement résulte d'un choix délibéré du tueur à gages, alors pas de complicité possible.
+        
 
-1ère hypothèse : lef ait accompli par l'auteur pricnipal est moins grave que celui qui était projeté par l'instigateur. "qui peut el plsu peut lemoins". Adage. En clair, si l'intetojn de l'instigateur a porté sur une infraction plus grave que celle qui es teffecivemetn commise, on considere qu'elle englobé l'infraction commise.  l'élément moral de la complicité va être consiodéré comme constitué. en csq l'instigatuer va etre déclaré complice de l'infraction qui a été réalisé.
-
-cette regle ne vaut cependant que si entre l'infraction effecitvement commise et celle qui était souhaité; il n'y a qu'une différence de gravité, et non pas par une différence radicale de nature. 
-
-on dit que la discordance doit être partielle. exemple l'instigateur recrute un tueur a gage, qu'il charge d'assassiner une personne. On a ici une infraction contre une persone. Finalemetn, le tueur a gage ne commet que le delit de blessure volontiare. c'est encore une atteinte aux personnes. 
-
-on va considere que l'instigaute est bien complice du délit de blessure volontaire, et pas complice 'd'un crime d'assasinat qu'i n'a pas eu lieu. 
-
-c pas aprfaitemetn saitsfaiant au vu de a dangerosité de l'instigateur.
-
-car systeme francais repose sur emprunt de crimnaité, et instigateur pas une catégorie autonome.
-
-si one st sur une discordance totale, dans ce cas la complicité ne sera pas punsisable . exemple : si le tueur a gage se sert de l'arme qui lui a été confié par l'instigateuren vu de réaliser un assasinat pour commettre une extorsion de fond. il n'y aura pas ici de possibiltié de repression de la complicité. 
-
-hypothèse 2 : le fita ccompli par auteur principal est finaement plus grave que celui qui était projeté par l'insitgauter. ici on va retrouver la distinction entre discordance totale et discordance partielle.
-
-discordance totale (discordance de but) ce qui se réalise est plsu grave que ce que l'auteur a envisagé. il n'y aura pas de repression possible de la complicité. 
-
-affaire celebre: arret chalbre criminel 13 javier 1955, affaire connue sur le nom affaire Nicolaï. Un créancier ne parvient pas à se farie rembourser par son debiteur. Il s'impatiente et fini par recruter un homme de main qu'il charge de "secouer" son débiteur. A cet effet, il lui confie 2 pistolets pour intimider ce dernier pour qui'l rembourse. infraction projetée par l'instigateur est l'extorsion de fond (car sous la contrainte). 
-
-lendemain, en se rendant chez le débiteur il le trouve pas. mais il tombe sur le mari harnieux de la concierge avec lequel il se dispute violemetn et il l'abat avec l'une des armes qui a été confié par le cerveau de l'instigateur. 
-
-l'homme de main a été déclaré coupable d'assasinat. (discutable car ca implique que prémédité, donc peut etre meurtre).
-
-le créancier (insitgauteur) poursuivipour complicité d'asasinat mais msi hors d ecause.
-
-cour de cassation pas tres précise, quesiton de saovir si ladiscordance toatle est elle liée au changement de victime ou liée au fait d'avoir donné la mort alors qu'on voulati seuleetn intmider. 
-
-si discordance partielle (discordance de moyen) le complice devra assumer la responsabiltié de l'infraction qui aura été effectivemet commise. 
-
-exemples : 
-1. une personne va recruter un homme de main mais l'infraction va etre commise avec des corcpnstances aggravantes réelles qui n'avaient pas été prévues par le complice. Exemple : on recrute une eprsonne pour cambrioler X.  l'homme de mainva de s a propre initiative s e munie d'un fusil. Le vol est donc aggravé par une circonstnace aggravante réelle, il est effectué avec arem. C plus grave, mais l'instigatuer est complice d'un vol aggravé. Pareil pour ruénion si au denrier moment il fait avec un am. 
-2. le résltat atteint est plsu grave : on demadne de blesser légereent, et la eprsonne a une ITT plus grave. dans ce cas là l'insitgatue resr complice des violences volontaires finalement commise. . 
-
-Parfois instigatuer envisage un mode d'execution, et l'infraction est finalemetn accomplie sous un autre mode. le complice sera parfaitement punisasble. ex arret ch criminelle 31 janvier 1974, une personne envisage de faire supprimer le concubain de sa soeur. il se met daccord avec l'amant de sa soeur pour liquider le concubain officilel, à qui il donne toues les intructions necessaires pour executer le crime. le scenario envisager : strangulation dans la voiture de la victime. ce scnéario ne fonctionne pas, et qq jour splus tard, laors que le frere n' ap plus donné de nouvelles, l'amant passe a l'acte, en imaginantun autre mode d'execution, la mort par electrocution. et ça fonctionne. 
-
-le frere e la soeur sera egalement poursuvi pour complicit d'assasinat, meme s'il n'a jamais songé à l'électorcution.
-
-hypothèse 3 : infraction qui a été envisagée par le complice est en fait indéterminée. il a rien envisagé de tres précis. exemple : une personne offensée recrute un homme de main avec comme seules instruction "vangezmoi". on va etre péjalement resppnsable et cmplice de imagination de la personne qu'on a recruté.
-
-la cour de cassation considere que l'insitgatuer peut être déclaré complice quelque soit l'infraciton commise par l'auteur principal.
-
-hypothèse 4 : la victime n'est pas celle que l'instigateur avait désigné à l'auteur principal. Tout dépend du chagemetn de vicitme. Si cangemetn erreur est liée à une erreur de l'auteur pirncipal, il pensait tue rla personne indiquée mais en tue une uatre. doctrine divisée : on peut imaigner que soit complice de tentative d'assasinat sur la personne qu'il souhaiter assasisiner. Soit considere quie bien cilplicité d'assasinat de la personne qui a finalemetn été tuée. 
-
-maix si victime pas cellee qsui a été choisie par investigaute rn raison d'un choix délibéré du tueur a gage, alors pas de complicité de tentative d'assasinat possible. 
+Ainsi, l'élément moral de la complicité est une notion complexe qui repose sur une analyse fine de l'intention et de la réalisation effective des faits.
 
 #### B) La répression de la complicité
 

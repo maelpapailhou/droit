@@ -9,7 +9,7 @@ Pendant cette période, l'Europe connaît également son **premier élargissemen
 
 Après cette période de relance, un **second élargissement** a lieu en 1981 avec l'entrée de la **Grèce**, formant ainsi l'**Europe des 10**. Puis, un **troisième élargissement** intervient en 1986 avec l'adhésion de l'**Espagne** et du **Portugal**, portant l'Europe à **12 membres**.
 
-Pendant ce temps, Jacques Delors, nouveau président de la Commission européenne, propose d'achever le marché unique pour donner un nouvel élan à la construction communautaire. Pour cela, l'**Acte unique européen** est signé les **17 et 28 février 1986** (dans deux lieux : **Luxembourg** et **La Haye**) et entre en vigueur le **1er juillet 1987**.
+Pendant ce temps, Jacques Delors, nouveau président de la Commission européenne, propose d'achever le marché unique pour donner un nouvel élan à la construction communautaire. Pour cela, l'**==Acte unique européen==** est signé les **17 et 28 février 1986** (dans deux lieux : **Luxembourg** et **La Haye**) et entre en vigueur le **1er juillet 1987**.
 
 Il constitue la première **révision importante** des traités originaires, fondateurs des Communautés européennes, que l'on appelle aussi **traités constitutifs**. Cet acte vise à consolider la construction européenne, qui sera renforcée par la création de l'Union européenne et les traités ultérieurs.
 
