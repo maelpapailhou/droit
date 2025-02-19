@@ -526,3 +526,5 @@ si le préposé a commis un dommage par sa faute, on engage la reponsabiltié du
 la reposanbilié du faut des comettant ne repose que sur la faute d ela part du préposé, si dommage est causé par une chose, c sur le fondement de alinéa 1er qu'on va pouvoir agir. faudra idnetiifier qui est leg ariden d el achose.
 
 
+
+

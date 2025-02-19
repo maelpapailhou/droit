@@ -190,153 +190,213 @@ Cette solution peut être **saluée**, car elle respecte **la stabilité des sit
 
 ##### 1) Un contrat entre deux personnes publiques
 
-TC 21 mars 1983 , UAP propose ce qui était une solution : les contrats entre 2 personnes publiques sont présumés administratifs, parce qu'on estime qu'ils sont à rencontre de deux gestiosnpubliques". 
+Le **==Tribunal des conflits, dans sa décision du 21 mars 1983==** (_Union des assurances de Paris - UAP_), a posé une solution : les contrats conclus entre deux personnes publiques sont présumés administratifs, car on considère qu'ils concernent la gestion de deux services publics.
 
-Daniel LAbetouille, membre du CE qui utilise cette expresison.
+Daniel Labetoulle, membre du Conseil d'État, a utilisé cette expression.
 
-cette préosmption était poursimplifier les choses. MAis cette présomption est simple, réfragalbe, et peut etre renversée des lorsq eu le contrat eu égard à son objet fait naitre des rapports de droit privés.
+Cette présomption visait à simplifier les choses. Mais elle est simple, réfragable et peut être renversée dès lors que le contrat, eu égard à son objet, fait naître des rapports de droit privé.
 
-CAA Bordeux, 1994, contrat encotre commuen d'ardin et edf (personen publique à l'épuqe), c'était un contrat de doritprivé car contrat de fourniture d'leectircité, pas de clause exhobirtante alros meme que conclu entre 2 perosnens publiques. Donc jurispridnece UAP un peu decevante, pas eu la descendance qu'on ui aviat imaginé.
+La Cour **==administrative d'appel de Bordeaux, en 1994==**, a jugé que le contrat entre la commune d'Ardin et EDF (qui était une personne publique à l'époque) était un contrat de droit privé. En effet, il s'agissait d'un contrat de fourniture d'électricité, sans clause exorbitante, bien qu'il ait été conclu entre deux personnes publiques. Ainsi, la jurisprudence _UAP_ s'est révélée quelque peu décevante et n'a pas eu la postérité que l'on imaginait.
 
 ##### 2) Un contrat entre deux personnes privées
 
-en principe les contrats consus entre 2 personne sprivés sont pas admonistratifs. TC 26 mars 1989 AFPA. 
+En principe, les contrats conclus entre deux personnes privées ne sont pas administratifs (**==TC, 26 mars 1989, AFPA==**).
 
-que se passe til lorsque une personne privée obitent un mandat explicite de la part d'une persone publique? le contrat de mandat est un contrat par lequelune perosnne agit a la place de l'autre.
+Que se passe-t-il lorsqu’une personne privée obtient un mandat explicite de la part d’une personne publique ? Le contrat de mandat est un contrat par lequel une personne agit à la place d'une autre.
 
-Alors on considere que le critère organique est rempli. Donc le contrat est administratif, parce que derreire la perosnne privée y'a une perosnne publiqie. (Arret CE 1936, Prades.)
+Dans ce cas, on considère que le critère organique est rempli. Le contrat est donc administratif, car derrière la personne privée, il y a une personne publique (**==CE, 1936, Prades==**).
 
+Ensuite, la question s'est posée pour les mandats implicites. On a alors admis la théorie du mandat implicite dans un arrêt ==**CE, 30 mai 1975, Société d’équipement de la région montpelliéraine==**.
 
+Une décision du **==Tribunal des conflits du 24 juin 1975, Commune d’Agde==**, a confirmé cette approche : les juridictions ont admis la théorie du mandat implicite.
 
-puis la question c'est posé pour les mandats implicites, et on a admis la théorie du mandat implice dans un arret CE 30 mai 1975, Socité d'équipemetn de la région de la région montpelliéraine.
+Un exemple récent illustre cette théorie : ==**CAA Bordeaux, 4 avril 2022, Société Eiffage Génie Civil (n°19BX04834)==**.  
+Dans cette affaire, les indices d’un mandat ont été recherchés dans les stipulations d’un cahier des charges d’une convention d’aménagement conclue entre une commune et une société d’économie mixte.
 
-une décision TC 1975 Commune d'Agde : les jurdictions ont admis la théorie du mandat implicite.
+Par ailleurs, la théorie de la **transparence** a également permis de considérer le critère organique comme rempli. Dans ce cas, l’une des personnes privées parties au contrat est dite "transparente" car, derrière elle, se trouve une personne publique (**==CE, 21 mars 2007, Boulogne-Billancourt==**).
 
-Exemple recent : arret CAA Bordeaux, 4 avril 2022, Société Eiffage Genie civil (n 19BX04834).
+Dans le cas des **associations transparentes** (aussi appelées "faux-nez"), plusieurs critères permettent de les identifier :
+- la présence d’élus dans leurs instances dirigeantes,
+- un financement majoritairement assuré par des subventions publiques,
+- un contrôle exercé par la commune sur la réalisation des objectifs.
 
-on a été cherché les indivde d'un mandat dans les stipulations sd'un cahier des charges d'uen convention d'améngament entre uen commune et une société d'economei mixte.
+Le juge et la doctrine estiment que ces associations sont en réalité des démembrements fictifs des communes. Cela est particulièrement fréquent dans le domaine culturel : lorsqu’une commune ne peut pas gérer directement une activité en régie, elle s’appuie sur une association, mais celle-ci est en réalité très fortement contrôlée par la personne publique.
 
-apres on a admis la théorie de la transparance a aussi considéré le cirtere organique comme remplis. l'une des personne privée partie au contart est transparante au sens que derriere elle y'a la personne publique. 
+La théorie de la transparence a pour objectif de sanctionner les communes afin qu’elles assument pleinement le poids des actions réalisées par leurs associations. Si une association est considérée comme transparente, l’acte en question est administratif.
 
-CE 21 mars 2007, Boulogne Billancourt = association trnasparante (faux-nez). Asso transparentes : bureaux dans lesuqels figurent des élus, fonctionnent majoritaireet sur des subventions, commuen controle realisation des objectifs, le juge et doctrine estime que ces associations, sont des demembrements fictifs des communes. Ex dans la culture. Elle a pas le smoyens de le faire en régie, mais derrier eassociation tres ofrte présence de la perosnen publqie. CEtte theorie sanctionne les commiunes pour qu'ellepore le poid des ations de ses associations. Ex reconnu qeu si ssociatione st transparante, l'acte est admoinistratif.
+Enfin, il faut noter l’abandon d’une jurisprudence ancienne : l’arrêt **==TC, 1968, Société Entreprise Peyrot==**, qui avait été maintenu pendant plusieurs décennies, a été abandonné en **2015** par l’arrêt **==TC, 2015, Mme Rispoli / SA Sud de la France==**. Cette évolution simplifie les choses : désormais, seuls le **mandat explicite**, le **mandat implicite** et la **transparence** permettent de remplir le critère organique.
 
-enefin il faut noter abandon d'une jursprudence assez vieille : TC 1968 société entreprise Peyrot a été abdonnée en 2015, TC 2015 Mme RIspole / SA Sud de la France. Ce qui siplifie les choses, car désormais le mandat explicite, iplicite et la trnasparante fait remplir le critere organique.
-
-La presnece d'une perosnne publiqe partie au contrat ne suffit pas. Il en faut une, peut importe la quelqe.
-
-mais ca doit etre necessariemetn doublé d'un critere materiel.
+Toutefois, la seule présence d’une personne publique parmi les parties au contrat ne suffit pas à qualifier ce dernier de contrat administratif. Il faut impérativement que cette présence soit doublée d’un **critère matériel**.
 
 #### B) Le critère matériel alternatif
 
-il en existe 2 : l'un ou l'autre suffit. 
+Il en existe deux : l’un ou l’autre suffit à qualifier le contrat d’administratif.
 
 ##### 1) La participation à l’exécution du service public
 
-ce critère existe depuis le 19e siècle, 
+Ce critère existe depuis le XIXe siècle.
 
-arret CE 4 mars 1910, Therond: contrat de privilege exclusif (ramasser aniaxu morts) conclu entre lui et la perosnne publqiue. 
+Dans l’arrêt **===CE, 4 mars 1910, Thérond===**, un contrat de privilège exclusif avait été conclu entre un particulier et une personne publique pour le ramassage des animaux morts.  
+Le Conseil d'État a estimé qu’en passant un tel contrat, la ville avait pour but d’assurer un **service public**, en l’occurrence celui de l’hygiène publique.
 
-le conseil d'état a estimé que en passant un tel contrat, la ville a eu pour but d'assrer un serivce public consitnat à assurer l'hygiene de ville.
+Puis, l’arrêt **==TC, 1921, Société commerciale de l’Ouest africain==** a introduit la distinction entre **SPA (Service Public Administratif) et SPIC (Service Public Industriel et Commercial)**.
 
-puis, TC 1921, Société commerciale de lo'uest africain (distinction SPIC et SPA)
+Dans l’arrêt **==CE, 20 avril 1956, Époux Bertin==**, le Conseil d'État a dû répondre à une question essentielle :  
 
-CE, 2à avril 1956 Epoux Bertin : c un grnad arret parce que a ce moment la on savait pas si la participation au service publci suffisait pour faire du contrat un cotnrat administratif ou s'il fallait enplus une clause exhorbitante.
+La **participation au service public** suffit-elle à conférer au contrat un caractère administratif ou faut-il également la présence d’une clause exorbitante ?
 
-il tranche les controverses a propos du point de savoir si les critères de la participation au service publci était à lui seul suffisant, ou s'il ne produisait ses effets qu'en se cumulatn avec celui ds clauses exhorbitantes.
+Cet arrêt a tranché la controverse en affirmant que la participation à l’exécution du service public était, **à elle seule, suffisante** pour qualifier un contrat d’administratif. Ainsi, le Conseil d'État a consacré le caractère **alternatif** des deux critères (participation au service public et clauses exorbitantes), chacun étant suffisant pour donner au contrat son caractère administratif.
 
-Le conseil d'état se prononce pour le caractère alternatif des deux critères, cahcun des suffisant pour donner au contrat son caractère administratif. 
+Cependant, **une simple collaboration ne suffit pas**. Il faut une **participation directe** à l’exécution même du service public.
 
-cependant, une simple collaboration ne suffit pas. il faut une participation directe à l'execution même du service. 
+Par exemple, sont **administratifs** :
+- Les contrats ayant pour objet l’**organisation du service public** (**==CE, 24 novembre 2008, Syndicat mixte d’assainissement de la région du Pic Saint-Loup==**).
+- Les contrats confiant l’**exécution directe d’une tâche de service public**.
 
-Exemple sont administratifs les contrats dont l'objet est par exemle d'organiser le service publci.
+En revanche, un lien **insuffisant** entre le contrat et l’exécution du service public ne permet pas de qualifier le contrat d’administratif.
 
-Arret 24 novembre 2008 Syndicat mixte d'assainissmetn de la région du pic saint loup. 
+**Exemple : ==TC, 15 novembre 2004, Préfet de la Moselle contre Lycée régional Hélène Boucher==**  
 
-sont également administratifs les contrats dont l'objet confie l'execution directe d'une tache d eservice public.
+Il s’agissait d’un contrat de **location d’un appareil de reprographie**. Le Tribunal des conflits a estimé que ce contrat **n’était pas administratif**, car la location (objet du contrat) **ne faisait pas directement participer le cocontractant à l’exécution du service public de l’enseignement**.
 
-exemple lien insuffisant : TC 15 novembre 2004 Prefet de la Moselle contre Lycée régional Helene Boucher.
+Ainsi, il faut différencier :
+1. Les contrats **qui confient l’exécution du service public** (administratifs).
+2. Les contrats **conclus pour la satisfaction des besoins du service public** (privés).
 
-Il falati qualifier un contart de location d'appariel de reprographie. TC dit que pas un contrat administraitf, parce que la location (l'objet du contat) ne fai tpas participer directenet le co contranta à l'exuceitn du service public de l'enseigneemtn.
+Toutefois, cette jurisprudence est aujourd’hui dépassée. Un **lycée**, en tant que **personne morale de droit public**, conclurait aujourd’hui des contrats **administratifs** en vertu du **Code de la commande publique (CCP)**.
 
-faut differencer les contarts entre ceux qui ont pour objet de confier l'execution du service public, et les contrats conclus pour la satisfaction du service public. 
+### **Le contrat comme modalité d’exécution du service public**
 
-cette jurisprudence est ajd qu'lele est dépassée, un lycée qui est une perosnen morale de droti public, ajd la solution serait différente car fort a parié ce serait des contrats administratifs du fait de la loi, en vertu du CCP. 
+Il arrive également qu’un contrat soit une **modalité d’exécution du service public**.
 
-il arrive égalemtn que le contrat constitue un emodalité d'executin du service public. Releve de l'arre tCE 20 avril 1956, Consorts Grimouard. Ici lorsque le contart justifie les modalités d'execution du service public, c'est un contrat administratif.
+**Exemple : ==CE, 20 avril 1956, Consorts Grimouard==**  
+Lorsque le contrat définit **les modalités d’exécution du service public**, il est administratif.
 
-Confirmé par un arret CE 1974, Société La Maison des isolants d eFrance
-ici c'était un contrat avec une commune qui s'negage a fornir des terrains et des equipeemtns, et une netreprise qui en echange promet de s'implanter et de creer des emlois.
+Cette solution a été confirmée par l’arrêt **==CE, 1974, Société La Maison des Isolants de France==**.  
+Dans cette affaire, une commune s’engageait, par contrat, à fournir des terrains et des équipements à une entreprise. En contrepartie, cette entreprise s’engageait à s’implanter et à créer des emplois.
 
-l'entreprise est pas direcetn chargée de d'ybe actuvuté de service publci. mai sen passant ce ocntrcontrat, appelé contart de décentralisation industriel, dans l'interet public, la commune associe ses aprtenaires à cette mission, et cette collaboration est comncue comme une modalité particuleire d'execution du service public. 
+L’entreprise n’était **pas directement** chargée d’une activité de service public. Toutefois, en passant ce contrat, appelé **contrat de décentralisation industrielle**, la commune associait ses partenaires à une mission d’intérêt public. Cette collaboration a donc été considérée comme une **modalité particulière d’exécution du service public**, rendant le contrat administratif.
 
-Ces contrats d'engagement exceptionnel à un service publci sont des contrats amdinistraifs, du fait qu'ils sont conclus par les personnes publiques en vu de pourvoir aux besoins en personnels.
+**Les contrats d’engagement exceptionnel à un service public**
 
-dans déciion TC 25 mars 1996 BerKani, le tribunal enonce que les personnels sont statutaires travailletn "pour le compte d'un SPA" sont des agents contracutels de droti public, queqleu soit leur emploi. 
+Certains contrats, conclus par une personne publique dans le but de répondre aux **besoins en personnel**, sont considérés comme **administratifs**.
 
-si agent du corus sert des repas directmenet aux etudiants, il partiicpe a exection su service publci. Sil fait la plong een arriere, participe pas au service publci.
+Dans l’arrêt **==TC, 25 mars 1996, Berkani==**, le Tribunal des conflits a posé un principe clair :
 
-Donc des gens qui travaillaient ans la meme cuisine, certains etaitent titulaires de contrat de droti publci qui relevait de juge administraitf, et dautre de juge judiciare.
+**Tout personnel non statutaire travaillant "pour le compte d’un SPA" est un agent contractuel de droit public**, quel que soit son emploi.
 
-l'interet de berkani est d'avoir unifier. On regarde plus ce que l'agent fait on regarde celiui qui l'emploi.
+**Exemple :**
+- Si un agent de cuisine sert des repas directement aux étudiants, il **participe à l’exécution du service public**.
+- Si un agent fait uniquement la plonge en arrière-cuisine, il **ne participe pas directement au service public**.
 
-puis décison ultérieurl TC 22 octobre 2001 Cabanel contre Recteur de l'académie de grenoble, qui a modiféié très legermeent la formulation de Berkani en précisant que c'est le personnel non statutaire travaillant pour une personne publique gerantn un SPA sont soumsi a un regime de droit public. 
+Avant **Berkani**, dans une même cuisine, certains agents relevaient du **juge administratif**, tandis que d’autres relevaient du **juge judiciaire**, en fonction de leurs tâches. L’intérêt de cette décision est d’avoir **unifié la règle** : désormais, on ne regarde **plus** les tâches exercées, mais **uniquement l’employeur**.
 
-ce critère de l'objet des ocntrats n' apas remis ne cause celui qui est ofndé sur la présence des clauses exhorbitantes. 
+Une décision ultérieure a légèrement modifié la formulation de Berkani :
 
-lg ejuge quand il doit qualifier un contrat, il regarde les 2 criteres. Donc si un contrat es tde droit privé, c parce que il n'a ni clasue exhorbitante ni participation directe à un service publci.
+**==TC, 22 octobre 2001, Cabanel contre Recteur de l’Académie de Grenoble==**  
+Le Tribunal des conflits précise que **le personnel non statutaire travaillant pour une personne publique gérant un SPA est soumis à un régime de droit public**.
+
+**Une complémentarité entre critères matériels et clauses exorbitantes**
+
+Le critère fondé sur l’objet du contrat **n’a pas remis en cause** celui des **clauses exorbitantes**.
+
+Lorsque le juge doit qualifier un contrat, il examine **les deux critères** :
+
+- Si un contrat est **de droit privé**, c’est qu’il **ne remplit ni le critère de la participation à un service public, ni celui des clauses exorbitantes**.
 
 ##### 2) La présence d’une clause révélant un contrat administratif
 
-pendnat longtmeps, le critère était celui de la clause exhorbitante. A elle seule, l'insertion de cette clause confere un caractere administratif. Consacré dans CE, 31 juillet 1912, Société des Granits porphyroides des Vosges (GAJA).
+**La présence d’une clause révélant un contrat administratif**
+Pendant longtemps, le critère principal permettant de qualifier un contrat d’**administratif** était **la présence d’une clause exorbitante du droit commun**. À elle seule, l’insertion d’une telle clause conférait au contrat un caractère administratif.
 
-c'est bcp plu stard que le conseil d'état précise qu'une clause exhorbitante suffit à donner un caractère admonistraitf au contrat, dans TC 20 avril 1959, société nouvelle d'exploitation des plages, confirmé par TC 1967 Société du vélodrome du Prac des Princes.
+Ce principe a été consacré dans ==**CE, 31 juillet 1912, Société des Granits porphyroïdes des Vosges==** (**GAJA**).
 
-pendna tlongteps leur définitions étiat assez imprécise. Exorbitante veut dire quelle se dérache du droit commun. Cette clause exorbitante renvoyait à des clauses qui étaient exlcues dasn des relatiosn de droit privé, par exemple les clauses qii accordent des prérogativesde puissance publiqe. Ex une personne privée peut pas exproprier, ou de recouvrir une créance. (TC 27 juilet 1950 Peulaboeuf, verifier) 
+Ce n’est que bien plus tard que le Conseil d’État a précisé qu’une clause exorbitante **suffisait** à conférer un caractère administratif au contrat. Cette position a été affirmée dans **==TC, 20 avril 1959, Société nouvelle d’exploitation des plages==**, et confirmée par **==TC, 1967, Société du Vélodrome du Parc des Princes==**.
 
-la clause exhorbitante renvoyait aussi à des clasues inéalitaires, comme des clauses qui placetn le contractant sous le controle de la personne publique.
+**Définition et évolution de la clause exorbitante**
+Pendant longtemps, la définition de la **clause exorbitante** est restée **imprécise**. Le terme **"exorbitante"** signifie que la clause **déroge au droit commun**.
 
-Pendant logntemps c arret CE, 50, Stein présenté en doctrin eocmme celui qu donnati une defiiton des clauses exhorbitantes. 
+Cette clause renvoyait aux clauses qui **n’existent pas** dans les relations de **droit privé**.
 
+**Exemple : Prérogatives de puissance publique**
 
+- Une personne privée **ne peut pas exproprier** ni **recouvrer une créance par des voies exorbitantes du droit commun** ==(**TC, 27 juillet 1950, Peulaboeuf==** ).
 
-TC 2005, SNC Sicuété hoteliere guyanaise. Clause dans laquelle Cette société donnait au groupe CNES un pouvori de controle sur l'occupation de l'hotel, et sur le coup de revente des chambres.
+**Autre exemple : Clauses inégalitaires**
 
-Sauf que le TC a choisi de donenr plus de précisions et de rigeuur en détachant cette définiton de sa référence au droit privé. 
+- Certaines clauses plaçaient le cocontractant sous le **contrôle direct** de la personne publique.
 
-TC 13 octor 2014, Scté Axa France IARD
+Pendant longtemps, **l’==arrêt CE, 1950, Stein==** était présenté en doctrine comme **celui qui donnait une définition des clauses exorbitantes**.
 
-On va parler de clauses qui notamment par les prerogatives reconnues à la personne publiqeu contarctante dans l'execution du contrat implique dans l'interet general qu'il relêve du réigme exhorbitant de ocntarts admonistratifs. 
+**Évolution de la définition : de Stein à Axa France IARD**
 
-pour identifier une clause qui "revele un contrat admonistratif". Conditions : 
-1. la situation dorit reveler la necessité de soumettre le contrat au regime admonistrait,f càd soit conferer à la pers publique des prerogative sou des avantages exhorbintant, soit imposer à son co contractant des suggestions exhorbitantes
-2. la clause s'exerce dans un but d'interet general, faute de quoi la clause doterai la personne publqiue de pouvoirs unilatéraux ne saurait être qualifié de clause exorbitante. 
+**==TC, 2005, SNC Société Hôtelière Guyanaise==**  
+Dans cette affaire, le contrat contenait une clause permettant au **Centre National d’Études Spatiales (CNES)** d’exercer un **contrôle** sur l’occupation de l’hôtel ainsi que sur le **prix des chambres**.
 
-le but di'neteret general pourrait joeur un role essentiel. Une clase instituatn un rapport inégalitaire sans but d'interet général ne devriat pas être qualifié d'exorbitante et ne devriat pas permettre de qualifier le contrat d'aministratif. 
+Cependant, le Tribunal des conflits a choisi d’apporter plus de **précision et de rigueur** à la définition des clauses exorbitantes. Il a ainsi détaché cette définition de sa seule référence au **droit privé**.
 
-En revanche, une telle clause serait susceptible d'etre qualifié en droit civil de clause abusive, et elle serait alors réputée non écrite. article 1171 du code civil, 
+**==TC, 13 octobre 2014, Société Axa France IARD==**  
+Cet arrêt marque un **tournant** dans la qualification des clauses exorbitantes.
 
-cette définition de Axa France IARD a été enterinné dans une autre déticion TC 9 février 2015 Société Senseo, c'était un contrat qui liait la DAS à la senseo a propos fourniture de conbinaisons utilisés pour lutter ocntre chikungunia. estimé que c'était pas un contrat administratif par détermination de la loi.
+Désormais, une clause exorbitante est définie comme une clause qui, **notamment par les prérogatives qu’elle reconnaît à la personne publique dans l’exécution du contrat, implique qu’il relève d’un régime exorbitant des contrats administratifs, dans un but d’intérêt général**.
 
-Le CCP est alors pas appliable ici à Mayotte. Donc c'est un contrat conclu pour les besoisn du service. 
+**Critères d’identification d’une clause révélant un contrat administratif**
 
-attention : cas pratique on demande la nature du contrat toujours verifier les contrats legislatifs aant jurisprudentiels.
+Pour qu’une clause soit considérée comme **exorbitante du droit commun**, elle doit remplir **deux conditions cumulatives** :
 
+1) **Le contrat doit nécessiter d’être soumis au régime administratif**
+- Soit **en conférant** à la personne publique **des prérogatives ou avantages exorbitants**,
+- Soit **en imposant** à son cocontractant **des sujétions exorbitantes**.
 
-Verifeir egalement que le contrat comporte aucuune clause contraireà interet general qui l'enleve du régime exhorbitant qui releve du contrata dministratif.
+2) **La clause doit poursuivre un but d’intérêt général**
 
-exemple : clause qui confere a la perosnne publiqeu un pouvoir unilatéral dec ontroel de l'execution du contrat (TC 7 novembre 2022, Centre de Gestion de la fonction publique territoriale du Gard C/ Groupement impérial, commenté à la revue du contrat e tdu marhcé public, numéro 4252. 
+- À défaut, une clause qui doterait simplement la personne publique de **pouvoirs unilatéraux** ne saurait être qualifiée de clause exorbitante.
+
+**L’intérêt général joue un rôle déterminant.** Une clause instituant un rapport inégalitaire **sans objectif d’intérêt général** ne devrait **pas** être qualifiée d’exorbitante et ne permettrait donc **pas** de qualifier le contrat d’**administratif**.
+
+En revanche, une telle clause pourrait être qualifiée en **droit civil** de **clause abusive** et serait alors réputée **non écrite** en vertu de **l’==article 1171 du Code civil==**.
+
+**Consécration et application récente**
+
+**==TC, 9 février 2015, Société Senseo==**  
+Dans cette affaire, un contrat liait la **DAS (Direction de l’Action Sanitaire)** à la **Société Senseo** pour la fourniture de combinaisons utilisées contre le **chikungunya**.
+
+Le Tribunal des conflits a estimé que ce n’était **pas** un contrat administratif **par détermination de la loi**.
+
+**Attention :**  
+Le **Code de la Commande Publique (CCP)** **n’était pas applicable** à Mayotte, ce qui explique cette qualification. Il s’agissait ici d’un contrat **conclu pour les besoins du service**, mais qui n’entrait **pas** dans le cadre du **régime des contrats administratifs**.
+
+**Points de vigilance en cas pratique**
+
+- **Toujours vérifier les textes législatifs avant d’appliquer la jurisprudence.**
+
+Un contrat peut être **administratif par détermination de la loi**. Il est donc essentiel de **vérifier le Code de la Commande Publique** avant de rechercher l’existence de clauses exorbitantes.
+
+- **Vérifier qu’aucune clause ne contrevient à l’intérêt général.**
+
+Une clause qui conférerait à la personne publique un **pouvoir unilatéral de contrôle** sur l’exécution du contrat doit être examinée attentivement.
+
+**Exemple : ===TC, 7 novembre 2022, Centre de Gestion de la Fonction Publique Territoriale du Gard c/ Groupement Impérial===**
+
+- Cette affaire a été commentée dans **La Revue du Contrat et du Marché Public, numéro 4252**.
 
 ##### 3) Le critère à usage exceptionnel : le régime exorbitant du droit commun
 
-CE 1973 SOciété d'exploitation de la riviere du Sant.
-ici on parle pas du'ne clause ne particulier, masi d'un regime qui est révélé par la présence de plusiuers clauses, où chacune des clauses n'est aps exhorbitante, mais ensemlbe elle reventun eregime exhorbitant du droit commun. COonsacré dasn cet arrete en 1973. 
+**==CE, 1973, Société d’exploitation de la rivière du Sant==**
 
-a propos de fountirure d'electirité passé avec EDF par des conducteurs privés ont été qualifiés d'administraitfs en raison de leur régime exorbitnant de droti commun. 
+Dans cet arrêt, le Conseil d'État ne se fonde pas sur une **clause particulière**, mais sur un **régime** qui se révèle **exorbitant du droit commun** en raison de la présence de plusieurs clauses.  
+Chaque clause, prise isolément, **n’était pas exorbitante**, mais **ensemble**, elles conféraient au contrat un régime dérogatoire au droit commun.
 
-ce régime exorbitant n'était pas transcrit dans les clauses elle-meme, mais dans son regime mettait en oeuvre des procédés de gestion publique.
+Cet arrêt a consacré cette approche en 1973.
 
-cette notuon n'a pas été adonnée car le TC des confits l'a pas utilisé à nouvea dans une décion du 7 avril 2014, un arrêt SEVP contre Office du toursme de Rambouillet. Ce critère de régime exorbitant n'est petu etre pas mort. (Numéro 3949).
+**Exemple : Contrats de fourniture d’électricité conclus avec EDF**  
+Certains contrats de fourniture d’électricité conclus entre **des conducteurs privés et EDF** ont été qualifiés de **contrats administratifs** en raison de leur **régime exorbitant du droit commun**.
 
+Dans ces contrats, le caractère exorbitant **ne résultait pas directement des clauses elles-mêmes**, mais du **régime global du contrat**, qui mettait en œuvre des procédés de gestion publique.
+
+Toutefois, cette notion a été peu réutilisée. Le ==**Tribunal des conflits**, dans une décision du **7 avril 2014** (**SEVP contre Office du tourisme de Rambouillet**, n°3949),== **n’a pas repris cette approche**.
+
+Ce critère du **régime exorbitant du droit commun** semble donc être tombé en désuétude, mais il **n’a pas été officiellement abandonné**.
 ## Section 2 : **Le régime**
 
 ### Paragraphe 1 : La formation du contrat

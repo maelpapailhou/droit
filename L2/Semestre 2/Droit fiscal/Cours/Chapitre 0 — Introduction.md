@@ -3,7 +3,6 @@ Le terme **fisc** vient du mot latin _fiscus_, que l’on peut traduire par **co
 Ce terme est à l’origine des mots **fiscal** et **fiscalité**.
 
 Le **droit fiscal** est à mi-chemin entre le **droit public** et le **droit privé**. Il peut ainsi être enseigné aussi bien par des enseignants de droit public que de droit privé.
-
 Cette spécificité s’explique par le fait que, d’un côté, le droit fiscal est lié au **droit administratif** et aux **finances publiques**, car l’impôt constitue une source importante de recettes budgétaires pour l’État. D’un autre côté, le droit fiscal affecte également **tous les actes de la vie civile**, les **droits fondamentaux des contribuables**, et concerne les principales notions du droit privé, telles que les contrats, les biens, la propriété ou encore les entreprises.
 
 Le droit fiscal est traditionnellement défini comme l’ensemble des **règles juridiques relatives aux impositions**. En d’autres termes, le droit fiscal est **le droit des impôts et des taxes**.
