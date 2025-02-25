@@ -56,7 +56,6 @@ Sont patrimoniaux les préjudices qui affectent le patrimoine, comme les dépens
 ##### b) L’indemnisation des préjudices
 
 Nous vous proposons **de vérifier chaque préjudice un par un** : 
-
 - Le préjudice corporel (i) ;
 - Le préjudice moral (ii) ;
 - Le préjudice d’agrément (iii) ;
@@ -64,7 +63,6 @@ Nous vous proposons **de vérifier chaque préjudice un par un** : 
 - Les frais de santé/médicaux (v).
 
 Pour chaque préjudice, nous **vérifierons qu’il soit réparable s’il remplit les 3 conditions** suivantes : 
-
 1. **Certain** ; 
 2. **Direct et personne**l ; 
 3. **Légitime**.
@@ -162,11 +160,11 @@ _v. Les frais de santé/médicaux_
 
 À vous de jouer pour le préjudice lié aux dépenses de santé/frais médicaux, il vous suffit de dérouler le raisonnement en collant à chaque exigence.
 
-##### 3) Le fait générateur du dommage : la maladresse de l’enfant Mathieu
+#### 3) Le fait générateur du dommage : la maladresse de l’enfant Mathieu
 
 Après avoir établi les chefs de préjudices indemnisables (ou pas), voyons **le fait générateur du dommage**. Il s’agit de la maladresse d’un enfant, dont il conviendra d’analyser la responsabilité du **fait personnel** (a) et celle **du fait d’autrui** de ses **parents** (b).
 
-###### a) La responsabilité du fait personnel
+##### a) La responsabilité du fait personnel
 
 **[Majeure]** L’article 1240 du Code civil dispose que tout fait quelconque de l’homme, qu’il soit volontaire ou involontaire (art. 1241 du Code civil), oblige celui par la **faute** duquel il est arrivé à le réparer.
 
@@ -178,7 +176,7 @@ La condamnation des père et mère sur le fondement de la responsabilité du fai
 
 **[Conclusion]** L’enfant est l’auteur du dommage subi par la victime. Sa **responsabilité personnelle peut être engagée**. Néanmoins, le juge ne la retiendra probablement pas et se limitera à celle de ses parents (b), car l’enfant n’est pas solvable.
 
-###### b) La responsabilité du fait d’autrui
+##### b) La responsabilité du fait d’autrui
 
 Dans certains cas, **une tierce personne peut être tenue responsable d’un dommage qui a été généré par autrui**. Tel est le cas de la responsabilité des parents du fait de leur enfant mineur (art. 1242 al. 4 du Code civil).
 
@@ -233,11 +231,11 @@ La jurisprudence précise que la **cohabitation résulte de la résidence habit
 
 **[Conclusion générale du 2. a. et b.]** Toutes les conditions de la responsabilité du fait d’autrui (parents du fait de l’enfant mineur) sont remplies. La victime pourra engager une action en responsabilité contre les parents et leur enfant, à condition que le lien de causalité entre le **fait générateur** et le **dommage** soit établi (3).
 
-##### 4) Le lien de causalité
+#### 4) Le lien de causalité
 
 Nous verrons **la caractérisation du lien de causalité** (a) et **l’exclusion de toute cause d’exonération** (b).
 
-###### a) La caractérisation du lien de causalité
+##### a) La caractérisation du lien de causalité
 
 **[Majeure]** L’article 1240 du Code civil impose qu’il y ait un **rapport de causalité entre le dommage** subi **et le fait générateur** (Cass. civ. 2, 27 octobre 1975).
 
@@ -255,7 +253,7 @@ En matière de **responsabilité d’autrui** des père et mère du fait de l�
 
 **[Conclusion]** Par conséquent, le lien de causalité est bel et bien caractérisé. Il convient de vérifier s’il peut être retenu, ou si, au contraire, une cause permet de l’exclure (b).
 
-###### b) L’exclusion de toute cause d’exonération
+##### b) L’exclusion de toute cause d’exonération
 
 **[Majeure]** Il est possible de neutraliser totalement ou partiellement le lien de causalité en invoquant un **cas de force majeure** ou une **cause étrangère** (cas fortuit, faute de la victime, fait d’un tiers). La faute de la victime permet une exonération partielle si elle n’a pas les caractères de la force majeure (Cass. civ. 2, 12 juin 1975, n° 73-16.600). Cette dernière doit être **extérieure à l’auteur du dommage**, **irrésistible et imprévisible**.
 
@@ -265,7 +263,7 @@ En matière de responsabilité **de plein droit du fait d’autrui**, seule la 
 
 **[Conclusion]** Par conséquent, ni les parents ni l’enfant auteur du dommage ne verront leur responsabilité écartée. Ils seront tenus de réparer le dommage (5).
 
-##### 5) L’action en réparation
+#### 5) L’action en réparation
 
 Une fois le raisonnement déroulé, si vous retenez la responsabilité de l’auteur du dommage (de ses parents, du commettant ou de qui vous voulez, tant que les conditions sont réunies), **il faut évidemment envisager l’action en réparation** : 
 
@@ -339,7 +337,7 @@ Nous ne développerons pas cette partie pour notre cas qui ne s’y prête pas. 
 | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | La contribution sera proportionnelle à la gravité de la faute (Cass. civ. 2, 9 juin 2016, n° 14-27.043). | La contribution se fait à parts égales (Cass. civ. 2, n° 17-20.099). |
 
-#### B) La réparation des dommages subis par l’enfant Mathieu
+### B) La réparation des dommages subis par l’enfant Mathieu
 
 L’enfant Mathieu a été victime de plusieurs dommages (2) de nature extracontractuelle (1), dus à des faits générateurs différents (3) dont il convient d’établir les liens de causalité (4) avant d’envisager l’action en réparation (5).
 

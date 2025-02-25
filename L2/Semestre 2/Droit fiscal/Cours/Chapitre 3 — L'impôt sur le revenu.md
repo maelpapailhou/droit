@@ -231,7 +231,7 @@ L’impôt sur le revenu est calculé selon un **barème progressif**, avec des 
 
 Avant de calculer l’impôt sur le revenu, il faut d’abord déterminer le **revenu imposable du foyer fiscal**.
 
-## 1) La détermination du revenu imposable du foyer fiscal
+1) La détermination du revenu imposable du foyer fiscal
 
 Chaque catégorie de revenu est soumise à des règles d’imposition spécifiques. Concernant les **salaires**, sauf précision particulière, le revenu brut est transformé en **revenu net imposable** par l’application d’une **déduction forfaitaire de 10% pour frais professionnels**.
 $$RI=RGB-(RGB×\frac{10}{100})$$
@@ -245,7 +245,7 @@ $$RBG=60 000$$
 $$RI=60000e−(60000e×\frac{10}{100})$$$$RI=54 000e$$
 Une fois le **revenu imposable** déterminé, on peut procéder au **calcul de l’impôt brut**, qui résulte de l’application du **barème légal**. Ensuite, des corrections sont apportées pour obtenir le **montant de l’impôt net**, soit **l’impôt réellement dû** par le contribuable.
 
-## 2) Le calcul de l’impôt brut et de l’impôt net
+ 2) Le calcul de l’impôt brut et de l’impôt net
 
 - **Étape 1 : Détermination du quotient familial**
 
@@ -289,7 +289,6 @@ $$RI=27000e−2700e$$
 $$RI=24300e$$
 
 2. Quotient familial :
-
 $$Qf=\frac{24300e}{1}$$
 $$Qf=24300e$$
 
@@ -303,81 +302,72 @@ $$IRbrut=0+1430,66e=1430,66e$$
 $$IRnet=1430,66−429,19=1001,46e$$
 
 Exemple : Pour un couple avec un enfant ayant un revenu brut global de **90 000 euros** :
+1. Déduction forfaitaire de 10% :  
+   $$RI = 90 000 - 9 000 = 81 000e$$
 
-1. Déduction forfaitaire de 10% :
-    - RI=90000−9000=81000€RI = 90 000 - 9 000 = 81 000€
-2. Quotient familial :
-    - QF=81000/2,5=32400€QF = 81 000 / 2,5 = 32 400€
-3. Application du barème :
-    - (28797−11294)×11(28 797 - 11 294) × 11% = 1 925,33€
-    - (32400−28797)×30(32 400 - 28 797) × 30% = 1 080,90€
-    - IRbrut(1part)=3006,23€IR brut (1 part) = 3 006,23€
-4. Multiplication par 2,5 parts :
-    - IRbrut=3006,23×2,5=7515,57€IR brut = 3 006,23 × 2,5 = 7 515,57€
-5. **IR net après abattement de 30%** :
-    - IRnet=7515,57−(7515,57×30IR net = 7 515,57 - (7 515,57 × 30%)
-    - IRnet=5260,90€IR net = 5 260,90€
+2. Quotient familial :  
+   $$QF =\frac{81 000}{2,5} = 32 400e$$
 
+3. Application du barème :  
+   $$(28 797 - 11 294)× \frac{11}{100}=1 925,33e$$
+   $$(32 400 - 28 797)×\frac{30}{100} = 1 080,90e$$  $$IRbrut = 3 006,23e$$  
+4. Multiplication par 2,5 parts :  
+   $$IRbrut= 3 006,23×2,5 = 7 515,57e$$
+
+5. IR net après abattement de 30% :  
+   $$ IR_{\text{net}} = 7 515,57 - (7 515,57 \times \frac{30}{100}) $$
+   $$IRnet = 5 260,90e$$
 Ainsi, le montant final de l'impôt net à payer est **5 260,90€**.
 
 
 ---
 COURS CALCUl
 
-## Section 3 : Le paiement de l'impôt sur le revenu
+## Section 3 : Le paiement de l’impôt sur le revenu
 
-pendnat tres longtemps l'IR a été déclaré par les ocntribuables et recouvré l'année suivante par les services fiscaux. Y'avait donc un decalage entre l'encaissent des revneus par le contribuble et le paiemen de l'imot au trésor public.
+Pendant très longtemps, l'impôt sur le revenu était **déclaré par les contribuables** et **recouvré l’année suivante** par les services fiscaux. Il existait donc un **décalage** entre l’**encaissement des revenus** par le contribuable et le **paiement de l’impôt** au Trésor public.
 
-ensuite les déclarations ont été préremplies par l'administration fiscale, et ensuite il a été décidé de passer au prévelement a la source par une ordonnance de 2017.
+Par la suite, les déclarations ont été **prér remplies** par l’administration fiscale, simplifiant ainsi la démarche pour les contribuables. Enfin, une **ordonnance de 2017** a instauré le **prélèvement à la source**, entraînant une réforme majeure du mode de paiement de l’impôt sur le revenu.
 
-le basculement s'est fait le 1er janvier 2019. cette réforme elle va modifier le travail des entreprises, puisqu'elle doivent désormais calculer le prélevement, et reverser les sommes au trésor public. C une economei pour l'état mais une charge suplémentaire pour els entreprises.
+Le **basculement** vers ce nouveau mode de prélèvement s’est opéré le **1er janvier 2019**. Cette réforme a profondément modifié les obligations des **entreprises**, qui doivent désormais **calculer le prélèvement**, l’appliquer sur les salaires et **reverser les sommes au Trésor public**. Si cette mesure constitue **une économie pour l’État**, elle représente en revanche une **charge supplémentaire** pour les employeurs.
 
-le prelevmeent à la soruce consisteà. déduire l'impot avant versement du revenu, et le montant de l'impot est déduit chaque mois sur le bulletin de paie. Le paiement est étalié sur 12 mois, et donc le décalage d'1 an a été supprimé. l''impot va s'adapter automatiquemetn au montant des revenus qui aura été percu.
+Le **prélèvement à la source** consiste à **déduire l’impôt avant le versement du revenu**, avec une **retenue effectuée chaque mois** sur le **bulletin de paie**. Le paiement de l’impôt est ainsi **étalé sur 12 mois**, supprimant ainsi le **décalage d’un an** qui existait auparavant. De plus, ce mécanisme permet une **adaptation automatique** du montant de l’impôt aux **revenus réellement perçus**.
 
-le contribuzable continue à déclarer chaque année les revenus de l'année précédente a l'administration fiscale, et donc le calcil du taux de prevelemtn s'appuie sur les données qui otn été renseigées dans la déclaration.
+Toutefois, le contribuable **continue à déclarer chaque année** les revenus de l’année précédente auprès de l’administration fiscale. Le **calcul du taux de prélèvement** repose ainsi sur les **données déclarées**, garantissant une mise à jour en fonction de la situation financière de chacun.
 
-section 4 : les impositiosn complementaires à l'impot sur le revenu
+## Section 4 : Les impositions complémentaires à l’impôt sur le revenu
 
-paragraphe 1 : la contribution exceptionelle sur les hauts revenus
+### Paragraphe 1 : La contribution exceptionnelle sur les hauts revenus
 
-la contribution exceptionele, dite "surtaxe sarkozy", s'ajoute à l'impot sur le revneu, crée par la loi de finance initiale pour 2012, elle concerne les contribualbes qu percoivent des hauts revneues.
+La **contribution exceptionnelle sur les hauts revenus**, dite **"surtaxe Sarkozy"**, s’ajoute à l’**impôt sur le revenu**. Créée par la **loi de finances initiale pour 2012**, elle concerne les **contribuables percevant des hauts revenus**.
 
-on doit payer cette controbuiton si notre foyer fiscal est sumis à l'impot sr le reveni mais s reveu fiscale dépasse 250 000 pour célibataire et 500 000 euros pour célibataires. 
+Cette contribution est due dès lors que le **foyer fiscal** est soumis à l’impôt sur le revenu et que son **revenu fiscal de référence** dépasse **250 000 euros** pour une **personne seule** et **500 000 euros** pour un **couple soumis à une imposition commune**.
 
-le montant de cette contribution est indiquée sur l'avis d'impot sur le revenu.
+Le montant de cette contribution est **indiqué sur l’avis d’imposition**.
 
-cet impot est censé etre temporaire, doit cesser d'etre percue lorsque l'equilibre comptes de l'administration publique sera atteint
+Cet impôt, censé être **temporaire**, doit **cesser d’être perçu lorsque l’équilibre des comptes de l’administration publique sera atteint**.
+### Paragraphe 2 : Les prélèvements sociaux à caractère fiscal
 
-paragraphe 2 : les preleveets sociaux à caracètre fiscal
+Trois contributions sociales sont destinées au financement de la **Sécurité sociale** : la **CSG**, la **CRDS** et le **prélèvement de solidarité**.
 
+Ces prélèvements s'appliquent aux revenus des personnes physiques domiciliées en France et relevant d'un régime obligatoire français de sécurité sociale.
+#### A) La contribution sociale généralisée (CSG)
+Créée en **1990**, la CSG est une ***imposition affectée au financement des différentes branches de la Sécurité sociale***. Elle finance principalement la **branche maladie** et les régimes obligatoires d’assurance maladie, à hauteur de plus de **70 %**.
 
-3 contribuitons sociales sont destnes au financement de la securité sociale : csg, crds et le prevlevment de oslidarité.
+La CSG n’est pas une **cotisation sociale**, puisqu’elle **ne confère pas de droits à prestation sociale** pour ceux qui la paient. Il s’agit donc bien d’un **impôt**, car il n’y a **pas de contrepartie**.
 
-ces prelevement s'applquent au revenu des personnes physiques domiciliées en france, et relevant d'un regime obligatoire francais de sécurité sociale.
+La CSG est perçue sur l’ensemble des **revenus d’activité**, des **revenus du patrimoine**, des **produits de placement**, ainsi que sur les **gains de jeux**. Actuellement, le taux de la CSG est fixé à **9,8 %** sur les revenus d’activité, du patrimoine et de placement.
 
+#### B) La contribution au remboursement de la dette sociale (CRDS)
 
+Entrée en vigueur le **1er février 1996**, la CRDS est un **impôt** destiné à **apurer les déficits des régimes de la Sécurité sociale**. Elle alimente la **Caisse d’amortissement de la dette sociale (CADES)**, de sorte que **l’intégralité du produit de cette contribution lui est destinée**.
 
-A) la contribution sociale generalisée (CSG)
+Initialement, la CADES était prévue comme un **dispositif temporaire**, mais **la persistance de la dette sociale a conduit à son maintien**. Le taux de la CRDS est fixé à **0,5 %**.
 
-créée en 1990, c une imposition qui est affectée au financement des diff branches de la sécurité sociale. elle fnance principalemetn la branche maladie, et les regimes obligatoires d el'asurance maladie, a hauteur de plus de 70%
+#### C) Le prélèvement de solidarité
 
-la csg n'est pas une cotisationsociale, puisque elle ne confere pas de droits prestation socaiel pour ceux qui la paient. Il s'agit donc bien d'un impot, car aps de contrepartei.
+Depuis **2019**, l’**==article 235 ter** du **Code général des impôts**== prévoit un **prélèvement sur les revenus du patrimoine et les produits de placement**.
 
-la CSG et percue sur l'ensemble des revenus d'activité, revenu du patrimoine, les produits de placement, ou encore les gains de jeu. actuellemetn taux de CSG 9,8% sur revenu d'activité, de patrimoinne et de placement. 
+Le prélèvement de solidarité est **uniquement applicable aux revenus du patrimoine**, tels que **les loyers** et les **revenus du capital** (exemple : **les dividendes liés à des actions en bourse**).
 
-B) la contribusion au remboursment de la dette sociale
-
-entrée en vigueur le 1er vévrier 1996, c un impot qui est affecté et destiné à appurer les REGIMES DE LA SECURITÉ SOCAILE. LA CRSD aliment uen caisse d'ampritssmetn de la dette sociale, donc le prduit de cette contribution est entierment destiné à la CADES.
-
-Initiaitelmetn la CADES était prévucomme un dispositif temporaire, mais comme dette sociale perdure ce dispositif est maintenu. Taux de CRDS fixé à 0,5%.
-
-
-
-C) le prélevemjt de solidaroité
-
-depuis 2019,articel 35TER du code général des impots, prévoit n prelemvent sur les revneus du patrimone et le sproduits de placement.
-
-le prekevment  desolidarité est uniquemetn applicalbe aux revenus du patrimoine, comme le s loyers, et les revenus du capital ex des dividendes liées à des actions en bourse. 
-
-le taux de prelvement est de 7,5%.
-
+Le taux de ce prélèvement est fixé à **7,5 %**.

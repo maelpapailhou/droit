@@ -391,3 +391,54 @@ chez les grcs, idée enracinée que la cié rend libre car elle permet aux homem
 
 stoicisme grein marcus : liptick dress.
 
+le sstociens ce quil ont de commun avec les syiques c que leur cadre de reflexion ne se limite plus à la cité. les sotiicens developpen tune pensée tres originale, basée sur l'ordre politique, sur l'idée de droit naturel. ils sotn sans doute les premiers à formuler une conception cohérente de ce dernier.
+
+ce droit naturel a pour principe premie rla liberté, avec cette consequence que par excemple les sotiiecens estimeront que dans la nature il n'existe pas l'esclavage, la nature ne connait pas l'esclavage.
+
+de leurs point de vue, entre etat de nature et ce que sera la cité y'a un décalage inévitable, la cité est necessaire à l'homme mais elle n'et pas le décalque de l anature.
+
+donc y'a une marge d'action possible à l'initiative humaine. 
+
+deuxieme aspect : idée que la vie sociale est placée sous le signe dela deception. philoposphie stoique est une philosophie d el'himme cofrontée à l'echec et au manque, d'un homme qui peu etre asujetti à ses passions qui originellemetn est eslcave de ces passions,e t qui ne trouvera la liberté qu'à s'imposer une discipline interieur pour s'en délivrer.  on retrouve quelque part la phisolophie des syniques.
+
+les stoiciens pratiquent une forme d'assese, avec pour objectif d'atteinte un etat de paix interieur, quand rien ne vient trouber les... c'est ce qu'on appelle les ataraxie. L'état d'ataraxie c'est comme eau d'un lac, parfois vent, au fond la discipline stoicienec 'est de ramener tout ça au calme.
+
+pass euassi par qq chose d'original : le stoicien esst requis de se connaitre soit meme. Grand maitre du stoicisme, empereur romain Marc-Aurele, rédige un ouvrage Les pensées pour soi meme, où il essaie de noter quels sont ses etats dames, il s'explore, s'eforce à atteindre à la connaissance intime de ces prorpes pensées, origine, de ce qui les commande, en edsayant de debusquer en lui meme ce qui releve de l'auto illusion. etre sans ilusion ni sur l emonde ni sur lui meme. les asspetes chrétiens, ceux qui sotn aprticuleirement pieix, aspiration à se liberer des passions, car c la condition d'une vie souveraien (on est plus esclade de se spassiosn, d ela peur, on ne redoute plus de mourir, ona tetned la mort de maniere apaisée). Une des morts possible poir el soticien est le suicide, pas marqué enegativement ocmme pou r le chirsitiamnisme; Est-ce que le sotiicen aura été a la hauteur de la doctrine? ou est-ce que mometn de mouriri il aura eu peur? C'est l'épreuve décisive qu'on ne passe qu'une fois. 
+
+si le stoic s'attacheà se délivrer des passiosn, il refuse du synique de quitter la cité. C un homme de devoir. Ca apparait ocnstament dans les pensées pour sois meme de marc-aurele, appariat aussi dans le manuel d'epictete. Idée que l'existence acoomplie dans le service d'autrii, le servic ede la scité. 
+
+le stoicien va assumer l'ensemble de ses oblgiaitons osciales.  Dans le cas om il se rrtrouve placé àl atete de empire, comme marc aurele, il assumera fonctions de osldats, adminsitratued de empire.
+
+c a travers epreuve de quodiien et a la place que leur a assigné le destin( destin idée formte cehez les stoifenc)s, que le stocien peu découvrir et pratiquer la voei du'ne forme de libération interieir.
+
+exterieurement, rien ne le distingue des autres citoyens. il accompliss on devoir ciivque poncrtuellement, il est attaché à l'acommlisemtn de se devors ,il y emet bcp de conscienc (c"'est ce qui le doistingue des autres citoyens). si du point de vue exteiruer rien el disitngue, a linteireur im met une distance entre accopmplissmetn de ces dvoirs et de s apersonne (pas sur?). l'acèse stoic est pas fodné sur la privation (c pas St Jerome), c adns une consomation mesurée des choses, donner au corps sa part, masi rien que sa part, eviter les passiosn qui enflamment. y'a aussi un idéal d'équilibre et d'harmonie qui guide l'existnece stoique. cet idéal commande et oriente la pensée politiqe des stoiciens. ciceron est un aristocrate masi attachéà la conservation et restauration des insttutions repbliicaines a son epoque menacé par le rsique d'une disctature qui s'instaurera à la fin de la république romaien. Marc-aurele a pas intention de remettre le prioncipat comme regime politque romain. Il assume sosn tatut d'empereur.
+
+mais ce que les stoics ont en commun c'est l'idée que l'ordre social une fois qu'il est établis, rien n'est plus important que de le préserver, de le conserver; la durée des choses dégage de leru légitimité. d'un coté les stoics peuvent dire il n'y a pas d'esclavage dans la nautre, ou plutot la nature ignore l'esclavage, et considerer que l'esclavage est parfaitemnet légitime en ta nt q'il est un pilier de l'ordre sociale t économique romain.
+
+idée de nature ne déoubhce pas sur l'idée de droits naturel,s comme ça sera le cas a partir du 17ème siècel.
+
+en ce domaine comme dans d'atres, la preocation des stoiciens va etre plutot d'adapter la legislation, dela faire evoluer, de l'humaniser, certaiemetn aps dela bouleverser. ce sne sont pas des revolutionnaires. 
+
+sur le plan politique ce qui va caracteriser les stoics c'est le soucis d'unifier plus que ce n'étatit le cas d'ouvrir el droti romain, et de l'ouvrir à des catégories de la populatio qui restait à sa marge. Ca c un mouvement d efond qui se déploie sur la tres longeud urée, mais qui va aboutir sous le reigne d'un empereur Caracalla, pas du tout stoic, assasiné rapidement, en 222 après JC. Désormais tous les hommes libres sont régies dans l'emoire d'occident par le droti romain. sur le plan politique ça ne change rien.
+
+en ce qui concerne les droit scivils, ca permet à l'ensemble des habintants de l'empire d ejouir au moins ne principe des meme garanties juriqies à l'origine reservé aux seuls citoens romains de naissance. va développer encor eplus le recours au droit dans l'empire et imposer la necessité d'une codiification plus systemeatique masi qui interviendra à Bisance bien plus tard, avec la coditification justinienne et theolose.
+
+l'influenc edes stoics sur le long terme est importante parce que ça va être une lecture et uen source d'inspiration pour la plupart des humanistes de la renaissance. adj encore certaines treaces de stoicismechez certains philosphes.
+
+autre ecole que le stoicisme : epicurien, de épicure. les syniques et stoiciens idée que les dieuxsont indifferents aux hommes. Les stoicejsn comme les syniques sont heritiers et continuateurs de la pensée platonitienne. 
+
+la religion des grecques et la religion des romaisn est uen religion fondée sur le recit des mythologies, où les deiuxs e font l'amour, la guerre, besoins des himmes, hommes otn besoin d'eux, etc. depourvu de morale. Platon en vient à distinguer entre ce que serait les deiux que honorent els grecs, esprits supeirus aux himmes masi infeiruer à la divinité, des dieuxq ui ont créé le monde, une catégorie intermediaire d'etre. 
+
+dans la republique, et autres textes de platon, y'a uen oppositon tres proche que fait socrate entre les poetes et les philosphes. la cité parfaite est uen ecité où y'aura pas de poete, car poete racontnet uen hstoire des dieux qui est immorale aux yeux de socrate.
+
+cette tensione ntre adhésion à des mythes restés populaires et les cultes qusi otn associés et une spéciulation philosphque qui aspire quelqeu aprt à rationalsier le ciel aboutit chez les syiiques ou les stoicens à propsiton paradoxa,e que dieux sont trop parfaits pour se melerd des choses humaines. ils se placent en portafaxu avec les coryances dominantes. Il ne nie pas existence de sideux, ils disnet que indifferent aux hommes pas de raison quis soccuent arfafires humaien squis ont au rang inferieur.
+
+dans le cas d'épicure, y'a un veritable atheisme. AUteur du poeme Lucrece (traudtion nature) prend pas la peine denier existence des deiix, mais toute sa doctirne de la nature reivent à nier l'existence des deiux. Karl marx consacrera sa these à épicure. epicure developpe une theorie atomiste de la nature, la nature est compsoée d'atomes, et la seule chose qui ne cessent de se composer et decomposer dans la nature ce sont les atomes.  c'est l'unité de la nature la plus petite, insécable, et il n'y a rien au dela et en deca de cette réalité basique de cette premeire vrique du monde.
+
+dans la nature, espec ed etentative d'exlicaiton purement rationel de. la nautre, du cosmos et de la nature humaine elle meme. c un enseignement tres elististe, au sens où epicurieurs pronent le rertriat de la scité, et une vie qui serai consacrée au xloiisrs et aux plaiisrs. 
+
+ce sont des jouissuers, mais qui n'netnenden pas etr eprisnier de leur jouisance (marque phsolophie post platonicene). Il n'entendent aps al subir. Elle cuille la rose de al vie parce qu'elles 'offre a eux, ùmais pas depdenfdants de leur propre plaiisr.
+
+le plaisi rest autant plus grand qu'il n'est pas l'expression d'une dépdéndacnce. Doù la méfiance de certains épicurieux à l'égard du désir sexuel, trop intense, cpaable de nosu emporter dans les flots de la passion. donc absitance vaut mieu xuque le plaisir si ons ent qu'on en a pas la maitrise.
+
+toutes renvoeis à l'idée que hy'a un ordre polituqe qui est respecale en soi meme, que societe peuent pas etre bouleversé determine ce qu'et le e role des autorité poliqe, que ce osit prince ou asssemblée.

@@ -265,7 +265,7 @@ Ainsi, il faut différencier :
 
 Toutefois, cette jurisprudence est aujourd’hui dépassée. Un **lycée**, en tant que **personne morale de droit public**, conclurait aujourd’hui des contrats **administratifs** en vertu du **Code de la commande publique (CCP)**.
 
-### **Le contrat comme modalité d’exécution du service public**
+- **Le contrat comme modalité d’exécution du service public**
 
 Il arrive également qu’un contrat soit une **modalité d’exécution du service public**.
 
@@ -401,74 +401,103 @@ Ce critère du **régime exorbitant du droit commun** semble donc être tombé e
 
 ### Paragraphe 1 : La formation du contrat
 
-comme pour tout contrat, dont ocntrat amdinistrait, ca suppose la réunion de 2 consentments libres et éclairés. 
+Comme pour tout contrat, y compris un contrat administratif, cela suppose la réunion de deux consentements libres et éclairés.
 
-la perosnen publqiue est libre de contacter.
+La personne publique est libre de contracter.
 
-de plus, étant uen perosnne morale, l'expression du consentemnet del a personne publqiue empreinte de sofmres particulieres, et pas forcment les meme qu'en droit privé. De plus la faocn de contracter dirfere quadn c une perosnne publique qui acquiert un bien ou un service 
+De plus, étant une personne morale, l'expression du consentement de la personne publique emprunte des formes particulières, qui ne sont pas forcément les mêmes qu'en droit privé. En outre, la manière de contracter diffère lorsque c'est une personne publique qui acquiert un bien ou un service.
 
 #### A) Les règles générales communes au droit civil
 
 ##### 1) La reconnaissance de la liberté contractuelle
 
-le conseil costitutionnel a longtemps refusé de faire de la lbierté contractuelle in principe constituinelle. Tres nuancé : sa jurisprudence a pmusieurs fois sancitonné les lois qui affectiaen tla liberté contractuelle, mais elle l'a fait de maniere indirecte, càd en se fondant sur les atteintes que ces lois portaientà d'autre droits et libertés constitutionellement garantie. 
+Le Conseil constitutionnel a longtemps refusé de faire de la liberté contractuelle un principe constitutionnel. Sa position est très nuancée : sa jurisprudence a plusieurs fois sanctionné les lois qui affectaient la liberté contractuelle, mais de manière indirecte, c'est-à-dire en se fondant sur les atteintes que ces lois portaient à d'autres droits et libertés constitutionnellement garantis.
 
-par exemple ces autres droits : liberté du travail, liberté d'entreprendre, libre admsinistrationd es collertivités territoiraels. 
+Parmi ces autres droits figurent la liberté du travail, la liberté d'entreprendre et la libre administration des collectivités territoriales.
 
-puis décison 2437 DC, 19  décembre 2000, le consiel constititonnel a fait découlé la lbierté contractuelle de l'articel 4 de la déclaration des droits de l'homme et du citoyen.
+Puis, dans la décision **==n° 2000-437 DC du 19 décembre 2000**, le Conseil constitutionnel== a fait découler la **liberté contractuelle** de l'**==article 4 de la Déclaration des droits de l'homme et du citoyen==**.
 
-Mais dans cette décision c la liberté contractuelle des perosnnes privées qui semblaient constituionalisée. 
-(revoir nombre)
-enfin décison 2643 DC, 30 novembre 2006, Secteur de l'énergie, le conseil fait application de cette liberté a des personne spubliques.
+> **Article 4 de la Déclaration des droits de l'homme et du citoyen**
+> *La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui : ainsi, l'exercice des droits naturels de chaque homme n'a de bornes que celles qui assurent aux autres Membres de la Société la jouissance de ces mêmes droits. Ces bornes ne peuvent être déterminées que par la Loi.*
 
-pour le consiel constitutionnel, la liberté contractuelle est un principe général du droit. Mais appliquée aux personnes publiqes, les choses sont plsu compliqués. Le conseil d'éta considere que le code des marchés publics qui restreint la liberté peut résulter d'un décret.  (CE, Ass, 5 mars 2003, ordre des avocats à la cour d'appel de paris).
+Cependant, dans cette décision, c'est principalement la liberté contractuelle des personnes privées qui semble avoir été constitutionnalisée.
 
-mais d'un ature coté, il estime que les disppsitoons legislatives qui dérogent au pricnipe de la liberté contracutelle doivnet etre interprété rescritivement (CE, 28 javier 1998, Société Borg Warner). 
+Enfin, dans la décision **==n° 2006-543 DC du 30 novembre 2006** (_Secteur de l'énergie_),== le Conseil a appliqué cette liberté aux personnes publiques.
 
-les deux juridcitons admettne tl'existence d'un principe de liberté contracutelle, sans arriver à le placer dans la hiérarchie des normes. 
+Pour le Conseil constitutionnel, la liberté contractuelle est un **principe général du droit**. Toutefois, son application aux personnes publiques est plus complexe. Le Conseil d'État considère que le **Code des marchés publics**, qui restreint cette liberté, peut résulter d'un simple décret (==**CE, Ass., 5 mars 2003, Ordre des avocats à la cour d'appel de Paris**==).
+
+Mais d'un autre côté, il estime que les dispositions législatives qui dérogent au principe de liberté contractuelle doivent être interprétées de manière restrictive (**==CE, 28 janvier 1998, Société Borg Warner==**).
+
+Ainsi, les deux juridictions admettent l'existence d'un **principe de liberté contractuelle**, sans parvenir à le situer précisément dans la hiérarchie des normes.
 
 ##### 2) L’expression du consentement par l’autorité compétente
 
-
-pouruq qu'un contrat soit valablemet formé, il faut que les aprties au contrat aient la capcaié de contracé, et aient émis un consentemet libre et conscient, faute de quoi le contrat serait entaché  d'un vice de consentemten.
+Pour qu'un contrat soit valablement formé, il faut que les parties au contrat aient la capacité de contracter et aient émis un consentement libre et éclairé, faute de quoi le contrat serait entaché d’un vice du consentement.
 
 ###### a) La capacité/la compétence pour contracter
 
-la capacité de contracter envoei à la qualité des parties pour contracter.
+La capacité de contracter renvoie à la qualité des parties pour conclure un contrat.
 
-cela implique qu'elle dispose pou rles personnes privées de la capacié juridique, et pour les perosnne spubliques ca suppose qu'eles aient la coméptenc epour agir.
+Cela implique que, pour les personnes privées, elles doivent disposer de la capacité juridique, et que, pour les personnes publiques, elles doivent avoir la compétence pour agir.
 
+Gaston Gèze, en 1925, a donné la définition suivante : ***"La capacité, la compétence, c'est le pouvoir de vouloir un effet juridique. L'exercice de ce pouvoir, c'est la manifestation de volonté, c'est l'acte juridique."***
 
-gaston gèze définition donnée en 1925 "la capacité, la compétence,c 'est le pouvoir de vouloir un effet juridique. L'exercice de se pouvoir c'es tla manifestationd evolotné, c'est l'acte juridique".
+Contrairement aux personnes physiques privées, qui bénéficient en principe de la capacité de contracter, et aux personnes morales de droit privé, qui ne peuvent conclure de contrats que dans la limite de leur objet social, les personnes publiques ne peuvent intervenir que dans la limite de leurs compétences, c'est-à-dire dans le cadre de leur spécialité.
 
-contrairmenet aux personne sphysiques privées qui beneficient en principe de lacapacité de contrater, mais comme les personnes morales de droit privée qui ne peuvent conclure e contrat qui ne peuvent conclure de contrat que dans la limite de leur objet social, les perosnes publqieu sne peuvent intervenir que dans la limite de leurs compétence, càd dans le cas de leur spécialité. 
+La personne publique est compétente pour contracter, sous trois aspects : **compétence matérielle, compétence temporelle et compétence territoriale**.
 
-la personen publquu est competente :
-- competence mateirelle : objet du contrat (
-	- etat: pas de spécialité matériellement parlant, il a une vocation générlae poru toutes les activités qui sotn pas dévoluées à qqn d'aurtre, il a la competenc de droti commun, il a la"competenc ede la competence". Ce qui a été dévolu par la loi peut etre repis par la loi. ; 
-	- collectivité territoriale : pendna tlongtmeps, elles aviaent une clause de compétence générale qui leur permettai td'agir dans n'importe quel domaine, pour autant qu'il y aviat un interet public local  (these de diphaine rombaut). mais la loi du 7 aout 2015, loi "Notre", depusi cette loi seules les communes en beneficient encore, donc département et région n'en beneficient plus. 
-		- champ de ocmeptence du département : l'action sociale
-		- champ de ocméptence de la région : le développement économique
-		- donc departement et region otn des attributions precismenet enumérés par la loi. donc on regarde comeptence du département on regarde les textes pour verifier. Ex région peut pas s'imisser dans action sociale (sauf si texte preicse contraire)
-	- etablissment publics : ce sont des personne spublqieus spécialsiées. leru comeptence sont limitativement énumérée dans leurs status.donc faut verifier les status.
-- competence temporelle : on va devoirvérifieor qu'au jour d ela signautre l'autorité est bien comépetene. en periode electoralle faut faire preuve de viilence. Quadn election pour renouveler elus, entre election et arrivée de la nouvelle équipe, on gere les affaires courantes. Donc pas de grosse consession, nouveau projet, etc. Ca a un impact où CE a dit ue aps de compéence car c'est plsu que gerer les affaires courantes.
-- competnece territoriale : ppur que le contrat soit alalbmenet conclu, encore faut il que l'autorité competente se soti occupé de son territoire. psoe pas de probleme saf des fois limties des collectivités, ex un etat ne peut pas conclure de contrat relevant de la comeptence de la collectivité territoirale, sans avoir eu son accord.
+1) **Compétence matérielle : l’objet du contrat**
 
-une fois identité quelle est la persone publique competence, ex s'ilf aut fiar eun cojtrat pur renover un college, c'est le departement, il convient d'identifier l'autorité habilité à signer le contrat.
+- **L’État** : il ne dispose pas d’une spécialité matérielle à proprement parler. Il a une vocation générale pour toutes les activités qui ne sont pas dévolues à une autre entité. Il est compétent en tant que **droit commun**, c’est-à-dire qu’il possède la **"compétence de la compétence"**. Ce qui a été dévolu par la loi peut être repris par la loi.
 
-pour l'état 
-- (au nouveau central): le premier ministre (les ministres ou les personnes déléguées).
-- au niveau déconcentré : le prefet est competent sauf texte contraire
+- **Les collectivités territoriales** :
+    - Pendant longtemps, elles disposaient d'une **clause de compétence générale**, leur permettant d’intervenir dans **n’importe quel domaine**, à condition qu’il y ait un **intérêt public local** (thèse de Delphine Rombaut).
+    - Mais depuis la **==loi du 7 août 2015,  loi portant sur la Nouvelle Organisation Territoriale de la République (NOTRe)==**, seules les **communes** bénéficient encore de cette clause. **Les départements et les régions n’en bénéficient plus**.
+    - **Champ de compétence du département** : l’action sociale.
+    - **Champ de compétence de la région** : le développement économique.
+    - Ainsi, **les départements et les régions ont des attributions précisément énumérées par la loi**. Il faut donc se référer aux textes pour vérifier leur compétence. Par exemple, une région ne peut pas s’immiscer dans l’action sociale, sauf si un texte le prévoit expressément.
 
-certains contrats doivent etre précédés d'une formalité supplémentaire, certains doivent etre approvués par la loi, ex emprunts d'état, d'autres doivent etre appruvés par decrets (ex autorioute)
+- **Les établissements publics** :
+    - Ce sont des **personnes publiques spécialisées**.
+    - **Leurs compétences sont limitativement énumérées dans leurs statuts**. Il est donc nécessaire de vérifier ces statuts avant toute conclusion de contrat.
 
-dans les collectiivté terrotiraes, la conclusion du contrat (la décision de contracter) est autorisé par l'assemblée délibérante, mais c'est l'executif qui va signer la convention.  
+2) **Compétence temporelle**
 
-la délibératione t le contrat osnt ensuite transmis a quelqu'un (tous les actes, qu'ils soient contractels ou unilatéraux) sont soumsi au prefet. le prefet a un controle de légalité, si suspiction il le tranfere au tribunal admnistratif (avant 82 il pouvait annuler des actes des terrotoriales, adj réservé au juge), masi gardé un controle de légaltié.
+Il est nécessaire de vérifier qu’au **jour de la signature**, l’autorité était bien compétente.
+- **En période électorale**, une vigilance particulière s’impose.
+- Lorsqu’une élection vise à **renouveler des élus**, entre l’élection et l’arrivée de la nouvelle équipe, **on ne gère que les affaires courantes**.
+- Par conséquent, **aucune grande concession ou nouveau projet ne peut être engagé** durant cette période.
+- Cette restriction a un impact : le Conseil d’État a ainsi jugé qu’en dehors des affaires courantes, l’autorité n’était pas compétente (_CE, décision non précisée_).
 
-le défaut de transmisisn d'un contrat à ssa signature est une irrégularité (Ass 28 decembre 2009, Commune de Beziers), mais qui entraine pas necessairement la nullité du contrat.
+3) **Compétence territoriale**
 
+Pour qu’un contrat soit **valablement conclu**, il faut que **l’autorité compétente agisse bien sur son propre territoire**.
+- Cela ne pose généralement pas de problème, sauf dans certains cas aux **limites des collectivités territoriales**.
+- Par exemple, un **État ne peut pas conclure un contrat relevant de la compétence d’une collectivité territoriale** sans avoir obtenu son accord préalable.
 
+Une fois identifiée la personne publique compétente, il convient de déterminer **l’autorité habilitée à signer le contrat**.
+
+Par exemple, si un contrat doit être conclu pour **rénover un collège**, la compétence appartient au **département**. Il faut alors identifier **l’autorité départementale compétente pour signer**.
+
+1) **Pour l’État**
+- **Au niveau central** : le **Premier ministre** est compétent, ainsi que les **ministres** ou les **personnes déléguées**.
+- **Au niveau déconcentré** : le **préfet** est compétent, sauf disposition contraire d’un texte.
+
+Certains contrats doivent être précédés d’une **formalité supplémentaire** :
+- Certains doivent être **approuvés par la loi** (exemple : **les emprunts d’État**).
+- D’autres doivent être **approuvés par décret** (exemple : **les concessions autoroutières**).
+
+2) **Pour les collectivités territoriales**
+- **La conclusion du contrat (la décision de contracter) est prise par l’assemblée délibérante**.
+- Toutefois, **c’est l’exécutif qui signe la convention**.
+
+Ensuite, la **délibération et le contrat doivent être transmis au préfet**.
+- **Tous les actes**, qu’ils soient contractuels ou unilatéraux, sont soumis au **contrôle de légalité du préfet**.
+- **Si une illégalité est suspectée, le préfet peut saisir le tribunal administratif** (depuis 1982, il ne peut plus annuler lui-même les actes des collectivités, cette compétence étant désormais réservée au juge administratif).
+
+Sanction en cas de défaut de transmission :
+- Le **défaut de transmission d’un contrat au préfet** constitue une **irrégularité** (==**CE, Ass., 28 décembre 2009, Commune de Béziers**==).
+- Toutefois, cette irrégularité **n’entraîne pas nécessairement la nullité du contrat**.
 
 ###### b) Le consentement non vicié
 
@@ -582,48 +611,458 @@ enfin à titre exceptionnel, pas de publicité ni de mise en concurrence dans le
 
 ### Paragraphe 2 : L'exécution des contrats
 
-les partis peuvent modifier les cluases du contrat par un avenant (droit commun des contrats), en revanche les contrats administratifs ont des regles prorpes qui peiuvnet affecter l'execution du contrat san sl'accord de toutes les parties. 
+Les parties peuvent **modifier les clauses du contrat par un avenant**, conformément au **droit commun des contrats**. Toutefois, dans les **contrats administratifs**, des **règles spécifiques** peuvent affecter l'exécution du contrat **sans l'accord de toutes les parties**.
 
-on a égaemetn des normes exteirues uqi peuvent influencer l'execution du contrat. Comme normes legislatives et relgementaires. Ex poru seuisl de produit chimiques dans l'eau, si on baisse les seuils, va influencer l'execuion du contrat.
+De plus, **des normes extérieures** peuvent influencer l’exécution du contrat, notamment les **normes législatives et réglementaires**.
 
-sur ce point, le princope est que le contrat demeure régit par les dispositons legislatives dun acte reglementaire applicalbe à la date de sa conclusion. 
+- **Exemple** : si la réglementation sur **les seuils de produits chimiques dans l’eau** est modifiée à la baisse, cela aura un **impact direct sur l’exécution du contrat** pour les entreprises concernées.
 
-la loi nouvelle peut cepnendnat s'appliuqer imédiatement aux contrats administratifs en cours dans 3 cas :
-1. lorsque le contrat lui meme a prévu osn adaptation aux évolutiosn futures de la législation
-2. lorsque la loi le prévoit expressement, à condition que cette loi repose sur unmotif d'interet general et qu'elle ne porte pas uen atteitne excessive à la liberté contractuelle ou à la libre administration des collectivités territoiriales lorsqu'une collectivité territoirale en est partie
-3. dans le silence de la loi, en présence de considératin d'ordre public suffisement interessant. 
+En principe, un **contrat administratif demeure régi par les dispositions législatives et réglementaires applicables à la date de sa conclusion**.
 
-l'execution du contrat administratif comporte des particularités par rapport au contrats de droit privé. en effet, l'administration dispose d'importantes prérogatives, appéleées prérogatives parfois exhorbitantes, Néanmoins le co contractant n'est pas dépourvu de tous droits. ila le droit au retableissment de l'éqiilibre financier,.
+Toutefois, une **loi nouvelle** peut s’appliquer **immédiatement** aux contrats administratifs en cours dans **trois cas** :
+1. **Lorsque le contrat lui-même a prévu son adaptation aux évolutions futures de la législation**.
+2. **Lorsque la loi prévoit expressément son application aux contrats en cours**, à condition que :
+    - Cette loi repose sur un **motif d’intérêt général**.
+    - Elle ne porte pas une atteinte excessive **à la liberté contractuelle** ou **à la libre administration des collectivités territoriales** (lorsqu'une collectivité territoriale est partie au contrat).
+3. **Dans le silence de la loi**, si des **considérations d’ordre public suffisamment importantes** le justifient.
 
-#### A. Les prérogatives de l’administration
+L'exécution d'un **contrat administratif** présente **des spécificités par rapport aux contrats de droit privé**.
+- **L'administration dispose d’importantes prérogatives**, parfois qualifiées de **prérogatives exorbitantes**.
+- **Cependant, le co-contractant conserve certains droits**.
+    - **Le principal droit du co-contractant est le droit au rétablissement de l’équilibre financier**.
 
-ces prérogatiuves osuligne l'inégaltié des aprties aucontrat. elles s'exercetn dans le silecne du contrat. Y'a des prerogatives pas prévues dans les clases contracutelle smais quqe admnistration petu tiliser car contrat administratf.
+#### A) Les prérogatives de l’administration
 
-l'administration abcp de prerogatives, et souvent le co contractant apparait comme le démuni. Ce dernie r un droit essentiel de rééquilibrer financier, et d'engager la repsisnabilité de l'adminisration.
+Ces **prérogatives soulignent l’inégalité des parties au contrat**. Elles s’exercent **dans le silence du contrat**, c’est-à-dire qu’elles ne sont **pas nécessairement prévues dans les clauses contractuelles**, mais l’administration peut les utiliser **parce qu’il s’agit d’un contrat administratif**.
 
-l'administration peut
-- le pouvoir de controle
-- le pouvoir de sanction
-- modifier unilatéralement 
-- résilier unilatéralement (si tt le monde est daccord pas besoin du régime adminsitratif)
+L’administration dispose de nombreuses prérogatives, ce qui peut donner l’impression que le **co-contractant est démuni**. Toutefois, ce dernier possède **un droit essentiel au rééquilibrage financier** et peut **engager la responsabilité de l’administration** en cas de préjudice.
 
+L’administration dispose notamment des pouvoirs suivants :
+- **Le pouvoir de contrôle**
+- **Le pouvoir de sanction**
+- **Le pouvoir de modification unilatérale du contrat**
+- **Le pouvoir de résiliation unilatérale du contrat** (si les parties sont d’accord, il n’est pas nécessaire de recourir au régime administratif de résiliation).
 ##### 1) Le pouvoir de contrôle
 
-il est admisq ue l'adminsitration procede via un pouvoir de controel. questiond e savoir si'l existe en dehors de toute stipulation contractuelle ou si ce puvoir doit figurer dans les clauses du contrat. 
+Il est admis que **l’administration dispose d’un pouvoir de contrôle** sur l’exécution du contrat. La question se pose toutefois de savoir **si ce pouvoir existe en dehors de toute stipulation contractuelle ou s’il doit nécessairement figurer dans les clauses du contrat**.
 
-la doctirne estime que ce pouvori se rattache aux regles generales applicables au contrats administraitfs, mais aucune décision de jurisprudence n'ettaie solidement cette assertion. au contraire, elel semble admettre que ce pouvori n'exsite que dans certains contrat. arret assemblée 21 décembre 2012 Commune de Douai.
+- **La doctrine** estime que ce pouvoir **se rattache aux règles générales applicables aux contrats administratifs**.
+- **Cependant, aucune décision de jurisprudence ne vient solidement étayer cette affirmation**.
+- **Au contraire, la jurisprudence semble admettre que ce pouvoir n’existe que dans certains types de contrats** (_CE, Ass., 21 décembre 2012, Commune de Douai_).
 
- ce pouvori de controle permet à l'admiistration de préciser les modalités d'execution du contrat, de verifier à tout mometn l'état da'vancement des travaux, et d'en joindre la réalisation de travaux indispensables masi non prévus. 
+Ce **pouvoir de contrôle** permet à l’administration :
+- **De préciser les modalités d’exécution du contrat**.
+- **De vérifier à tout moment l’état d’avancement des travaux**.
+- **D’enjoindre la réalisation de travaux indispensables, même s’ils n’étaient pas prévus initialement dans le contrat**.
 
-##### 2. Le pouvoir de sanction
+##### 2) Le pouvoir de sanction
 
-l'administration petu infliger uen sanction pour maiconnaisance des clauses du contrat, ou d'inobservation. Ce pouvori de sanction s'exerce dans le silenc edu contrat.
+L’administration peut **infliger une sanction** en cas de **méconnaissance des clauses du contrat** ou **d’inexécution des obligations contractuelles**. Ce **pouvoir de sanction s’exerce même dans le silence du contrat**.
 
-regles de procédures : toute sanction doti etre précédée d'une mise en demeure d'executer, toute sanction doit être motivée, et ce pouvori de sanction reste discrétionaire, l'administration n'a pas besoin de saisir le juge. 
+Pour être régulière, une sanction doit respecter certaines règles :
+- **Toute sanction doit être précédée d’une mise en demeure d’exécuter**.
+- **Toute sanction doit être motivée**.
+- **Le pouvoir de sanction de l’administration est discrétionnaire**, ce qui signifie qu’elle **n’a pas besoin de saisir le juge pour l’exercer**.
 
-3 types de sanction:
-- pecuniaire
-	- pénalités de retards et amendes : objectif est de réparer forfétairement le préjudice que l'adminsitraitonpeut suvir en raison du manquement du co contractant, elles otn essentielelment un but punitif. poru ces pénalités il faut absoulemetn qe le contrat les ai prévus. (ex prix par joru de retard). 
-	- dommages et interets  : administration pourra prononcer sans saisir le juge, et dans le silence du contrat (donc meme si pas prévu au contrat) pour être indemnisé du préjudice causé par inexecutn du contrat. créé par arret CE 31 mai 1907 Delplanque. C'est un but de réparation pas de punition. 
-- sanctiosn coercitives : but es dde punr et de surmonter el comprotement irréguleir du co contractant. La sanction coercitive est lorsque administration vas se substituer au co contractant. On subsitue un tiers au frais et au risque du co contratant défailant. On va parle de mise sous séuqestre d'une concession lorsque par exmeple la collectivité reprend l'activité en régie (propre personnel, execution du service sous son proppre budget).  On parle egalement d emise en régiel d'un marché de travaux public. On parle egaement d'un défaut de marché de singnature. 
-- resiliation (attention différente de la résiliation pour motif d'interet general, ici c'est poru cause de sanction)
+3 types de sanctions
+
+1. **Les sanctions pécuniaires**
+
+Elles visent à **réparer un préjudice financier** ou à **punir le co-contractant**.
+
+- **Les pénalités de retard et les amendes** :
+    - Leur objectif est de **réparer forfaitairement** le préjudice que l’administration peut subir en raison d’un manquement du co-contractant.
+    - Elles ont **essentiellement un but punitif**.
+    - **Pour être appliquées, elles doivent impérativement être prévues dans le contrat** (exemple : pénalité par jour de retard).
+
+- **Les dommages et intérêts** :
+    - L’administration peut les prononcer **sans saisir le juge et même en l’absence de clause spécifique dans le contrat**.
+    - Ils permettent **d’indemniser le préjudice causé par l’inexécution du contrat**.
+    - **Ce pouvoir a été reconnu par l’arrêt CE, 31 mai 1907, Delplanque**.
+    - **But : indemnisation, pas punition**.
+
+2. **Les sanctions coercitives**
+
+Elles visent **à punir** et à **surmonter le comportement irrégulier du co-contractant**.
+
+- **La substitution d’un tiers aux frais et risques du co-contractant défaillant** :
+    - L’administration peut **faire exécuter les prestations par un autre opérateur** lorsque le co-contractant **ne respecte pas ses engagements**.
+    - **Exemples :**
+        - **Mise sous séquestre d’une concession** : la collectivité reprend **l’activité en régie** (avec son propre personnel et son propre budget).
+        - **Mise en régie d’un marché de travaux publics**.
+        - **Défaut de signature du marché** : l’administration peut attribuer le marché à un autre opérateur.
+
+3. **La résiliation**
+
+**Elle ne doit pas être confondue avec la résiliation pour motif d’intérêt général.**  
+Ici, la résiliation intervient **pour sanctionner le co-contractant**.
+
+- Elle est prononcée **après une mise en demeure** et entraîne **la fin de toute relation contractuelle entre les parties**.
+- Elle est aussi appelée **"déchéance"**.
+- C’est une **sanction exceptionnelle**, qui **n’est prononcée qu’en cas de faute d’une particulière gravité**.
+
+La **résiliation-sanction** est toujours prononcée **contre le co-contractant défaillant**, et **uniquement après une mise en demeure**. On l’appelle **"déchéance"**, car elle entraîne **la fin de toute relation contractuelle entre les parties**. Cependant, elle demeure une **sanction exceptionnelle**, qui **ne peut être prononcée qu’en cas de faute d’une particulière gravité**.
+
+Elle peut être **prononcée même en l’absence de clause contractuelle** :
+- **Il n’est pas nécessaire que le contrat prévoie expressément un pouvoir de résiliation pour que l’administration puisse l’exercer**.
+- Ce principe a été affirmé par plusieurs décisions :
+    - **==CE, 30 septembre 1983, Comexp==** (principe général).
+    - **==CE, 26 février 2014, Société Environnement et Services==** (application aux marchés publics).
+    - **==CE, 12 novembre 2015, Société du Jardin d’Acclimatation==** (application aux concessions).
+
+Si le **co-contractant conteste la résiliation**, il peut **saisir le juge administratif**, qui va **contrôler la nécessité de la sanction et son adéquation avec l’objet du contrat et la gravité des faits**.
+
+Depuis **l’==arrêt CE, 21 mars 2011, Ville de Béziers==**, le **co-contractant peut demander la reprise des relations contractuelles** devant le juge.
+- Si l’administration **a utilisé son pouvoir de résiliation unilatérale**, le co-contractant peut **contester cette décision en saisissant le juge** par une **action en reprise des relations contractuelles**.
+- **Le juge examine la légalité de la résiliation**.
+- **Si la résiliation est jugée illégale, le juge peut ordonner la reprise des relations contractuelles**.
+
+##### 3) Pouvoir de modification unilatérale
+
+la jurusprudence a mis bcp de temps pour reonnaitreun tel pouvoir. Onv a trouver la prmeiere phase de cette reconnaisance jursprdenceille arret 10 janvier 1902, Compgnie nouvelle du Gaz de Deville-Les-Rouen, il s'agissait d'uen cmmne lieé par contrat à ne etrperise qui fournit du gaz pour l'éclairage publci. sauf que ona voulu switcher pour electiricté, suaf que comapgni de gaz n'a pas voulu se mettre à electicité . Commune a voulu se tourner vers netreprise d'electiricité, conseil d'état a validé la modificaiton unilatérale, maisen la rattachant fictivement à l'accord contractuel.
+
+c un arre tqui fait un premier pas vers la reconnaisance de ce pouvoir de moification, et vers lamutabilité des contrats administraitfs.
+
+deuxieùe pas : arret 21 mars 1910 Compagnie générale française des tramways. on valide encore la modification unilatérale du contrat, sauf que cette modificaiton est fondée sur un texte réglementaire. 
+
+il a fallu attendre un arret duCE 22 février 1983 , Union es transports publics et urbains,  (GAJA) pourq ue le consiel d'état consacre un droit de modification unilatéral tojurs das le silence du contrat.
+
+ce pouvori de modification a été codifié a articel L6-4 du code de la commande publique, qui dispose pour les contras administratifs qui relevent du code, "que a leur égad l'autorité contarctante petu modifier unilatéraement le contrat dans les conditiosn prévues par le présent code, sans en bouleverser l'équilibre. Le co contractnat a droit au une indemnisation sosu reserve des stipulations du contrat." désormais on peut modifier les contrats administratifs dans le silence des clauses contractuelles.
+
+question est de savoir por quele raison admiistration peut modifier à une tellemodification unilatérale. pas besoind u consentemnt du co-contractant. au départ il fallait un motif tiré des exigences du service publci. Idée est que la mutabilité des contrats venait répondreà la mutabiltié du service public. il fallait que les outils du service public bouge avec le serie publci. 
+
+mais au fil du tems, ces motifs se sont transformés en un simple motif d'inretet general, permettant d'integrer d'autres interets publics que celui du serice public, y compri sun interet financier de la personne publique, voire du co contractant. 
+
+
+noramleetn al modification unilatérale est limitée dans le ses où pendant longtemps on a estimé qu'elle ne pouvait aps toucher les clauses financieres. probleme c que cette affirmation doitêtre aujourd'hui nuancée.  pour ce qui est de la modificationd es clauses financieres, il faut savoir que tout d'bord cette modification unilatérale des clauses financieres d'n contart amdnistati est tpossible lorsqu'elle est prévue par le contrat lui meme.
+
+ensuite on fait une distinctions selon que l'olbigaiton financiere est à la charge de la personne publique, ou si elle est à la charge du co contractat ou du'n tiers. (ex usagers).
+
+1° dans les contrats dans esuqels obligaitonfinanciere n'est pas à la charge de la personne publique, la fculté d'adaptation des conditions financieres du contart est largeent admise.
+
+Exempel : la personne publque peut mdifier unilatéralement la redevance d'occupation du domaine public, qui est dû parun concessionaire du service public. 
+
+deuxiem eexemple : pour les concessions de serivce public, la modification des clauses financieres est possilbe. arrret 27 octobre 2010 Syndicat intercomunal des transports publcis de Cannes. 
+
+2° lorsque la perosnne publiq eest éditice d'ue obligaiton financere, la solun est raidement differente, juges admettent que de façon tres limitée la modificaton unilatérale des clauss de fianncement. 
+
+sous distintion entre marché publcet concessions. pour les arcés, il n'est pas possible de modifer les clauses financieres (résulte d'un arret 26 novembre 1975 Société entreprise Py, le juge a estimé pas possible d eodiifer les lcases fiannceires d'un march public).
+
+quesiton apris un enovelle tournure, et c surtout la modificaton sèche du prix des marchés publics qui c'est psoée. notemmetn poru compser les surcouts de l'exploitation (à ause du covid et ukraine). COnsel étati avis 15 spetembre 2022, admet que le principe d'intangibilié qui resultat de l'arrêt Entreprise Py ne s'oppose pas à ce que les parties procedent à une modification de celui-ci, en vue de compenser les surcouts que le titulaire ou le concessionaire subit du fait de circonstances imprévisibels.
+
+l'adminisration peut egelament modifie rle contrat en cas d'illégalité. Cette possiilité est tres recente, elle da ted'una rret 8 mars 2023 syndicat intercomunal de la périphérie de paris pour les energies et les réseaux de communication (SIPPEREC). pour la premeire fois le conseil d'état a admis que la personen publique peut lorsquu'ne clause du "contrat est afféctée dune irrégularité, tenant au caracteère illicite de son contenu et à condition qu'elle soit divisible du reste du contrat l a persone publuu e petu y apporter de maniere unilatrale  les modifications permettant de remedierà cette irrégularité". On consacre pour la premiere fois faculté pour la persoen publiq de modifier unilatralemetn conra administraif afind 'en corriger les irrégularités. 
+
+mais ca reste uen faculté discutable. 
+1. c une extenison du pouvoir de modification qui est éloigné de l'essence de ce pouvoir, puisque a l'origine un pouvori conféré pour s'apdadter aux necessités du service public. or la donner le pouvoir à administaton povoir d emodifier unilatéralement u contart rie avoir avec le serice pubic mais l'ordre juridique. don cpouvori reativement dsculabel
+2. ici l'administration seule modifie le contrat. Psa besoin de acord du juge , et consulte pas autre partie. auteurs esitme que ca devait etre affaire d ju eou de parteis et pas adminsitartion seule, car comment tetre cerain que clause irrégale? 
+
+arret relativmeent recent, pas de reponse à ça. ce pouvori de modification est contre balancé par la possibilité d'être indemnisé. le co contractnt est dans l'obligation de modiif er le contrat unilatéralmenet modifié,il doit tjrs poursuivre exectio contracutelle,  le non respect del'obliation constitue une faut ede natureà justiier à arésiliation du contrat à ses tords.  Si les modificatiosn faites par l'administraton sont telles qu'ellebouleverese economie du contrat, la résiliation pourra être prononcée par le juge, arret 1910 compagne general efrancaise des tramways. 
+
+
+##### 4) Le pouvoir de résiliation unilatérale
+
+Il existe **quatre types de résiliation unilatérale** :
+1. **La résiliation pour faute**
+2. **La résiliation pour motif d’intérêt général**
+3. **La résiliation pour fait non fautif**
+4. **La résiliation pour irrégularité du contrat**
+
+###### A) Résiliation pour motif d’intérêt général
+
+Elle existe **même en l’absence de clause contractuelle**, et c’est l’un des **pouvoirs les moins contestés** de l’administration. Il **n’est pas possible d’y renoncer** (==_CE, 6 mai 1985, Association Eurolat_==), et ce principe a été **codifié à l’==article L6, 5° du Code de la commande publique== (CCP)**. Il figure également aux **==articles L2195-3, L2395-1 et L3136-4 du CCP==**.
+
+1) **L’exigence d’un motif d’intérêt général**
+
+La résiliation pour motif d’intérêt général **nécessite impérativement un tel motif**.
+- **L’abandon d’un projet** est un motif d’intérêt général reconnu.
+    - Exemple : **l’État a résilié unilatéralement un contrat lié au projet "Décodax"**, qui avait été **abandonné pour des raisons politiques**.
+    - Toutefois, cette résiliation a **coûté 958 millions d’euros à l’État**, sans compter les **recettes fiscales potentielles perdues**.
+    - **Hoepffner**, dans son ouvrage _Droit des contrats administratifs_, souligne que **"l'inconstance politique a un coût particulièrement élevé"**.
+
+- **La perte de confiance entre les parties** peut aussi justifier la résiliation (==_CA Bordeaux, 11 octobre 2022, AXS Ingénierie_==).
+
+2) **Les conséquences d’une résiliation irrégulière**
+
+Si la résiliation n’est pas fondée sur **un motif d’intérêt général**, elle est **irrégulière**.
+- Dans ce cas, il est possible **d’engager la responsabilité contractuelle de l’administration pour faute** (==_CE, 2 février 1987, Société TV6 et Société France 5_==).
+- Il est aussi possible d’**intenter une action en reprise des relations contractuelles** (==_CE, 27 mars 2020, Commune de Palavas-les-Flots_==).
+
+3) **L’indemnisation du co-contractant**
+
+- **La résiliation pour motif d’intérêt général n’est pas une sanction**, donc le **co-contractant doit être indemnisé** pour le préjudice subi, y compris **le manque à gagner** (==_CE, Ass., 2 mai 1958, Distillerie de Magnac-Laval_==).
+- Les parties peuvent **prévoir par contrat les modalités et l’étendue de l’indemnisation**, mais cette indemnisation **ne peut pas être manifestement supérieure à celle qui résulterait de l’application des règles jurisprudentielles**.
+
+4) **Limites à l’indemnisation**
+
+- **Si les parties s’accordent sur un montant et des modalités d’indemnisation**, la **personne publique ne peut pas payer plus** que ce qu’elle doit selon **les règles jurisprudentielles**.
+- En revanche, **elle peut payer un montant inférieur uniquement si le co-contractant est une personne privée**.
+- **Si le co-contractant est une personne publique, l’indemnisation doit respecter le montant fixé par la jurisprudence**, car **sinon la personne publique perdrait des ressources publiques**.
+- Cette règle a été précisée dans **l’arrêt ==CE, 4 mai 2011, Chambre de commerce et d’industrie de Nîmes==**.
+
+###### B) Résiliation pour inexécution non fautive
+
+Il existe **deux hypothèses** dans lesquelles l'exécution du contrat est compromise **sans qu'il y ait faute** de l'une ou l'autre des parties.
+
+1) **Le dépôt de bilan**
+
+- Le dépôt de bilan autorise une **résiliation unilatérale** du contrat.
+- **Le co-contractant n’a alors pas droit à des indemnités**.
+- Les **conséquences financières liées à la passation d’un nouveau marché** ne peuvent pas être mises à la charge du **nouveau contractant**.
+- Toutefois, l'administration peut **demander réparation du préjudice causé par la résiliation**.
+- Il faut néanmoins **distinguer** la possibilité pour l’administration de **demander une réparation** et la possibilité de **l’obtenir effectivement** (_CE, 15 octobre 1965, Société Entreprise Pérignon_).
+
+2) **Le changement de circonstances**
+
+- Un **changement de circonstances imprévisible** peut justifier une **résiliation non fautive**.
+- Cette hypothèse a été consacrée par **l’arrêt ==CE, Compagnie nouvelle de Deville-lès-Rouen==**.
+- Toutefois, cette solution reste **marginale** en jurisprudence.
+###### C) Résiliation pour irrégularité du contrat
+
+Cette possibilité a été consacrée par le **==Conseil d’État dans l’arrêt du 10 juillet 2020, Société Comptoir Négoce Équipements==** (_req. n° 430864_).
+
+Le juge a décidé que **lorsqu’un contrat est entaché d’une irrégularité d’une gravité telle que le juge du contrat pourrait, à la demande de l’une des parties ou d’un tiers, en prononcer la résiliation ou l’annulation**, la **personne publique peut, sous réserve des exigences de loyauté des relations contractuelles, résilier unilatéralement le contrat**.
+
+**Une résiliation soumise à des conditions strictes**
+
+Selon la doctrine, cette **résiliation ne sera pas utilisée si le vice est régularisable**.
+- **Si l’irrégularité peut être corrigée, l’administration ne pourra pas invoquer cette cause de résiliation**.
+- **Si la résiliation est de nature à porter une atteinte excessive à l’intérêt général, elle ne pourra pas être utilisée non plus**.
+
+Ainsi, cette forme de résiliation concerne uniquement les **hypothèses où l’irrégularité est substantielle** et ne peut être régularisée.
+
+**L’indemnisation du co-contractant**
+
+En cas de résiliation pour irrégularité du contrat, **le co-contractant a droit à une indemnisation partielle**.
+
+#### B) Les droits du co-contractant
+
+Face aux prérogatives de l’administration, le **co-contractant** peut sembler démuni, puisqu’il est tenu d’exécuter **ses obligations contractuelles telles qu’elles sont écrites dans le contrat**, et ce devoir a longtemps été conçu **de manière très stricte** (**==_CE, 8 octobre 2014, Société Grenke Location_==**).
+
+Toutefois, le Conseil d’État **admet désormais que l’exception d’inexécution peut jouer sous certaines conditions**.
+
+1) **L’exception d’inexécution**
+
+L’exception d’inexécution repose sur **l’idée que si une partie ne remplit pas ses obligations contractuelles, l’autre partie peut refuser d’exécuter les siennes**.
+
+- Cette exception **n’est possible que si elle est expressément prévue dans le contrat** (elle ne peut pas être déduite du silence du contrat).
+- Elle **n’est admise que si le contrat n’a pas pour objet l’exécution d’un service public**.
+- Le co-contractant doit **informer l’administration** à l’avance afin qu’elle puisse **s’y opposer en temps utile**, à condition qu’il y ait un **motif d’intérêt général**.
+
+2) **Le droit à l’équilibre financier**
+
+La principale contrepartie accordée au **co-contractant** est le **droit à l’équilibre financier**. Ce droit se traduit par plusieurs aspects :
+
+- **Le droit de percevoir la rémunération prévue au contrat**, qui peut prendre plusieurs formes :
+    - Un **prix**, dans le cadre d’un **marché public**.
+    - Une **redevance**, dans le cadre d’une **concession**.
+- **Les avantages financiers liés aux ordres de services complémentaires**, c’est-à-dire aux **modifications du contrat en cours d’exécution**.
+    - Toute modification du contrat **doit être compensée financièrement**.
+    - Lorsque l’administration exerce son **pouvoir de modification unilatérale**, elle doit indemniser le co-contractant en couvrant :
+        - **Les coûts supplémentaires**,
+        - **Les pertes subies**,
+        - **Les gains manqués**.
+    - Exemple : si une concession est accordée pour exploiter une infrastructure comme **Aquanor**, et que le tarif d’entrée est initialement fixé à **10 euros**, mais que la **personne publique décide unilatéralement de le réduire**, alors l’administration doit **compenser les revenus perdus**.
+
+3) **La gestion des situations imprévues**
+
+- Il arrive que **surviennent des situations non prévues par le contrat**.
+- Dans ces cas, **le co-contractant doit en principe continuer à exécuter ses prestations**.
+- Toutefois, **l’administration a l’obligation de rétablir l’équilibre financier ultérieurement**.
+
+### C) La gestion des aléas contractuels
+
+Il existe **cinq aléas** pouvant perturber l’exécution d’un contrat :
+1. **Les sujétions imprévues**
+2. **Les travaux indispensables**
+3. **L’imprévision**
+4. **Le fait du prince**
+5. **La force majeure**
+#### 1) Les sujétions imprévues
+
+Cette **théorie** est née et s’applique **majoritairement en matière de travaux publics**. Elle concerne les **difficultés matérielles** rencontrées lors de l’exécution d’un marché, qui :
+- **Présentent un caractère exceptionnel et imprévisible** au moment de la conclusion du contrat,
+- **Ont une cause extérieure aux parties**.
+
+Cette théorie a été consacrée par **l’==arrêt CE, 30 juillet 2003, Commune de Lens==**.
+
+Les difficultés matérielles pouvant être qualifiées de **sujétions imprévues** incluent :
+- **Des intempéries exceptionnelles**,
+- **Des actes de vandalisme**,
+- **La découverte d’un obstacle imprévu sur le chantier** (exemple : vestiges archéologiques, pollution du sol),
+- **Une nature du sol différente de celle prévue initialement**, compliquant les travaux.
+
+**Obligation de poursuivre l’exécution du contrat**
+**Sauf modification radicale du contrat**, le **co-contractant est tenu de poursuivre l’exécution du contrat malgré la situation imprévue**.
+
+**L’indemnisation du co-contractant**
+- Le **co-contractant peut être indemnisé du préjudice subi**,
+- Cette indemnisation prend la forme d’un **"relèvement de prix"**, permettant de compenser le coût supplémentaire des sujétions imprévues.
+- Cette théorie est **très fréquemment utilisée**, notamment dans le cadre des marchés publics de travaux.
+
+#### 2) Les travaux indispensables
+
+En principe, **l’entrepreneur ne doit exécuter des travaux supplémentaires que s’ils lui sont prescrits par un ordre écrit**. Cela relève du **pouvoir de modification unilatérale de l’administration**.
+
+À titre **exceptionnel**, des travaux réalisés **à l’initiative de l’entrepreneur** peuvent être indemnisés, **même dans le cadre d’un marché forfaitaire** (_illustration CE, 14 juin 2002, Ville d’Angers_).
+
+Seuls les **travaux indispensables** peuvent donner lieu à une indemnisation.
+- Les travaux doivent être **nécessaires à la bonne exécution des ouvrages prévus dans le marché** (===_CE, 18 octobre 1975, Commune de Canari_===).
+    - Exemple : des **travaux de soutènement d’une route** qui étaient **indispensables** à sa stabilité.
+
+En revanche, **aucune indemnisation n’est possible si le maître d’ouvrage s’est expressément opposé à la réalisation des travaux** (==_CE, 2 juillet 1982, Société Routière Colas_==).
+
+#### 3) La théorie de l'imprévision
+
+La **théorie de l’imprévision** a été consacrée dans **l==’arrêt du 30 mars 1916, Compagnie générale d’éclairage de Bordeaux==** (_GAJA_, autrement appelé _arrêt du Gaz de Bordeaux_).
+
+Contexte de l’arrêt
+- La **Compagnie générale d’éclairage de Bordeaux** était liée par un contrat avec la ville de Bordeaux pour **fournir l’éclairage public**, qui fonctionnait à l’époque avec du **charbon**.
+- Cependant, en raison de **la Première Guerre mondiale**, l’approvisionnement en charbon est devenu **très difficile et bien plus coûteux**.
+- La compagnie a alors demandé à la **ville de Bordeaux** (personne publique) **de supporter le surcoût** résultant de l’augmentation du prix du charbon.
+
+Le Conseil d’État devait répondre à la question suivante :  
+**Dans une situation de bouleversement temporaire de l’économie du contrat, résultant d’un événement imprévisible par les parties, le concessionnaire doit-il continuer à assurer le service tout en étant indemnisé des conséquences financières exceptionnelles ?**
+
+- En principe, un **contrat peut prévoir une indexation des prix sur l’inflation**, mais **il est impossible de prévoir une guerre** ou d’autres événements totalement imprévisibles.
+- Tout ce qui relève du **prévisible** doit être **anticipé dans le contrat**.
+- **Le droit ne protège pas celui qui a manqué à son devoir de diligence** en ne prévoyant pas des risques normaux.
+
+Le Conseil d’État a estimé que :
+1. **Lorsque l’économie du contrat est absolument bouleversée**, le concessionnaire **ne peut pas être tenu d’assurer le service dans les conditions initialement prévues**.
+2. **Pour garantir l’intérêt général**, qui impose la continuité du service public, **une solution doit être trouvée** pour permettre l’exécution du contrat malgré la situation exceptionnelle.
+3. **Le concessionnaire est tenu de poursuivre le service public**, mais il peut être **indemnisé des conséquences financières exceptionnelles** causées par l’événement imprévisible.
+
+Cette théorie est aujourd’hui **codifiée à l’==article L6, 3° du Code de la commande publique== (CCP)**.
+
+> **Article L6, 3° du Code de la commande publique**
+> *Lorsque survient un évènement extérieur aux parties, imprévisible et bouleversant temporairement l'équilibre du contrat, le cocontractant, qui en poursuit l'exécution, a droit à une indemnité ;*
+
+Pour **mettre fin aux difficultés temporaires**, il convient de **rechercher une solution qui tienne compte à la fois de l’intérêt général** (qui impose la continuité du service) et des **circonstances particulières** affectant l’équilibre du contrat.
+
+Le **Conseil d’État a estimé** que, dans ces situations :
+- **Le co-contractant est tenu de continuer à assurer le service**,
+- **Mais il peut être indemnisé des conséquences financières exceptionnelles**.
+
+Cette théorie est aujourd’hui **codifiée à l’article L6, 3° du Code de la commande publique (CCP)**.
+
+Cette théorie est **intéressante pour le co-contractant**, car elle permet **une indemnisation**, et pour **l’administration**, car elle garantit **la continuité du service public**.
+
+Trois conditions doivent être réunies :
+1. **L’événement doit être imprévisible**
+
+L’événement doit être **économiquement ou physiquement imprévisible** au moment de la conclusion du contrat.
+
+- Exemples de **circonstances économiques** :
+    - Inflation soudaine et massive,
+    - Krach boursier,
+    - Choc économique majeur (ex. crise financière).
+- Exemples de **phénomènes naturels imprévisibles** :
+    - **Les cyclones ne sont pas considérés comme imprévisibles**,
+    - **Les tremblements de terre et tsunamis, en revanche, le sont**.
+- **Ce qui compte**, c’est que l’événement **déroge aux prévisions raisonnables** qui pouvaient être faites lors de la conclusion du contrat.
+    - Exemple : **COVID-19, guerre en Ukraine**.
+
+2. **L’événement doit être extérieur aux parties**
+
+- Exemples : **guerre, catastrophe naturelle**.
+- En revanche, **une mauvaise gestion de l’une des parties ne peut être invoquée**.
+
+3. **L’événement doit entraîner un bouleversement de l’économie du contrat**
+
+- Il ne s’agit **ni d’un simple manque à gagner**, ni d’un **empêchement total d’exécuter le contrat**.
+    - **Si l’exécution devient impossible, on passe de l’imprévision à la force majeure**.
+- **L’augmentation des charges doit être significative**.
+    - **Une hausse de 2 à 3 % des coûts ne suffit pas** à caractériser un bouleversement économique (==_CE, 30 novembre 1990, Coignet_==).
+
+L’inflation de ces dernières années, causée par la **hausse du prix des matières premières**, l’**augmentation du coût de l’énergie** et les **difficultés d’approvisionnement**, a entraîné un **renchérissement du coût d’exécution des contrats de la commande publique**.
+
+Face à cette situation, **le gouvernement a saisi le Conseil d’État**, qui a rendu un ==**avis en assemblée le 15 septembre 2022==**.
+
+Contrairement à une **circulaire antérieure**, qui **fixait à 6,66 % le taux d’augmentation nécessaire pour considérer qu’un contrat était bouleversé**, le **Conseil d’État ne fixe pas de seuil précis**, mais précise les **modalités d’appréciation du bouleversement de l’économie du contrat** :
+- Il faut **tenir compte de la nature du contrat** (**marché public, concession**).
+- Il faut **tenir compte de la forme du prix** (**marché à prix global, marché forfaitaire**).
+- Il faut **définir la période prise en considération**.
+    - **Le Conseil d’État précise que, pour le versement d’une indemnité, seule la période d’imprévision est prise en compte**.
+
+Si **l’état d’imprévision est reconnu**, alors :
+- **Le co-contractant doit poursuivre l’exécution du contrat**,
+- **S’il interrompt ses prestations, il commet une faute** (==_CE, Sect., 5 novembre 1982, Société Pro Pétrole_==).
+
+En contrepartie, il a **droit à une indemnisation** pour compenser la **charge extra-contractuelle**, c’est-à-dire **le déficit provoqué par l’exécution du contrat pendant la période de bouleversement**.
+
+La **==circulaire du 29 septembre 2022==** prévoit que **le titulaire du contrat doit supporter une partie de l’aléa** :
+- Cette part **varie entre 5 et 25 % du montant de la perte réellement subie**,
+- Elle est modulée **en fonction des circonstances et des éventuels profits réalisés par l’entreprise en dehors de la période d’imprévision**.
+
+Pendant une situation imprévue, **les parties peuvent être tentées de renégocier le contrat**.
+- **Cependant, la renégociation en cours d’exécution n’est pas toujours possible**, car elle peut **violer les règles de mise en concurrence**.
+- Dans certains cas, **il est plus simple d’annuler le contrat et de recommencer une nouvelle procédure**.
+
+L’imprévision peut **évoluer de deux manières** :
+1. **L’équilibre contractuel se rétablit** :
+    - Soit **par la disparition des circonstances imprévisibles** (**ex. fin de la guerre**).
+    - Soit **par de nouveaux arrangements entre les parties**.
+
+2. **Le bouleversement économique du contrat devient définitif** :
+    - L’imprévision se **transforme alors en force majeure**, justifiant **la résiliation du contrat** (==_CE, 9 décembre 1932, Compagnie des Tramways de Cherbourg_==).
+    - Dans cette hypothèse, **l’indemnisation couvre l’ensemble de la charge contractuelle**.
+
+La doctrine a qualifié cette situation de **"force majeure administrative"**. Elle est intéressante car **elle permet au co-contractant de sortir d’un contrat devenu manifestement intenable en cours d’exécution**.
+#### 4) La force majeure
+
+La **force majeure** est un **fait extérieur aux parties**, **imprévisible dans sa survenance** et **irrésistible dans ses effets**.
+
+Consacrée par **l’arrêt du 29 janvier 1909, Compagnie des Messageries Maritimes**, la force majeure a pour effet **d’exonérer le co-contractant de ses obligations et de toute responsabilité**.
+
+Dans **l’arrêt ==CE, 14 juin 2000, Commune de Staffelfelden==**, il s’agissait de la **pollution d’une nappe phréatique** rendant impossible le captage d’une eau potable. Le **Conseil d’État a prononcé la résiliation du contrat** et **a condamné la commune à indemniser l’entreprise**.
+
+La **condition d’extériorité** est interprétée **très strictement** par le juge administratif.
+
+Un exemple est donné dans **l’==arrêt CE, 4 octobre 2021, Société Sportive Professionnelle Olympique de Marseille==**.
+
+- **Contexte** :
+    - Un **contrat d’occupation du Stade Vélodrome** liait la **ville de Marseille et le club de l’Olympique de Marseille (OM)**.
+    - La ville avait également conclu **un contrat d’occupation avec une société de spectacles**.
+    - **Lors d’un concert organisé par cette société, une tribune du Vélodrome s’est effondrée**, obligeant **l’OM à délocaliser un match à Montpellier**.
+    - L’OM a alors engagé **la responsabilité de la ville de Marseille** pour le préjudice subi.
+    - Pour se défendre, la ville de Marseille a tenté d’invoquer **un cas de force majeure**, estimant que l’effondrement de la tribune était **un événement extérieur et imprévisible**.
+
+- **Décision du Conseil d’État** :
+    - Il **refuse de qualifier l’effondrement comme un cas de force majeure**.
+    - Il estime que cet événement est **le résultat d’un choix fait par la ville** lorsqu’elle a décidé **de contracter avec la société de spectacles**.
+    - En concluant ce contrat, la ville de Marseille a **créé un lien avec un tiers**, ce qui **exclut la possibilité d’un fait extérieur à sa volonté**.
+
+La force majeure est donc **particulièrement rare** en droit administratif, car elle suppose que l’événement :
+1. **Ne soit pas lié aux décisions de la personne publique**.
+2. **Ne puisse être anticipé par aucune mesure préventive**.
+
+#### 5) Le fait du prince
+
+Le **fait du prince** désigne les mesures prises par **l’autorité contractante**, mais en vertu d’un **pouvoir distinct** de celui qu’elle détient au titre du contrat.
+
+**Trois conditions doivent être réunies pour qu’un fait du prince soit reconnu :**
+
+1. **La mesure à l’origine du dommage doit être imputable à la collectivité contractante** agissant **à un autre titre que celui de partie au contrat**.
+    - Exemple : une **mesure de police générale** ou une **mesure de police spéciale**.
+2. **La mesure doit être imprévisible lors de la conclusion du contrat**.
+    - Le droit ne protège pas les **risques normalement prévisibles**.
+    - Que ce soit un **acte** ou un **contrat**, il faut être très précis dans les prévisions contractuelles.
+3. **La mesure doit avoir causé un préjudice au co-contractant**, qui doit être **anormal et spécial**.
+    - C’est-à-dire que la mesure doit affecter **particulièrement le titulaire du contrat**.
+
+Si ces trois conditions sont réunies, **il y a fait du prince**, ce qui ouvre droit au **rétablissement de l’équilibre financier du contrat** (==**_CE, 23 janvier 1963, Société Les Alcools du Vexin_**==).
+
+L’**indemnisation** dépend du caractère **particulier ou général** de la mesure prise.
+
+- **Si la mesure est particulière** :
+    - Le **droit à indemnité est acquis dès lors que le préjudice est certain et direct** (==_CE, 28 avril 1948, Ville d’Ajaccio_==).
+
+- **Si la mesure est de portée générale**, touchant aux **stipulations du contrat**, deux conditions doivent être réunies :
+    1. Il faut qu’il s’agisse d’une **mesure législative**.
+    2. Le **législateur ne doit pas avoir expressément exclu toute indemnisation**.
+
+Lorsqu’il s’agit de **mesures de portée générale** affectant les **conditions d’exécution du contrat** (exemple : modification de la fiscalité applicable à l’objet du contrat), **l’indemnisation intégrale est en principe refusée**.
+
+- Par exemple, un **changement de régime fiscal** en cours de contrat **ne donne pas droit à indemnisation**.
+
+**Exception** : une indemnisation sera possible si la mesure **modifie profondément l’état des choses**, c’est-à-dire **les conditions initiales en considération desquelles les parties avaient contracté** (**==_CE, 29 décembre 1905, Bardy_==**).

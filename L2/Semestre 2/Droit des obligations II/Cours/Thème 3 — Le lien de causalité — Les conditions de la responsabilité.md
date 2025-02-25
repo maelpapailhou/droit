@@ -12,7 +12,7 @@ Un autre texte, relatif aux contrats et à la responsabilité contractuelle, est
 > **Article 1231-4 du Code civil**
 > *Dans le cas même où l'inexécution du contrat résulte d'une faute lourde ou dolosive, les dommages et intérêts ne comprennent que ce qui est une suite immédiate et directe de l'inexécution.*
 
-À cette première difficulté s'ajoute le fait que la notion de causalité et de lien de causalité est parfois complexe à cerner, car un dommage résulte souvent d’une multitude de facteurs. Il devient alors nécessaire d’identifier précisément ce qu'est le lien de causalité.
+À cette première difficulté s'ajoute le fait que la notion de causalité et de lien de causalité est parfois complexe à cerner, car un **dommage résulte souvent d’une multitude de facteurs**. Il devient alors nécessaire d’identifier précisément ce qu'est le lien de causalité.
 
 Ensuite, une fois ce lien de causalité établi et qu'on a relié le défendeur au dommage, ce dernier peut, à titre de défense, invoquer des causes d’exonération.
 ## Section 1 : L'identification du lien de causalité
@@ -21,7 +21,8 @@ Ensuite, une fois ce lien de causalité établi et qu'on a relié le défendeur 
 
 Notion d'imputation, implication, causalité scientifique. 
 #### A) La notion d'imputation
-La notion d’imputation permet de relier un fait générateur à un responsable. Ce responsable va ensuite assumer la responsabilité du fait dommageable, bien qu’il n’en soit pas forcément l’auteur direct. En revanche, on va lui imputer cette responsabilité.
+
+La **notion d’imputation** permet de ***relier un fait générateur à un responsable***. Ce responsable va ensuite assumer la responsabilité du fait dommageable, bien qu’il n’en soit pas forcément l’auteur direct. En revanche, on va lui imputer cette responsabilité.
 
 **Exemple 1** : Dans le cadre de la **responsabilité du fait personnel**, la faute est imputée à l’auteur de cette faute, qui en devient responsable. Ainsi, la personne à qui l’on impute la responsabilité est également l’auteur direct du fait dommageable.
 
@@ -40,54 +41,68 @@ Il suffit que le véhicule ait été présent lors de l’accident, à quelque t
 De plus, il n’est **pas nécessaire qu’il y ait un contact direct entre le véhicule et le siège du dommage**. On peut notamment citer le cas des collisions en chaîne, où plusieurs véhicules sont impliqués sans contact direct entre tous.
 
 #### C) La notion de causalité scientifique
+y'a une causalité scientiifque qui petu être dsitincte de la causalité juridque. les sicnes dures cherchent à comprendre les phenomenees physiques et les resultats, tout repose sur des formules, des theories qui doivent etre miss en pratiques. sauf que ces certifiutes peuvent parfois mettre es années à arriver. La recherche de la vertié scientifique sinscirt dans un temps tres long. 
+
+cependnat, pour le droit ou la causlaité ljuriduqe, il s'agit d'hypotheses qui font l'objet d'un litige. Une vicitme cherche une réparation. Il n'est pas question d'attendre 20 ou 30 ans avant d'etre indemnisé. que cette indemnisration soit obtenue de maniere amiable par le jeu des assureaces, ou qu'elle soti obtenue par le jeu du'une action en justice, la recherhce de la causalité juridqieu s'isncrit dans un temps bcp plus court, qui est soit celui de la negociaiton lrosqu'in chercher à transiger avec assurance ou adversiar,e ou dans le temps du proces.
+
+on a pas tjr s le temps ou les mpuyens techniques de recherche rla vérité au sens strict, et que dcp par consequent on va tres souvent se contenter de vraisembance, et par substitution on se contentera d'une vraisemblance. 
 
 ### Paragraphe 2 : L’établissement du lien de causalité
 
-le code civil apporte peu de précisions; articel 1231-4 "le dommage réparable est la suite immédiate et directe de l'inexecution.
+Le Code civil apporte peu de précisions sur cette question. L’**==article 1231-4==** dispose que « le dommage réparable est la suite immédiate et directe de l’inexécution ».
 
-pour qui'l y ai lien de causlait,é il faut qu'il soit direct, 
+Pour qu’il y ait un lien de causalité, celui-ci doit être direct.
 
 #### A) Le caractère direct du lien de causalité
 
-c'est la doctrine qui a essayé d'expliquer pliusiuers thèses de la causalité. Plusiuers théories doctirnales de la causalité, qui ont étés proposés.
+C'est la doctrine qui a tenté d'expliquer la notion de causalité en développant plusieurs théories. Plusieurs thèses doctrinales ont ainsi été proposées.
 
-La théorie de l'équivalence des condtions : tous els faits d'un évenemtn sans lesuqels le dommage ne se serai pas produit, en sont la cause juridique. Peut y avoir une multitude de faits. Le domamg epeut avoir une multitude d'antécédents.C tout evenelet qui a conduti à produire le fait dommageabel. 
+- **La théorie de l'équivalence des conditions** : tous les faits d'un événement sans lesquels le dommage ne se serait pas produit en sont la cause juridique. Il peut donc exister une multitude de faits antérieurs au dommage, chacun ayant contribué à sa survenance. Tout événement ayant conduit à produire le fait dommageable est ainsi pris en compte.
 
-la théorie de la causalité adéquate : seules les faits uqi ont pu vraiement produire le dommage selon le cour normal des choses.nOn va recherecher la cause la plus directe, la véritabel cause de l'accident. Mais ce n'est pas tjrs facile de déterminer le cour normal des choses, et parfois ça a pour résultatt de pas permettre à la victime d'être indemnisé. 
+- **La théorie de la causalité adéquate** : seuls les faits qui ont réellement pu produire le dommage selon le cours normal des choses sont retenus. Cette théorie vise à rechercher la cause la plus directe, la véritable origine de l’accident. Toutefois, il n’est pas toujours aisé de déterminer ce qu’est le « cours normal des choses », ce qui peut parfois empêcher la victime d’obtenir réparation.
 
-la théorie de la cause la plus proche : la cause du domamge c'est l'antécédant le plus proche du dommage. Donc si y' aun evenemetn qui s'intercale entre un evenemetn et le dommage, ça rompt le lien de causalité. Mais pas froement une theorie à retenir. 
+- **La théorie de la cause la plus proche** : selon cette approche, la cause du dommage est l’antécédent le plus proche de celui-ci. Ainsi, si un événement s’intercale entre un fait initial et le dommage, cela rompt le lien de causalité. Cependant, cette théorie est rarement retenue en pratique.
 
-la cour de cassation n'a jamia svéritabrlmetn pris position. Et ce n'est que de maniere détournée qu'on petu voir que dans un certain cas elle a appliqué la théorie de equivalence des conditions, et de la causalité (les deux premieres sont generalmentu ilisés). On peut dire de la pratique que la cour de cassation a une approche casuistique du lien de causalité, de l'idneitificaiton du lien de causalité, càd au cas par cas. 
+La Cour de cassation n'a jamais véritablement pris position sur une théorie unique de la causalité. Ce n'est que de manière détournée que l'on peut constater qu'elle a, dans certains cas, appliqué la théorie de l'équivalence des conditions ou celle de la causalité adéquate, ces deux approches étant généralement utilisées. On peut ainsi affirmer que la Cour de cassation adopte une **approche casuistique du lien de causalité**, c'est-à-dire qu'elle l’identifie au cas par cas.
 
-Lorsque le juge veut favoriser la vicitme, il a plutot tendance à retenir la premiere théorie, celel de l'quivalenc ede sconditions. 
+Lorsque le juge souhaite favoriser la victime, il a plutôt tendance à retenir la première théorie, celle de l'équivalence des conditions.
 
-Ex arret 2 civ 7 avril 2005, une persone faisait ses courses dans un magasin, un truc s'ffondre et est blessée dans le magasin, doit etre hospitalisée. En raison d'une erreur médicale, la victime décede. 
+**Exemple : ==arrêt 2e Civ., 7 avril 2005==**  
+Dans cette affaire, une personne faisait ses courses dans un magasin lorsqu’un élément de l’établissement s’est effondré, la blessant gravement. Elle a dû être hospitalisée et, en raison d’une erreur médicale, est finalement décédée.  
+Les ayants droit de la victime ont engagé une action en responsabilité contre l’exploitant du magasin, sans mettre en cause le médecin. La Cour de cassation a admis qu’il existait un lien de causalité entre l’accident survenu dans le magasin et le décès de la victime, considérant que l’effondrement avait participé au dommage.
 
-y'a eu une action en resposnabilité par els ayants drotis de la vicitme, qui ont églaement mis en cause l'exploitant du magasine t pas le médecin. La cour de cassationa admis qu'il y aviat un lien de causalité, que ca avait participé au dommage.
+En revanche, on remarque que les juges privilégient généralement la deuxième théorie, celle de la causalité adéquate, lorsqu’il s’agit de limiter ou d’écarter la responsabilité du défendeur.
 
-en revanche, on remaruqe plutot que les juges utilisent la deuxieme theorie, celle de la cause adéquate, qui est mis een oeuvre lorsqu'il sagit de repousser la responsabilité du défendeur. 
-
-ex arret 2civ 24 février 2005, s'agissait d'une eprsonen vicitme d'un grave accident de la route, gravement handicapée. Les enfnats agissnet en réparation contre les auteurs de l'accident, préjudice moral du fait de pas pouvoir avoir un pere comme els autres (pour jouer,e tc). Ils estimaient subir un préjudice. La cour de casasiton a réfusé de voir un lien de causalité. 
+**Exemple : ==arrêt 2e Civ., 24 février 2005==**  
+Cette affaire concernait une personne victime d’un grave accident de la route, qui en est ressortie lourdement handicapée. Ses enfants ont engagé une action en réparation contre les auteurs de l’accident, invoquant un préjudice moral : ils estimaient être privés d’un père en mesure de s’occuper d’eux comme les autres parents (jouer avec eux, les accompagner, etc.).  
+La Cour de cassation a refusé de reconnaître un lien de causalité entre l’accident et le préjudice moral invoqué, illustrant ainsi l’application de la théorie de la causalité adéquate pour restreindre la responsabilité des défendeurs.
 
 #### B) Le caractère certain du lien de causalité
 
-il doit être prouvé, démontré. il peut y avoir uen incertitude dans 2 directions : incertitude quand a la production du dommage, et ensutie quantà l'auteur du dommage. 
+Le lien de causalité doit être prouvé et démontré. Toutefois, une incertitude peut exister dans deux directions : d'une part, quant à la production du dommage, et d'autre part, quant à l’identification de son auteur.
 
-Premiere difficulté quant à la production du dommage : il y eu un domamge, une attiente, provocant elel meme certains préjuduces, mais en rpatique on est pas toujours sur que le fait générateur explique réellement la survenance du dommage. Pas parce qu'il y a concomitetnce entre unf ait génératuer et un dommage qu'il y aforcement lien de cause à effet.
+**Première difficulté : l’incertitude sur la production du dommage**  
+Il peut exister un dommage, une atteinte entraînant certains préjudices, mais en pratique, il n’est pas toujours certain que le fait générateur soit réellement à l’origine du dommage. La simple concomitance entre un fait générateur et un dommage ne suffit pas à établir un lien de causalité direct entre les deux. Une relation temporelle entre un événement et un préjudice ne signifie pas nécessairement qu’il existe un lien de cause à effet.
 
-exemple de la responsabilité pharmaceutiqeu lorsque un domamge qu'on attribue à un médicament : si médicmanet mis sur le marché et qu'on sapercoit que défaut dangereux pour la santé, le médicament peut provoquer tel ou tel dommage. De l'autre coté, ona un dommag equui survient dans la vie de quelquu'n, et qui consisteà développer une maladie. Exemple affaire du vaccin sur l'épathite B, et de l'autre sur la survenance de la sclérose en platre. 
+**Exemple de la responsabilité pharmaceutique et de l’incertitude causale**
+Lorsqu’un dommage est attribué à un médicament, la question du lien de causalité se pose avec une complexité particulière. D’un côté, un médicament mis sur le marché peut révéler, après usage, un défaut présentant un danger pour la santé. De l’autre, un individu peut développer une maladie dont l’origine est incertaine.
 
-il se trouve que certaines perosnnes qui avaient été vaccinées contre l'épatite B, développe quelque smpis plus tard une sclérose en plauqe avait été déclenchée par le vaccin. mais quand meme un doute sur l'origine possible. se posait la question de la voir si la mamladie etait du fait qu'on nous a innoculé le vaccin. 
+Certaines personnes vaccinées contre l’hépatite B ont développé, quelques mois plus tard, une sclérose en plaques. La question s’est alors posée de savoir si la maladie avait été déclenchée par le vaccin. Toutefois, un doute subsistait quant à l’origine exacte de la maladie.
 
-la jurisprudence a évolué, dasn un premier temps les juges n'avaient admis aucune responsabilité du fabricant, car estimati que le malade n'avait pas établit de lien de causalité entre sa maladie et la prise du vaccin. arret cour de casastion 27 fébrier 2007, les juges insistianet que en l'état actuel des connaisances scientifiques , il n'est pas établit que le vaccin soit de nature à provoquer une maladie de ce type. 
+**L’évolution de la jurisprudence**  
+Dans un premier temps, la Cour de cassation a refusé d’engager la responsabilité du fabricant, estimant que le malade n’avait pas apporté la preuve du lien de causalité entre la vaccination et la maladie. Par un ==arrêt du **27 février 2007==**, elle a jugé que, **en l’état actuel des connaissances scientifiques, il n’était pas établi que le vaccin soit de nature à provoquer une telle maladie**.
 
-les commentateurs de la jurisprudence ont dit que la cour de cassation ont confondu causalité sceintifique et causalité juridque. On cherche pas une vérité exacte mais une vraisemblance. une année plus tard, le 22 mai 2008, la premeire chambre civile opere un reviremetn, et par ce reviremetn la cour de cassaiton admet qe on peut prouver le lien de causalité par des présomptions graves, précises et concordantes. 
+Cette position a été critiquée par la doctrine, qui a reproché à la Cour de cassation d’avoir confondu causalité scientifique et causalité juridique. En matière juridique, il ne s’agit pas de démontrer une vérité scientifique absolue, mais de rechercher une vraisemblance suffisante.
 
-si on arrive à attester que meme si pas sur, mais on va recher her tous les indices dans tut l'enchaineetn des evenements qui pourrainet relier la maladie à la prise du vaccin. si par exemple une personne atteinte de la maladie apres l'administration du vaccin, qui n'a a acuun mometn de sa vie eu des problemes de santé. il se trouve que qq temps apres le vaccin elle tombe malade d'une maladie grave, là les indices sont graces, assez précis dans le temps. En revanche si la personne avait des antécédents, et que elle aurait pu meme sans etre vacciné developper cette maladie de la sclérose, le lien entre l'administration du vaccin et le dev de la maladie devient plus ténu, plus monce.
+Un an plus tard, la **==première chambre civile a opéré un revirement de jurisprudence** dans un arrêt du **22 mai 2008**==. La Cour a admis que **le lien de causalité pouvait être prouvé par des présomptions graves, précises et concordantes**, assouplissant ainsi les exigences probatoires en faveur des victimes.
 
-Ensuite, la cour e cassation a posé uen question préjduciete à la CJUE, qui a entre autre poru fonction di'nterpret le droit de l'union. elle a rendu un arret important, CJUE 21 juin 2017, et nous apprend ainsi que déjà la directive sur la repsonsabilité des produits defectueux n'impose pas d'itentité entre la causalité scientifique et la causalité juridieu. 
+Si l'on parvient à établir que, même sans certitude absolue, il existe un enchaînement d’événements permettant de relier la maladie à la prise du vaccin, la causalité peut être reconnue sur la base d’indices concordants. Par exemple, si une personne, sans aucun antécédent médical, développe une maladie grave peu après l’administration du vaccin, les indices sont alors graves et précis dans le temps. En revanche, si cette personne présentait des antécédents médicaux et aurait pu, même sans être vaccinée, développer une sclérose en plaques, le lien entre la vaccination et la maladie devient plus ténu et incertain.
 
-on peut étalir la causalité juiirque par la recherhce d'indice, et en revanche la cour de justice précise que il n'y a pas de pésomption automatique. Certes le lien de causalité peut etre prouvé ua moyen d'indice, mais il ne petu y avoir de pérsomption automatique. 
+Par la suite, la **Cour de cassation a posé une question préjudicielle à la Cour de justice de l’Union européenne (CJUE)**, qui a notamment pour fonction d’interpréter le droit de l’Union. Dans un **==arrêt du 21 juin 2017**, la CJUE== a clarifié plusieurs points fondamentaux.
+
+Tout d’abord, elle a confirmé que la **directive sur la responsabilité des produits défectueux** n’impose pas d’identité entre **causalité scientifique et causalité juridique**. Autrement dit, la preuve du lien de causalité en droit ne doit pas nécessairement s’appuyer sur une démonstration scientifique absolue.
+
+Ensuite, la Cour de justice a précisé que **la causalité juridique peut être établie par la recherche d’indices**, mais **qu’il ne peut y avoir de présomption automatique**. Autrement dit, même si des indices graves, précis et concordants peuvent suffire à prouver le lien de causalité, il ne saurait exister de mécanisme automatique conduisant systématiquement à retenir la responsabilité du fabricant sur la seule base de ces indices.
 
 d'autres arrets de la cour de cassation ont suivi, 1civ 18 octobre 2017 qui permet de dire qui'l faut établir qu'il ya un produti defectueux. La premier echose a prouver c'et le défaut du produit. Et puis, il faut établir la preuve de la causalité juridqiue entre l'administration du vaccin et le dommage. ici la coru de cassationa utilisé la théorie dela ausalité adéauate.  il fautq ue les présomptiosn tellement fortes qu'lele en devietn uen quasi certitdue. 
 
@@ -107,129 +122,180 @@ sauf que il c'était avéré que quelqeus temps plus tard soit les femme qi avai
 
 par faveur aux victimes, la cour de casastion a estimé que la victime pouvait agir , que action en responsabiltié petu etre contre les deux laboratoires, et que ensuite c'était à chacun de ces laboratoires de prouver que son produit, son méidcament n'avait pas causé le dommaeg. et que laboratoire doit apporter la preuve que medicmanet ont pas provoqué de dommage, donc inversionde la charge d ela preuve. 
 
-Section 2 : les causes d'exonération
-elle a  réuni la cause d'exonaration des trois resposnabilités, la responsabilité civile du défendeurt est avaré. Il va pouvoir se défendre en s'exonerant de sa responsabilité ou s'attenuer de sa repsonsabiltié.
+## Section 2 : Les causes d'exonération
+La jurisprudence a réuni les causes d'exonération applicables aux trois types de responsabilité. Lorsqu'une responsabilité civile est avérée, le défendeur peut tenter de s'exonérer totalement ou partiellement de sa responsabilité.
 
-une fois que le lien de causalité est ébli et que le dommage soit imputé, y' une cause d'exoneration qui a pour csq de couper le lind e causalité établit en premier lieu entre le fait génératuer et le dommage subit par la victime. C'est les causes d'exoneration. 
+Une fois que le lien de causalité est établi et que le dommage est imputé au défendeur, une cause d'exonération peut intervenir pour rompre ce lien initialement reconnu entre le fait générateur et le dommage subi par la victime. Ces causes d’exonération permettent donc d’écarter ou d’atténuer la responsabilité du défendeur.
 
-attention : en cas pratique, la question des causes d'exonération arrive en 2eme temps. Donc si cas pratique à résoudre, faut dabord savoisr is le défendeur est responsable, et c'est seulemetne nsuite que la respsabiltéi est bien établie qu'on petu faire valori les causes d'exoneration. 
+**Attention** : En cas pratique, la question des causes d’exonération doit être abordée dans un second temps. Il faut d’abord déterminer si le défendeur est responsable. Ce n’est que si sa responsabilité est bien établie que l’on peut ensuite examiner d’éventuelles causes d’exonération.
 
-### Paragraphe 1 : la cause étrangère
+### Paragraphe 1 : La cause étrangère
 
-ce sotn là aussi des textes relatifs à la respp,sabiltié contractuelel qui ont permis de mieux comprendre. Le texte initial c'est l'ancien article 1147 du code civil qui prévoit que le déiteur à qui on reproche un défaut d'execution, le défendeur ne sera pas condamné s'il justifie que l'inexecution provient d'une cause étrangere qui ne petu pas lui etre imputée.
+Ce sont là aussi des textes relatifs à la **responsabilité contractuelle** qui ont permis de mieux comprendre cette notion. Le texte initial est l'ancien **article 1147 du Code civil**, qui prévoit que le **débiteur** à qui l'on reproche un défaut d'exécution ne sera pas condamné s'il justifie que l'inexécution provient d'une **cause étrangère** qui ne peut pas lui être imputée.
 
-une cause étrangere est un fait qui échappe au controle du resposnable et qui va opérer une rupture du liend e causalité entre la faute et le dommage, et exonerer le repsosnable. La cause étrangere  va permettre que le dommage. a une origine etrangere. SOn comportmenet prend son origien dans un element exteiru dotn il n'aviat pas le controle et qii a provoqué ce resultat. 
+Une **cause étrangère** est un fait qui échappe au **contrôle du responsable** et qui entraîne une rupture du **lien de causalité** entre la faute et le dommage, exonérant ainsi le responsable. La cause étrangère permet donc d'affirmer que le dommage a une origine extérieure. Le comportement du responsable trouve son origine dans un **élément extérieur** sur lequel il n'avait **aucun contrôle**, et qui a **provoqué** ce résultat.
 
-cette notion de cause étrangere est une notion très large. Par ailleurs, il existe un certain flottemetn entre la cause étrangere, le cas fortuit et la force majeure. CE sont soit des déclinaisons de la cause étrangere, soit des caracteeres de la cause étrangere. 
+Cette notion de **cause étrangère** est **très large**. Par ailleurs, il existe une certaine **ambiguïté** entre la cause étrangère, le **cas fortuit** et la **force majeure**. Ces notions sont soit des **déclinaisons** de la cause étrangère, soit des **caractéristiques** de celle-ci.
+#### A) Les variétés de la cause étrangère 
 
-#### A) les variétés de la cause étrangere 
-plusieurs types d'evenemetns qui peuvent rompre le lien decausalité entre lfa it generatuer et le dommage. 
+Plusieurs types d’événements peuvent rompre le **lien de causalité** entre le **fait générateur** et le **dommage**.
 
-premier cas : le cas fortuit qui est une premiere varité de cause étrangere. Fortuit est le hasard. Le cas fortuit est tout évelemetn imprévu quii ne petu être imputé. à perosnne en partucleir. 
-dans la catéogire du cas fortuit, on a voulu égalemtn des actiosnq ui sont d'origines humaiens, mais qu'on ne petu pas imputer à une personne en particulier. Il peut s'agir d'émeute, de guerre, de conflit, greve generlae. Ces evenemtns peuent provoquer des dommages. 
+1) **Le cas fortuit**
 
-deuxieme carité : le fait du prince, se place genraemtn sur le terrain de la repsonsabiltié administraieve, masi peut avoi rincidences su le terrainde la resposabilté civile. Elle designe toute décision prise par l'autorité publqiue, et qui est suscptible de causer un préjudice. 
+Le **premier cas** est celui du **cas fortuit**, qui constitue une première variété de cause étrangère. **"Fortuit"** renvoie à la notion de **hasard**. Le **cas fortuit** est tout événement **imprévu** qui ne peut être imputé à **personne en particulier**.
 
-explositon d'une usine AZF,  suite à quoi le gouvernement a pris un arreté pour interdire l'exploitationd 'une certaine substance chimique utilisée à AZF et autres usines. Donc le gouvenrement interdit l'exploitation d'une certaine substance chimique, safu que les fabriquants de cette susbstnace chimique ont plus réussi à vendre cee substance à toutes les usines avec lauqelle ils avaet es cntrats. ont essayé d'gir en repsosnabiltié contractuele contre sle susine,s car elles achetaient plus les produits. Ici inéxecution du contrat. qui était generatirce de rsposnabiltié contractuelel. Décision gouvernementale qui s'est imposée, le princpe du fait du prince a rompu le line de causalité.
+Dans la catégorie du **cas fortuit**, on inclut également certaines actions d’**origine humaine**, mais qui ne peuvent être **imputées à une personne en particulier**. Il peut s’agir d’**émeutes**, de **guerres**, de **conflits** ou encore de **grèves générales**. Ces événements peuvent **provoquer des dommages** sans qu’il soit possible d’en attribuer la responsabilité à un individu ou à une entité spécifique.
 
+2) **Le fait du prince**
 
-troisieme varité : de lacase étrangere: le fait d'un tier; le dépendfer a l'actiona que l'oriigne. du dommage vient du comprtemetn d'un tiers, d'une autre perosne que lui meme. Exemple une personne a ét blessé parce que elle est tombée sur une voie ferée, les ayans deorir des victime scherchent à emttre en cause la resposnabiltié du transporteur, mais celui ci réussi à demontere que ce n'est aps de son fait que la vicitme s'est truvée sur la voie ferrée, masi parce que un tiers a poussé la victime au moment où le train arrivait en gare.
+La **deuxième variété** est le **fait du prince**, qui relève généralement du domaine de la **responsabilité administrative**, mais qui peut également avoir des **incidences** en **responsabilité civile**. Il désigne **toute décision prise par une autorité publique**, susceptible de **causer un préjudice**.
 
-le fait generatuer c le train qui est entré en cotnact avec le corps. on va regarder le garidne de la chose, à qui il sera imputer lar esponsbilité.
+Un exemple marquant est **l’explosion de l’usine AZF**. À la suite de cette catastrophe, le **gouvernement** a pris un **arrêté** interdisant l’**exploitation d’une substance chimique** utilisée par AZF ainsi que par d’autres usines. Cette décision a eu des **répercussions économiques** importantes : les **fabricants** de cette substance chimique n’ont plus été en mesure de vendre leur produit aux usines avec lesquelles ils avaient des **contrats**. Ces fabricants ont alors tenté d’agir en **responsabilité contractuelle** contre les **usines**, lesquelles ne pouvaient plus acheter leurs produits en raison de la **décision gouvernementale**.
 
-4eme varité de cause étrangere : le fait de la victime.
+Ici, il y avait bien une **inexécution contractuelle**, normalement **génératrice de responsabilité contractuelle**. Toutefois, la **décision du gouvernement** s’étant **imposée aux parties**, le **principe du fait du prince** a **rompu le lien de causalité**, exonérant ainsi les usines de leur responsabilité.
 
+3) **Le fait d'un tiers**
 
+Dans ce cas, le **défendeur** à l’action en responsabilité peut se défendre en démontrant que l’**origine du dommage** provient du **comportement d’un tiers**, c'est-à-dire **d’une autre personne que lui-même**.
 
-il se trouve que le défender va invoquer que la ictime elle meme, càd le demandeur,a contribué à a survenance du dommage. il y a fait de la victime à chauqe foit que l'on prétend que le demandeur a lui mee contribué au domamg epar son comportement. 
+Prenons un **exemple concret** : une personne est **blessée** après être tombée sur une voie ferrée. Les **ayants droit** de la victime cherchent alors à **mettre en cause la responsabilité du transporteur ferroviaire**. Toutefois, ce dernier parvient à **démontrer** que la victime ne s’est pas retrouvée sur les rails de son propre fait, mais qu’elle a été **poussée par un tiers** au moment où le train arrivait en gare.
 
-ici plusiuers catégories du fait de la vicitme.
+Dans cette situation, le **fait générateur** est bien le **train** qui est **entré en contact avec le corps de la victime**. Pour déterminer la **responsabilité**, il faudra examiner **le rôle du gardien de la chose**, c’est-à-dire celui à qui est **imputée la responsabilité de l’objet à l’origine du dommage**. Cependant, si le transporteur prouve que **le dommage provient exclusivement du fait d’un tiers**, alors il pourra être **exonéré de toute responsabilité** en raison de cette cause étrangère.
 
-1ere catégorie de fait de lavictime : la faute de la victime. Une personne qui pique niquait au bord du riviere, et savait que c une plage privé, et elle est fortemetn alcoolisé, décide d'aller se baigner, se blesse. 
+4) **Le fait de la victime**
 
-la coru de cassation 2civ 29 mars 2018 la coru de cassation a admis dasn cette hypithese là. que alors qu'ona vait mis en cause le propriétaire du terrian. Sauf que cassaiton a estimé que faute de la victime car fortement alcoolisée, ,elle avait aps utilisé ces gestes et mouvements, et que si pas été alcoolisée, elle seriat pas tombé. donc admis ici que faute de la vicitme, éxonératoire de resposanbilité. Quand on parle de faute de lavicitme, on parle de maier ebastraite, et non contraite. Distinction in abstracto et in concreto.
+Il se peut que le **défendeur** invoque que la **victime elle-même**, c’est-à-dire **le demandeur**, a contribué à la **survenance du dommage**.
 
-si on apprécie le caractaire abstriat, on apprécie le comportmetn de la victime ar rapport aune personen qui est raisonable, prudente, sans exces. la personne lambda, à un standart de comoremetn. on nuance pas sselon qu'il est malade, jeune, etc.
+On parle de **fait de la victime** chaque fois que l'on prétend que le **demandeur** a, par son propre comportement, **participé à la réalisation du dommage**.
 
-2eme catégoire : estce qe les predispositosn dela vicitme peuvent etre exonératories? ex une personne aun accident, estce ue cette préidsiiton intenre à la vicitme est exonératoire? Non car la vicitm edoit être indemnisé. ex de 2 personnes qi se disputent, el'une des deux gifle l'autre, sauf que quelque temps auparavant, son itnerlocuteur avait subit une oepration chirurgicalbe importante dont n'était aps rétabli, condit à la paralysie de l apersonne. 
+Il existe **plusieurs catégories** de fait de la victime, selon l'ampleur de son implication dans la survenance du dommage.
 
-cour de cassation l'a clairement exprimé arret 2 civ 10 novembre 2009, prédispostion pathologiqeu de la vicitmne saurait réduire selon la cour la repsonsabilité. 
+**1ère catégorie de fait de la victime : la faute de la victime**
+Prenons l'exemple d’une personne qui pique-niquait au bord d’une rivière, sachant qu’il s’agissait d’une plage privée. Fortement alcoolisée, elle décide d’aller se baigner et se blesse.
 
-3eme : l'acceptaiton des risques
-question de savoir si l'acceptation des risques par la victime peut exonere le défendeur. la vicitme pratique une actiivté risquée. en pratiquant cette activité, elle conait les dangers dec ette activité. on peut estime rqu'en pratiquatn cette activite elle a accepté les dangers. estce uq'on petu dire qu'en acceptant ces rsques elle peut ou pas engager la resonsabilité d'un dommage dont elle seriat victiem? surtout dans e domaine del aocmpetiton sportive que jursiprudence c'est evelope. Il ressort de la jursorhdecne le type de responsabilité. 
+Dans un arrêt de la **Cour de cassation, 2ᵉ chambre civile, 29 mars 2018**, la Haute juridiction a eu à se prononcer sur cette hypothèse. La responsabilité du **propriétaire du terrain** avait été mise en cause, mais la **Cour de cassation** a retenu la **faute de la victime**. En effet, celle-ci, en état d’**ivresse avancée**, n’avait pas su maîtriser ses gestes et ses mouvements. Elle a estimé que, si la victime n’avait pas été alcoolisée, elle **ne serait pas tombée**. Dès lors, la **faute de la victime** a été reconnue comme **exonératoire de responsabilité** pour le propriétaire.
 
-a cour de cassation a repondu de maniere nuancée sur le type de responsabilité.
+Lorsqu'on parle de **faute de la victime**, celle-ci est appréciée de manière **abstraite** et non **concrète**. Il existe ainsi une distinction entre l’appréciation **in abstracto** et **in concreto**.
 
-d'un coté, lorsqu'uol y a repsonsabiltéi du fait des choses, un acessoire, un instrmnet qui est utilisé pour la pratique de cette actrivité reisquée, la coru de casation a exclu la possibilité d'invoquer l'acceptation des risques. Donc pas d'exonéraiton du défendeur.
+Si l’on applique un raisonnement **in abstracto**, on compare le comportement de la victime à celui d’une **personne raisonnable et prudente**, qui agit sans excès. On utilise alors un **standard de comportement** : celui de la **personne lambda**. Dans ce cadre, on ne prend **pas en compte les spécificités** de la victime (âge, état de santé, fragilité particulière, etc.).
 
-arret 2 civ 4 novembre 2010, l'hypothese de celle d'un sport automobile, au cours d'un entrainement un pile est percuté par l'engin d'un autre pilote. Le défendeur dit que participation est acceptation du risque. Casation a refusé, donc quand victime est dommage du fait d'une chose, le dommage ne petu pas s'exonerer.
+**2ème catégorie : Les prédispositions de la victime peuvent-elles être exonératoires ?**
 
-cependant, suite à cet arret, lobbying de vehicules et compagnies d'assurances s'est insurgé, qu iva augmenter les assurances de ces sports la. le legislateur est alors intervenu, et dans le code du sport il a introduit une nouvelle disposition L321-3-1 où il est précisé que les pratiquants ne peuvent pas être responsbles des dommages matériels causés à un autre participant, au cours d'une manifestation sportive, etc.
+Une autre question se pose : est-ce que les **prédispositions internes** de la victime peuvent être considérées comme une cause d’**exonération de responsabilité** ?
 
-texte introduit un double régime selon que le dommage subit est un préjudice corporel ou si c'est un préjudice matériel.
+Prenons l’exemple d’une personne victime d’un accident. Son état de santé préexistant peut-il exonérer l’auteur du dommage ? **La réponse est non.** La victime **doit être indemnisée intégralement**, même si son état de santé a **aggravé** les conséquences du dommage.
 
-si préjudice corporel il doit toujours être réparé. En revanche, lepréjudice matériel ne pourra pas donner lieu à indemnisation justmeent pour acceptatiion des risques. 
+Illustrons cela avec une autre hypothèse : deux personnes se disputent, l’une **gifle l’autre**. Or, quelques jours auparavant, cette dernière avait subi une **opération chirurgicale lourde**, dont elle n’était pas encore totalement rétablie. À la suite de cette gifle, elle souffre de **complications médicales** conduisant à une paralysie.
 
-s'agissant de la responsabilité du fait personnel, il y a un dommage mais sans l'intervention d'uen chose. 
+Dans un **==arrêt de la Cour de cassation, 2ᵉ chambre civile, 10 novembre 2009==**, la Haute juridiction a **clairement affirmé** que les **prédispositions pathologiques** d’une victime ne sauraient **réduire la responsabilité** de l’auteur du dommage. Autrement dit, l’auteur ne peut **pas invoquer** la fragilité préexistante de la victime pour diminuer son obligation d’indemnisation.
 
-on estime que l'acceptation des risques par la victime peut être exonératoir sauf faute de la part de l'auteuru du dommage. 
+**3ème catégorie : L’acceptation des risques**
 
-on va considérer comme fautif un manquement délibéré aux regles du jeu.
+La question ici est de savoir si **l’acceptation des risques** par la victime peut exonérer le défendeur de sa responsabilité. Lorsque la victime pratique une **activité risquée**, elle a conscience des dangers inhérents à cette activité. On pourrait donc estimer qu’en s’adonnant à cette pratique, elle a **accepté ces risques**. Dès lors, peut-on considérer que cette acceptation empêche la victime d’engager la responsabilité d’un tiers pour un dommage qu’elle subirait ?
 
-si l'auteur du dommage a sceimment délibérément blessé son adversaire, ou un autre participant, là il est fautif.
+Cette problématique se pose **essentiellement dans le cadre des compétitions sportives**, et la jurisprudence a développé une approche nuancée en fonction du **type de responsabilité invoquée**.
 
-B) les caractères de la cause étrangère
+Lorsque la responsabilité repose sur **le fait des choses**, c’est-à-dire qu’un **accessoire ou un instrument utilisé pour la pratique de l’activité risquée** est impliqué dans la survenance du dommage, la **Cour de cassation a exclu la possibilité d’invoquer l’acceptation des risques**. Autrement dit, dans ce cas, le défendeur **ne peut pas être exonéré**.
 
-on parle égalemetn des caractères de la force majeur. 
+Un arrêt de la **==Cour de cassation, 2ᵉ chambre civile, 4 novembre 2010==**, illustre bien ce principe. L’affaire concernait un **sport automobile** : au cours d’un entraînement, un pilote avait été percuté par un autre véhicule. Le défendeur soutenait que la **seule participation à la course impliquait une acceptation des risques**, et qu’il ne pouvait donc être tenu responsable. Toutefois, la **Cour de cassation a rejeté cet argument**, affirmant que **l’acceptation des risques ne pouvait pas exonérer de responsabilité en cas de dommage causé par une chose**.
 
+À la suite de cet arrêt, de nombreux **acteurs du secteur automobile et des compagnies d’assurances** se sont mobilisés, affirmant que cette décision risquait d’**augmenter le coût des assurances** pour les sports mécaniques.
 
-3 caractères, pour être exonératoire la cause étrangere (qui est un evenemetn meme si lc le ffait du'ne personne) doit etre
-- impresivislbe
-- irrésistlbe
-- extérieur
+Face à cette pression, le législateur est intervenu et a introduit une nouvelle disposition dans le **Code du sport**, à savoir **l’article L. 321-3-1**. Celui-ci établit que **les pratiquants ne peuvent pas être tenus responsables des dommages matériels causés à un autre participant au cours d’une manifestation sportive.**
 
+Ce texte instaure ainsi un **double régime** :
+- **Si le dommage subi est un préjudice corporel**, il doit **toujours être réparé**.
+- **Si le dommage subi est un préjudice matériel**, il **ne pourra pas donner lieu à indemnisation** en raison de l’acceptation des risques par les participants.
 
-quand elle revet ces caracterisiqites, ond tj que elle revete les caractéritiqus de la force majeure.
+Lorsqu’il y a un **dommage**, mais que celui-ci ne résulte **pas de l’intervention d’une chose**, la question de l’acceptation des risques est envisagée différemment.
 
-condiiton d'imprivisibilité et d'irresistivité : les deux vont généralemnt ensenbme; On va déduire l'irresitibilité de son caractère impréivsible. 
+Dans ce cas, l’acceptation des risques par la victime **peut être exonératoire**, sauf si **l’auteur du dommage a commis une faute**.
 
-d'un coté on ne pouviat pas prévoir cet evenemet, mai sneusit il était impossible d'empecher les conséquences.
+Ainsi, sera considéré comme **fautif** tout **manquement délibéré aux règles du jeu**. Par exemple, si un sportif **blesse volontairement** un adversaire ou un autre participant, il ne pourra pas invoquer l’acceptation des risques pour s’exonérer de sa responsabilité. **L’intentionnalité** du comportement est ici déterminante : une blessure accidentelle liée à la pratique normale du sport ne donnera pas lieu à indemnisation, mais une **atteinte délibérée** ou une **infraction manifeste aux règles du jeu** pourra engager la responsabilité de son auteur.
+#### B) Les caractères de la cause étrangère
 
-pour apprcier ça, le juge e lacera a la place d'une personne norlament constituée, poir svoir si elle aurait pu empecher l'evenement ou pas.
+On parle également des caractères de la force majeure.
 
-le caractere exteirue : evenemtn echappe completement au controle du defendeur, non seilement il ne s'agit pas d'unf ait du défendeur, mais de meme il ne faut pas que ce soit provoqué par une personne dont il a la charghe ou une chose dont il a la garde. 
+Trois caractères : pour être exonératoire, la cause étrangère (qui est un événement, même si c’est le fait d'une personne) doit être :
+- **imprévisible**
+- **irrésistible**
+- **extérieure**
 
-porjet de réforme articel 253 : "la force majeure serait un évenmetn dont on ne peut éviter ni la réalisation ni les conséquences par des mesures appropriées". le seul critiere retenu pa rle projet es tl'irrésistibilité, et c'est ce que souhaite la doctrine.
+Quand elle revêt ces caractéristiques, on dit qu'elle présente les caractères de la force majeure.
 
-cependant, en l'état actiel de la jurisprudence, la cour de cassation meme si evoque pas sovent le caractere exterieur, pour le moment elle retient le critere de imprevisibiltiéet irresistibiltoé.
+**Conditions d’imprévisibilité et d’irrésistibilité**
+Les deux vont généralement ensemble. On va déduire l’irrésistibilité du caractère imprévisible.
 
-la faute d e la victime avait elle les caracterisitques de la force majeur ?
-2 arrets ass pléneire 14 avril 2006, une personne s'étiat jeter sous un tarin pour se suicider, décédé, et ayants droit sde cette vicitme agissent en responsabilité contre le transporteur; la SNCF. est-ce que la faute de la victime a les caractrèes de la force majeur? Exterieur oui (à la sncf), et pour les 2 autres critieres les juges disnet que c'était bien constitutif d'un cas de force majeure. 
+D’un côté, on ne pouvait pas prévoir cet événement, mais en plus, il était impossible d’en empêcher les conséquences.
 
-en revanche, le 8 octobre 2020, avait considéré au contraire que le fait de la vicitme n'était pa constitutif d'un cas de force majeure.
-il s'agissait de personnes qui se trouvianet dans une voiture, traversent une voie ferrée, puis voiture coincée sur la voie ferrée. les personnes sorties de la voiture, mais respté à proximité de la route. les impacts de l'accident blesse une des personnes au bord de la route. 
+Pour apprécier cela, le juge se place à la place d’une personne normalement constituée, pour savoir si elle aurait pu empêcher l’événement ou non.
 
-on invoquait le fait de la victime, on se demandait si c'était consittuif d'un cas de force majeur. on a considéré que pas un cas de force majuere, car estimati qeu le fait pour des personnes de se trouver à proximité debout sur la route n'était pas imprivisible. et que du coup le transporteur ne pouvait pas se dédouaner. 
+**Le caractère extérieur**
+L’événement échappe complètement au contrôle du défendeur. Non seulement il ne s’agit pas d’un fait du défendeur, mais il ne doit pas non plus être provoqué par une personne dont il a la charge ou une chose dont il a la garde.
 
-est-ce que la faute d'un tiers peut présenter ou pas les caractères de ma fore majuere , et est-ce que c'est exonétaroire?
+> **Projet de réforme – article 253**
+> *"La force majeure serait un événement dont on ne peut éviter ni la réalisation ni les conséquences par des mesures appropriées."*  
 
-décision de la 2 civ du 8 février 2018. tjrs dans le cadre d'un transport par train, station de RER. Au moment où un train du RER entre en gare, l'une des personne qui se trouvietn sru el quai, en attrape une autre, et se jette aevc elle sur la voie, et meurent. se sont les ayants droits qui agissent en responsabilité contre la SNCF, et la SNCF invoque la forc emajere. sncf obtient gain de causes devant le suges du fond. Ayants drois formetn un pourvoi en invoquant absence de caractere irrésitible. mais la eprsonne était schizoprene. Sur le caractere irresitible, les demandeurs au pourvoi mettaient en avant qeu si la SNCF avait mis des installations sru es quais, alors aurait pu empecher la survenance de l'accident. Sauf que la SNCF a mis en avant qu'ele n'étia tpas propriétaire des gares férovieres, et pouvait pas elle meme proceder à cette mise en séurité ,et que au vu du nombre total de gare en france, les mesures à prendre seraient lourdes.
+Le **seul critère retenu par le projet est l’irrésistibilité**, ce qui est soutenu par la doctrine.
 
-la coru a admis qu'il y aviat bien irresitibilité, donc force majeur. 
+Cependant, en l’état actuel de la jurisprudence, même si la Cour de cassation n’évoque pas souvent le caractère extérieur, elle retient encore les critères d’imprévisibilité et d’irrésistibilité.
 
-sur l'acceptation des risques :
+- **La faute de la victime avait-elle les caractéristiques de la force majeure ?**
 
-2 arrets récents qui traitent de l'acceptaiton des risques, 2civ(a qui il revient contentiuex resp extra contratuel), 20 novembre 2023 sur moto et 19 noembre 2024 sur ski cross.
+==Ass. plén., 14 avril 2006==
+Une personne s’était jetée sous un train pour se suicider, elle est décédée, et ses ayants droit ont engagé la responsabilité du transporteur, la SNCF.
 
-les gardiens (moto et ski) exonérés par les juges du fond, parce que dans moto freinage brutal de l'un des pilotes, et dans l'autre competition de ski cross, plusiuers sont en meme temps sur la psite. 
+La question était de savoir si la faute de la victime avait les caractères de la force majeure.
+- **Extérieur** : Oui (par rapport à la SNCF).
+- **Imprévisible et irrésistible** : Les juges ont considéré que c’était bien constitutif d’un cas de force majeure.
 
-on estimait que la victime aviat dévié la trajectoire de son ski inoportunément.  
+==Cass., 8 octobre 2020==
+Au contraire, dans une autre affaire, la Cour de cassation a jugé que le fait de la victime n’était pas constitutif d’un cas de force majeure.
 
-les juges avaient exonérs les défendeurs en acceptant que ici bien imprivisibilité du freinage ou du placmenet de la victime. Mais cour de cassation a censuré es juges du fond, en estimantque dans une compétion, la chute d'un motard est tjrs prévisibiel et dans ski la modification de trajectorie est égalemetnun evemetn prévisible. 
+Les faits :  
+Des personnes étaient dans une voiture qui a traversé une voie ferrée et s’est retrouvée coincée sur les rails. Elles sont sorties de la voiture mais sont restées à proximité de la route. L’impact de l’accident a blessé l’une d’elles.
 
-cour de cassation a estimé que pas évenemetn imprevisible, mais pas ici les caracteres de la force majure.
+Le transporteur invoquait le fait de la victime comme force majeure pour s’exonérer de sa responsabilité.
 
-C) les effets de la cause étrangere (ou son absence)
+La Cour a considéré que ce n’était **pas un cas de force majeure**, car la présence de personnes debout à proximité de la route n’était pas imprévisible. En conséquence, le transporteur ne pouvait pas s’exonérer.
+
+- **La faute d’un tiers peut-elle présenter les caractères de la force majeure et être exonératoire ?**
+
+==2e Civ., 8 février 2018==
+Toujours dans le cadre d’un transport par train, en gare d’une station de RER :  
+Au moment où un train entrait en gare, une personne sur le quai en a attrapé une autre et s’est jetée avec elle sur les voies. Les deux sont décédées.
+
+Les ayants droit ont agi en responsabilité contre la SNCF, qui a invoqué la force majeure.
+
+La SNCF a obtenu gain de cause devant les juges du fond.
+
+Les ayants droit ont formé un pourvoi en cassation en invoquant l’absence de caractère irrésistible.
+
+Ils ont soutenu que si la SNCF avait mis en place certaines installations de sécurité sur les quais, l’accident aurait pu être évité.
+
+La SNCF a répondu qu’elle n’était **pas propriétaire des gares ferroviaires** et ne pouvait pas procéder elle-même à ces installations. De plus, le nombre total de gares en France rendait les mesures préventives difficiles à généraliser.
+
+La Cour de cassation a **admis l’irrésistibilité de l’événement**, donc a reconnu le cas de force majeure.
+
+- **L’acceptation des risques**
+
+Deux arrêts récents sur l’acceptation des risques
+- **2e Civ., 20 novembre 2023 (moto)**
+- **2e Civ., 19 novembre 2024 (ski cross)**
+
+Dans ces deux affaires, les **gardiens (de la moto et du ski)** avaient été exonérés par les juges du fond :
+- **Affaire de la moto** : freinage brutal d’un des pilotes.
+- **Affaire du ski cross** : plusieurs skieurs étaient en même temps sur la piste, et la victime avait dévié sa trajectoire de manière inopportune.
+
+Les juges du fond avaient exonéré les défendeurs en estimant qu’il y avait bien imprévisibilité du freinage ou du placement de la victime.
+
+Cependant, **la Cour de cassation a censuré ces décisions**, en affirmant que :
+- Dans une compétition de moto, une chute est toujours prévisible.
+- Dans une compétition de ski cross, une modification de trajectoire est également un événement prévisible.
+
+Ainsi, la Cour de cassation a estimé qu’il ne s’agissait **pas d’événements imprévisibles**, donc **pas des cas de force majeure**.
+
+#### C) Les effets de la cause étrangère (ou son absence)
 
 là il faut disitnguer le type de cause étrangere et ensuite pour hcaque cuase etrangere estce qu'ily a  ou non force majeure.
 
@@ -268,47 +334,54 @@ derniere étape : 11 décembre 2019 cassation sur le terrain de la responsabilit
 
 la jurisprdence de la cour de cassation estimeq ue al faute dela victime contribue aju dommage et entraine une exonertaion partielle du responsable.
 
-paragraphe 2 : Les autres causes d’exonération / les faits jutistifatifs 
+### Paragraphe 2 : Les autres causes d’exonération (les faits justificatifs)
 
-il s'agit dune notion appart qui est issue du droit pénal.  si y'a un fait justificatif, ca va paralyser la sanction, la respnsabilit éde l'auteur du dommage, parce que l'evenement qui a causé le domamge est expliqué par ce fait justificiatif.
+Il s'agit d'une notion à part, issue du droit pénal. Lorsqu'il y a un fait justificatif, cela ***paralyse la sanction et la responsabilité de l’auteur du dommage***, car l’événement à l’origine du dommage est expliqué par ce fait justificatif.
 
-1er fait justiiait f: l'ordre de la loi ou le commandement de l'autorité publique
+1) **L’ordre de la loi ou le commandement de l’autorité publique**
 
-dans le code pénal, articel 122-4 du code pénal qui pose ce fait justificatif, et donc n'est pas pénalemetn responsable la personne qui accompli un acte prescrit par la loi ou le reglement. 
+L’**==article 122-4 du Code pénal==** pose ce fait justificatif : **"*N'est pas pénalement responsable la personne qui accomplit un acte prescrit par la loi ou le règlement*."**
 
-la notion est transposée en mateire civile. Notamment c'est transposé en ateire de la resposnabilité du fait des produits defectueux. Si la loi oblige le fabricant d'un produit ou objet à introduire dans son objet tel ou tel elemetn, et que ensuite la victime reproche à l'exisstence de cet elemet d'etre a l'origend ud ommage le fabricant du dommage peut se dédouaner en disant que c pas lui qui a voulu intriodurie ca dans produire, c la loi qui l'a obligé.
+Cette notion est transposée en matière civile, notamment en responsabilité du fait des produits défectueux.
 
-Ex sécurité enfnat dans ovitures, on impose ça aux consturcters. docn si voiture tombe dans un lac on peu tplus ouvrir la porte. 
+Par exemple, si la loi oblige un fabricant à intégrer un élément spécifique dans un produit, et que cet élément est ultérieurement reproché comme étant à l’origine du dommage, le fabricant peut s’exonérer en démontrant qu’il n’a pas introduit cet élément de son propre chef, mais qu’il y était contraint par la loi.
 
-2eme exemple de fiat jusitifcatif : l'état de necessité
+**Exemple :** Les normes de sécurité imposent aux constructeurs automobiles d’équiper les véhicules de dispositifs de sécurité pour les enfants. Si une voiture tombe dans un lac et que ces dispositifs empêchent d’ouvrir les portes, le constructeur pourrait s’exonérer de sa responsabilité en invoquant l’obligation légale d’installation de ces équipements.
 
-l'auteur du dommage se trouve dans uen configuration de différend. article 122-7 du code pénal.  c'est pour eviter le danger u'n a eu ce comportement.
+2) **L’état de nécessité**
 
-exemple automobiliste, rocher qui tombe sur la route, reflexe est d'éviter le rocher. en frappe la voiture de qqn d'autre, on provoque un domamg emateriel mais qui s'explique par cet étatt de necessité. il faut un peril grave, imminement, une reaction proportionee. 
+L’auteur du dommage se trouve dans une situation où il doit agir pour éviter un danger grave et imminent. Ce principe est posé à l’**==article 122-7 du Code pénal==**.
 
-3eme fait : la légitime défense 
+**Exemple :** Un automobiliste roule sur la route lorsqu’un rocher tombe soudainement devant lui. Par réflexe, il dévie pour éviter l’obstacle, mais percute une autre voiture et cause des dommages matériels. Ici, le dommage est justifié par **l’état de nécessité**.
 
-on estime que la legitime defense est exclusive de toute fautes. arret 2 civ 22 avril 1992, a dit que c'était exclusif de toute faute. 
+Pour être reconnu, cet état de nécessité doit remplir trois conditions :
 
-malgrès tout, faut reunir certaines conditions pourque ce soit exoneratoire
+- Le **péril** doit être **grave et imminent**.
+- La réaction doit être **nécessaire**.
+- L’action doit être **proportionnée** au danger.
 
-2 sries de condition.
+3) **La légitime défense**
 
-1ere serie relative à l'atteinte:
-- actuel
-- imminente
-- dirigée contre une personne (soit sis emem ou une autre personne pres d enous, ne concerne pas les biens). 
+La **légitime défense** est considérée comme exclusive de toute faute. **==Un arrêt de la 2e chambre civile du 22 avril 1992==** a affirmé ce principe.
 
-2eme srie relativ eà la défense :
-- necessaire
-- proportionnée à la gravité 
+Cependant, certaines conditions doivent être réunies pour qu’elle soit exonératoire.
 
-4 eme fait justificatif exoneaoitre : le consentmenet de la victime
+1re série de conditions : relatives à l’atteinte
+- L’atteinte doit être **actuelle** ou **imminente**.
+- Elle doit être **dirigée contre une personne** (soit soi-même, soit une autre personne à proximité).
+- Elle **ne concerne pas les biens**.
 
-en droit civil, on se demande si le consemebt de la vicitme va etre ou non exoneratoire. lorsque on pblie phpto de vous, ou texte qui raconte votre vie privée, peut porter attteinte à notre droit àl'immage ou vie privée. 
+2e série de conditions : relatives à la défense
+- La défense doit être **nécessaire**.
+- Elle doit être **proportionnée à la gravité de l’attaque**.
 
-en revanche, si la victime de cette diffisuon aviat odnné son consenement, et a accepté qu'on prenne photo et donne accor dpour la diffusion,  meme si cette diffsion lui porte préjudie, elle a consentie à l'acte. 
+4) **Le consentement de la victime**
 
-apparaissne dans des régimes spéxiaus de resposnabiltié des clauses d'exoneraiton speicfique. exe
+En droit civil, on s’interroge sur la portée du **consentement de la victime** en tant que cause d’exonération.
 
-thème 4 : 
+**Exemple :**  
+Lorsqu’une personne voit sa photo publiée ou des éléments de sa vie privée diffusés, cela peut porter atteinte à son **droit à l’image** ou **au respect de sa vie privée**.
+
+Cependant, si la victime avait **donné son consentement** pour la prise et la diffusion de la photo, alors, même si la diffusion lui porte préjudice, elle a accepté l’acte.
+
+On retrouve ce principe dans certains régimes spécifiques de responsabilité, où des **clauses d’exonération** sont prévues.

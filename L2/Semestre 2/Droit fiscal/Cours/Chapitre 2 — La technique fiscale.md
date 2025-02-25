@@ -109,82 +109,116 @@ Cependant, **l’existence de la matière imposable et son évaluation ne suffis
 
 ### Paragraphe 1 :  Le fait générateur de l’impôt
 
-il revient aux legislateurs le soin de déterminer lef ait generateur de chaque impot, càd l'evenemtn où l'acte juridiqeu qui fait natire l'obligatin fiscale. 
+Il revient au **législateur** de **déterminer le fait générateur** de chaque impôt, c’est-à-dire **l’événement ou l’acte juridique qui fait naître l’obligation fiscale**.
 
-chaque imot a un fait génératuer iben précis. Ex en ce qui concerne l'impot sur le revenu, l'impot généraute rc'est la date du 31 décembre de chauqe année.
+Chaque impôt possède un **fait générateur bien précis**. Par exemple :
+- Pour **l'impôt sur le revenu**, le **fait générateur** est **la date du 31 décembre** de chaque année.
+- Pour la **TVA**, le **fait générateur** est **la livraison du bien ou du service**.
+- Pour les **droits d’enregistrement**, le **fait générateur** est **la date de signature du contrat**.
 
-s'agissant de la TVA, la livraison du bien ou du service fait office de fait génératuer.
+Seules **les règles fiscales en vigueur au moment du fait générateur** sont applicables à l'opération concernée.
 
-pour les droits d'nregistrement, la date de signature du contrat fait office de fait génératuer. Seule
-
-Seules les rgles en vigueur au mometn du fait génératuer ont vocation à s'appliquer en cause
-
-ex TVA 10% au jour de la livraison. Elle permet de conntiar les regles fiscales en vigeuru pour l'opératione nc ause.
+**Exemple** : si la TVA est fixée à **10 %** au jour de la livraison, c’est ce taux qui sera retenu, permettant ainsi de connaître **les règles fiscales applicables** à l'opération.
 
 ### Paragraphe 2 : Le calcul de l’impôt
 
-la liquidationd e l'impot peut s'effectueru par application àla base imposable soit d'un taux (ex 10% pour la TVA) ou soit on va appliquer à la base imposable un bareme. Ex c'est le cas de l'impot sur le revenu, bareme progressif à 5 tranches (1ere tranche à 0%, 2eme taux à 11% etc).
+La **liquidation de l’impôt** peut s’effectuer selon deux méthodes :
+- Par **application d’un taux** à la **base imposable** (exemple : **10 % pour la TVA**).
+- Par **application d’un barème** à la **base imposable**. **Exemple** : pour l’**impôt sur le revenu**, un **barème progressif à cinq tranches** est appliqué (**1ère tranche à 0 %, 2e tranche à 11 %**, etc.).
 
-Selon les cas, le calcul est assuré soit par l'administration, soit par le contribuable, soit par un tiers. 
+Selon les cas, le **calcul de l'impôt** est assuré soit **par l’administration fiscale**, soit **par le contribuable**, soit **par un tiers**.
 
-L'administration va proceder au calcul pour les impots par voie de rôle (impot sur le revenu ou impot locaux) ou en vertue d'un titre de recette (ex taxes d'urbanisme et taxes assimilées).
+1. **Calcul effectué par l'administration fiscale**
+    - L’administration procède au calcul pour les **impôts recouvrés par voie de rôle** (_exemple : impôt sur le revenu, impôts locaux_) ou en vertu d’un **titre de recette** (_exemple : taxes d’urbanisme et taxes assimilées_).
+    - Le **rôle** est une **liste nominative des contribuables**, fixant pour chacun **l’assiette de l’impôt** et **le montant à payer**.
 
-Le role est une liste nomative du contribuable qui fixe pour chacun d'uex l'assiete de l'impto et le montant de l'impotà payer. 
+2. **Calcul effectué directement par le contribuable**
+    - Certains impôts sont **calculés et déclarés** directement par le contribuable, **comme la TVA ou l'impôt sur les sociétés**.
 
-dans d'autres cas impot peut etre calculé directmetn par le contribualbe, ex TVA et impot sur els sociétzs; et dans d'autres cas il petu etre direcmten calculé par un tiers, ex employeur, et c generalmetn le cas quand il y a un prelevement a la source. 
+3. **Calcul effectué par un tiers**
+    - Dans d’autres cas, l’impôt est **calculé et prélevé par un tiers**. **Exemple** : l’**employeur** pour l’**impôt sur le revenu**, dans le cadre du **prélèvement à la source**.
 
 ## Section 3 : Le recouvrement et le paiement de l’impôt
 
-en dernier lieu, ce sont les servies fiaciers de la DGFIP qui procede au recouvrement de l'imot qui se termine par l'encaissment du produit fiscal dans les caisses du trésor public.
+En dernier lieu, ce sont les **services financiers de la DGFIP** qui procèdent au **recouvrement de l’impôt**, processus qui se termine par **l’encaissement du produit fiscal dans les caisses du Trésor public**.
 
-Paiement et recouvrement sont pas des termes identiqiues meme si souvent utilsiés de maniere indifferente.
+Le **paiement** et le **recouvrement** ne sont pas des termes identiques, bien qu’ils soient souvent utilisés de manière interchangeable :
+- **Le paiement** désigne **les modalités de règlement mises à disposition des contribuables**.
+- **Le recouvrement** correspond à **l’ensemble des procédés utilisés par les services fiscaux** pour faire parvenir le montant de l’impôt **dans les caisses de l’État**.
 
-Le paiement c l'étude des modalités de réglement mis à la dispoition des contribuables. Le recouvrement c'est l'ensemble des procédés utilisés par les services des impots pour faire parvenir le montant de l'impot dans les ciasses de l'état.
+La **liquidation de l’impôt** a rendu la **dette fiscale liquide**, c’est-à-dire **exigible et payable dans un certain délai**.
+- Le **fait générateur** est **l’événement qui permet à la créance fiscale d’exister juridiquement**.
+- **L’exigibilité** fixe **la date à partir de laquelle le paiement de l’impôt est dû**, c’est-à-dire après l’intervention du fait générateur.
+- **L’exigibilité permet au Trésor public de réclamer le paiement de l’impôt** et, si nécessaire, **d’engager des procédures de recouvrement**.
 
-la liquidation de l'imopot a rendu donc la dette fiscale liquide, càd que cette dette est devenue exigible et payable dans un certain délait.
+Le **fait générateur et l’exigibilité** ne **coïncident pas nécessairement**. Souvent, **l’exigibilité est différée** par rapport au **fait générateur**.
 
-Le fais generatuer c'est l'evenemtnq ui permet à la créance fiscale d'exisstser juridqieemtN. L'exigibilité fixe la date à partir de lauqelle le paiement de l'impôt est dû, donc apres que le fait générateur ne soit intervenu.
+Dans la pratique :
+- **La demande de paiement intervient après le fait générateur**.
+- **Le paiement lui-même intervient encore plus tardivement**.
 
-L'exigibilité elle permet au trésor public d'obtenir le paiement de l'impot et en poursiuivre eventuellement le recouvrement. 
+**Les trois grandes étapes du recouvrement fiscal** :
+1. **Le fait générateur** : Date à laquelle naît l’**obligation fiscale**.
+2. **L’exigibilité** : L’**État est en droit de réclamer le paiement de l’impôt**.
+3. **La date de paiement effective** : Moment où l’**impôt est effectivement payé**.
 
-fait générateur et exigibilité ne coincident pas obligatoiremetn. Souvent l'exigilité est différée par rapport auf ait générateur. 
+### Paragraphe 1 : Les modes de recouvrement
 
-dans les faits, la demande de paiement interivent apres le fait générateur, et le paiemetn lui meme il interviendar encore plus tardivement.
+L’impôt doit être **acquitté spontanément par le contribuable**, selon les **modalités précisées dans l’acte d’imposition**.
 
-3 grandes étapes:
-- le fait generazuter (date a laquelle nait l'obligaiton fiscale)
-- exigibiltié (état est en drot de nvou demander le aiemetn de l'impot)
-- date de paiement effective (date à laquelel on paie l'impot).
+En **2008**, la fusion de la **Direction générale des impôts (DGI)** et de la **Direction générale de la comptabilité publique (DGCP)** a donné naissance à la **Direction générale des finances publiques (DGFIP)**.
 
+La **DGFIP** est chargée de **recouvrer tous les impôts**, à l’exception de ceux relevant de la **compétence de la Direction générale des douanes et droits indirects (DGDDI)**.
 
-### Paragraphe 1 : Les modes de recouvrmeent
+La **DGDDI** est principalement chargée du recouvrement :
+- **Des droits de douane**.
+- **Des taxes sur les alcools et le tabac**.
+- **De la taxe intérieure de consommation sur les produits énergétiques (TICPE)**.
 
-l'impot doit être acquitté spontanément par le contribuable selon les formes précisés dans l'acte d'imposition. En 2008, la fusion de la direction générale des impots et de la direction générale de la comptabilité publique a donné naissance à la direction générale des finances. 
+Le recouvrement peut s’opérer selon **deux modes** :
 
-La DGFIP est chargée de recouvrer tous les impots à l'exception de ceux qui ont étés laissés à la compétence de la direction générale des douanes et droits indirectes (DGDDI).
+1. **Le recouvrement par rôle**
+    - Il s’agit d’une **liste nominative de contribuables**, établie par l’administration fiscale.
+    - Les contribuables sont **informés individuellement** par un **avis d’imposition**, qui précise :
+        - **La base imposable**.
+        - **Le montant de l’impôt**.
+        - **Les délais de paiement**.
 
-La DGDDI est principalement chargér des droits de douanes, des assises sur les alcool et les tabac, et encore taxe interieru de consomation sur les produits énergétiques.
-
-Le recouvrement petu s'opérer selon 2 alternatives : le role est une liste nominative de contribubles établis par l'administration, ils sont informéés individeuellemtn par un avis d'impositon qui précise labase mposable, le montant de l'impot et les délais de paiemetn.
-
-autre alternative c'est le paiement spontané : certains impot ssont acqités spontanément. Ex le cas de l'impot sur les sociéts ou de la TVA, et odnc administration n'intervient qu'en cas de retard ou d'absence de paiement. 
+2. **Le paiement spontané**
+    - Certains impôts sont **acquittés spontanément par les contribuables**, sans intervention de l’administration, sauf en cas de **retard ou d’absence de paiement**.
+    - **Exemples** :
+        - **L’impôt sur les sociétés**.
+        - **La TVA**.
 
 ### Paragraphe 2 : Les modes de paiement
 
-Le trésor public n'est pas un créancie rcomme un autre, ile t autoirsé par la loi à rédger lui meme se spropres titres executoires pour obliger les ocntribuabels à se'acuqtter de leur obligaiton fiscale.
+Le **Trésor public** n’est pas un **créancier comme un autre**. Il est autorisé par la loi à **rédiger lui-même ses propres titres exécutoires**, lui permettant ainsi **d’obliger les contribuables à s’acquitter de leurs obligations fiscales**.
 
-Noramlemetn un créancier doit saisir un tribunal afin d'obtenir un titre exectuorie (et donc une execution forcée), contrairelen tau trésor public.
+Normalement, un créancier doit **saisir un tribunal** afin d’obtenir un **titre exécutoire** (et donc de pouvoir engager une **exécution forcée**). En revanche, le **Trésor public** bénéficie d’un privilège qui lui permet **d’éviter cette procédure judiciaire**.
 
-La saisie adminsitrative à tiers détenteur (appélé avnat l'avis à tiers détenteur ATD), c'est la voie d'execution la plus souvent utilisée par les comptables publics.
+1)  **La saisie administrative à tiers détenteur (SATD)**
 
-cette voie d'exeuito concenre aussi bien les impots en principal que les frais accessoires et pénalités fiscales.
+La **saisie administrative à tiers détenteur** (anciennement appelée **avis à tiers détenteur – ATD**) est **la voie d’exécution la plus fréquemment utilisée** par les comptables publics.
 
-la saisie administraitve à tiers détenteurs permet de siasir entre les mains des tiers des osmmes d'argent, des salaires, des loyers, dont ces denriers sont débiteurs envers le contribuable.
+- Cette **procédure permet de saisir, entre les mains d’un tiers**, des **sommes d’argent**, telles que :
+    - **Salaires**.
+    - **Loyers**.
+    - **Créances diverses**, dont le tiers est **débiteur envers le contribuable**.
+- Elle concerne aussi bien **l’impôt en principal** que les **frais accessoires et pénalités fiscales**.
+- Elle est **facile à mettre en œuvre**, mais **ne porte que sur des sommes d’argent** et non sur des biens matériels.
 
-donc la sisie administrative est assez facile a mettre enoeuvre, et peut donc porter que sur dessommes d'argent (pa sur des biens). 
+2) **La prescription quadriennale**
 
-la prescription quadriénale : si le comptable public n'engage aucune poursuite contre un débiteur de l'imopot, pendnat les 4 ans suivant le jour de la mise ne recouvrement du rôle ou de l'envoei del'avis de mise ne recouvrmenet, dans cec as le comptable public et donc le trésor il est déchu de tout droit et de totue action.
+Si le **comptable public** n’engage **aucune poursuite** contre un **débiteur de l’impôt** pendant les **quatre ans suivant** :
 
-donc la prescription elle éteint l'action en recouvrement. Autrement dit, le contribualbe deivnet libre de sa dette fiscale.
+- **La mise en recouvrement du rôle**.
+- **L’envoi de l’avis de mise en recouvrement**.
 
-ce délais de presicription eut etre interrompu par un acte de pourusite notifié par l'administration, ex une sasie administraitve à tiers détentuers, il peiut etre aussi interrompu par une action en justice, ou par un agissmetn du contribuzable qui reconnait sa dette fiscale, ex lorsquel e contribuale fait une demande de délais poiru payer son impot (signifie qu'ilr ecnnait lle bien fondé de sa dette fiscale).
+Alors, le **comptable public** (et donc le **Trésor public**) est **déchu de tout droit et de toute action**.
+
+Autrement dit, la **prescription éteint l’action en recouvrement**, ce qui signifie que le **contribuable devient définitivement libre de sa dette fiscale**.
+
+Toutefois, ce **délai de prescription** peut être **interrompu** dans plusieurs cas :
+- **Un acte de poursuite notifié par l’administration** (**exemple** : une **saisie administrative à tiers détenteur**).
+- **Une action en justice** intentée par l’administration fiscale.
+- **Une reconnaissance de dette fiscale** par le contribuable (**exemple** : lorsqu’il demande un délai de paiement pour s’acquitter de son impôt, ce qui signifie qu’il reconnaît le bien-fondé de sa dette fiscale**).

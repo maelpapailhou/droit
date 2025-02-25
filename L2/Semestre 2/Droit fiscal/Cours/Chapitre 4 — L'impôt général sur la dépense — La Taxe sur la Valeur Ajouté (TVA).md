@@ -1,99 +1,413 @@
-la TVA est le résultat d'un e longue evolution.
+Historiquement, avant la TVA, les impôts sur la dépense ont d'abord été des impôts particuliers, appliqués uniquement à certains produits, puis des impôts généraux sur toutes les transactions.
 
-historiquement, avant la TVA? les impots sur la dépense ont d'abod éré des impots paritculeir,s donc certaisn prpduits uniquement, puis des impost generaux sur toutes les transcations.
+Les impôts particuliers sur la dépense ont été abolis pendant la Révolution et rétablis sous le Consulat. Pendant tout le XIXᵉ siècle, ils constituaient la forme normale d'imposition sur la dépense. Ils ne s'appliquaient qu'à certains produits (sel, tabac, alcool) ou encore à certaines opérations spécifiques.
 
-les impots particuleirs sur la dépense ont été abolis pendant la révoluton et rétabis sous le consulat, et il représentait pendnat tout le e19e siècle il la forme normake de l'imposition sur la dépense. il ne s'appliquait que sur certains produits (sel tabac alcool) ou encore qu'a certaines opérations.
+Ces impôts particuliers existent encore aujourd'hui sous la forme d'impôts indirects sur le tabac ou l'alcool.
 
-les impots particuleirs exisntet encore sous la forme d'impot indirect sur les tabacs ou encore l'alcool. 
+L'imposition générale sur les dépenses concerne l'ensemble des transactions. Elle n'a cessé de prendre une place croissante dans la fiscalité française et d'évoluer techniquement. C'est pour répondre aux anciennes critiques de l'impôt sur les dépenses que la TVA a été créée.
 
-l'impositon generale sr les depenses concerne l'nesmelb edes transations,  et elle n'a cessé de prendre dans la fiscalité francaise une palce crissante et d'évoluer technqument. c'est pour répondre aux anciennes critques de l'impot sur les depenses qua été crée la tva 
+La TVA a été élaborée par Maurice Lauré au sein des administrations françaises.
+- **Loi du 10 avril 1954** : institution de la TVA.
+- **Décret d'application de 1955** : mise en œuvre concrète du dispositif.
+- **Loi du 5 janvier 1966** : généralisation de la TVA sous l'impulsion de Valéry Giscard d'Estaing.
 
-la tva a été élaborée par maurice lauré au sien des administrations fnraciae;
+L'Europe a généralisé la TVA avec **deux directives du 11 avril 1967**, mises en application à partir du **1ᵉʳ janvier 1968**.
 
-loi 10 avril 1954 qui a institué la TVA, et décret d'appliaiton de 1955 qui va refit son aplicatin concrete.
+Par la suite, la TVA s'est généralisée dans plusieurs États du monde. Aujourd’hui, environ **130 États** ont adopté ce système fiscal, à l'exception notable des États-Unis.
 
-la TVA sera généralisée par valery giscard d'esaitn, par la loi du 5 janvier 1956
+**Les qualités de la TVA**
+- **Un impôt simple** : il est collecté par les entreprises, ce qui leur confère un avantage de trésorerie.
+- **Un impôt économiquement neutre** : il n'est pas supporté par l'entreprise mais intégralement par le consommateur final.
+- **Un impôt indolore** pour le consommateur : il est intégré dans le prix final, et peu de personnes ont conscience de le payer.
+- **Un impôt à fort rendement** : c'est l'impôt qui rapporte le plus à l'État.
+    - **La moitié des recettes fiscales de l'État** provient de la TVA.
+    - Elle rapporte **deux fois plus** que l'impôt sur le revenu.
 
-l'uerope va generaliser la TVA avec 2 directrives du 11 avril 1967, et va se faire a partir du 1er janvier 1968. 
+**Les défauts de la TVA**
+- **Un impôt injuste** comparé à l'impôt sur le revenu, car il n'est pas progressif.
+- **Un impôt aveugle** : il frappe tout le monde de la même manière, quel que soit le niveau de revenu.
+- **Un impôt qui pèse davantage sur les familles nombreuses**, qui consomment plus pour subvenir à leurs besoins.
+- **Une ambiguïté terminologique** : le mot "taxe" pourrait laisser croire que la TVA n'est pas un impôt, alors qu'elle est bien un impôt sans contrepartie directe.
 
-la TVA va ensuite se generalsier dans plusiuer setats dans le monde. y'a a peu pres 130 etats dans le mond equi ont adopté le systeme de la TVA, avec exception notable des etats-unis.
+La TVA est un **impôt sur la consommation et la dépense**.
+- C'est un **impôt indirect**, c'est-à-dire qu'il n'est pas collecté directement par l'État mais par les entreprises, qui le collectent et le reversent ensuite au Trésor public.
+- À **chaque stade de la production et de la distribution**, la TVA est collectée et ajoutée au prix de vente. Les entreprises déduisent la TVA qu'elles ont payée à leurs fournisseurs avant de reverser la différence à l'État.
 
-la tva est un impot clivant :
+**Différence avec un impôt direct**
+- **Impôt direct** : payé directement par le contribuable à l'État (exemple : impôt sur le revenu).
+- **Impôt indirect** : collecté par un intermédiaire (exemple : TVA, qui est collectée par les entreprises et répercutée sur le consommateur).
 
-qualités de la tva : un impot simple car il est colelcté par les entreprises qui ont ainsi un gros avantage de trésorerei. 
+## Section 1 : Le mécanisme général de la TVA
 
-c'est un impot economiquement neutre, car il n'est pas supporté par l'entreprsie, mais il est supporté integravlmetn par l consomateur final.
+La TVA est un **impôt indirect sur la consommation** des biens et services, qui est **supporté économiquement par le consommateur final**, mais qui **n'est pas versé directement par lui au Trésor public**. Elle représente la différence entre un prix **hors taxe (HT)** et un prix **toutes taxes comprises (TTC)**.
 
-c'est un impt indolore pour le consomateur, puisque personne n'a consicence de payer la TVA, et est ingérée dans le pric finfal que devra paye rle consiamter.
+L’impôt est **intégré dans le prix de vente** facturé au client (sauf cas particulier) par le vendeur ou le prestataire de services. Ainsi, les entreprises qui produisent et commercialisent des biens et services **collectent la TVA pour le compte de l’État**.
 
-cenrier avantage : rendement lde la TVA, c'est l'impot dont le rendement est le plus important.
+Les agents économiques assujettis à la TVA, qui ont **l’obligation de collecter cet impôt** sur leurs ventes de biens ou prestations de services, peuvent **déduire la TVA** qu’ils ont eux-mêmes acquittée pour leurs **achats professionnels** avant de la reverser au Trésor public.  
+Cela signifie que les entreprises peuvent récupérer **la TVA qu’elles ont payée sur leurs achats professionnels**. Ce mécanisme de **déduction** permet aux entreprises de **ne reverser au Trésor que la TVA nette**, correspondant à **la valeur ajoutée créée** par l’entreprise.
 
-la moité des recettes fiacales de l'etat c'est la TVA, elle rapote 2 fois plu sque l'impot sur le revenu.
+Ainsi, pour éviter qu’un même produit ne soit taxé plusieurs fois, il existe un **système de déduction de TVA** pour les entreprises.
 
+**L'équation de calcul de la TVA nette**
+> **TVA à payer pour les entreprises (TVA nette) = TVA collectée sur les ventes - TVA déductible (TVA payée sur les achats professionnels)**
 
+- **La TVA collectée**
 
-la TVA a aussi des défauts : 
-immpot injsute coparé à impot sru le revenu puisque pas impot progressif.
+Le vendeur d’un produit ou d’un service **collecte la TVA auprès du client** et est chargé de la reverser à l’État.
 
-c un impoto aveugle, qui frappe tout le mpnde de la meme maniere, quelque soit sonniveua de revenu.
+**Exemple :**
+- Une entreprise vend un produit à un consommateur pour un prix **hors taxe (HT) de 100 €**.
+- Elle applique un **taux de TVA de 20 %**, soit **20 €**.
+- Le **prix TTC** (toutes taxes comprises) sera donc **120 €**.
+- L’entreprise devra ensuite **verser au Trésor public 20 € de TVA**.
 
-la TVA pese davantage sur les familles nombreusesqui doivnet consommer davantage poru subrenur à leurs beosins.
+- **TVA déductible**
 
-le mot de taxe peut faire croire que la TVA n'est aps impot mais une taxe, mais c'est bien un impot dénué de totue contrepartie.
+La TVA déductible concerne les **achats entre professionnels**. Lorsqu’un professionnel achète un produit, **il paie la TVA à son fournisseur**, mais cette TVA **peut être déduite de la somme à verser à l’administration fiscale**.
 
-la tva c'est un impot sur la consomation, la dépense, c un iompto qio est indirect, càd qu'il n'est pas collecté direcmtenet par l'état, mais par le vendeur qui le collecte et le reverse à l'état.
+**Exemple :**
+- L’**entreprise A** vend un produit à l’**entreprise B** pour un **montant hors taxe de 100 €**.
+- L’**entreprise B** revend ensuite le même produit à l’**entreprise C** pour **300 € HT**.
 
-dnc tva impot general indirect pas versé direcmtent par le socnsomateurs masi collecté à chaque stade de la production et de la distribution. Celles ci majhoreutn leur prix de vente au client en integrant el montan de la taxe, et reversnet l'impot au trésor apres déduction de la taxe qui leur a été facturé par les foiriseurs lors de leur propres achats. 
+**Calcul de la TVA :**
+1. Lors de la vente à l’entreprise B :
+    - L’**entreprise A** applique **20 % de TVA**, soit **120 € TTC**.
+    - Elle verse **20 € de TVA au Trésor public**.
+2. Lors de la revente à l’entreprise C :
+    - L’**entreprise B** applique également **20 % de TVA**, soit **360 € TTC**.
+    - Elle déduit **les 20 € de TVA** qu’elle a déjà payés à l’entreprise A.
+    - Elle ne verse donc **que la différence au Trésor public**, soit **40 € - 20 € = 20 €**.
 
-impot direct : ex impot sur ele revenu, tva impot indirect, c pas le particuleir qui paie, c par l'intermedaiire d'uen etnreprise.
+La TVA est **économiquement neutre pour les entreprises** car **elles ne supportent pas directement son coût**. Seul **le consommateur final supporte la TVA**, car il n’a **aucune possibilité de la déduire**.
 
+## Section 2 : L’assiette de la TVA
+### Paragraphe 1 : Le champ d’application matérielle de la TVA
 
-## section 1 : le mécanisme générla de la TVA.
+Le champ d’application matérielle correspond à **l’ensemble des opérations soumises à la TVA**, qui constitue son assiette.
 
-la TVA c'estun impot indirect sur al consomationd es biens et services qui est supporté économiquementpar le consoamlteur final, mais qui n'est pas versé directmenet par lui au trésor. La tva rpresente la dffernece entre un prix hors taxe et un prix TTC;
+#### A) Les opérations imposables à la TVA
 
-l'impot est inregré dans le prix de vente facturé au trésor (suaf cas paritucler) par le venduer ou le prestataire de service, et donc les entreprises qui produisent et cillercuaiet des biens et serviuces collectent la tva pour le compte de l'état. 
+Sont soumises à la TVA **les prestations de biens et de services effectuées à titre onéreux par un assujetti agissant en tant que tel** (==article 256, alinéa 1 du CGI==).
 
-les agents economqieui sasujetti à la TVA, qui otn l'olbigation de collecter cet impot sur leru vente de bien ou presation de serivce, ils vont avant de reverser la tva au trésor pouvoir déduit la tva qu'il sont eux meme acuqitter pour lerus achats profesisones. docn les entreprises peuvnetr recuperer la tva qu'ils ont acuqitté pour les achats réalisés dans le cadre de leru activité profesionnelle. ce mecanisme de reduciton permet de ne rverser au trésor que la tva net qui correpond à la valeur jaouté créé par l'entreprise. 
+Il y a donc **trois caractéristiques** à prendre en compte et à définir :
+1. **La nature des opérations concernées**
+2. **Leur caractère onéreux**
+3. **La qualité d’assujetti**
 
-donc pour eviter quq'ujn meme produit ne soit taxé plusieur sfois, il existe un sèstme de déduction de tva pour les entreprises.
+Les opérations soumises à la TVA peuvent être :
+- **Imposables par nature**
+- **Imposables par détermination de la loi**
 
-l'équation est la suivante : TVA a payé poru els entreprises (TVA net) = TVA collectée via la vente de produit ou de services - TVA deductrie (cad payé pour les profesiones )
+##### 1) Les opérations imposables par nature à la TVA
 
-TVA collecté : le venduer du produti ou du service collecte la tva aupres du client, chargé de la reverser à l'état. si une entreprise vend un produit àun consmateur au prix hors taxe de 100 euros, elle incorpore la TVA de 20% dans son prx de vente, ce qui fait donc que le prix TTC est donc de 120 euros. 
+Ces opérations sont définies à **l’article 256, I du CGI** :
+> *Sont soumises à la taxe sur la valeur ajoutée les livraisons de biens et les prestations de services effectuées à titre onéreux par un assujetti agissant en tant que tel*
 
-et docn l'entreprise va verser au trésor la TVA qui est calculée sur ce prix de vente , elle va donc reverser au trésor 20e.
+1) **Première caractéristique : la nature des opérations**
 
-la TVA déductive : ocnenre les achats entre professinels, lorsque on achete un produit en tant que professionel, on doit regler la tva au fournissuer. C'est cette TVA peut etre déduite de la somme à verser à l'aministration fiscale.
+Il s'agit de **la livraison de biens et des prestations de services**.
+- **La livraison de biens** concerne **en principe les biens meubles corporels**.
+- **Les prestations de services** ont une définition très large et incluent notamment les **cessions de biens incorporels** (ex : brevets, marques, logiciels, etc.).
 
-ex entreprise A vend à une entrperise B un produit dont le montant hors taxe est de 100euros.
+3) **Deuxième caractéristique : le caractère onéreux des opérations**
 
-l'entreprise B revend à son tour le même produit à une entreprise C pour un montnat hors taxe de 300 euros.
+Pour être parfaite, une vente doit avoir **une contrepartie monétaire**, c’est-à-dire le paiement d’un prix.  
+Il en va de même pour la TVA : **la valeur ajoutée doit résulter d’un paiement**, qui peut être :
+- un prix payé **en euros**,
+- un paiement **en nature**,
+- un paiement **en titres**.
 
-lors de la vente du produit à l'netreprise B, l'entreprise A elle incorpore la TVA dans son prix de vente, et va docn verser la TVA au trésor. 120 eur TTC. 
+Autrement dit, **la TVA ne peut pas s’appliquer à des opérations gratuites**.
 
-lors de la seconde vente, elleincorpore la tva dans osn prix, donc 20%. 340 eur ttc. l'entreprise C déduit la tva sur la facutre d'achat émise par l'entreprise A, càd 20eur. donc elle va donc verser au trésor que la différence, entre la tva encaissée de l'entreprise C et la tva déductible au titre de l'achat à l'entreprise A. 
+3) **Troisième caractéristique : le critère personnel – la notion d’assujetti à la TVA**
 
-la tva est neutre economiquemetn pour les entreprises, et elle n'est supportée que par le consomateur final. 
+L’**article 256 A du CGI** précise la définition d’un assujetti à la TVA :
+> ***"Toute personne qui exerce une activité économique de façon indépendante."***
 
-section 2 : l'assiete de la TVA
-paragraphe 1 : le champ d'appkication matériell de la TVA. 
+Cette **notion d’indépendance** signifie que **l’assujetti est libre de s’organiser** pour exercer son activité professionnelle.  
 
-le champ d'applciaiton matérielle c l'ensmeble des opérations soumises à la tva, qui en constitue l'assiete. 
+L’assujetti doit exercer **des activités économiques** qui peuvent concerner **différents stades d’une activité** :
+- la **production**,
+- la **commercialisation**,
+- les **activités libérales**.
 
+Le critère personnel repose donc sur **deux éléments essentiels** :
+1. L’existence d’une **activité économique**.
+2. L’exercice de cette activité de manière **indépendante**.
 
-### A) les opérations imposables à la TVA. 
+Cette **notion d’indépendance** est primordiale pour avoir la **qualité d’assujetti à la TVA**.
 
-2 types :
-- imposable par nature
-- imposable par détermination de la loi
+Ainsi, la **qualité d’indépendant** est reconnue aux personnes qui exercent une activité **sous leur propre responsabilité** et qui disposent d’une **totale liberté dans l’organisation et l’exécution de leurs travaux**.
 
-#### 1) les impératoosn imosables par nature à la TVA 
+##### 2) Les opérations imposables à la TVA par détermination de la loi
 
-sotn soumises à la TVA les presaton de biens et de service sdeffectués à titre onéreux par un asjetti agissat en tant uqe tel . art 256 grand 1 du CGI).
+L’**==article 257 du CGI==** détaille les opérations **imposées par la loi**, parmi lesquelles figurent notamment :
+- La **livraison d’immeubles neufs**,
+- La **vente d’avions**,
+- La **contribution à l’audiovisuel public**.
 
-il y a donc 3 caractéristiques à rendre en compte et à définir:
-1. la nature des opérations concernées
-2. leur caractere onéreux
-3. la qualité d'asujetti
+#### B) Les opérations exonérées de TVA
 
+Ce sont des opérations qui, bien qu'elles entrent **par nature dans le champ d'application de la TVA**, en sont **dispensées expressément par un texte particulier**.
+
+En effet, **il n’existe pas d’exonération sans texte**.
+
+Les opérations exonérées présentent **deux conséquences majeures** :
+1. Elles **ne donnent pas lieu à la facturation de la TVA** (c'est-à-dire qu'il n'y a pas de collecte de TVA).
+2. Elles **ne sont pas soumises aux obligations déclaratives** propres à la TVA.
+
+De nombreux secteurs bénéficient d'une exonération de TVA, conformément aux **==articles 261 et suivants du CGI==**. Parmi eux, on retrouve :
+- **Les objets vendus d’occasion**,
+- **Les activités et soins médicaux et paramédicaux**,
+- **Les activités d’enseignement scolaire et universitaire**,
+- **Le secteur bancaire et les assurances**,
+- **La location de terrains et d’immeubles** (sous certaines conditions),
+- **Les jeux de hasard et d’argent**.
+
+L’**exonération de TVA pour le secteur bancaire et les assurances** s’explique par la **difficulté de mesurer la valeur ajoutée** par les entreprises de ce secteur.  
+
+En contrepartie de cette exonération, ces entreprises s’acquittent d’une **taxe sur les salaires** (environ **10 %** du montant des salaires).
+
+De la même manière, **l’exonération de TVA pour les jeux de hasard et d’argent** s’explique par le fait que ces activités sont **déjà soumises à l’impôt sur les spectacles, jeux et divertissements**.
+
+### Paragraphe 2 : Le champ d’application territorial de la TVA
+
+Pour que la TVA soit due, **il ne suffit pas qu’il s’agisse de la vente de biens ou de services**. La TVA demeure un **impôt national**, c’est pourquoi **son champ d’application territorial est limité**.
+
+Ce sont les **==articles 258 à 259 B du CGI==** qui régissent la **territorialité de la TVA**.
+
+#### A) Les règles de territorialité
+
+##### 1) Généralités
+
+Le principal problème qui se pose est de savoir si **une opération internationale**, qu’elle soit **intracommunautaire** ou **extracommunautaire**, et normalement soumise à la TVA, est effectivement **imposable en France** ou non.
+
+Si cette opération **n’est pas imposable en France**, elle peut être **imposable dans un autre État** ou bien **échapper complètement à l’imposition**.
+
+Selon **l’==article 2 de la directive du 28 novembre 2006==**, sont soumises à la TVA **les livraisons de biens et de services effectuées à titre onéreux sur le territoire d’un État membre**.
+
+Concernant les règles applicables, **on applique les règles de territorialité**.  
+
+Ces règles résultent de **la même ==directive du 28 novembre 2006==**, dont les dispositions ont été **transposées aux ==articles 258 et suivants du CGI==**.
+
+Pour qu’une opération soit **imposable en France**, il faut qu’elle entre dans **le champ d’application territorial français**, qui dépend de **deux critères** :
+1. **Le territoire (lieu d’exécution)** → C’est-à-dire **où** l’opération est exécutée.
+2. **La nature de l’opération** → Livraison de biens ou prestation de services.
+
+##### 2) Les différents territoires
+
+On distingue **trois territoires** en matière de TVA :
+
+1) **Le territoire français en matière de TVA**
+
+Ce territoire est constitué de :
+- **La France continentale**
+- **La Corse**, qui bénéficie d’un **régime spécial**
+- **La principauté de Monaco**, qui obéit à des **règles spécifiques**
+- **Les eaux territoriales et le plateau continental**
+
+Les **départements d’outre-mer (DOM)** sont soumis à des **dispositions spécifiques**.
+
+En revanche, les **collectivités d’outre-mer (COM)**, notamment :
+- **La Polynésie française**
+- **Saint-Pierre-et-Miquelon**
+- **Wallis-et-Futuna**
+
+ne font **pas partie du territoire français en matière de TVA**.
+
+2) **Le territoire de l'Union européenne en matière de TVA**
+
+Il correspond au **territoire de l’ensemble des États membres** de l’UE.
+
+Toutefois, **certaines localités ou territoires sont exclus du champ d’application de la TVA** au sein de l’Union européenne. Exemples :
+
+- **L’île d’Helgoland (Allemagne)**
+- **Les îles Canaries (Espagne)**
+- **Le mont Athos (Grèce)**
+
+3) **Les pays tiers**
+
+Les **pays tiers** sont **tous les autres États** en dehors :
+- de la France,
+- des États membres de l’Union européenne,
+- ainsi que des **territoires exclus** du champ d’application de la TVA d’un **État membre de l’UE**.
+
+### B) Les opérations internationales
+
+On distingue les **livraisons de biens** et les **prestations de services**.
+
+#### 1) Les livraisons internationales de biens meubles corporels
+
+1) **1er cas : Les livraisons de la France vers un autre État membre**
+
+Dans ce cas, **la TVA est prélevée dans le pays de destination et non en France**, à condition que **le client dispose d’un numéro d’identification à la TVA**.
+
+**En l’absence d’identification**, la TVA est payée en France. Ce numéro d’identification est appelé **numéro de TVA intracommunautaire**.
+
+Si le bien est **expédié de France vers un autre État membre**, mais que le client n’a **pas de numéro de TVA intracommunautaire**, **la TVA française est applicable**.
+
+2) **2ᵉ cas : Les acquisitions intracommunautaires**
+
+Dans ce cas, **la taxation se fait dans le pays de destination**, c’est-à-dire **la France**, qui encaisse alors la TVA.
+- **Là aussi, le numéro de TVA intracommunautaire est indispensable**.  
+- **En l’absence d’identification**, la TVA est payée dans le pays d’origine.
+
+3) **3ᵉ cas : Les régimes spécifiques pour les opérations réalisées par des particuliers**
+
+Pour **les moyens de transport neufs** (voitures, bateaux, avions), **la TVA appliquée est celle du pays de destination** afin d’éviter les distorsions fiscales.
+
+- **Exemple 1** : Si un **acheteur français** achète une voiture neuve en Allemagne, **la TVA est payée en France**.
+- **Exemple 2** : Si un **acheteur allemand** achète une voiture neuve en France, **la TVA est payée en Allemagne**.
+
+4) **4ᵉ cas : Les importations et exportations entre la France et les États hors de l’Union européenne**
+
+Les **échanges extracommunautaires** concernent les opérations réalisées avec **des pays tiers**.
+
+- **Exportations vers un pays hors de l’Union européenne** : ces opérations sont **exonérées de TVA**, conformément à **l’article 262, I du CGI**.
+- **Importations depuis un pays tiers** : elles sont **soumis en principe à la TVA française**, conformément à **l’article 291, I du CGI**.
+
+#### 2) Les prestations de services internationales
+
+Cette hypothèse est **plus complexe**, car les **prestations de services** se déroulent généralement **dans la durée**. Les **critères d’application territoriale de la TVA** sont déterminés **par référence au lieu où ces opérations sont réputées se situer**.
+
+1) **Principe général**
+
+Depuis **2010**, le législateur prévoit que la **TVA française s’applique** aux **prestations de services réalisées en France**. Cependant :
+
+- Si la **prestation est fournie en dehors de la France**, il s’agit d’une **opération extraterritoriale**, et donc la **TVA française ne s’applique pas**.
+- Une distinction supplémentaire est faite **selon que le preneur de la prestation soit assujetti ou non assujetti à la TVA**.
+
+2) **Règles spécifiques selon le preneur de la prestation**
+
+- **Si la prestation est fournie à une personne assujettie**, elle est réputée être située en France si **l’un des critères suivants est rempli** :
+    - **Le siège de son activité économique est en France**.
+    - **Un établissement stable auquel les services sont fournis est en France**.
+    - **À défaut**, son **domicile ou sa résidence habituelle est en France**.
+
+- **Si la prestation est fournie à un preneur non assujetti**, elle est réputée être en France lorsque :
+    - **Le prestataire a établi le siège de son activité économique en France**.
+    - **Un établissement stable auquel les services sont fournis est en France**.
+    - **À défaut**, son **domicile ou sa résidence habituelle est en France**.
+
+Cependant, l’application de cette **règle générale** est **complexifiée** par **plusieurs règles particulières**.
+
+3) **Règles particulières dérogatoires**
+
+En vertu de **l’==article 259 A du CGI==**, certaines **règles spécifiques** **dérogent au principe général**.
+
+- **Prestations de services liées à des immeubles**
+    - Ces prestations sont **imposables à la TVA en France** **lorsque l’immeuble concerné est situé en France**.
+    - **Exemples** :
+        - **Travaux immobiliers**.
+        - **Prestations réalisées par un expert sur un immeuble situé en France**.
+
+- **Locations de moyens de transport**
+    - Ces prestations sont **imposables à la TVA en France** selon la durée de la location :
+        - **Location de courte durée** (**moins de 30 jours**) : la TVA est due en France **si le locataire prend physiquement possession du véhicule en France**.
+        - **Location de longue durée** (**plus de 30 jours**) : l’imposition dépend **du statut du preneur** et **du type de transport concerné**.
+
+## Section 3 : Calcul de la TVA
+La **TVA collectée** par l'État est égale à la **base d'imposition**, appelée aussi **assiette** (constituée par toutes les sommes, valeurs, biens ou services reçus ou à recevoir par le fournisseur de la part du preneur, acheteur ou d'un tiers), multipliée par le **taux de TVA applicable**.
+
+Ainsi, la **TVA collectée** est calculée selon la formule suivante :  
+**TVA collectée = prix de vente × taux de TVA applicable**.
+
+Pour éviter qu'un même produit soit taxé plusieurs fois, il existe un **système de déduction de la TVA** payée par les entreprises.
+
+Pour calculer la TVA, il est nécessaire de connaître les différents **taux de TVA**. En France, on distingue **quatre taux** :
+- **Le taux normal** : 20 % en **France métropolitaine** (s'applique à la plupart des biens et services).
+- **Le taux intermédiaire** : 10 % (concerne notamment l’**hébergement**, le **transport** ou la **restauration**).
+- **Le taux réduit** : 5,5 % (applicable aux **produits de première nécessité**, notamment les **produits alimentaires**, les **abonnements au gaz et à l'électricité**).
+- **Le taux particulier** : 2,1 % (concerne principalement les **médicaments remboursés par la Sécurité sociale**).
+
+Les **départements d'Outre-mer** comme **La Réunion** sont soumis à des **dispositions spécifiques**, tenant compte des particularités de ces territoires. En **Guadeloupe, Martinique et La Réunion**, les taux de TVA sont différents :
+- **Taux normal** : 8,5 %
+- **Taux réduit** : 2,1 %
+- **Taux particuliers** : 1,75 % et 1,05 %
+
+En revanche, en **Guyane et à Mayotte**, la TVA **n’est provisoirement pas applicable**.
+
+**Livraison de marchandises depuis la Métropole vers La Réunion : TVA applicable ?**
+Si un consommateur passe une commande en **métropole**, le **taux de TVA normal de 20 %** s’applique. Toutefois, lorsqu'un **colis est expédié à La Réunion**, il sera **re-taxé au taux de TVA local** (8,5 %), en plus des **frais de douane**, qui sont proportionnels à la valeur du colis (y compris la TVA française).
+
+Cela signifie qu’un **même produit peut être soumis à une double taxation** :
+1. **TVA métropolitaine (20 %)** au moment de l’achat.
+2. **TVA réunionnaise (8,5 %)** + **droits de douane** à l’arrivée du colis.
+
+Par exemple, lorsqu'un produit est acheté sur **Fnac.com**, il est généralement vendu **hors taxe**, et la TVA est **appliquée à l’arrivée** du colis à La Réunion. Sur certains sites comme **Shein**, il est possible de payer au prix **TTC** (toutes taxes comprises), mais en cas de taxation locale supplémentaire, un **remboursement des frais de TVA** peut être demandé.
+
+**Exonération de TVA pour les livraisons vers les DOM**
+Lorsque **des biens sont expédiés depuis la métropole vers les départements d’Outre-mer** (DOM) tels que **La Réunion**, une **exonération de TVA** est applicable.
+
+Selon **l’==article 294 du Code général des impôts== (CGI)**, **les DOM sont considérés comme des territoires d’exportation**. La facture doit alors comporter la mention suivante :  
+**"Exonération de TVA en application de l’article 294 du CGI"**.
+
+Ainsi, lorsque vous **faites livrer un colis depuis la métropole**, vous devez **payer le prix hors taxe**. Sinon, vous risquez de payer **deux fois la TVA** :
+
+1. **La TVA au taux métropolitain (20 %) lors de l’achat**.
+2. **La TVA au taux local (8,5 % à La Réunion) à la réception du colis**.
+
+Si l’entreprise ne peut pas vous **facturer le colis au prix hors taxe**, il est possible de lui **demander le remboursement des frais de TVA** payés sur internet.
+
+Les colis expédiés **depuis l’étranger** sont soumis aux **règles de TVA françaises**. Ainsi, **ce ne sont pas les taux du pays exportateur** qui s’appliquent, mais bien **ceux de la France** (ou des DOM, selon la destination).
+
+## Section 4 : Les régimes d’imposition à la TVA
+
+Trois **régimes d’imposition à la TVA** peuvent s’appliquer aux entreprises :
+1. **Le régime réel normal**
+2. **Le régime réel simplifié**
+3. **Le régime de franchise en base de TVA**
+
+Un **régime peut s’appliquer de plein droit**, notamment en fonction du **chiffre d’affaires annuel**. Toutefois, **une entreprise peut opter pour un régime supérieur**.
+
+Par exemple :
+- Une entreprise relevant du **régime de franchise en base de TVA** peut **opter** pour le **régime simplifié** ou le **régime réel normal**.
+- Une entreprise relevant du **régime réel simplifié** peut choisir d’opter pour le **régime réel normal**.
+
+Ces **régimes d’imposition à la TVA** déterminent :
+- La **fréquence des versements** de TVA à effectuer.
+- Le **niveau de détail** des déclarations à produire.
+- Les **obligations comptables** à respecter par l’entreprise.
+
+### Paragraphe 1 : Le régime réel normal
+
+**Application du régime**
+
+Le régime **réel normal d’imposition** est prévu pour les redevables dont le **chiffre d’affaires annuel hors taxes dépasse** :
+- **840 000 euros** pour les entreprises qui **vendent des marchandises ou fournissent des logements**.
+- **254 000 euros** pour les **activités de prestation de services**.
+
+**Obligations liées à ce régime**
+Dans ce régime, la **TVA perçue doit être déclarée et payée chaque mois**. Les redevables sont tenus :
+1. **D’effectuer mensuellement une déclaration détaillée**, comportant la ventilation des recettes par nature d’opération.
+2. **De verser spontanément** le montant de l’impôt lors de la déclaration.
+
+Toutefois, si la **TVA annuelle exigible est inférieure à 4 000 euros**, la déclaration devient **trimestrielle** au lieu de mensuelle.
+
+### Paragraphe 2 : Le régime réel simplifié
+
+Concernant l'application du régime, le régime **simplifié d’imposition** est prévu pour les redevables dont le chiffre d’affaires annuel hors taxes est **supérieur à 91 000 euros et n'excède pas 840 000 euros** pour les entreprises qui **vendent des biens ou fournissent des logements**, ou dont le chiffre d’affaires hors taxes est **supérieur à 36 800 euros et n'excède pas 254 000 euros** pour les **activités de prestation de services**.
+
+Pour ces deux catégories d'activités, le montant annuel de **TVA exigible ne doit pas dépasser 15 000 euros**.
+
+Concernant les obligations de ce régime, l'entreprise doit effectuer **deux avis d'acompte provisionnel semestriels**. Elle doit également transmettre **une déclaration annuelle** une fois l'exercice clos.
+
+Les **deux acomptes** sont à payer en **juillet et en décembre**, et l'éventuel solde doit être réglé **au moment de la télétransmission de la déclaration de régularisation annuelle**.
+
+Enfin, **plus le chiffre d’affaires est bas, moins l’entreprise est soumise à des contraintes déclaratives**.
+
+### Paragraphe 3 : La franchise en base
+
+Concernant l'application du régime, les entreprises, quelle que soit leur forme juridique, dont le chiffre d'affaires hors taxes ne dépasse pas un certain montant, sont dispensées du paiement de la TVA.
+
+Le chiffre d'affaires réalisé l'année précédente ne doit pas dépasser plusieurs seuils : **91 900 euros** pour les entreprises qui réalisent des **livraisons de biens, des ventes à consommer sur place, ou encore des prestations d’hébergement** ; **36 800 euros** pour les entreprises qui réalisent **d'autres prestations de services** ; et enfin **47 000 euros** pour les **activités d'avocats, les opérations portant sur les œuvres de l'esprit et certaines activités d’auteurs**.
+
+Concernant l'application du régime et ses contreparties : ce régime permet à l'entreprise de ne **pas** payer de TVA et donc de ne **pas** faire de déclaration de TVA. En contrepartie, si l'entreprise en bénéficie, elle **ne peut pas** facturer la TVA à ses clients, ni pratiquer de **déduction** de TVA sur les biens ou services acquis pour les besoins de son activité. Elle doit également inscrire sur ses factures adressées aux clients la mention **"TVA non applicable – ==article 293 B du CGI=="**.
+
+## Section 5 : La fraude à la TVA
+
+Sur le plan européen, la Commission européenne évalue à **150 milliards d'euros** le montant de la fraude à la TVA. Une des principales méthodes utilisées est le **carrousel de TVA**, une pratique frauduleuse qui consiste à créer des sociétés éphémères, lesquelles disparaissent après avoir encaissé la TVA sans la reverser au Trésor public.
+
+En France, la Cour des comptes estime que la fraude à la TVA représente environ **15 milliards d'euros** par an.
+
+Un exemple marquant de cette fraude est **l'affaire des quotas carbone**, qui s'est déroulée de **novembre 2008 à juin 2009**. Cette fraude a permis de détourner **6 milliards d'euros** au niveau européen, en faisant l’une des plus importantes fraudes fiscales jamais connues en France.

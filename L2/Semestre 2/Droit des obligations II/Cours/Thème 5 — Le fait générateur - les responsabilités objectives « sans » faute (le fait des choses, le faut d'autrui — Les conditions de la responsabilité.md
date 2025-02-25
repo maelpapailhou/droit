@@ -1,12 +1,15 @@
-A la fin du 19e siecle,s le soscités s'industrialisent, et ca a contribué à modifier les fondements de la responsabilité civile et c'est iansi qeu est apparu la théorie du risque, selon la quelel parce que un on crée un risque, cette personne qui crée le risque doit indemniser le dommage qui résulte de la réalisaton du dommage. 
+À la fin du XIXe siècle, les sociétés s'industrialisent, ce qui a contribué à modifier les fondements de la responsabilité civile. C'est ainsi qu'est apparue la **théorie du risque**, selon laquelle **celui qui crée un risque doit indemniser le dommage résultant de sa réalisation**.
 
-c'est cete theorei qui a fortement contribué.à l'apparition et à la multiplicaton des responsabilités sans fates. Ce sont des reponsabilités objectives. 
+Cette théorie a fortement contribué à l'apparition et à la multiplication des **responsabilités sans faute**, qui sont des **responsabilités objectives**.
 
+La jurisprudence a procédé par étapes :
 
-la jurusprudnece y est d'abord allé par étape. D'abord dit qu'il y a présemtion de fautes dans certains cas. mais la vicitm en'a pas à prouver l'existence de la faute. puis ensuite franchi une etape supplémentaire pour identifier une rsponsabilité de plein droit, qui epermet si c attaché àune faute a la vicitme de s'indeminiser, et si pas de faute il pourra pas s'xonerer en disant qu'il a pas ocmmis de faute, alors on objective la notion de respnsabilité civile extra contractielle, donc emilelr indemnisation de la vicitme; 
+1. Elle a d'abord instauré **une présomption de faute** dans certains cas, ce qui dispensait la victime de prouver l'existence d'une faute.
+2. Ensuite, elle a franchi une étape supplémentaire en instituant une **responsabilité de plein droit**, permettant à la victime d'obtenir réparation si elle est attachée à un dommage.
+3. Si aucune faute n'est démontrée, l’auteur du dommage ne pourra pas s’exonérer en prétendant qu'il n’a pas commis de faute.
 
+Ainsi, la jurisprudence a **objectivé la notion de responsabilité civile extracontractuelle**, améliorant ainsi l’indemnisation des victimes.
 
-## Section 1 – L’origine des régimes de responsabilité sans faute et ses limites
 ## Section 1 – L’origine des régimes de responsabilité sans faute et ses limites
 Au moment de la rédaction du code civil de 1804, 2 responsabilités étaient envisagées :
 - le fait de sbatimetns enruise (article 1386 ancien, ajd 1244)
@@ -528,3 +531,172 @@ la reposanbilié du faut des comettant ne repose que sur la faute d ela part du 
 
 
 
+
+
+Il faut que le fait dommageable tdoit etre lié a la fonciton du préposé, art 1342 al 5.
+
+contrairement a la repsosnabilité des parent,s les comettants n'otn pas la charge permanante de leurs préposé. Il ne vive pas avec eux et pour cela a pour conseqience qu'une fois un emplyé est employé chez lui. Si l'employé cause un dommage une fois qu'il est sroti de chez lui on ne peut pas rleier le fait dommageable au comettant. C evident qu'il ny' a aps de repsosnabiltié du commettant, si le fait dommeabeable a lieu sur le loeu de travail pendna tles heures de travail, on considere qeu ça c'est produirt dans le cadre de ces fonctions.
+
+
+le commetnt petu essayer de dire que les conditiosnd e la reposnsaiblti éne osnt pas remplies. Il petu prétendre que le fait dommageable ne réulte pas du préposé masi d'une cause étrangere.
+
+autre échapatoire consisteà. établir que certes y'a eu un fait du préposé masi que le préposé a abusé de ces fonctions. c assez difficile et la naunce est subtile, s'il a dépassé le cadre précis des foncgions qui lui sont assignés.
+
+ex: salrié du'ne entreprise qui va dans ses fonctions a acces a un vehicule de l'entreprise, et l'employé utilise ce véhicule pour sontravail, masi un jour utilise aussi ce vehicule pour sortir acec des amis et cause un accident, pendna tles heures de travail. est-ce qu'oil faut qu'on tienne l'employeur pour repsosanble? ou on considere que y'a aucune raison de retenir la repso,nsiblité d el'employeru? car employé a agit a des fins personneleles. 
+
+mais le but de la responsabiltié d'autrui est d'indemniser miuex la victime en suposant que le comettant est plsu solvable qeu le préposé. et si on soutient qu'il faut faire prévaloir la garantie de l'indemnisation de la vicitme en admettant qu'il est plsu solvable que el préposé il faudrait a ce mometn la admettre la responsabiltié du comettant à chque fois que le dommage a été permis grâce aux fonctiosn du préposé.  C'est parce qe le comettant lui a permis d'acceder à ce vehicule que le dommage a été causé.
+
+cette double intepretation, ces deux approches possibles sont problématiques. on a du mal a admettre une sorte de blanc saint. 
+
+les chambes criminelles et cviiles se sont opposés sur cette question là. C'est alor qu ela cour de cassation c'est réunie en asssemblée plénieire le 19 mai 1988, trouv eune solution de traverse. Elle a introduit la notion d'abus de fonction, qui permettait au comettant de se dédouaner. 
+
+si le préposé agit à l'occasion de ses focntions en principe engage la repsosnabiltié du comettant, sau fabus de fonction.
+
+en l'epsece il s'agissait d'une persone qui travaillait dans une banque de gestion du patrimoine, cette personen fait conclure des contrats de placement financiers au client, une fois que contrat est conclu le client verse d largent qu'il place dans but d'en tirer profit. mais à l'occasion de ces conclusiosn de contrat, cet employé avait détourné uen partie des fonds qui étaient versés par les clients, à son prore proffit.
+
+la cour de cassation affirme que 3 conditions cumulatives pouru qu'il y ai abus de fonctions  :s'il a agit hors des fonctions auxquels il étai tmployé, sasn autorisations et à des fins étrangeres à ses attributions. 
+
+
+on constate que les juges otn tendances à dire que si l'acte, le fait du proéposé se rattache à l'eecution de son travail par des circonstances de temps, de lieu et de moyen, les jugees du fond pensnen ten general q'il n'y a pas d'abus de fonction.
+
+celui quui surveille un entrepoot et dérobe marchandises, la casation estime bien que il a agit dans le cadre de sesofoncitons. 
+
+on trouve que c tres severe, tres difficile de réunir ces 3 conditions, on voit à travers ces exemples que la jurisprudence a une visiont res restrice de l'abus de foncitonsss, elle ne va pas admettre fackemetn son existence.
+
+les arrêts ulétieure a 1988 vont toujours en ce sens, il n'admettentque difficilmenet le cas om y'a abus de fonction. 
+
+dans le projet de réforme, article 1249 reprendrait les critères dégagés par la jurisprudence de 1988. 
+
+consequenc e: dans la plupart des cas, le comettant va etre déclaré responsabiel du fait de son préposé. 
+
+est-ce que y'a un recurs possible contre le préposé? soit direcmtenet par la vicitme, spit par le comettant?
+
+soit par exempel la vicitme peut agir contre le préposé, sur le fodnemetn de articel 1240 du code civil ou 1241. 
+
+le comettant, une fois qui'l a remoboursé la vicitme, peut il s eretourner contre le préposé?
+
+c la question de l'immunité civile du préposé. 
+
+
+
+) l'origine l responsaiblti du comettant était posée comme une garantie au proffit des victimes. par consequent, cette responsai lité de l'alinéa 5 était comprsie comme s'ajoutant à al resposnabiltié personnelle du préposé, avec un choxi càd soit la victime agit contre le préposé (alinéa 1), soit la victime agit contre le commetant, et c'est là qu'on sinterroge ensuite sur la possibiltié du comettan de se retourner contre le préoposé.
+
+sauf que dans son evolution on a considéré que c'était trop lourd pour le préposé notammenent s'il a agit dans le cadre de ses focntions. 
+
+c la arisosn pour laquelle dabord evolutin sur le terrain du droit des assurances, mais on a modifié le dorit des assurances pour preciser que le comettant lorsqui'l remoubrsai tla vicitm ene puvait aps ensuite agir contre le préposé (sous couvert d'assurance). 
+
+puis c ensuite la jurisprudenc ede la cour de cassation qui est allé plus loin en affirmant l'irresponabilité civile du préposé. 
+
+si on déclare que le préposé n'et plsu resposnalb,e qu'il bénéfiice de l'immunité, a va loin ca au depart la reposnabilité du comettant était une garantie pour la vicitme, maosi c deveni une garantie pour le préposé lui meme.
+
+cette évolution s'est faite par étape:
+étape 1) ch commerical 12 octobre 1993 , Parfum Rochas, la directrice connaisait certaines infrmations sur une autre marque de parfum, se rend coupalble d'un acte de conrurence déloyale à l'égard d'une autre marque de parfum. cette autre marque de parufml agit contre les salariés, masi agit égalemet contre l'employeur, et les juges du fond avaient agis contre les deux en meme temps. 
+
+la cour de cassation a censuré la déicion des juges du fond en estimant que cette reposnaiblié du préoposé ne pouvait être commise que s'il aviat commis une faut epersonnelel, càd déttachée des focntiosn. la faut en'a pas été commiseà des fins personels. 
+
+ensuite autre arrêt Costedoat a été rendu en ass pléniaire 25 février 2000, la vcour de cassaitona. estimé que le préposé n'engageait pas sa reponsaiblité des lorsque il avait agit sans excceder les limites de la mission qui lui aviat été impartis.
+
+une faute simple ne suffisait pas à engager la responsabilit édu personnel, de l'employé, du préposé.
+
+iols 'agissait d'une soiété qi proposait de tariter les terrains par herbicide, mais parfois aerienne. ùais ca a endommagé les plantes du terrain voisin. Il aagit contre le préposé en évoquant qu'il aviat commis une faute en ne tenant pas compte des mauvaises conditosn meterologques. 
+
+cependna tla coir de cassation ne retiens pas la repssabilié personnelle du préposé, cette reposnaiblité personne ne petu etre engagé que si le proéposé a git en excedant, en dépassant les limites de la mission qui était imparti par le comettant. 
+
+avec cet arrpet, le préposé meme fautif ne eut a priori pas voir sa repssanbiltié persnnelel engagée, seulement si'l a depassé le limites de sa mission. Autre conseiqnece est que la victime désormasi n'a plus que le comettant comme seul débiteur, elle peut plsu agir contre le préposé.
+
+quele diference y a til entre bauser de ses fonctions et dépasser les limies de samission? les auteurs ont tendnace à penser que la formile de arret costedoat est plsu alrge qeu arret de 1988.
+
+y'a hypotheses qui ont été identiifés par la jrisprudnece àl'ocsation de d'autres epces. Ce qui pouviat illustrer le deppassemetn des lmties de la mission, c'est d'abord en cas d'infraction pénale, et d'autre part en cas de faute intnetionelle de la part du préposé.
+
+C'est ainsi que en cas d'infraction pénale de la part du préposé, la question posée est est-ce qeu le préoposé beneficie toujors d'une immunité? 
+
+en cas d'infraction pénale, la cour de cassation, dans un arret Cousin de assemvlée plénaire 14 décembre 2001 a estimé que la non, y' apas immunité du préposé. 
+
+il s'agissait d'un comptalbe slaarié qui avait été condamné pour faux et usge de faux, et escroquerie, et pour financer de faix contrats de entreprise et obtenir des subventiosn. donc en cas d'infraction, pénale, cour de cassation estimé que y'a plsu d'immunité au enefice du préposé, et à ce mometn la sa reposnabiltié povuait bien etre egngagée.
+
+et la deuxeime limiet c'est en cas de faute intentionelle de la part du préposé, arrêt 2eme chambre civile du 20 décembre 2007, et dans ce cas là il s'agissait du vootuer d'un restaurant ou hotel qui avait endommagé délibérément la voitue d'un clietn. la quesion était de svoir si l'employeur pouvait se retourner contre l'employé. Comme y'a une faute intentionelle de la part de l'employé, il pouvait neutralier l'immnité du préposé.
+
+ces deux esceptiosn (infraction pénale et faut eintentionelle) ont été rappélés dans un arrêt récente du 19 janvier 2023, il s'agissait du'n détourneement de fond, 2 clients aovajnt été victmes. la quesion qui se posait c'est si le préposé povuait s'bairter derriere son immunité? la cour de casastion a dit non, et elel a précisé que l'employer qii a remboursé la vicitme disposse d'une action contre le asalrié, lorsque le préjudice avait résulté d'une fincration pénale ou d'une faute intentionelle. (en l'espece infraction pénale masi rappele aussi que faut eintentionelle)
+
+§ 3 – Les régimes de responsabilité créés par la jurisprudence
+les ca sde reponsaibltié du fait d'autrui insaturé en 1804 correpond plsu telemet aux réaltiés d'aujiourudi. 
+
+a la suite de l'arret Jand'heur qui a posé le principe général de responsabiltié du fait des choses, on c demandé si on pouvait pas faire la meme chose avec la resposnabilité du fait d'autrui.
+
+arrêt Blieck de assemblée pléniaire 29 mars 1999, la cour de cassation a admis uen resppnsabiltié du fait d'autrui qui n'existe pas à la base dans articel 1242. Ils 'agissait d'iun handicapté mental qui vivait avec une certaine marge de liberté dasn un centre éducatif, beneficiait d'une semi-liberté., centre educatidf d'aide par le travail. Cette personen met le feu à une foeret voisine du centre dans un mometn de liberté, et la victime, qui est le proprietaire de la foret, au lieu d'agir contre l'auteur du dommage, agit contre le centre educatif.
+
+sans doute parce qu'elel estimati que ce centre educatif était finaciermenet plsu slcalb que auteur direct du dommage.
+
+C la premier efois que la cour de cassation accueille cette argumetnatiaon, propositn d'engager lar espnsabiltié du fait d'autrui pour le fait de l'iun de ces pareiten, et le critere que al cour de casation emploie est de dire que associationa vait accepté la charge d'organiser et de controler à titre permanant le mode de vie de cet handicapé, et que c pk elle était tenue de réparer les dommages que cette peronne handicapée causait.;
+
+la coru de cassation ontroduit une nouveauté : c'est le critere de l'organisation et du controlede la vie de quelqu'ujn, et qui est fondé sur l'alinéa 1er. 
+
+c un arrêt prcurseur; 
+
+désormai 2 nouvelels hypotehses qui peuvent former uen resposanbiltié du fait d'auturi:
+- orgnaistione tle controle du mode d evie d'autrii (arrêt Blieck et sa suite)
+- on peut eganelemtne tre resposanbile du fait d'auii lorsquu'on contorle l'activit" d'autrui (concerne plutot associatiosn sprotives). (orgnaistione tle controle de l'activité d'autrui)
+
+1er novueau cas : ne cas de controle de l'organisation du mode de vie d'autri:
+il faut qu'il y ai ce lien, pour engager la responsabilité, càd que il faut avoir cette mission, que le reposnable (en lespece associaiton) ait cette mission d'orngaiser la vie d'autrui, comme c le cas d'un centre de rééducation, masi il faut également ocmprendre que ça se limtie à priori à l'encadrement du mode de vie d'une eprsonen vulnérable. donc c pas le mode de vie de n'importe qui .
+
+il faut que cette mission ait été confiéeà ce tiers par ait été formalisée par une décision de justice, ou une décision administrative.
+
+cela a pour ocnsequence  que la cour de casatoon refuse par exemple d'étendre la responsabiltié des personens qui se voeitn confiés un temp d'éducation de la personne vulnérable, masi simpelment de fait, et à titre non rpofessionel; EX des grands parentsà qui on a aps délégué exercice de autorité parentla,e masi à qui on confie enfant. Meme si le mineur vie de maniere habitelle cehz ses grands parent,s lacour de cassation se refuse quant il y a cette mission juste de faite (pas de décion de uitice pi administrative) elle va pas étendre cette resposanbilti"é.
+
+meme si mission conifée par iin contrat ca suffit aps non plus.
+
+il peut y avoir uen concurence avec la reponsaibltié des parents, qui seront considérés comme respjsnable emme si vivent pas zavec eux. 
+
+soit on agit sur le centre de rééducationsur le mopndement de alinéa 1 article 1242, soti on agit contre les parents sur le fondemetn de aliéna 4. 
+
+il est admis que pour engager cette nouvelle responsabiltié, il n'est pas necessaire qu'il y ait uen cohabitation. cette novuelel responsailité se disitngue de la repsonsabiltié des parents du fait des enfants mineurs, on exige pas qu'ul y aiine cohabitation.
+
+la notion orgnaiasiton et controle du mode de vie est pas necessairement permanante; dasn l'affaire Blieck l'interessé beneficiait d'une semi-liberté.
+
+donc faut pas assimiler àa a une cohabitaion.
+
+l'organisation doit être entendue dansun sens juridque et non pas matériel. 
+
+ensuitee, on c'est demandé quel type de fait dommageable il pouvait s'agr. Est-ce qiol faut une faute de auteur du dommage? Ou bien comme pour les mineurs un simple fait causal? Ici difficile de répondre, pas de réponse claire de la part d ela cour de cassation. 
+
+mais la responsabiltié ainsi engagée est une resposnabilité de plein droit. peu importe que le fait générateur du domamge soti un fait personnel ou fait du'ne cjose, ce qii est certan c que al cour de cassation voit ici une responsaiblité de plein droit. elle pourrait juste invoquer une faute etrangere (une force majeure), masi absence de faute permet pas d'exoneration.
+
+2eeme nouvea cas : la cour de cassation a dégagé égalemetn la responsabiltié pour organisaiton et controle de l'activité d'autri, tjrs sur fondemetn de articel 1242 al 1.
+
+pour l'instant, ce sont princiapelmetn els association sportives qui sont concernées par ce novueau cap de responsabilité .ces novueaux cas sont appurs peu de temps apres Blieck.
+
+2 arrets ch civil, 22 mail 1995 qui ont fait apparaitre ce noouveau cas d ereposnabilité du fait d'autrui pour l'activité d'autrui.
+
+dasn les 2 affaires, ils s'agissait de rugby. Au cours d'un match de rugby masi non professionel, un joueur blesse una utre joueru, un joeu rest décédé dans la bagarre. dans le cadre de la blessure ona pas identifié lequel de sjours a blessé la victime. 
+
+c ainsi que les aats droit des vicitmes ont agits contre les clubss sportifs. Dabord les juges du fond y ont vu une demande fondée sur l'alinéa 5 de article 1242, càd la resppsabiltié du fait des préposés.
+pourvoi formé par un clb, en disant que club amateur, pas de remuneration, aps entrainemetn, psa d'ordre ouinstrction donné par le club, dnc pas de comettant. ON pouvait pas. voir la un lein de préposition.
+
+la coiru de cassation a admis cette argumentation, en revnache en substituant les motifs, et en ce placant sur le terrain de l'aliéna 1er de articel 1242. Elel a dit que les clubs avainet quand emme pour mision de diriger et controle rl'activité de lerurs membmres.
+
+veut direq eu mtn pour les cluvs de sport, et associatons psortives, la responsabilité du club ele dépend du caractere amateur ou professionel du clb. pour les clubs de sport professionels, on se place sur let errain de la repsosnabiltié du fait des préposés. par contr,e pour les clubs amateurs, à ce moment là on se place sur le terran de l'aliéna 1er de arilce 1242 ce qui permet qunda meme d'neggager la repsonsabilité du club.
+
+est-ce qe cette activité du fait d'autru peut s'applique rà autres que clubs sportifs? ca a été étendu par un arrêt 2civ 12 décembre 2002, ça a été étendu au cas d'une association communale qui organisait un défilé de majoretttes.
+
+lor d'un défilé l'une des majorette en blesse une autre avec son baton. la cour de cassation a dmsi ici que l'associationcommunale était repsosnale sur le fondement aliéna 1, en disaitn que associationa iat bien pour mission de ontroler membre du défiéls.
+
+autres cas où pas été retenu : pas été retenu pour un syndicat d'une entrepris,e la cour de xassation n'a pas admis la repnsabiltéi du syndicat du fait de ses adhérents n'negage pas la reponsabiltié du syndicat. Arret 2 civ 26 octobre 2006, membres syndicats bloquait un supermarché, cause dommages, malgres cela la respdu cyndicat n'a aps été engagé (en tout cas pas sur le fodnemetn de aliéna 1er).
+
+pas non plsu engagé la repsosnabiltié du'ne association de chasseur, 11 septembre 2008, blessé par une balle perdue, et la cour de cassation a considéré que l'association de hcasse avait pas pour msision de contrier l'activité du chausseur, et a aps a repondre d eleru activité.
+
+la doctirne critiuen ces noveuaux cas de repsonsaiblité, notemmetn pour l'activité d'auturi, car contrairment à ce qui se passe comem dans affaire Blieck où la personen est deficente mentale peut etre dangereuse. Cepednant dans le cas des associatiosn sportivs, elle n'organise l'acitivré que de maniere temporaire. et dcp on se dmeande si cette novuelel repsosnabiléi du fai d'atui est rellment justifié.
+
+enfin question de savoir quelel est le régme de cette noveulel respp,sabioté du fait d'autrui; càd quelels osnt les condtions et ses effets? Arrêt blieck précisait rien quant au régiem applicable. 
+
+s'agissant des conditions, la condition essentielel tiens ici au fait dommageable .Est-ce qu'il faut uen faute de la part de l'auteur? est-ce qu'on peut se fonder sur le fait des choses? est-ce quele fait générateur du dommag doit etre unf ait personnel? est-ce quil peut etre unf ait des choses? pour la resposanbiltié des parents unsimple fait causal suffit, pas besoin de demontere une faute de la part de l'enfnat ni de la garde d'une cahsue. poru lareposanbailtié du fait des préposé il y avait necesasirmeen tun fait pesonel e la part du préposé, et qu'on exclu la responabitléi duf ait de schsoes.
+
+lacoru de cassation aadmisq ue sagissant de la faute, dans una rreêt ass pléniarei 29 juin 2007, la cour de casaion a répondu oui, ilfaut un fait fautif. Ici il s'agisait d'un match de rugby, et la faute doit ocnsister en une violation délbiérée des relges du jeu. 
+
+décion du 5 juillet 2018 : c'est à l'issu d'un match, il agresse en dehors du terrain, masi casation aparticiép que c'était violationd élibérée des regles du jeu, elel entend donc ça de maniere large.
+
+es-tce que il petu s'agir du fait des choses? oui c'est possible. Le fait domamgealbe(lef ait générateur)  peut etre soit une faute, soit le fait d'une chose. on sait que y'a incompatilibté lrosque c préposé qui a causé dommage, mais si unjoueur frappe un autre avec une chaussure, ca a pu engager la repsosnabilité. 
+
+est-ce u'il peut ya voir exonération en prouvant absence de faute? Non parce que la cour de cassation y voit là une respnsbilité d eplein droit. arret 26 mars 1997 de lachambre criminelle, la cour de cassation y voit une respsnabiltié d eplein droit. et c'est vrai que ici la nouvelel responsaibltié est fondée sur le resique de l'activité ou rsique liéà organisaiton du mode de vie d'autrui.
+
+dans projet de réforme : article 1246 à 1248 qui se proposent de distinguer selon les situations, selon qu'on encadre un mineur, majeur, et seloné galemetn qu'il sagisse vrament de surveiler autrui ou simplemetn d'organiser uen activité.

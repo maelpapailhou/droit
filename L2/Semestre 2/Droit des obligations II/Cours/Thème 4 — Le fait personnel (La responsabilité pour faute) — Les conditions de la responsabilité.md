@@ -1,6 +1,3 @@
-
-# Theme 4
-
 ## Section 1 : les éléments constitutifs de la faute
 
 Les elemnts objectifs :
