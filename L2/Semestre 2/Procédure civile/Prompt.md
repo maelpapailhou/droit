@@ -1,0 +1,1 @@
+Rédige une dissertation complète et détaillée sur les demandes en droit. Le texte doit être structuré sous forme de paragraphes continus, sans plan apparent, sans numérotation, tirets ou puces. Pas de problématique. Cites les articles, lois, jurisprudences, doctrine d'auteurs, etc. Cependant limite toi au cours, ne mets rien d'autre que le cours. Mets une conclusion.

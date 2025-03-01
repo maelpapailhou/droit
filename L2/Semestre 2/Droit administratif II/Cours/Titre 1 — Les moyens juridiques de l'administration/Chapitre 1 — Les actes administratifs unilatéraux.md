@@ -68,7 +68,7 @@ Dans cette situation, l’**autorité administrative est un organe de la personn
 
 1. ***Les autorités de l’État*** :  Il s’agit des autorités exécutives, notamment :
     - Le **président de la République** : ses actes sont des actes administratifs. _Exemple : ==**CE, 1962, Canal**==, qui reconnaît la nature administrative de certains actes du président._
-    - Le **Premier ministre** : en tant que chef du gouvernement, il adopte également des actes administratifs.
+    - Le **Premier ministre** : en tant que chef du gouvernement, il adopte également des actes administratifs. (CE, Ass., 27 avril 1962, Sicard; CE, 12 février 1960, Eky)
     - Les **ministres** : ils disposent d’un pouvoir réglementaire en tant que chefs de service. _Exemple : ==**CE, 1936, Jamart**==, qui consacre ce pouvoir.
 
 2. ***Les autorités déconcentrées*** : Il s’agit des autorités administratives qui agissent au nom de l’État dans les territoires :
@@ -214,7 +214,6 @@ Les **actes portant sur l’exécution du service public de la justice judiciair
 - *Les décisions des magistrats du parquet (par exemple, l’ouverture d’une information ou la décision de poursuivre ou non l’auteur d’une infraction),*
 - *Les décrets de grâce présidentielle,*
 - *Toutes les décisions des juges d’application des peines qui affectent la nature ou la durée de la peine (par exemple, réduction de peine, libération conditionnelle, permissions de sortie).*
-
 ##### 3) Les actes de gouvernement
 
 Initialement, le **Conseil d'État (CE)** refusait de contrôler ces actes en raison des considérations politiques dont ils procèdent. Ces actes, pris pour des **motifs politiques**, relevaient de la double casquette du Président de la République en tant qu'autorité politique et administrative. Lorsqu'ils étaient pris dans ce cadre, ils n'étaient pas susceptibles de recours.
@@ -238,6 +237,8 @@ Les **4 catégories d’actes de gouvernement** :
 3. **Actes relatifs au Conseil constitutionnel**
     - Toutefois, certains actes en lien avec le Conseil constitutionnel peuvent être attaquables.
     - Exemple : la nomination d’un membre du Conseil constitutionnel a été jugée attaquable dans l’==**arrêt Mme Ba, CE Ass., 9 avril 1999**==.
+
+Attention erreur : le Conseil d’Etat, en assemblée, regarde cette décision comme un acte de Gouvernement et décline sa compétence pour en connaître.
 
 4. **Actes du Gouvernement français dans ses rapports avec les organisations internationales (OI) et les États étrangers**
     - Sont inattaquables les actes pris au cours de la négociation ou de l’exécution d’accords internationaux, dès lors qu’ils ne sont pas considérés comme "détachables".
@@ -344,10 +345,6 @@ En matière de **SPIC** (services publics industriels et commerciaux), les actes
 
 On range dans cette catégorie les circulaires, les lignes directrices et, plus généralement, les actes de droit souple.
 
->[!Définition]
->**Soft law** 
->Le droit souple désigne des normes qui ont une normativité moins contraignante que le droit classique.
-
 ###### 1) Les circulaires
 
 Le nom de circulaire dérive de la lettre circulaire qui existait sous l'Ancien Régime, ainsi nommée en raison de sa vocation à faire le tour du royaume.
@@ -451,10 +448,10 @@ Une fois admise la recevabilité des recours contre les circulaires, on distingu
 - **Les circulaires interprétatives** : elles seront illégales si elles interprètent **de manière erronée** un texte ou si elles interprètent un texte lui-même vicié (inconstitutionnel, illégal, etc.).
 
 Cette évolution jurisprudentielle marque un **élargissement progressif** des possibilités de recours contre les circulaires, en prenant en compte leurs effets concrets plutôt que leur simple qualification formelle.
-###### 2) Les logiques directrices
+###### 2) Les lignes directrices (ex-directives)
 
 >[!Définition]
->La **logique directrice** est une norme d’orientation adressée par les chefs de service dans l’exercice de leur pouvoir discrétionnaire, destinée à leurs subordonnés, afin de fixer une ligne générale de conduite et d’assurer une cohérence dans leurs actions.
+>La **ligne directrice** est une norme d’orientation adressée par les chefs de service dans l’exercice de leur pouvoir discrétionnaire, destinée à leurs subordonnés, afin de fixer une ligne générale de conduite et d’assurer une cohérence dans leurs actions.
 
 L’idée est d’encadrer souplement les activités publiques et privées. La ligne directrice a un rôle d’incitation et d’impulsion : elle est ferme sur les fins, mais effacée quant aux moyens d’y parvenir.
 
@@ -616,7 +613,7 @@ Il s'agit d'une catégorie incertaine.
 - Création de zones d'urbanisme,
 - Délimitation d'une zone de préemption.
 
-Dans un **arrêt de 2011, Association Sauvons l'université**, il s'agissait d'une autorisation d'ouverture d'un concours de recrutement. Cette décision a été qualifiée comme un acte ni réglementaire ni individuel. 
+Dans un **==arrêt de 2011, Association Sauvons l'université==**, il s'agissait d'une autorisation d'ouverture d'un concours de recrutement. Cette décision a été qualifiée comme un acte ni réglementaire ni individuel. 
 
 **Distinctions matérielles et formelles**
 Les distinctions entre actes réglementaires et actes individuels peuvent se croiser :
@@ -784,7 +781,7 @@ Il existe **cinq catégories d’actes** qui ne peuvent être adoptés qu’apr�
 
 Certaines décisions administratives ne peuvent pas être directement déférées au tribunal. Avant cela, il est parfois obligatoire de contester la décision devant l’administration via un **recours administratif préalable obligatoire**. Les décisions rendues sur ces recours administratifs préalables doivent impérativement respecter une procédure contradictoire.
 
-Des **exceptions à cette obligation** sont prévues à **l’==article L221-2 du CRPA==**. Ainsi, la procédure contradictoire peut être écartée dans certaines hypothèses :
+Des **exceptions à cette obligation** sont prévues à **l’==article L121-2 du CRPA==**. Ainsi, la procédure contradictoire peut être écartée dans certaines hypothèses :
 - En cas d’urgence.
 - En cas de circonstances exceptionnelles.
 - Lorsque l’ordre public ou les relations internationales le justifient.
@@ -817,7 +814,7 @@ Ce sont les éléments formels relatifs à l'**instrumentum**. Les éléments le
 
 Ces éléments, lorsqu'ils sont omis, ne conduisent pas à une annulation automatique de l'acte.
 
-**Le caractère explicite**
+**Le caractère explicite** (erreur)
 Le **silence gardé** pendant **deux mois** par une autorité administrative sur une demande vaut **décision implicite d'acceptation**, en vertu de la **==loi du 12 novembre 2013==** (==article 1er==).  
 
 Cette loi est entrée en vigueur de manière progressive :
@@ -895,8 +892,7 @@ Cet article impose la motivation pour **les décisions administratives individue
 Cet article renvoie aux **décrets** qui précisent **d’autres catégories de décisions** devant être motivées.
 
 ==**Arrêt du Conseil d’État, 2 octobre 2022, Fédération Sud Éducation**==
-Dans cette affaire, la **CNIL** avait refusé de donner suite à une plainte d’une personne fondée sur la méconnaissance du **droit d’accès** prévu à l’**==article 15 du RGPD==**.
-
+Dans cette affaire, la **CNIL** avait refusé de donner suite à une plainte d’une personne fondée sur la méconnaissance du **droit d’accès** prévu à l’**==article 15 du RGPD==**.&éé"'()
 Le **Conseil d’État** a estimé que ce refus faisait partie des décisions devant être **motivées**, car il constituait une **décision administrative défavorable** refusant un avantage dont l’attribution constitue un **droit**.
 
 Ainsi, un **refus de la CNIL** doit être **motivé**.
