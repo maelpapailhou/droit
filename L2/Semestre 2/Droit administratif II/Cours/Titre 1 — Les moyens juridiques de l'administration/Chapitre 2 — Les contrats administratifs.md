@@ -397,6 +397,7 @@ Dans ces contrats, le caractère exorbitant **ne résultait pas directement des 
 Toutefois, cette notion a été peu réutilisée. Le ==**Tribunal des conflits**, dans une décision du **7 avril 2014** (**SEVP contre Office du tourisme de Rambouillet**, n°3949),== **n’a pas repris cette approche**.
 
 Ce critère du **régime exorbitant du droit commun** semble donc être tombé en désuétude, mais il **n’a pas été officiellement abandonné**.
+
 ## Section 2 : **Le régime**
 
 ### Paragraphe 1 : La formation du contrat
@@ -461,7 +462,7 @@ La personne publique est compétente pour contracter, sous trois aspects : **com
     - Ce sont des **personnes publiques spécialisées**.
     - **Leurs compétences sont limitativement énumérées dans leurs statuts**. Il est donc nécessaire de vérifier ces statuts avant toute conclusion de contrat.
 
-2) **Compétence temporelle**
+1) **Compétence temporelle**
 
 Il est nécessaire de vérifier qu’au **jour de la signature**, l’autorité était bien compétente.
 - **En période électorale**, une vigilance particulière s’impose.
@@ -469,7 +470,7 @@ Il est nécessaire de vérifier qu’au **jour de la signature**, l’autorité 
 - Par conséquent, **aucune grande concession ou nouveau projet ne peut être engagé** durant cette période.
 - Cette restriction a un impact : le Conseil d’État a ainsi jugé qu’en dehors des affaires courantes, l’autorité n’était pas compétente (_CE, décision non précisée_).
 
-3) **Compétence territoriale**
+1) **Compétence territoriale**
 
 Pour qu’un contrat soit **valablement conclu**, il faut que **l’autorité compétente agisse bien sur son propre territoire**.
 - Cela ne pose généralement pas de problème, sauf dans certains cas aux **limites des collectivités territoriales**.
@@ -487,7 +488,7 @@ Certains contrats doivent être précédés d’une **formalité supplémentaire
 - Certains doivent être **approuvés par la loi** (exemple : **les emprunts d’État**).
 - D’autres doivent être **approuvés par décret** (exemple : **les concessions autoroutières**).
 
-2) **Pour les collectivités territoriales**
+1) **Pour les collectivités territoriales**
 - **La conclusion du contrat (la décision de contracter) est prise par l’assemblée délibérante**.
 - Toutefois, **c’est l’exécutif qui signe la convention**.
 
@@ -501,113 +502,149 @@ Sanction en cas de défaut de transmission :
 
 ###### b) Le consentement non vicié
 
+Les dispositions du Code civil, notamment les ==articles 1130 et suivants==, visant à préserver l'intégrité du consentement, ont été transposées en droit administratif.
 
-le dsispositiosn du code ivil articel 1130 et suivant visant à preserver l'intégrité du consentemtn ont été transposéd en droit administraitf. 
+Cependant, la jurisprudence consacrée à cette théorie du consentement reste marginale et met en évidence sa spécificité en droit administratif.
 
-cependant la jurisprudence consacrée à cette théorie du consnetment est marginale,et elle met en evidence la spécificté de cette théorie en droit administratif.
+Pourquoi une jurisprudence peu importante ? En droit civil, les fondements de la théorie des vices du consentement procèdent de la théorie de l’autonomie de la volonté, une théorie d’inspiration individualiste. Or, en droit administratif, la finalité est différente : il s'agit de **garantir le bon fonctionnement du service public**. Le juge administratif interprète donc de manière restrictive les règles relatives aux vices du consentement afin d’éviter les annulations de contrats. De plus, le risque de vice du consentement est très limité en raison du développement des procédures qui encadrent la passation des contrats.
 
-pourquoi jurisrpduence peu importene? car en droit ciivil les fondements de la théorie des vices du cosnemetn procede de la théroie de l'autonomei de la volonté qui est une htéorie d'inspiration individualiste. or en droit administtrratif ona pas les meme facon d'agir, afin de garantire le service public. le juge va interprereter restrectivmenet les regles relatives au vic edu consnemetn pour eviter les annulations. De plus le risque d eivce de consenment est tres limtié en raison du délveopemetn des procédures qui encadrent la passation de contrats.
+On imagine mal qu’à l’issue de ces procédures, un consentement puisse être peu éclairé ou vicié. Lorsqu’une collectivité doit acheter des fournitures, commander des travaux ou obtenir une prestation de service (par exemple des stylos), les procédures commencent par une identification très précise des besoins de la personne publique. Les candidats sont ensuite appelés à proposer une offre qui doit répondre à des critères stricts.
 
-on imagine mal u'à lisud e ces procedures, ona du mal a imagier qu'n consentmenet soit peu éclairé ou vicié.
+Le juge administratif sanctionne l'erreur sur la substance de la chose, c'est-à-dire l’objet du contrat. L'erreur peut porter sur l'identité même de cette chose ou sur ses qualités essentielles (==article 1133 du Code civil==).
 
-quadn une collectivité doit achter des fourtinutes, ou faire faire des travaux, obtenur une prestation de service, des stylos, les procedures commencnet par une identification tres précise des besoinsd eka personne publiqe. LEs cnadidats sont appelés à proposer une offre qui doit répondràe des critères.
+Le **juge administratif sanctionne également l'erreur sur la personne dans le cadre des contrats conclus _intuitu personae_** (**==CE, 1950, _Domergue_==**). En revanche, l’**erreur sur la valeur (article 1136 du Code civil) est écartée**, tout comme l'**erreur sur le motif** qui conduit le cocontractant à donner son consentement (article 1135 du Code civil).
 
-le juge administrati fa sanctionné l'erreur sur la substance de la chose, objet du contrat, l'erreur peut porter sur l'idendité meme de cette chose ou ses qualités essnetielles (art 1133 civ). 
+Enfin, l’**erreur doit être déterminante et excusable pour être retenue**.
 
-le juge administratif sanctionne aussi l'erreur sur la personne dans le cadre de contrats conclu intuitu personae. (CE, 1950, Domergue). EN reanche, seront écartés l'erreur sur la valeur (art 1136 civ), est égaement écarté l'erreur sur le motif qui conduit le co conrtratant a donner son consentemnet (art 1135 civ).
+Après l'erreur, **le juge sanctionne également le dol** (article 1137 du Code civil), qui consiste à obtenir le consentement par des manœuvres ou des mensonges.
 
-enfin l'erreur doi têtre déterminante et excluable.
+En cas de dol, la victime peut soit rechercher la **responsabilité extracontractuelle de l’auteur du dol, soit demander la nullité du contrat**. Cela peut notamment se produire lorsque des entreprises s’entendent en amont d’une procédure (une entente étant un comportement anticoncurrentiel prohibé).
 
-apres l'erreur, le juge sanctionne également le dol (art 1137 civ)., qii est le fait d'obtneir le consentment par des maneouvres ou mensonges. 
+Le dernier vice du consentement est la violence. Elle est rarement invoquée et encore plus rarement retenue par le juge.
 
-quand il y adol, la vicitm epeut recherhcer la responasbiltié etra contractuelle, soit elle peut demander la nullité du contrat.
-
-ca a pu arriver lorsque par exemples les entreprises vont s'entendre en amont  (enntente est un comportement anti concurentiel qui est prohibé). 
-
-dernier vice de consnetemetn :la violence , rarement invoquée, et encor eplus rarament retenue par le juge. 
-
-la doctirne estimel que la violecne reste envisageable et notemment la vioelcne économqiue. pour la odctirne, un co contractant ppurrait obtenir l'annulation d'un contrat dont il aurait été contraitn d'accepter les stipulations sans pouvoir les négocier en raison de son état de necessité économqieu. 
+Toutefois, la doctrine estime que la violence économique pourrait être reconnue. Selon cette approche, un cocontractant pourrait obtenir l'annulation d’un contrat qu’il aurait été contraint d’accepter sans pouvoir en négocier les stipulations, en raison de son état de nécessité économique.
 
 ##### 3) Le contenu du contrat
 
-poru etre valide, un contrat odit avoi run conten licite et certain.c'est articel 1128 civ, et son but ne petu pas déroer à ordre public (art 1162 civ), article 1169 permet de sanctionner par la nullité un contrat a titre onéreux, un contrat qui au moment de sa formation est illusoire.
+Pour être valide, **un contrat doit avoir un contenu licite et certain**. C’est ce que prévoit l’**==article 1128 du Code civil==**. Son but ne peut pas déroger à l’ordre public (article 1162 du Code civil). De plus, l’**==article 1169==** permet de sanctionner par la nullité un contrat à titre onéreux qui, au moment de sa formation, serait illusoire.
 
-le juge addministratif veille à ce que le contrat ai un objet certain, et qu'il ai une contreparite (c'est la cause). il veilel surtout à l'illéceité du contneu du contrat.
+Le juge administratif veille à ce que le contrat ait un **objet certain et qu'il comporte une contrepartie** (c’est la cause). Il veille surtout à la **licéité du contenu du contrat**.
 
-dans certains domaines, qualifier de matiere co ocntractuelle, le recours au contrat est proscrit à la personne publique ex police administrative.
+Dans certains domaines qualifiés de _matières non contractuelles_, le recours au contrat est interdit pour les personnes publiques, notamment en matière de police administrative.
 
-idée est que certaine smissiosn sotn réservées à l'état ou aux personnes publques, il s'agit des missiosn régaliennes ou des missiosn de souverianté. (police, justice, defense, fiscal, diplomatie, urbanisme).
+L’idée est que certaines missions sont réservées à l’État ou aux personnes publiques. Il s’agit des missions régaliennes ou des missions de souveraineté (police, justice, défense, fiscalité, diplomatie, urbanisme).
 
-ex : le recouvrmeent des recettes publqieus ne peut psa faire l'objet d'un contrat, l'execuiton des missions de polcie (arret 1932 Ville de Castelnaudary), la surveillance des personnes ou des espaces ouverts au public (1997 Commune ostrincourt). 
+**Exemples :**
+- Le recouvrement des recettes publiques ne peut pas faire l’objet d’un contrat.
+- L’**exécution des missions de police est** strictement encadrée (==_CE, 1932, Ville de Castelnaudary_==).
+- La **surveillance des personnes ou des espaces ouverts au public ne peut pas être déléguée à une personne privée** (==_CE, 1997, Commune d’Ostricourt_==).
 
-cepedant, sous la pression d'exigences pratiques, le preimetre de ces matieres non contractuelles a été réduit. et tous les domaines qui paraissaient rétice à toutre contractualisation, ont été considérés comme détachables, et par suite ont donné lieu à la conclusion de contrat. 
+Cependant, sous la pression d’exigences pratiques, le périmètre de ces matières non contractuelles a été réduit. De nombreux domaines, auparavant réticents à toute contractualisation, ont été considérés comme détachables, ouvrant ainsi la possibilité de conclure des contrats.
 
-en matiere de police, face a une dmeande croissante de securité et manque d'effecitf, certaiens activité qui ne comportent pas l'usage d ela contraite, de verification d'identité, ou de survellalnce des personnes, (telel sque actiivté de secours o controle bagage dans aéroport) onté té déléguées à des perosnnes rpivées : CE 20 avril 2007 LOSC Lille Métropole à propos de la police des terrains, exercée par les clubs de foot.
+En matière de police, face à une demande croissante de sécurité et au manque d’effectifs, certaines activités ne comportant pas l’usage de la contrainte, la vérification d’identité ou la surveillance des personnes (comme les activités de secours ou le contrôle des bagages dans les aéroports) ont été déléguées à des personnes privées.
 
-arret 8 juillet 2019 Association 40 millions de l'automobiliste, personnes conduisent des voitures radars.  mais le CE a rejetté. Pour eternalisatione xperimetnale de la condutie des ovitures radar.
+Exemples jurisprudentiels :
+- ==_CE, 20 avril 2007, LOSC Lille Métropole_== : délégation de la police des terrains aux clubs de football.
+- ==_CE, 8 juillet 2019, Association 40 millions d’automobilistes_== : expérimentation de la conduite de voitures-radars confiée à des opérateurs privés. Le Conseil d’État a jugé que la seule tâche de conduite des véhicules-radars pouvait être déléguée, sans méconnaître l’interdiction de déléguer une mission de police à une personne privée.
 
-considere que delegue que la seule tache de condurie les vehicules radars, donc poru le consiel d'état ca ne méconnait aps l'interiton de ledeguer une mission depolice à une personne privée. 
+- **La cause illicite du contrat**
 
-concernant iléciétié de la cause du contrat : la notion fait appek à des considerations d'ordre moral, elle est ralemetj explicitéemais is on prouve illeceité d ela cuse duic ontrat, on peut demander annulation du contrat.
+La notion de cause illicite renvoie à des considérations d’ordre moral, bien qu’elle soit rarement explicitée. Toutefois, si l’on parvient à prouver l’illicéité de la cause du contrat, il est possible d’en demander l’annulation.
 
-recemment le juge a rapposé la cuase illicite du détournment de pouvoir.  (15 fevrier 2008 commune La Londe-les-Maure).
+Récemment, le juge administratif a rappelé que **le détournement de pouvoir pouvait caractériser une cause illicite** (==_CE, 15 février 2008, Commune de La Londe-les-Maures_==).
 
-idem, le défaut de base légale confine à la cause illicite, càd qu'un contrat qui a pour objet de mettre en oeuvre une reglementatoon illégale est fondée su rune cause illicite.  (20 févrirr 2008 Office national d ela chasse et de la faune sauvage). 
+De même, l’**absence de base légale peut s’apparenter à une cause illicite**. Ainsi, un contrat ayant pour objet de mettre en œuvre une réglementation illégale est fondé sur une cause illicite (==_CE, 20 février 2008, Office national de la chasse et de la faune sauvage_==).
 
 #### B) Les règles spécifiques au droit administratif
-Peu de conrats administratifs qui echappentà des regles spécifiques de passation, càd de mise en concurrence qui sont destinées à garantir égalité de traitement entre les candidats. 
+Peu de contrats administratifs échappent aux règles spécifiques de passation, c'est-à-dire aux règles de mise en concurrence, qui visent à garantir l'égalité de traitement entre les candidats.
 
-on  a 2 contrats :
-- marchés publicsl: cntrats par elsquels administration se prpcurent mooyens d'execution (art 1111-1 du codede la commande publque), un marché est un contrat conclu par un u plusiuers acheteuraupre, ssoumis avec un ou plusiuers oéprateurs économiqeuss poru des trravaux, en matiere de fourniture ou de services (ex maintneance ordinateur, etc), en contepartie d'un prix (fodnamental car différencei el emarché de la concession) ou de tout équivalant. Ce marché est comparable en droit prié à un contrat de vente, au contrat de location, ou encore au contrat d'emprunt.
-- la cocnesion est contrat par lequel administration fait executer par un tiers un ouvrageou un serivce, c un contrat par lequel une ou plusieurs autorités concedantes confient execution de travaux ou la gestion d'un service à un ou plusieurs opérateurs économiqeus a qui est transféré un risque lié à l'exploitation de l'ouvrage ou du service, en contrepartie d'exploiter soit l'ouvrage, soit ce droit est assortie d'un pri.  le concessionaire va construire une infrastrucute, et apres il va la gerer. Ex parking CHU est uen concesssion. Ils sont payés par les redevances. Risque dans la concession d'un risque financier,, mais asusi les proffits si ça marche. Ex Aquanor était une concession. 
+On distingue deux types de contrats :
 
+1. **Les marchés publics**  
+    Ce sont des contrats par lesquels l’administration se procure les moyens d’exécution de ses missions (article L1111-1 du Code de la commande publique). Un marché est un contrat conclu par un ou plusieurs acheteurs avec un ou plusieurs opérateurs économiques pour des travaux, des fournitures ou des services (exemple : maintenance informatique), en contrepartie d’un prix (élément fondamental qui distingue le marché de la concession) ou de tout équivalent.
+    
+    En droit privé, ce type de contrat est comparable à un contrat de vente, un contrat de location ou encore un contrat d’emprunt.
+
+2. **Les concessions**  
+    Une concession est un contrat par lequel l’administration confie l’exécution d’un ouvrage ou la gestion d’un service à un tiers. Plus précisément, une ou plusieurs autorités concédantes confient l’exécution de travaux ou la gestion d’un service à un ou plusieurs opérateurs économiques, à qui est transféré un risque lié à l’exploitation de l’ouvrage ou du service. En contrepartie, l’opérateur économique perçoit des revenus en exploitant l’ouvrage ou le service, éventuellement assortis d’un prix versé par l’administration.
+    
+    Le concessionnaire construit une infrastructure et assure ensuite sa gestion. Par exemple, le parking d’un CHU peut être géré sous le régime d’une concession, les revenus du concessionnaire provenant des redevances payées par les usagers.
+    
+    La particularité de la concession réside dans le risque financier supporté par le concessionnaire : si l’exploitation est un succès, il en retire des bénéfices, mais il en assume également les pertes en cas d’échec. Un exemple illustratif est le centre aquatique _Aquanor_, qui a été exploité sous le régime de la concession.
 
 ##### 1) Les principes fondamentaux de la commande publique
 
-ces princieps otn été dégaés par la jurisprudence franciase et européenne, administrative et constitutionelle, mais ces principes sotn rattachésà des normes ocnventionelles tels que le principe de non discrimination en raison de la nationaltié consacré par letraité sur le fonctionnelemtn de l'unione rupenne (TFUE). 
+Ces principes ont été dégagés par la jurisprudence française et européenne, administrative et constitutionnelle. Toutefois, ils sont également rattachés à des normes conventionnelles, telles que le principe de non-discrimination en raison de la nationalité, consacré par le Traité sur le fonctionnement de l’Union européenne (TFUE).
 
-la non discriminatione st aussi un pricnipe posé par la CEDH. 
+La non-discrimination est aussi un principe posé par la Convention européenne des droits de l’homme (CEDH).
 
-article 6 et 14 de la DDHC : princiep d'égalité devnat la loi, et le princep de necessité d ela contribution publqie
+Les **==articles 6 et 14 de la Déclaration des droits de l’homme et du citoyen==** (DDHC) consacrent, respectivement, le principe d’égalité devant la loi et le principe de nécessité de la contribution publique.
 
-3 principes fondamentaux:
-1. La liberté d'accès à la comande publiqe : implquieu que totu oépratuer interessé puisse se porter candidat à l'attribution d'un contrat de la commande publique. ce principe s'opposeà toutes formes de discrimination inuustifiées ou disproportionnée, et par conséquent s'il est interdit à la personne publque de diffuser des ijnformation serronées ou incompletes, de nature à dissuader les concurrents potentiels, et égalemtninterid td'imposer desc rietes de slection discriminatoire.
-2. principe d'égalité de traitement des candidats : imposoe de traiter les candidats tout aulong de la procédure de façon identique et impartiael. ce principe prohibe les dsicriminations à l'occasion de l'examen des candiatures ou d'offres consitant par exemple à fournir des infrmatiosn supplémentaires à un candidat, ou a accorder des délasi favorablesà certians candidats. 
-3. principe de la tansparance des procédures : tout soit défini en amont, communiqué à totu el monde. ce principe impliqeu que les conditiosn d'organisation de la procédure doivent être définis de façon claire, accessible, et objective avant son lancement. il faut fixer criteres en amont pour que le candait sache s'il est repondre ou non de repondre à ca. Il faut aussiq u'elle ne sooent plus modifé au cours de la procédure, jsuqu'aà ce que la personne publqieu informe les candiats de son choix. il en décole par exempe obligation de définit objet du contrat, et les critères de son appréhension. arret 24 février 2010 CE, Communauté de Communes de l'enclave des papes. 
+Trois principes fondamentaux régissent la commande publique :
 
-ces princieps ont été dégagées dansun arret fodnateur CJCE 7 décembre 2000, Telauustrai (C324-98), et érigés aunr agnde princiep égénéraux du droit (PGD), pour la CJCE ces princieps ont valeur quasi constitutoonelles, pasle cas en france
+1. **La liberté d'accès à la commande publique**  
+    Ce principe implique que tout opérateur intéressé puisse se porter candidat à l'attribution d'un contrat de la commande publique. Il s’oppose à toute forme de discrimination injustifiée ou disproportionnée. Par conséquent, il est interdit à la personne publique de diffuser des informations erronées ou incomplètes susceptibles de dissuader des concurrents potentiels. De même, elle ne peut imposer des critères de sélection discriminatoires.
 
-en droit français, la valeur de ce sprincipes a logntemps été réglemetnaire, certains d'entre eux figuraient des 1964 dans l'ancien code des marchés publics, pui sl ejuge adminsitratif les a érigé en principe généraux du droit dans un avis du 29 juillet 2002 , Société Maj Blanchisserie de Pantin
+2. **Le principe d'égalité de traitement des candidats**  
+    Il impose de traiter tous les candidats de manière identique et impartiale tout au long de la procédure. Ce principe interdit toute discrimination lors de l’examen des candidatures ou des offres, comme le fait de fournir des informations supplémentaires à un candidat ou d’accorder des délais favorables à certains.
 
-efn le conseil constituonel va l'ériger en principe à valeur constitutionnel (2003-475, 27 juin 2003) et ajd à article L3 du CCP. (voir annotation code dalloz, y'a un commentaire). 
+3. **Le principe de transparence des procédures**  
+    Il exige que toutes les règles de la procédure soient définies en amont et communiquées à tous les candidats. Ce principe impose que les conditions d'organisation de la procédure soient claires, accessibles et objectives dès son lancement. Les critères doivent être fixés dès le départ afin que chaque candidat puisse déterminer s’il peut répondre à l’appel d’offres. De plus, ces critères ne doivent pas être modifiés en cours de procédure, jusqu’à ce que la personne publique informe les candidats de son choix. Ce principe implique également l’obligation de définir l’objet du contrat et les critères d’appréciation des offres (_CE, 24 février 2010, Communauté de Communes de l’Enclave des Papes_).
 
-ces princpes permettent d'assrer efficacité de la commande publique. idée est d'avoir le "mieux-disant". 
+
+Ces principes ont été consacrés par un arrêt fondateur de la Cour de justice des Communautés européennes (==**_CJCE, 7 décembre 2000, Telaustria_, aff. C-324/98**==), qui les a érigés en **principes généraux du droit** (PGD). Pour la CJCE, ces principes ont une valeur quasi constitutionnelle, bien que cela ne soit pas le cas en France.
+
+En droit français, la valeur de ces principes a longtemps été uniquement réglementaire. Certains figuraient dès 1964 dans l'ancien Code des marchés publics. Cependant, le juge administratif les a progressivement élevés au rang de principes généraux du droit dans un **==avis du 29 juillet 2002, Société Maj Blanchisserie de Pantin==**.
+
+Enfin, le Conseil constitutionnel a reconnu leur valeur constitutionnelle dans une **==décision du 27 juin 2003 (n° 2003-475 DC)**.== Aujourd’hui, ces principes sont inscrits à **l’==article L3 du Code de la commande publique==** (voir les annotations du Code Dalloz pour un commentaire détaillé).
+
+Ces principes permettent d’assurer l’efficacité de la commande publique. L’objectif est d’obtenir le « mieux-disant », c'est-à-dire la meilleure offre en termes de qualité et de coût.
 
 ##### 2) Les règles particulières de dévolution concurrentielle (aperçu)
 
+La passation des contrats est établie par des règles particulières dans le **Code de la commande publique (CCP)**. Ces règles varient en fonction de la nature des prestations, du montant concerné et de la personne publique contractante.
 
-la passation des contrats est établei par des regles particuleire dans le CCP. Elles prgasent la nature de spresattion, du montant concerné, et de la personne publique contractante.
+**Procédures applicables aux marchés publics**
 
-procédures applicalbes au marché publics : 
-- peu d eplace pour la négocation
-- en deça de 40 000 euros : on utilise une procédure négociée, sans publiicté et sans mise en concurrence. C une procédure de gré à gré, procédure simplifée mais totu en respectant les princieps fondamentaux. 
-- entre les 40 000 euros et els seuils européens (en millions), doit être publié au jorudnal officelde l'union europenen. On est dans une procédure adaptée, donc il faut publicité et mise en concurrence,n l'acheter a le choxi soit de négocier soit il opte pour une proécure formalisée, mais si il opte poru cette procedure il doit s'y tenir jusau bout. 
-- au delà des seuils eurpéens : si c'est un marché de travaux (au dela de 5 million 300 mille euros hors taxes, pour les fourniteusres  et services de l'état, c'est 139 000 euros hors taxe, et pour les marchés )pour les les marhcés de forunitue et service ds autres personnes morales de droit public (coll territoirales, et ettablissmetn publics) on et sur un seil a 214 000 euros HT. au dela des seuils européens, on doit abosulment recourir. à une procedure promalisée.
+- **Peu de place pour la négociation**
+- **En deçà de 40 000 euros** : on utilise une procédure négociée, sans publicité et sans mise en concurrence. Il s'agit d'une procédure de gré à gré, simplifiée mais respectant les principes fondamentaux.
+- **Entre 40 000 euros et les seuils européens** (en millions d’euros) : l’acheteur doit publier l’avis d’appel à concurrence au _Journal officiel de l’Union européenne_ (JOUE). On parle d’une **procédure adaptée**, où l’acheteur peut soit négocier, soit opter pour une **procédure formalisée**. Toutefois, s’il choisit cette dernière, il doit s’y tenir jusqu’au bout.
+- **Au-delà des seuils européens** :
+    - Pour un **marché de travaux** : au-delà de **5,3 millions d’euros HT**.
+    - Pour les **fournitures et services de l’État** : seuil de **139 000 euros HT**.
+    - Pour les **marchés de fournitures et services des autres personnes morales de droit public** (collectivités territoriales et établissements publics) : seuil de **214 000 euros HT**.
+    - **Au-delà de ces seuils, une procédure formalisée est obligatoire.**
 
-prcédures formalisées :
-1. l'appel d'offre (droit commun) est souvent qualiféi de procédure objective, parce que c une procédure qui autorise ni la négociation ni audition des candidats. cette procédure est définie à articel L2124 du CCP, c'est la procédure par laquelle l'acheteur choisis l'offre économiquement la plus avantageuse sans négociations sur la base de critères objectifs préalablement portée à la connaissance des candidats. C'est la proceudre la plus severe
-2. procédure avec négociation (article L2123 du CCP)
-3. procédure de dialogue compétitif (article L2124-4, procédure par laquelle l'acheteur dialogue avec les candidats admis à partiicper à la procédure en vu de définir ou de développer les solutions de nature à répondreà ses besoins (ex veut gerer eau de la ville, mais sait pas comment faire), et sur la base desquels ces candidats sont invités à remettre une offre. mais on peut y recourri que dans des conditiosn stritemet énumérés par le code de la command epulbique. 
+**Les procédures formalisées**
 
-apperçu des procédures appliaclbes au contrat d eocncession. principe est que les consession sont passés dans le cadre d'une procédure de publict et de mise en concurrence, librement organisée par l'autorité concédante. Art L3121-1 du CCP, et dans le cadre des dispositions reglementaiores (R31-1 du CCP). 
+1. **L’appel d’offres** (droit commun)
+    - C'est une procédure **objective**, car elle n’autorise **ni la négociation ni l’audition des candidats**.
+    - Définie à l’**article L2124-1 du CCP**, elle impose à l’acheteur de choisir l’offre économiquement la plus avantageuse **sans négociation**, sur la base de critères objectifs préalablement communiqués aux candidats.
+    - **C’est la procédure la plus stricte.**
 
-autorité concedante peut librmeent organiser une negociation avec un ou plisuers sous-missionaires, masi cette négociation n'est pas entierement libre.
+2. **La procédure avec négociation**
+    - Régie par l’**article L2124-3 du CCP**, elle permet aux acheteurs de discuter avec les candidats pour affiner leurs offres.
 
-par exception, des règels de passation particuleires sont prévues pour 2 grandes catégoreis de contrat, 1ere catégorie : contrats dont la valeur estimée est égale ou supérieur aux seuils européens, on applqiuera une procédure formalisée. 
+3. **Le dialogue compétitif**
+    - Décrit à l’**article L2124-4 du CCP**, cette procédure permet à l’acheteur de **dialoguer avec les candidats admis à participer** afin de définir ou de développer des solutions adaptées à ses besoins.
+    - Exemple : une ville veut gérer son réseau d’eau mais ne sait pas comment s’y prendre.
+    - Cette procédure ne peut être utilisée que dans **des conditions strictement énumérées** par le Code de la commande publique.
 
-pour les autres contrats définis à R3126-1 du CCP on utilise une procédure allégée du CCP, ce sont des contrats dont la valeur estimée est inférieur aux seuils européens, dans les secteurs de l'eau potable, les srvices de voyageurs, des services sociaux ou d'autre services spécifiqus. 
+**Aperçu des procédures applicables aux contrats de concession**
 
-enfin à titre exceptionnel, pas de publicité ni de mise en concurrence dans les cas strictmeent listés par les textes (ex question de l'urgenc)e masi tjrs dans le respect des principes fondamentaux.
+Le **principe général** est que les **concessions sont passées dans le cadre d’une procédure de publicité et de mise en concurrence**, librement organisée par l’autorité concédante (**article L3121-1 du CCP** et dispositions réglementaires **R3121-1 du CCP**).
+
+L’autorité concédante peut organiser une négociation avec un ou plusieurs soumissionnaires, mais cette négociation **n’est pas totalement libre**.
+
+Par exception, des règles spécifiques de passation s’appliquent à **deux grandes catégories de contrats** :
+
+1. **Contrats dont la valeur estimée est égale ou supérieure aux seuils européens**
+    - Une **procédure formalisée** est alors obligatoire.
+2. **Contrats définis à l’article R3126-1 du CCP**
+    - Il s’agit de contrats dont la valeur estimée est **inférieure aux seuils européens**, dans certains secteurs spécifiques comme l’**eau potable, les services de transport de voyageurs, les services sociaux ou d’autres services spécifiques**.
+    - Ces contrats bénéficient d’une **procédure allégée**.
+
+Enfin, **à titre exceptionnel**, certaines situations permettent une passation **sans publicité ni mise en concurrence**, dans **des cas strictement limités par les textes** (exemple : urgence). Cependant, ces exceptions doivent **toujours respecter les principes fondamentaux** de la commande publique.
 
 ### Paragraphe 2 : L'exécution des contrats
 
@@ -681,7 +718,7 @@ Elles visent à **réparer un préjudice financier** ou à **punir le co-contrac
     - **Ce pouvoir a été reconnu par l’arrêt CE, 31 mai 1907, Delplanque**.
     - **But : indemnisation, pas punition**.
 
-2. **Les sanctions coercitives**
+1. **Les sanctions coercitives**
 
 Elles visent **à punir** et à **surmonter le comportement irrégulier du co-contractant**.
 
@@ -692,7 +729,7 @@ Elles visent **à punir** et à **surmonter le comportement irrégulier du co-co
         - **Mise en régie d’un marché de travaux publics**.
         - **Défaut de signature du marché** : l’administration peut attribuer le marché à un autre opérateur.
 
-3. **La résiliation**
+1. **La résiliation**
 
 **Elle ne doit pas être confondue avec la résiliation pour motif d’intérêt général.**  
 Ici, la résiliation intervient **pour sanctionner le co-contractant**.
@@ -719,45 +756,82 @@ Depuis **l’==arrêt CE, 21 mars 2011, Ville de Béziers==**, le **co-contracta
 
 ##### 3) Pouvoir de modification unilatérale
 
-la jurusprudence a mis bcp de temps pour reonnaitreun tel pouvoir. Onv a trouver la prmeiere phase de cette reconnaisance jursprdenceille arret 10 janvier 1902, Compgnie nouvelle du Gaz de Deville-Les-Rouen, il s'agissait d'uen cmmne lieé par contrat à ne etrperise qui fournit du gaz pour l'éclairage publci. sauf que ona voulu switcher pour electiricté, suaf que comapgni de gaz n'a pas voulu se mettre à electicité . Commune a voulu se tourner vers netreprise d'electiricité, conseil d'état a validé la modificaiton unilatérale, maisen la rattachant fictivement à l'accord contractuel.
+La jurisprudence a mis beaucoup de temps à reconnaître un tel pouvoir. La première phase de cette reconnaissance jurisprudentielle apparaît dans l’**arrêt du 10 janvier 1902, Compagnie nouvelle du gaz de Deville-lès-Rouen**. Il s’agissait d’une commune liée par contrat à une entreprise fournissant du gaz pour l’éclairage public. La commune souhaitait passer à l’électricité, mais la compagnie de gaz refusait de se convertir à cette nouvelle énergie. La commune a alors voulu se tourner vers une entreprise d’électricité. Le **Conseil d’État a validé la modification unilatérale** du contrat, mais en la rattachant fictivement à l’accord contractuel.
 
-c un arre tqui fait un premier pas vers la reconnaisance de ce pouvoir de moification, et vers lamutabilité des contrats administraitfs.
+Cet arrêt constitue un premier pas vers la reconnaissance du pouvoir de modification et vers la théorie de la **mutabilité des contrats administratifs**.
 
-deuxieùe pas : arret 21 mars 1910 Compagnie générale française des tramways. on valide encore la modification unilatérale du contrat, sauf que cette modificaiton est fondée sur un texte réglementaire. 
+Le **deuxième pas** est franchi avec l’**arrêt du 21 mars 1910, Compagnie générale française des tramways**, où la modification unilatérale du contrat est à nouveau validée, cette fois sur la base d’un **texte réglementaire**.
 
-il a fallu attendre un arret duCE 22 février 1983 , Union es transports publics et urbains,  (GAJA) pourq ue le consiel d'état consacre un droit de modification unilatéral tojurs das le silence du contrat.
+Il a fallu attendre l’**arrêt du CE, 22 février 1983, Union des transports publics et urbains** (GAJA) pour que le **Conseil d’État consacre un véritable droit de modification unilatérale**, **même en l’absence de clause contractuelle**.
 
-ce pouvori de modification a été codifié a articel L6-4 du code de la commande publique, qui dispose pour les contras administratifs qui relevent du code, "que a leur égad l'autorité contarctante petu modifier unilatéraement le contrat dans les conditiosn prévues par le présent code, sans en bouleverser l'équilibre. Le co contractnat a droit au une indemnisation sosu reserve des stipulations du contrat." désormais on peut modifier les contrats administratifs dans le silence des clauses contractuelles.
+Ce pouvoir de modification a été **codifié à l’article L6-4 du Code de la commande publique**, qui dispose que pour les contrats administratifs relevant du Code :
 
-question est de savoir por quele raison admiistration peut modifier à une tellemodification unilatérale. pas besoind u consentemnt du co-contractant. au départ il fallait un motif tiré des exigences du service publci. Idée est que la mutabilité des contrats venait répondreà la mutabiltié du service public. il fallait que les outils du service public bouge avec le serie publci. 
+> "L’autorité contractante peut modifier unilatéralement le contrat dans les conditions prévues par le présent code, sans en bouleverser l’équilibre. Le cocontractant a droit à une indemnisation, sous réserve des stipulations du contrat."
 
-mais au fil du tems, ces motifs se sont transformés en un simple motif d'inretet general, permettant d'integrer d'autres interets publics que celui du serice public, y compri sun interet financier de la personne publique, voire du co contractant. 
+Désormais, **l’administration peut modifier un contrat administratif même si le contrat ne le prévoit pas explicitement**.
 
+- **Pourquoi l’administration dispose-t-elle d’un tel pouvoir ?**
 
-noramleetn al modification unilatérale est limitée dans le ses où pendant longtemps on a estimé qu'elle ne pouvait aps toucher les clauses financieres. probleme c que cette affirmation doitêtre aujourd'hui nuancée.  pour ce qui est de la modificationd es clauses financieres, il faut savoir que tout d'bord cette modification unilatérale des clauses financieres d'n contart amdnistati est tpossible lorsqu'elle est prévue par le contrat lui meme.
+L’administration **n’a pas besoin du consentement du cocontractant**. À l’origine, ce pouvoir était fondé sur les **exigences du service public** : la mutabilité des contrats devait répondre à la mutabilité du service public.
 
-ensuite on fait une distinctions selon que l'olbigaiton financiere est à la charge de la personne publique, ou si elle est à la charge du co contractat ou du'n tiers. (ex usagers).
+Toutefois, avec le temps, ce motif a évolué vers un **simple motif d’intérêt général**, permettant d’intégrer d’autres considérations, comme des impératifs financiers de la personne publique ou même du cocontractant.
 
-1° dans les contrats dans esuqels obligaitonfinanciere n'est pas à la charge de la personne publique, la fculté d'adaptation des conditions financieres du contart est largeent admise.
+- **Les limites du pouvoir de modification unilatérale**
 
-Exempel : la personne publque peut mdifier unilatéralement la redevance d'occupation du domaine public, qui est dû parun concessionaire du service public. 
+Traditionnellement, **la modification unilatérale ne pouvait pas toucher les clauses financières**. Cependant, cette affirmation doit aujourd’hui être nuancée.
 
-deuxiem eexemple : pour les concessions de serivce public, la modification des clauses financieres est possilbe. arrret 27 octobre 2010 Syndicat intercomunal des transports publcis de Cannes. 
+ **1° Modification des clauses financières**
 
-2° lorsque la perosnne publiq eest éditice d'ue obligaiton financere, la solun est raidement differente, juges admettent que de façon tres limitée la modificaton unilatérale des clauss de fianncement. 
+La modification unilatérale des clauses financières d’un contrat administratif est **possible si elle est prévue par le contrat lui-même**.
 
-sous distintion entre marché publcet concessions. pour les arcés, il n'est pas possible de modifer les clauses financieres (résulte d'un arret 26 novembre 1975 Société entreprise Py, le juge a estimé pas possible d eodiifer les lcases fiannceires d'un march public).
+Ensuite, il convient de distinguer **selon que l’obligation financière est à la charge de la personne publique, du cocontractant ou d’un tiers (ex. : les usagers).**
 
-quesiton apris un enovelle tournure, et c surtout la modificaton sèche du prix des marchés publics qui c'est psoée. notemmetn poru compser les surcouts de l'exploitation (à ause du covid et ukraine). COnsel étati avis 15 spetembre 2022, admet que le principe d'intangibilié qui resultat de l'arrêt Entreprise Py ne s'oppose pas à ce que les parties procedent à une modification de celui-ci, en vue de compenser les surcouts que le titulaire ou le concessionaire subit du fait de circonstances imprévisibels.
+- **Lorsque l’obligation financière n’est pas à la charge de la personne publique**, la faculté d’adaptation des conditions financières est largement admise.  
+    **Exemple** : La personne publique peut modifier unilatéralement la redevance d’occupation du domaine public due par un concessionnaire de service public.
+    
+    - **CE, 27 octobre 2010, Syndicat intercommunal des transports publics de Cannes** : modification possible des clauses financières dans les concessions de service public.
+- **Lorsque la personne publique est débitrice d’une obligation financière**, la solution est différente : la modification unilatérale des clauses financières est **très limitée**.
+    
+    - **Distinction entre marchés publics et concessions** :
+        - Pour les **marchés publics**, il est **interdit** de modifier unilatéralement les clauses financières (**CE, 26 novembre 1975, Société Entreprise Py**).
+        - Cette question a évolué, notamment face aux **surcoûts liés à la crise du Covid et à la guerre en Ukraine**.
+            - **Avis du Conseil d’État, 15 septembre 2022** : admet que **le principe d’intangibilité des prix (arrêt Société Entreprise Py)** **ne s’oppose pas à une modification pour compenser les surcoûts imprévisibles subis par le titulaire du contrat**.
 
-l'adminisration peut egelament modifie rle contrat en cas d'illégalité. Cette possiilité est tres recente, elle da ted'una rret 8 mars 2023 syndicat intercomunal de la périphérie de paris pour les energies et les réseaux de communication (SIPPEREC). pour la premeire fois le conseil d'état a admis que la personen publique peut lorsquu'ne clause du "contrat est afféctée dune irrégularité, tenant au caracteère illicite de son contenu et à condition qu'elle soit divisible du reste du contrat l a persone publuu e petu y apporter de maniere unilatrale  les modifications permettant de remedierà cette irrégularité". On consacre pour la premiere fois faculté pour la persoen publiq de modifier unilatralemetn conra administraif afind 'en corriger les irrégularités. 
+ **2° Modification en cas d’illégalité**
 
-mais ca reste uen faculté discutable. 
-1. c une extenison du pouvoir de modification qui est éloigné de l'essence de ce pouvoir, puisque a l'origine un pouvori conféré pour s'apdadter aux necessités du service public. or la donner le pouvoir à administaton povoir d emodifier unilatéralement u contart rie avoir avec le serice pubic mais l'ordre juridique. don cpouvori reativement dsculabel
-2. ici l'administration seule modifie le contrat. Psa besoin de acord du juge , et consulte pas autre partie. auteurs esitme que ca devait etre affaire d ju eou de parteis et pas adminsitartion seule, car comment tetre cerain que clause irrégale? 
+L’administration peut également modifier un contrat en cas d’**illégalité**. Cette possibilité est **très récente** et provient de l’**arrêt du CE, 8 mars 2023, Syndicat intercommunal de la périphérie de Paris pour les énergies et les réseaux de communication (SIPPEREC)**.
 
-arret relativmeent recent, pas de reponse à ça. ce pouvori de modification est contre balancé par la possibilité d'être indemnisé. le co contractnt est dans l'obligation de modiif er le contrat unilatéralmenet modifié,il doit tjrs poursuivre exectio contracutelle,  le non respect del'obliation constitue une faut ede natureà justiier à arésiliation du contrat à ses tords.  Si les modificatiosn faites par l'administraton sont telles qu'ellebouleverese economie du contrat, la résiliation pourra être prononcée par le juge, arret 1910 compagne general efrancaise des tramways. 
+Pour la **première fois**, le **Conseil d’État a admis que la personne publique peut modifier unilatéralement une clause illégale du contrat**, **à condition qu’elle soit divisible du reste du contrat** :
 
+> "Lorsqu’une clause du contrat est affectée d’une irrégularité tenant à son caractère illicite, et à condition qu’elle soit divisible du reste du contrat, la personne publique peut y apporter unilatéralement les modifications permettant de remédier à cette irrégularité."
+
+**C’est une avancée majeure**, car c’est la **première fois** que l’on consacre la faculté pour l’administration de modifier un contrat administratif afin d’en corriger les irrégularités.
+
+- **Une faculté discutable**
+
+Cette décision suscite des débats :
+
+1. **Une extension discutable du pouvoir de modification**
+    
+    - À l’origine, ce pouvoir permettait uniquement **d’adapter le contrat aux nécessités du service public**.
+    - Or, donner à l’administration **le pouvoir de modifier un contrat pour des raisons juridiques n’a plus de lien avec le service public, mais avec l’ordre juridique**.
+    - Cela modifie donc **l’essence même de ce pouvoir**.
+2. **L’administration décide seule**
+    
+    - L’administration **peut modifier unilatéralement le contrat sans accord du juge ni du cocontractant**.
+    - Certains auteurs estiment que **cette modification devrait relever du juge ou des parties, et non de l’administration seule**.
+    - En effet, **comment être certain que la clause est réellement illégale ?**
+
+Cet **arrêt est relativement récent**, et ces interrogations restent ouvertes.
+
+- **Contreparties et sanctions**
+
+Ce pouvoir de modification est **contrebalancé** par la possibilité d’**être indemnisé**.
+
+- Le **cocontractant est tenu de poursuivre l’exécution du contrat**, même après une modification unilatérale.
+- **Le non-respect de cette obligation constitue une faute pouvant justifier la résiliation du contrat à ses torts.**
+
+Si les modifications faites par l’administration sont **telles qu’elles bouleversent l’équilibre économique du contrat**, la **résiliation peut être prononcée par le juge** (**CE, 1910, Compagnie générale française des tramways**).
 
 ##### 4) Le pouvoir de résiliation unilatérale
 
@@ -781,18 +855,18 @@ La résiliation pour motif d’intérêt général **nécessite impérativement 
 
 - **La perte de confiance entre les parties** peut aussi justifier la résiliation (==_CA Bordeaux, 11 octobre 2022, AXS Ingénierie_==).
 
-2) **Les conséquences d’une résiliation irrégulière**
+1) **Les conséquences d’une résiliation irrégulière**
 
 Si la résiliation n’est pas fondée sur **un motif d’intérêt général**, elle est **irrégulière**.
 - Dans ce cas, il est possible **d’engager la responsabilité contractuelle de l’administration pour faute** (==_CE, 2 février 1987, Société TV6 et Société France 5_==).
 - Il est aussi possible d’**intenter une action en reprise des relations contractuelles** (==_CE, 27 mars 2020, Commune de Palavas-les-Flots_==).
 
-3) **L’indemnisation du co-contractant**
+1) **L’indemnisation du co-contractant**
 
 - **La résiliation pour motif d’intérêt général n’est pas une sanction**, donc le **co-contractant doit être indemnisé** pour le préjudice subi, y compris **le manque à gagner** (==_CE, Ass., 2 mai 1958, Distillerie de Magnac-Laval_==).
 - Les parties peuvent **prévoir par contrat les modalités et l’étendue de l’indemnisation**, mais cette indemnisation **ne peut pas être manifestement supérieure à celle qui résulterait de l’application des règles jurisprudentielles**.
 
-4) **Limites à l’indemnisation**
+1) **Limites à l’indemnisation**
 
 - **Si les parties s’accordent sur un montant et des modalités d’indemnisation**, la **personne publique ne peut pas payer plus** que ce qu’elle doit selon **les règles jurisprudentielles**.
 - En revanche, **elle peut payer un montant inférieur uniquement si le co-contractant est une personne privée**.
@@ -811,7 +885,7 @@ Il existe **deux hypothèses** dans lesquelles l'exécution du contrat est compr
 - Toutefois, l'administration peut **demander réparation du préjudice causé par la résiliation**.
 - Il faut néanmoins **distinguer** la possibilité pour l’administration de **demander une réparation** et la possibilité de **l’obtenir effectivement** (_CE, 15 octobre 1965, Société Entreprise Pérignon_).
 
-2) **Le changement de circonstances**
+1) **Le changement de circonstances**
 
 - Un **changement de circonstances imprévisible** peut justifier une **résiliation non fautive**.
 - Cette hypothèse a été consacrée par **l’arrêt ==CE, Compagnie nouvelle de Deville-lès-Rouen==**.
@@ -848,7 +922,7 @@ L’exception d’inexécution repose sur **l’idée que si une partie ne rempl
 - Elle **n’est admise que si le contrat n’a pas pour objet l’exécution d’un service public**.
 - Le co-contractant doit **informer l’administration** à l’avance afin qu’elle puisse **s’y opposer en temps utile**, à condition qu’il y ait un **motif d’intérêt général**.
 
-2) **Le droit à l’équilibre financier**
+1) **Le droit à l’équilibre financier**
 
 La principale contrepartie accordée au **co-contractant** est le **droit à l’équilibre financier**. Ce droit se traduit par plusieurs aspects :
 
@@ -863,7 +937,7 @@ La principale contrepartie accordée au **co-contractant** est le **droit à l�
         - **Les gains manqués**.
     - Exemple : si une concession est accordée pour exploiter une infrastructure comme **Aquanor**, et que le tarif d’entrée est initialement fixé à **10 euros**, mais que la **personne publique décide unilatéralement de le réduire**, alors l’administration doit **compenser les revenus perdus**.
 
-3) **La gestion des situations imprévues**
+1) **La gestion des situations imprévues**
 
 - Il arrive que **surviennent des situations non prévues par le contrat**.
 - Dans ces cas, **le co-contractant doit en principe continuer à exécuter ses prestations**.
@@ -962,12 +1036,12 @@ L’événement doit être **économiquement ou physiquement imprévisible** au 
 - **Ce qui compte**, c’est que l’événement **déroge aux prévisions raisonnables** qui pouvaient être faites lors de la conclusion du contrat.
     - Exemple : **COVID-19, guerre en Ukraine**.
 
-2. **L’événement doit être extérieur aux parties**
+1. **L’événement doit être extérieur aux parties**
 
 - Exemples : **guerre, catastrophe naturelle**.
 - En revanche, **une mauvaise gestion de l’une des parties ne peut être invoquée**.
 
-3. **L’événement doit entraîner un bouleversement de l’économie du contrat**
+1. **L’événement doit entraîner un bouleversement de l’économie du contrat**
 
 - Il ne s’agit **ni d’un simple manque à gagner**, ni d’un **empêchement total d’exécuter le contrat**.
     - **Si l’exécution devient impossible, on passe de l’imprévision à la force majeure**.
