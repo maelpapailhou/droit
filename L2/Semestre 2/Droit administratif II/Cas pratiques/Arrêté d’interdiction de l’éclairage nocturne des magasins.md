@@ -1,0 +1,21 @@
+Pour sauver les Pétrel de Barau, le maire de Saint Paul envisage de prendre un arrêté d’interdiction
+de l’éclairage nocturne des magasins (centre commercial, pharmacie etc...) du centre-ville, des
+routes municipales sur le mois d’avril (du 1er avril au 30 avril), qui est le mois de l’envol des jeunes
+pétrels. L’arrêté est mis à la signature du maire le lundi 27 mars. Le maire le signe le mercredi 29
+mars. Puis, l’arrêté se perd dans les méandres du circuit administratif et n’est pas publié. Au cours
+du mois d’avril, les agents de la police municipale constatent de nombreuses violations de
+
+l’interdiction et adoptent des sanctions à l’égard des contrevenants. Les différents commerçants
+affectés par ces sanctions viennent vous voir. Ces sanctions sont-elles valables ? (4 points
+
+### **Résolution du cas pratique en droit administratif**
+
+Le maire de Saint-Paul envisage de prendre un arrêté interdisant l’éclairage nocturne des magasins et des routes municipales durant le mois d’avril, période correspondant à l’envol des jeunes Pétrels de Barau. Cet arrêté est signé le 29 mars, mais il ne fait l’objet d’aucune publication. Malgré cette absence de publicité, les agents de la police municipale constatent plusieurs infractions au cours du mois d’avril et sanctionnent les commerçants concernés. Ces derniers contestent la légalité des sanctions qui leur ont été infligées.
+
+Le problème juridique soulevé est donc de savoir si des sanctions administratives peuvent être valablement infligées sur le fondement d’un acte administratif réglementaire qui n’a pas été publié. Cette question impose d’examiner la règle selon laquelle un acte administratif ne produit des effets juridiques qu’à partir de sa publication et d’en apprécier l’application au cas d’espèce.
+
+Un acte administratif unilatéral ne devient opposable aux administrés qu’à la condition d’être porté à leur connaissance selon les modalités prévues par la réglementation en vigueur. Cette exigence résulte du principe de sécurité juridique, qui impose que les destinataires d’une norme puissent en avoir connaissance avant qu’elle ne leur soit opposable. Le droit administratif distingue ainsi la date de signature d’un acte, qui marque son existence juridique, et la date de sa publication ou de sa notification, qui conditionne son entrée en vigueur. En matière d’actes réglementaires, la règle de publication est impérative : l’article L.221-2 du Code des relations entre le public et l’administration dispose que les actes réglementaires n’entrent en vigueur qu’après avoir été publiés. Cette règle a été confirmée par la jurisprudence constante du Conseil d’État, notamment dans l’arrêt Kevers-Pascalis du 13 juillet 1962, qui a affirmé qu’un acte réglementaire non publié ne peut être opposable aux administrés. Cette exigence est justifiée par la nécessité de garantir la prévisibilité du droit et d’éviter que l’administration ne sanctionne des comportements sur le fondement de normes dont les citoyens n’ont pas pu prendre connaissance.
+
+En l’espèce, l’arrêté municipal du maire de Saint-Paul, bien qu’ayant été signé le 29 mars, n’a jamais été publié. Par conséquent, il n’est jamais entré en vigueur et ne pouvait être invoqué contre les commerçants. Dès lors, les sanctions prononcées à leur encontre sont dépourvues de base légale, puisque l’infraction à une règle inexistante en droit ne peut justifier une sanction administrative. Cette analyse est conforme à la jurisprudence du Conseil d’État, notamment l’arrêt KPMG du 24 mars 2006, qui a consacré le principe de sécurité juridique et rappelé l’importance de la publicité des normes administratives.
+
+Ainsi, les sanctions infligées aux commerçants sont entachées d’illégalité, faute de fondement juridique. Ils pourraient donc en demander l’annulation devant le juge administratif par la voie d’un recours pour excès de pouvoir. Ce dernier devrait, au regard du défaut de publication de l’arrêté, constater son absence d’entrée en vigueur et annuler les décisions répressives prises sur son fondement.
