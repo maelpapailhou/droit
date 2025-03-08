@@ -1,16 +1,16 @@
 ### 2023-2024 S1
-- 1/ Les principes de coopération et d'intégration : quelles distinctions ?
-- 2/ Les conditions d'adhésion à l'Union européenne et les pays candidats à l'adhésion
+- *1/ Les principes de coopération et d'intégration : quelles distinctions ?*
+- *2/ Les conditions d'adhésion à l'Union européenne et les pays candidats à l'adhésion*
 - 3/ La reconnaissance jurisprudentielle des droits fondamentaux de l'Union européenne
 - 4/ Le Parlement européen : élection et pouvoirs législatifs
 ### 2023-2024 S2
-- 1/ Les premières organisations européennes de coopération pour la paix en Europe
-- ***2/ Le dispositif de retrait de l'article 50 TUE : procédure et effets***
+- *1/ Les premières organisations européennes de coopération pour la paix en Europe*
+- *2/ Le dispositif de retrait de l'article 50 TUE : procédure et effets*
 - 3/ La Charte des droits fondamentaux de l'Union européenne
 - 4/ Le partage de la fonction législative par le triangle institutionnel de l'Union
 ### 2022-2023 S1
 - 1/ La garantie des droits fondamentaux par l'Union européenne
-- 2/ L'adhésion à l'Union européenne : conditions et procédure
+- *2/ L'adhésion à l'Union européenne : conditions et procédure*
 - 3/ Conseil européen, Conseil de l'Union européenne et Conseil de l'Europe : quelles distinctions ?
 - 4/ Le Parlement européen : composition et pouvoirs de contrôle
 ### 2022-2023 S2

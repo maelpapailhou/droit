@@ -68,7 +68,7 @@ si on manque a une obligation de sécurié, on a la aussi commis une faute sanct
 
 adage de loysel "qui peut mais n'empeche, peche".
 
-### B. La faute intentionnelle et la faute non intentionnelle
+### B) La faute intentionnelle et la faute non intentionnelle
 
 
 la faute intentionelle et la faut enon intentionnelel : en principe l'intention n'a aucune incidence surla mise en cause de la reponsabilié de l'auteur du dommage. article 1241 dit que la faite non intentionelel engage egalement la reesponsabilité.
@@ -94,7 +94,7 @@ en droit du travail : c ainsiq u'apparaisnet la notion de faute lourdre, grave, 
 
 ## Section 3 – Les domaines d’application de la faute civile
 
-### A. Faute dans l’exécution d’un contrat. Principe d’identité des fautes contractuelle et délictuelle
+### A) Faute dans l’exécution d’un contrat. Principe d’identité des fautes contractuelle et délictuelle
 
 Est-ce que l'inexecution ou exefuction defectueurse du contrat qui cause un dommage à un tiers, est-ce que ca engage la responsabiltié délictuelle?
 
@@ -102,7 +102,7 @@ on se tient dans le domaine délicat de la distinction entre resposnabilité civ
 
 elles n'obeissent pas au mmee regime. on s'interroge sur l'idnetité entre la faute civile contractuelle et la fuate civile deluctuelel.
 
-cette question peut surgir dans une chaine de contrat. Ex on achet eune voiture chez le ocncessionaire. Il a lui meme acheté une voiture aupres du constructeur. Si jamais au b out de uqelques detemps d'usage, on est vicitme d'une panne qui es tliée à un défaut de construction de la voiuture, alors on a la possibilité soit d'agir contre le concessionaire aures duqelqu on a acheté la voiture, sauf que la loi permet égalemtn d'agir directmeent contre le favricant. 
+cette question peut surgir dans une chaine de contrat. Ex on achet eune voiture chez le ocncessionaire. Il a lui meme acheté une voiture aupres du constructeur. Si jamais au b out de uqelques detemps d'usage, on est vicitme d'une panne qui es tliée à un défaut de construction de la voiuture, alors on a la possibilité soit d'agir contre le concessionaire aupres duqelqu on a acheté la voiture, sauf que la loi permet égalemtn d'agir directmeent contre le favricant. 
 
 la jurisprudence de la cour de cassation a opéré une distinction poru dire que lorsqu'il y a eu une chaine translative de propriété, dans ce cas l'action en responsabiltié civile qu'on intente est de nature contractuelle, bien que il y ai eu des intermediaries dans la chaine des contrats. Ass pleniaire 7 février 1986, il en a été décidé ainsi.
 

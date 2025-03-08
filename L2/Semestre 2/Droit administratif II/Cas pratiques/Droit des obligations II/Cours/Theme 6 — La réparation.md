@@ -1,5 +1,3 @@
-
-
 ## Section 1 – Les formes de la réparation
 
 La réparation consiste à remplcer la victme dans la situationd ans laquelle elle se trouvait avant l'acte dommageale.

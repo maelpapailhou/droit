@@ -36,7 +36,9 @@ Une présomption suffit-elle à établir le lien de causalité entre un fait et 
 
 ***La cour pose un principe qu'elle applique pas.***
 ***année suivante en 2023 a officielemtn reconnu le lien de causalité entre vaccine t la maladie. Ajd vaccin en quesiton a provoqué bcp de décés.*** 
-***"article 4 de la directive doit être interprété en ce sens qu'il s'oppose à un régime probatoire reposant sur des présomptions selon lequel".***
+***"article 4 de la directive doit être interprété en ce sens qu'il s'oppose à un régime probatoire reposant sur des présomptions selon lequel".
+
+note ***
 
 
 La Cour de cassation admet que, conformément à l'article 4 de la directive européenne de 1985, le lien de causalité entre un produit et un dommage peut être établi par des présomptions graves, précises et concordantes. Toutefois, elle rejette le pourvoi, estimant que la cour d’appel a exercé son pouvoir souverain d’appréciation et a légitimement conclu que les éléments avancés par les ayants droit ne suffisaient pas à établir ce lien de causalité.
@@ -126,40 +128,43 @@ B) le maintient à demi-mot d'une causalité sceintifiqeu
 
 ## Civ. 2e, 16 janvier 2020, n° 19-14.821
 
-**Faits**
-Une personne est décédée des suites d’un accident de la route après avoir perdu le contrôle de son véhicule sur une chaussée rendue glissante par une fuite d huile involontauire provenant d, involontairement provoquée par un autre conducteur.
+***Problème de droit : l'abs impreivisiblté empeche t elle d'invoquer une cause etrangere exonératoire?*** 
 
-La famille de la victime a engagé une action en justice afin d’obtenir réparation de son préjudice d’affection. Par un arrêt du 20 avril 2018, la cour d’appel de Saint-Denis a condamné le conducteur à leur verser des dommages et intérêts.
+***Solution : elle dit que c pas parce que evenement est imprevisible *** 
 
-**Thèse en présence**
-Les demandeurs au pourvoi reprochent à la cour d'appel de les avoir condamnés à payer des dommages et intérêts, alors qu'ils estimaient ne pas être à l'origine de l'accident et que la fuite d'huile, qui aurait causé l'accident, n'a jamais été constatée.
+***Passage important (évaluation)***
 
-**Problème**
-Un véhicule stationné peut-il être considéré comme impliqué dans un accident de la circulation, même si l’accident s’est produit à distance de celui-ci ?
+***La cour d'appel se fie au raportmétéo, et retient la fore majeur. Voei plus praticalbe, qui était irrestitble.***
 
-**Solution**
-La Cour de cassation rejette le pourvoi et confirme la décision de la cour d’appel. Elle rappelle que selon la loi du 5 juillet 1985, est impliqué dans un accident tout véhicule ayant joué un rôle quelconque dans sa réalisation.
+***ils eseent que sociéé disposait de tous les moyens acquis. La cause étrangere se subdivis een 4 causes. (cas fortuit, fait du prince; fait du tiers,  fait de la victime). La cause étrangère sera totalement exonératoire niquement si ces causes revetent les caractérisitques de la force majeure, mais si il manque l'une de ces conditionsla cause etrangere sera exonératoire mais que partiellemetn.La force majeure sers donc à qualifier la faute étrangère. Si manqueune coniron partiellement exonératoire, si aucune condition pas du tout éxonératoire.**
 
-En l’espèce, la cour d’appel avait constaté que le véhicule de la victime avait dérapé sur une chaussée rendue glissante par une fuite d’huile provenant d'un autre véhicule. Elle ainsi considéré que ce véhicule devait être considéré comme impliqué dans l’accident, même si celui-ci s’était produit à une certaine distance de l’endroit où le véhicule était stationné.
+***Ici la cour de cassation a pas considéré que accident était imprévisible, donc pas de cas de force majhuere, donc exoneration partielle. La cour d'appel avait considéré que si manque imrpoévisibeté onpeut invoque raucune cause étrangere. Cassation di tque si on peut mais juste ce ne sera uqe partiellemetn exonératoire. 
 
+***cassationv ient dire que certe la condirion exonérabilité n'est pas remplie, c pour ca que SNCF reste responsable, mais elle ne sera resposanble que partielelmetn.*** 
 
-I) Les conditions de l'implication des véhicules établies par la loi de 1985
-A) L'instauration d'un régime spécial de responsabilité
-- Instaure un régime spécial pour les accidents de la circulation
-- Contrairement au droit commun de la responsabilité civile, il n’est pas nécessaire de démontrer une faute du conducteur du véhicuee
+***Solution classique ? Non car 7 avril 2006, puis 2023, etc. note 62 dans le code civil.***
 
-B) L'application de la loi élargie par la jurisprudence
-- Non-nécessité de contact entre les véhicules accidentés (admis par la Cour de cassation)
-- La jurisprudence inclus comme entrant dans le champ de la loi les véhicules stationnés et les accidents à distance
+***Evolurtion de laprise en compte de la victime ? Y'a eu un temps ou on disait quela faute de la victime était totalement exonératoire pour le responsable. arret 1963 15 octobre 1civ, pieton qui traversait ne route (pas encore Badinter) de facon imprudente, en cas faute victime exoneration totale.*** 
 
-II) Les effets de l'implication des véhicules
-A) Une présomption de la responsabilité en faveur des victimes
-- Le conducteur ou le propriétaire est présumé responsable
-- Evite aux victimes de démontrer un lien de causalité strict, et ainsi permet une meilleure indemnisation
+***puis de plsu en plus mmouvement de resposnabiltié partagée où le critre de cette faute e la vcitme a laissé place à uen approche un peu plus nuancée.  la faut ed ela victime petu désormais réduire la répartion mais pas forcement l'anéantir completement. arret 19 febrier 1997 pieton traverese imprudeament et renversé, cassationd it que exoneratoireq ue partiellemetn.***
 
-B) 
-- Jurisprudence de la cour de cassation en la matière est constance
-- Souligne l’importance du rôle du juge du fond dans l’appréciation des faits, notamment pour établir si un véhicule a eu une incidence sur les circonstances de l’accident
+***Donc maintenant on est plsu nuancé, on evalue indelisaiton par rapoort à la faute de la victime. ***
+
+I) l'imprivisbiltié, non exclusive d'une cause étrangere exonératoire
+A) l'impossibilité de retenir la force majeure
+- imporatnte du liende causalité, pas imprivislité en l'espece
+B) la possibilité de retenir al faute de la victime
+- la conductrice si elel aviat redémarré a arret du train, y'avait donc bien faute de la vicitme, fcour de cassation idnqieu à cour d'appel aurait du rechercher l'eixsence de cette faute
+
+II) l'exoneration partielle de responsabilité
+A) le partage des resposnaibltiés
+- exoneraion peut etre que partielle, faute de la vicitlme présente pas toutes les acaratecrisitqes de laf orce majeure
+- peut être justiifé en l'espece car si on part du principe que sncf pouait préovir accident il est jsute qu'lele supporte une partie de la resp (on petu dir eque c'était severe pour la SNCF)
+
+B) une solution prévisible 
+- ouverture : soluton serait plsu rendue de la meme façon car applciation du régime spécial de responsabilité
+
+méthodologie : intitutéls doivnet reprendre solution cassation, sauf si cour d'appel appuie argumetn. Mais sous partei que sur la cour d'appel est hors sujet. Ca doit juste renforcer l'arugmentation.
 
 ## Civ. 2e, 5 janvier 1994, n° 92-13.853
 
@@ -172,14 +177,8 @@ Les propriétaires du voilier ont assigné la société propriétaire du contene
 **Thèses en présence**
 Les demandeurs au pourvoi reprochent à la cour d'appel de ne pas avoir correctement analysé les conditions météorologiques, en particulier l'absence d'une étude suffisante sur la prévisibilité de la tempête. Ils contestent également le fait que la cour n'ait pas examiné si la société avait la possibilité de fixer le conteneur ou de le mettre à l'abri avant qu'il ne soit projeté à la mer.
 
-***La cour d'appel se fie au raportmétéo, et retient la fore majeur. Voei plus praticalbe, qui était irrestitble.
-
-***ils eseent que sociéé disposait de tous les moyens acquis **** 
-
 **Question de droit**
-
-
-cUn gardien d’une chose peut-elle s’exonérer de sa responsabilité lorsqu’un événement extérieur, imprévisible et irrésistible entraîne un dommage causé par cette chose ?
+Un gardien d’une chose peut-elle s’exonérer de sa responsabilité lorsqu’un événement extérieur, imprévisible et irrésistible entraîne un dommage causé par cette chose ?
 
 **Solution**
 La Cour de cassation répond par l'affirmative et rejette le pourvoi. Elle valide ainsi la décision de la cour d'appel, qui a retenu que les événements extérieurs ayant contribué à la réalisation du dommage présentaient un **caractère imprévisible**, en raison de la trajectoire inhabituelle de la tempête, et **irrésistible**, en raison de son apparition soudaine.

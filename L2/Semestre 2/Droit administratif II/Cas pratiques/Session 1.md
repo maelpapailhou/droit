@@ -76,18 +76,3 @@ du mois d’avril, les agents de la police municipale constatent de nombreuses v
 
 l’interdiction et adoptent des sanctions à l’égard des contrevenants. Les différents commerçants
 affectés par ces sanctions viennent vous voir. Ces sanctions sont-elles valables ? (4 points)
-4. Le Lycée de la Rivière des Roches a conclu avec Epson un contrat de location de photocopieurs. En
-cas de litige, quelle est la juridiction compétente ? (2 points)
-5. Le Groupement hospitalier Sud Réunion envisage de faire construire un parking. En effet,
-actuellement les places disponibles sont insuffisantes, les gens se garent mal et gênent la circulation.
-Malheureusement, ils sont dans une période de restriction budgétaire. Quel type de contrat leur
-conseillez-vous ? (2 points)
-
-6. L’entreprise Ti fraicheur des hauts a conclu avec la commune du Tampon un contrat de livraison de
-salades en 2020. Ces légumes sont utilisés par la cuisine centrale qui fournit toutes les cantines
-scolaires de la commune. Malheureusement, l’inflation est telle qu’aujourd’hui, en avril 2023, le
-prix convenu à l’époque n’est plus rentable pour l’entreprise. En effet, le prix de revient de la salade
-a été multiplié à 4 !! une hausse impensable en 2020. Le gérant vous consulte. (3 points)
- Peut-il arrêter les livraisons ?
- Peut il renégocier le prix ?
- Si la commune refuse de renégocier, peut il mettre fin à ce contrat ?

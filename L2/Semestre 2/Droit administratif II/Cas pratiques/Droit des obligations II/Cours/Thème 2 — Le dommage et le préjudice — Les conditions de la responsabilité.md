@@ -59,7 +59,7 @@ Dommage:
 
 En ce sens, il est distinct du préjudice, qui correspond à la conséquence de cette lésion. Ainsi, l'article L. 623-2 du Code de la consommation précise que l'action de groupe « ne peut porter que sur la réparation des préjudices patrimoniaux résultant des dommages matériels subis par les consommateurs ».
 
-#### **Types de dommages**
+**Types de dommages**
 - **Dommage corporel** : Dommage portant atteinte à l'intégrité physique d'une personne : blessure, mutilation, infirmité, invalidité. Quoique la personne humaine soit hors du commerce juridique, la jurisprudence admet en ce domaine la validité des clauses exonératoires de responsabilité.
 	→ _Clause de non-responsabilité._
 - **Dommage écologique** : Voir _Préjudice écologique, Préjudice environnemental._

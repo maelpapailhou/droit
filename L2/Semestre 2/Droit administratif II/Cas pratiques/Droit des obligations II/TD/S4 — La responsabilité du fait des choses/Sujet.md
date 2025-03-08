@@ -17,3 +17,6 @@ que pour partie, l’instrument du dommage » alors qu’il n’y avait pas de c
 4/ Tout fait d’une chose engage-t-il son gardien à réparer le dommage ainsi causé ?
 
 5/ Quelle différence faites-vous entre la garde de la structure et la garde du comportement ?
+
+attention : cas 2 et 3 de las éance 2 sur la resposnabiltié du fait des choses
+

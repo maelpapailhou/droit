@@ -104,24 +104,25 @@ Tout d’abord, elle a confirmé que la **directive sur la responsabilité des p
 
 Ensuite, la Cour de justice a précisé que **la causalité juridique peut être établie par la recherche d’indices**, mais **qu’il ne peut y avoir de présomption automatique**. Autrement dit, même si des indices graves, précis et concordants peuvent suffire à prouver le lien de causalité, il ne saurait exister de mécanisme automatique conduisant systématiquement à retenir la responsabilité du fabricant sur la seule base de ces indices.
 
-d'autres arrets de la cour de cassation ont suivi, 1civ 18 octobre 2017 qui permet de dire qui'l faut établir qu'il ya un produti defectueux. La premier echose a prouver c'et le défaut du produit. Et puis, il faut établir la preuve de la causalité juridqiue entre l'administration du vaccin et le dommage. ici la coru de cassationa utilisé la théorie dela ausalité adéauate.  il fautq ue les présomptiosn tellement fortes qu'lele en devietn uen quasi certitdue. 
+D'autres arrêts de la Cour de cassation ont suivi, notamment un **==arrêt de la première chambre civile du 18 octobre 2017==**, qui précise qu’il faut établir qu’il y a un produit défectueux. La première chose à prouver est le défaut du produit. Ensuite, il faut établir la preuve de la causalité juridique entre l’administration du vaccin et le dommage. Dans cette décision, la Cour de cassation a utilisé la théorie de la causalité adéquate. Il faut que les présomptions soient tellement fortes qu’elles deviennent une quasi-certitude.
 
-ilpeut égaement y avoir incertitude quadn à l'auteur du dommage. quelque soit le fait générateur, la responsabiltié st toujours imputée à quelqu'un. Safu que parfois cette personne est dificileà identifier. c'est le cas notaemmetn lorsque le domamge a été produit par un groupe de personens. 
+Il peut également y avoir une incertitude quant à l’auteur du dommage. Quel que soit le fait générateur, la responsabilité est toujours imputée à quelqu’un. Cependant, parfois, cette personne est difficile à identifier, notamment lorsque le dommage a été causé par un groupe de personnes.
 
-sauf que on a fait valoir que c'était severe pour la victime, et que d'autant plusq ue tous les autres elements et conriitosn étaient étalbis Donc si que un seul auteur la victime aurait eu aucune difficulté a etre indemnisée, masi là débouté de sona ction.
+Toutefois, il a été fait valoir que cette exigence était sévère pour la victime, d’autant plus que tous les autres éléments et conditions étaient établis. Si un seul auteur était identifié, la victime n’aurait eu aucune difficulté à être indemnisée, mais dans ce cas, elle a été déboutée de son action.
 
-aboutit à unc ertaina complissetn del ajurspurdene, qui est illustré à travers plusiuers hypothèses.
+Cela aboutit à un certain complicité de la jurisprudence, illustré à travers plusieurs hypothèses.
 
-la jurisprudence a eu recours au concept de faute collective. Faute collecitve à chaque fois que le dommage était la cause de la negligence d'une personne du groupe masi sans quonpuisse isoler lauqelle excatemetn. Ex un groupe de chasseur tire en meme temspo dans la meme direction, envers une perosnne. Ce qui permettra a la victime d'agir contre tous les auteurs indifferement. 
+La jurisprudence a eu recours au concept de faute collective. La faute collective est retenue chaque fois que le dommage est la conséquence de la négligence d’une personne au sein du groupe, sans qu’il soit possible d’identifier précisément laquelle. Par exemple, dans le cas où un groupe de chasseurs tire en même temps dans la même direction, vers une personne, cela permettra à la victime d’agir contre tous les auteurs indifféremment.
 
-l'autre notion que la jurisprudence a dégagée dans le cadre de la repssabiltié duf ait des chsoes est la noion de garde collective, lorsque c'est une chose qui est à l'origine du dommage.  On prend cette fois ci le groupe d'enfant qui joue avec une boie d'allumete et qui provoque un incnedie. On v aconsiderer qu'ils etaient tous gardens del aboite d'allumete, et que tous sotn repsosanbles du dommage. 
+Une autre notion dégagée par la jurisprudence dans le cadre de la responsabilité du fait des choses est celle de **garde collective**, lorsque c’est une chose qui est à l’origine du dommage. Un exemple illustratif est celui d’un groupe d’enfants jouant avec une boîte d’allumettes et provoquant un incendie. La jurisprudence considère alors qu’ils étaient tous gardiens de la boîte d’allumettes et qu’ils sont donc tous responsables du dommage.
 
-autre médicament : le distilbene, les vicitmes de ce medicament vont agir contre les laboratoires ayant fabriqué et commercialisé le produit. c'était un medicamen tuq les fammes qui ne parvenaient pas à tomber enciente prenaient pour favoriser le fait d etomber. 
+Un autre exemple marquant concerne le **Distilbène**, un médicament dont les victimes ont agi en justice contre les laboratoires ayant fabriqué et commercialisé le produit. Il s’agissait d’un médicament pris par les femmes qui ne parvenaient pas à tomber enceintes pour favoriser la grossesse.
 
-sauf que il c'était avéré que quelqeus temps plus tard soit les femme qi avaient pris le medicament avieant developpé un cancer du col de l'utérus, et aussi que les enfants dont ces femmes avaient accouché développaient certaines pathologies. par la suite etudes scientifiques ont démontré le lien entre medicament et developemetn de spathologies. On pouvait donc montrer le défaut du produit, et son role actif ans le dev de la maladie. sauf que 3eme obstable : commme les actions etant intentés parofis années plus tard, certains laboratoires avaient fermés, et au moment de la décision restait plus que 2 faricants, mais sans qu'on sache si la plaquetted emédiament venait de tel oiu tel laboratoire. Donc il étiat dififcile d'imputer ensuite le dommage à tel laboratoire plutot qu'a un autre. 
+Cependant, il s’est avéré que, quelques années plus tard, certaines femmes ayant pris ce médicament ont développé un cancer du col de l’utérus. De plus, les enfants de ces femmes présentaient également certaines pathologies. Par la suite, des études scientifiques ont démontré le lien entre ce médicament et le développement de ces maladies. Il était donc possible d’établir le défaut du produit ainsi que son rôle actif dans le développement des pathologies.
 
-par faveur aux victimes, la cour de casastion a estimé que la victime pouvait agir , que action en responsabiltié petu etre contre les deux laboratoires, et que ensuite c'était à chacun de ces laboratoires de prouver que son produit, son méidcament n'avait pas causé le dommaeg. et que laboratoire doit apporter la preuve que medicmanet ont pas provoqué de dommage, donc inversionde la charge d ela preuve. 
+Toutefois, un troisième obstacle s’est posé : les actions étant intentées plusieurs années après la commercialisation du médicament, certains laboratoires avaient fermé. Au moment de la décision judiciaire, seuls deux fabricants restaient en activité, sans qu’il soit possible de déterminer si la plaquette de médicament provenait de l’un ou de l’autre. Il était donc difficile d’imputer le dommage à un laboratoire en particulier.
 
+Par faveur aux victimes, la Cour de cassation a estimé que la victime pouvait agir en responsabilité contre les deux laboratoires, et qu’il appartenait ensuite à chacun d’eux de prouver que son médicament n’avait pas causé le dommage. Ainsi, la charge de la preuve a été inversée : ce sont les laboratoires qui doivent démontrer que leur produit n’a pas provoqué le préjudice.
 ## Section 2 : Les causes d'exonération
 La jurisprudence a réuni les causes d'exonération applicables aux trois types de responsabilité. Lorsqu'une responsabilité civile est avérée, le défendeur peut tenter de s'exonérer totalement ou partiellement de sa responsabilité.
 
@@ -297,42 +298,43 @@ Ainsi, la Cour de cassation a estimé qu’il ne s’agissait **pas d’événem
 
 #### C) Les effets de la cause étrangère (ou son absence)
 
-là il faut disitnguer le type de cause étrangere et ensuite pour hcaque cuase etrangere estce qu'ily a  ou non force majeure.
+Il convient ici de distinguer les différents types de causes étrangères et, pour chacune d’elles, de déterminer si la force majeure est caractérisée ou non.
 
-Premier type de cause étrnagere: le cas fortuit
+1. Le premier type de cause étrangère est **le cas fortuit**. 
 
-si y'a force majeure, y'a exonérationt otale du défenduer. Si y'a pas force majeure, il n'y a pas d'éxonération. 
+S'il y a force majeure, il y a exonération totale du défendeur. En revanche, en l'absence de force majeure, aucune exonération n'est admise.
 
-2si il y a fait du prince : si y'a force majeure, exonération totale, et y'a pas de force majuere, on considere que exonération partielle. (ex enterprise fournisseur produit itnerdit)
+2. Le deuxième type est **le fait du prince**. 
 
-3 le fait d'un tiers : si force majeure exonération totale, si pas force majeure, pas d'exoneration. si jamais y' apluiers tiers qui sont a l'origine de cette cause étrangere, là si on estime qu epas d eforce majeure puisque y'a plusieurs personne squis ont a l'origine du dommage, elle ssont toutes responsables solidairement. (responsalbes in solidum). càd que la victime peut agir contre tout en meme temps, et aussi n'importe lequel des auteurs du dommage. geenralemetn on agit contre le plus solvable, celui qiui a le plus d'argent. Sil est condamné pour le tout, il peut se retourner contre les autres. 
+Si la force majeure est caractérisée, il y a exonération totale. En revanche, si la force majeure n’est pas reconnue, l’exonération est partielle. Un exemple typique est celui d’une entreprise fournisseur dont le produit a été interdit par une décision administrative.
 
-4 : le fait de la victime.
+3. Le troisième type est **le fait d’un tiers**. 
 
+En présence d’une force majeure, l’exonération est totale. En revanche, en l'absence de force majeure, aucune exonération n’est accordée. Si plusieurs tiers sont à l’origine du dommage, et qu’aucune force majeure n’est retenue, ils sont alors tous responsables **solidairement** (_in solidum_). Cela signifie que la victime peut agir contre tous les auteurs du dommage simultanément ou contre l’un d’entre eux en particulier. Généralement, l’action est dirigée contre la personne la plus solvable, c’est-à-dire celle disposant des moyens financiers les plus importants. Si cette dernière est condamnée à indemniser la victime pour l’intégralité du préjudice, elle peut ensuite se retourner contre les autres coresponsables pour obtenir un remboursement partiel.
 
-si faute de la victime est exclusive du dommage, la force majeure st uenc ase d'exineration totale du dommage. 
+4. Le quatrième type est **le fait de la victime**.
 
-si la faute d ela vcitime a contribué au domag,e.à ce moment la y'a exnération aprtielle.
+Si la faute de la victime est exclusive du dommage, elle constitue alors un cas de force majeure et entraîne une exonération totale du responsable.
 
-arret Desmares 2 civ 21 juilelt 1982 qui a l'époque avit ofconstitué un revirmeent importat. 
+En revanche, si la faute de la victime a seulement contribué au dommage, il y a exonération partielle.
 
-dans les faits, un coupke traversé sur un passage piéton snas verifier que la voie était libre, ercuté par une voiture. le condcteur invoque la afut de la vicitme qui aurait du regarder que la voie était libre. Mais cassation refuse de farie jouer la faut de la victime comme cause d'exoneration partielle du repsonsable, d'apres lacour c'est tout ou rien. Soit la faute de la victome constitue un ca e force majeure et donc exoneration, soit rien. 
+L’arrêt **Desmares**, rendu par la **==deuxième chambre civile le 21 juillet 1982==**, a marqué un revirement important.
 
-c'est la que est intervenu pour accident routiere, loi du 5 juilet 1985 Loi Badinter.
+Dans cette affaire, un couple traversait sur un passage piéton sans vérifier si la voie était libre et a été percuté par une voiture. Le conducteur a invoqué la faute de la victime, estimant qu’elle aurait dû s’assurer que la route était dégagée avant de traverser. Toutefois, la Cour de cassation a refusé de prendre en compte cette faute comme cause d’exonération partielle du responsable. Selon la Cour, la solution était binaire : soit la faute de la victime constituait un cas de force majeure et entraînait une exonération totale, soit elle ne l’était pas et n’avait aucune incidence sur la responsabilité du défendeur.
 
-en dehirs des accidents de la route, la cassation revenue aun eposition plus nuancnée, 3 arrets rendu en 2 civ 1987, le 6 avril.
+C’est dans ce contexte qu’est intervenue **la ==loi du 5 juillet 1985**, dite **loi Badinter==**, qui a instauré un régime spécifique d’indemnisation pour les victimes d’accidents de la circulation.
 
-2 civ a admis que la faute ismple de la victime pouvait conduire à une exonéraiton partielle. Si y' afaute simple de la vicitme, il peut y avoir une exoneraton partelle du responsable. 
+En dehors des accidents de la route, la Cour de cassation est revenue à une position plus nuancée à travers trois arrêts rendus par la deuxième chambre civile le **6 avril 1987**. Dans ces décisions, la Cour a admis que la faute simple de la victime pouvait désormais conduire à une exonération partielle du responsable. Ainsi, en cas de faute simple de la victime, il peut y avoir une exonération partielle du responsable.
 
-dans le dimaine des accidents férovieires que cour de cassation a aussi connu une evolution de jurisprudence : les accidents du à unt ansport feroviere se troiuv ene dehors du champ de loi de 1985. La jurisprudence a de novueau adopté une position severe vis à vis du transporteur puis une position plus osuple.
+Dans le domaine des **accidents ferroviaires**, la jurisprudence a également évolué. Ces accidents ne relèvent pas du champ d’application de la loi de 1985. La position de la Cour de cassation a d’abord été sévère à l’égard du transporteur, avant d’évoluer vers une approche plus souple.
 
-cette voluton de jursprudence démarre par un arrêt 1civ (quesiton de resposnabilité contacturelle) 13 mars 2008 a refusé totue exonéraiton du transporteur en dehors de la force majeure. y'avait eu une faute d ela victime. donc estimé que revet pas le caractere de la force majeire, aucune exoneration. Donc severe pur le transporteur. (vérifier)
+Ce mouvement jurisprudentiel a débuté avec un arrêt de la première chambre civile du **13 mars 2008**, dans lequel la Cour, statuant sur le terrain de la responsabilité contractuelle, a refusé toute exonération du transporteur en dehors de la force majeure. La victime avait commis une faute, mais celle-ci n’ayant pas le caractère de la force majeure, aucune exonération n’a été retenue pour le transporteur. Cette position était donc particulièrement rigoureuse pour le transporteur.
 
-arret 3 mars 2016, la cour de cassation a estimé que la faute de la vicime devait entrainer une exoneration partielle. (voir l'espèce).
+Un revirement est ensuite intervenu avec **==un arrêt du 3 mars 2016**, dans lequel la Cour de cassation ==a estimé que la faute de la victime devait entraîner une exonération partielle du transporteur.
 
-derniere étape : 11 décembre 2019 cassation sur le terrain de la responsabilité contractuele oepre un reviement pa rrapport a 2008, considere que faute de la victime entraine exoneration partielle de l'auteur. 
+Enfin, par un ==arrêt du **11 décembre 2019**, la Cour de cassation==, toujours sur le terrain de la responsabilité contractuelle, a opéré un revirement par rapport à sa position de 2008, en considérant cette fois que la faute de la victime pouvait entraîner une exonération partielle du responsable.
 
-la jurisprdence de la cour de cassation estimeq ue al faute dela victime contribue aju dommage et entraine une exonertaion partielle du responsable.
+Désormais, la jurisprudence de la Cour de cassation admet que lorsque la faute de la victime contribue au dommage, elle entraîne une exonération partielle du responsable.
 
 ### Paragraphe 2 : Les autres causes d’exonération (les faits justificatifs)
 
