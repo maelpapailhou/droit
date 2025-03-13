@@ -126,13 +126,14 @@ Le troisième pillier est ocnsacré à la JAI, la coopération dans les domaines
 
 l'ojbectif est de lutter contre le terrorisme, le trafic de drogues, l'immigration clandestine. En conclusion, le traité de Maastricht crée essentiellement l'union europenne, qui sera aapprofondi par les traités ulterieurs. Il prévoit sa prorpe révison en 1996 et sera révisée par le traité d'amsterdam. Apreès le 4eme élargissmetn de l'europe, avec l'adhésion de l'autriche de la finlande et de la suède. L'europe des 12 devient l'euroep des 15 en 1995. P
 
-Paragraphes 3 : l'approfionsisment de l'UE
+### Paragraphes 3 : l'approfionsisment de l'UE
 
-A) Le traité d'amsterdam
+#### A) Le traité d'amsterdam
 
+##### 1) L'élaboration du traité d'Amsterdam
 d'après un rapport qui sera remis fin 1995, qui est le rapport du groupe de reflexion Westendorp, dirigé par Caros Westendorp qui est le ministre espagnol des affaires européenens. E tapres la tenue d'une CIG (conference inter goueremetnale), entre mars 96 et juin 1997, un traité est approvué par le consiel européen, puis signé le 2 octobre 97, pour entrer en vigueur le 1er mai 1999, après la ratification par les 15 états membres, et une revision de la constitution francaise le 25 janvier 1999. en effet le conseil constitutionel, dans une déicison du 31 décembre 1997 a jugé contraire à la constitution certaines dispsition du traité en matiere d'asile, d'imigration et 
 
-B) L'apport du traité d'amsterdam
+##### 2) L'apport du traité d'amsterdam
 les resultats sont jugés decemevant car regle pas la quesitond e l'élargesent de l'union. 
 10 états sont intégrés, c'est le grand élargissmetn de 2004. on passe de 15 a 25. 
 mais comporte certians progres en renumerotant pour la premiere fois les traités existants. 
@@ -194,17 +195,17 @@ en conclusion, des progres otn été réalisés grâce à ce traité d'amsterdam
 
 est donc prévue l'ouverture d'une nouvelle conférence intergouvernementale (CIG) pour aobutir au traité de Nice.
 
-B) Le traité de Nice
+#### B) Le traité de Nice
 
 le traité réforme les instituitons dans la perpective du grnad élargissement de 2004,  après l'ouverture de négociiations en 1998,avec les pays de l'ueirpe d el'est, le 5ème élargissment de l'europe a liue le 1er mai 2004. L'europe es 15 devient l'uerope des 25, avec l'adhésion de 10 nouveau états. 
 
-1 - L'élaboration du traité de Nice
+##### 1) L'élaboration du traité de Nice
 
 A l'issu d ela CIG, ouverte en février 2000, un traité est approuvé le 11 décemre 2008, par le conseil euripéen à Nice. 
 
 il est signé le 26 février 2001, entre en vigueur le 1er février 2003 aprè sratirification par les irlandais en octobre 2002. 
 
-2 - L'apport du traité de Nice
+##### 2) L'apport du traité de Nice
 
 - Les avancées en faveur de l'élargissement
 
@@ -232,122 +233,127 @@ est instauré un mécanime de prévention d'atteinte aux droits fondamentaux ave
 
 le traité de nice n'a pas tout réglé, doncnouvelle CIG, une nouvele conference intergouvenrementale es tprévue en 2004, s'ouvre alors uen periode de doute à la ocnsurction européenne.
 
-Section 2 : La construction européenne à la croisée des chemins
+## Section 2 : La construction européenne à la croisée des chemins
 
-Apres l'échec de TECE (Traité Etablissant une Constitution pour l'Europe), la constitution est au sens symbolique, car ue pas un état fédéral, la construction européenne est relancée grace aut raité de lisbonne.
+Après l'échec du **Traité établissant une Constitution pour l'Europe (TECE)** – qui relevait davantage d’un symbole, l'Union européenne n’étant pas un **État fédéral** –, la construction européenne est relancée grâce au **traité de Lisbonne**.
 
-Paragraphe 1 : L'échec du traité établissant une Constitution pour l'Europe (TECE)
+### Paragraphe 1 : L'échec du traité établissant une Constitution pour l'Europe (TECE)
 
-A - L'élaboration du TECE
+#### A) L'élaboration du TECE
 
-il a été rédigé par la convention sur sur l'avenir de l'ueripe, qui n'est pas un traité mais un organe présidé par Valéry Giscard d'Estaing.
+Le TECE a été rédigé par la **Convention sur l’avenir de l’Europe**, qui n’est pas un traité mais un organe présidé par **Valéry Giscard d’Estaing**.
 
-cet oragne rassemble les représentants des gouvernemetns, des parlements nationaux, du parlement européen et de la  comission. 
+Cet organe rassemble des représentants :
+- des **gouvernements**,
+- des **parlements nationaux**,
+- du **Parlement européen**,
+- de la **Commission européenne**.
 
-a l'issu de ses travaux, un projet de constitution européenne est adopté en juin 2003, puis soumis à une CIG pour approbation. 
+À l’issue de ses travaux, un **projet de Constitution européenne** est adopté en **juin 2003**, puis soumis à une **Conférence intergouvernementale (CIG)** pour approbation.
 
-Mais celle-ci sera ralentie par les déciisons des états sur le conflit irakien, ex la france et allemagne sont opposés à espagne et italie qui eux soutiennent l'intervention américaine en irak. 
+Toutefois, ce processus est ralenti par les **dissensions entre les États** concernant le **conflit irakien**. Par exemple, la **France et l’Allemagne** s’y opposent, tandis que **l’Espagne et l’Italie** soutiennent l’intervention américaine en Irak.
 
-finalement le TECE sera signé à rome le 29 octobre 2004, mais il sera rejeté par la France et les Pays-Bas.
+Finalement, le **==TECE==** est **signé à Rome le 29 octobre 2004**, mais il est rejeté par référendum en **France** et aux **Pays-Bas**, empêchant son entrée en vigueur.
 
-B - Le rejet du TECE
+#### B) Le rejet du TECE
 
-apres ratification pa rles 25, le traité aurait du entrer en vigueur le 1er novembre 2006. 
+Après ratification par les 25 États membres, le traité aurait dû entrer en vigueur le **1er novembre 2006**.
 
-mais suite au nom des francais et des pays bas(les 2 par referundum en 2005), fin 2006 seulement 16 états sur 25 aviaent ratifié le traité. 
+Cependant, suite au **"non"** des Français et des Néerlandais (les deux par référendum en 2005), à la fin de l’année 2006, seulement **16 États sur 25** avaient ratifié le traité.
 
-pour sortir de la crise, angela merkel propose de rédiger un nouveau traité. En juin 2007, les chefs d'état et de gouvernemetn parvienntn meme a un accord sur le contenu du futur traité.
+Pour sortir de la crise, **Angela Merkel** propose de rédiger un nouveau traité. En **juin 2007**, les chefs d’État et de gouvernement parviennent à un **accord sur le contenu du futur traité**.
 
-en attendnat l'adoption de ce traité, l'europe connati son 6eme élargissment le 1er janvier 2007 ave l'adhésion de la bulgarie et de la roumanie.(on passe à l'europe des 27).
+En attendant l’adoption de ce nouveau traité, l’Europe connaît son **sixième élargissement** le **1er janvier 2007**, avec l’adhésion de la **Bulgarie et de la Roumanie**. L’Union passe ainsi à **27 membres**.
 
-article 88-5 de la constitution française, révisé le 1er mars 2005, prévoit qe tout nouveau traité d'adhésion postérieur à l'entrée de la bulgarie et de la roumanie sauf ceux prévu avant le 1er juillet 2004, tout nouveau traité d'adhésion devra être ratifié par référundum, donc par le peuple français. 
+L’**==article 88-5 de la Constitution française==**, révisé le **1er mars 2005**, prévoit que tout nouveau traité d’adhésion postérieur à l’entrée de la Bulgarie et de la Roumanie (à l’exception de ceux prévus avant le **1er juillet 2004**) devra être **ratifié par référendum**, impliquant ainsi un vote du peuple français.
 
-toutefosi, article 88-5 a été révisé le 1er juillet 2008 pour permettre le recours au congres plutot qu'au référundum avec l'accord de la majroité des 3/5e de chaque assemblée.
+Toutefois, cet **==article 88-5 ==a été révisé le 1er juillet 2008**, afin de permettre le **recours au Congrès** plutôt qu’au référendum, sous réserve de l’accord de la majorité des **trois cinquièmes** de chaque assemblée.
 
-le TECE sera en grande partie repris par le traité de Lisbonne. 
+Le **==TECE==** sera en grande partie repris par le **traité de Lisbonne**.
 
-§ 2 – La relance de l'Union européenne : le traité de Lisbonne
+### Paragraphe 2 : La relance de l'Union européenne : le traité de Lisbonne
 
-A - L'élaboration du traité de Lisbonne
+#### A) L'élaboration du traité de Lisbonne
 
-sous l'impulion d'angela merkel, a la presidnece de l'UE, les autres chefs d'état décient de convoquer une CIG poru rédiger un traitré modificatif europen.
+Sous l'impulsion d'Angela Merkel, alors présidente du Conseil de l’Union européenne, les autres chefs d’État décident de convoquer une CIG pour rédiger un traité modificatif européen.
 
-a l'issu de la CIG, le traité est adopté lors du conseil européen informel de lisbonne d'octobre 2007 (de base consiel européen c a bruxelles), puis signé par les états membres le 13 décembre 2007 et soumis à la ratificiation des 27 pour une entrée en vigueur espérée au 1er janvier 2009 (avant les elections europenne de juin 2009). 
+À l'issue de la CIG, le **==traité==** est adopté lors du **Conseil européen informel de Lisbonne** en octobre 2007 (le Conseil européen se tenant habituellement à Bruxelles), puis signé par les États membres le 13 décembre 2007. Il est ensuite soumis à la ratification des 27 pour une entrée en vigueur espérée au 1er janvier 2009, avant les élections européennes de juin 2009.
 
-après un premier refus en juin 2008, les irlandais finissent par approuver le traité le 2 octobre 2009 par referum. Le conseil euripéen s'étant engagé le 11 decembre 2008 a preserver la souveraineté de l'irlande sur certains sujets sensibles (neutralité militiare, fiscalité et avortement). 
+Après un premier refus en juin 2008, les Irlandais finissent par approuver le traité le 2 octobre 2009 par référendum. Le Conseil européen s'était engagé, le 11 décembre 2008, à préserver la souveraineté de l'Irlande sur certains sujets sensibles, notamment la neutralité militaire, la fiscalité et l’avortement.
 
-le conseil européen s'est engagé à garder 1 comissaire par etat membre.
+Le Conseil européen s'est également engagé à maintenir un commissaire par État membre.
 
-Ke président tchèque a contresigné les lois apprivnat le traité le 3 novembre 2009 après avoir obtenu une clause d'exemption de la charte des droits fondamentaux, pour que la république tcheque soit exemptée de son applicaito, clause similaire obtenue par la pologne et royaume uni.
+Le président tchèque a contresigné les lois approuvant le traité le 3 novembre 2009, après avoir obtenu une clause d'exemption de la **==Charte des droits fondamentaux==**, afin que la République tchèque soit exemptée de son application. Une clause similaire avait été obtenue par la Pologne et le Royaume-Uni.
 
-finalemetn le traité entre en viguer le 1er décembre 2009.
+Finalement, le traité entre en vigueur le 1er décembre 2009.
 
-B - Le contenu du traité de Lisbonne
+#### B) Le contenu du traité de Lisbonne
 
-idée est de conserver les principaxu acquis du TECE tout en abandonnant dans n esprit d'apaisement  certains points remis en cause. 
+L’idée est de conserver les principaux acquis du TECE tout en abandonnant, dans un esprit d'apaisement, certains points remis en cause.
 
-il s'agit des lors non plus de remplacer par un texte unique les traités existnatns, masi de les amander. reste donc en vigueur le traité de l'union europenne (TUE), ainsi que le traité instituant la communauté européenne (TCE), qui est cependant rebaptisé traité sur le fonctionnemetn de l'inion européenne (TFUE). Donc le TCE devient le TFUE.
+Il ne s'agit donc plus de remplacer les traités existants par un texte unique, mais de les amender. Ainsi, le **==traité sur l'Union européenne== (TUE)** reste en vigueur, de même que le **traité instituant la Communauté européenne (TCE)**, qui est toutefois rebaptisé **==traité sur le fonctionnement de l’Union européenne (==TFUE)**. Autrement dit, le TCE devient le TFUE.
+##### 1) Des changements majeurs par rapport au TECE
 
-1 - Des changements majeurs par rapport au TECE
+D'une part, tous les aspects constitutionnels qui conduiraient à comparer l'Union européenne à un État sont supprimés.
 
-d'une part, topus les aspects constitutionnels quii conduiraient à comparer l'union européenne à un état sont supprimés.
+Ainsi, le terme **"Constitution"**, ainsi que la référence aux **symboles de l’Union** (drapeau, hymne, devise), disparaissent et sont supprimés des traités.
 
-ainsi le terme constitution ainsi que la reference au symbole de l'union (drapeau, hymne, la devise) disparraissent, sont supprimés des traités.
+De même, les termes **"lois"** et **"lois-cadres"** sont abandonnés au profit des termes **"règlement"** et **"directive"**, qui sont maintenus.
 
-de même, termes de lois et de lois cadres sont abandonnés au profit des termes de reglemetn et de directive qui sotn maintneus. 
+En outre, il est seulement fait référence à la **Charte des droits fondamentaux de l’UE**, afin de lui conférer une valeur juridique, mais sans l’intégrer in extenso dans le traité. Il n’y a qu’un article affirmant que la Charte a valeur juridique.
 
-en outre, il est seulmetn fait référence à la charte des droits fondamentaux de lUE, afin de lui conferer valeur juridque mais sans la reprendre in extenso, la charte n'est pas non plus integrée dans le traité (y'a juste un article qui dit que la charte a valeur juridqi). 
+Le Royaume-Uni, la Pologne et la République tchèque sont exemptés de son application. Le **principe de primauté du droit de l’Union sur le droit interne et national** n’est plus réaffirmé dans le traité, à la demande du Royaume-Uni. Il fait simplement l’objet de la **déclaration n° 17**, annexée au traité, qui renvoie à la jurisprudence de la Cour de justice selon laquelle le droit de l’Union prime sur le droit national.
 
-le royaume uni, la pologne et la république tchèque sont exemptés de son application. Le principe d eprimauté du droit de l'union sur le dorit interne et droit national n'est plsu réaffirmé dnas le traité à la demande du royaume uni, il fait simplement l'ojbet d'une déclaration numéro 17, annéxée au traité, renvoyant à la jurisprudence de la Cour de Justice selon laquelle le droit de l'union prime sur le driit national.
+Le titre de **"ministre des Affaires étrangères de l’Union"**, prévu par la Constitution européenne, est remplacé par celui de **"Haut représentant pour les Affaires étrangères et la Politique de sécurité"**.
 
-le titre de ministre des affaires étrangères de l'union prévu par la constitutin européeene est remplacé par celui de haut représentant pour les affaires étrangeres et la politique de sécurité.
+D'autre part, quelques aménagements sont introduits dans le traité. La référence à la **"concurrence libre et non faussée"** disparaît de l’article sur les objectifs de l’Union, à la demande de la France.
 
-d'autre part, quelques aménagements sont introduits dans le traité. la référence a la concurrence libre et non faussée disparait de l'article sur les objectifs de l'union, a la demande de la france. 
+Néanmoins, le **principe de libre concurrence** est maintenu.
 
-néanmoins le principe d elibre concurrence est maintenu .
+En termes de nouveautés, un **protocole est consacré aux services d’intérêt général**, c’est-à-dire aux services publics, à la demande des Pays-Bas.
 
-en terme de nouevuaté, un protocole et consacré au service d'interet général, càd au service public, à la demande des pays-bas. 
+Enfin, il est prévu que les **critères d'adhésion d'un État à l'Union**, connus sous le nom de **critères de Copenhague**, soient désormais intégrés dans le traité. Auparavant, ces critères étaient pris en compte, mais ne figuraient pas dans les textes du traité.
 
-enfin il est prévu que les criteure d'adhesion d'un état a l'union, les critères de copenhague, soit pris en compte dans le traité. (avant pris en compte mais pas dans le traité).
+##### 2) La reprise des réformes du TECE
 
-2 - La reprise des réformes du TECE
-
-le traité de lisbonne reprend les principaux acquis matériels et insittutionnels de la constitution. 
+Le traité de Lisbonne reprend les principaux acquis matériels et institutionnels de la Constitution.
 
 - Sur le plan matériel
 
-l'union européenne remplace la communauté, le traité de lisbonne suprime les 3 piliers de maastricte (communauté européenne, politique agricole comune et 3eme).
+Sur le plan matériel, l’Union européenne remplace la Communauté européenne. Le traité de Lisbonne supprime les trois piliers du traité de Maastricht (**Communauté européenne, Politique étrangère et de sécurité commune, et coopération dans le domaine de la justice et des affaires intérieures**).
 
-la communauté europenne de n'energie atoqmique (euratom) disparait pas. Donc la communuatué européenne qui dispaiarit c'est la communauté européenne economique qui dispairait.
+La **Communauté européenne de l’énergie atomique (Euratom)** n’est pas supprimée. Ainsi, la **Communauté économique européenne** disparaît, tandis que l’Union européenne devient une entité juridique unique.
 
-en cosnequcne, l'ue est dotée de la personnalité jurique, qui va permetttre de ocnclure des traités. Et sa strucutre en pilliers est suppriméE.
+En conséquence, l’UE est dotée de la **personnalité juridique**, ce qui lui permet de conclure des traités. Sa structure en piliers est supprimée.
 
-toutefois, la politique étrangere de sécurité commune (PESC) conserve son caractrère intergouvernemental, et donc un régime juriiqaue spéciifque. 
+Toutefois, la **Politique étrangère et de sécurité commune (PESC)** conserve son **caractère intergouvernemental**, et reste soumise à un régime juridique spécifique.
 
-2eme reprise :
-la répartition des copetences entre 'union et les etats membres est clarifiée, le traité disitngue les competences ex lusives (celles de l'union), les ocmpétences partagées (entre union et les etats), ainsi que les competences d'appui, de cooerdination, ou de compément de l'union par rapport à ''action prioritaire des etats.
+La répartition des **compétences** entre l’Union et les États membres est clarifiée. Le traité distingue :
 
-3eme reprise : l'union acquiert de nouvelles comepences, dans le domaine de l'energie, du tourisme, elle voit aussi ses politiques existantes s'élargir. par exemple : au sport dans l'éducation, au changement lcimatique pour l'nevironnement, à la dimesion territoriale pour la politique de cohésion.
+- **Les compétences exclusives** (exercées uniquement par l’Union),
+- **Les compétences partagées** (exercées conjointement par l’Union et les États),
+- **Les compétences d’appui, de coordination ou de complément**, qui permettent à l’Union d’intervenir en soutien à l’action prioritaire des États.
 
-4eme reprise : la références culturel, religeuse et humaniste de l'uerope est maintenue dans le préamble du TUE.
+L’Union acquiert de **nouvelles compétences** dans les domaines de **l’énergie et du tourisme**. Elle voit également certaines de ses politiques existantes s’élargir, notamment en matière de **sport dans l’éducation, de changement climatique pour l’environnement et de dimension territoriale pour la politique de cohésion**.
+
+La **référence aux racines culturelles, religieuses et humanistes de l’Europe** est maintenue dans le préambule du TUE.
 
 - Sur le plan institutionnel
 
-2 types de reprises :
+Sur le plan institutionnel, deux types de reprises sont à noter : celles concernant les institutions elles-mêmes et celles concernant la démocratie au sein de l’Union.
 
-concernant les instuttions elle meme, et concernant la démocratie globale de l'union.
+Concernant les **institutions** :
 
-concenrant les isntitutions lele meme :
-- le traité d elisbonne érige le conseil eueirpéen (chefs d'états ou gouvenrement) en instition et lui confere une présidence stable de 2 ans et demi, renouvelable 1 fois, au lieu de 6 mois dans le TUE.
-- le traité de lisbonne prévoit de réduire en 2014 le nombre de comissaires européens au 2/3 du nombre d'états membres (déjà depuis traité de nice), tout en permettant au conseil européen de décider à l'unanimité de conserver 1 comissaire par état.(pour l'irlande). D'ailelurs, pour permettre la ratififcation du traité pa rles irldandias, le ocseil européen a pris une telle déciison en mai 2013. 
-- le conseil (ministre des etats membres) : le traité etend le champ du vote à la majroité qualifée qui est en principe égal à 55% des états, représentant au moins 65% de la population européenne. (ex malte et chipre).avantr le traité de lisbonne, y'avait la pondération des voies, abandonnée au profit du systeme de double majorité. ajd on dit qu'il faut au moins 4 états pour bloquer une déciison.
-- le parlement européen : le traité étend la procédure de co déicision (avec le consiel, il co-légifere), qui est dénommée symboliquement procédure legislative ordinaire (la procédure de droit commun).  a la demande de l'italie, le plafond des députés européens, EU passe de 750 à ?? députés européens.
-- la coru de justice est renommée cour de justice de l'union européenne. (plus cour de justice des communautés européennes). 
-- les prérogatives du haut representant sont renforcés, il est à la fois vice président la comission en charge des affaires etrange,res et il est présiden tdu conseil affaires étrangeres. 
+- Le **traité de Lisbonne érige le Conseil européen** (réunissant les chefs d’État ou de gouvernement) en **institution** et instaure une **présidence stable de deux ans et demi, renouvelable une fois**, au lieu de la présidence tournante de six mois prévue par le TUE.
+- Le **traité de Lisbonne prévoit, à partir de 2014, de réduire le nombre de commissaires européens aux deux tiers du nombre d’États membres** (disposition déjà prévue par le traité de Nice). Toutefois, le Conseil européen peut décider **à l’unanimité** de conserver **un commissaire par État** (notamment pour répondre aux demandes de l’Irlande). D’ailleurs, afin de faciliter la ratification du traité par les Irlandais, le Conseil européen a adopté une telle décision en mai 2013.
+- Concernant le **Conseil de l’Union européenne** (réunissant les ministres des États membres), le traité **étend le champ du vote à la majorité qualifiée**, qui correspond à **55 % des États membres**, représentant **au moins 65 % de la population européenne**. Avant le traité de Lisbonne, un système de **pondération des voix** était en vigueur, mais il a été abandonné au profit du **système de double majorité**. Désormais, **au moins quatre États** sont nécessaires pour bloquer une décision.
+- Le **Parlement européen** voit ses pouvoirs renforcés. Le traité **étend la procédure de codécision**, désormais appelée **procédure législative ordinaire**, qui devient la norme dans l’adoption des actes législatifs. À la demande de l’Italie, le plafond du nombre de **députés européens** passe de **750 à 751**.
+- La **Cour de justice des Communautés européennes** est renommée **Cour de justice de l’Union européenne (CJUE)**.
+- Les prérogatives du **Haut représentant pour les Affaires étrangères et la Politique de sécurité** sont renforcées. Il devient également **vice-président de la Commission européenne** et **préside le Conseil des Affaires étrangères**.
 
-concernant la démocratie de l'union, elle est renforcée à plusiuers égards. Le traité acroit le role des parlemetns nationaux, avec une période d'examen des propositiosn legislatives, passant de 6 à 8 semaines, et avec aussi l'possibilité pour la comisison soti de justifier ou de revoir ou retirer une déciion contestée par les parlemetns nationaux de subsidiarté. 
+Concernant la **démocratie au sein de l’Union**, plusieurs avancées sont introduites.
 
-le traité de lisbonen introduti le droit à l'initiative citoyenn qui permet à 1 million de citoyens européens représentant un nombre significiatif d'états membres  d'inviter la comission à soumettre au conseil une proposition.
+- Le traité **accroît le rôle des parlements nationaux** en allongeant la période d’examen des propositions législatives, qui passe de **six à huit semaines**. De plus, les parlements nationaux peuvent contester une proposition législative sur la base du **principe de subsidiarité**, obligeant la Commission à **justifier, modifier ou retirer** la mesure concernée.
+- Le **traité de Lisbonne introduit le droit d’initiative citoyenne**, qui permet à **un million de citoyens européens**, issus d’un nombre significatif d’États membres, d’inviter la Commission à soumettre une proposition législative au Conseil.
 
-si le traité de lisbonne s'paplique depuis le 1er septembre 2009 aux etats membres de l'ue, il ne s'applique à la croatie que depuis son adhésion le 1er juillet 2013. Ce traité de lisbonne ne sapplique plus au royaume uni depuis le brexit. 
-
+Bien que le traité de Lisbonne soit entré en vigueur le **1er décembre 2009** pour les États membres de l’UE, il ne s’applique à la **Croatie** que depuis son **adhésion le 1er juillet 2013**. Il ne s’applique plus au **Royaume-Uni** depuis le **Brexit**.

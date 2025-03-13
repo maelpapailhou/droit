@@ -269,7 +269,7 @@ $$Qf=10000e$$
 
 L'impôt sur le revenu est calculé en appliquant le **barème progressif** fixé à l'**==article 197 du CGI==**, modifié chaque année par la loi de finances.
 
-#### Barème (exemple en vigueur) :
+Barème (exemple en vigueur) :
 - **Jusqu'à 11 294€** → 0%
 - **De 11 294€ à 28 797€** → 11%
 - **De 28 797€ à 82 341€** → 30%

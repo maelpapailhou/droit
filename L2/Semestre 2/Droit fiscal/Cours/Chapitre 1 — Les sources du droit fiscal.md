@@ -288,12 +288,12 @@ Concrètement, si l’Administration constate une erreur ou une fraude dans la d
 
 B) L’interprétation d’une situation factuelle
 
-L’article L81-b prévoit le dispositif de rescrit fiscal. Concrètement, le contribuable peut demander à l’Administration fiscale de prendre une position expresse sur la base de faits qu’il lui expose. Autrement dit, l’Administration va devoir se prononcer sur des questions précises. Elle dispose de 3 mois pour répondre et sera liée par sa réponse.
+L’**==article L81-b==** prévoit le dispositif de rescrit fiscal. Concrètement, le contribuable peut demander à l’Administration fiscale de prendre une position expresse sur la base de faits qu’il lui expose. Autrement dit, l’Administration va devoir se prononcer sur des questions précises. Elle dispose de 3 mois pour répondre et sera liée par sa réponse.
 
 
 ## Section 2 : Les sources européennes et internationales
 
-En vertu de l’article 55 de la Cons, le traité prévaut sur la loi, même postérieure. Et en vertu de l’article 54 de la C, la Constitution prévaut sur les engagements internationaux. Le système fiscal français doit respecter les normes internationales et européennes qui lui sont supérieures. Cette limitation de la souveraineté fiscale par des sources européennes et internationales se matérialise sous plusieurs formes. On va évoquer les conventions fiscales internationales (P1), le droit de l’union (P2), et le droit de la CEDH (P3).
+En vertu de l’**==article 55 de la Constitution==**, le traité prévaut sur la loi, même postérieure. En vertu de l’**==article 54 de la Constitution==**, celle-ci prévaut sur les engagements internationaux. Le système fiscal français doit respecter les normes internationales et européennes qui lui sont supérieures. Cette limitation de la souveraineté fiscale par des sources européennes et internationales se matérialise sous plusieurs formes. Nous allons évoquer les conventions fiscales internationales (P1), le droit de l’Union (P2) et le droit de la CEDH (P3).
 
 ### Paragraphe 1 : Les conventions fiscales internationales
 

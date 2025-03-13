@@ -1,6 +1,8 @@
+```
 Monsieur Payet est fonctionnaire à l’Assemblée nationale, il est administrateur. En tant que tel, il est tenu au respect du règlement intérieur de cette institution. Or, ce règlement intérieur interdit de manger du rougail saucisse au sein de l’Assemblée nationale. Et Monsieur Payet en a fait les frais. Surpris en train de s’en délecter, il a été convoqué en section disciplinaire et a été mis à pied sans solde pendant une semaine. Quelle voie de recours lui est ouverte ?
 
 Vous identifierez le(s) acte(s) administratif(s) et déterminerez le(s) voie(s) de recours ouvertes, vous donnerez votre avis sur les chances de succès si un recours devait être ouvert. (4 points)
+```
 
 #### **Faits**
 

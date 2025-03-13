@@ -102,7 +102,7 @@ En somme, les expressions « auteur matériel » et « auteur intellectuel » so
 
 On peut regretter que le législateur ait choisi de créer ponctuellement des textes qui reconnaissent l’auteur intellectuel d’une infraction. Il aurait sans doute été plus intéressant d’envisager d’incriminer de manière générale les instigateurs en droit pénal. Le principe de légalité oblige que l’auteur intellectuel existe lorsque le Code pénal le vise expressément.
 
- ##### 1) L'auteur direct et indirect
+ #### B) L'auteur direct et indirect
 
 La distinction actuelle résulte de la ==**loi du 10 juillet 2000**==, qui a réformé les infractions d’imprudence.
 

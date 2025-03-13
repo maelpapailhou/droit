@@ -54,7 +54,6 @@ Elles incluent :
 - **L’état de nécessité** ;
 - **L’ordre de la loi et le commandement de l’autorité légitime**.
 
-
 ## Section 1 : Les causes subjectives d'irresponsabilité pénale (les causes de non imputabilité)
 
 Le terme **imputabilité** a une signification précise en droit pénal. Il désigne l'aptitude d'une personne à comprendre et à vouloir ses actes.
@@ -604,7 +603,7 @@ La ==loi du **24 janvier 2022**== a donc introduit **un nouvel article dans le C
 **Le nouvel article 122-1-1 du Code pénal**
 Ce texte prévoit que **l’==alinéa 1er de l’article 122-1 ==n’est pas applicable** si **l’abolition temporaire du discernement ou du contrôle des actes résulte de la consommation volontaire de substances psychoactives dans un but criminel.**
 
-> **L’alinéa 1er ne s’applique pas si l’abolition temporaire du discernement ou du contrôle des actes au moment de la commission d’un crime ou d’un délit résulte de ce que, dans un temps très voisin de l’action, la personne a volontairement consommé des substances psychoactives dans le dessein de commettre l’infraction ou une infraction de même nature ou d’en faciliter la commission.**
+> L’alinéa 1er ne s’applique pas si l’abolition temporaire du discernement ou du contrôle des actes au moment de la commission d’un crime ou d’un délit résulte de ce que, dans un temps très voisin de l’action, la personne a volontairement consommé des substances psychoactives dans le dessein de commettre l’infraction ou une infraction de même nature ou d’en faciliter la commission.
 
 Ainsi, **l’article 122-1-1 exclut l’irresponsabilité pénale** lorsque **l’abolition temporaire du discernement est causée par la consommation volontaire de substances psychoactives**.
 
@@ -641,8 +640,8 @@ Dans ce cas :
 - **Elle pourrait bénéficier de l’irresponsabilité pénale.**
 - **La responsabilité pénale repose alors sur celui qui a administré la substance.**
 
-La loi du **3 août 2018** a pris en compte cette situation avec **l’article 222-30-1 du Code pénal**.
-> **"Le fait d’administrer à une personne, à son insu, une substance de nature à altérer son discernement ou le contrôle de ses actes, afin de commettre à son égard un viol ou une agression sexuelle, est puni de 5 ans d’emprisonnement et de 75 000 euros d’amende."**
+**==La loi du 3 août 2018==** a pris en compte cette situation avec **l’==article 222-30-1 du Code pénal==**.
+> *"Le fait d’administrer à une personne, à son insu, une substance de nature à altérer son discernement ou le contrôle de ses actes, afin de commettre à son égard un viol ou une agression sexuelle, est puni de 5 ans d’emprisonnement et de 75 000 euros d’amende."*
 
 Si **une substance est administrée dans un but criminel**, **même si l’infraction ne se réalise pas**, cela **reste un délit**.
 
@@ -678,107 +677,118 @@ La personne peut alors être placée dans un service spécialisé de l’adminis
 
 ##### 2) Les effets de la mise en œuvre de l’article 122-1 alinéa 1er du Code pénal
 
+Avant la **==loi du 25 février 2008==**, lorsque l'existence d'un trouble mental répondant aux conditions de l'**==alinéa 1 de l'article 122-1==** était établie, le juge pénal devait prononcer une relaxe ou un acquittement au stade du jugement.
 
-avnat la loi du 25 février 2008, lorsque l'existence d'un trouble mental répondant aux conditiosn de aliéna 1 de articel 122-1 était étalbi, le juge pénal devait prononcer une relaxe ou un acuqittement au stade du jugement. 
+La déclaration d'irresponsabilité pénale pour cause de trouble mental produisait deux autres effets : un au civil et un au plan administratif.
 
-la déclarationd i'rresposnabilité pénale pour acuse de troubel metnaux produisait 2 autres effets : un au civil et un au plan administratif.
+- **Au plan civil**, il y avait maintien de la responsabilité civile.
+- **Au plan administratif**, la conséquence était l'hospitalisation de l'agent.
 
-au plan civil, il y avait maintient d ela reposnablité ciivel. au plan administratif, la conséauence était l'hosputalsuation del'agent.
+L'irresponsabilité pénale de l'agent pour cause de trouble mental entraînait le dessaisissement du juge pénal, non seulement au plan civil, mais aussi au plan administratif.
 
-l'irresponsabilité pénale de l'agent pour cause de troubel mental entrainait le déaissismenet du juge pénal, non suelement au plan civil, et ça entrainait son dessaisismenet au plan admonistratif. 
+En revanche, le juge pénal ne pouvait pas prononcer une mesure d'hospitalisation ou d'internement de l'agent, seule l'autorité administrative étant compétente en la matière.
 
-en revanche le juge penal ne povuaot pas prononcer une mesure d'hospilatiosaon ou d'internemetn de l'agent, seule l'autorité admoinistrative était compétente en la matiere.
+Cette solution ancienne s'était révélée inadaptée. Un individu pénalement irresponsable pour cause de trouble mental (alinéa 1 : abolition totale du discernement) pouvait se retrouver en liberté sans mesure de sûreté.
 
-cette solution ancienne s'était révélée inadaptée. Un individu pénalement irresposanble pour cause de trouble mentaux (alinéa 1 : qu abolot totu le discernemet), povuait se retrouver dans la nature.
+Avant **==la loi du 27 juin 1990==**, les praticiens avaient trouvé une parade. Le juge pénal, lorsqu'il était sur le point de rendre une ordonnance de non-lieu, de prononcer une relaxe ou un acquittement, prévenait officieusement l'autorité administrative afin qu'elle prépare un arrêté d'internement en hôpital psychiatrique.
 
-avant la loi du 27 juin 1990, la pratique, les praticiens avianet trouvé une parade. le jug epénal lorsquil était sur le point de rendre une ordonnance de non lieu, ou de prononcer une relaxe ou un acquittement, il préevnait officieusement l'autorité admonistrative pour qu'elle préprae un arrêté d'internemetn en hopital psychatrique
+La **==loi du 27 juin 1990==** a consacré cette pratique à l'**==article L3213-7 du Code de la santé publique==**. Cette solution était toutefois critiquée pour deux motifs :
 
-la loi du 27 juin 1990 avait donc consacré cette pratqieu a artgicle L3213-7 du code de lasané publqieu. cette solution était toutefois critiquée poru 2 motifs
-1. en pricniep l'autorité judicaire est gardienne des libertés individuellesq. docn on considere qu'il deviat lui revenir de se prpnoncer sur l'eventuelle hospitalisation psychatrique du'n individu. (c'est une forme de privation de liberté
-2. le placement des malades mendtaux n'était certes pas une peine au sens d'une sanciton pénale classique mais cela peut parfaitement être qualifié de mesure de sureté. 
+1. **En principe, l'autorité judiciaire est la gardienne des libertés individuelles**, or il semblait logique qu’elle se prononce sur l’éventuelle hospitalisation psychiatrique d’un individu (puisqu’il s’agit d’une forme de privation de liberté).
+2. **Le placement des malades mentaux n’était certes pas une peine au sens d’une sanction pénale classique**, mais il pouvait parfaitement être qualifié de mesure de sûreté.
 
+- **Après la loi du 25 février 2008**
 
-apres la loi du 25 fevrier 2008 : cette loi a permis l'instauration d'une nouvelle procédure de déclaration d'irresposanbiltié pénale pour cause de trouble mental. en clair, y'a plus de non liue pour caus ed etrouble mental. donc on va jusqu'au proces
+Cette loi a instauré une nouvelle procédure de déclaration d'irresponsabilité pénale pour cause de trouble mental. Désormais, il n'y a plus de non-lieu pour cause de trouble mental : l'affaire va jusqu'au procès.
 
-inconveniatn de réforme : elle contribue à l'encombremetn des juridciton. mais elle donnera aussi l'occasion de juger les novueaux délits d'intoxication. 
+**Inconvénient de la réforme** : elle contribue à l’encombrement des juridictions, mais elle permet aussi de juger les nouveaux délits liés à l’intoxication.
 
-avantages de la novuelle procédure :
-1. symboliquemetn le proces est important pour les familles des victime. 
-2. concretement l'autorité judiciaire apres s'etre prononcé sur la réalité des faits, et apres avir acté al cause d enon imputabilité de troubles, elle peut parfaitement prononcer les mesures de sureté nécessitée par l'état de santé de l'auteuru avec inscription sur le casier judiciare de l'interessé. 
+**Avantages de la nouvelle procédure** :
 
+- **Symboliquement, le procès est important pour les familles des victimes**.
+- **Concrètement, l'autorité judiciaire**, après s'être prononcée sur la réalité des faits et après avoir acté la cause de non-imputabilité des troubles, peut parfaitement prononcer les mesures de sûreté nécessaires à l'état de santé de l'auteur, avec inscription sur le casier judiciaire de l'intéressé.
 
-adans les mesures de sureté (loi 2008), le juge pénal n'est plus désaisi, il eptu décider l'hispitalion d'office apres avoir déclaré l'irresponsaiblité pénael sans passer par le juge administratif (articel 706-135 ducode de procédure pénale).
+- **Les mesures de sûreté prévues par la loi de 2008**
 
-autre mesure de sureté envisageable : interidcton de porter une arme, interdiciton de paraitre dans certains lieux, ou encore l'interdiciton d'entrer en contact avec certaines victiems.
+Le juge pénal **n'est plus dessaisi** : il peut décider l’hospitalisation d’office après avoir déclaré l’irresponsabilité pénale, sans passer par le juge administratif (**article 706-135 du Code de procédure pénale**).
 
-le cosneil constituonnel a été saisi de la loi du 28 féveier 2008, a été saisi a priori donc décison DC du 21 février 2008. il a admis la onstitutionnalité de l'inscription au casier judiciaire de l'interesséde toutes ses mesures de sureté.
+D'autres mesures de sûreté peuvent être prononcées :
+- **Interdiction de porter une arme**
+- **Interdiction de paraître dans certains lieux**
+- **Interdiction d’entrer en contact avec certaines victimes**
+
+Le **Conseil constitutionnel** a été saisi de la loi du 25 février 2008 et s'est prononcé a priori dans la décision **DC du 21 février 2008**. Il a admis la **constitutionnalité de l'inscription au casier judiciaire de l'intéressé de toutes ces mesures de sûreté**.
 
 #### B) Les troubles mentaux entraînant une "atténuation de responsabilité pénale" (al 2)
 
-attention au terme : on est pas un peu respoosnable, on l'est ou pas. C'est juste une atténauion de la peine.
+Attention au terme : on n'est pas "un peu" responsable, on l'est ou on ne l'est pas. Il s'agit simplement d'une atténuation de la peine.
 
 ##### 1) Les conditions de mise en œuvre de l’article 122-1 alinéa 2 du Code pénal
 
-le trouble metnal qui justifie une adaptation judicaire de la peine encourue est celui qui altere le dsicernement ou entrave le controle des acte. 
+Le trouble mental qui justifie une adaptation judiciaire de la peine encourue est celui qui altère le discernement ou entrave le contrôle des actes.
 
-cetrouble doir exister au moment de faits. L'état mental de l'agent se situe entre la pleine liciité eet l'aliéantion. peu importe la ,atiure du trouble et peut importe son origien, sosi resere de l'artciel 122-1-2 (deuxieme ajout dela loi Du 24 janver 2022 post sarah halni)
+Ce trouble doit exister au moment des faits. L'état mental de l'agent se situe entre la pleine lucidité et l'aliénation. Peu importe la nature du trouble et peu importe son origine, sauf réserve de l’**article 122-1 alinéa 2** (ajouté par la **==loi du 24 janvier 2022==**, post-affaire Sarah Halimi).
 
-prévoit que la diminuton de peine prévu au second alinéa de articel 122-1 n'est pas applicalbe en cas d'altéreation temporaire du discernement de la personne ou du controel de ses actes au moment de la comission d'un crime ou d'un délit lorsque cette altération résulte d'une consomation volontaire de façon illicite ou manifstement excessive.
+Cet article prévoit que la diminution de peine prévue au second alinéa de l’**==article 122-1==** n’est pas applicable en cas d’altération temporaire du discernement de la personne ou du contrôle de ses actes au moment de la commission d’un crime ou d’un délit lorsque cette altération résulte d’une consommation volontaire, de façon illicite ou manifestement excessive, de substances psychoactives.
 
-ce qui est détermiantn pour le juge dans le cadre de l'alinéa 2, ce sont les effets du troubel (pas la natur eou l'origine).
+Ce qui est déterminant pour le juge dans le cadre de l’alinéa 2, ce sont les **effets du trouble** et non sa nature ou son origine.
 
-il va y avoir un role déterminant de l'expertise psychatrique. Le jug epénal reste souverain, c lui qui va décider. la missiond e juger ne se delegue pas. mais cependna tsi on solicite une expertise c bien pour avoir une opinion, un avis.
+Il y aura donc un rôle déterminant de l’expertise psychiatrique. Le juge pénal reste souverain, c'est lui qui va décider. La mission de juger ne se délègue pas. Toutefois, si une expertise est sollicitée, c’est bien pour obtenir une opinion et un avis éclairé.
 
-par le passé, les experts ont parfois eu une tendance à raisonner en focniton des chacnes de réussite d'un traitement psychatrqiue.
+Par le passé, les experts ont parfois eu tendance à raisonner en fonction des chances de réussite d’un traitement psychiatrique.
 
-le trouble qui altere doit evidemment etre concomittant de l'infraction, et iansi si l'agent a vriametn des grands problemes masia agit dans un intervalle de lucidité, ni l'alinéa 1 ni l'aniéa 2 ne doivent s'appliquer.
+Le trouble qui altère doit évidemment être **concomitant** de l’infraction. Ainsi, si l’agent présente de graves troubles mentaux mais agit dans un **intervalle de lucidité**, ni l’alinéa 1 ni l’alinéa 2 ne doivent s’appliquer.
 
-en matiere de trouble spécialisé, il faut verifier que l'infraction commise a un rapport avec le troubel. n'est notamment le cas pour la persecution, la cleprtomane, et aussi de lajursprudenc eusr la pyronamanie.
+En matière de troubles spécialisés, il faut vérifier que l’infraction commise a un lien avec le trouble. Ce n’est notamment pas le cas pour la persécution, la kleptomanie, et certaines jurisprudences sur la pyromanie.
 
 ##### 2) Les effets de la mise en œuvre de l’article 122-1 alinéa 2 du Code pénal
 
-y'a ici eu plusiuers versions successives du texte. Y'avait avant le code de 1994, puis version du code pénal de 1994, et comme cette versioné tati pas optilabe, on a du de novuea intervenur le 15 aotu 2014. 
+Il y a eu plusieurs versions successives du texte. Avant le Code pénal de 1994, puis dans sa version initiale, et enfin avec la réforme du 15 août 2014, qui est intervenue pour corriger certaines lacunes du texte précédent.
 
-avant le code pénal de 1994, l'individu ayant souffert de trouble n'ayant qu'altéré saon discenmetn povuiat voir sa reposnabilité penale atténue. C'est ce que recommandait la circulaire chomier de 1905, ce n'était dojc aps une obligaiton pour le juge, il accordai tou non des circonsrtnaceas atténuatnes suivant la dangerosité de l'agent. 
+Avant le Code pénal de 1994, un individu ayant souffert d’un trouble n’ayant qu’altéré son discernement pouvait voir sa responsabilité pénale atténuée. C’est ce que recommandait la **circulaire Chomier de 1905**. Toutefois, cette atténuation n’était pas une obligation pour le juge, qui accordait ou non des circonstances atténuantes en fonction de la dangerosité de l’agent.
 
-a partir du code pénal de 1994, le systeme instauré était différent. l'article 122-1 alinéa 2 version 94 disposait que la personen demeure punissable masi toutefois la juridiction de jugement tiens compte de cette circonstance (l'exixstence du trouble) losqu'lel edétermine la peine et en fixe le régime. 
+À partir du Code pénal de 1994, le système instauré était différent. L’article 122-1 alinéa 2, dans sa version de 1994, disposait que la personne demeure punissable, mais que la juridiction de jugement **tient compte de cette circonstance (l’existence du trouble) lorsqu’elle détermine la peine et en fixe le régime**.
 
-certains otn alors prétendu que la réforme de 1994 avait consacré le système antérieur, càd l'invitation de la circulaire cjomeir. 
+Certains ont alors prétendu que la réforme de 1994 avait consacré le système antérieur, c’est-à-dire **l’invitation de la circulaire Chomier**.
 
-en fait c plus compliqéu, pusqiue a aucun molent dans la version 1994 il n'était questiond 'atténuation dela reposnabiliét. le juge devait, "l'indicatefiv valant impérait fen droit" adapter la peine encorue à son régime, et c'est ce qui change fondamentalemetn. 
+En réalité, la situation était plus complexe. À aucun moment, dans la version de 1994, il n’était question d’**atténuation de la responsabilité**. Le juge devait impérativement adapter la peine encourue et son régime, ce qui marque une différence fondamentale.
 
-lorsque le juge voulait, version 1994, attenuer la peine encourue par l'agent, sa marche de manoeuvre était assez large. on a fait sauté les minima de peine. 
+Lorsqu’un juge, sous la version de 1994, souhaitait atténuer la peine encourue par l’agent, sa marge de manœuvre était assez large. On avait supprimé les minima de peine.
 
-en revanche lorsque le juge ovulati aggraver la eine? ou son régime, quelles étiant ici le soptiosn possibles?
+En revanche, si le juge voulait **aggraver la peine** ou son régime, quelles étaient les options possibles ?
 
-le jug epénal est tenu par un maximum, et  on imagine assez mal un juge qui aggrave la peone dans une hypothese d'un agent qui a un discernemetn altéré. 
+Le juge pénal étant tenu par un **maximum de peine**, on imagine mal une situation où il pourrait **aggraver la peine** pour un agent dont le discernement est altéré.
 
-c'est sr le régime de l a peien que le juge pouvait intervenir et donc c le regime qui'l peut aggraver.
+C’est donc sur **le régime de la peine** que le juge pouvait intervenir et l’aggraver.
 
-on a deux mesures qui ont vu le jour succesivemetn dans des hypotehses où victimes très jeunes mineures, qui aviane tété donc torturées et/ou tuées apres avoir été violées. 
+Deux mesures successives ont été introduites dans des hypothèses où les victimes étaient **très jeunes, mineures**, et avaient été torturées et/ou tuées après avoir été violées.
 
-la prmeier ede ces affaires a donné lieu à la loi du 1er fevrier 1994, on a créé avec cette loi la periode de sureté perpetuelle. al periode de sureté est une période pendan tlaquelle un détenu condamné ne peut bénéfiicer d'auucne mesure de faveur. 
+La première de ces affaires a donné lieu à la **loi du 1er février 1994**, qui a créé la **période de sûreté perpétuelle**.
 
+La **période de sûreté** correspond à une durée pendant laquelle un détenu condamné **ne peut bénéficier d’aucune mesure de faveur** (libération conditionnelle, réduction de peine, etc.).
 
-classiuqement la eriode de sureté ne couvre pas la totalité de la peine. Ici la periode de sureté pourra couvrir al totalité de la peine. 
+Classiquement, la période de sûreté ne couvre pas la totalité de la peine. Ici, **elle peut couvrir l’intégralité de la peine**.
 
-quand la peine prononcée est une réclusion criinelle a perpetuité, ona une vria perpertuité.
+Lorsque la peine prononcée est une **réclusion criminelle à perpétuité**, on a alors une véritable **perpétuité réelle**.
 
-cette periode de sureté perpetuelle, le legislateur des 1994 prévu qu'elle peut s'executer dans un établissemtn pénitentiaire permettant d'assurer le suivi médical et psychologique adapté à l'auteur des faits. c'est ce que prévoit articel 718 al 2 du code de procuédre pénale.
+Dès 1994, le législateur a prévu que cette période de sûreté **peut s’exécuter dans un établissement pénitentiaire permettant d’assurer un suivi médical et psychologique adapté à l’auteur des faits**. C’est ce que prévoit **l’article 718 alinéa 2 du Code de procédure pénale**.
 
-le legislateur reconnati existence d'un trouble mental chez auteur, ar on permet dexecuter la peine aileurs que dan sun etab penitenraiire classique, mais on lui applique une peine plus severe qu'un indiivdu labmda.
+Le législateur **reconnaît ainsi l’existence d’un trouble mental chez l’auteur**, car il permet **d’exécuter la peine ailleurs** que dans un établissement pénitentiaire classique. Toutefois, **il lui applique une peine plus sévère** qu’à un individu lambda.
 
-deixueme mesure : issue de la loi du 17 juin 1998, dans les meme conditions d'asssaiat de meinerues. Elle a créé qq chose qui existe encore : le suivi socio-judiciare.
+La deuxième mesure est issue de la **loi du 17 juin 1998**, dans des affaires similaires d’assassinats de mineurs. Cette loi a créé un dispositif qui existe encore aujourd’hui : le **suivi socio-judiciaire**.
 
-le suivi socio judiciare : enjeu est une oblitaoton de suivre un traitement médical pendantune duée qui va etre controlé par la juridiction, et à qui on va orodnne rune obligaitron supplémentaire de soin.
+Le **suivi socio-judiciaire** implique une **obligation de suivre un traitement médical** pendant une durée contrôlée par la juridiction, avec une **obligation supplémentaire de soins**.
 
-es chose sont été clariifé avecloi du 15 aout 2014 : modification de l'alinéa 2, désormaos l'altératoion du discernement, sauf dérogation exceptionele pour les délits. 
+Les choses ont ensuite été clarifiées avec la **loi du 15 août 2014**, qui a modifié l’alinéa 2. Désormais, **l’altération du discernement entraîne automatiquement une réduction du quantum de la peine**, sauf **dérogation exceptionnelle pour les délits**.
 
-le quantum doit donc etre adapté : la réduction est d'1/3 lorsquu'ne peine à  temps est prévue pour l'infraction. La réduction se fait à 30 ans si une réclusion criminelle a perpétuité étiat encouure. 
+Le **quantum doit donc être adapté** :
 
-ca ne signifie pas que la perpetuité relle avec une periode de sureté pertuelle, ou suivi socio-judiciare, n'est plus possible, mais c'est en plsu.
+- La réduction est **d’un tiers** lorsqu’une **peine à temps** est prévue pour l’infraction.
+- La réduction se fait à **30 ans de réclusion** si une **réclusion criminelle à perpétuité** était encourue.
 
-il faudra clarifier avec l'utilisation de la jursirpoduene de l amotivation exceptionelle en matiere de délit pour ne pas réduire le quantum des peines.
+Cela **ne signifie pas** que la **perpétuité réelle avec une période de sûreté perpétuelle ou le suivi socio-judiciaire ne sont plus possibles**. Ces mesures peuvent toujours être **ajoutées**.
+
+Il faudra cependant clarifier l'utilisation de la **jurisprudence sur la motivation exceptionnelle** en matière de délits pour **ne pas réduire automatiquement le quantum des peines**.
 
 ### Paragraphe 4 : La minorité
 
@@ -857,3 +867,217 @@ Outre le **principe éducatif**, l’ordonnance de 1945 posait un **deuxième pr
 
 3. **Mineurs de plus de 16 ans**
     - Même régime que pour les 13-16 ans, **mais l’excuse de minorité pouvait exceptionnellement être écartée**.
+
+
+
+---
+c'est la loi ou le juge qui permet de jistifier la coutume. article 521-1 du code pénal, qui précise que les "séviced graves et actes de cruauté envers les animaux sont incriminés mais sous réserve des tradiitons locales inintérropues", donc sous réserve de la coutume lovale.
+
+c ainsi qu'on peut avoir des hypoitgèses de justification d'acte de cruauté envers les animaiux, justifier en vertu d'une coutume, d'une tradition locale, ex la corrida, ou les combats de coq.
+
+hypothèse 2 où la jursproudence peut reocnnaitre valeur justiifcativeà l aocuutme
+
+exemple histoirqiue : ce qu'on a longtemps appelé le "droit de correction".
+
+corriger un enfant constitue un acte de violence volontaire. pourtant ce dreoit a pu être reconnu par la coutume consacrée par la jurisprudence au bénéfice des parents titularies de l'autorité parentlae et même parfois au bé,néfice des enseignants à qui on considérait historiquemtnq ue les parents aviaent délégués. l'aurotiré panrentale.
+
+meme lorsqu'on a admis en jurisprudece le droit de correction, ce droi coutumier 'na jamasi pujustifier toutes les vioolekcens. DOnc 'était très cadré.
+
+notemmetn 3 critères forts qui'l fallait vériifer : 
+1. le droit de correcton était exercé dans l'itneret de l'enfnat, càd dans un bug éducatif
+2. il fallati que ce dorit s'exerce en respectant une certaine mesure, càd ne pas porter atteinte à sa santé.
+3. le drit de correctiond evait s'exercer  avec la dignité de l'enfant
+
+exemples de violecnes justifiées :
+- jugemetn du tribunald e police de bordeaux du 18 mars 1981 il s'agissait du'n ecolier ha bituellemetn turbulent qui refuse d'obieri aux ordres d el'instituttrice e tse comporte de manere insolente. institutrice lui donne une gifle. elle est relaxée, on note que le comportmetne de l'enfnat justifiait une répliqeu de l'institutrice. la réplioqeu de l'institutriece n'a pas constitué une réponse excessive (pas eu de ITT, de réponse excessive, d'attient eà la santé de l'enfant).
+
+non jstuifié : un homme gifle violemmetn 'lenfant de sa concubine, agé de 6 ans, et liui plonge la tete dans la cuvette des toilette et tire lachasse d'eau.  contraire àla dignité de enfant ch criminelel 21 juilet 1990. 
+
+ajd questionse pos eplus ca rloi du 10 juillet 2019 relative à l'interidicotn des violences éducatives ordinaires a interdit le "droit de correction". 
+
+pour le dviolence sportives : c'est la tolérence des vilences sportives. Box catch rugbu n se tape dessus. Ce sont de sivolekc,es volontaires qui sont commises. c'est me cadre de la pratique sportive qui exiuve, justifie les violecnes qui sont perpetrées de part et dautres.
+
+C ppiur ça que l'impunité, la juiicaiton en joeu que dans le cadre de srègle sud jeu. si on depassse une pourusite péale redevient possible. ex on tape apres fin de partie, c hors cadre.
+
+2eme questionq ui c posée apres la outume : la questiond. consnetment e de la victime
+
+
+sovent invoquée devant el juge.  Le consentment de la vicitme ne permet pas de constituer unf ait justiifcatif. Le proces pénal c pas le proces de la victime contre auteur des faits, c le proces du minsitere public contre l'auteur des fiats.
+
+le fait que la vicitme ne porte pas plainte, le fait meme que la vicitmel ai consenti à l'infraciton et par principe aprfaitement indifférente. 
+
+commetne expliquer que dans certians cas ca explique la relaxe? en rélaité le ocnsenemtn de la vicitme n'est pas un fait justificaitf, il ne fait pas disparaitre l'infraction. ex viol la définition emme du viol il faut que les actes soient imposé par la vicitme par violenece contrainte menace ou surprise. Si victime ocnsnet à lreation exeutlel,e aors c pas un viol.  consentemtn c pas un fait justificatif mais elemetn constituif.
+
+pariel pour le vol, si personen nous donne l achose, elle consent, on petu pas voler qq chose qu'on nous donne.
+
+3°) La nature de la norme justificative
+
+on pourrait penser à priori que seule un ordre ou une autorisation de la loi pénale peut justifier une infraction pénale. 
+
+cette approche est errronnée. Elle laisse à penser que le legislatuer est plusriel, alors que non, ya que un parlement. un seul legislatuer. 
+
+et donc une norme meme non pénale, ex ciivle, commerical,e peut venir justiifer une infraction pénale.  en fait l ne faut pas rausoner en terme de norme pénale ou norme extra-pénale. il faut raisoner en terme d enprme generlae t de norme spéciale. est ceuu'n noemr spéical eivent déroger à l'infraciton pénale qui serait la norme générale??
+
+avna tla jurpsirnde ce del achambre cirnminelle du 11 juin 1992. Vont considerer que le devori conjugal prévu a arilc e215 ducode ciivl justifiat un viol entre époux. 
+
+
+
+#### B) Les conditions de la justification par l’art 122-4 du Code pénal
+
+il existe 2 types d'ordre et de permision de la loi :
+aliéna 1er l'ordre ou la permisison de la loi directement executable
+alinéa 2 : l'ordr eou lapersmiison dont l'exeucitone st subordonéeesà un commandemetn d el'autrotié légitime.
+
+##### 1) l'ordre ou la permission directment exeutable
+
+dans ce cas, s'agissant des conditons de la justification, 122-4 alinéa 1er ne dit rien. en réalitéi il faut se refererr, il fau aller voir la norme justificative elle-même. Et c elel qui va poser les conditions de la justification. 
+
+ex article 73 du code de procédure pénale : hytpohèse du crime ou du délit flagrant, on va interpeller la personnepour l'memenr devant OPJ la plus proche. Mais poste 4 conditonsà la justification d el'oinfraciton commise par l'agent. 
+
+2 qualfiications pnélaes evodentes : violences volontaires, sequestration arbitraire. 
+
+
+1. d'abord il faut une incation flagrante. 
+2. deuxiemement fait une infraction qui soi tun crime ou un délit passible d'meprisonnement
+3. le sel but c la conduite de ce dernier devant un OPJ
+4. la ocnduite devant OPJ doit se faire sans retard, sans délais (le texte vise l'OPJ le plus proche).
+
+des lors quqo'nquitte le cadre des 4 conditions des poursuoites pénales sont parafitement pssiboe à notre endroit.
+
+
+ceratins autuers se demadnent donc quel es tl'utilisé de 122-4 alinéa 1 appart annoncer des textes ponctuels justificatifs.
+
+en la matirèe, des diffiuclés peuvent se présenter en cas de discordance entre l'acte accomplis et l'acte autorisé par la norme justificative.
+
+si l'acte coincide, la justification joue. dans les hytpoih!se sd ediscordance, si elle est otalae, l'aacte accomplis n'a rien à voir. 
+
+si discordance est partiele, une parite des actes sera jusitifé, et ce qui pour le surpulus on peut avoir un engagement de resonsabilité. Une exigence fodaemntale en matiere de fait justiifatic : on eixge que le comprotemtn de l'agent soit proportionnée.
+
+question éganelemtn posée de l'ordre ou la permission de la loi putative. (putare en latin : croire, penser). C une persmisson de la loi qui n'a existé que dans l'esprit de l'agent, on admet que l'agent puisse se prévaloir d'un ordre de la looi putatif si il est de bonne foie et que sa croyance erronée était légitime.
+
+exemple : un policier neutralise un individu armé qui tentait de voler une voiture. Il va tenter de se prévalliir de l'aritlce 73. 
+
+un autre indiviud s'approche. Le poliicer croit qu'il s'agit d'un complice lui aussi armé, alors qu'en fait il s'agisait d'un simple quidame qui passait par là. 
+
+le policer va frapper et neutraliser le quidam. La vcitme innocente va porter plainte pour ivolence volontaire. Les juges vont relaxer le prévenu, le policer, sur le fondemetn de article 73  en soulignant qu'il acommmis ici une erreur, il a de bonen foie cru que c'était un complice du voleur qui lui tombiat dessus.
+
+
+
+1) question dont l'orere est subordonné à un commadnemetn de l'auorité légitim (hypothsede aliéna 2)
+
+
+
+cet aliéna 2 de 122-4 la jutiifaiton de inffarction commise va dépendre de 2 séries de ocnditins.
+1. les conditons gneerale squis otn posés à 122-4 alinéa 2
+2. conitons partiucleires posées par la norme ksitificative aploicable.
+
+exigence de 122-4 al 2 pose 2 ocniirons à la justiifationde la justifitoan de l'ifnratin et une troiseme condition qui n'est pas expressmetn prévue masi eviente, déocule de la concordanc ed ela prpopritonalité.
+
+1ere condition  concerne l'origine du commandement. ce commandement doit emaner duen autorité légitime càd d'une autorité publique, une auturoitré ocmpétente, et une autorité frnaçaise.
+
+là dessus y'a un exemple jurisprudentiel qui a crusé cette queston e autorité légiitme : hypothese des ordres emanant du gouvernemetnde vichy peuvent etre justifiactifs, econexatires de repsosnabilté pénale. 
+
+non, le gouiv de vichy petu pas e^tre cosiéré comme légiitme, car orodnnace de 1944 prise à la libération l'a déclaré comme étant une "autorité de fait non légitime".
+
+autorité légitme était la résistnace constituée à lodnres. et donc de fait ça a empêhcer le jeu de l'ordre de la loi et du commadnemetn autorité légiite comme fait justiifacatif des actes accomplis par les focntionnaires de ce gouvenremet,; 
+
+une autre ordonnance est intervenue ensuite pour préciser que ce qui n'avait fait qu'executer les ordre sug voeurnemetn de vichy sans prendre aucune initiative personnelle ne pouvait aps être inquiété. 
+
+à la faveur de l'affaire papon, tranchée ar la ch crinmiel 23 janver 1997, maurice papon avait tenté de justifier els actes qu'il avait acocmplsisur le fondemetn de l'aurotiré légitiMe. acte reproché : crimes contr ehumanté. 
+
+on a posé un principe qui selon lequel certains actes odnt les crimes conter humanité ne peuvent pas être justifié.
+
+deuxieme cpndition préuveà 122-4 : c'es tla légaltié du comandement 
+
+pour etre justiifciatif le commadnemetn adresséà l'agentdoit être ocnforme à l'ordre de laloi. Le commandement doit donc être légal.
+
+lorsquel ele commadnement est illégal? 
+
+probleme prévu article 122-4 alinéa 2nd. Le texte apporte une réponse nuancéeà cette question. "n'sdt pas pénalmetn repsonsable la persnneq ui accomplis un acte commandé par l'autirotéi légiitme", sauf si cet acte est manifestmeent illégal. 
+le legislateur a mis enplace un systme eparticueir. 3 positosn envisageables. 
+
+1. systeme 1 dit de obeissane passive. dans ce système la discipline doit l'emporter sur la légalité. Que acte soit légal ou pas c pas graven on obiet aux ordres du superieur. en clair, le usbordonné à qui on donne des ordres n'a pas à s'interroger sur la glégalité du commadnemetn qu'on lui donne. ila un deovir d'obeissance absolu. SI en obeissant au commandement ilcommet une infraction, celle ci sera justfiée. cette prmeier théorie est dangereuse, car ca permet de justifeir toutes les exactions. 
+2. théorie dite des baillonettes intelligentes. Ici le subordonné doit s'interroger sur la légaltié des commadnements qui lui sont adressés. la légalité k'emporte usr ladiscipline. il a le droit et meme le devoir de refuse run ordre illégal, piur pas engager sa responsaiblité. Peut paraitre bien mais dans certaisn corps d emetier comem armée cc ompliqué. il faut uq ela idscipolien l'emporte 
+3. théorie dite de l'illégaltié manifeste : lsysteme interpediare pemre td'eviter les exces. Egallemetn celle retenur pa rle code penal. COncenr eles actes manifestements illégals.
+
+
+qu'estce) qu'un acte manifestmenet illégal? jusurpidence ocnisdere que c unq equestion de fait laissée à appréciaitonsovueraine des juges du fond mais clairement les juges doivent envisager 
+.
+
+jige doitenvisager 2 hcoses : gravité intrinseque et extrasecte de l'acte.
+
+lorsque acte est inhumain, intrasequement y'a une innhumanit. Ex le viol, ou crime contre humanité, ou torture eta ctes inuumains et dégradants. 
+
+gravité extrinseque : hypothese où vous demandez à votre subordoné de violer ces devors profesionels elementaires. Ex maire qui demande de fair edes déclassmets de terriain.
+
+quel va etre le sors de auteur du commandement illégal? si lecommadnemetn donné est manifestment illégal, l'infraciton n'est pas justiifée.  auture et lesbuorodnén et le sipereri est ocmplice de l'infraction
+si le commadnemetn donné est oillégal mais pas manifesmtenet, le sipérieur hiérarhciuqe ne peut âs etre inquioété au plan pénal, parce que si le subordonné bénéfiice d'un fait justificaitf il n'y a donc pas de fait punissable.
+
+condition 3qui s'ajout : il faut une necessaire concordance entre acte commandé et acte accomplis. `
+
+### Paragraphe 2 : La légitime défense
+
+C’est la plus célèbre cause d’irresponsabilité pénale. Il s’agit d’une cause **universelle**, existant dans toutes les sociétés. Cependant, elle a souvent **mauvaise presse**, car elle est associée à une forme de **justice privée**.
+
+Or, le **monopole de la justice** appartient à l’État, ce qui explique que la légitime défense ne soit admise **que de manière exceptionnelle**.
+
+La légitime défense permet **l’impunité de l’agent** qui commet une infraction pour **repousser une agression** menaçant **lui-même, un tiers ou un bien**.
+
+Il s’agit d’un **fait justificatif**, ce qui signifie qu’il **neutralise l’élément légal de l’infraction**. L’agent qui se défend agit souvent **par réflexe**.
+
+Attention à ne pas **confondre légitime défense et contrainte**. Dans la **contrainte**, il n’y a **aucun choix possible** : la personne subit une force à laquelle elle ne peut résister. **Dans la légitime défense, comme dans l’état de nécessité, un choix existe.**
+
+La légitime défense est une **cause d’irresponsabilité autonome**, mais elle doit être **relativisée**, car elle n’est finalement qu’un **cas particulier d’une permission de la loi**.
+
+On peut également voir dans la légitime défense **une forme spécifique d’état de nécessité**. L’état de nécessité implique qu’**en présence d’un péril**, l’agent **est dans l’obligation de réagir**. Cependant, dans l’état de nécessité, le **péril** peut être **très large**, alors que dans la légitime défense, il s’agit **nécessairement** d’une **infraction que l’agent subit**, ou qu’un **tiers ou un bien subit**.
+
+Le **Code pénal** mentionne la légitime défense dans **deux articles** : **les articles 122-5 et 122-6**.
+
+L’**article 122-5** comporte **deux alinéas**.
+
+- Le **premier alinéa** traite de la **légitime défense des personnes**.
+- Le **deuxième alinéa** traite de la **légitime défense des biens**.
+
+Concernant **la preuve de la légitime défense**, **n'est pas pénalement responsable** la personne qui, devant **une atteinte injustifiée** envers elle-même ou autrui, accomplit **dans le même temps** un acte commandé **par la nécessité de la légitime défense**, sauf s’il y a **disproportion** entre les moyens employés et l’attaque.
+
+De même, **n'est pas pénalement responsable** la personne qui, pour **interrompre l’exécution d’un crime ou d’un délit contre un bien**, accomplit **un acte de défense autre que l’homicide volontaire**, lorsque cet acte est **strictement nécessaire** au but poursuivi et lorsque **les moyens employés sont proportionnés** à la gravité de l’infraction.
+
+L’**article 122-6** pose une **présomption de légitime défense** dans deux hypothèses précises :
+
+- Pour **repousser de nuit une entrée par effraction, violence ou ruse dans un lieu habité**.
+- Pour **se défendre contre les auteurs de vol ou de pillage exécuté avec violence**.
+
+Ce texte permet de **présumer la légitime défense** de celui qui a riposté. Dans **toutes les autres hypothèses**, c’est à **celui qui invoque la légitime défense** de **prouver** que toutes les conditions de la légitime défense sont réunies.
+
+Les **présomptions posées par l’article 122-6** ont été **reprises de la jurisprudence**.  
+Notamment, **l’arrêt de la chambre criminelle du 19 février 1959** est intéressant, car il s’est positionné sur **la force de ces présomptions**.
+
+La question qui se posait était de savoir s’il s’agissait de **présomptions simples ou irréfragables**.  
+La jurisprudence, **dès 1959**, a affirmé **le caractère simple et réfragable** des présomptions posées par l’article 122-6. Cette solution a été **reprise postérieurement** par le **Code pénal de 1994**.
+
+Si la légitime défense est reconnue, il faut comprendre que la **personne poursuivie passe du statut d’agresseur à celui de victime**, et que la **victime de la riposte** devient **l’agresseur initial**.
+
+On est donc **en présence de deux infractions successives** :
+
+- La **première infraction** est celle de l’**agresseur initial**.
+- La **seconde infraction** est la **riposte** effectuée par la personne qui invoque la légitime défense.
+
+Si la légitime défense est admise, alors **la seconde infraction disparaît** juridiquement.
+
+#### A) La légitime défense des personnes
+
+L'**alinéa 1** de l'article **122-5** du Code pénal doit être envisagé **à la lumière de la jurisprudence**, qui précise **les conditions tenant à l’agression et à la riposte**.
+
+Le juge doit **apprécier ces conditions au moment de l’action**, et **non après les faits**.
+
+##### 1) Les conditions relatives à l’agression
+
+122-5 al 1er. le texte pose une suele condition : l'agression doit etre jusitifé. masi suppose que agression existe pour quelle soit.
+
+- exisntede du'ne agression
+- illlégitiém de l'agression
+
+l'agressione st réelle si l'attitude del'agressuer est univoque. Exempele typique d ecas douteux : hypothse o une personen prend la fuite en tournatn le dos alors y'a pas d'agressionsur vous. quadn elle prend la fuite didifice de parler du'ne agression présente. 
+
+attitude equivoqe d eagresuer et hypothese de agression vraisemblable de l'agresson puttaive. on a un cas en jursprdence qui a retenu : arret cour d'appel de Nancy du 9 mars 1979, un fermier qui interpelle 2 voleurs de poules. avec son fusil il veut les conduire aux forces del'ordre. sur le chemin, un des deux se retourne et fait mine de sortir quelqeu chose de sa poche. le fermier tire. on a admis la légitime défense meme is c'était putatif car avait aps d'arme.  dédui qu'ila pu raisonablement pensé qui'"l y aviat uen agression qui avai tpu s eprpduire.
+

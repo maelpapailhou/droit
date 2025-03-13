@@ -892,7 +892,8 @@ Cet article impose la motivation pour **les décisions administratives individue
 Cet article renvoie aux **décrets** qui précisent **d’autres catégories de décisions** devant être motivées.
 
 ==**Arrêt du Conseil d’État, 2 octobre 2022, Fédération Sud Éducation**==
-Dans cette affaire, la **CNIL** avait refusé de donner suite à une plainte d’une personne fondée sur la méconnaissance du **droit d’accès** prévu à l’**==article 15 du RGPD==**.&éé"'()
+Dans cette affaire, la **CNIL** avait refusé de donner suite à une plainte d’une personne fondée sur la méconnaissance du **droit d’accès** prévu à l’**==article 15 du RGPD==**.
+
 Le **Conseil d’État** a estimé que ce refus faisait partie des décisions devant être **motivées**, car il constituait une **décision administrative défavorable** refusant un avantage dont l’attribution constitue un **droit**.
 
 Ainsi, un **refus de la CNIL** doit être **motivé**.

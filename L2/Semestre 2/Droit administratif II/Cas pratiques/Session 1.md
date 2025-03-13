@@ -67,12 +67,3 @@ cette décision. Peuvent-ils attaquer cet acte ?
  Vous évoquerez également les conditions de recevabilité des recours intentés par des
 groupements (2 points)
 
-3. Pour sauver les Pétrel de Barau, le maire de Saint Paul envisage de prendre un arrêté d’interdiction
-de l’éclairage nocturne des magasins (centre commercial, pharmacie etc...) du centre-ville, des
-routes municipales sur le mois d’avril (du 1er avril au 30 avril), qui est le mois de l’envol des jeunes
-pétrels. L’arrêté est mis à la signature du maire le lundi 27 mars. Le maire le signe le mercredi 29
-mars. Puis, l’arrêté se perd dans les méandres du circuit administratif et n’est pas publié. Au cours
-du mois d’avril, les agents de la police municipale constatent de nombreuses violations de
-
-l’interdiction et adoptent des sanctions à l’égard des contrevenants. Les différents commerçants
-affectés par ces sanctions viennent vous voir. Ces sanctions sont-elles valables ? (4 points)
