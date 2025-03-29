@@ -99,143 +99,153 @@ L'apport fondamental du traité reste la **création de l'Union européenne (UE)
 L'UE repose alors sur **trois piliers**, gérés par un cadre institutionnel unique (Conseil, Conseil européen, Commission, Parlement européen), mais avec des pouvoirs différents selon le pilier. Toutefois, le traité de Lisbonne a mis fin à cette structure des trois piliers.
 
 **TM = UE = Les CE + PESC + JAI**
-- CE : méthode d'integration
+- CE : méthode d'intégration
 - PESC & JAI : méthode de coopération 
 
-##### 1) Le pillier communautaire : la logique d'intégration
+##### 1) Le pilier communautaire : la logique d'intégration
 
-Le premier pillier comprend les 3 communautés europénnes : CECA, CEEA, et la CEE (CEE devenue CE communauté européenne, car union n'est plus exclusivoemetn éocnomique, en raison de l'exetension de sescompetences au deli de la sphece economique). 
+Le premier pilier comprend les trois communautés européennes : la CECA, la CEEA et la CEE (devenue ensuite la CE – Communauté européenne – car l’Union n’est plus exclusivement économique, en raison de l’extension de ses compétences au-delà de la sphère économique).
 
-sur le plan matériel est institué l'UEM, en vu de créer l'euro (la monnaie unique) et la BCE qui ett chargé e de geere l'euro.  L'euro est destiné à remplacer les monnaies nationales en 2002. C'est le 1er janveir que premieres pieces et billets en euro ont commencé à circuler. 
+Sur le plan matériel, est instituée l’Union économique et monétaire (UEM), en vue de créer l’euro (la monnaie unique) et la Banque centrale européenne (BCE), chargée de gérer l’euro. L’euro est destiné à remplacer les monnaies nationales en 2002. C’est le **1er janvier 2002** que les premières pièces et billets en euros ont commencé à circuler.
 
-De nouvelles politiqes communes voient le jour, dans les domaines suivants : en matière d'éducation, de culture, réseaux trans-européens (transport, enerige et communicaiton, etc-).
+De nouvelles politiques communes voient le jour dans plusieurs domaines : l’éducation, la culture, les réseaux transeuropéens (transports, énergie, communications, etc.).
 
-sur le plan institutionnel, ls pouvoirs du parement européen nsont renforcés avec la création de la procédure de codécison (procedure legislative) qui parle le parlemetn europen sur un pied d'égalité avec le conseil. 
+Sur le plan institutionnel, les pouvoirs du Parlement européen sont renforcés avec la création de la **procédure de codécision** (procédure législative), qui place le Parlement européen sur un **pied d’égalité avec le Conseil**.
 
-concernant le conseil, le champ de recours à la majorité qualifiée est élargie. sont aussi crées le comité des région et le médiateur européen, ainsiq ue la faculté pour la cour de justice de prononcer des amendes (sanciton pecniere) ax etats qui ne respectent pas una rret de la cour, ou des astreintes (une somme à payer par jour de retard dans l'execution d'un arret de la cour de justice, ex etat n'a pas pris une loi de transposion d'une directive, la cour de justice condamne cet etat en disat qu'ele a comis un manquement) contre les etats qui ne respectent pas les arrets de la cour, les ayants condamné pour manquemetn ou violation au droit communautaire. 
+Concernant le Conseil, le champ de recours à la **majorité qualifiée** est élargi. Sont également créés : le **Comité des régions**, le **Médiateur européen**, ainsi que la **faculté pour la Cour de justice** de prononcer des **amendes** (sanctions pécuniaires) contre les États qui ne respectent pas un arrêt de la Cour, ou des **astreintes** (somme à payer par jour de retard dans l’exécution d’un arrêt). Par exemple, lorsqu’un État n’a pas adopté la loi de transposition d’une directive, la Cour peut le condamner pour manquement.
 
-la cour de socmptes devient une institution communautarie aec le traié de maastricht (avant c'était un organe). Instituin on est plus de léigimtié, plus de pouvoisf; 
-##### 2) Les pilliers intervouveeltaux : la logique de coopération intergouvernementale
+Enfin, la **Cour des comptes** devient une **institution communautaire** avec le **traité de Maastricht** (alors qu’elle n’était auparavant qu’un organe). Son statut d’institution lui confère davantage de légitimité et de pouvoirs.
+##### 2) Les piliers intergouvernementaux : la logique de coopération intergouvernementale
 
-PESC (poliituqe etrangere ..) et JAI (justice affaire inteiruer)
-ici auucn edelegation de souveraineté  n'a été consentie, le consiel vote à l'unanimité, le rôle de la ocmission et du parement européen est moindre, et la cour de justice est incompétente. 
+Les deuxième et troisième piliers correspondent à la logique intergouvernementale, sans délégation de souveraineté. Le Conseil y vote à **l’unanimité**, le rôle de la **Commission européenne** et du **Parlement européen** est **réduit**, et la **Cour de justice de l’Union européenne** est **incompétente** dans ces domaines.
 
-le deuieme pillier est consacré à la PESC, et son objectif est de parvenir à tere à une défense commune en Europe afin d'y maintenir la paix. 
+Le **deuxième pilier** est consacré à la **Politique étrangère et de sécurité commune (PESC)**. Son objectif est de permettre l'émergence, à terme, d’une **défense commune européenne** afin de maintenir la paix sur le continent.
 
-Le troisième pillier est ocnsacré à la JAI, la coopération dans les domaines de la justice et des affaires intérieures. 
+Le **troisième pilier** est dédié à la **coopération dans les domaines de la justice et des affaires intérieures (JAI)**. Il vise à renforcer la coopération entre les États membres dans la lutte contre le **terrorisme**, le **trafic de drogues** et l’**immigration clandestine**.
 
-l'ojbectif est de lutter contre le terrorisme, le trafic de drogues, l'immigration clandestine. En conclusion, le traité de Maastricht crée essentiellement l'union europenne, qui sera aapprofondi par les traités ulterieurs. Il prévoit sa prorpe révison en 1996 et sera révisée par le traité d'amsterdam. Apreès le 4eme élargissmetn de l'europe, avec l'adhésion de l'autriche de la finlande et de la suède. L'europe des 12 devient l'euroep des 15 en 1995. P
+En conclusion, le **traité de Maastricht** crée véritablement **l’Union européenne**, qui sera approfondie par les traités ultérieurs. Il prévoit sa **propre révision en 1996**, qui interviendra par le biais du **traité d’Amsterdam**.
 
-### Paragraphes 3 : l'approfionsisment de l'UE
+Ce traité est également adopté après le **quatrième élargissement** de l’Union, avec l’adhésion de **l’Autriche, de la Finlande et de la Suède**. L’Europe des **Douze** devient ainsi l’**Europe des Quinze** en **1995**.
+### Paragraphes 3 : L'approfondissement de l'UE
 
-#### A) Le traité d'amsterdam
+#### A) Le traité d'Amsterdam
 
 ##### 1) L'élaboration du traité d'Amsterdam
-d'après un rapport qui sera remis fin 1995, qui est le rapport du groupe de reflexion Westendorp, dirigé par Caros Westendorp qui est le ministre espagnol des affaires européenens. E tapres la tenue d'une CIG (conference inter goueremetnale), entre mars 96 et juin 1997, un traité est approvué par le consiel européen, puis signé le 2 octobre 97, pour entrer en vigueur le 1er mai 1999, après la ratification par les 15 états membres, et une revision de la constitution francaise le 25 janvier 1999. en effet le conseil constitutionel, dans une déicison du 31 décembre 1997 a jugé contraire à la constitution certaines dispsition du traité en matiere d'asile, d'imigration et 
+Le traité d’Amsterdam a été élaboré à partir d’un **rapport remis fin 1995**, connu sous le nom de **rapport du groupe de réflexion Westendorp**, dirigé par **Carlos Westendorp**, alors **ministre espagnol des Affaires européennes**.
 
-##### 2) L'apport du traité d'amsterdam
-les resultats sont jugés decemevant car regle pas la quesitond e l'élargesent de l'union. 
-10 états sont intégrés, c'est le grand élargissmetn de 2004. on passe de 15 a 25. 
-mais comporte certians progres en renumerotant pour la premiere fois les traités existants. 
+Ce rapport a été suivi par la tenue d’une **Conférence intergouvernementale (CIG)**, qui s’est déroulée **entre mars 1996 et juin 1997**. À l’issue de cette conférence, un **traité a été approuvé par le Conseil européen**, puis **signé le 2 octobre 1997**.
 
-Les principales innovations du traité d'amsterdam 
-- ELSJ (grace a shengen)
-- politique sociale
-- coopération renforcée
+Le traité est ensuite **entré en vigueur le 1er mai 1999**, après avoir été **ratifié par les 15 États membres**. En France, cette ratification a nécessité **une révision de la Constitution**, adoptée le **25 janvier 1999**.
 
-les autres avancées du traté d'amsterdam
-- droits fondamentaux (3 piliers)
-- protocole
+En effet, le **Conseil constitutionnel**, dans une **décision rendue le 31 décembre 1997**, a jugé que **certaines dispositions du traité**, notamment en matière **d’asile** et **d’immigration**, étaient **contraires à la Constitution**, ce qui a rendu une révision préalable nécessaire.
 
+##### 2) L'apport du traité d'Amsterdam
 
-La création de l'ELSJ (espace de liberté, sécrité et de justice). le traité d'amsterdam a communautarisé une partie du 3eme pillier relatif à la JAI, càd  a transféré dans le premier pillier certains aspects dasn le promeir pillier, à savoir visa, asile, immigration, et coopération civile et administrative. 
+Les résultats sont jugés décevants car le traité ne règle pas la question de l’élargissement de l’Union. Dix États sont intégrés lors du grand élargissement de 2004 : on passe de 15 à 25 membres. Cependant, le traité comporte certains progrès, notamment en renumérotant pour la première fois les traités existants.
 
-de même, le traité d'amsterdam intègre les accords de schengen : une de 1985 qui fixe les principes et une autre de 1990 qui concerne l'application des principes dans le traité. 
+**Les principales innovations du traité d’Amsterdam**
+- Création de l’**ELSJ** (grâce à l’intégration des accords de Schengen)
+- Renforcement de la **politique sociale**
+- Introduction de la **coopération renforcée**
 
-ces conventions qii portent sur la lbire circulation des personnes supprime les controles aux frontieres interirueres, càd d'un état membre à un autre, pour les reporter aux frontières extérieures, càd avec des pays tiers. 
+**Les autres avancées du traité d’Amsterdam**
+- Avancées en matière de **droits fondamentaux** (dans les trois piliers)
+- Adoption de **protocoles importants**
 
-ce qu'on va contorler c'est les resssortissants ds pays tiers quand ilsont entrer dans la zone. 
+- **Premier pilier : La création de l’ELSJ (Espace de liberté, de sécurité et de justice)**
+Le traité d’Amsterdam a communautarisé une partie du troisième pilier relatif à la **JAI** (Justice et Affaires intérieures), c’est-à-dire qu’il a transféré dans le premier pilier certains aspects, à savoir : les visas, l’asile, l’immigration, ainsi que la coopération civile et administrative.
 
-2eme innovaiton majeure : la politiue sociale, avec la créatond 'un titre qui est consacré à l'emploi. 
+De même, le traité d’Amsterdam intègre les accords de Schengen : un premier accord en 1985 qui fixe les principes, et un second en 1990 qui en précise les modalités d’application dans le traité.
 
-3: la coopération renforcée permet à certains états membres d'avancer plus raidement dans certaies matieres sans attendre l'accord des atures états membres, qui pourront cependant rejoindre la coopération à tout mometn. 
+Ces conventions, qui portent sur la libre circulation des personnes, suppriment les contrôles aux **frontières intérieures** (entre États membres), pour les reporter aux **frontières extérieures** (avec les pays tiers). Ce sont donc les ressortissants de pays tiers qui sont contrôlés à l’entrée dans la zone.
 
-- les droits fndamentaux
+**La politique sociale**
 
-en mateire de droit fondamentaux, leur respect devient une conditon explicite d'adhésion à l'UE. 
+Le traité d’Amsterdam introduit une avancée majeure en matière de politique sociale avec la création d’un **titre consacré à l’emploi**.
 
-en outre, leru violation rave et persistante des droits fondamentaux apr un état membre permet de déclencher à contre de cet état, une procédure de suspension de certains droits, comme le droit de vote au sein du conseil. Il s'agit de l'artce 7 TUE. 
+**La coopération renforcée**
 
-dans le cadre du premier pillier, on va voir sur le plan matériel le conseil devient compétent pour combattre les discriminations de tout type, (ordre religieux, racial, sexuel, etc.), c'est l'articel 19 TFUE, et non plus seulemtn discriminations en raison de la nationalité (la seule prévue dans le traité de rome). Artivle 18 TFUE. 
+Elle permet à certains États membres d’avancer plus rapidement dans certaines matières sans attendre l’accord des autres États membres, qui peuvent néanmoins rejoindre cette coopération à tout moment.
 
-sur le plan institutionnel, le traité étant le champ de la majorité qualifiée au sien du consiel, et simplifie la procédure de codécision, qui profite au parlement aueropeen. 
+**Les droits fondamentaux**
 
-dans le cadre du 2eme pillier, e conseil européen petu élaborer des stratégies communes  qui sotn mises en oeuvres par le conseil (attention conseil europen, et consiel pas meme insttuton), le conseil ce sont les ministres), à l'aide de décisiosn et de positions communes, qui sont des actes de la PESC. 
+En matière de droits fondamentaux, leur **respect devient une condition explicite d’adhésion à l’Union européenne**.
 
-De même est créé le haut représentant pour la PESC. 
+Par ailleurs, la **violation grave et persistante** des droits fondamentaux par un État membre permet de déclencher à son encontre une procédure de **suspension de certains droits**, comme le droit de vote au sein du Conseil. Il s’agit de l’**article 7 TUE**.
 
-dans le cadre du troisieme pilleir, du fait de sa communautarisation partielle, il est réduit aux aspects relatifs à la CPJP (coopération policiere et judiciare en matiere pénale).
+Dans le cadre du **premier pilier**, sur le plan matériel, le **Conseil** devient compétent pour **combattre toutes les formes de discriminations** (fondées sur la religion, la race, le sexe, etc.) selon l’**article 19 TFUE**, et non plus uniquement celles fondées sur la nationalité comme dans le **traité de Rome** (article 18 TFUE).
 
-son but : faciliter la coopéraiton entre les autorités judiciares, policieres et douanieres des états. 
+Sur le plan institutionnel, le traité **étend le champ de la majorité qualifiée** au sein du **Conseil**, et **simplifie la procédure de codécision**, renforçant ainsi le rôle du **Parlement européen**.
 
-son but est aussi de rapprocher le droit pénal des états membres. 
+- **Le deuxième pilier : la PESC**
 
-il s'agit de prévenir et de lutter contre le racisme et la xénophobie, le terrorisme, la traite d'petre humains, les crimes contre les enfants, traffics de drogue arme corruption et la fraude.
+Le **Conseil européen** peut désormais **élaborer des stratégies communes**, mises en œuvre par le **Conseil** à l’aide de décisions et de positions communes, qui sont des actes propres à la **PESC**.
 
-a l'aide d'un noveau type d'acte, la déicsion cadre et la possbiltié pour la cour de justice d'intervenir. 
+De plus, le traité crée le poste de **Haut Représentant pour la PESC**.
 
-Les protocoles sont importants car même vaeur juridique que les traités. 
+- **Le troisième pilier : la CPJP**
 
-un protocolole permet aux parlemetns nationaux d'etre informé plus rapdiement des propositons legislatives de la comission, et donc de soumettre une résoltuion sur leur position aux institutions d el'union. 
+En raison de sa communautarisation partielle, le troisième pilier est désormais réduit à la **coopération policière et judiciaire en matière pénale (CPJP)**.
 
-autre protocole qui précise les conditiosn d'application des principes de subsidiarité et de proportionalité.  (comment les appliquer). 
+Son objectif est de **faciliter la coopération** entre les autorités judiciaires, policières et douanières des États membres, ainsi que de **rapprocher leurs systèmes de droit pénal**.
 
+Il vise à prévenir et à lutter contre : le **racisme**, la **xénophobie**, le **terrorisme**, la **traite des êtres humains**, les **crimes contre les enfants**, le **trafic de drogue**, le **trafic d’armes**, la **corruption** et la **fraude**.
 
-en conclusion, des progres otn été réalisés grâce à ce traité d'amsterdam, mais la question de l'élargissemnt de l'union européenne est réstée sans réponse. 
+Cela passe notamment par l’usage de nouveaux types d’actes juridiques comme la **décision-cadre**, et la possibilité pour la **Cour de justice** d’intervenir.
 
-est donc prévue l'ouverture d'une nouvelle conférence intergouvernementale (CIG) pour aobutir au traité de Nice.
+**Les protocoles**
+
+Les protocoles ont **la même valeur juridique que les traités**.
+
+Un **protocole** permet notamment aux **parlements nationaux** d’être **informés plus rapidement** des propositions législatives de la Commission, et de **soumettre une résolution** exprimant leur position aux institutions de l’Union.
+
+Un autre protocole précise les **conditions d’application** des **principes de subsidiarité et de proportionnalité** (notamment comment les appliquer concrètement).
+
+**Conclusion**
+
+Des progrès importants ont été réalisés grâce au traité d’Amsterdam. Toutefois, **la question de l’élargissement de l’Union européenne est restée sans réponse**, d’où la nécessité d’**ouvrir une nouvelle conférence intergouvernementale (CIG)**, qui aboutira au **traité de Nice**.
 
 #### B) Le traité de Nice
 
-le traité réforme les instituitons dans la perpective du grnad élargissement de 2004,  après l'ouverture de négociiations en 1998,avec les pays de l'ueirpe d el'est, le 5ème élargissment de l'europe a liue le 1er mai 2004. L'europe es 15 devient l'uerope des 25, avec l'adhésion de 10 nouveau états. 
+Le traité réforme les institutions **dans la perspective du grand élargissement de 2004**. Après l'ouverture des **négociations en 1998** avec les **pays d'Europe de l'Est**, le **5ᵉ élargissement de l'Europe** a lieu le **1er mai 2004**. L’Europe des **15** devient l’Europe des **25**, avec l’adhésion de **10 nouveaux États**.
 
 ##### 1) L'élaboration du traité de Nice
 
-A l'issu d ela CIG, ouverte en février 2000, un traité est approuvé le 11 décemre 2008, par le conseil euripéen à Nice. 
+À l’issue de la **conférence intergouvernementale (CIG)** ouverte en **février 2000**, un traité est approuvé le **11 décembre 2000** par le **Conseil européen réuni à Nice**.
 
-il est signé le 26 février 2001, entre en vigueur le 1er février 2003 aprè sratirification par les irlandais en octobre 2002. 
+Il est **signé le 26 février 2001**, et **entre en vigueur le 1er février 2003**, après sa **ratification par les Irlandais** lors du référendum d’**octobre 2002**.
 
 ##### 2) L'apport du traité de Nice
 
 - Les avancées en faveur de l'élargissement
 
-concernant la compostion de la comisionn, elle est modifiée, les grands états (la france allemadgne italie espagne royaume-uni), perdent leurs second commisaire (les grnads états en avaient 2). 
+Concernant la composition de la Commission, elle est modifiée : les grands États (la France, l’Allemagne, l’Italie, l’Espagne et le Royaume-Uni) perdent leur second commissaire (jusqu’alors, les grands États en avaient deux).
 
-Le traité prévoit que dans une UE à 27 membres, le nombre de comissaire sera inferieur au nombre des etats membres, et fixé par le conseil à l'unanimité sur la base d'une rotation égalitaire entre les nationalités.
+Le traité prévoit que, dans une Union à 27 membres, le nombre de commissaires sera **inférieur au nombre des États membres**, et fixé par le **Conseil à l’unanimité**, sur la base d’une **rotation égalitaire entre les nationalités**.
 
-concernant le conseil, le champ d ela majorité qualifiée est étendu : il pourra voter plus souvent à la majorité qualifiée. 
+Concernant le Conseil, le **champ de la majorité qualifiée est étendu** : il pourra voter plus souvent à la majorité qualifiée.
 
-concernant le parlement européen, le tarité de nice baisse l enombre de députés par état membre, et fixe un plafond à 762  (actuellemetn le nombre de député européen c'es t720).
+Concernant le Parlement européen, le traité de Nice **réduit le nombre de députés par État membre** et **fixe un plafond à 762 députés** (actuellement, le nombre de députés européens est de 720).
 
 - Les autres avancées du traité de Nice
 
-le traité de nice réforme le système juridictionel communautaire en permettant de créer des chambres juridictionelles spécialisées dans certains sectuers exemple la fonction publique européenne. 
+Le traité de Nice **réforme le système juridictionnel communautaire**, en permettant la création de **chambres juridictionnelles spécialisées** dans certains secteurs, par exemple la **fonction publique européenne**.
 
-crée aussi le tribunal de laf ocntion publiqei. 
+Il crée ainsi le **Tribunal de la fonction publique**.
 
-le traité assoupli aussi la coopération renforcée, en mettant fin au veto d'un état membre au déclenchement de la coopération. cette cooperation renforcée permet à certains etats d'avancer dans certans domaines sans l'aval de tous les etats membres.
+Le traité assouplit aussi la procédure de **coopération renforcée**, en mettant fin au **veto d’un État membre** au déclenchement de la coopération. Ce mécanisme permet à certains États **d’avancer dans certains domaines**, sans avoir besoin de l’aval de tous les États membres.
 
-lorsque la cooperation nreformée à été créé, état pouvait mettre un veto et empecher de creer la coopération. 
+À l’origine, lors de la création de la coopération renforcée, **un seul État** pouvait **mettre son veto** et empêcher sa mise en œuvre. Cet obstacle est désormais supprimé.
 
-la charte des droits fondameentaux de l'union europene est proclamée le 7 décembre 2000, mais elle est dépourvue de valeur juridque. Elle n'a que valeur politique. sa valeur jruidqieu sera reconnue avec le traité de lisbonne.
+La **==Charte des droits fondamentaux de l’Union européenne==** est **proclamée le 7 décembre 2000**, mais elle est **dépourvue de valeur juridique** à ce stade : elle n’a qu’une **valeur politique**. Sa **valeur juridique** ne sera **reconnue qu’avec le traité de Lisbonne**.
 
-est instauré un mécanime de prévention d'atteinte aux droits fondamentaux avec articel 7 du TUE. ce mécanisme permet au conseil de constater risque clair de violation par un état membre apres approbation du parlement européen, et audition de l'état concerné qui petu alors se voir agresser des recommandations. 
+Un **mécanisme de prévention des atteintes aux droits fondamentaux** est instauré avec **l’==article 7 du TUE==**. Ce mécanisme permet au Conseil de **constater un risque clair de violation** par un État membre, **après approbation du Parlement européen**, et **audition de l’État concerné**, qui peut alors se voir adresser des recommandations.
 
-le traité de nice n'a pas tout réglé, doncnouvelle CIG, une nouvele conference intergouvenrementale es tprévue en 2004, s'ouvre alors uen periode de doute à la ocnsurction européenne.
+Cependant, **le ==traité de Nice== n’a pas tout réglé**, si bien qu’une **nouvelle conférence intergouvernementale (CIG)** est prévue en 2004. S’ouvre alors une **période de doute pour la construction européenne**.
 
 ## Section 2 : La construction européenne à la croisée des chemins
 
-Après l'échec du **Traité établissant une Constitution pour l'Europe (TECE)** – qui relevait davantage d’un symbole, l'Union européenne n’étant pas un **État fédéral** –, la construction européenne est relancée grâce au **traité de Lisbonne**.
+Après l'échec du **==Traité établissant une Constitution pour l'Europe== (TECE)** – qui relevait davantage d’un symbole, l'Union européenne n’étant pas un **État fédéral** –, la construction européenne est relancée grâce au **traité de Lisbonne**.
 
 ### Paragraphe 1 : L'échec du traité établissant une Constitution pour l'Europe (TECE)
 
@@ -343,7 +353,6 @@ La **référence aux racines culturelles, religieuses et humanistes de l’Europ
 Sur le plan institutionnel, deux types de reprises sont à noter : celles concernant les institutions elles-mêmes et celles concernant la démocratie au sein de l’Union.
 
 Concernant les **institutions** :
-
 - Le **traité de Lisbonne érige le Conseil européen** (réunissant les chefs d’État ou de gouvernement) en **institution** et instaure une **présidence stable de deux ans et demi, renouvelable une fois**, au lieu de la présidence tournante de six mois prévue par le TUE.
 - Le **traité de Lisbonne prévoit, à partir de 2014, de réduire le nombre de commissaires européens aux deux tiers du nombre d’États membres** (disposition déjà prévue par le traité de Nice). Toutefois, le Conseil européen peut décider **à l’unanimité** de conserver **un commissaire par État** (notamment pour répondre aux demandes de l’Irlande). D’ailleurs, afin de faciliter la ratification du traité par les Irlandais, le Conseil européen a adopté une telle décision en mai 2013.
 - Concernant le **Conseil de l’Union européenne** (réunissant les ministres des États membres), le traité **étend le champ du vote à la majorité qualifiée**, qui correspond à **55 % des États membres**, représentant **au moins 65 % de la population européenne**. Avant le traité de Lisbonne, un système de **pondération des voix** était en vigueur, mais il a été abandonné au profit du **système de double majorité**. Désormais, **au moins quatre États** sont nécessaires pour bloquer une décision.
@@ -352,7 +361,6 @@ Concernant les **institutions** :
 - Les prérogatives du **Haut représentant pour les Affaires étrangères et la Politique de sécurité** sont renforcées. Il devient également **vice-président de la Commission européenne** et **préside le Conseil des Affaires étrangères**.
 
 Concernant la **démocratie au sein de l’Union**, plusieurs avancées sont introduites.
-
 - Le traité **accroît le rôle des parlements nationaux** en allongeant la période d’examen des propositions législatives, qui passe de **six à huit semaines**. De plus, les parlements nationaux peuvent contester une proposition législative sur la base du **principe de subsidiarité**, obligeant la Commission à **justifier, modifier ou retirer** la mesure concernée.
 - Le **traité de Lisbonne introduit le droit d’initiative citoyenne**, qui permet à **un million de citoyens européens**, issus d’un nombre significatif d’États membres, d’inviter la Commission à soumettre une proposition législative au Conseil.
 

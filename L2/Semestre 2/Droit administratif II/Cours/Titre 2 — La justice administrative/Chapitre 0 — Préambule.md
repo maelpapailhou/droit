@@ -1,14 +1,12 @@
+L’expression de « justice administrative » est née du Code de justice administrative, qui date de mai 2001. Cette expression renvoie :  
+- à la juridiction administrative, c’est-à-dire à son organisation et à son fonctionnement  
+- aux procès administratifs  
+- aux recours contentieux existant devant cette juridiction
 
-expression de justice adminsitartive est née du code de justice administrative qui date de mai 2001.  cette xpereson renvoei :
-- a al jrudiiction administraitve càd son organisaiton, fonctionnement
-- aux proces administratifs
-- au recours conrenteiux exisntat devant cette juridiciton
+L’existence même d’une justice administrative ne peut se comprendre que par opposition à la justice judiciaire. Cette opposition s’est construite dans l’histoire de France. Même s’il a toujours existé un traitement à part des affaires matériellement administratives, la justice administrative telle que nous la connaissons aujourd’hui est née après la Révolution (même si une distinction existait déjà sous l’Ancien Régime). Elle s’explique par des considérations politiques et constitutionnelles, notamment la volonté d’assurer l’indépendance de l’administration à l’égard des juridictions ordinaires.
 
-l'existnece mee du'ne jsutuce admibstrative ne petuse comprendre que par oppositon à la justuice judiicaire. cette oppistion s'est construite dans l'historie de france. meme sil a tjrs existé un traitement appart des affaire smatérielement administratives, cette jusitce admonstrative telle ue nous la connaissaosn ajd est née apres la révoltion (meme si déjà distincitonsosu ancien réigme), et elle s'expliqe par les consideratios poltiqeus et constttoonnelles d'independacne de l'administrtaion à l'égard des jurdiciotn soridnaries.
+Ce dualisme juridictionnel, produit de notre histoire, est une véritable particularité française, qui nous distingue à la fois des régimes anglo-saxons et des autres systèmes romano-germaniques, bien que ces derniers soient aussi dotés d’une juridiction administrative.
 
-ce juadmisle juridicitonnel, produit de notre histoire, est une veirtable partocularité frnaçaise, qu nous disitngeu à la fois des réigmes anglosaxons, et aussi des autres systemes romano-germaniques qui sont dotés aussi du'ne jrudiciton administrative. 
+Comprendre cette juridiction administrative suppose d’en maîtriser la dimension purement organique.
 
-comrpendre cette juridiotn adinistratie suppose d'en maitreiser la dimension purement organique.
-
-il faut etudier le ocntnetieux qui est dévolu. ces juridiotns.  
-
+Il faut également étudier le contentieux qui lui est dévolu.

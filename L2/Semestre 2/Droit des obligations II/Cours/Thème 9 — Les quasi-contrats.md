@@ -1,21 +1,27 @@
-Theme : Autres sources d'oblgiation
+Les **quasi-contrats** sont des **faits purement volontaires** dont il résulte un **engagement de celui qui en profite sans en avoir le droit**, et parfois un **engagement de leur auteur envers autrui**.
 
-Les quasi contrat sont es faits purement volontaire dont il résulte un engagmeent de celui qui en profite sans en avoir droit, et parfois un engagmenet de leur auteur envers autrui.
+Ils **ressemblent à des contrats**, mais **n’en sont pas**.  
+Selon **l'article 1300 du Code civil**, il s’agit de **faits purement volontaires** qui se situent **à mi-chemin entre le fait juridique et l’acte juridique**.
 
-elles ressemblent à des contrrats mais ne le sont pas. arricle 1300 : ce sotn des faits purmeent volontaire, ils se situent en réaité entre le fait juridqiue et l'acte juridqiue. 
+Dans le cas du quasi-contrat, on a **un fait à l’origine de l’obligation**, qualifié de **purement volontaire**, alors qu’en général, **le fait juridique** peut être **intentionnel ou non** (par exemple, causer un préjudice involontairement à quelqu’un).
 
-là y'a un fait à l'origne du quasi contrat qu iest qualifié de purement volontaire, alors que jsuque la on a fait que fait jurique certe peuvent etre intnetionelle mais aussi non intentionelle, ex on porte préjudice a qqn sans faire expres.
+Le quasi-contrat **n’est pas un contrat**, car il **n’y a pas d’accord de volontés**, pas de **convention**, ni de **volonté portant sur les effets juridiques** du fait à l’origine de l’obligation.  
+En cela, **il se rapproche davantage du fait juridique**.
 
-le quasi contrat pas non plus un conrrat car pas d'accord de volonté, pas de convention, pas de volonté portant sur les ocnseuqneces, les effets juridiques de ce fait purement volontaire. EN cela ça se rapproche du fait juridiqeu. 
+Les quasi-contrats étaient initialement **visés par les articles 1371 et suivants du Code civil de 1804**, mais **à l’origine, seuls deux quasi-contrats y étaient mentionnés**.  
 
-quasi contrat est envisagé article 1371 et suivants du code civil de 1804, mais ajd il y a 3 quasi contrats alors que initialement dans le code de 1804 seuls 2 d'entre eux étaient envisagés, et ce n'est que la réforme de 2016 que meme si on a pas retrouché le droit des obligaitons extra contratuelles, pour les quasi contrats on a modifié la numerotation, mais on a également ajouté un 3eme quasi contrat qui n'exstait pas en 1804 masi consacré par al jurisprudence.
+Ce n’est qu’avec **la réforme de 2016** que, même si le droit de la responsabilité civile (obligations extracontractuelles) **n’a pas été réformé**, **les dispositions sur les quasi-contrats ont été modifiées** :
 
-3 contrats 
-- la gestion d'affaire
-- le paiement de l'indus
-- l'nerichissement injustifié (existiat pas en 1804)
+- nouvelle numérotation,
+- **et ajout d’un troisième quasi-contrat**, qui **n’existait pas dans le Code de 1804**, mais qui avait été **consacré par la jurisprudence**.
 
-Section 1 : la gestion d'affaires
+Aujourd’hui, il existe **trois quasi-contrats** en droit français :
+
+- **La gestion d’affaires**
+- **Le paiement de l’indu**
+- **L’enrichissement injustifié** (introduit par la réforme de 2016)
+
+## Section 1 : La gestion d'affaires
 
 c'est l'acte par lequel une personne, appéllée le gérant,  va s'imisser dans les affaires d'une autre personne, appéleée le maitre de l'affaire, le gérant s'imisse dans les affaires d'autrui sans en aovir reçu le mandat. 
 
@@ -51,7 +57,7 @@ c'est opportuinité ou utilité qu'il va falloir examiner, ici tout dépend des 
 
 on va apprecier cette opportunit éd emaneire subjective, abtraiste, sans forcement regarder le résultat.  Càd que le gérant d'"affaire qui essaie de sauver des biens ou animaux au moment incendie ou personne tomber d'un bateau, meme si meurent on esitme que utile.
 
-paragraphe. 2. : les efftes de la gestion
+### paragraphe. 2. : les efftes de la gestion
 
 elle fait naitre des obligations. quelles sont oblgiaitons ud gerant? il c imicé dans afafire de qqn d'autre, article 1301 dit que le gérant dit q'il est soumsi à toutes les obligations qui resulterai d'un mandat.
 
@@ -63,7 +69,7 @@ article 1301-2 qui indique oblgiation du maitre de l'affaire, la geition d'afafi
 
 2empe consequenc e le maitre de l'affaire va se trouver personelement engager par les actes juriidques conclus par el gerant.
 
-section 2 :
+## section 2 :
 
 il est prévu article 1302 que "tout paiement suppose une dette : ce qui a été reçu sans être dû est sujet à restittion.
 
@@ -75,7 +81,7 @@ ex un heritire qui va payer ne dette du défunt sans savoir que cette dette a d�
 
 aussi le cas de assureru qu iva payer indemnité à l'un de ses clients sans remarquer que le dommage qu'il a inemnisé est survenu dans des circonstnaces pas couvertes par la garnaite, le contrat d'assurance. Assureur aversé une indemnioté pour un domamge qui fnalemetn n'est pas couvert. ou parfois un trop perçu.
 
-Paragraphe 1 : les conditions
+### Paragraphe 1 : les conditions
 
 condiiton 1 : il faut un paiement (argent ou livriaosn du'n bien)
 
@@ -120,7 +126,7 @@ consequence : si l'ex mari avait effectiveent cru pendant tout se tmeps qu'il é
 
 mais si il savait que pas pere biologuiqej, alors pas erreur, donc pas. indus, pas de restitution.
 
-Paragraphe 2 : 
+### Paragraphe 2 : 
 
 non suemet on doit restituer le bien reuc ou la somme d'argent recu, masi que en principe on doit égalemetn resittuer les interets ou les fruits qu'ont produit cette chose ou cet argetn.
 
@@ -128,7 +134,7 @@ non suemet on doit restituer le bien reuc ou la somme d'argent recu, masi que en
 
 si chose deteriorée, accipiens peut restieur la chose mais dansun état dégradé, et peut pas le faire si chose perdue. Alor son va tenir compte de eventelel faute de l'accipieens dans cette deterioration. si chose perdue sans faute de la part de l'accipiens, alors il aura pas a restituer la chose.
 
-section 3 : enrigchissment injustifié, sans cuase (action de in rem verso)
+## section 3 : enrigchissment injustifié, sans cuase (action de in rem verso)
 
 sitaution ou une perosnne apu s'enrichir au depens d'une autre personne, qui du couo c'est apapuvrie. 
 
@@ -145,7 +151,7 @@ les juges pour la premiere fois consacrent ce qu'ils appellentvirtuellemnt  cona
 cette figure juriqdqieu ajd article 1303 du code civil, et qui prévoit que celui qui béneficie d'un enrichisent injustifié au detirment autri doit une indmnité à celui qui c appauvri. Mais 
 
 
-paragraphe 1 : les condtions
+### paragraphe 1 : les condtions
 
 il faur d'abord un enrcijomet, du defendeur, et de l'autre coté il faut un apauvrissmetn. Il faut une correlation entre enrichissment et apauvrissment, enrichismetn d'un coté et apuavirsment de l'autre doi têtre correlatif.
 
@@ -157,7 +163,7 @@ deuxieme econdition urique c que l'action doit avoir un caractere subsidiaire c�
 
 dernier eocndition juriqeu : faut pas que l'appauvri ait agit uniquemetn dans son interet personnel, ex onb elev euen digue pour proteger botre maison, certe voisin c enrichi car proteciton, mais agi tpour interet personnel. 
 
-paragraphe 2  : les effets
+### paragraphe 2  : les effets
 si les conditions sont réunies, l'enrichi devra indemniser l'appauvri. lorsque l'enrichissetn est équivalent à appauvrissment pas de dififuclté, mais lorsque pas d'équivalence matématiqeu, càd que le montan tenrichissment correspond pas au montatn de appauvrissment.
 
 article 1303 du code civil prévoit que indemnité est limitée à la plus faible des 2 sommes.

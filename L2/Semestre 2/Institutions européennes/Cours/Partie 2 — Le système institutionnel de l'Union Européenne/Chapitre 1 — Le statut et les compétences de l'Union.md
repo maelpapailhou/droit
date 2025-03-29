@@ -84,7 +84,7 @@ Enfin, l'élargissement de l'UE vers l'Est, notamment en direction de la Russie,
 
 À noter qu'un État peut non seulement **adhérer à l'Union européenne**, mais aussi **se retirer**, comme l'a illustré le **Brexit** avec le **retrait du Royaume-Uni en 2020**.
 
-#### C) le retrait de l'union
+#### C) Le retrait de l'union
 
 Ce retrait est expressément prévu à l'**article 50 du TUE**, introduit par le **traité de Lisbonne**.
 ##### 1) Le dispositif de retrait de l'article 50 TUE
@@ -303,9 +303,9 @@ L’**==article 6 du TUE==** approfondit notamment la question du **respect des 
 
 Enfin, **l’article 6, paragraphe 3** précise que les **droits fondamentaux garantis par la CEDH** ainsi que par les **traditions constitutionnelles communes aux États membres** font partie du **droit de l’Union**.
 
-### B) La garantie des droits fondamentaux
+#### B) La garantie des droits fondamentaux
 
-#### 1) La reconnaissance jurisprudentielle des droits fondamentaux
+##### 1) La reconnaissance jurisprudentielle des droits fondamentaux
 
 - Le silence initial des traités
 
@@ -315,3 +315,343 @@ Néanmoins, certains **articles** des traités contenaient **à la marge** certa
 
 Face au **silence des traités**, c’est **le juge** qui a **consacré l’existence des droits fondamentaux de l’Union européenne**.
 
+La construction **jurisprudentielle** des droits fondamentaux s’est faite progressivement par la **Cour de justice**.
+
+Dans ses premiers arrêts, la Cour de justice **refusait de prendre en compte les droits fondamentaux**, en raison du **silence des traités**.
+
+En ce sens, on peut citer un **===arrêt de la CJCE du 4 février 1959, _Stork c/ Haute Autorité_===** (aujourd’hui la **Commission européenne**) de la CECA.
+
+Cette position a suscité certaines **réserves** du côté des **cours constitutionnelles nationales**, notamment de la **Cour constitutionnelle allemande**. Ces **cours suprêmes** ont décidé, face à cette jurisprudence, de **subordonner la primauté du droit communautaire à l’existence d’une protection satisfaisante des droits fondamentaux**.
+
+La Cour de justice a donc dû faire évoluer sa jurisprudence afin de garantir les droits fondamentaux, en utilisant à cette fin **les principes généraux du droit**, c’est-à-dire des **principes non écrits** dégagés par le juge.
+
+Dans l’**==arrêt _Stauder_ du 12 novembre 1969==**, la Cour reconnaît pour la première fois **l’existence de droits fondamentaux** en tant que principes généraux du droit communautaire.
+
+Toutefois, la **Cour constitutionnelle allemande**, dans son célèbre **arrêt _Solange I_ de 1974**, considère que la protection offerte par la Cour de justice **n’est pas suffisante**, et qu’**aussi longtemps que** (en allemand _solange_) cette protection ne sera pas équivalente à celle garantie par la Loi fondamentale allemande, **elle se réserve le droit d’écarter le droit communautaire**.
+
+La Cour de justice, de son côté, s’est inspirée de l’**==arrêt _Internationale Handelsgesellschaft_ (IH) de 1970==**, dans lequel elle affirme que **la validité d’un acte communautaire ne saurait être appréciée au regard du droit national, fût-il constitutionnel**.
+
+Dans l’**==arrêt _Nold_ du 14 mai== 1974**, la Cour va plus loin en faisant **référence aux instruments internationaux auxquels les États membres ont adhéré**, notamment à la **Convention européenne des droits de l’homme (CEDH)**.
+
+Face à cette évolution jurisprudentielle, la **==Cour constitutionnelle allemande==** affirme dans l’**==arrêt _Solange II_ du 22 octobre 1986==** que, **tant que** (_solange_) les droits fondamentaux seront **effectivement garantis** dans l’ordre juridique communautaire, **elle ne remettra plus en cause la primauté du droit de l’Union européenne**.
+
+Depuis lors, la **Cour de justice de l’Union européenne** n’a cessé d’affirmer **l’importance des droits fondamentaux**, tels que le **droit à la vie privée, le respect de la vie familiale**, ou encore **le droit à un recours effectif**.
+
+Cette protection **jurisprudentielle** a ensuite été **renforcée sur le plan textuel** par **la Charte des droits fondamentaux de l’Union européenne**, adoptée en 2000, et devenue **juridiquement contraignante avec le== traité de Lisbonne** en 2009==.
+
+##### 2) La charte des droits fondamentaux de l'UE
+
+Elle a été adoptée en **2000 à Nice**, et c’est le **traité de Lisbonne** qui lui a conféré **valeur juridique**. Avant ce traité, elle n’avait **qu’une valeur politique**, c’est-à-dire que **les États n’étaient pas tenus** de respecter la Charte.
+
+- **Les droits garantis**
+
+La Charte comporte **54 articles**, répartis en **7 chapitres**, dont **6** énumèrent les droits garantis, qui sont : **dignité humaine, liberté, égalité, solidarité, citoyenneté, justice**.
+
+Le **7ᵉ chapitre** définit le **champ d'application de la Charte**. Elle a été adoptée pour deux raisons :
+
+1. Offrir un texte constituant **une référence claire pour chaque citoyen européen**, en **rassemblant les droits existants** jusqu’alors éparpillés dans des textes divers, tels que la **CEDH**, la **Charte sociale européenne**, les **conventions internationales du travail**, etc.
+
+2. Exprimer la volonté **d’enrichir les droits de l’homme** par de **nouveaux droits**, ou par des droits dans des **domaines nouveaux**, tels que la **bioéthique**, la **protection des données à caractère personnel**, **l’interdiction des discriminations fondées sur le handicap**, ou encore les **droits des citoyens à l’égard de l’administration**.
+
+- La portée juridique de la Charte 
+
+Elle **s’applique aux organes et institutions de l’Union**, qui doivent la respecter. Elle **s’applique également aux États membres**, mais **uniquement lorsqu’ils mettent en œuvre le droit de l’Union**, conformément à **l’article 51 de la Charte**.
+
+Cet article fait référence au **champ d’application du droit de l’Union**, autrement dit, une **mesure qui met en œuvre le droit de l’Union** est une **mesure entrant dans le champ d’application de la Charte**, selon la Cour.
+
+La **CJUE, en grande chambre, dans l’==arrêt _Åkerberg Fransson_ du 26 février 2013==**, a confirmé cette interprétation.
+
+Certains États ont obtenu **un régime dérogatoire** à l’application de la Charte (**Pologne, Royaume-Uni** à l’époque), dans le cadre du **protocole n° 30** annexé au **traité de Lisbonne**.
+
+Ce protocole prévoit notamment que **les droits et principes de la Charte** ne **s’appliquent que s’ils sont reconnus dans la législation ou la pratique respective** des États concernés.
+
+Cependant, selon la ==**CJUE, grande chambre, dans l’arrêt _N.S._ du 21 décembre 2011==**, ce protocole **"n’a pas pour objet d’exonérer la République de Pologne et le Royaume-Uni de l’obligation de respecter les dispositions de la Charte."**
+
+## Section 2 : Les compétences de l'Union européenne
+
+La question de la répartition des compétences entre l’Union européenne et les États membres est complexe.
+
+### Paragraphe 1 : Le système européen d'attribution des compétences
+
+Ce système repose sur un principe fondamental : **le principe d’attribution des compétences**. En outre, ce système **module l’intensité des compétences de l’Union** par rapport à celles des États membres.
+#### A) Le principe d'attribution des compétences
+
+L’Union européenne **ne dispose pas de la "compétence de la compétence"**, qui constitue un **attribut de la souveraineté étatique**. Elle ne peut donc **agir que dans les limites des compétences qui lui ont été attribuées par les États membres** dans les traités.
+
+Autrement dit, **l’Union n’agit que dans les domaines pour lesquels les traités prévoient une compétence explicite**. En dehors de ces domaines, la compétence **reste entre les mains des États membres**.
+
+##### 1) Les fondements et conséquences du principe
+
+Selon l’**==article 5 du TUE==**, l’Union européenne ne dispose que de **compétences d’attribution**, c’est-à-dire **celles qui lui sont dévolues par les traités**. Ce sont **les États membres** qui détiennent **les compétences de droit commun**.
+
+> _"En vertu du principe d’attribution, l’Union européenne n’agit que dans les limites des compétences que les États membres lui ont attribuées dans les traités pour accomplir les objectifs que les traités établissent."_
+
+Ce principe n’est qu’une **variante du principe de spécialité**, qui s’applique aux **organisations internationales en droit international public**.
+
+En conséquence, **l’Union européenne ne peut pas adopter une norme sans une base juridique précise** servant de fondement à son action.
+
+**Cette base juridique légitime l’intervention de l’Union** et **détermine la procédure législative à respecter** pour adopter l’acte.
+
+##### 2) Les tempéraments au principe
+
+L’Union européenne ne dispose pas seulement des compétences qui lui sont attribuées expressément par les traités.
+
+**Deux théories** permettent d’ajuster ces compétences.
+
+- **La théorie des compétences implicites**
+
+En l’absence de compétence même expresse, les Communautés peuvent mener des actions conformes à la finalité des traités, en accord avec le principe du **parallélisme des compétences** (==CJCE, **arrêt Fédéchar**==). Selon cette décision, les **compétences implicites** sont nécessaires pour réaliser les compétences expresses : elles en constituent le **prolongement logique**.
+
+La Cour a appliqué cette théorie dans un second arrêt, **==AETR** (CJCE, **1er mars 1971**==), qui distingue **compétences internes** (entre États membres) et **compétences externes** (avec des pays tiers ou des organisations internationales).
+
+Selon la Cour, dans le domaine des compétences externes, en l’absence de dispositions expresses dans le traité, **la Communauté peut conclure un accord international** (par exemple, dans le domaine des transports), **dès lors qu’elle détient une compétence interne dans ce même domaine**.
+
+Le **==traité de Lisbonne==** a **codifié cette jurisprudence** aux **==articles 216, paragraphe 1** et **3, paragraphe 2 du TFUE**==.
+
+Les traités prévoient donc désormais expressément que **l’Union dispose d’une compétence externe** lorsque l’exercice de cette compétence interne l’exige.
+
+- **La théorie des compétences subsidiaires**
+
+Cette théorie permet de **combler les lacunes des traités**. On l’appelle aussi **clause de flexibilité**. En l’absence de compétence expresse pour réaliser un des objectifs de l’Union, **l’article 352 du TFUE** autorise **le Conseil** à adopter les mesures appropriées, **à l’unanimité**, **sur proposition de la Commission**, et **après approbation du Parlement européen**.
+
+Cependant, **cet article ne peut être utilisé** :
+- que si **aucune autre disposition des traités** ne permet d’atteindre l’objectif poursuivi ;
+- **et pas** dans les **domaines où l’harmonisation des législations nationales est exclue**, comme la **culture**, le **tourisme**, etc.
+
+Cette clause a été **très utilisée dans les années 1970**, notamment pour **mettre en œuvre de nouvelles politiques**, telles que les **politiques régionales**. Mais **son usage est devenu de plus en plus rare**, car les traités ultérieurs ont progressivement **intégré des dispositions explicites** permettant à l’Union d’agir dans ces domaines.
+
+#### B) La typologie des compétences internes de l'Union
+
+Le traité de Lisbonne **clarifie les compétences** de l’Union européenne, notamment en **les énumérant**, sans toutefois établir une **liste exhaustive**.
+
+**L’==article 2 du TFUE==** distingue **plusieurs catégories** de compétences exercées par l’Union.
+
+##### 1) Les compétences exclusives
+
+Dans ces domaines, seule l’Union peut agir, ce sont ses domaines de compétence exclusifs, selon l’article 2, paragraphe 1 du TFUE. Les États ont été dessaisis de leurs compétences, sauf pour mettre en œuvre les actes de l’Union.
+
+Il n’existe que **cinq domaines de compétences exclusives** dans lesquels l’Union est compétente, énumérés à l’article 3, paragraphe 1 du TFUE :
+- L’union douanière
+- L’établissement des règles de concurrence nécessaires au fonctionnement du marché intérieur
+- La politique monétaire pour les États membres de la zone euro
+- La conservation des ressources biologiques de la mer (raison pour laquelle la Norvège a refusé d’intégrer les Communautés européennes)
+- La politique commerciale commune
+
+Cette liste est **exhaustive**.
+
+##### 2) Les compétences partagées
+Les compétences partagées sont les plus fréquentes.  
+Les États membres restent compétents tant que l’Union **n’est pas intervenue**.
+
+En outre, les États peuvent continuer à exercer leurs compétences si l’Union **n’a pas épuisé** la sienne ou si, en intervenant, l’Union a décidé **de cesser d’exercer** sa compétence (article 2, paragraphe 2 du TFUE).
+
+La **marge de manœuvre des États membres** dépend du champ de préemption communautaire. Dans tous les cas, les États doivent respecter les **principes et règles du droit de l’Union**, et donc ne pas adopter de mesures incompatibles avec celles déjà adoptées par les institutions de l’Union.
+
+L’**==article 4 du TFUE==** liste les principaux domaines suivants :
+- Le marché intérieur
+- La politique sociale, dans les aspects prévus par les traités
+- La cohésion économique, sociale et territoriale
+- L’agriculture et la pêche (à l’exception de la conservation des ressources biologiques de la mer, qui relève exclusivement de l’Union)
+- L’environnement
+- La protection des consommateurs
+- Les transports
+- Les réseaux transeuropéens
+- L’énergie (introduite par le traité de Lisbonne)
+- L’espace de liberté, de sécurité et de justice (ELSJ)
+- Les enjeux communs en matière de sécurité dans le domaine de la santé publique
+
+_(Cette liste doit être apprise par cœur.)_
+
+##### 3) Les compétences complémentaires ou d'appui
+
+Prévue à l’**==article 2, paragraphe 5 du TFUE==**, cette catégorie de compétences signifie que **les États conservent ici l’exercice plein de leurs compétences**. L’Union ne peut apporter qu’un **complément ou un appui** à l’action des États membres.
+
+En conséquence, dans ces domaines, **l’harmonisation des législations nationales est exclue**.
+
+L’**==article 6 du TFUE==** énumère **les domaines de compétences d’appui, de coordination ou de complément**. Il y en a **sept** :
+- La protection et l’amélioration de la santé humaine
+- L’industrie
+- La culture et le tourisme
+- L’éducation, la formation professionnelle, la jeunesse et le sport
+- La protection civile
+- La coopération administrative
+
+**Le sport et le tourisme** ont été **introduits par le traité de Lisbonne**.
+
+Certaines compétences **ne sont pas qualifiées** par le traité de Lisbonne. C’est le cas notamment de :
+- **La coordination des politiques économiques et de l’emploi**, visée à l’**==article 2, paragraphe 3 du TFUE==**
+- **La politique étrangère et de sécurité commune (PESC)**, mentionnée à l’**==article 2, paragraphe 4 du TFUE==**, sans précision sur sa nature exacte
+
+###### A) Le principe de subsidiarité
+
+Le principe de subsidiarité a été consacré par le traité de Maastricht. Il vise à préserver les compétences des États contre une intervention injustifiée des institutions de l’Union européenne.
+
+- **La définition**
+
+Le principe est défini à l’**article 5, paragraphe 3 du Traité sur l’Union européenne**. Il en ressort qu’il **ne s’applique qu’aux compétences partagées** entre les États membres et l’Union européenne.
+
+En effet, d’un côté, il **limite l’action européenne** lorsque la question peut être **mieux traitée par les États membres**.
+
+D’un autre côté, le principe **rend nécessaire l’intervention européenne** lorsque les États sont **dans l’incapacité d’agir efficacement**.
+
+- Les conditions de mise en œuvre du principe
+
+Ces conditions ont été précisées dans un **protocole annexé au traité d’Amsterdam**, qui exige notamment **une motivation explicite des propositions de la Commission européenne au regard du principe de subsidiarité**.
+
+En pratique, cette exigence s’est traduite par une **diminution nette des interventions de la Commission** dans certains domaines.
+
+- **Le contrôle du principe**
+
+Il existe un **contrôle a posteriori** : la **Cour de justice de l’Union européenne** est compétente pour **contrôler le respect du principe de subsidiarité**. Ce contrôle ne doit **pas être confondu** avec celui du **principe de proportionnalité**, qui concerne **l’intensité de l’action européenne**.
+
+Le principe de subsidiarité **s’applique une fois que l’action européenne a été jugée nécessaire**. La CJUE peut, en théorie, **annuler un acte européen** pour **non-respect du principe de subsidiarité** (même si cela reste très rare).
+
+Il existe également un **contrôle a priori**, mis en place par le **protocole n°2 du traité de Lisbonne**, appelé **mécanisme d’alerte précoce**.
+
+Les **parlements nationaux** peuvent ici **examiner une proposition législative européenne** dans un délai de **huit semaines** à compter de sa transmission.
+
+Chaque parlement national **dispose de deux voix** et peut **émettre un avis motivé** en cas de **violation du principe de subsidiarité**.
+
+Si l’avis motivé émane **d’un tiers des parlements nationaux**, **le "carton jaune" est enclenché**.
+
+**Conséquences** : la Commission peut décider de **maintenir**, de **modifier**, ou de **retirer sa proposition**, mais elle doit **motiver son choix** dans tous les cas.
+
+Si l’avis motivé **représente la majorité des voix** des parlements nationaux, la Commission **doit réexaminer sa proposition**. Elle peut alors :
+- Maintenir la proposition ;
+- La modifier ;
+- Ou la retirer, toujours avec motivation.
+
+En cas de **maintien de la proposition**, le **Conseil de l’Union européenne** et le **Parlement européen** doivent se **prononcer sur le respect du principe de subsidiarité**. Si l’un d’eux émet un **avis négatif** :
+
+- Le **Conseil**, à la majorité de **55 % de ses membres** ;
+- Le **Parlement européen**, à la **majorité simple des suffrages exprimés** ;
+
+alors, **la proposition est abandonnée**.
+
+Le **carton jaune** a été **activé en 2009** contre une **proposition de la Commission relative aux actions collectives** (proposition dite **"Monti II"**).
+
+La Commission a été **surprise** par cette réaction et a **retiré la proposition**. Les **parlements nationaux** n’avaient pas forcément souhaité le retrait en tant que tel, mais plutôt **un dialogue approfondi** sur la proposition. À l’époque, la Commission considérait ce mécanisme comme **virtuel**, sans penser qu’il serait utilisé.
+
+Cet épisode a **renforcé la conscience des parlements nationaux** de leur **capacité à influencer le processus décisionnel européen**. Ils sont depuis devenus **plus offensifs et engagés**.
+
+De son côté, la Commission a adopté **une posture plus constructive** vis-à-vis des parlements nationaux, **afin d’éviter de cristalliser les conflits**.
+
+###### B) Le principe de proportionnalité
+
+Consacré au paragraphe 4 de l'article 5 du TUE, le principe de proportionnalité est un **principe général du droit de l’Union européenne**, qui a été reconnu dès l’**==arrêt CJCE du 29 novembre 1956, Fédéchar==**. Il a donc une origine jurisprudentielle.
+
+Ce principe a été introduit en **droit primaire** (c’est-à-dire dans les traités) par le **traité de Maastricht**. Il s’applique à **l’ensemble des activités de l’Union européenne**, et **à tout type de compétence**, qu’elle soit exclusive, partagée ou d’appui.
+
+- Définition du principe
+
+Le principe implique que **l’action de l’Union européenne soit proportionnée au but poursuivi**. Cela signifie que l’action de l’Union **ne doit pas excéder ce qui est nécessaire** pour atteindre l’objectif fixé par les traités.
+
+- Les conditions de mise en œuvre
+
+Selon le **protocole annexé au traité d’Amsterdam**, il convient d’**utiliser le mode d’action le moins contraignant** pour les États membres. Cela signifie qu’il faut privilégier les **directives européennes** plutôt que les **règlements européens**, car elles laissent une marge de manœuvre plus large aux États.
+
+De plus, il est recommandé, **selon le même protocole**, de préférer **les directives-cadres** plutôt que **des directives trop précises**, afin de préserver la liberté d’adaptation des États.
+
+- Le contrôle
+
+Le contrôle du respect du principe de proportionnalité est exercé par la **Cour de justice de l’Union européenne (CJUE)**. Lorsqu’une institution européenne détient un **pouvoir discrétionnaire**, la Cour se limite à un **contrôle restreint**, dit **contrôle de l’erreur manifeste d’appréciation**.
+
+La Cour vérifie notamment :
+- **La nécessité de la mesure** au regard de l’objectif poursuivi ;
+- **L’adéquation de la mesure** : elle doit être propre à atteindre l’objectif ;
+- **Le caractère le moins contraignant** pour les États membres : la mesure doit être la **moins intrusive possible** ;
+- Enfin, la Cour peut procéder à un **contrôle strict de proportionnalité** lorsque la marge d’appréciation des institutions est plus limitée.
+
+###### C) Le principe de coopération loyale (ou principe de fidélité)
+
+Il s’agit d’un **principe directeur essentiel**, sans lequel **l’Union européenne ne pourrait fonctionner efficacement**.
+
+Pour que l’Union puisse **remplir ses missions et atteindre ses objectifs**, il est indispensable que **les États membres coopèrent de manière loyale** avec les institutions de l’Union.
+
+Le **fondement juridique** de ce principe se trouve à **l’article 4, paragraphe 3 du TUE**. Cet article impose aux États membres **non seulement de s’abstenir d’agir en contradiction avec le droit de l’Union** (obligation négative), mais également **de prendre toutes les mesures positives nécessaires à l’application effective du droit de l’Union** (obligation positive).
+
+En conséquence, **les États membres disposent de la compétence d’exécution du droit de l’Union**, et à ce titre, ils doivent tout mettre en œuvre pour assurer **l’effet utile des dispositions des traités**.
+
+Par exemple, **lorsqu’une norme européenne ne prévoit pas de sanction particulière**, les États membres sont tenus de **prévoir des sanctions efficaces, y compris des sanctions pénales si nécessaire**, pour garantir la pleine application de cette norme.
+
+De plus, **les États membres sont même autorisés à suppléer la carence du législateur européen**, **même dans des domaines relevant des compétences exclusives de l’Union**, dès lors que cela est **nécessaire pour préserver l’application effective du droit de l’Union**.
+
+###### D) Le principe de flexibilité
+
+Le principe de flexibilité s’applique de **deux manières** au sein de l’Union européenne :
+1. Par la **clause de flexibilité** 
+2. Par le **concept de différenciation**
+
+La **clause de flexibilité**, prévue à l’**==article 352 du TFUE==**, permet de **combler une lacune des traités** afin de faire face à **des situations imprévues** et de permettre **l’intervention des institutions européennes**, lorsque cela est nécessaire pour atteindre un objectif de l’Union, et qu’aucune autre base juridique ne peut être invoquée.
+
+Le **concept de différenciation**, bien qu’il puisse heurter les **principes d’égalité et d’uniformité**, est devenu **indispensable** dans une Union européenne **de plus en plus élargie**.
+
+La différenciation a d’abord été introduite par le biais de **dérogations accordées à certains États membres**, qui **ont choisi de ne pas participer** à certaines politiques communes. Ces **clauses d’opt-out** permettent ainsi à certains États **de se soustraire à une obligation** prévue par les traités.
+
+Exemples :
+- Certains États **n’appartiennent pas à la zone euro**.
+- D’autres **ne participent pas à l’espace Schengen**.
+
+Par la suite, la différenciation a été **institutionnalisée**. Un **mécanisme** a été prévu pour **permettre à certains États membres d’avancer plus vite que d’autres**, qui ne le peuvent ou ne le souhaitent pas.
+
+Cette différenciation a été **institutionnalisée** avec l’**introduction de la procédure de coopération renforcée** par le **traité d’Amsterdam**, avant d’être **assouplie** par le **traité de Nice**.
+
+**Actuellement**, une coopération renforcée doit impliquer **au moins neuf États membres sur vingt-sept** pour être mise en place.
+
+Cette coopération doit **rester ouverte à tous les États membres** de l’Union européenne, qui **peuvent la rejoindre à tout moment**.
+
+Concernant la **procédure**, la coopération renforcée est **autorisée par le Conseil**, **en principe à la majorité qualifiée**, mais **à l’unanimité** dans le domaine de la **politique étrangère et de sécurité commune (PESC)**. Cette politique obéit à un régime spécifique : **elle repose sur une logique de coopération intergouvernementale**, et non d’intégration.
+
+La coopération est **proposée par la Commission**, **après approbation du Parlement européen**.
+
+**Exemple de coopération renforcée** :  
+La création du **Parquet européen**, mis en place dans ce cadre en **2017**, est une illustration concrète de cette procédure.
+
+### Paragraphe 3 : Le champ d'application des compétences de l'Union
+
+#### A) Les champs d'application territorial et temporel
+D’un point de vue _ratione loci_, les compétences de l’Union sont régies par **deux articles** des traités européens.
+
+L’**==article 52 du TUE==** énumère les **27 États membres** de l’Union européenne auxquels les traités s’appliquent.
+
+L’**==article 355 du TFUE==** précise ce premier article en contenant des **règles particulières relatives aux territoires ultramarins**.
+
+On distingue deux catégories : les **régions ultrapériphériques (RUP)** et les **pays et territoires d’outre-mer (PTOM)**.
+
+Il existe **9 RUP** :
+- **6 françaises** (les **5 départements d’outre-mer** et une **collectivité d’outre-mer**, **Saint-Martin**),
+- **2 régions autonomes portugaises** (**Açores** et **Madère**),
+- **1 communauté autonome espagnole** (**les îles Canaries**).
+
+Dans ces régions, **le droit de l’Union européenne s’applique**, **sous réserve d’adaptations** liées à leurs **handicaps structurels**. On dit qu’elles bénéficient d’un **statut d’intégration différenciée** ou **adaptée** au sein de l’Union.
+
+Concernant les **PTOM**, ils sont **au nombre de 13**, répartis entre **trois États membres** : **la France, le Danemark et les Pays-Bas**.
+
+Le **droit de l’Union européenne ne s’applique pas aux PTOM**, à l’exception d’un **régime spécial d’association** prévu dans la **partie 5 du TFUE** et dans une **décision d’association du Conseil**, la dernière datant de **2021**.
+
+Les PTOM bénéficient donc **d’un statut d’association à l’Union européenne**.
+
+Les **6 PTOM français** sont :
+- **Nouvelle-Calédonie**
+- **Polynésie française**
+- **Wallis-et-Futuna**
+- **Saint-Pierre-et-Miquelon**
+- **Saint-Barthélemy**
+- **Les Terres australes et antarctiques françaises (TAAF)**
+
+Avant le **Brexit**, il existait **25 PTOM**.
+
+D’un point de vue _ratione temporis_, si le **traité CECA** avait été conclu pour **une durée de 50 ans**, les autres traités (**Euratom**, **TUE**, **TFUE**) ont été conclus pour **une durée illimitée**, sauf si un **État membre exerce son droit de retrait** conformément à **l’article 50 du TUE**.
+#### B) Les champs d'application personnel et matériel
+
+D'un point de vue _ratione personae_, le droit de l’Union s’applique aux **citoyens de l’Union européenne**, ainsi qu’aux **ressortissants de pays tiers** s’ils ont chacun un **lien de rattachement suffisant** avec le droit de l’Union européenne (ce qu’on appelle le **lien d’extranéité**).
+
+Il en va ainsi du **citoyen européen migrant** qui circule d’un État membre à un autre : c’est le **droit européen de libre circulation des personnes** qui s’applique.
+
+En revanche, le droit de l’Union **ne s’applique pas, en principe**, aux **situations purement internes à un État**, c’est-à-dire aux situations **dont tous les éléments sont cantonnés à l’intérieur d’un seul et même État**.
+
+D’un point de vue _ratione materiae_, le droit de l’Union s’applique **à certaines matières**, c’est-à-dire **celles qui sont attribuées à l’Union par les États membres**.
+
+Le **noyau dur de l’intégration européenne**, c’est le **marché intérieur** : un **espace de libre circulation des services, des marchandises, des personnes et des capitaux**.
+
+Ce noyau est **complété par les politiques communes**, comme la **politique agricole commune**, la **politique régionale** ou encore la **politique de cohésion** de l’Union européenne.

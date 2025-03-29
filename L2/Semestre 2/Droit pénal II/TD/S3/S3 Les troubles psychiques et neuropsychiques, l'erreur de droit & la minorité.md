@@ -1,128 +1,128 @@
-### **Principe phare : la responsabilité pénale personnelle**
+**Principe phare : la responsabilité pénale personnelle.**
 
-La responsabilité pénale repose sur un **principe fondamental** : la personne ne peut être déclarée coupable que si l’infraction est **personnellement** imputable. Cette analyse se fait en **deux temps** :
+Cela se fait en deux temps : la caractérisation d'une infraction et l'imputation de l'infraction.
 
-1. **La caractérisation de l’infraction** (éléments légal, matériel et moral).
-2. **L’imputation de l’infraction** à une personne déterminée.
+Il faut donc étudier les causes d'irresponsabilité pénale, qui se divisent en deux catégories :
 
-L’étude des **causes d’irresponsabilité pénale** s’impose alors. On distingue :
+- **Les causes objectives d'irresponsabilité pénale** (les faits justificatifs)
+- **Les causes subjectives** (non-imputabilité).
 
-- **Les causes objectives d’irresponsabilité pénale** : les **faits justificatifs** (qui suppriment l’infraction elle-même).
-- **Les causes subjectives d’irresponsabilité pénale** : les **causes de non-imputabilité** (qui neutralisent l’élément moral de l’infraction).
+La non-imputabilité va neutraliser un élément de l'infraction. L’élément moral de l'infraction sera ainsi supprimé par cette cause.
 
-Les causes de **non-imputabilité** sont au nombre de **quatre** :
+En revanche, **les faits justificatifs vont supprimer l’infraction elle-même**.
 
-- **La contrainte** ;
-- **L’erreur de droit** ;
-- **Le trouble mental** ;
-- **La minorité**.
+### **Les causes de non-imputabilité**
 
-Ces causes n’empêchent pas nécessairement la commission d’un acte pénalement répréhensible, mais elles empêchent qu’il soit imputé à l’auteur en raison de son incapacité à agir en pleine conscience et en pleine volonté.
+Il existe **quatre causes de non-imputabilité** :
 
----
+- **La contrainte**
+- **L’erreur de droit**
+- **Le trouble mental**
+- **La minorité**
 
-### **Le trouble mental comme cause de non-imputabilité**
+En 1810, on parlait d’**état de démence**. Cette notion a toujours été prise en considération en droit pénal. Déjà dans le droit romain, l’état de démence était une cause d’irresponsabilité pénale. Toutefois, au Moyen Âge, l’approche était inverse : la démence n’était pas seulement une cause d’irresponsabilité, elle pouvait aggraver le sort de l’accusé, perçu comme **possédé par le démon**.
 
-#### **L’évolution historique**
+Le Code pénal de 1810 faisait référence à la démence, ce qui conduisait à une irresponsabilité pénale.  
+Le Code pénal de 1994 a repris cette idée en y intégrant **le trouble psychique ou neuropsychique**.
 
-En **1810**, l’irresponsabilité pénale des malades mentaux était prévue sous le terme **"état de démence"**. Cette notion n’était pas nouvelle, puisqu’en **droit romain**, la folie était déjà considérée comme une cause d'irresponsabilité pénale.
+**Article 122-1 du Code pénal** :
 
-Toutefois, au **Moyen Âge**, la situation s’inverse : la folie devient non seulement une cause de responsabilité pénale, mais elle **aggrave** parfois le sort du malade, considéré comme **possédé par le démon**.
+- Si le discernement est **aboli**, l’auteur est **irresponsable pénalement**.
+- Si le discernement est **altéré**, la peine encourue est diminuée.
 
-Le **Code pénal de 1810** instaure un principe d’irresponsabilité absolue en cas de démence. Cette logique est reprise dans le **Code pénal de 1994**, qui modernise la formulation en évoquant les **troubles psychiques ou neuropsychiques**.
+En pratique, les experts ont souvent tendance à rédiger leurs expertises en fonction de ce qu’ils estiment être **le mieux pour le patient**, et non forcément **le mieux pour la justice**.
 
-Désormais, **l’article 122-1 du Code pénal** distingue **deux situations** :
+Un autre problème des expertises réside dans **l’appréciation subjective des praticiens**. Il n’est pas rare que des experts se trompent ou ne soient pas d’accord entre eux.
 
-- Si le trouble mental **abolit** le discernement → **irresponsabilité pénale totale**.
-- Si le trouble mental **altère** le discernement → **diminution de peine**.
+**Exemple 1 : Affaire Nordahl Lelandais**  
+Il avait kidnappé et tué une petite fille. L’enquête a révélé qu’il avait commis ces actes avec plusieurs personnes. Il a été expertisé :
 
----
+- Certains experts affirmaient que son discernement était **totalement aboli**,
+- D’autres estimaient qu’il était seulement **altéré**, ce qui permettait de retenir sa responsabilité.
 
-### **Les difficultés liées aux expertises psychiatriques**
+**Exemple 2 : Affaire Sarah Halimi**  
+Un homme, sous l’emprise de stupéfiants, a subi une **bouffée délirante**. Il a vu en sa voisine **une incarnation du démon** et l’a défenestrée.
 
-L’application de l’article 122-1 repose en grande partie sur **l’expertise psychiatrique**, mais celle-ci pose **plusieurs problèmes** :
+Lors du procès, l’**article 122-1** du Code pénal a conduit à **son irresponsabilité pénale**.
 
-1. **Des appréciations subjectives** : les experts peuvent avoir des avis divergents sur une même situation.
-2. **Une approche influencée par le bien-être du patient** : certains psychiatres privilégient un diagnostic qui permet un **traitement médical adapté**, plutôt qu’un diagnostic strictement conforme aux exigences judiciaires.
-3. **Des erreurs possibles** : il n’est pas rare que des experts se trompent ou ne soient **pas d’accord entre eux**.
+### **Réforme de la loi du 24 janvier 2022**
 
-Exemple **Nordahl Lelandais** : certains experts affirmaient que son discernement était **totalement aboli**, tandis que d’autres concluaient qu’il était seulement **altéré**, ce qui impliquait une responsabilité pénale.
+Pour remédier à ce type de situation, la loi du **24 janvier 2022** a **modifié ces principes** en introduisant des **exceptions**.
 
-Exemple **affaire Sarah Halimi** : sous l’emprise de stupéfiants, un homme subit une **bouffée délirante** et tue sa voisine en croyant voir en elle le diable. La justice a appliqué **l’article 122-1** et déclaré son irresponsabilité pénale.
+Le législateur a ajouté **un nouvel article 122-1-1** qui prévoit une **exception à l’irresponsabilité pénale** dans trois hypothèses :
 
-Cette affaire a conduit à une réforme législative en **2022** pour éviter ce type de décisions controversées.
+1. Si la consommation de substances a été **volontaire**
+2. Si cette consommation a eu lieu **dans un temps très proche de l’infraction**
+3. Si elle a été effectuée **dans le but de commettre l’infraction**
 
----
+Dans ce cas, l’auteur sera **déclaré responsable pénalement**.
 
-### **Loi du 24 janvier 2022 : encadrement de l'irresponsabilité pénale**
+**Article 122-2-2** :  
+Lorsqu’une altération du discernement résulte d’une **consommation volontaire** de substances **illicites** (drogue dure) ou **manifestement excessive** (alcool en grande quantité), l’auteur **ne pourra plus bénéficier de la diminution de peine**.
 
-Face aux critiques suscitées par l’affaire **Sarah Halimi**, le législateur a introduit **des exceptions** à l’article 122-1 du Code pénal avec **les articles 122-1-1 et 122-1-2** :
+**Création de trois délits autonomes d’intoxication volontaire**  
+La loi va encore plus loin en **consacrant trois délits autonomes d’intoxication volontaire**, applicables **uniquement si la personne a été déclarée irresponsable pénalement**.
 
-- **Article 122-1-1** : si une personne consomme volontairement une substance et que cette consommation :
-    
-    1. Est volontaire,
-    2. A lieu **dans un temps très proche de l’infraction**,
-    3. A pour but de **commettre une infraction**,
-    
-    → **Alors elle reste pénalement responsable**.
-    
-- **Article 122-1-2** : si la consommation volontaire de substances (illicites ou excessive) **altère** simplement le discernement, alors l’auteur **ne bénéficie plus de la diminution de peine**.
-    
+Exemple :
 
-En outre, la loi a créé **trois délits autonomes d’intoxication volontaire** applicables **uniquement** aux personnes déclarées irresponsables en raison d’une consommation de substances :
+- Une personne consomme volontairement une substance qui abolit son discernement, mais **sans intention de commettre une infraction**.
+- Elle sera déclarée **irresponsable pour l’infraction principale** (ex. : meurtre).
+- Toutefois, elle sera **poursuivie pour un délit autonome d’intoxication volontaire**.
 
-- **Meurtre sous intoxication volontaire** (**article 221-5-6**).
-- **Torture, actes de barbarie ou violences sous intoxication volontaire** (**article 222-18-4**).
-- **Viol sous intoxication volontaire** (**article 222-26-2**).
+Les délits d’intoxication volontaire concernent :
 
-Cela signifie qu’une personne reconnue irresponsable pour un crime **pourra malgré tout être condamnée** pour **intoxication volontaire**.
+- **Le meurtre** (_article 221-5-6_)
+- **La torture ou les actes de barbarie et les violences aggravées** (_article 222-18-4_)
+- **Le viol** (_article 222-26-2_)
 
----
+Il faut bien **distinguer les infractions volontaires des infractions involontaires**. En cas d’infraction volontaire, le régime est **très favorable à la responsabilité pénale**.
 
-### **Difficultés d’application de la loi**
-
-Cette réforme soulève plusieurs problèmes :
-
-1. **Difficulté de preuve** : il est extrêmement compliqué de démontrer que la consommation de substances avait **précisément** pour but de commettre une infraction.
-2. **Portée limitée** : la loi ne concerne que certaines infractions **(meurtre, violences, viols, actes de barbarie)** et ne s’applique pas à toutes les infractions commises sous influence.
-3. **Problème de fond** : même avec cette loi, **l’auteur de l’affaire Sarah Halimi** aurait eu la même décision d’irresponsabilité, car il n’avait **pas consommé pour commettre un crime**.
-
----
+**Problème : une difficulté de preuve majeure**  
+Il est extrêmement **compliqué de prouver** qu’une personne **a consommé une substance dans un temps proche de l’infraction et dans le but de la commettre**.
 
 ### **L’erreur de droit**
 
-L’erreur de droit est une **cause d’irresponsabilité pénale** prévue par **l’article 122-3 du Code pénal**. Elle intervient lorsqu’une personne **commet une infraction en croyant agir légalement**.
+L’erreur de droit concerne les situations où **une personne commet une infraction en croyant que son acte était licite**.
 
-**Distinction essentielle** :
+**Article 122-3 du Code pénal** :
 
-- **Erreur de droit** : concerne une **mauvaise interprétation d’un texte juridique**.
-- **Erreur de fait** : concerne une **méconnaissance des circonstances** entourant l’infraction.
+- Seule **l’erreur de droit invincible** permet d’échapper à la responsabilité pénale.
 
-L’erreur de droit **n’est exonératoire** que si elle est **invincible**, c’est-à-dire si **n’importe qui placé dans la même situation se serait également trompé**.
+**Distinction entre erreur de droit et erreur de fait**
 
-Jurisprudence **Auchan (1998)** : Auchan a obtenu une autorisation **erronée** du ministère pour agrandir une filiale. La justice a refusé l’erreur de droit car :
+- **L’erreur de droit** concerne **l’interprétation inexacte d’un texte juridique**.
+- **L’erreur de fait** porte sur **les circonstances de l’infraction** et agit sur **l’élément moral** de l’infraction.
 
-1. Auchan avait les **moyens de vérifier la légalité** de son acte.
-2. L’erreur de l’administration **n’était pas suffisante** pour caractériser une erreur invincible.
+L’erreur de droit n’est admise que si elle est **invincible**, c’est-à-dire que **n’importe qui, placé dans les mêmes conditions, se serait également trompé**.
 
-Jurisprudence **24 mars 1998** : un chef d’entreprise a signé un accord professionnel **illégal**, validé par un médiateur de l’État. Cette fois, la justice a reconnu **l’erreur de droit**, car il s’était **fié à une autorité publique compétente**.
+Exemple :
 
----
+- Si une **autorité publique compétente** donne une information erronée et qu’une personne agit en conséquence, l’erreur de droit peut être reconnue.
 
-### **La minorité comme cause d’irresponsabilité pénale**
+### **La minorité en droit pénal**
 
-La minorité pénale impose une **distinction** entre :
+Il faut distinguer **la responsabilité pénale** de **la capacité pénale** (aptitude à recevoir une peine).  
+Un mineur peut être **responsable pénalement** tout en **bénéficiant de mesures éducatives** plutôt que d’une peine.
 
-- **Responsabilité pénale** : le mineur peut être reconnu coupable.
-- **Capacité pénale** : le juge décide de la sanction en privilégiant **l’éducation**.
+Longtemps, l’**ordonnance du 2 février 1945** a régi le régime applicable aux mineurs, en posant deux principes :
 
-Pendant longtemps, l’**ordonnance du 2 février 1945** régissait la justice des mineurs en posant deux principes :
+1. **La primauté de l’éducatif sur le répressif**
+2. **L’irresponsabilité pénale des mineurs non discernants**
 
-1. **Primauté de l’éducatif sur le répressif**.
-2. **Exceptionnalité des sanctions pénales**.
+**Article 122-8 du Code pénal** (1994) a repris ces principes.  
+En 2002, l’**introduction de la notion de discernement** a marqué une évolution importante : seuls les mineurs **discernants** peuvent être déclarés responsables pénalement.
 
-Depuis le **Code de justice pénale des mineurs (2021)**, une **présomption de discernement** est posée à **13 ans**. Avant cet âge, le mineur est présumé **non discernant** (mais cette présomption peut être renversée).
+### **Réforme du Code de la justice pénale des mineurs (30 septembre 2021)**
 
-L’article **L11-1 al. 3** définit le discernement comme _la capacité de comprendre et de vouloir son acte, ainsi que de comprendre la procédure pénale dont il fait l’objet_.
+Cette réforme maintient le principe de la **responsabilité pénale des mineurs**, tout en l’assortissant d’une **présomption** :
 
-Conclusion : **la minorité n’exclut pas la responsabilité pénale**, mais elle impose une justice spécifique où l’éducation prime sur la répression.
+- **Présomption de non-discernement** en dessous de **13 ans**
+- **Présomption de discernement** au-dessus de **13 ans** (_mais elle peut être renversée_).
+
+L’**article L11-1** définit le discernement comme _"le fait de vouloir et comprendre son acte, ainsi que la procédure pénale dont on fait l’objet"_.
+
+### **Conclusion**
+
+La minorité **n’est pas une cause d’irresponsabilité pénale** si le mineur est **discernant**.
+
+Toutefois, il existe **une présomption de discernement à partir de 13 ans**, qui peut être **renversée** au cas par cas.

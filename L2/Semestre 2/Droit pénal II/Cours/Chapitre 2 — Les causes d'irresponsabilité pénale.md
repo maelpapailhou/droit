@@ -534,7 +534,7 @@ Les évolutions seront ultérieures.
 
 Selon certaines **écoles psychiatriques**, le **procès pénal peut être bénéfique** sur le **plan thérapeutique** pour les malades mentaux.
 
-Ces écoles étaient favorables à un **système dans lequel la culpabilité de l’agent serait reconnue** au cours d’un véritable procès pénal, avec **une déclaration de culpabilité suivie d’une dispense de peine**.
+Ces écoles étaient favorables à un **système dans lequel la culpabilité de l’agent serait reconnue** au cours d’un véritable procès p=énal, avec **une déclaration de culpabilité suivie d’une dispense de peine**.
 
 Le législateur de **1994** n’a pas souhaité suivre cette voie.
 
@@ -792,292 +792,344 @@ Il faudra cependant clarifier l'utilisation de la **jurisprudence sur la motivat
 
 ### Paragraphe 4 : La minorité
 
-La minorité pose des **problèmes majeurs** pour deux raisons essentielles :
+La délinquance juvénile pose de véritables problèmes pour deux raisons essentielles :
+- Elle a beaucoup progressé ces dernières années. Les infractions commises sont de plus en plus graves et les délinquants de plus en plus jeunes.
+- La délinquance des mineurs soulève des problématiques spécifiques par rapport à la délinquance des majeurs. C’est ce qui explique l’attachement à la spécialisation des juridictions et la création de formations spécifiques.
 
-1. **Une augmentation significative de la délinquance juvénile**
-    - La délinquance des mineurs **a fortement progressé ces dernières années**.
-    - Les infractions commises sont de plus en plus **graves**.
-    - Les délinquants sont de plus en plus **jeunes**.
+**Exemple :** Un mineur ne se rend pas nécessairement compte de la gravité de ses actes en raison de son manque de maturité. Faut-il dès lors retenir sa responsabilité pénale ? Le mineur est un être en formation, en construction, et peut être plus facilement rééducable qu’un majeur. Dès lors, le prononcé d’une peine classique ne risque-t-il pas de freiner son évolution ?
 
-2. **Une délinquance qui soulève des problématiques spécifiques par rapport aux majeurs**
-    - C’est ce qui justifie **l’attachement à la spécialisation des juridictions**.
-    - Pour les mineurs, **des juridictions particulières** ont été mises en place.
+Le mineur délinquant souffre avant tout de carences (affectives, éducatives, d’instruction, sociales). Or, **l’objectif de la justice n’est pas de sanctionner ces carences, mais de les combler**. C’est pourquoi les peines classiques sont souvent inadaptées.
 
-**Réflexions sur la responsabilité pénale des mineurs**
-1. **Le manque de discernement du mineur**
-    - Le mineur **ne se rend pas nécessairement compte de la gravité de ses actes**, en raison de son **manque de maturité**.
-
-2. **Le mineur est un être en formation**
-    - Il peut être **plus facilement rééduqué** qu’un majeur.
-    - Le prononcé d’une **peine trop classique** risque, au contraire, de **freiner son évolution**.
-    - **Ne faut-il pas privilégier la rééducation plutôt qu’une sanction classique ?**
-
-3. **Les carences éducatives et sociales du mineur délinquant**
-    - Le mineur délinquant souffre souvent de **carences affectives, éducatives, d’instruction et sociales**.
-    - **L’objectif du droit pénal n’est pas de sanctionner des carences**, et les **peines classiques** du droit pénal **semblent mal adaptées** à ces situations.
-
-**Les réformes récentes en matière de justice pénale des mineurs**
-
-Une réforme du **texte de référence**, l’**==ordonnance du 2 février 1945==**, est intervenue avec :
-- **La loi du 23 mars 2019**
-- **La loi du 26 février 2021**
-- **L’ordonnance du 11 septembre 2019**
-
-Aujourd’hui, nous disposons **d’un Code de la justice pénale des mineurs**. Cependant, **il contient beaucoup plus de règles de procédure pénale que de droit pénal de fond**.
+Une réforme du texte de référence, **l’ordonnance du 2 février 1945**, est enfin intervenue avec les **lois du 23 mars 2019 et du 26 février 2021**. Comme souvent, face aux difficultés de réforme, le gouvernement a eu recours à une **ordonnance** en vertu de **l’article 38 de la Constitution**. Ces deux lois encadrent **l’ordonnance du 11 septembre 2019**. Aujourd’hui, la justice pénale des mineurs est régie par un **Code de justice pénale des mineurs**, qui vise à concilier éducation et répression dans le traitement de la délinquance juvénile.
 
 #### A) Historique du droit pénal des mineurs
 
-Le **droit pénal des mineurs** a longtemps reposé sur un texte fondamental : **l’ordonnance du 2 février 1945**, qui elle-même poursuivait **l’évolution amorcée par la loi du 22 juillet 1912**.
+Le droit pénal des mineurs repose sur un **texte fondamental**, l’**ordonnance du 2 février 1945**, qui elle-même s’inscrit dans la continuité de l’évolution amorcée par la **loi du 22 juillet 1912**.
 
-L’**==ordonnance de 1945==** reposait sur **deux règles essentielles.**
+L’ordonnance de 1945 a consacré **deux règles essentielles** :
 
-1) **Le principe éducatif**
-    - Le mineur délinquant est avant tout **un mineur en danger**.
-    - **Deux conséquences** découlaient de ce principe :
-        - **Les mineurs ne pouvaient, en principe, faire l’objet que de mesures éducatives**, et non de mesures répressives (**mesures de protection, d’assistance, de surveillance et d’éducation**).
-        - Lorsque le législateur a institué **l’assistance éducative** pour les mineurs en danger au sein de leur foyer, il a désigné **le même juge des enfants** pour s’occuper à la fois de **l’assistance éducative** et des **mineurs délinquants**.
+- **Le premier principe** est que le mineur délinquant est avant tout un **mineur en danger**. Ces mineurs ne pouvaient, en principe, faire l’objet que de **mesures éducatives** et non répressives (**mesures de protection, d’assistance, de surveillance et d’éducation**).
+- Lorsque le législateur a institué **l’assistance éducative** aux **articles 375 et suivants du Code civil** pour les mineurs en danger, il a désigné le **même juge (juge des enfants)** pour intervenir **tant en matière d’assistance éducative qu’en matière de délinquance juvénile**.
 
-Ce **principe éducatif**, prôné par **l’ordonnance de 1945**, explique pourquoi, pendant un certain temps (**de 1945 à 1956**), la question du **discernement** a été abandonnée.
+À partir de là, ce **principe éducatif**, prôné par l’ordonnance de 1945, a conduit pendant un temps (**de 1945 à 1956**) à **l’abandon de la question du discernement**.
 
-**Le retour de la notion de discernement : ==l'arrêt Laboube (1956)**==
-La question du **discernement du mineur** a été **réintroduite par la jurisprudence**, notamment à travers une affaire célèbre tranchée par la **chambre criminelle de la Cour de cassation, le 13 décembre 1956 (arrêt Laboube)**.
+Cependant, la jurisprudence a **réintroduit la notion de discernement** dans un arrêt **de la chambre criminelle du 13 décembre 1956, arrêt Laboube**.
 
-Les faits concernaient **un garçon de 6 ans** ayant blessé **un camarade de jeu**.
-- En première instance, **le juge pénal avait prononcé une mesure éducative**.
-- Cependant, **la Cour de cassation a cassé l’arrêt de la cour d’appel** en considérant que **le prononcé d’une telle mesure implique que le mineur, dont la participation à l’acte matériel est établie, ait compris et voulu cet acte**.
+Dans cette affaire, un mineur de **six ans** avait blessé un camarade de jeu. Le **juge pénal** avait prononcé une **mesure éducative** en première instance. Toutefois, la **Cour de cassation** a **cassé l’arrêt de la cour d’appel**, en considérant que le prononcé d’une telle mesure impliquait que **le mineur dont la participation à l’acte matériel était établie ait compris et voulu cet acte**.
 
-Depuis cette **jurisprudence de 1956**, et de manière continue, **le droit pénal des mineurs ne concerne que les mineurs discernants**.
+Depuis cette jurisprudence, et de manière constante, **le droit pénal des mineurs ne concerne que les mineurs discernants**.
 
-> **Un mineur est pénalement responsable uniquement s’il est discernant.**
+Un autre principe fondamental de l’ordonnance de **1945** est que **les peines étaient logiquement exceptionnelles**.
+- **Pour les mineurs non discernants**, ils ne peuvent **pas être déclarés responsables pénalement** et ne peuvent donc faire l’objet ni d’une **mesure éducative** ni d’une peine.
+- **Pour les mineurs de moins de 13 ans**, le juge ne peut prononcer que des **mesures éducatives**.
+- **Pour les mineurs de 13 à 16 ans**, une peine peut être envisagée, mais ils bénéficient d’une **excuse de minorité**, ce qui signifie que la peine est divisée par **deux**. En principe, on prononce des **mesures éducatives**, mais si **les circonstances ou la personnalité du mineur l’exigent**, une peine peut être prononcée. Dans ce cas, **la peine encourue est réduite de moitié par rapport à celle d’un majeur** pour les mêmes faits.
+- **Pour les mineurs de plus de 16 ans**, l’accent est mis sur **les mesures éducatives**, mais **il est possible d’écarter l’excuse de minorité** lorsque **les circonstances ou la personnalité du mineur l’exigent**. Dans des cas exceptionnels, le mineur peut alors être **jugé comme un majeur** et encourir **les mêmes peines**.
 
-2) **L’exceptionnalité des peines**
+L’ordonnance de **1945** consacrait ainsi la **primauté de l’éducatif sur le répressif**. L’objectif était de **rééduquer** le mineur plutôt que de le sanctionner. Cependant, une évolution doctrinale est intervenue, considérant que **la sanction fait partie intégrante de l’éducation**, ce qui rendait impossible d’opposer les deux notions.
 
-Outre le **principe éducatif**, l’ordonnance de 1945 posait un **deuxième principe** :
-- **Les peines étaient tout à fait exceptionnelles.**
-- **Les mineurs non discernants** ne pouvaient **pas être déclarés pénalement responsables**.
-    - Ils **ne faisaient l’objet ni de mesures éducatives, ni de peines**.
+L’ordonnance de 1945 a fait **l’objet de multiples projets de réforme**, dont **deux réformes majeures ont abouti** : **le Code pénal de 1994** et **la loi du 9 septembre 2002**.
 
-**Distinctions selon l’âge du mineur :**
-1. **Mineurs de moins de 13 ans**
-    - Le juge ne pouvait prononcer **que des mesures éducatives**.
+**L’évolution du droit pénal des mineurs en 1994 et 2002**
 
-2. **Mineurs âgés de 13 à 16 ans**
-    - Le juge pouvait prononcer **des mesures éducatives et des peines**.
-    - Si une peine classique était prononcée, **elle était automatiquement réduite de moitié** en raison de **l’excuse de minorité**.
+En **1994**, le **Code pénal** consacre la **minorité** comme une **cause de non-imputabilité** dans son **article 122-8**. Toutefois, cette réforme est **limitée**, car l’article **se contente de renvoyer à une loi particulière** régissant la question de la **responsabilité pénale des mineurs**. Or, cette loi n’a jamais été adoptée, ce qui a conduit à **maintenir l’ordonnance de 1945** comme référence principale.
 
-3. **Mineurs de plus de 16 ans**
-    - Même régime que pour les 13-16 ans, **mais l’excuse de minorité pouvait exceptionnellement être écartée**.
+L’article 122-8 faisait écho aux **deux grands principes de 1945** :
 
+- **L’alinéa 1** rappelait **le principe éducatif**.
+- **L’alinéa 2** consacrait **l’exception pénale**.
 
+**Avant la réforme de 2002, la doctrine distinguait deux régimes**
+- **Pour les mineurs de moins de 13 ans**, on parlait d’une **présomption d’irresponsabilité pénale absolue**, car ils ne pouvaient faire **l’objet que de mesures éducatives**.
+- **Pour les mineurs de plus de 13 ans**, on évoquait une **présomption d’irresponsabilité pénale simple**, car si **les circonstances et la personnalité du mineur le justifiaient**, il pouvait faire **l’objet d’une peine**.
 
----
-c'est la loi ou le juge qui permet de jistifier la coutume. article 521-1 du code pénal, qui précise que les "séviced graves et actes de cruauté envers les animaux sont incriminés mais sous réserve des tradiitons locales inintérropues", donc sous réserve de la coutume lovale.
+Toutefois, cette **distinction doctrinale était critiquable**, car elle reposait sur **une confusion entre responsabilité pénale et capacité pénale**. Il était faux de considérer que **le mineur était irresponsable au seul motif qu’il ne pouvait faire l’objet que de mesures éducatives**. En réalité, **seuls les mineurs non discernants sont véritablement irresponsables**.
 
-c ainsi qu'on peut avoir des hypoitgèses de justification d'acte de cruauté envers les animaiux, justifier en vertu d'une coutume, d'une tradition locale, ex la corrida, ou les combats de coq.
+**La réforme de 2002 : une clarification du droit pénal des mineurs**
 
-hypothèse 2 où la jursproudence peut reocnnaitre valeur justiifcativeà l aocuutme
+La loi du **9 septembre 2002** a procédé à une **réécriture de l’article 122-8 du Code pénal**, qui adopte une **formulation plus sévère** :
 
-exemple histoirqiue : ce qu'on a longtemps appelé le "droit de correction".
+- **Alinéa 1** : « **Les mineurs capables de discernement sont pénalement responsables des crimes, délits et contraventions dont ils ont été reconnus coupables, dans les conditions fixées par une loi particulière qui détermine les mesures de protection, d’assistance, de surveillance et d’éducation dont ils peuvent faire l’objet** ».
+- **Alinéa 2** : « **Cette loi détermine également les sanctions éducatives qui peuvent être prononcées à l’encontre des mineurs de 10 à 18 ans, ainsi que les peines auxquelles peuvent être condamnés les mineurs de 13 à 18 ans, en tenant compte de l’atténuation de responsabilité dont ils bénéficient en raison de leur âge** ».
 
-corriger un enfant constitue un acte de violence volontaire. pourtant ce dreoit a pu être reconnu par la coutume consacrée par la jurisprudence au bénéfice des parents titularies de l'autorité parentlae et même parfois au bé,néfice des enseignants à qui on considérait historiquemtnq ue les parents aviaent délégués. l'aurotiré panrentale.
+Cette nouvelle rédaction **clarifie plusieurs principes** qui, bien qu’acquis en pratique, **n’étaient pas clairement affirmés dans la loi**. Elle introduit également **un nouveau type de sanction éducative**, situé à **mi-chemin entre la peine et la mesure éducative**.
 
-meme lorsqu'on a admis en jurisprudece le droit de correction, ce droi coutumier 'na jamasi pujustifier toutes les vioolekcens. DOnc 'était très cadré.
+Les avancées majeures de la réforme de 2002 sont les suivantes :
+- **C’est la première affirmation explicite du principe de responsabilité pénale des mineurs discernants.**
+- **C’est la première fois que la loi fait expressément référence au discernement du mineur** (auparavant, cette notion n’existait que dans la jurisprudence).
+- **La loi reconnaît formellement l’atténuation de responsabilité en raison de l’âge du mineur**.
+  
 
-notemmetn 3 critères forts qui'l fallait vériifer : 
-1. le droit de correcton était exercé dans l'itneret de l'enfnat, càd dans un bug éducatif
-2. il fallati que ce dorit s'exerce en respectant une certaine mesure, càd ne pas porter atteinte à sa santé.
-3. le drit de correctiond evait s'exercer  avec la dignité de l'enfant
+Dans la **version de 2002** (toujours l’ordonnance de 1945), les mineurs non discernant n’ont pas de RP. On met de nouveaux seuils. 
 
-exemples de violecnes justifiées :
-- jugemetn du tribunald e police de bordeaux du 18 mars 1981 il s'agissait du'n ecolier ha bituellemetn turbulent qui refuse d'obieri aux ordres d el'instituttrice e tse comporte de manere insolente. institutrice lui donne une gifle. elle est relaxée, on note que le comportmetne de l'enfnat justifiait une répliqeu de l'institutrice. la réplioqeu de l'institutriece n'a pas constitué une réponse excessive (pas eu de ITT, de réponse excessive, d'attient eà la santé de l'enfant).
+- Le mineur de 10ans, on ne lui appliquera que des mesures éducatives = art 15 de l’ordonnance. 
+- Pour les mineurs de 10 à 13ans, on a créé une nouveauté, on peut prononcer une mesure éducative ou une sanction éducative seulement si la personnalité et les circonstances du mineur l’exige = 15 - 1 de l’ordonnance de 1945. 
+- Pour les 13 à 16 ans, on a trois types de sanctions : mesure éducative / sanction éducative et des peines. Si le juge prononce une peine, il faut retenir l’atténuation de RP liée à l’âge du mineur 20 - 2 de l’ordonnance. 
+- Pour les mineurs de plus de 16 ans, ils ont le même sort que les mineurs âgés de 13 à 16ans, mais ici on a une exception, cette diminution légale de la peine peut être neutralisée si les circonstances de l’espèce et la personnalité du mineur l’exige. Le mineur pourra alors être traité comme un majeur. 
 
-non jstuifié : un homme gifle violemmetn 'lenfant de sa concubine, agé de 6 ans, et liui plonge la tete dans la cuvette des toilette et tire lachasse d'eau.  contraire àla dignité de enfant ch criminelel 21 juilet 1990. 
+Le conseil constitutionnel se montre attaché à des principes spécifiques pour la justice pénale des mineurs. On a besoin de rechercher le relèvement éducatif. La décision doit adaptée à l’âge et à la personnalité des mineurs. Le 3 mars 2007 et le 9 aout 2007, une décision DC est rendue qui retouche le dispositif. Il rappelle son attachement au principe de la justice pénale des mineurs. Il considère que tous ces principes n’impliquent pas que les mesures contraignantes ou les sanctions doivent être systématiquement évitées au profit de mesures purement éducative. Le CC valide les évolutions. 
 
-ajd questionse pos eplus ca rloi du 10 juillet 2019 relative à l'interidicotn des violences éducatives ordinaires a interdit le "droit de correction". 
+#### B) Le droit positif
 
-pour le dviolence sportives : c'est la tolérence des vilences sportives. Box catch rugbu n se tape dessus. Ce sont de sivolekc,es volontaires qui sont commises. c'est me cadre de la pratique sportive qui exiuve, justifie les violecnes qui sont perpetrées de part et dautres.
+La principale source d’inspiration de notre droit positif en matière de justice pénale des mineurs provient d’un rapport très célèbre rendu le **3 décembre 2008**, connu sous le nom de **« Rapport Varinard »**, issu de la **commission de réflexion** du même nom. Ce rapport, remis en décembre 2008, constitue une source essentielle de la réforme.
 
-C ppiur ça que l'impunité, la juiicaiton en joeu que dans le cadre de srègle sud jeu. si on depassse une pourusite péale redevient possible. ex on tape apres fin de partie, c hors cadre.
+Deux raisons majeures justifiaient la réforme sur le plan des obligations juridiques : elles résultaient de **deux contradictions entre le droit pénal français de l’époque et les exigences de la Convention internationale des droits de l’enfant (CIDE)**.
 
-2eme questionq ui c posée apres la outume : la questiond. consnetment e de la victime
+→ **Premier problème** : l’absence d’un **âge minimal de responsabilité pénale (RP)**. La CIDE demande aux États de fixer un âge légal minimum, tandis qu’en droit français, la responsabilité pénale reposait sur la notion de **discernement**, avec plusieurs seuils d’appréciation. Cette approche n’était pas en accord avec les recommandations de la CIDE. La réforme a donc maintenu le critère du discernement, mais a instauré une **présomption de discernement dès l’âge de 13 ans**.
 
+→ **Deuxième exigence de la CIDE** : celle-ci préconise la **spécialisation des juridictions pour mineurs**. Or, en droit français, une **tendance à la déspécialisation des juridictions** était en cours, ce qui n’était pas conforme aux attentes de la CIDE.
 
-sovent invoquée devant el juge.  Le consentment de la vicitme ne permet pas de constituer unf ait justiifcatif. Le proces pénal c pas le proces de la victime contre auteur des faits, c le proces du minsitere public contre l'auteur des fiats.
+**Raisons concrètes de la réforme :**
+- **L’ordonnance de 1945**, au cœur de la justice pénale des mineurs, avait été **modifiée 39 fois**, la rendant **illisible** et difficile à appliquer.
+- À l’époque, le **délai moyen de jugement** d’un mineur était d’environ **18 mois**.
+- **45 % des affaires étaient jugées après que le mineur ait atteint la majorité**, ce qui entraînait l’application de peines conçues pour des mineurs à des personnes désormais majeures. La réforme visait donc à **réduire ce délai**.
 
-le fait que la vicitme ne porte pas plainte, le fait meme que la vicitmel ai consenti à l'infraciton et par principe aprfaitement indifférente. 
+Le **23 mars 2019**, le législateur a voté une **loi d’habilitation**. L’ordonnance n’a pas tardé : elle a été adoptée le **11 septembre 2019**. Initialement prévue pour entrer en vigueur le **1er octobre 2020**, son application a été reportée **au 31 mars 2021**, puis finalement **au 30 septembre 2021**, en raison de la crise sanitaire.
 
-commetne expliquer que dans certians cas ca explique la relaxe? en rélaité le ocnsenemtn de la vicitme n'est pas un fait justificaitf, il ne fait pas disparaitre l'infraction. ex viol la définition emme du viol il faut que les actes soient imposé par la vicitme par violenece contrainte menace ou surprise. Si victime ocnsnet à lreation exeutlel,e aors c pas un viol.  consentemtn c pas un fait justificatif mais elemetn constituif.
+Le principal fruit de cette réforme a été la création d’un **Code de la justice pénale des mineurs**, comprenant **277 articles**, dont la majorité concerne la **procédure pénale**. Une nouvelle rédaction a ainsi vu le jour :
 
-pariel pour le vol, si personen nous donne l achose, elle consent, on petu pas voler qq chose qu'on nous donne.
+> _« Les mineurs capables de discernement [sont pénalement responsables] dans des conditions fixées par le Code de justice pénale des mineurs. »_
 
-3°) La nature de la norme justificative
+**Les enjeux du nouveau dispositif :**
 
-on pourrait penser à priori que seule un ordre ou une autorisation de la loi pénale peut justifier une infraction pénale. 
+L’un des objectifs essentiels était **d’accélérer le jugement sur la culpabilité**. La procédure repose désormais sur plusieurs étapes :
 
-cette approche est errronnée. Elle laisse à penser que le legislatuer est plusriel, alors que non, ya que un parlement. un seul legislatuer. 
+1. **Une première phase d’instruction rapide** (3 mois) : recueil d’informations et d’éléments relatifs au mineur.
+2. **Un premier jugement sur la culpabilité et l’indemnisation des victimes**.
+3. **Une période de mise à l’épreuve éducative** (6 à 9 mois), permettant d’évaluer le mineur et d’adapter la sanction.
+4. **Le jugement définitif sur la sanction**, après cette période d’évaluation.
 
-et donc une norme meme non pénale, ex ciivle, commerical,e peut venir justiifer une infraction pénale.  en fait l ne faut pas rausoner en terme de norme pénale ou norme extra-pénale. il faut raisoner en terme d enprme generlae t de norme spéciale. est ceuu'n noemr spéical eivent déroger à l'infraciton pénale qui serait la norme générale??
+Le dispositif instaure une **présomption de discernement dès l’âge de 13 ans** et impose que **la déclaration de culpabilité soit prononcée en présence des parents**.
 
-avna tla jurpsirnde ce del achambre cirnminelle du 11 juin 1992. Vont considerer que le devori conjugal prévu a arilc e215 ducode ciivl justifiat un viol entre époux. 
+**Un renforcement de l’action éducative et de l’individualisation des mesures**
 
+L’accent est mis sur **l’individualisation de la sanction éducative**. Cette personnalisation repose sur la période de mise à l’épreuve éducative, qui permet d’adapter la réponse judiciaire en fonction des besoins du mineur.
 
+À l’issue du procès, une **mesure éducative unique** peut être prononcée, avec plusieurs **modules** adaptés :
+- **Insertion professionnelle**,
+- **Placement**,
+- **Réparation**,
+- **Soins médicaux**, etc.
 
-#### B) Les conditions de la justification par l’art 122-4 du Code pénal
+L’objectif est de rendre le **jugement plus adapté**, en veillant à ce que la sanction intervienne **dans un délai de 9 à 12 mois après les faits**.
 
-il existe 2 types d'ordre et de permision de la loi :
-aliéna 1er l'ordre ou la permisison de la loi directement executable
-alinéa 2 : l'ordr eou lapersmiison dont l'exeucitone st subordonéeesà un commandemetn d el'autrotié légitime.
+Des **mesures alternatives** telles que les **stages et les travaux d’intérêt général (TIG)** sont également développées pour diversifier les réponses judiciaires.
 
-##### 1) l'ordre ou la permission directment exeutable
+**Ce qui n’a pas changé avec la réforme**
+- La **majorité pénale** reste fixée à **18 ans**.
+- **L’atténuation de responsabilité** liée à l’âge du mineur est maintenue.
+- **La spécialisation de la justice des mineurs** demeure : le juge des enfants conserve **sa double fonction**, en matière d’assistance éducative et de justice pénale.
+- **La distinction des audiences** (jugement de la culpabilité puis jugement de la peine) **disparaît dans les cas de récidive**.
 
-dans ce cas, s'agissant des conditons de la justification, 122-4 alinéa 1er ne dit rien. en réalitéi il faut se refererr, il fau aller voir la norme justificative elle-même. Et c elel qui va poser les conditions de la justification. 
+Enfin, la réforme a introduit une **définition légale du discernement** dans le **Code de justice pénale des mineurs**.
 
-ex article 73 du code de procédure pénale : hytpohèse du crime ou du délit flagrant, on va interpeller la personnepour l'memenr devant OPJ la plus proche. Mais poste 4 conditonsà la justification d el'oinfraciton commise par l'agent. 
+**Article L11-1 :**
+> _« Est capable de discernement le mineur qui a compris et voulu son acte et qui est apte à comprendre le sens de la procédure pénale dont il fait l’objet. »_
 
-2 qualfiications pnélaes evodentes : violences volontaires, sequestration arbitraire. 
+Cette définition consacre l’importance du discernement dans l’évaluation de la responsabilité pénale des mineurs, tout en laissant aux juges une marge d’appréciation pour adapter la sanction à chaque situation.
 
 
-1. d'abord il faut une incation flagrante. 
-2. deuxiemement fait une infraction qui soi tun crime ou un délit passible d'meprisonnement
-3. le sel but c la conduite de ce dernier devant un OPJ
-4. la ocnduite devant OPJ doit se faire sans retard, sans délais (le texte vise l'OPJ le plus proche).
+## Section 2
 
-des lors quqo'nquitte le cadre des 4 conditions des poursuoites pénales sont parafitement pssiboe à notre endroit.
 
+### Paragraphe 3 – L’état de nécessité
 
-ceratins autuers se demadnent donc quel es tl'utilisé de 122-4 alinéa 1 appart annoncer des textes ponctuels justificatifs.
+**Selon l’article 122-7 du Code pénal :**  
+« _N’est pas pénalement responsable la personne qui, face à un danger actuel ou imminent qui menace elle-même, autrui ou un bien, accomplit un acte nécessaire à la sauvegarde de la personne ou du bien, sauf s’il y a disproportion entre les moyens employés et la gravité de la menace._ »
 
-en la matirèe, des diffiuclés peuvent se présenter en cas de discordance entre l'acte accomplis et l'acte autorisé par la norme justificative.
+Ce texte est issu de la réforme du Code pénal de 1994. Il consacre une jurisprudence datant des années 1950, qui a fini par hisser l’état de nécessité au rang des faits justificatifs – en dehors de toute prévision légale (**==arrêt de principe : arrêt _Lesage_, 25 juin 1958==**).
 
-si l'acte coincide, la justification joue. dans les hytpoih!se sd ediscordance, si elle est otalae, l'aacte accomplis n'a rien à voir. 
+**→ L’origine du fait justificatif tiré de l’état de nécessité est donc jurisprudentielle.**
 
-si discordance est partiele, une parite des actes sera jusitifé, et ce qui pour le surpulus on peut avoir un engagement de resonsabilité. Une exigence fodaemntale en matiere de fait justiifatic : on eixge que le comprotemtn de l'agent soit proportionnée.
+**– L’agent agit en état de nécessité lorsqu’il se trouve, pour échapper à un péril, dans la nécessité de commettre un acte constitutif d’une infraction pénale ; l’infraction commise est justifiée si les conditions d’admission de l’état de nécessité sont réunies.**
 
-question éganelemtn posée de l'ordre ou la permission de la loi putative. (putare en latin : croire, penser). C une persmisson de la loi qui n'a existé que dans l'esprit de l'agent, on admet que l'agent puisse se prévaloir d'un ordre de la looi putatif si il est de bonne foie et que sa croyance erronée était légitime.
+_Exemples dans lesquels l’état de nécessité est invoqué (pas forcément retenu) :_
 
-exemple : un policier neutralise un individu armé qui tentait de voler une voiture. Il va tenter de se prévalliir de l'aritlce 73. 
+- Une mère de famille abandonnée et à bout de ressources vole un pain pour nourrir son bébé affamé ; elle commet un vol pour sauver la vie de son enfant.
+- L’un des membres d’une association caritative force la porte d’un logement inhabité pour y installer des sans-abri.
 
-un autre indiviud s'approche. Le poliicer croit qu'il s'agit d'un complice lui aussi armé, alors qu'en fait il s'agisait d'un simple quidame qui passait par là. 
+**Quel est le fondement de l’état de nécessité ?** Il a varié dans le temps : il faut distinguer deux périodes.
 
-le policer va frapper et neutraliser le quidam. La vcitme innocente va porter plainte pour ivolence volontaire. Les juges vont relaxer le prévenu, le policer, sur le fondemetn de article 73  en soulignant qu'il acommmis ici une erreur, il a de bonen foie cru que c'était un complice du voleur qui lui tombiat dessus.
+**==Avant l’arrêt _Lesage_ du 25 juin 1958==**, le fondement de l’état de nécessité était **subjectif**.
 
+Faute de texte, les juges mobilisaient d’autres fondements pour justifier l’impunité du prévenu ayant agi en état de nécessité (c’était une époque où le « culte de la loi » était très fort : les juges n’osaient pas faire œuvre créatrice en faisant de l’état de nécessité une cause autonome d’irresponsabilité pénale).
 
+Ainsi, l’état de nécessité a parfois été assimilé à la contrainte morale : les juges relaxaient le prévenu au motif qu’il n’avait eu aucune liberté de choix en raison des circonstances dans lesquelles il s’était trouvé.
 
-1) question dont l'orere est subordonné à un commadnemetn de l'auorité légitim (hypothsede aliéna 2)
+**Exemple célèbre : affaire _Ménard_**  
+Une mère de famille abandonnée, sans ressources, vole du pain dans une boulangerie pour sauver la vie de son bébé malade et sous-alimenté. Elle est poursuivie pour vol. Le **tribunal correctionnel de Château-Thierry**, en **mars 1898**, décide de la relaxer sur le fondement de la contrainte morale : la misère et la faim sont susceptibles d’enlever à l’être humain une partie de son libre arbitre. Le tribunal était présidé par le « bon juge Magnaud », resté célèbre pour ses jugements rendus en équité.
 
+Cette jurisprudence procède en réalité d’une véritable confusion :
 
+- En matière de **contrainte**, l’agent n’a **aucune liberté de choix** ; une force irrésistible le pousse à commettre l’infraction : la contrainte supprime la liberté de choix.
 
-cet aliéna 2 de 122-4 la jutiifaiton de inffarction commise va dépendre de 2 séries de ocnditins.
-1. les conditons gneerale squis otn posés à 122-4 alinéa 2
-2. conitons partiucleires posées par la norme ksitificative aploicable.
+- En matière **d’état de nécessité**, l’agent **conserve sa liberté de choix** : il est face à un péril et a le choix entre commettre l’infraction pour échapper au péril, ou ne pas la commettre et laisser le péril se réaliser. C’est à l’agent de faire le bon choix : il est exonéré si l’intérêt qu’il sacrifie en commettant l’infraction est **moins important** que celui que la commission de l’infraction permet de sauvegarder.
 
-exigence de 122-4 al 2 pose 2 ocniirons à la justiifationde la justifitoan de l'ifnratin et une troiseme condition qui n'est pas expressmetn prévue masi eviente, déocule de la concordanc ed ela prpopritonalité.
 
-1ere condition  concerne l'origine du commandement. ce commandement doit emaner duen autorité légitime càd d'une autorité publique, une auturoitré ocmpétente, et une autorité frnaçaise.
+Il y a donc un **conflit d’intérêts** :  
+– L’intérêt sacrifié par la commission de l’infraction (dans l’affaire _Ménard_, c’est l’intérêt du boulanger, c’est-à-dire la propriété d’autrui)  
+– L’intérêt menacé par le danger (la vie de l’enfant).
 
-là dessus y'a un exemple jurisprudentiel qui a crusé cette queston e autorité légiitme : hypothese des ordres emanant du gouvernemetnde vichy peuvent etre justifiactifs, econexatires de repsosnabilté pénale. 
+C’est à l’agent de **peser les intérêts en présence** et d’en déduire s’il se trouve dans la nécessité ou non de commettre l’infraction. Dans l’affaire _Ménard_, la mère de famille a fait le bon choix.
 
-non, le gouiv de vichy petu pas e^tre cosiéré comme légiitme, car orodnnace de 1944 prise à la libération l'a déclaré comme étant une "autorité de fait non légitime".
+**Avec l’==arrêt _Lesage_ du 25 juin 1958==**, la Cour de cassation a fait de l’état de nécessité **une cause d’irresponsabilité autonome**, en ce qu’elle l’a visé sans référence à aucun autre texte.
 
-autorité légitme était la résistnace constituée à lodnres. et donc de fait ça a empêhcer le jeu de l'ordre de la loi et du commadnemetn autorité légiite comme fait justiifacatif des actes accomplis par les focntionnaires de ce gouvenremet,; 
+**Les faits de l’affaire _Lesage_ :**  
+Lesage conduit sa voiture lorsque la portière avant droite s’ouvre, ce qui fait basculer sa femme et son enfant. Pour les retenir et éviter de les écraser, il braque à gauche… mais entre en collision avec un autre automobiliste. Il est poursuivi pour coups et blessures par imprudence.
 
-une autre ordonnance est intervenue ensuite pour préciser que ce qui n'avait fait qu'executer les ordre sug voeurnemetn de vichy sans prendre aucune initiative personnelle ne pouvait aps être inquiété. 
+La cour d’appel relaxe Lesage sur le fondement de l’état de nécessité. La Cour de cassation casse l’arrêt pour insuffisance de motifs ; selon elle, la cour d’appel **aurait dû vérifier trois choses avant de conclure à l’état de nécessité** :
 
-à la faveur de l'affaire papon, tranchée ar la ch crinmiel 23 janver 1997, maurice papon avait tenté de justifier els actes qu'il avait acocmplsisur le fondemetn de l'aurotiré légitiMe. acte reproché : crimes contr ehumanté. 
+1. La manœuvre était-elle **nécessaire** ?
+2. La manœuvre a-t-elle permis d’éviter un **accident plus grave** ?
+3. Lesage n’a-t-il pas commis une **faute** en laissant sa femme et son enfant s’installer dans la voiture alors qu’il savait que la portière s’ouvrait facilement ?
 
-on a posé un principe qui selon lequel certains actes odnt les crimes conter humanité ne peuvent pas être justifié.
+Cet arrêt n’a fait que consacrer une jurisprudence de certains juges du fond : jurisprudence apparue à l’occasion de l’hiver extrêmement rigoureux qui a sévi en France en 1955. Certains juges du fond s’étaient fondés, explicitement et exclusivement, sur l’état de nécessité pour relaxer des personnes ayant enfreint la loi pénale pour échapper aux rigueurs de l’hiver – soit en aménageant leur habitation sans attendre les autorisations administratives nécessaires, soit en occupant illégalement des logements inhabités (les **Compagnons d’Emmaüs** s’étaient fait connaître en menant des actions de relogement).
 
-deuxieme cpndition préuveà 122-4 : c'es tla légaltié du comandement 
+**La Cour de cassation n’a donc fait que suivre le mouvement initié par les juges du fond.**
 
-pour etre justiifciatif le commadnemetn adresséà l'agentdoit être ocnforme à l'ordre de laloi. Le commandement doit donc être légal.
+À la suite de l’arrêt _Lesage_, les auteurs ont indiqué que le fondement de l’état de nécessité était désormais **objectif**, car l’infraction nécessaire constitue un acte socialement utile : en commettant l’infraction, l’agent a **sauvegardé l’ordre social** ; il a sacrifié une valeur **inférieure** à celle que la commission de l’infraction a permis de préserver.
 
-lorsquel ele commadnement est illégal? 
+Le Code pénal de 1994 a confirmé cette analyse en reprenant les conditions posées par l’arrêt _Lesage_ à l’admission de l’état de nécessité. Ces conditions sont relatives au danger (1) et à la réaction (2).
+#### A) Les conditions de la justification relatives au danger :
 
-probleme prévu article 122-4 alinéa 2nd. Le texte apporte une réponse nuancéeà cette question. "n'sdt pas pénalmetn repsonsable la persnneq ui accomplis un acte commandé par l'autirotéi légiitme", sauf si cet acte est manifestmeent illégal. 
-le legislateur a mis enplace un systme eparticueir. 3 positosn envisageables. 
+**Article 122-7 du Code pénal** – Le texte se contente de décrire les caractéristiques que **le danger** doit présenter pour justifier une réaction. Toutefois, il ne se prononce pas sur un certain nombre de questions relatives à la **réalité** du danger et à **son origine**.
 
-1. systeme 1 dit de obeissane passive. dans ce système la discipline doit l'emporter sur la légalité. Que acte soit légal ou pas c pas graven on obiet aux ordres du superieur. en clair, le usbordonné à qui on donne des ordres n'a pas à s'interroger sur la glégalité du commadnemetn qu'on lui donne. ila un deovir d'obeissance absolu. SI en obeissant au commandement ilcommet une infraction, celle ci sera justfiée. cette prmeier théorie est dangereuse, car ca permet de justifeir toutes les exactions. 
-2. théorie dite des baillonettes intelligentes. Ici le subordonné doit s'interroger sur la légaltié des commadnements qui lui sont adressés. la légalité k'emporte usr ladiscipline. il a le droit et meme le devoir de refuse run ordre illégal, piur pas engager sa responsaiblité. Peut paraitre bien mais dans certaisn corps d emetier comem armée cc ompliqué. il faut uq ela idscipolien l'emporte 
-3. théorie dite de l'illégaltié manifeste : lsysteme interpediare pemre td'eviter les exces. Egallemetn celle retenur pa rle code penal. COncenr eles actes manifestements illégals.
+1) **LES CARACTÈRES DU DANGER :**
 
+Il doit s’agir, d’une part, d’un danger **physique**, **moral** ou **matériel**, et d’autre part, d’un danger **actuel** ou **imminent**.
 
-qu'estce) qu'un acte manifestmenet illégal? jusurpidence ocnisdere que c unq equestion de fait laissée à appréciaitonsovueraine des juges du fond mais clairement les juges doivent envisager 
-.
+- **UN DANGER PHYSIQUE, MORAL OU MATÉRIEL** :  
 
-jige doitenvisager 2 hcoses : gravité intrinseque et extrasecte de l'acte.
+« _N’est pas pénalement responsable la personne qui, face à un danger [...] qui menace elle-même, autrui ou un bien [...]_ »
 
-lorsque acte est inhumain, intrasequement y'a une innhumanit. Ex le viol, ou crime contre humanité, ou torture eta ctes inuumains et dégradants. 
+→ On retrouve la même idée qu’en matière de légitime défense.
 
-gravité extrinseque : hypothese où vous demandez à votre subordoné de violer ces devors profesionels elementaires. Ex maire qui demande de fair edes déclassmets de terriain.
+Le législateur de 1994 reprend la jurisprudence antérieure : le danger peut menacer **les biens** (danger matériel – _ex. : nécessité de tuer un chien pour protéger un autre chien_) ou **les personnes** (l’agent lui-même ou autrui). Lorsqu’il menace les personnes, peu importe que le danger soit d’ordre physique ou moral.
 
-quel va etre le sors de auteur du commandement illégal? si lecommadnemetn donné est manifestment illégal, l'infraciton n'est pas justiifée.  auture et lesbuorodnén et le sipereri est ocmplice de l'infraction
-si le commadnemetn donné est oillégal mais pas manifesmtenet, le sipérieur hiérarhciuqe ne peut âs etre inquioété au plan pénal, parce que si le subordonné bénéfiice d'un fait justificaitf il n'y a donc pas de fait punissable.
+Le plus souvent, le danger est **physique** :  
+_Une mère de famille vole pour nourrir son enfant (affaire Ménard) ; un automobiliste braque brusquement pour éviter d’écraser les passagers tombés de son véhicule (affaire Lesage) ; un chauffeur de taxi commet des excès de vitesse pour conduire à l’hôpital une personne nécessitant des soins urgents._
 
-condition 3qui s'ajout : il faut une necessaire concordance entre acte commandé et acte accomplis. `
+En 1997, une affaire a retenu l’attention des médias : une mère de famille célibataire, aux ressources modestes, vole à trois reprises dans trois supermarchés différents des denrées alimentaires (viande) pour offrir à ses deux enfants une alimentation plus variée que d’habitude (montant du vol : 2 000 F). Elle est poursuivie pour vol. Le tribunal correctionnel la relaxe sur le fondement de l’état de nécessité. La cour d’appel de Poitiers infirme le jugement : les difficultés financières alléguées sont jugées insuffisantes pour caractériser un danger réel menaçant les enfants. Contrairement à l’affaire Ménard, la santé des enfants n’était pas menacée (CA Poitiers, 11 avril 1997, affaire Grippon).
 
-### Paragraphe 2 : La légitime défense
+Le danger peut aussi être **moral**.  
+Cette solution remonte à un arrêt de la CA de Colmar du 6 décembre 1957 : un père, en instance de divorce, souhaite récupérer sa fille qui vit avec sa mère. Celle-ci mène une vie de débauche et entraîne leur fille dans ce milieu. Le père force la porte du domicile (violation de domicile) pour soustraire sa fille à cette influence. L’état de nécessité a été retenu par la cour d’appel.
 
-C’est la plus célèbre cause d’irresponsabilité pénale. Il s’agit d’une cause **universelle**, existant dans toutes les sociétés. Cependant, elle a souvent **mauvaise presse**, car elle est associée à une forme de **justice privée**.
+- **UN DANGER ACTUEL OU IMMINENT** :  
 
-Or, le **monopole de la justice** appartient à l’État, ce qui explique que la légitime défense ne soit admise **que de manière exceptionnelle**.
+Ce caractère est expressément exigé par l’article 122-7 du Code pénal. On retrouve ici encore la même idée qu’en matière de légitime défense. Le danger futur et le danger passé sont en principe exclus du champ de la justification.
 
-La légitime défense permet **l’impunité de l’agent** qui commet une infraction pour **repousser une agression** menaçant **lui-même, un tiers ou un bien**.
+Le danger doit être **actuel** ou **imminent** : il doit présenter une certaine soudaineté, ce qui justifie l’urgence de la réaction.  
+- Le danger **actuel**, c’est celui qui est présent, en train de se réaliser.  
+- Le danger **imminent** est celui dont la réalisation est certaine dans un avenir très proche.  
+- Le danger **futur** n’est donc pris en compte que s’il est imminent, et non hypothétique.
 
-Il s’agit d’un **fait justificatif**, ce qui signifie qu’il **neutralise l’élément légal de l’infraction**. L’agent qui se défend agit souvent **par réflexe**.
+_Ex. : à la suite d’un grave accident, un homme devient paraplégique. Il souffre de douleurs intenses, mais ne peut pas prendre les médicaments adaptés en raison d’un problème rénal. Le seul produit susceptible de prévenir et soulager ses souffrances est une tisane à base de cannabis (utilisée dans les services de soins palliatifs). Il décide donc de cultiver du cannabis. Il est poursuivi pour détention et consommation de stupéfiants, mais est relaxé sur le fondement de l’état de nécessité (CA Papeete, 27 juin 2002)._
 
-Attention à ne pas **confondre légitime défense et contrainte**. Dans la **contrainte**, il n’y a **aucun choix possible** : la personne subit une force à laquelle elle ne peut résister. **Dans la légitime défense, comme dans l’état de nécessité, un choix existe.**
+Dans cet exemple, le danger est **physique** (souffrance corporelle) : il est à la fois **actuel** (soulager une douleur présente) et **imminent** (prévenir un pic de douleur annoncé)._
 
-La légitime défense est une **cause d’irresponsabilité autonome**, mais elle doit être **relativisée**, car elle n’est finalement qu’un **cas particulier d’une permission de la loi**.
+**2°)** **L****A RÉALITÉ DU DANGER** **:**
 
-On peut également voir dans la légitime défense **une forme spécifique d’état de nécessité**. L’état de nécessité implique qu’**en présence d’un péril**, l’agent **est dans l’obligation de réagir**. Cependant, dans l’état de nécessité, le **péril** peut être **très large**, alors que dans la légitime défense, il s’agit **nécessairement** d’une **infraction que l’agent subit**, ou qu’un **tiers ou un bien subit**.
+Le danger doit être réel – exigence JP. Cela signifie 2 choses :
 
-Le **Code pénal** mentionne la légitime défense dans **deux articles** : **les articles 122-5 et 122-6**.
+- Il ne faut pas confondre péril et absence de commodité :
 
-L’**article 122-5** comporte **deux alinéas**.
+_des squatters qui occupent des locaux ne bénéficient jamais de l’EN car les juges_
 
-- Le **premier alinéa** traite de la **légitime défense des personnes**.
-- Le **deuxième alinéa** traite de la **légitime défense des biens**.
+_estiment que leur infraction ne fait que remédier à un défaut de commodité ;_
 
-Concernant **la preuve de la légitime défense**, **n'est pas pénalement responsable** la personne qui, devant **une atteinte injustifiée** envers elle-même ou autrui, accomplit **dans le même temps** un acte commandé **par la nécessité de la légitime défense**, sauf s’il y a **disproportion** entre les moyens employés et l’attaque.
+_dans l’affaire Grippon, en volant les denrées alimentaires, la mère avait pour but_
 
-De même, **n'est pas pénalement responsable** la personne qui, pour **interrompre l’exécution d’un crime ou d’un délit contre un bien**, accomplit **un acte de défense autre que l’homicide volontaire**, lorsque cet acte est **strictement nécessaire** au but poursuivi et lorsque **les moyens employés sont proportionnés** à la gravité de l’infraction.
+_d’offrir à ses enfants une alimentation plus variée que celle qu’elle leur donnait_
 
-L’**article 122-6** pose une **présomption de légitime défense** dans deux hypothèses précises :
+_d’habitude ; il ne s’agissait donc que de remédier à un défaut de commodité ;_
 
-- Pour **repousser de nuit une entrée par effraction, violence ou ruse dans un lieu habité**.
-- Pour **se défendre contre les auteurs de vol ou de pillage exécuté avec violence**.
+- Le danger putatif (celui qui n’existe que dans l’esprit de l’agent) ne semble pas être
 
-Ce texte permet de **présumer la légitime défense** de celui qui a riposté. Dans **toutes les autres hypothèses**, c’est à **celui qui invoque la légitime défense** de **prouver** que toutes les conditions de la légitime défense sont réunies.
+pris en compte par la JP.
 
-Les **présomptions posées par l’article 122-6** ont été **reprises de la jurisprudence**.  
-Notamment, **l’arrêt de la chambre criminelle du 19 février 1959** est intéressant, car il s’est positionné sur **la force de ces présomptions**.
+=> on a déjà vu qu’en matière de LD, l’agression putative est prise en compte mais à
 
-La question qui se posait était de savoir s’il s’agissait de **présomptions simples ou irréfragables**.  
-La jurisprudence, **dès 1959**, a affirmé **le caractère simple et réfragable** des présomptions posées par l’article 122-6. Cette solution a été **reprise postérieurement** par le **Code pénal de 1994**.
+condition d’être au moins vraisemblable. **En matière d’EN, cette JP n’est pas**
 
-Si la légitime défense est reconnue, il faut comprendre que la **personne poursuivie passe du statut d’agresseur à celui de victime**, et que la **victime de la riposte** devient **l’agresseur initial**.
+**transposable – c’est du moins l’opinion de la doctrine majoritaire.**
 
-On est donc **en présence de deux infractions successives** :
 
-- La **première infraction** est celle de l’**agresseur initial**.
-- La **seconde infraction** est la **riposte** effectuée par la personne qui invoque la légitime défense.
+3) **L’origine du danger :**
 
-Si la légitime défense est admise, alors **la seconde infraction disparaît** juridiquement.
+En matière d’état de nécessité, **l’origine du danger n’est absolument pas indifférente.**
 
-#### A) La légitime défense des personnes
+- **Le danger résultant d’une faute antérieure :**
 
-L'**alinéa 1** de l'article **122-5** du Code pénal doit être envisagé **à la lumière de la jurisprudence**, qui précise **les conditions tenant à l’agression et à la riposte**.
+_L’agent peut-il se prévaloir efficacement de l’état de nécessité lorsqu’il a lui-même contribué à créer, par sa faute personnelle, le danger dont il est menacé ?_
 
-Le juge doit **apprécier ces conditions au moment de l’action**, et **non après les faits**.
+Dans l’**==arrêt _Lesage_, la chambre criminelle==** a reproché aux juges du fond de ne pas avoir vérifié si Lesage n’avait pas commis une faute en laissant sa femme et son enfant s’installer dans la voiture sans avoir vérifié la fermeture de la portière. De cette solution, la doctrine a déduit qu’en cas de faute antérieure de la part de l’agent, l’état de nécessité n’est pas admis.
 
-##### 1) Les conditions relatives à l’agression
+Cependant, cette condition jurisprudentielle n’a pas été reprise par le législateur lorsqu’il a institué l’article 122-7 du Code pénal (le texte reprend toutes les conditions posées dans l’arrêt _Lesage_, sauf celle-ci).
 
-122-5 al 1er. le texte pose une suele condition : l'agression doit etre jusitifé. masi suppose que agression existe pour quelle soit.
+Au lendemain de la réforme, on s’est donc demandé si la jurisprudence allait ou non continuer à imposer cette condition d’absence de faute antérieure.
 
-- exisntede du'ne agression
-- illlégitiém de l'agression
+L’absence d’une faute antérieure est une condition d’admission **de tous les faits justificatifs**. Il n’y a donc aucune raison pour qu’il en soit autrement en matière d’état de nécessité.
 
-l'agressione st réelle si l'attitude del'agressuer est univoque. Exempele typique d ecas douteux : hypothse o une personen prend la fuite en tournatn le dos alors y'a pas d'agressionsur vous. quadn elle prend la fuite didifice de parler du'ne agression présente. 
+_Que décident les juges ?_  
+La Cour de cassation semble passer outre la lettre de l’article 122-7 : on peut citer un **==arrêt du 22 septembre 1999==**, dans lequel la Cour rejette l’admission de l’état de nécessité après avoir relevé des fautes antérieures à la charge de l’agent.
 
-attitude equivoqe d eagresuer et hypothese de agression vraisemblable de l'agresson puttaive. on a un cas en jursprdence qui a retenu : arret cour d'appel de Nancy du 9 mars 1979, un fermier qui interpelle 2 voleurs de poules. avec son fusil il veut les conduire aux forces del'ordre. sur le chemin, un des deux se retourne et fait mine de sortir quelqeu chose de sa poche. le fermier tire. on a admis la légitime défense meme is c'était putatif car avait aps d'arme.  dédui qu'ila pu raisonablement pensé qui'"l y aviat uen agression qui avai tpu s eprpduire.
+- **Le danger résultant d’une situation conforme à la loi :**
 
+**L’état de nécessité n’est jamais admis lorsque le danger résulte d’une situation conforme à la loi.**
+
+_Ex 1 :_ il y a quelques années, sévissaient les commandos anti-IVG ; des procès ont eu lieu mettant en cause des personnes ayant mené des actions destinées à empêcher le déroulement d’IVG. Ces personnes ont invoqué devant le juge l’état de nécessité (notamment) : leur action était, selon elles, nécessaire pour éviter la mort de fœtus. L’argument n’a jamais été retenu par les juges : l’intervention d’un médecin pratiquant une IVG est une intervention **conforme à la loi**.
+
+_Ex 2 :_ un groupe d’individus, aux convictions très fortes, pénètre par effraction dans une serre appartenant à un centre de recherche agronomique, dans laquelle était expérimentée — dans le respect de la loi — la culture de plusieurs milliers de plants de riz génétiquement modifiés. Les individus détruisent les plants. Ils sont poursuivis pour destruction du bien d’autrui en réunion et par effraction. Ils allèguent l’état de nécessité (l’infraction commise était, selon eux, nécessaire à la sauvegarde d’un environnement sain). L’argument n’a pas été retenu par les juges : l’activité en question est une **activité licite** (Crim., 19 nov. 2002).
+
+Dans ces deux exemples, les prévenus se sont mis en infraction avec la loi pénale pour contester ou résister à l’application d’une loi qu’ils estiment injuste. **Ils *confondent en réalité l’état de nécessité avec les valeurs morales*, religieuses ou politiques qui sont les leurs.**
+
+- **Le danger résultant d’une agression :**
+
+Lorsque le danger résulte d’une agression par un tiers, **l’agent agressé ne peut pas se prévaloir de l’état de nécessité** : il devra se placer sur le terrain de la **légitime défense** (_attention : conditions parfois différentes_).
+
+_Pourquoi cette solution ?_  
+Elle est commandée par la règle **« le spécial déroge au général »**. La notion générale, c’est l’état de nécessité (l’agent commet une infraction pour échapper à un péril, quel qu’il soit). La notion spéciale, c’est la légitime défense (l’agent commet une infraction pour échapper à un péril particulier : celui résultant d’une agression). Ainsi, en présence d’un péril résultant d’une agression, **ce sont les textes relatifs à la légitime défense (textes spéciaux) qui sont applicables.**
+
+Plus généralement, **on peut dire que la légitime défense n’est finalement qu’une forme particulière d’état de nécessité.** Dès lors, **on pourrait envisager la suppression de cette institution**, puisque l’état de nécessité est une notion générale qui englobe déjà l’hypothèse couverte par les textes relatifs à la légitime défense.
+#### B) Les conditions de la justification relatives à la réaction :
+
+**Article 122-7 du Code pénal :**  
+_« N’est pas pénalement responsable la personne qui, face à un danger actuel ou imminent qui menace elle-même, autrui ou un bien, accomplit un acte nécessaire à la sauvegarde de la personne ou du bien, sauf s’il y a disproportion entre les moyens employés et la gravité de la menace. »_
+
+Le texte confirme la jurisprudence **Lesage** en énonçant deux conditions, dont l’une est la conséquence de l’autre : la réaction, qui est constitutive d’une infraction pénale, doit être **nécessaire** et **mesurée** ; les moyens employés doivent être **proportionnés à la gravité de la menace**.
+
+1) **Condition 1 : La nécessité de la réaction**
+
+L’infraction commise doit avoir été le seul moyen pour échapper au péril.
+
+_Ex : L’affaire concerne un directeur des ASSEDIC confronté à un changement de législation entraînant un surcroît de travail, afin d'assurer le paiement dans les délais des indemnités chômage. Il décide de faire travailler ses employés le dimanche sans suivre la procédure habituelle (autorisation de l’inspecteur du travail). Poursuivi pour infraction à la règle sur le repos dominical, il se prévaut de l’état de nécessité. La cour d’appel le relaxe sur ce fondement. La Cour de cassation casse l’arrêt : la cour d’appel aurait dû vérifier si le directeur n’avait pas eu le temps d’obtenir les autorisations nécessaires. Autrement dit, elle aurait dû s’assurer que la réaction était bien nécessaire (==Crim., 12 janvier 1983==)._
+
+2) **Condition 2 : La proportionnalité entre les moyens employés et la gravité de la menace :**  
+
+Comme en matière de légitime défense, il s’agit ici de faire **un bilan coût/avantage**, en comparant la gravité du dommage produit par l’infraction à celle du dommage qui se serait réalisé si l’agent n’avait pas réagi.  
+
+- Les moyens employés sont jugés **proportionnés à la gravité de la menace** si le dommage causé est **moins grave** que celui évité.
+
+_Comment savoir lequel des deux dommages est le plus grave ?_  
+Il suffit de comparer les **intérêts en conflit** : quel intérêt est menacé ? Quel intérêt est sacrifié ?  
+
+Si l’intérêt sauvegardé a une valeur **supérieure** à l’intérêt sacrifié, alors il y a proportionnalité : l’acte commis est alors **socialement utile**.
+
+_Ex : dans l’affaire Ménard, étaient en conflit l’intérêt des enfants (leur survie) et celui du boulanger (sa propriété). Le premier est supérieur au second, car la vie a une valeur supérieure à la propriété._
+
+Les intérêts en conflit peuvent opposer **deux intérêts individuels** (ex. affaire _Ménard_) ou bien **un intérêt individuel et l’intérêt général**.
+
+- Dans le premier cas, il faut déterminer lequel des deux intérêts est supérieur, en recherchant les **valeurs protégées**.  
+- Dans le second cas, l’intérêt général est toujours **supérieur** aux intérêts individuels : une infraction qui sacrifierait l’intérêt général ne peut en principe être justifiée.
+
+_Ex : dans l’affaire Lesage, étaient en conflit un intérêt individuel (ne pas écraser son fils et sa femme) et l’intérêt général (la sécurité publique ; en l’espèce, Lesage a provoqué un accident ayant causé quatre blessés) : il y a disproportion._
+
+_Que décider lorsque les deux intérêts en conflit sont équivalents ?_  
+La question est controversée.
+
+- Pour certains, l’état de nécessité peut s’appliquer, car l’impunité de l’agent, sans être socialement **utile**, serait tout au moins **socialement indifférente**.  
+
+Cette solution est cependant choquante : elle revient à dire que provoquer la mort d’autrui est un acte indifférent parce que la vie de quelqu’un d’autre a pu être sauvegardée.
+
+- Selon d’autres auteurs, on ne peut pas détourner sur une autre personne un danger dont on est soi-même menacé (ou dont autrui est menacé).
+
+_Ex : une mère qui veut sauver la vie de son enfant n’est pas en droit de tuer le boulanger qui refuse de lui donner un pain gratuitement._

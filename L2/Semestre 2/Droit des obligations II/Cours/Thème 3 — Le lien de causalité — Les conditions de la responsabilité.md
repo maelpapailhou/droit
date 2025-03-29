@@ -41,11 +41,12 @@ Il suffit que le véhicule ait été présent lors de l’accident, à quelque t
 De plus, il n’est **pas nécessaire qu’il y ait un contact direct entre le véhicule et le siège du dommage**. On peut notamment citer le cas des collisions en chaîne, où plusieurs véhicules sont impliqués sans contact direct entre tous.
 
 #### C) La notion de causalité scientifique
-y'a une causalité scientiifque qui petu être dsitincte de la causalité juridque. les sicnes dures cherchent à comprendre les phenomenees physiques et les resultats, tout repose sur des formules, des theories qui doivent etre miss en pratiques. sauf que ces certifiutes peuvent parfois mettre es années à arriver. La recherche de la vertié scientifique sinscirt dans un temps tres long. 
 
-cependnat, pour le droit ou la causlaité ljuriduqe, il s'agit d'hypotheses qui font l'objet d'un litige. Une vicitme cherche une réparation. Il n'est pas question d'attendre 20 ou 30 ans avant d'etre indemnisé. que cette indemnisration soit obtenue de maniere amiable par le jeu des assureaces, ou qu'elle soti obtenue par le jeu du'une action en justice, la recherhce de la causalité juridqieu s'isncrit dans un temps bcp plus court, qui est soit celui de la negociaiton lrosqu'in chercher à transiger avec assurance ou adversiar,e ou dans le temps du proces.
+Il existe une **causalité scientifique** qui peut être **distincte de la causalité juridique**. Les sciences dures cherchent à comprendre les phénomènes physiques et leurs résultats à travers des formules et des théories qui doivent être mises en pratique. Cependant, ces certitudes peuvent parfois nécessiter des années, voire des décennies, avant d’être pleinement établies. La recherche de la vérité scientifique s’inscrit ainsi dans un **temps très long**.
 
-on a pas tjr s le temps ou les mpuyens techniques de recherche rla vérité au sens strict, et que dcp par consequent on va tres souvent se contenter de vraisembance, et par substitution on se contentera d'une vraisemblance. 
+En revanche, en droit, la **causalité juridique** repose sur des hypothèses soulevées dans le cadre d’un litige. Une victime cherche une réparation et **il n’est pas envisageable d’attendre 20 ou 30 ans avant d’être indemnisée**. Que cette indemnisation soit obtenue **de manière amiable** par le biais des assurances ou **par une action en justice**, la recherche de la causalité juridique s’inscrit dans un **temps beaucoup plus court**. Ce temps est soit **celui de la négociation**, lorsque l’on tente de transiger avec l’assurance ou la partie adverse, soit **celui du procès**.
+
+Dans de nombreux cas, **le droit n’a pas le temps ni les moyens techniques d’attendre la vérité scientifique au sens strict**. Par conséquent, il **se contente souvent d’un raisonnement fondé sur la vraisemblance**. Ainsi, **à défaut de certitude scientifique, le droit se satisfait d’une causalité fondée sur la probabilité** pour assurer une indemnisation rapide et efficace des victimes.
 
 ### Paragraphe 2 : L’établissement du lien de causalité
 
@@ -174,7 +175,7 @@ Il existe **plusieurs catégories** de fait de la victime, selon l'ampleur de so
 **1ère catégorie de fait de la victime : la faute de la victime**
 Prenons l'exemple d’une personne qui pique-niquait au bord d’une rivière, sachant qu’il s’agissait d’une plage privée. Fortement alcoolisée, elle décide d’aller se baigner et se blesse.
 
-Dans un arrêt de la **Cour de cassation, 2ᵉ chambre civile, 29 mars 2018**, la Haute juridiction a eu à se prononcer sur cette hypothèse. La responsabilité du **propriétaire du terrain** avait été mise en cause, mais la **Cour de cassation** a retenu la **faute de la victime**. En effet, celle-ci, en état d’**ivresse avancée**, n’avait pas su maîtriser ses gestes et ses mouvements. Elle a estimé que, si la victime n’avait pas été alcoolisée, elle **ne serait pas tombée**. Dès lors, la **faute de la victime** a été reconnue comme **exonératoire de responsabilité** pour le propriétaire.
+Dans un arrêt de la **==Cour de cassation, 2ᵉ chambre civile, 29 mars 2018==**, la Haute juridiction a eu à se prononcer sur cette hypothèse. La responsabilité du **propriétaire du terrain** avait été mise en cause, mais la **Cour de cassation** a retenu la **faute de la victime**. En effet, celle-ci, en état d’**ivresse avancée**, n’avait pas su maîtriser ses gestes et ses mouvements. Elle a estimé que, si la victime n’avait pas été alcoolisée, elle **ne serait pas tombée**. Dès lors, la **faute de la victime** a été reconnue comme **exonératoire de responsabilité** pour le propriétaire.
 
 Lorsqu'on parle de **faute de la victime**, celle-ci est appréciée de manière **abstraite** et non **concrète**. Il existe ainsi une distinction entre l’appréciation **in abstracto** et **in concreto**.
 

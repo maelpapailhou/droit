@@ -319,9 +319,10 @@ Exemple : Pour un couple avec un enfant ayant un revenu brut global de **90 000 
    $$IRnet = 5 260,90e$$
 Ainsi, le montant final de l'impôt net à payer est **5 260,90€**.
 
+---
+**Exemple vu en cours**
 
 ---
-COURS CALCUl
 
 ## Section 3 : Le paiement de l’impôt sur le revenu
 

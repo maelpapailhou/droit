@@ -1,4 +1,4 @@
-## Section 1 : les éléments constitutifs de la faute
+## Section 1 : Les éléments constitutifs de la faute
 
 - **L’élément objectif**
 
@@ -40,7 +40,7 @@ Toutefois, cette exigence de capacité de discernement a été progressivement s
 - **Intervention du législateur** : En 1968, lors de la réforme du droit des incapacités, une nouvelle disposition a été introduite dans le Code civil, aujourd’hui à l’article 414-3 : « Celui qui a causé un dommage à autrui alors qu’il était sous l’empire d’un trouble mental n’en est pas moins obligé à réparation ».
 - **Évolution de la jurisprudence** : La Cour de cassation a décidé que la capacité de discernement ne devait plus être prise en compte pour qualifier une faute chez un enfant.
 
-Deux décisions de l’Assemblée plénière du 9 mai 1983 ont opéré ce revirement de jurisprudence : les arrêts **Lemaire** et **Deguini**.
+Deux décisions de l’**==Assemblée plénière du 9 mai 1983 ont opéré ce revirement de jurisprudence : les arrêts Lemaire et Deguini==**.
 
 Lorsqu’on parle d’_infans_, il s’agit d’un enfant en bas âge. La question de l’âge à partir duquel un enfant acquiert un discernement s’est posée, mais la loi ne fixe aucun seuil précis. Une autre raison de ce revirement était d’améliorer l’indemnisation des victimes.
 
@@ -52,11 +52,10 @@ Dans l’arrêt **Lemaire**, un garçon de 13 ans est décédé accidentellement
 Depuis ces arrêts, la faute est appréciée uniquement de manière objective, sans tenir compte du discernement de l’auteur. Cette objectivation de la faute reste critiquée en doctrine, mais dans le projet de réforme de 2017, cette position a été maintenue.
 
 **Conséquences pratiques** :
-
 - Si l’enfant est **auteur** du dommage, son manque de discernement n’empêche pas de le considérer comme fautif.
 - Si l’enfant est **victime** d’un dommage, sa faute peut être une cause d’exonération pour l’auteur du dommage, comme dans l’affaire **Lemaire**.
 
-## Section 2 – Les différents types de fautes civiles
+## Section 2 : Les différents types de fautes civiles
 
 ### A) La distinction entre faute par commission et faute par omission
 
@@ -85,7 +84,6 @@ D’autres catégories de fautes ont émergé dans la législation, venant s’a
 - **Droit de la santé** : La loi du 4 mars 2002, adoptée après l’affaire _Perruche_, précise qu’un médecin ne peut pas être poursuivi pour ne pas avoir empêché la naissance d’un enfant. Toutefois, la législation prévoit que si une faute caractérisée du médecin est établie, sa responsabilité peut être engagée pour indemniser les parents.
 - **Droit du travail** : On voit apparaître des notions spécifiques comme la faute lourde, la faute grave et la faute inexcusable.
 
-
 ## Section 3 : Les domaines d’application de la faute civile
 
 ### A) Faute dans l’exécution d’un contrat. Principe d’identité des fautes contractuelle et délictuelle
@@ -100,8 +98,8 @@ Par exemple, une personne achète une voiture chez un concessionnaire, lequel l�
 
 La jurisprudence de la **Cour de cassation** a opéré une distinction importante :
 
-- **Dans une chaîne translative de propriété** : Lorsque les contrats successifs impliquent un transfert de propriété, l’action en responsabilité civile intentée est de **nature contractuelle**, même s’il y a des intermédiaires dans la chaîne. **Arrêt Assemblée plénière du 7 février 1986**.
-- **Dans une chaîne de contrats sans transfert de propriété** : Lorsque la chaîne de contrats ne comporte **pas** de vente successive et donc **pas** de transfert de propriété, la responsabilité est **délictuelle**. **Arrêt Besse, Assemblée plénière du 12 juillet 1991**.
+- **Dans une chaîne translative de propriété** : Lorsque les contrats successifs impliquent un transfert de propriété, l’action en responsabilité civile intentée est de **nature contractuelle**, même s’il y a des intermédiaires dans la chaîne. ==**Arrêt Assemblée plénière du 7 février 1986==**.
+- **Dans une chaîne de contrats sans transfert de propriété** : Lorsque la chaîne de contrats ne comporte **pas** de vente successive et donc **pas** de transfert de propriété, la responsabilité est **délictuelle**. **==Arrêt Besse, Assemblée plénière du 12 juillet 1991==**.
 
 Un tiers peut également être victime de la mauvaise exécution d’un contrat **en dehors d’une chaîne de contrats**.
 
@@ -113,10 +111,10 @@ Se pose alors la question de savoir si ce **manquement contractuel**, qui cause 
 
 Pendant longtemps, la Cour de cassation a été divisée.
 
-- **Chambre civile, arrêt du 10 juillet 2000** : Pour engager la responsabilité délictuelle, il suffisait de prouver un manquement contractuel.
-- **Chambre commerciale, arrêt du 5 avril 2005** : Au contraire, elle exigeait que le tiers prouve une **faute délictuelle autonome**, indépendante de l’inexécution contractuelle.
+- **==Chambre civile, arrêt du 10 juillet 2000==** : Pour engager la responsabilité délictuelle, il suffisait de prouver un manquement contractuel.
+- **==Chambre commerciale, arrêt du 5 avril 2005==** : Au contraire, elle exigeait que le tiers prouve une **faute délictuelle autonome**, indépendante de l’inexécution contractuelle.
 
-Face à cette divergence, **l’Assemblée plénière de la Cour de cassation, dans un arrêt du 6 octobre 2006 (arrêt Boot Shop / Myr’ho)**, a tranché la controverse en affirmant que **le simple manquement contractuel suffisait à engager la responsabilité délictuelle** de l’auteur de l’inexécution ou de la mauvaise exécution.
+Face à cette divergence, **l’==Assemblée plénière de la Cour de cassation, dans un arrêt du 6 octobre 2006 (arrêt Boot Shop / Myr’ho)==**, a tranché la controverse en affirmant que **le simple manquement contractuel suffisait à engager la responsabilité délictuelle** de l’auteur de l’inexécution ou de la mauvaise exécution.
 
 **Illustration de l’arrêt Boot Shop**
 
@@ -131,12 +129,12 @@ Cette jurisprudence a été critiquée car elle portait atteinte au **principe d
 Le **projet de réforme du droit des obligations (article 1234)** a remis en cause la solution de 2006 en précisant que **lorsque l’inexécution d’un contrat provoque un dommage à un tiers, celui-ci ne peut agir que sur le terrain de la responsabilité délictuelle et doit apporter la preuve d’une faute**.
 
 À partir de **2017**, la Cour de cassation a infléchi sa position.
-- **Arrêt du 18 janvier 2017, Chambre commerciale** : Il ne suffisait plus de prouver l’existence d’un **simple manquement contractuel**. Il fallait également démontrer qu’il s’agissait d’une **faute de nature délictuelle**.
+- **==Arrêt du 18 janvier 2017, Chambre commerciale==** : Il ne suffisait plus de prouver l’existence d’un **simple manquement contractuel**. Il fallait également démontrer qu’il s’agissait d’une **faute de nature délictuelle**.
 - La Cour estimait que **le manquement contractuel devait être particulièrement important** et que **le défaut de conformité devait causer un préjudice spécifique au tiers** pour être qualifié de faute.
 
 Cependant, cette tendance a été renversée en **2020**, avec un **nouveau revirement de jurisprudence**.
 
-**Arrêt de l’Assemblée plénière du 13 janvier 2020**
+**==Arrêt de l’Assemblée plénière du 13 janvier 2020==**
 
 Dans cet arrêt, la Cour de cassation est revenue à la solution de 2006 en jugeant qu’**un tiers au contrat peut invoquer un manquement contractuel sur le fondement de la responsabilité délictuelle dès lors que ce manquement lui a causé un dommage**.
 
@@ -152,7 +150,7 @@ Il suffit donc **d’établir un lien de causalité entre le manquement contract
 
 **Dernière évolution : précision de 2024**
 
-Un arrêt de la **Chambre commerciale du 3 juillet 2024** a apporté une nouvelle clarification.
+Un arrêt de la **==Chambre commerciale du 3 juillet 2024==** a apporté une nouvelle clarification.
 
 Si un **tiers au contrat** invoque un **manquement contractuel** sur le **fondement de la responsabilité délictuelle**, les **clauses limitatives de responsabilité** prévues dans le contrat peuvent **lui être opposées**.
 

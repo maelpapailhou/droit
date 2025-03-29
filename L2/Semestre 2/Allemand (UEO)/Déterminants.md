@@ -31,12 +31,12 @@ Les articles définis en allemand sont l'équivalent de **"le", "la", "les"** en
 
 Les articles indéfinis sont l'équivalent de **"un", "une"** en français et s’emploient pour parler d’un élément non spécifique.
 
-|Cas \ Genre|Masculin|Neutre|Féminin|Pluriel**(⚠ pas d'article indéfini en pluriel !)**|
-|---|---|---|---|---|
-|**Nominatif**|ein|ein|eine|—|
-|**Accusatif**|einen|ein|eine|—|
-|**Datif**|einem|einem|einer|—|
-|**Génitif**|eines (+s ou es au nom)|eines (+s ou es au nom)|einer|—|
+| Cas \ Genre   | Masculin                | Neutre                  | Féminin | Pluriel**(⚠ pas d'article indéfini en pluriel !)** |
+| ------------- | ----------------------- | ----------------------- | ------- | -------------------------------------------------- |
+| **Nominatif** | ein                     | ein                     | eine    | —                                                  |
+| **Accusatif** | einen                   | ein                     | eine    | —                                                  |
+| **Datif**     | einem                   | einem                   | einer   | —                                                  |
+| **Génitif**   | eines (+s ou es au nom) | eines (+s ou es au nom) | einer   | —                                                  |
 
 ⚠ **Remarque** :
 

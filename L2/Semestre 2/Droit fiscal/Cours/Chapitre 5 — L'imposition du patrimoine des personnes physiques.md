@@ -1,6 +1,6 @@
 le patrimojne lorsqu'u est transmis, ou totu simplemetn détenu implique le versmeent de différents impots. La transmission du patrimoine génére des droits d'neregistrement (section 1), la détention d'un patrimoine immobilier peut impliquer le paiement de l'impot sur la fortune immobiliere et de taxes locales (section 2)
 
-Section 1 : la taxation de la tranmission du patrimoine
+## Section 1 : la taxation de la tranmission du patrimoine
 
 dans code civil : le patrimoine c l'ensmble des bien meubles et immeibles.
 
@@ -16,7 +16,7 @@ les droits d'enregistrement constituent une des partie sles lus ancienens du dro
 
 cette formalité obligatoire est facutée au titre des droits d'nregistetrement.
 
-paragraphe 1 : les droits de mutation ç titre gratui. 
+### paragraphe 1 : les droits de mutation ç titre gratui. 
 
 **2) La liquidation des droits de successions** 
 
@@ -100,7 +100,7 @@ Les droits de donation doivent etre réglés au moment de la déclaration du don
 
   
 
-**§2 Les droits de mutation a titre onéreux** 
+### **§2 Les droits de mutation a titre onéreux** 
 
   
 
@@ -108,7 +108,7 @@ Ces droits sont une imposition occasionnel puisqu’ils s’appliquent lors de l
 
   
 
-**A) La vente d’immeuble** 
+#### **A) La vente d’immeuble** 
 
   
 
@@ -120,7 +120,7 @@ Concernant les conventions taxables, le droit de vente d’immeuble est applicab
 
   
 
-**B) La vente de meuble** 
+#### **B) La vente de meuble** 
 
   
 
@@ -128,7 +128,7 @@ Sont mobilier les droits réels portant sur des meubles, les droits réels porta
 
   
 
-1. **Les ventes de fonds de commerce** 
+##### 1. **Les ventes de fonds de commerce** 
 
   
 
@@ -136,7 +136,7 @@ Un fond de commerce se compose de deux catégorie d’élément, il y a d’abor
 
   
 
-**2) La cession de droit sociaux** 
+##### **2) La cession de droit sociaux** 
 
   
 
@@ -144,7 +144,7 @@ Les droits sociaux renvois aux actions et aux parts sociales, c’est l’articl
 
   
 
-**3) Les ventes de meubles** 
+##### **3) Les ventes de meubles** 
 
   
 
@@ -152,7 +152,7 @@ Les ventes de meubles ne sont en principe pas soumise au droit et enregistrement
 
   
 
-**Section 2 La taxation de la détention du patrimoine** 
+## **Section 2 La taxation de la détention du patrimoine** 
 
   
 
@@ -160,7 +160,7 @@ Cette famille d’import est héterogene puisqu’elle impose… Il y a une sér
 
   
 
-**§1 L’impôt sur la fortune immobilière (l’IFI)** 
+### **§1 L’impôt sur la fortune immobilière (l’IFI)** 
 
   
 

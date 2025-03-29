@@ -24,7 +24,7 @@ Attention : apprendre les articles
 - Les interventions
 
 ### 2020-2021 S1
-- Les fins de non-recevoir
+- **Les fins de non-recevoir**
 - La péremption d’instance
 
 ### 2020-2021 S2

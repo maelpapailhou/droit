@@ -1,0 +1,11 @@
+La célèbre citation d’Aristote — « L’homme est un animal politique ; celui qui vit hors de la cité est soit une bête, soit un dieu » — se trouve dans son œuvre _Les Politiques_. Elle condense l’un des fondements majeurs de sa pensée sur la nature humaine et la société.
+
+Pour Aristote, l’homme ne peut pas être pleinement homme s’il vit isolé. Il est, par nature, destiné à vivre dans la _polis_, la cité, qui est pour lui la forme la plus accomplie de la communauté humaine. L’homme y développe ses facultés, trouve sa place dans un ordre structuré, y déploie la parole, la raison, la justice. C’est au sein de la cité qu’il peut vivre en accord avec ses capacités les plus élevées, notamment sa faculté de délibérer sur le juste et l’injuste, sur l’utile et le nuisible.
+
+Dire que « l’homme est un animal politique » ne signifie pas simplement qu’il participe à la vie de la cité, mais que cette participation est inscrite dans sa nature. L’homme n’est pas un individu solitaire par essence. Il est fait pour vivre avec les autres, pour débattre, gouverner, être gouverné, pour fonder des lois. L’animal politique est celui qui, par le langage et la raison, cherche non seulement la survie, mais le _bien vivre_ avec autrui.
+
+En disant que celui qui vit hors de la cité est soit une bête, soit un dieu, Aristote désigne deux figures extrêmes. La bête est celui qui, privé de raison ou de sociabilité, ne peut être intégré dans l’ordre humain ; elle vit en dehors des lois, des échanges, du langage, dans un état de brutalité ou d’ignorance. Le dieu, lui, n’a plus besoin de la cité parce qu’il se suffit à lui-même. Il est parfaitement autosuffisant, sans besoin d’autrui, détaché des contingences humaines. Il dépasse l’ordre politique parce qu’il est, par essence, supérieur.
+
+Mais l’homme véritable, l’homme en chair et en parole, n’est ni bête ni dieu. Il est cet être imparfait qui cherche la justice, qui débat, qui s’insère dans une communauté pour la faire vivre et s’y accomplir. Aristote affirme donc, de façon radicale, que la vie politique n’est pas une option, mais une nécessité ontologique pour l’homme.
+
+C’est une pensée profondément enracinée dans l’expérience des cités grecques, mais qui a aussi nourri, à travers les siècles, une réflexion philosophique sur la société, la citoyenneté, l’éducation civique et le rôle de la loi.

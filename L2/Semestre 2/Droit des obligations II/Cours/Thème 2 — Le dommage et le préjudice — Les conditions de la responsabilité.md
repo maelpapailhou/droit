@@ -49,7 +49,6 @@ _Exemple : une atteinte à l’intégrité physique ou à un bien._
 Le **préjudice**, en revanche, correspond aux **conséquences de cette atteinte**.
 
 Dommage:
-**Texte corrigé :**
 
 >[!Définition]
 >**Dommage**
@@ -67,7 +66,6 @@ En ce sens, il est distinct du préjudice, qui correspond à la conséquence de 
 - **Dommage moral** : Dommage portant atteinte aux attributs extrapatrimoniaux de la personne (considération, honneur, réputation), à la personnalité morale (croyances, convictions, pudeur), aux sentiments ou à l'agrément de vie (mort d'un être cher, rupture de fiançailles, gêne sexuelle). Malgré son caractère immatériel, le dommage moral est réparable, quelles que soient sa consistance et sa gravité. Il peut être invoqué par une personne morale. 
 - Constitue un dommage propre l'**angoisse de mort imminente** ressentie par la victime directe.
 - **Dommage par ricochet** : Dommage matériel ou moral qu'éprouvent, par répercussion du dommage subi par la victime directe, les personnes qui lui sont proches par la parenté (enfant), l'alliance (conjoint), l'affection, la profession ou toute autre relation (concubin, employeur, associé). À ce titre, la jurisprudence reconnaît comme dommage distinct le préjudice d'attente et d'inquiétude subi par les proches d'une victime directe.
-
 
 
 **Exemple** :
@@ -211,6 +209,7 @@ Dans cet arrêt, la Cour de cassation a admis qu’il n’était pas nécessaire
 
 **Les faits :**  
 Un homme travaillait et entretenait son frère et sa sœur, étant le seul à percevoir des revenus dans la famille. À la suite d’un accident, il décède, laissant ses proches sans ressources.  
+
 Bien que, selon le droit civil, les frères et sœurs n’aient pas droit à une obligation alimentaire, la Cour de cassation a reconnu que la perte de revenus subie constituait un **préjudice réel et légitime**, et qu’il devait être réparé.
 
 **Conditions de licéité et de légitimité du préjudice**
@@ -231,7 +230,6 @@ Pendant longtemps, le préjudice subi par une concubine à la suite du décès d
 Cependant, un **revirement de jurisprudence** a eu lieu avec un arrêt de la **==Chambre mixte, 27 février 1970, arrêt Dangereux==**. La Cour a admis que :
 - Une concubine pouvait légitimement obtenir **réparation d’un préjudice matériel** lié à la perte des ressources fournies par son partenaire,
 - Mais aussi d’un **préjudice moral** lié à cette perte.
-Voici une version corrigée et reformulée de votre texte :
 
 **Le préjudice lié à la naissance d’un enfant**
 

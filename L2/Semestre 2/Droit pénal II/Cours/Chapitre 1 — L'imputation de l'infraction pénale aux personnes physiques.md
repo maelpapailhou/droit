@@ -989,6 +989,7 @@ Sous l’ancien Code pénal (**==article 59==**), ces causes réelles se communi
 Ainsi, si une personne est complice d’un **viol aggravé**, elle sera également condamnée pour **viol aggravé**, même si elle n’a pas participé directement à la circonstance aggravante.
 
 2) **Les causes personnelles d’aggravation, d’atténuation ou d’exemption de peine**
+
 Les **causes personnelles** sont celles qui **ne sont pas liées aux circonstances objectives de l’infraction**, mais qui concernent **uniquement la qualité de l’agent**.
 
 **Exemples** :

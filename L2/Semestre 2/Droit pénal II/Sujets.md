@@ -2,14 +2,14 @@
 - L’impossibilité d’identification de l’auteur d’une infraction empêche-t-elle la répression pénale ?
 - **Le « fou » est-il irresponsable pénalement ?**
 ### 2023-2024 S2
-- L’erreur de droit, cause illusoire d’irresponsabilité pénale ?
+- **L’erreur de droit, cause illusoire d’irresponsabilité pénale ?**
 - **Les conditions de punissabilité de la complicité.**
 ### 2022-2023 S1
 - La légitime défense, une cause d’irresponsabilité pénale illusoire ?
 - **La folie, une cause d’irresponsabilité pénale ?**
 ### 2022-2023 S2
 - **La punissabilité de la complicité**
-- L’exonération par la contrainte pénale
+- **L’exonération par la contrainte pénale**
 ### 2021-2022 S1
 - La délicate prise en compte de la dimension collective d’une infraction pénale.
 - Contrainte et état de nécessité.

@@ -224,7 +224,6 @@ En l’espèce, une voiture avait été **volée** par un inconnu. En conduisant
 **Décision de la Cour de cassation** : elle **refuse de déclarer le propriétaire responsable** et énonce trois critères, toujours appliqués aujourd’hui, pour identifier le gardien de la chose.
 
 Désormais, **est gardien celui qui, au moment du dommage, avait** :
-
 - **L’usage** de la chose (celui qui s’en sert).
 - **La direction** de la chose (celui qui détermine son usage à long terme).
 - **Le contrôle** de la chose (celui qui exerce une maîtrise immédiate sur la chose).
@@ -348,7 +347,7 @@ L’**alinéa 2** de l’article 1242 constitue **une dérogation** à l’alin�
 
 L’**article 1242, alinéa 2**, n’existait pas en **1804**.
 
-La Cour de cassation a introduit cette nouvelle responsabilité dans **l’arrêt du 15 mars 1921**, relatif à l’affaire des **feux de résine**.
+La Cour de cassation a introduit cette nouvelle responsabilité dans **l’==arrêt du 15 mars 1921**, relatif à l’affaire des **feux de résine**==.
 
 **Faits** :  
 Un incendie s’est déclaré dans un entrepôt contenant **des fûts de résine**, puis s’est propagé à la gare de Bordeaux, causant **des dommages considérables**.
@@ -382,7 +381,6 @@ La doctrine suggère **la suppression de ce cas de responsabilité**, le consid�
 
 Cette responsabilité **ne figure plus dans le projet de réforme du Code civil**, ce qui laisse penser qu’elle pourrait être supprimée à l’avenir.
 
-
 ## Section 3 : La responsabilité du fait d’autrui
 
 Selon **l’alinéa 1er de l’article 1242** du Code civil, **on est responsable non seulement du dommage causé par son propre fait, mais aussi de celui causé par les personnes dont on doit répondre**.
@@ -404,7 +402,6 @@ On pourrait considérer que les parents, en **ne surveillant pas leur enfant**, 
 **Évolution de la jurisprudence**
 
 L’évolution du droit de la responsabilité du fait d’autrui s’est faite en deux étapes :
-
 1. **Un assouplissement des conditions de mise en jeu de la responsabilité**.
 2. **Une objectivation progressive**, permettant d’engager la responsabilité d’un tiers même lorsque **l’auteur principal du dommage n’est pas fautif**.
 
@@ -422,7 +419,7 @@ Cette évolution amène à s’interroger : **ne sommes-nous pas en train de dé
 
 Concernant les **instituteurs**, leur responsabilité repose sur un **régime spécifique de responsabilité pour faute**. L’**alinéa 8 de l’article 1242** précise que : **"…"** (il manque ici la citation exacte du texte, que vous pouvez ajouter si besoin).
 
-### Paragraphe 1 : La responsabilité des commettants du fait de leurs préposés (art. 1242 al. 5)
+### Paragraphe 1 : La responsabilité des parents du fait de leurs enfants mineurs (art. 1242 al. 4 et 7)
 
 **L’article 1242, alinéa 5**, auquel il faut ajouter **l’alinéa 7**, figurait déjà dans le **Code civil de 1804**.
 
@@ -453,7 +450,7 @@ Seuls **le père et la mère** sont responsables de leur enfant, et uniquement *
 
 Si l’enfant est **émancipé**, les parents **ne sont plus responsables**.
 
-1) **L’autorité parentale**
+2) **L’autorité parentale**
 
 On retrouve ici **le lien de filiation**. Ce sont **les pères et mères** qui sont désignés, quelle que soit la manière dont le lien de filiation a été établi.
 
@@ -463,7 +460,7 @@ De même, un **centre d’éducation** ou un **foyer d’accueil** ne remplace p
 
 La jurisprudence a évolué en lien avec **la responsabilité du fait d’autrui**. À l’origine, on retenait une **faute de surveillance** dans l’éducation fournie à l’enfant.
 
-1) **La cohabitation**
+3) **La cohabitation**
 
 **Évolution jurisprudentielle** :
 
@@ -473,7 +470,7 @@ La jurisprudence a évolué en lien avec **la responsabilité du fait d’autrui
 - **Depuis les années 2000**, la Cour de cassation a adopté une **conception juridique** de la cohabitation.
     
 
-**Arrêt du 20 janvier 2000**
+==**Arrêt du 20 janvier 2000**==
 Un enfant, confié temporairement à ses grands-parents, a **provoqué un incendie**. La question s’est posée de savoir si la **responsabilité des parents** pouvait être engagée.
 
 - Les grands-parents ne pouvaient pas être tenus responsables, car **seuls les parents** sont concernés par la responsabilité du fait d’autrui.
@@ -483,13 +480,12 @@ Dès lors, **même en cas de séjour ailleurs que chez les parents**, la cohabit
 
 Un **centre d’accueil** ou un **centre de vacances** ne fait pas non plus cesser la cohabitation.
 
-**Arrêt du 8 février 2005 (Chambre criminelle)**
+==**Arrêt du 8 février 2005 (Chambre criminelle)**==
 Un enfant, confié **depuis l’âge de 1 ou 2 ans à ses grands-parents**, avait **provoqué un incendie**.
 
 Le propriétaire du terrain a attaqué les grands-parents, qui se sont défendus en invoquant **la responsabilité des parents du fait d’autrui**.
 
 La Cour de cassation leur a **donné raison**, en considérant que :
-
 - **Les parents restaient titulaires de l’exercice de l’autorité parentale.**
 - **Le fait que l’enfant ait été confié à d’autres personnes ne faisait pas cesser la cohabitation avec les parents.**
 
@@ -501,20 +497,20 @@ Lorsqu’un enfant **réside principalement chez l’un des parents**, l’autre
 - **Dans une résidence alternée**, **les deux parents** partagent la responsabilité.
 - **Dans une résidence principale chez un seul parent**, la jurisprudence a évolué :
 
-**Arrêt du 19 février 1997 (2e Civ.)** :
+==**Arrêt du 19 février 1997 (2e Civ.)** :==
 - Un adolescent avait volé une voiture et causé un accident.
 - Les victimes ont engagé la **responsabilité des parents**, qui étaient divorcés.
 - L’enfant **résidait chez son père** le jour des faits.
 - La mère a été mise hors de cause par les juges du fond, car elle ne cohabitait pas avec l’enfant à ce moment-là.
 - **La Cour de cassation a pourtant estimé que la responsabilité des deux parents pouvait être engagée**, car **le droit de visite et d’hébergement ne fait pas cesser la cohabitation avec l’enfant**.
 
-**Arrêt du 6 novembre 2012 (Chambre criminelle)** :
+==**Arrêt du 6 novembre 2012 (Chambre criminelle)** :==
 - La Cour de cassation a **restreint la responsabilité** en la faisant peser uniquement **sur le parent chez qui l’enfant réside de manière principale**.
 - On revient donc à une **notion plus stricte de la cohabitation juridique**.
 
 **Revirement de jurisprudence en 2024**
 
-**Arrêt de l’Assemblée plénière du 28 juin 2024** :
+==**Arrêt de l’Assemblée plénière du 28 juin 2024** :==
 - La Cour estime que **les deux critères de responsabilité parentale (autorité parentale + cohabitation) sont liés**.
 - **Lorsque les parents exercent conjointement l’autorité parentale, la cohabitation est présumée remplie**, même si l’enfant réside uniquement chez l’un des deux parents.
 - **Les deux parents sont donc présumés responsables.**
@@ -522,7 +518,7 @@ Lorsqu’un enfant **réside principalement chez l’un des parents**, l’autre
 
 Si l’enfant est confié à un tiers par une **décision judiciaire ou administrative**, cela entraîne une **délégation de l’autorité parentale**, et les parents ne sont alors **plus responsables au titre de l’article 1242, alinéa 4**.
 
-1) **Le fait dommageable de l’enfant**
+4) **Le fait dommageable de l’enfant**
 
 L’**article 1242, alinéa 4** dispose que **le père et la mère sont solidairement responsables du dommage causé par leur enfant mineur habitant avec eux**.
 
@@ -535,7 +531,7 @@ Initialement, la responsabilité des parents **reposait sur celle de l’enfant*
 - Problème : **un enfant trop jeune n’a pas de discernement** et ne peut donc pas être fautif.
 - Cela laissait des **victimes sans indemnisation**, car il était impossible d’engager la responsabilité des parents.
 
-**Revirement de l’Assemblée plénière du 9 mai 1984 (arrêt Fullenwarth)**
+==**Revirement de l’Assemblée plénière du 9 mai 1984 (arrêt Fullenwarth)**==
 - Un enfant jouait avec un **arc et des flèches** et a blessé un camarade.
 - Le père de la victime a engagé la **responsabilité du père de l’enfant fautif**.
 - Les juges du fond avaient estimé que **le geste de l’enfant était fautif**.
@@ -548,7 +544,7 @@ Désormais, **la simple commission d’un fait dommageable** par l’enfant **su
 Exemple : **un enfant malade** atteint d’une **maladie virale** contamine ses camarades et leur cause un préjudice.  
 Les parents peuvent voir leur **responsabilité engagée**, même si l’enfant n’a pas commis de faute.
 
-**Confirmation par l’arrêt Levert du 10 mai 2001**
+==**Confirmation par l’arrêt Levert du 10 mai 2001**==
 - Lors d’un **match de rugby**, un enfant a **plqué violemment un autre enfant**, causant une blessure.
 - Les parents de la victime ont agi contre les **parents de l’enfant fautif**.
 - **La Cour de cassation a confirmé la responsabilité de plein droit des parents, sans exiger l’existence d’une faute de l’enfant.**
@@ -563,7 +559,7 @@ L’**article 1242, alinéa 7** du Code civil dispose que **"la responsabilité 
 
 Cependant, il s’est avéré **difficile d’apprécier ce qu’est une bonne ou une mauvaise éducation**.
 
-**Revirement de jurisprudence : arrêt Bertrand (2e Civ., 19 février 1997)**
+**Revirement de jurisprudence : ==arrêt Bertrand (2e Civ., 19 février 1997)**==
 Dans cet arrêt, **la Cour de cassation a opéré un revirement important concernant les causes d’exonération**.
 
 Elle a jugé que **les parents ne pouvaient plus s’exonérer en prouvant leur absence de faute**.
@@ -590,7 +586,7 @@ Aujourd’hui, on ne parle plus de **"maître" et de "domestique"**, mais de **"
 - **Une faute dans la surveillance du préposé**.
 - **Une faute dans le choix du préposé**.
 
-Cependant, **l’alinéa 5 de l’article 1242 ne prévoit aucune cause d’exonération pour le commettant**.
+Cependant, **l’==alinéa 5 de l’article 1242== ne prévoit aucune cause d’exonération pour le commettant**.
 
 Avec l’évolution jurisprudentielle, cette responsabilité **n’est plus fondée sur la faute** mais repose aujourd’hui sur la **notion de risque et de profit**.
 
@@ -607,7 +603,7 @@ Toutefois, son application s’est progressivement étendue **au point de créer
 - Cette évolution a conduit à un **déséquilibre**, renforçant encore davantage la protection des victimes.
 
 Ainsi, la responsabilité du fait d’autrui a évolué **vers un régime de responsabilité objective**, détaché de toute notion de faute et justifié par **le principe de risque et de profit**.
-#### A) les conditions de la reponsbilité du comettant
+#### A) Les conditions de la reponsbilité du comettant
 
 Trois conditions doivent être réunies pour engager la **responsabilité du commettant** :
 - Il faut un **lien de préposition** entre le commettant et le préposé.
@@ -656,7 +652,6 @@ Pour que la responsabilité du commettant soit engagée, **il faut un fait perso
 La jurisprudence constante depuis **1866** exige que le préposé ait **commis une faute** au sens des articles **1240 et 1241** du Code civil (faute intentionnelle ou non intentionnelle).
 
 Différence avec la responsabilité des parents :
-
 - Pour **les parents**, il suffit qu’un enfant ait **commis un fait causal**.
 - Pour **le commettant**, **il faut que le préposé soit responsable**.
 
@@ -696,212 +691,195 @@ Le commettant peut tenter d’échapper à sa responsabilité en invoquant :
 2. **Un abus de fonctions** :
     - Le préposé a **dépassé** le cadre strict de ses fonctions.
 
+#### B) La mise en oeuvre de cette responsabilité et du commettant du préposé
 
-le commetnt petu essayer de dire que les conditiosnd e la reposnsaiblti éne osnt pas remplies. Il petu prétendre que le fait dommageable ne réulte pas du préposé masi d'une cause étrangere.
+Le **commettant** peut tenter de **contester la mise en œuvre de sa responsabilité** en arguant que les conditions requises ne sont pas remplies. Il peut notamment prétendre que le fait dommageable ne résulte pas du préposé, mais d’une cause étrangère.
 
-autre échapatoire consisteà. établir que certes y'a eu un fait du préposé masi que le préposé a abusé de ces fonctions. c assez difficile et la naunce est subtile, s'il a dépassé le cadre précis des foncgions qui lui sont assignés.
+Une **autre échappatoire** consiste à établir que, bien qu’un fait du préposé ait été commis, ce **dernier a abusé de ses fonctions**. Cette notion est subtile : l’abus de fonction est caractérisé lorsque le préposé a agi en dehors du cadre précis des missions qui lui étaient assignées.
 
-ex: salrié du'ne entreprise qui va dans ses fonctions a acces a un vehicule de l'entreprise, et l'employé utilise ce véhicule pour sontravail, masi un jour utilise aussi ce vehicule pour sortir acec des amis et cause un accident, pendna tles heures de travail. est-ce qu'oil faut qu'on tienne l'employeur pour repsosanble? ou on considere que y'a aucune raison de retenir la repso,nsiblité d el'employeru? car employé a agit a des fins personneleles. 
+Par exemple, un salarié d’une entreprise qui, dans le cadre de ses fonctions, a accès à un véhicule professionnel, l’utilise normalement pour son travail. Toutefois, s’il décide un jour de l’emprunter pour une sortie personnelle avec des amis et cause un accident pendant ses heures de travail, la question se pose de savoir si l’employeur doit être tenu pour responsable. Faut-il considérer que la responsabilité du commettant est engagée ou bien estimer que l’employé a agi à des fins strictement personnelles, excluant ainsi la mise en cause de l’employeur ?
 
-mais le but de la responsabiltié d'autrui est d'indemniser miuex la victime en suposant que le comettant est plsu solvable qeu le préposé. et si on soutient qu'il faut faire prévaloir la garantie de l'indemnisation de la vicitme en admettant qu'il est plsu solvable que el préposé il faudrait a ce mometn la admettre la responsabiltié du comettant à chque fois que le dommage a été permis grâce aux fonctiosn du préposé.  C'est parce qe le comettant lui a permis d'acceder à ce vehicule que le dommage a été causé.
+L’**objectif de la responsabilité du fait d’autrui** est d’assurer une meilleure indemnisation de la victime, en ***supposant que le commettant est plus solvable que le préposé***. Si l’on privilégie cette approche, il conviendrait alors d’admettre la responsabilité du commettant dès lors que le dommage a été permis grâce aux fonctions confiées au préposé. En effet, c’est parce que le commettant a mis le véhicule à la disposition de son employé que l’accident a pu se produire.
 
-cette double intepretation, ces deux approches possibles sont problématiques. on a du mal a admettre une sorte de blanc saint. 
+**Cette double interprétation pose des difficultés** : il est délicat d’admettre une exonération systématique du commettant sans nuire au droit à indemnisation de la victime.
 
-les chambes criminelles et cviiles se sont opposés sur cette question là. C'est alor qu ela cour de cassation c'est réunie en asssemblée plénieire le 19 mai 1988, trouv eune solution de traverse. Elle a introduit la notion d'abus de fonction, qui permettait au comettant de se dédouaner. 
+Les chambres criminelles et civiles de la Cour de cassation se sont opposées sur cette question. Pour trancher, la **==Cour de cassation s’est réunie en assemblée plénière le 19 mai 1988==** et a ***introduit la notion d’abus de fonction***, **permettant au commettant de se dégager de sa responsabilité**.
 
-si le préposé agit à l'occasion de ses focntions en principe engage la repsosnabiltié du comettant, sau fabus de fonction.
+Ainsi, si le préposé agit à l’occasion de ses fonctions, la responsabilité du commettant est, en principe, engagée, sauf en cas d’abus de fonction.
 
-en l'epsece il s'agissait d'une persone qui travaillait dans une banque de gestion du patrimoine, cette personen fait conclure des contrats de placement financiers au client, une fois que contrat est conclu le client verse d largent qu'il place dans but d'en tirer profit. mais à l'occasion de ces conclusiosn de contrat, cet employé avait détourné uen partie des fonds qui étaient versés par les clients, à son prore proffit.
+En l’espèce, il s’agissait d’un employé travaillant dans une banque de gestion de patrimoine. Cet employé faisait conclure des contrats de placement financier aux clients, qui versaient ensuite des fonds dans l’espoir d’en tirer un bénéfice. Toutefois, à l’occasion de ces opérations, il avait détourné une partie des fonds à son profit personnel.
 
-la cour de cassation affirme que 3 conditions cumulatives pouru qu'il y ai abus de fonctions  :s'il a agit hors des fonctions auxquels il étai tmployé, sasn autorisations et à des fins étrangeres à ses attributions. 
+La Cour de cassation a posé **trois conditions cumulatives pour caractériser l’abus de fonction** :
 
+1. L’acte a été ***accompli hors des fonctions pour lesquelles le préposé était employé***.
+2. Il a été réalisé ***sans autorisation***.
+3. Il a été commis à des ***fins étrangères aux attributions du préposé***.
 
-on constate que les juges otn tendances à dire que si l'acte, le fait du proéposé se rattache à l'eecution de son travail par des circonstances de temps, de lieu et de moyen, les jugees du fond pensnen ten general q'il n'y a pas d'abus de fonction.
+Si ces trois conditions sont réunies, la responsabilité du commettant ne peut être engagée.
 
-celui quui surveille un entrepoot et dérobe marchandises, la casation estime bien que il a agit dans le cadre de sesofoncitons. 
+On constate cependant que les juges ont tendance à considérer que si l’acte ou le fait du préposé se rattache à l’exécution de son travail par des circonstances de **temps, de lieu et de moyens**, les juges du fond estiment généralement qu’il n’y a pas d’abus de fonction.
 
-on trouve que c tres severe, tres difficile de réunir ces 3 conditions, on voit à travers ces exemples que la jurisprudence a une visiont res restrice de l'abus de foncitonsss, elle ne va pas admettre fackemetn son existence.
+Par exemple, un agent de surveillance chargé de la sécurité d’un entrepôt qui vole des marchandises dans cet entrepôt est considéré par la Cour de cassation comme ayant agi dans le cadre de ses fonctions.
 
-les arrêts ulétieure a 1988 vont toujours en ce sens, il n'admettentque difficilmenet le cas om y'a abus de fonction. 
+Cette approche est jugée **très stricte**, car il est difficile de réunir les trois conditions de l’abus de fonction. La jurisprudence a une vision **très restrictive** de cette notion et n’admet que rarement son existence.
 
-dans le projet de réforme, article 1249 reprendrait les critères dégagés par la jurisprudence de 1988. 
+Les arrêts postérieurs à celui de 1988 confirment cette tendance : ils reconnaissent **difficilement** l’existence d’un abus de fonction.
 
-consequenc e: dans la plupart des cas, le comettant va etre déclaré responsabiel du fait de son préposé. 
+Le projet de réforme, à travers **l’article 1249**, reprendrait les critères dégagés par la jurisprudence de 1988.
 
-est-ce que y'a un recurs possible contre le préposé? soit direcmtenet par la vicitme, spit par le comettant?
+**Conséquence** : dans la majorité des cas, le commettant sera déclaré **responsable** du fait de son préposé.
 
-soit par exempel la vicitme peut agir contre le préposé, sur le fodnemetn de articel 1240 du code civil ou 1241. 
+La question se pose alors de savoir s’il existe un **recours possible contre le préposé**, soit directement par la victime, soit par le commettant.
 
-le comettant, une fois qui'l a remoboursé la vicitme, peut il s eretourner contre le préposé?
+La victime peut-elle agir contre le préposé ? Oui, elle peut **engager sa responsabilité personnelle** sur le fondement des **articles 1240 et 1241 du Code civil**.
 
-c la question de l'immunité civile du préposé. 
+Le commettant, après avoir indemnisé la victime, peut-il se retourner contre le préposé ?
 
+Cela soulève la **question de l’immunité civile du préposé**.
 
+À l'origine, la responsabilité du commettant était envisagée comme une garantie au profit des victimes. Par conséquent, cette responsabilité prévue à l’alinéa 5 de l’article 1242 du Code civil était comprise comme s'ajoutant à la responsabilité personnelle du préposé, offrant ainsi un choix à la victime : elle pouvait soit agir contre le préposé (alinéa 1), soit contre le commettant. Se posait ensuite la question de savoir si le commettant pouvait se retourner contre le préposé après avoir indemnisé la victime.
 
-) l'origine l responsaiblti du comettant était posée comme une garantie au proffit des victimes. par consequent, cette responsai lité de l'alinéa 5 était comprsie comme s'ajoutant à al resposnabiltié personnelle du préposé, avec un choxi càd soit la victime agit contre le préposé (alinéa 1), soit la victime agit contre le commetant, et c'est là qu'on sinterroge ensuite sur la possibiltié du comettan de se retourner contre le préoposé.
+Cependant, l’évolution du droit a conduit à considérer qu’il était trop lourd pour le préposé d’engager sa responsabilité, notamment lorsqu’il avait agi dans le cadre de ses fonctions.
 
-sauf que dans son evolution on a considéré que c'était trop lourd pour le préposé notammenent s'il a agit dans le cadre de ses focntions. 
+C’est la raison pour laquelle la première évolution a eu lieu sur le **terrain du droit des assurances** : la législation a été modifiée pour préciser que le commettant, lorsqu’il indemnisait la victime, ne pouvait pas ensuite exercer un recours contre le préposé (du moins sous réserve d’une couverture d’assurance).
 
-c la arisosn pour laquelle dabord evolutin sur le terrain du droit des assurances, mais on a modifié le dorit des assurances pour preciser que le comettant lorsqui'l remoubrsai tla vicitm ene puvait aps ensuite agir contre le préposé (sous couvert d'assurance). 
+Par la suite, c’est la **jurisprudence de la Cour de cassation** qui est allée encore plus loin en affirmant le **principe d’irresponsabilité civile du préposé**.
 
-puis c ensuite la jurisprudenc ede la cour de cassation qui est allé plus loin en affirmant l'irresponabilité civile du préposé. 
+En déclarant que le préposé bénéficie d’une **immunité**, l’évolution a été radicale : alors que la responsabilité du commettant était initialement une garantie pour la victime, elle est également devenue une garantie pour le préposé lui-même.
 
-si on déclare que le préposé n'et plsu resposnalb,e qu'il bénéfiice de l'immunité, a va loin ca au depart la reposnabilité du comettant était une garantie pour la vicitme, maosi c deveni une garantie pour le préposé lui meme.
+- **L’évolution jurisprudentielle en plusieurs étapes**
 
-cette évolution s'est faite par étape:
-étape 1) ch commerical 12 octobre 1993 , Parfum Rochas, la directrice connaisait certaines infrmations sur une autre marque de parfum, se rend coupalble d'un acte de conrurence déloyale à l'égard d'une autre marque de parfum. cette autre marque de parufml agit contre les salariés, masi agit égalemet contre l'employeur, et les juges du fond avaient agis contre les deux en meme temps. 
+1) ***Première étape : arrêt "Parfums Rochas", Chambre commerciale, 12 octobre 1993***
 
-la cour de cassation a censuré la déicion des juges du fond en estimant que cette reposnaiblié du préoposé ne pouvait être commise que s'il aviat commis une faut epersonnelel, càd déttachée des focntiosn. la faut en'a pas été commiseà des fins personels. 
+Dans cette affaire, une directrice, employée d’une société de parfumerie, détenait des informations confidentielles sur une marque concurrente. Elle s’était rendue coupable d’un **acte de concurrence déloyale**, et la marque concurrente avait engagé une action contre **elle** et **son employeur**. Les juges du fond avaient retenu la responsabilité des deux.
 
-ensuite autre arrêt Costedoat a été rendu en ass pléniaire 25 février 2000, la vcour de cassaitona. estimé que le préposé n'engageait pas sa reponsaiblité des lorsque il avait agit sans excceder les limites de la mission qui lui aviat été impartis.
+Cependant, la **Cour de cassation a censuré cette décision**, estimant que la responsabilité du préposé **ne pouvait être engagée que s’il avait commis une faute personnelle, c’est-à-dire une faute détachée de ses fonctions**. Or, en l’espèce, la faute **n’avait pas été commise à des fins personnelles**, elle était liée aux fonctions exercées.
 
-une faute simple ne suffisait pas à engager la responsabilit édu personnel, de l'employé, du préposé.
+2) ***Deuxième étape : arrêt "Costedoat", Assemblée plénière, 25 février 2000***
 
-iols 'agissait d'une soiété qi proposait de tariter les terrains par herbicide, mais parfois aerienne. ùais ca a endommagé les plantes du terrain voisin. Il aagit contre le préposé en évoquant qu'il aviat commis une faute en ne tenant pas compte des mauvaises conditosn meterologques. 
+Dans cet arrêt fondamental, la Cour de cassation a estimé que **le préposé n’engage pas sa responsabilité civile dès lors qu’il a agi sans excéder les limites de la mission qui lui avait été impartie**.
 
-cependna tla coir de cassation ne retiens pas la repssabilié personnelle du préposé, cette reposnaiblité personne ne petu etre engagé que si le proéposé a git en excedant, en dépassant les limites de la mission qui était imparti par le comettant. 
+L’affaire concernait une entreprise spécialisée dans le traitement des terrains agricoles par herbicide, y compris par voie aérienne. Un préposé avait procédé à un épandage, mais en raison de mauvaises conditions météorologiques, le produit avait endommagé des cultures sur le terrain voisin. La victime avait alors engagé la responsabilité du préposé, arguant qu’il avait commis une faute en ne tenant pas compte des conditions climatiques.
 
-avec cet arrpet, le préposé meme fautif ne eut a priori pas voir sa repssanbiltié persnnelel engagée, seulement si'l a depassé le limites de sa mission. Autre conseiqnece est que la victime désormasi n'a plus que le comettant comme seul débiteur, elle peut plsu agir contre le préposé.
+Toutefois, la **Cour de cassation a refusé de retenir la responsabilité personnelle du préposé**, affirmant que cette responsabilité ne peut être engagée que si le préposé a **dépassé les limites de sa mission**.
 
-quele diference y a til entre bauser de ses fonctions et dépasser les limies de samission? les auteurs ont tendnace à penser que la formile de arret costedoat est plsu alrge qeu arret de 1988.
+Avec cet arrêt, un **préposé fautif ne peut plus, en principe, voir sa responsabilité personnelle engagée**, sauf s’il a **excédé** les limites de sa mission.
 
-y'a hypotheses qui ont été identiifés par la jrisprudnece àl'ocsation de d'autres epces. Ce qui pouviat illustrer le deppassemetn des lmties de la mission, c'est d'abord en cas d'infraction pénale, et d'autre part en cas de faute intnetionelle de la part du préposé.
+**Conséquence :** la victime ne peut plus agir que contre le commettant, qui devient son unique débiteur.
 
-C'est ainsi que en cas d'infraction pénale de la part du préposé, la question posée est est-ce qeu le préoposé beneficie toujors d'une immunité? 
+- **Distinction entre "abuser de ses fonctions" et "dépasser les limites de sa mission"**
 
-en cas d'infraction pénale, la cour de cassation, dans un arret Cousin de assemvlée plénaire 14 décembre 2001 a estimé que la non, y' apas immunité du préposé. 
+Les auteurs considèrent que la **formule de l’arrêt Costedoat est plus large que celle de l’arrêt de 1988** sur l’abus de fonctions.
 
-il s'agissait d'un comptalbe slaarié qui avait été condamné pour faux et usge de faux, et escroquerie, et pour financer de faix contrats de entreprise et obtenir des subventiosn. donc en cas d'infraction, pénale, cour de cassation estimé que y'a plsu d'immunité au enefice du préposé, et à ce mometn la sa reposnabiltié povuait bien etre egngagée.
+Deux hypothèses principales de **dépassement des limites de la mission** ont été identifiées par la jurisprudence :
 
-et la deuxeime limiet c'est en cas de faute intentionelle de la part du préposé, arrêt 2eme chambre civile du 20 décembre 2007, et dans ce cas là il s'agissait du vootuer d'un restaurant ou hotel qui avait endommagé délibérément la voitue d'un clietn. la quesion était de svoir si l'employeur pouvait se retourner contre l'employé. Comme y'a une faute intentionelle de la part de l'employé, il pouvait neutralier l'immnité du préposé.
+1. **L’infraction pénale commise par le préposé**
+2. **La faute intentionnelle du préposé**
 
-ces deux esceptiosn (infraction pénale et faut eintentionelle) ont été rappélés dans un arrêt récente du 19 janvier 2023, il s'agissait du'n détourneement de fond, 2 clients aovajnt été victmes. la quesion qui se posait c'est si le préposé povuait s'bairter derriere son immunité? la cour de casastion a dit non, et elel a précisé que l'employer qii a remboursé la vicitme disposse d'une action contre le asalrié, lorsque le préjudice avait résulté d'une fincration pénale ou d'une faute intentionelle. (en l'espece infraction pénale masi rappele aussi que faut eintentionelle)
+Ces hypothèses permettent de neutraliser l’immunité du préposé.
+
+- ***L’infraction pénale commise par le préposé : arrêt "Cousin", Assemblée plénière, 14 décembre 2001***
+
+La question s’est posée de savoir si le préposé bénéficiait toujours de son immunité en cas d’infraction pénale.
+
+Dans cet arrêt, il s’agissait d’un **comptable salarié**, condamné pour **faux et usage de faux ainsi que pour escroquerie**. Il avait établi de faux contrats pour obtenir des subventions.
+
+La Cour de cassation a estimé que **l’immunité du préposé ne s’applique pas en cas d’infraction pénale**. Ainsi, lorsqu’un préposé **commet une infraction pénale**, sa responsabilité civile peut être engagée, indépendamment de celle du commettant.
+
+- ***La faute intentionnelle du préposé : arrêt Civ. 2, 20 décembre 2007***
+
+La deuxième exception concerne la faute intentionnelle du préposé.
+
+Dans cette affaire, un **voiturier** travaillant dans un **restaurant ou un hôtel** avait **délibérément endommagé** la voiture d’un client.
+
+La question était de savoir si l’employeur pouvait se retourner contre son employé pour obtenir réparation du préjudice subi.
+
+La Cour de cassation a jugé que **la faute intentionnelle du préposé faisait tomber son immunité**. L’immunité ne s’applique donc pas lorsque le préposé a **volontairement causé un dommage**.
+
+**Confirmation récente : ==arrêt du 19 janvier 2023==**
+
+Dans un arrêt récent du **19 janvier 2023**, la Cour de cassation a rappelé ces **deux exceptions** (infraction pénale et faute intentionnelle).
+
+L’affaire concernait un **détournement de fonds**, où **deux clients avaient été victimes** d’un salarié malveillant.
+
+La Cour de cassation a affirmé que le préposé **ne pouvait pas se réfugier derrière son immunité** et a rappelé que **l’employeur, après avoir indemnisé la victime, dispose d’une action contre le salarié lorsque le préjudice résulte d’une infraction pénale ou d’une faute intentionnelle**.
 
 ### Paragraphe 3 : Les régimes de responsabilité créés par la jurisprudence
 
-Les **cas de responsabilité du fait d’autrui** instaurés en **1804** ne correspondent plus totalement aux **réalités d’aujourd’hui**.
+- **La responsabilité du fait d’autrui et son évolution jurisprudentielle**
 
-À la suite de **l’arrêt Jand’heur**, qui a posé **le principe général de responsabilité du fait des choses**, la question s’est posée de savoir si l’on pouvait établir **un principe similaire pour la responsabilité du fait d’autrui**.
+Les cas de responsabilité du fait d’autrui instaurés en 1804 ne correspondent plus entièrement aux réalités actuelles. À la suite de l’arrêt _Jand’heur_, qui a posé le principe général de responsabilité du fait des choses, la question s’est posée de savoir si un principe général similaire pouvait être consacré en matière de responsabilité du fait d’autrui.
 
-- **1. L’élargissement de la responsabilité du fait d’autrui : l’arrêt Blieck (Assemblée plénière, 29 mars 1991)**
+Dans l’==arrêt _Blieck_, rendu par l’Assemblée plénière le **29 mars 1991**, la Cour de cassation== a admis une responsabilité du fait d’autrui qui ne figure pas expressément dans l’article 1242 du Code civil. L’affaire concernait une personne handicapée mentale vivant en **semi-liberté** dans un centre éducatif d’aide par le travail. Cette personne a mis le feu à une forêt voisine, causant un dommage au propriétaire de la forêt. Celui-ci, au lieu d’agir contre l’auteur direct du dommage, a intenté une action contre le centre éducatif, probablement en raison de sa **solvabilité supérieure**.
 
-Dans cet arrêt, la Cour de cassation a admis une **responsabilité du fait d’autrui** qui **n’existait pas initialement** dans **l’article 1242** du Code civil.
+C’est la première fois que la Cour de cassation a accueilli une telle argumentation, en reconnaissant la possibilité d’engager la responsabilité du centre pour le fait d’un de ses résidents. Elle a posé un **nouveau critère** permettant d’engager cette responsabilité : le fait que l’association avait accepté la **charge d’organiser et de contrôler, à titre permanent, le mode de vie** de la personne handicapée. C’est sur cette base que la Cour a retenu la responsabilité du centre.
 
- **Les faits de l’affaire Blieck**
+Ainsi, l’arrêt _Blieck_ marque une **innovation jurisprudentielle majeure**, en introduisant la notion d’**organisation et de contrôle du mode de vie d’autrui**, fondée sur l’alinéa 1er de l’article 1242 du Code civil.
 
-Un **handicapé mental**, bénéficiant d’une **semi-liberté**, était pris en charge par un **centre éducatif d’aide par le travail**. Lors d’un moment de liberté, il a **provoqué un incendie** dans une forêt voisine.
+- **Deux nouveaux cas de responsabilité du fait d’autrui**
 
-La victime, propriétaire de la forêt, a choisi **d’agir contre le centre éducatif**, probablement parce que celui-ci était **financièrement plus solvable** que l’auteur du dommage.
+À la suite de l’arrêt _Blieck_, la Cour de cassation a identifié **deux nouvelles hypothèses** permettant d’engager la responsabilité du fait d’autrui :
 
- **La décision de la Cour de cassation**
+1. **L’organisation et le contrôle du mode de vie d’autrui** (exemple : centres éducatifs, établissements de rééducation).
+2. **L’organisation et le contrôle de l’activité d’autrui** (exemple : clubs sportifs et associations).
 
-Pour la **première fois**, la Cour de cassation a accueilli **l’argumentation visant à engager la responsabilité du centre éducatif pour le fait de l’un de ses pensionnaires**.
+***1) La responsabilité liée au contrôle de l’organisation du mode de vie d’autrui***
 
-Elle a retenu **un nouveau critère** :  
-Le centre éducatif avait **accepté la charge d’organiser et de contrôler de manière permanente** le **mode de vie** de la personne handicapée.
+Pour que cette responsabilité soit engagée, il faut démontrer l’existence d’un **lien d’encadrement** de la personne auteur du dommage. Cela suppose que la personne responsable ait **reçu une mission formelle d’organisation du mode de vie d’un individu**, comme dans le cas des **centres de rééducation ou des institutions accueillant des personnes vulnérables**.
 
-C’est **ce critère** qui justifiait l’engagement de la responsabilité du centre.
+Toutefois, cette responsabilité **ne peut pas être engagée simplement parce qu’une personne s’occupe d’un enfant ou d’un adulte vulnérable de manière informelle et non professionnelle**. Par exemple, les grands-parents qui accueillent leur petit-enfant **sans délégation formelle d’autorité parentale** ne seront pas considérés comme responsables, même si l’enfant vit habituellement chez eux.
 
-Ainsi, la Cour a introduit une **nouvelle responsabilité du fait d’autrui**, fondée **sur l’organisation et le contrôle de la vie d’autrui**, et s’appuyant sur **l’alinéa 1er de l’article 1242**.
+De même, **un simple contrat ne suffit pas** à transférer cette responsabilité. **Une décision de justice ou une décision administrative est nécessaire** pour reconnaître qu’une personne ou une institution a reçu **la mission officielle d’organiser la vie d’un individu**.
 
-- **2. Deux nouvelles hypothèses de responsabilité du fait d’autrui**
+Dans certains cas, il peut y avoir **concurrence** entre cette responsabilité et celle des parents, qui peuvent être tenus responsables même si l’enfant ne vit pas sous leur toit. Ainsi, une victime peut choisir d’agir **soit contre l’institution sur le fondement de l’alinéa 1er de l’article 1242, soit contre les parents sur le fondement de l’alinéa 4**.
 
-Désormais, la jurisprudence admet **deux cas spécifiques** de responsabilité du fait d’autrui :
+Contrairement à la responsabilité parentale, cette responsabilité **ne requiert pas une cohabitation permanente**. Dans l’affaire _Blieck_, l’intéressé bénéficiait d’un **régime de semi-liberté**, ce qui démontre que **l’encadrement du mode de vie n’implique pas nécessairement une surveillance continue**.
 
-1. **L’organisation et le contrôle du mode de vie d’autrui** (arrêt Blieck et ses suites).
-2. **L’organisation et le contrôle de l’activité d’autrui**, qui concerne notamment les **associations sportives**.
+Enfin, la notion d’**organisation et de contrôle** du mode de vie doit être interprétée **dans un sens juridique**, et non pas seulement **dans un sens matériel**.
 
-- **a) La responsabilité en cas de contrôle du mode de vie d’autrui**
+***2) La responsabilité liée au contrôle de l’activité d’autrui***
 
-Pour engager cette responsabilité, **il faut établir un lien entre l’auteur du dommage et l’organisme responsable**.
+La Cour de cassation a également dégagé un autre cas de responsabilité du fait d’autrui, concernant **l’organisation et le contrôle de l’activité d’autrui**, toujours sur le fondement de **l’alinéa 1er de l’article 1242** du Code civil.
 
-Les conditions sont les suivantes :
-- L’organisme doit **avoir reçu la mission d’organiser la vie d’autrui** (exemple : un centre de rééducation).
-- Il ne s’agit pas **de n’importe quelle personne**, mais d’un **individu vulnérable** (exemple : un handicapé, un mineur placé).
-- Cette mission doit **être formalisée par une décision de justice ou une décision administrative**.
+Jusqu’à présent, ce type de responsabilité a été **principalement appliqué aux associations sportives**.
 
- **Exclusion des cas de responsabilité de fait**
+Deux **==arrêts du 22 mai 1995, rendus par la chambre civile de la Cour de cassation==**, ont permis de dégager cette nouvelle responsabilité. Dans ces affaires, un joueur de rugby amateur avait blessé un autre joueur lors d’un match. Dans l’un des cas, un joueur était même **décédé** à la suite d’une bagarre sur le terrain. Or, l’identité du joueur ayant causé la blessure n’avait pas pu être déterminée.
 
-La Cour de cassation **refuse d’étendre cette responsabilité** aux personnes qui **assument temporairement l’éducation d’un mineur sans cadre légal formel**.
+Les ayants droit de la victime ont donc intenté une action **contre le club sportif**, invoquant la responsabilité du fait des préposés (alinéa 5 de l’article 1242). Toutefois, les clubs amateurs n’ayant **ni lien de subordination, ni rémunération, ni obligation d’entraînement**, la Cour a considéré que la relation de préposition n’était pas caractérisée.
 
-Par exemple :
+La Cour de cassation a alors **substitué les motifs** et s’est appuyée sur **l’alinéa 1er de l’article 1242**, en affirmant que **les clubs sportifs avaient pour mission d’organiser et de contrôler l’activité de leurs membres**. Désormais, la distinction entre clubs amateurs et clubs professionnels est la suivante :
 
-- **Des grands-parents** à qui l’enfant est confié sans qu’il y ait une **délégation de l’autorité parentale**.
-- Un **contrat privé** entre un tiers et la famille **ne suffit pas** non plus à établir cette responsabilité.
+- **Pour les clubs professionnels**, la responsabilité repose sur **l’alinéa 5** (responsabilité du fait des préposés).
+- **Pour les clubs amateurs**, la responsabilité repose sur **l’alinéa 1er**, ce qui permet malgré tout d’engager la responsabilité du club.
 
- **Concurrence avec la responsabilité des parents**
+Ce principe a été **étendu en dehors du cadre strictement sportif**. Dans un **==arrêt du 12 décembre 2002==**, la Cour de cassation a admis que cette responsabilité pouvait s’appliquer à une **association communale** qui organisait un **défilé de majorettes**. Lors du défilé, une majorette avait blessé une autre participante avec son bâton. La Cour de cassation a estimé que **l’association communale était responsable sur le fondement de l’alinéa 1er**, au motif qu’elle avait **pour mission de contrôler les membres du défilé**.
 
-Lorsqu’un enfant confié à un **centre éducatif** commet un dommage, **deux actions sont possibles** :
+En revanche, cette responsabilité **n’a pas été retenue** dans certains cas :
 
-- **Contre le centre**, sur le **fondement de l’alinéa 1 de l’article 1242**.
-- **Contre les parents**, sur le **fondement de l’alinéa 4 de l’article 1242**.
+- **Syndicats** : Un arrêt du **26 octobre 2006** a refusé d’engager la responsabilité d’un syndicat pour le fait de ses adhérents, même lorsqu’ils avaient bloqué un supermarché et causé des dommages.
+- **Associations de chasse** : Un arrêt du **11 septembre 2008** a refusé d’engager la responsabilité d’une association de chasse après qu’un chasseur a blessé quelqu’un avec une balle perdue. La Cour de cassation a estimé que **l’association n’avait pas pour mission de contrôler l’activité individuelle des chasseurs**.
 
-Contrairement à la **responsabilité parentale**, **la cohabitation n’est pas requise** pour engager cette nouvelle responsabilité.
+### **Le régime juridique de cette nouvelle responsabilité**
 
-**L’organisation et le contrôle du mode de vie ne nécessitent pas une cohabitation permanente**, comme l’illustre l’affaire **Blieck**, où l’individu bénéficiait **d’une semi-liberté**.
+L’arrêt _Blieck_ ne précisait pas clairement les conditions et les effets de cette nouvelle responsabilité.
 
-La notion d’organisation doit être **juridique et non matérielle**.
+#### **1) Quelles sont les conditions de cette responsabilité ?**
 
-- **3. La responsabilité en cas de contrôle de l’activité d’autrui**
+- **Le fait générateur**  
+    La question s’est posée de savoir si **une faute de l’auteur du dommage était nécessaire**. La Cour de cassation a répondu **oui** dans un **==arrêt d’Assemblée plénière du 29 juin 2007==**, précisant qu’il fallait **une faute de la part de l’auteur du dommage**, comme une **violation délibérée des règles du jeu** dans un match de rugby.
 
-Après l’arrêt Blieck, la Cour de cassation a dégagé une **nouvelle forme de responsabilité du fait d’autrui** fondée sur **l’organisation et le contrôle d’une activité**, notamment **dans le cadre sportif**.
+- **Le fait des choses**  
+    La Cour de cassation a admis que **le fait dommageable pouvait également résulter du fait d’une chose**, et non seulement d’un fait personnel. Par exemple, si un joueur frappe un autre avec sa chaussure, **la responsabilité peut être engagée sur le fondement du fait des choses**.
 
-**Les décisions du 22 mai 1995 : la responsabilité des clubs sportifs**
+#### **2) Cette responsabilité est-elle de plein droit ?**
 
-Dans **deux affaires**, un joueur de rugby avait **blessé un autre joueur** lors d’un match amateur.
+Oui. La Cour de cassation a affirmé qu’il s’agissait d’une **responsabilité de plein droit**, ce qui signifie que **l’absence de faute ne permet pas une exonération**. Seules **les causes étrangères (force majeure, faute de la victime, fait d’un tiers)** peuvent exonérer la personne responsable.
 
-- Dans la première affaire, **un joueur a été gravement blessé dans une bagarre**.
-- Dans la seconde, **la victime est décédée**.
+Dans un **arrêt du 26 mars 1997**, la chambre criminelle de la Cour de cassation a confirmé que cette responsabilité était **fondée sur le risque**, que ce soit **le risque lié à l’organisation d’une activité** ou **le risque lié à l’encadrement du mode de vie d’autrui**.
 
-Les ayants droit des victimes ont engagé **la responsabilité des clubs sportifs**.
+### **Vers une réforme du Code civil**
 
-**Problème de qualification de la responsabilité**
+Le projet de réforme du droit de la responsabilité prévoit d’intégrer ces évolutions dans les **articles 1246 à 1248**, en distinguant selon les situations :
 
-Les juges du fond avaient d’abord fondé la demande **sur l’alinéa 5 de l’article 1242** (responsabilité des commettants du fait de leurs préposés).
-
-Un des clubs a formé **un pourvoi en cassation**, soutenant qu’étant **un club amateur**, il **n’avait pas de lien de préposition avec les joueurs**, faute de rémunération ou de pouvoir de contrôle strict.
-
-La Cour de cassation **a admis cet argument** et a **substitué les motifs**, en se plaçant sur **l’alinéa 1er de l’article 1242**.
-
-Elle a considéré que les **clubs sportifs** avaient **pour mission de diriger et de contrôler l’activité de leurs membres**.
-
-- **4. Extension et limites de cette nouvelle responsabilité**
-
-**Extension à d’autres associations**
-
-Cette responsabilité a été **étendue au-delà du domaine sportif**.
-
-**Arrêt du 12 décembre 2002** :
-
-- Une **association communale** organisait un **défilé de majorettes**.
-- Lors du défilé, une majorette a **blessé une autre participante avec son bâton**.
-- La Cour de cassation a jugé que **l’association était responsable sur le fondement de l’alinéa 1er de l’article 1242**.
-
- **Refus d’extension à d’autres cas**
-
-La Cour de cassation **n’a pas retenu cette responsabilité** dans certains cas :
-
-- **Un syndicat** n’est pas responsable du **fait de ses adhérents** (**arrêt du 26 octobre 2006**).
-- **Une association de chasseurs** n’est pas responsable des actes de **ses membres** (**arrêt du 11 septembre 2008**).
-
-- **5. Régime juridique de cette nouvelle responsabilité**
-
-L’arrêt **Blieck** ne précisait pas **les conditions précises** de mise en œuvre de cette responsabilité.
-
-**Conditions d’engagement**
-
-- **Faut-il une faute de l’auteur du dommage ?**
-    - **Oui**, selon un **arrêt de l’Assemblée plénière du 29 juin 2007** : la faute doit être une **violation délibérée des règles du jeu**.
-- **Peut-il s’agir d’un fait des choses ?**
-    - **Oui**, le fait générateur peut être **une faute ou le fait d’une chose**.
-- **Peut-on s’exonérer en prouvant l’absence de faute ?**
-    - **Non**, la responsabilité est **de plein droit** (**arrêt du 26 mars 1997, Chambre criminelle**).
-
-- **6. Projet de réforme**
-
-Le projet de réforme prévoit **les articles 1246 à 1248**, qui proposent de **différencier les situations** :
-
-- **Encadrement d’un mineur ou d’un majeur**.
-- **Distinction entre la surveillance d’une personne et l’organisation d’une activité**.
-
-Ainsi, la jurisprudence a **considérablement élargi la responsabilité du fait d’autrui**, notamment pour **faciliter l’indemnisation des victimes**.
+- L’encadrement d’un **mineur** ou d’un **majeur**.
+- La différence entre **la surveillance d’une personne** et **l’organisation d’une activité**.

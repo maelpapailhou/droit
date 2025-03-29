@@ -1,3 +1,4 @@
+Rédige disserationa vec intro paragraphes et conclusion, longue et détaillée, sans intitulés, sans tirets ou numerotation, mets tous les élémnets necessaire, détaille bien,, sujet : XXX 
 ### **Introduction**
 
 - **Accroche** : Une citation, un fait d’actualité, un paradoxe ou un événement historique, mais courte.
