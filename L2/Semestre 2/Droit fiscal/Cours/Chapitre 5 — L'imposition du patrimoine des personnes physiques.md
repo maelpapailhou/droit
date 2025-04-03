@@ -180,7 +180,7 @@ Ces personnes imposables sont identifié par ‘art 1164 du CGI, seul les person
 
   
 
-**2) Les biens imposables**
+#### 2) Les biens imposables
 
   
 
@@ -232,7 +232,7 @@ Ce processus part d’une valeur locative et d’un revenu théorique potentiel 
 
   
 
-**2) La fixation du taux de l’impôt**
+### **2) La fixation du taux de l’impôt**
 
   
 
@@ -240,7 +240,7 @@ L’organe délibérant montre le montant directe des impôts locaux qu’il par
 
   
 
-**3) Le recouvrement des taxes locales assurés par les services fiscaux de l’Etat** 
+### **3) Le recouvrement des taxes locales assurés par les services fiscaux de l’Etat** 
 
   
 
@@ -248,7 +248,7 @@ Ce recouvrement est assuré par des agents de la direction générale des financ
 
   
 
-**B) La taxe foncière sur les propriétés bâtis** 
+### **B) La taxe foncière sur les propriétés bâtis** 
 
   
 
@@ -256,7 +256,7 @@ Cette taxe existe depuis le premier Janvier 1994, depuis 2011, la région ne per
 
   
 
-**C) La taxe foncière sur la propriété non bâti** 
+### **C) La taxe foncière sur la propriété non bâti** 
 
   
 

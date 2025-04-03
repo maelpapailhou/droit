@@ -23,154 +23,165 @@ Aujourd’hui, il existe **trois quasi-contrats** en droit français :
 
 ## Section 1 : La gestion d'affaires
 
-c'est l'acte par lequel une personne, appéllée le gérant,  va s'imisser dans les affaires d'une autre personne, appéleée le maitre de l'affaire, le gérant s'imisse dans les affaires d'autrui sans en aovir reçu le mandat. 
+C'est l'acte par lequel une personne, appelée le gérant, va s'immiscer dans les affaires d'une autre personne, appelée le maître de l'affaire. Le gérant s'immisce dans les affaires d'autrui sans en avoir reçu le mandat.
 
-le gérant a agit sans y etre invité par le maitre de l'affaire, et le gérant a agit de maniere spontanée.
+Le gérant a agi sans y être invité par le maître de l'affaire, et il a agi de manière spontanée.
 
-ex peut s'agit du vosiin qui effectue une reparation urgence parce que parite de la maison qui menace de tomber sur la route, ce qui riste de créer des dommages.
+Exemple : il peut s’agir du voisin qui effectue une réparation urgente parce qu'une partie de la maison menace de tomber sur la route, ce qui risque de créer des dommages.
 
-ex cyclone garance, commenceà nettoyeer diff debris et branchages, il se peut que dégats dans habitation ou terrains non habités, propriétaire ailleurs. on est supposé demander autorisation pour effectuer une tache, mais dands ces circonstnaces un peu partiucleires et précisé dans la loil alpoi permet de gerer les afafires d'autrui.
+Exemple : cyclone Garance, on commence à nettoyer divers débris et branchages. Il se peut qu'il y ait des dégâts dans une habitation ou sur des terrains non habités, le propriétaire étant ailleurs. On est supposé demander une autorisation pour effectuer une tâche, mais dans ces circonstances un peu particulières — et précisées dans la loi — la loi permet de gérer les affaires d’autrui.
 
-artice 1301 du code icil énonc eles 3 conditions qui doivnet être réunis. "celui qui sans y être tenu gère **sciemmemnt et utilement** l'affaire d'auturui à l'**insu ou sans l'oppositon** du maitre de cette afafire, est soumis ... aux obligaitons d'un mendataire".
+### Paragraphe 1 : Les conditions de la gestion d’affaires
 
-il faut l'intention de gerer l'affaire d'autrui, il faut ensuite une absence d'accord du maitre de l'affaire, et ensuite que l'acte ait été utile. 
+L’**article 1301 du Code civil** énonce les **trois conditions** qui doivent être réunies :  
+« Celui qui, **sans y être tenu**, gère **sciemment et utilement** l'affaire d'autrui à l'**insu ou sans l'opposition** du maître de cette affaire est soumis [...] aux obligations d'un mandataire. »
 
-condition 1 : il faut l'intention de gerer l'affaire d'autrui (adverbe sciemment)
+Il faut **l'intention de gérer l'affaire d'autrui**, il faut ensuite une **absence d'accord du maître de l'affaire**, et enfin que **l'acte ait été utile**.
 
-celui a agit pour lui meme ou dans on propre interet ne petu pas être qualifié de gérant d'affaire. Ex on achete maison ouappartement, on effectue travaux dans ce bien immobilier qu'on a acheté. Qq moi splus tard cette vente se trouve être annulée. on remet les choses en l'état d'avnat le contrat. sauf que l'acheteur a dit uqe en effectuant les travua xon a fait augmenté la vlauer du bien et j'ai géré l'affaire d'autrui. sur le terrain des quasi contrats pas de gestion d'affaire car on a agit poru nous meme.
+### **Condition 1 : Il faut l'intention de gérer l'affaire d'autrui (adverbe : sciemment)**
 
-condition 2 : absence d'accord ou d'opposition du maitre de l'affaire
+Celui qui **agit pour lui-même ou dans son propre intérêt** ne peut pas être qualifié de gérant d'affaire.  
+**Exemple** : on achète une maison ou un appartement, on effectue des travaux dans ce bien immobilier qu'on a acheté. Quelques mois plus tard, cette vente se trouve être annulée. On remet les choses en l'état d'avant le contrat. Sauf que l'acheteur dit qu'en effectuant les travaux, on a fait augmenter la valeur du bien et qu'il a géré l'affaire d'autrui. Sur le terrain des quasi-contrats, **pas de gestion d'affaire**, car on a agi pour nous-mêmes.
 
-si il y a un accord de la part du maitre de l'affaire, dcp il.y a un contrat. 
+### **Condition 2 : Absence d'accord ou d'opposition du maître de l'affaire**
 
-attention si accord entre proprietaire et celui qu ie ffectue la tache, y'a contrat. Meme oral. Si il refuse, y'a aussi contrat. 
+S’il y a **un accord** de la part du maître de l'affaire, alors **il y a un contrat**.
 
-le gérant a agit sans y être tenu, non suelement pas donné l'ordre et ni opposé. tant que pas informé, peut ni donner son accord ni s'opposer. Mais si informé mais qui ne dit rien, alors il consent. c un accord tacite.
+**Attention** : s’il y a un **accord entre le propriétaire et celui qui effectue la tâche**, il y a contrat, **même oral**. S’il refuse, **il y a aussi contrat**.
 
-condition 3 : l'utilité de l'acte de gestion
+Le gérant a agi **sans y être tenu**, non seulement il n’a pas reçu d’ordre, mais il n’y a pas eu d’opposition. Tant que le maître **n’est pas informé**, il ne peut **ni donner son accord ni s’opposer**. Mais s’il est informé et **ne dit rien**, alors il **consent** : c’est un **accord tacite**.
 
-peu importe la nature de cet acte de gestion, peut êtr epurement mateirel comme acte juridque. 
+### **Condition 3 : L'utilité de l'acte de gestion**
 
-ex paer une dette à la plac ede qqn dans le but de réduire interets que genere cette dette, c un acte juriduqe. 
+Peu importe **la nature de cet acte de gestion**, cela peut être **un acte purement matériel** comme **un acte juridique**.
 
-c'est opportuinité ou utilité qu'il va falloir examiner, ici tout dépend des espèces en question, mais on le comprend par exemple lorsque y'a branche ou mur menancant de tomber. 
+**Exemple** : payer une dette à la place de quelqu’un dans le but de réduire les intérêts que génère cette dette, c’est un **acte juridique**.
 
-on va apprecier cette opportunit éd emaneire subjective, abtraiste, sans forcement regarder le résultat.  Càd que le gérant d'"affaire qui essaie de sauver des biens ou animaux au moment incendie ou personne tomber d'un bateau, meme si meurent on esitme que utile.
+C’est **l’opportunité ou l’utilité** qu’il va falloir examiner. Ici, **tout dépend des espèces en question**, mais on le comprend par exemple lorsqu’il y a **une branche ou un mur menaçant de tomber**.
 
-### paragraphe. 2. : les efftes de la gestion
+On va apprécier cette opportunité **de manière subjective**, **abstraite**, **sans forcément regarder le résultat**.  
+C’est-à-dire que le gérant d'affaire qui essaie de **sauver des biens ou des animaux** au moment d’un incendie, ou **une personne tombée d'un bateau**, **même si les biens sont perdus ou la personne meurt**, on estime que **l’acte était utile**.
 
-elle fait naitre des obligations. quelles sont oblgiaitons ud gerant? il c imicé dans afafire de qqn d'autre, article 1301 dit que le gérant dit q'il est soumsi à toutes les obligations qui resulterai d'un mandat.
+### Paragraphe 2 : Les effets de la gestion
 
-il a commencéà gerer affairs d'uatiri, doit le faire en totlaité et ocntinuer l'acte de gestion qu'il a commencé. Entraine notemmetn pour csq que le gerant doi teffectuer l'acte en totalité et odit continuer l'acte de gestionq qu'il a commencé jusqua ce que selon aritle 1301-1 idnqieu qu'il doit le faire jusqu'à ce que le matire de l'affaire soit en mesure d'y pourvoir luui meme et il doit apporter tous les soisn d'une perosnen raisonable, càd du'ne personne conformémnet au standart.
+La **gestion d’affaires** fait naître des **obligations**.
 
-article 1301-2 qui indique oblgiation du maitre de l'affaire, la geition d'afafir epour le mitre de l'affaire netraine 2 conseqneces. 
+**Quelles sont les obligations du gérant ?**  
+Il s’est **immiscé** dans l’affaire de quelqu’un d’autre. L’**article 1301** du Code civil précise que le gérant est **soumis à toutes les obligations qui résulteraient d’un mandat**.
 
-1ere conseuqenc ec de devoir indemniser le gérant d'affaire porutoutes les depenses utiles et necessaires. il doit egalement indemniser les dommages que le gerant d'affaire aurait pu subir lors de sa gestion.
+Il a commencé à gérer les affaires d’autrui, il doit **poursuivre intégralement** cette gestion. Cela entraîne notamment que le gérant doit **effectuer l’acte en totalité** et **le poursuivre** jusqu’à ce que, selon **l’article 1301-1**, **le maître de l’affaire soit en mesure d’y pourvoir lui-même**. Il doit également apporter **tous les soins d’une personne raisonnable**, c’est-à-dire **agir conformément aux standards d’un bon père de famille**.
 
-2empe consequenc e le maitre de l'affaire va se trouver personelement engager par les actes juriidques conclus par el gerant.
+L’**article 1301-2** précise quant à lui les **obligations du maître de l’affaire**. La gestion d’affaires entraîne pour lui **deux conséquences** :
 
-## section 2 :
+- **Première conséquence** : le maître de l’affaire doit **indemniser le gérant** pour **toutes les dépenses utiles et nécessaires**. Il doit également **réparer les dommages** que le gérant aurait pu subir **lors de l’exécution de la gestion**.
 
-il est prévu article 1302 que "tout paiement suppose une dette : ce qui a été reçu sans être dû est sujet à restittion.
+- **Deuxième conséquence** : le maître de l’affaire se trouve **personnellement engagé** par **les actes juridiques conclus par le gérant** dans le cadre de cette gestion.
 
-le paiement de l'indus consiste en la restituton d'une smme d'argent qui a été payé ou d'un bine qui a été fourni par une personne au proiffit d'une autre personne sans pour autant que cette autre personne peut exiger ce paiement ou ce bien de la premiere.
+## Section 2 : Le paiement de l’indu
 
-la personen qui paie une somme d'argent ou qui forunis un bien à la place de quelqueun d'autre on l'appelel le Solvens, et la personne qui proffite de cette situation càd qui recoit la somme d'argent ou le bien on l'appelle l'accipiens.
+Il est prévu à l'article 1302 que **« tout paiement suppose une dette : ce qui a été reçu sans être dû est sujet à restitution. »**
 
-ex un heritire qui va payer ne dette du défunt sans savoir que cette dette a déjà été payée. là memesi heritier recoit l'actif et le passif du defunt, heritier est redevalb edes dettes, mais il a payé qq chose qui'l ne devait pas.
+Le paiement de l'indu consiste en la **restitution d'une somme d'argent** qui a été payée, ou **d'un bien** qui a été fourni, **par une personne au profit d'une autre personne**, sans que cette dernière puisse pourtant **exiger ce paiement ou ce bien de la première**.
 
-aussi le cas de assureru qu iva payer indemnité à l'un de ses clients sans remarquer que le dommage qu'il a inemnisé est survenu dans des circonstnaces pas couvertes par la garnaite, le contrat d'assurance. Assureur aversé une indemnioté pour un domamge qui fnalemetn n'est pas couvert. ou parfois un trop perçu.
+La personne qui **paie une somme d'argent ou fournit un bien** à la place de quelqu’un d’autre s'appelle le **solvens**, et la personne qui **profite de cette situation**, c’est-à-dire qui reçoit la somme d'argent ou le bien, s'appelle **l'accipiens**.
 
-### Paragraphe 1 : les conditions
+**Exemple** : un héritier paie une dette du défunt sans savoir que cette dette a déjà été réglée. Même si l'héritier reçoit l'actif et le passif du défunt, et est redevable des dettes, il a payé **quelque chose qu’il ne devait pas**.
 
-condiiton 1 : il faut un paiement (argent ou livriaosn du'n bien)
+Autre exemple : un **assureur** verse une **indemnité** à l'un de ses clients sans remarquer que le dommage indemnisé est survenu dans des **circonstances non couvertes** par la garantie du contrat d'assurance. L'assureur a versé une indemnité pour un dommage qui, finalement, **n’était pas couvert**.  
+On peut également penser au cas d'un **trop-perçu**.
 
-le solvens paie quemqu echos eou fourni un bien à l'accipiens.
+### Paragraphe 1 : Les conditions de la restitution de l’indu
 
-condition 2 : l'absence de dette
+**Condition 1 : il faut un paiement (argent ou livraison d’un bien)**
 
-un indu est une absence de dette. On a payé un indus., a bsence de dette entre le solvens et l'accipiens. 
+Le solvens paie quelque chose ou fournit un bien à l’accipiens.
 
-il peut y avoir un indus objectif ou un indu subjectif.
+**Condition 2 : l’absence de dette**
 
-objectif : 
-c'est le cas où le solvens a cru à l'existence d'une dette alors qu'en réalité cette dette n'existe pas. ex heritier qui paoe dette du defunt alros que déhà eteinte.
+Un indu est une absence de dette. On a payé un indu, c’est-à-dire une absence de dette entre le solvens et l’accipiens.
 
-le solvens a pas besoin de prouver qu'il ai payé par erreur, il a paas besoin de prouver son erreur.
+Il peut y avoir un **indu objectif** ou un **indu subjectif**.
 
-subjectif 
-le solvens peut se tormper sur l'idnentité du veritable créancier, c une premier variante de l'indu subjectif. lad ette existe bien, le solvens est bien débiteur, par contre il s'est trompé de créancier. il verse pas l'argent au bon créancier.
-csq c que quand on paie une dette on pese qu'on le libere de cette dette, sauf que pas le cas car doné argent à une autre personne, donc dette pas etiente, veritable créancier peut réclamer argent, ce qui aenerai solvens à payer 2 fois.
+**Indu objectif :**  
+C’est le cas où le solvens a cru à l’existence d’une dette alors qu’en réalité cette dette n’existe pas.  
+Exemple : un héritier paie une dette du défunt alors qu’elle était déjà éteinte.
 
-celui uqi a recu l'argent avait aucun droit à recevoir cet argent.
+Le solvens n’a pas besoin de prouver qu’il a payé par erreur, il n’a pas besoin de prouver son erreur.
 
-3eme hypothse qui releve tjs deindu subjectif: cas où solvens paie unee dette dont il n'est pas le débiteur. la dette existe bien, mais le solvens paie la dette d'une autre personne, ex à la suite d'un accident on se croit à tord responasble de cet accident, et on indemnse la vicitme. sauf que il s'avere ensuite que c qqn d'autre qui est responsable., opn en était pas le deiter. 
+**Indu subjectif :**  
+Le solvens peut se tromper sur l’identité du véritable créancier. C’est une première variante de l’indu subjectif. La dette existe bien, le solvens est bien débiteur, mais il s’est trompé de créancier : il verse l’argent à une mauvaise personne.  
+Conséquence : quand on paie une dette, on pense se libérer de cette dette, sauf que ce n’est pas le cas car on a donné l’argent à une autre personne. La dette n’est pas éteinte, le véritable créancier peut réclamer l’argent, ce qui amènerait le solvens à payer deux fois.  
+Celui qui a reçu l’argent n’avait aucun droit à recevoir cet argent.
 
-il faudra en tant que solvens faire la preuve de l'erreur ou fair ela preuve de la contrainte. Le code civil envisage egalement eventualité de la contrainte, càd cas où on nous a contraint à payer cette dette sous usage d ela contrainte.
+**Troisième hypothèse** qui relève toujours de l’indu subjectif : le cas où le solvens paie une dette dont il n’est pas le débiteur. La dette existe bien, mais le solvens paie la dette d’une autre personne.  
+Exemple : à la suite d’un accident, on se croit à tort responsable de cet accident et on indemnise la victime. Sauf qu’il s’avère ensuite que c’est quelqu’un d’autre qui est responsable, on n’était pas le débiteur.
 
-faut savoir ocntre qui le solvens va pouvoir agir, avant la rfomre de 2016 le solvens ne pouvait agir que contre l'accipiens pour recuperer la somme qui avait été versée. 
+Il faudra, en tant que solvens, faire la preuve de l’erreur ou faire la preuve de la contrainte. Le Code civil envisage également l’éventualité de la contrainte, c’est-à-dire le cas où on a été contraint à payer cette dette sous l’usage de la contrainte.
 
-mais mainteant posislbe de se retourner contre le veritable débiteur, c ce que prévoi taritlce 1302-2 du code civ il. Le veritable debiteur n'a pas recu d'argent, masi dans la nouvelel version ce taritlc epermet d'agit contre eux.
+Il faut savoir contre qui le solvens va pouvoir agir. Avant la réforme de 2016, le solvens ne pouvait agir que contre l’accipiens pour récupérer la somme qui avait été versée.
 
-illustration dans une hypothese rendue en applicaiton du droit anteireur qui monttre le cjangemetn : 1civ 16 septembre 2020 : il s'agissait d'une hypothèse de relation familiale, pere divorce de son epouse, ex mari condamné à payer e nsion alimentaire d'une certiane some par mois pour enfants. Peu de temps arpes y'a un autre homme qui agit en justice pour ocntester la paternité du mari et en meme temps établir sa propre paternité. 
+Mais maintenant, il est possible de se retourner contre le véritable débiteur. C’est ce que prévoit l’article 1302-2 du Code civil. Le véritable débiteur n’a pas reçu d’argent, mais dans la nouvelle version, cet article permet d’agir contre lui.
 
-ici l'action aboutit, on fait tomber la paternité du mari, ament de la mere veritalbe pere biologique de enfant peut etablir sa filiatin vis à vis de l'enfant. 
+**Illustration dans une hypothèse rendue en application du droit antérieur** qui montre le changement :  
+1re civ., 16 septembre 2020 : il s’agissait d’une hypothèse de relation familiale. Un père divorce de son épouse. L’ex-mari est condamné à payer une pension alimentaire d’une certaine somme par mois pour les enfants. Peu de temps après, un autre homme agit en justice pour contester la paternité du mari et en même temps établir sa propre paternité.
 
-c'est alors queunefois que la verité biologiqe eclate, le ex mari agit contre l amere et contre l epere de l'enfant en paiement de l'indus. 
+Ici, l’action aboutit. On fait tomber la paternité du mari, et à la demande de la mère, le véritable père biologique de l’enfant peut établir sa filiation vis-à-vis de l’enfant.
 
-ici c'étiat antierue à ordonnance de 2016, le solvens ne pouviat agir que contre l'accipiens, et pas contre le veritable débiteur des sommes. C'est pouruqoi dans cette affaire la cour de cassation a refusé l'action en reduciton d eindus contre pere bio de enfant car recu aucune somme d'argent.
+C’est alors qu’une fois la vérité biologique révélée, l’ex-mari agit contre la mère et contre le père de l’enfant en paiement de l’indu.
 
-on pourrait faire aboutir une repetitin de l'indus contre celui qui était veritable débiteur, mais sfuat apporter la preuve de l'erreur ou de la contrainte. 
+Ici, c’était antérieur à l’ordonnance de 2016 : le solvens ne pouvait agir que contre l’accipiens, et pas contre le véritable débiteur des sommes. C’est pourquoi, dans cette affaire, la Cour de cassation a refusé l’action en répétition de l’indu contre le père biologique de l’enfant car il n’avait reçu aucune somme d’argent.
 
-consequence : si l'ex mari avait effectiveent cru pendant tout se tmeps qu'il était le veritalbe pere et payé à la place du pere biologique, alors indu, masi si pas commis d'erreur càd quei il a payé la pension car déciison de justice l'ont obligé à payer cette déciison, il a pu payer cette pension car il s'estimait engaé par cette déciion de justice.
+On pourrait faire aboutir une répétition de l’indu contre celui qui était le véritable débiteur, mais il faut apporter la preuve de l’erreur ou de la contrainte.
 
-mais si il savait que pas pere biologuiqej, alors pas erreur, donc pas. indus, pas de restitution.
+**Conséquence :** si l’ex-mari avait effectivement cru pendant tout ce temps qu’il était le véritable père et qu’il a payé à la place du père biologique, alors il y a indu.  
+Mais s’il n’a pas commis d’erreur, c’est-à-dire qu’il a payé la pension parce que des décisions de justice l’ont obligé à le faire, il a pu payer cette pension car il s’estimait engagé par cette décision de justice.
 
-### Paragraphe 2 : 
+Mais s’il savait qu’il n’était pas le père biologique, alors pas d’erreur, donc pas d’indu, donc pas de restitution.
 
-non suemet on doit restituer le bien reuc ou la somme d'argent recu, masi que en principe on doit égalemetn resittuer les interets ou les fruits qu'ont produit cette chose ou cet argetn.
+### Paragraphe 2 : Les effets du paiement indu
 
+Non seulement on doit restituer le bien reçu ou la somme d'argent reçue, mais en principe on doit également restituer les intérêts ou les fruits qu'ont produits cette chose ou cet argent.
 
+Si la chose est détériorée, l’accipiens peut restituer la chose mais dans un état dégradé, et il ne peut pas le faire si la chose est perdue. Alors on va tenir compte de l’éventuelle faute de l’accipiens dans cette détérioration. Si la chose est perdue sans faute de la part de l’accipiens, alors il n’aura pas à restituer la chose.
 
-si chose deteriorée, accipiens peut restieur la chose mais dansun état dégradé, et peut pas le faire si chose perdue. Alor son va tenir compte de eventelel faute de l'accipieens dans cette deterioration. si chose perdue sans faute de la part de l'accipiens, alors il aura pas a restituer la chose.
+## Section 3 : L’enrichissement injustifié
 
-## section 3 : enrigchissment injustifié, sans cuase (action de in rem verso)
+Situation où une personne a pu s'enrichir aux dépens d'une autre personne, qui, du coup, s'est appauvrie.
 
-sitaution ou une perosnne apu s'enrichir au depens d'une autre personne, qui du couo c'est apapuvrie. 
+En revanche, dans d'autres situations, l'enrichissement ou l'appauvrissement ne repose pas sur une cause juridique, donc il n’y a pas de justification. La personne qui s'est appauvrie ne dispose d’aucun moyen pour corriger cette situation.
 
-en revahcne d'autre situatons ou enrichissment ou appauvrismsent ne repose pas sur une cause juridqie, pas de justification. la perosnen qui s'est appauvrie ne dispose d'aucuns moenx pour corriger cette situation.  
+Exemple d’un commerçant ou artisan : son conjoint va contribuer à l'activité professionnelle de son compagnon ou de sa compagne sans être rémunéré, faute de contrat de travail.
 
-ex d'un commercant ou arisan, son conjoint va contribuer à l'activité profesionnelle de son conjoitn compagnon sans etre rémunré par le biais d'un contrat de travail.
+**Arrêt Boudier, 15 juin 1892**, qui, pour la première fois, a fait application d’une action _de in rem verso_, théorie composée par la doctrine, notamment par deux auteurs : **Aubry et Rau**. Le fermier n’avait pas respecté le terme du contrat, n’avait pas payé le loyer, et le bail avait été donné en location. Le fermier ne payant pas les loyers, le bail a été résilié et il a abandonné sa récolte au propriétaire, pour éteindre une partie de la dette.
 
-arrêt boudier 15 juin 1892 qui la premier fois a fait application d'une action De in rem verso qui était composée par la doctrine, 2 auteurs Aubry et Rau. Fermier n'avait pas respecté le terme du contrat, pas payé de loyer, donne un bail en location, et le fermier ne payant pas les loyers le biala été résilié, abandonne sa recolte au propro, pour etiendre une partie de la dette.
+Apparaît entre temps **Monsieur Boudier**, qui était un fournisseur du fermier, et qui lui avait fourni de l’engrais. Boudier, n’ayant pas été payé par le fermier, agit contre le propriétaire.
 
-apparait entre temps monsieur boudier qui était unfournissuer du fermier, et il avait fournis de l'engrais au fermier et boudier pas non plus payé par le fermier agit contre le propriétaire. 
+Les juges, pour la première fois, consacrent ce qu’ils appellent virtuellement consacré par le Code : **« Nul ne peut s’enrichir au détriment d’autrui »**, c’est le principe de **l’enrichissement injustifié**.
 
-les juges pour la premiere fois consacrent ce qu'ils appellentvirtuellemnt  conascré par le code "nul ne petu s'nrichir au detriment d'autrui", c le princope de l'nericisoement insjtuifié.
+Cette figure juridique est aujourd’hui prévue par **l’article 1303 du Code civil**, qui dispose que **celui qui bénéficie d’un enrichissement injustifié au détriment d’autrui doit une indemnité à celui qui s’est appauvri**.
 
-cette figure juriqdqieu ajd article 1303 du code civil, et qui prévoit que celui qui béneficie d'un enrichisent injustifié au detirment autri doit une indmnité à celui qui c appauvri. Mais 
+### Paragraphe 1 : Les conditions de l’action de in rem verso
 
+Il faut d'abord **un enrichissement**, du défendeur, et de l'autre côté **un appauvrissement**. Il faut une **corrélation entre l’enrichissement et l’appauvrissement**, l’enrichissement d’un côté et l’appauvrissement de l’autre doivent être corrélatifs.
 
-### paragraphe 1 : les condtions
+**Prendre également l’exemple des rapports entre concubins** : décision **1re civ., 31 mars 2021**, la Cour de cassation n’a pas estimé qu’il y avait corrélation entre l’enrichissement et l’appauvrissement. Dans cette espèce, il s’agissait d’un concubin qui avait effectué des travaux dans le logement appartenant à sa compagne. Une fois séparé, il demande réparation. Mais il avait été hébergé gratuitement par sa copine.
 
-il faur d'abord un enrcijomet, du defendeur, et de l'autre coté il faut un apauvrissmetn. Il faut une correlation entre enrichissment et apauvrissment, enrichismetn d'un coté et apuavirsment de l'autre doi têtre correlatif.
+Il y a aussi des **conditions juridiques** qui doivent également être remplies.
 
-prendre elgament exemple de rapports entre ocncubain, deciion 1 civ 31 mars 2021 la cour de cassaion n'a pas esitmé que correlatin entre enrichissment et apauvrissment. Dans cet espèce, il s'agissait d'un concubain qui avait efecuté des travaux dans le ligement qui appartenait à sa compoagne. une fois séparé demande réparation. Mais hebergé gratuitement par sa copine. 
+D’abord, **l’enrichissement / l’appauvrissement ne doit reposer sur aucune cause juridique**.
 
-aussi des condtiions juriques qui doivent egaleme,t etre remplies, d'abord 'lenrichissment / appauvrismnet ne doit reposer sur aucne cause juridique.
+Deuxième condition juridique : **l’action doit avoir un caractère subsidiaire**, c’est-à-dire que l’appauvri n’a aucun autre moyen d’agir. C’est ce que prévoit **l’article 1303-3 du Code civil** : s’il peut agir sur un autre fondement, il doit d’abord agir sur cet autre fondement.
 
-deuxieme econdition urique c que l'action doit avoir un caractere subsidiaire càd l'appauvri n'a aucun autre moyen d'agir. c ce que rpvoit article 1303-3 du code ciivl, si'l peut agir sur un ature fondementil doit dabord agir sous cet autre fondemetn. 
+**Dernière condition juridique** : il ne faut pas que l’appauvri ait agi uniquement dans son intérêt personnel. Exemple : on élève une digue pour protéger notre maison ; certes, le voisin s’enrichit car il bénéficie aussi d’une protection, mais on a agi dans notre propre intérêt.
 
-dernier eocndition juriqeu : faut pas que l'appauvri ait agit uniquemetn dans son interet personnel, ex onb elev euen digue pour proteger botre maison, certe voisin c enrichi car proteciton, mais agi tpour interet personnel. 
+### Paragraphe 2  : Les effets de l’action de in rem verso
 
-### paragraphe 2  : les effets
-si les conditions sont réunies, l'enrichi devra indemniser l'appauvri. lorsque l'enrichissetn est équivalent à appauvrissment pas de dififuclté, mais lorsque pas d'équivalence matématiqeu, càd que le montan tenrichissment correspond pas au montatn de appauvrissment.
+Si les conditions sont réunies, **l’enrichi devra indemniser l’appauvri**. Lorsque **l’enrichissement est équivalent à l’appauvrissement**, pas de difficulté, mais lorsque **ce n’est pas le cas**, c’est-à-dire que le montant de l’enrichissement ne correspond pas au montant de l’appauvrissement, une règle s’applique.
 
-article 1303 du code civil prévoit que indemnité est limitée à la plus faible des 2 sommes.
+**L’article 1303 du Code civil prévoit que l’indemnité est limitée à la plus faible des deux sommes.**
 
-illustration arret 1cvi 3 mars 2021 : rapports entre concubins, avait financé construction d'unepiscine sur le bien appartement à sa concubine, et il réclamait ensuite le remboursment de la dépense qu'il aviat effecuté.
+**Illustration : arrêt 1re civ., 3 mars 2021** : rapports entre concubins. L’un avait financé la construction d’une piscine sur le bien appartenant à sa concubine, et il réclamait ensuite le remboursement de la dépense qu’il avait effectuée.
 
-juge du fond avait conamndé au paiemelnt du montant de la dépensE. sauf que cour de cassation dit qu'il fau t comaprer enrichissment avec appauvrissment. SI conruction psicine a couté 20 000 euros, veut pas dire que ca apport equ'une plue value de 15 000 euros, c l'enrichisement de 15 000 euros. 
+Le juge du fond avait condamné au paiement du montant de la dépense. Sauf que la Cour de cassation dit qu’il faut comparer **l’enrichissement avec l’appauvrissement**. Si la construction de la piscine a coûté 20 000 euros, cela ne veut pas dire qu’elle a apporté une plus-value équivalente. Si elle n’a apporté qu’une plus-value de 15 000 euros, **l’enrichissement est de 15 000 euros**.
 
-on trouve equilibre entre apauvirsmenet enrichissment des deux cotés.
-
+**On trouve ainsi un équilibre entre appauvrissement et enrichissement des deux côtés.**
