@@ -1,7 +1,7 @@
 Attention : apprendre les articles
 ### 2023-2024 S1
 - Les conditions de recevabilité de l’appel
-- La péremption d’instance
+- **La péremption d’instance**
 
 ### 2023-2024 S2
 - Les différents types de jugements
@@ -17,7 +17,7 @@ Attention : apprendre les articles
 
 ### 2021-2022 S1
 - Les conditions de recevabilité de l’appel
-- La péremption d’instance
+- **La péremption d’instance**
 
 ### 2021-2022 S2
 - Les différents types de jugements
@@ -25,7 +25,7 @@ Attention : apprendre les articles
 
 ### 2020-2021 S1
 - **Les fins de non-recevoir**
-- La péremption d’instance
+- **La péremption d’instance**
 
 ### 2020-2021 S2
 - L’exécution provisoire

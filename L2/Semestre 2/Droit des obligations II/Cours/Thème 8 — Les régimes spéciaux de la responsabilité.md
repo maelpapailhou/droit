@@ -604,3 +604,316 @@ Toutefois, la **France avait mal transposé la directive**, ce qui a conduit à 
 Une ==**nouvelle directive**, adoptée **le 23 octobre 2024**,== vient **remplacer la directive de 1985**.
 
 Cependant, **il ne s’agit pas d’une révolution**, car elle **reprend les principes essentiels de la directive de 1985**, tout en **les modernisant** pour mieux répondre aux évolutions technologiques et aux nouveaux enjeux liés à la consommation.
+
+
+A) Les conditions de cette repopnsabiktéilié tudé fait de xproduutsi defecteuux
+
+poru ces codniutisn art 1245 du civ prévoit que le producteur est rep du dommag ecausé par défaut de son produit. Oour que les textes pécifiques s'appliquent, il faut un produit , en suite faut un produit en circulation.
+
+- Condition 1 : il faut un produit
+
+Q-'estuce qu'un produit : art 1245-2 "tous les bine smeumbels incorporés dans un immeuble y compris les produits..." La notion de produti est entenud de maniere tres large puisquu'l peut s'agit de tous bien meuble, ex nourriture qu'on mange,  les OGM, les gamettes, docn elements du coprs humains.
+
+AJd si scandale de sang contaminé serait un produit au sens de la loi, c'est donc ce régime spécial qui s'appliquerai. 
+
+nouvelle directive qui vient d'être adopter en 2024 élargie un certain nnombre de points, élargi la liste des produitds. Indique que les bien speuvent etre corporels et incorporels (on avait un doute jusque là), la directive ajoute que le produit peut être un fichier ou un logiicel de fabrication numérique, ou encore un service numérique intégré ou interconnecté. 
+
+En revanche les services sont exclus. On pouvait s'en douter dans la mesure où article 1245 vise des biens meubles, mais il a fallu poser laquesiton à la CJUE car il y avait un doute, et a donné lieu à déciision CJUE 10 juin 2021 qui interprete la directive de 1985. 
+
+il s'agissait d'un journal qui donne des conseils en matiere de santé, par un naturopathe, qui se disati experte dans lesherbe médicinales, il proposait l'application d'un produit, qui aviat soit disant des vertues medicii,ales, proppsait de l'appliquat sru uej partie du crps, pendant uen drée de 2 à 5H. Sauf que erreur dans le conseil, c'était 2 à 5 mioutes. Une lectrice a suivi le conseil et au bout de 2 ou 3h elle a eu reaction cutanée excseve car devient toxique.
+
+on voulati savoir si au sens de la directive de 1985  l'information qui contient un conseil techniquemetn erroné peut être considéré comme un produit defectueux? 
+
+la CJUE réponds non, que l'ifnormation était un serivce. Pour elle les serice sne sotnpas inclsu dans el champ d'application de la directive.
+
+La difficulté qui se posait précisément en espèce c'était que ce service/cette info était inclus dans un jourla, qui est lui-meme un bien mleuble (ppaier ou fichier informatique, masi c un bien meuble). Est-ce que si info contneu dnas le journal considéré coem un bine meuble ? Non car c'est pas une information concernant l'utilisation du journal. Le journal n'est ici que le support matériel du service donné (service d'ifnormation), c'est la raiosn pour laquelel le journal est exclu. 
+
+si mode emploi contient information sur utilisaiton du produit, et done pas sufisment info sur la façon d'utliser leproduit et que ca constitue un danger, ca fait corps avec le produit lui meme. On distinguait bien le fait que le consiel donné ne portait pas sur utilisation du journal. 
+
+la directive ne distingue pas selon l'usage privé ou professionnel qui est fait du produit. Donc tout produit peut être concerné, quelqu'en soit l'usage. (ex usage prodfesionnel, le produit entre biend ans lec hampd'applicaiton de la directive).
+
+- Condition 2 : il faut un produit mis en circulation
+
+il suffit pas que le produit ait été fabriqué. Cette ocndition de mise ne circulatione st donnée à article 1245-10 dit que le conducteur est responsable uniquemetn lorsque le produit a été mis en circulation.
+
+articel 1245-4 dit "un produit est mis en circulaiton lorsque le producteur s'en est désaisi volontairement. ..Un produit ne fait l'objet que d'uen seule mise en circulation".
+
+un produti est msi en cicrulaiton lorsqu'il sort du processus de commercialisation pour être commercialisé, il y a mise en circulation.
+
+il faut que le producteur s'ens oit volontairement désaisi, ex si une marchandise était produite, stockée mais qui est volé avant la commercialisaiton officielle, dans ce cas là on ne va pas dire que y'a eu mise en circulation, quand bien même ce produit aurait été vendu au marché.
+
+cette mise en circulation est une notion extrememetn importante. mais quesitond e savoir à quel moment eexactement cette mise en circulation est effectuée est plsu délicate. Question notemment posée pour les produits qui sotn fabriqués en série ou en lot, loorsque y'a de grandes qnautntiés de marhcandises qusi otn fabriqués. On parle de lot. Donc quand on a un rappel du produit c du lot souvent. 
+
+voitures aussi fabriqué en série, c le cas de nolbreux produits lorsque laproduction est improtante.
+
+La jurusprudence est venue apporter quelqeus préicsiosn sur lafaçon d'appréhender cet ate de mise en circulation lrosque ce produit est fabriqué en série. 
+
+Arret ch mixte 7 juillet 2017, un des arrets rendu dans l'affaire Monsanto, concernant herbicides. L'agriculteur a invoqué la  resp de droit commun car en raison de la date de mise en circulation des produits, selon les parties, cette date de msie ne ciruclaiton par le producteur était antieru à entrée en viguerd e la directive.
+
+y'a eu débat et discussion sur cette date de mise ne ciruclation, quesitonq ui se psoati est de savoir s'il faut tenir compte d ela date de mise enc irculation du tout premier produit, ou est ceuqi'l faut tenir ompte de la date de commercialisaiton du porudit litiigeux? càd celui qui est vriaent à l'oriigne dud ommage, qui fait parti du lot dan slequel les flacons qui lui ont été livrés.
+
+elle rejette la premier interpretaion,on tient pas comte de commericallisation du tout premier produit, masi date de commericalsiation du lot auquel appartient le produit qui est à l'orgine du dommage. L'agriculteur à été lviré en 2002, safuq ue cour de casation aprécisé dans une déciisond u 20 septembre 2017 qui ici mettait en cuase le Mediator, elle a précisé que c'était la date de commericalisation du lot qu'il falait prendre ne compte. 
+
+autre arret du 21 octobre 2020 a égalemetn apporté une préicison supplémentaire, hypothèse où le lot est fabriqué, mais sa commercialisation est echelonée, uen aprite ud lo treste dans le smains du proucteur quii s'est pas désiasi de la totalité du lot. la cour affirme qu'on reitnela date du début de commericlaisaiton du lot qui est retenu. C'est la logique du lot qui doit prévaloir. 
+
+le producetue peut apportre la preuve que une parite udlot était stockée pednant une certaine durée, pour la vitime on a dit que elle aviat recu les herbicides en 2002. Pour la vicitme ne principe c'est cet acte qui va e^tre retenu, mais de sonc oté pour fixerune date d emsie en circulation ulterieur, le producteur pourra prouver ue en rélaité il a commercialisé tout le lot avant 2002. et c cette premeire commerilaiiotn du premier lot qu iva compoter.
+
+En résumé : y'a un lot fabriqué,  en 1995. Agriculteur a été lviré en 2002, masi ce lot fabriqué en 1995 il a pu être commercialisé de manière échelonée (en 1995 Monsanto ne s'est peut être pas désaisi de tout el lot). cassation aprécisé qu'on va tenir comtpe de la date de la pemeire commericalsiation des elements du lot, meme si elel c fatie de maneire fractionnée.
+
+pourquoi est-ce que la dated ecirculation est si improtante? c important pour l'application du coupable de la loi de 1998 , le dispositif spécial ne s'applique pas. Il faudranecessaireletn se ofnder sur le droit commun. ensuite pour paprecier le défaut du prpduit, il faut prendreencipte le moment de sa mis ene circulation. 
+
+l'absence de mis ene circulation es tuen cause d'exoneration.
+
+le délais de forclision est un délais au delà duquel on petu plsu agir en justice, la date de msie ne circualtion est donc cruciale pour calculer ce délais.
+
+loi du mai 1998 qui a tranpsosé la directive de 1985 sur al repsosnabilité des prpuditsi ddu fait defectueux. et s'paplqiue que des 'lentrée en vigueur de la loi de 1998.
+
+- condition 3 : il faut le défaut d'un produit
+
+ce défaut de produit est entendu comme un défaut de sécurité. Par soucis de syntehse on dit que le produit doit présenter un défaut de sécurité entendu comme étant un défaut de sécurité du produit.
+
+c'est le coeur du systeme de ce régiem spéciall. Il suffit pas de poruver le fait du produit, comme on le ferait de la resp du fait des choses.
+
+Les textes nosu indiquent de quelle maniere on doit caractériser le défaut du prduit, sa défécutosité.
+
+artilce 1245-3 "un prpduit est défectueux lorsqui'l n'offre pas la séucirté à laquelle on peut legitimement s'attendre...".
+
+le produit decetueux c'est celui qui ne préente pas ka securité à laquelle on peut légitimement s'attendre. 
+
+y'a des proudits dangereux qui respectent le snormes, et qui par ailleurs ne présnete pas forcement de defectuosité; Ex une moto ou un outil motisisé, otuils de bricolages comme tronconneuse, sont des outils dangereux. ais en meme temps l'objet lui meme s'il a été favriqué selon les nromes, en lui meme il presnte pas de défaut. 
+
+dans ce cas ca n'entre pas dans le camp de la loi. la vicitl en' a que a précisé que l'outil, l'objet ne présnete pas la sécurité à lauqlele on petu s'attedre, donc tout est variable selon les objeets.
+
+
+
+un produit dangereu xà la base peut etre anormalmene tdangereu, là oui on bascule vers el défaut de sécurité.
+
+si on s'y attend pour un objet dangereux, non. Si degre de danger depasse ce a quoi on peut s'attendre alors défaut de securité.
+
+à alinéa 2 il est précisé d'autres indices pour appréciaiton du défaut de sécurité. Articke 1245-3 dit qu'il faut tenir compte de l'ensemble des circonstances, et puis ensuite alinéa 2 précise que le défaut de sécurité peut provenir de la présentation du produitou de son usage.
+
+on que défaut du produit peut provenir du défaut di'nfirmation que l'on aurait recu a propos de l'utilsiation du produit.
+
+Si on a apas été informé ou mal informé sur les risques liés à l'utilisation du proudit, c un défaut d'information qui est équivalent à un défaut de sécurité. Et c notemment ce qu'à eu l'occasion d'interpeter cour de cassationd ans afaire Monsanto du 16 juillet 2017, il étia tquestiona usi de l'informatin sur l'utilisation des herbicides, et notemetn l'agriculteur diait queil n'vait pas été prévu, inforém par le productuer des dangers présentés par l'inaction du produit.
+
+il ne suffit pas d'informer pour supprimer le défaut de sécurité. Un info sufifsante ne permet pas de supprimer necessairement le défaut de sécurité. Ca a été précisé lrosque le produit présente selon la jurusprudnece un caractere "anormalement dangereux". C la jurusprudence européenne CJUE qui a précisé ce critère lorsque le produit présent eun caractère anoramlemetn dageurex, alors l'infrmation donnée, meme si suffisante, ne suffit pas à supprimer le défaut de sécurité.
+
+CJUE a posé ce critère dans une décision du 5 mars 2015, lié aux effets secondaires partiucleirement grave d'un médicament, pourtant présenté dans la notice d'utilisation du médicame,t masi la cour de justice a considéré que si ces effets secondaires graves étaient très importants par rapport aux avantages escontés, la cour de jusitce esitle que leproduit présnet eun risqu eanormal. la cour invite à faire un bilan benefice-risuqe, et meme si information est donnée su rles risques encourus, si les risques sont plus importants que les benefices, alros le rsique est naomral par rapport àl'avantage qui est attendu. 
+
+arret 1 civ 26 septebmree 2018, était en cause un epilule conrraceptive qui avait entrainé le deces d'une jeune perosnne de 25 ans par embolie pulmonaire.
+
+la cor de casaion. adécidé que le défaut de sécurité était caractérisé car risques encoruus éiat plus importnats que benefices. 
+
+confirmé dans décisin 2civ 29 mars 2023, qii a précisé que tous les riques deviaent etre indiqués, mais ne suffit pas, faut encore fair ela balance benefice risque pour caracteriser le défaut de séucirté.
+
+alinéa 3 du texte : il est dit que un proudit ne peut être ocnsidéré comme defecteux par le seul fait qu'un autre plus perfectionné à été mis postérieuruemetn en circulation. 
+
+Il y a un condcteur qui mets sur le marhcé un produit. qq années plsu tard fabrique un medicmaen tplus efficace, présnet moins d'ffets secondaires. mais pas poru autant que l eprmier en circulation il présente un défaut de sécurité. 
+
+- condition 4 : il faut un dommage
+
+dans ce régile spécial, il y a des précisiosn qui sont apportés. Quels sont les dommages repararbles sur le fondemetn de la responsaibltié des faits defcetueux?
+
+
+article 1245-1 dit que le régime spéical s'appliqeu à la réparation du dommag equi résulte d'une atteinte à la personne.
+
+aliéna 2 dispose "les idpsoitiins s'paplqiuent également à la répartiion du dommag esuperieur à un montnat déterminé par décret. Répration du dommage autre que le produit défectueux lui-meme.
+
+Donc le dommage réparale est d'abord le dommage corporel, ensuite est répratle le dommag mateirle mais avec des limties puisque la loi exclu le dommag ecausé aub ien defectue lui meme. 
+
+le bien defecteuux lui meme pourra être réparable sur un autre foncement : ex respsjbilité contractele du fabricant ou du vendeur, (mettre en cuase vce cachés du bien, garantie de conformtié du bien pour dédomager de la perte),.
+
+
+atteinte psychologique medicalemnet reconneu seraiten réparables selon directive ; mais comme on a préjudice, la notion de préjduice corporel acocmpagné du'un préjudice moral.
+
+la destruction ou corrputoon de donnée pas utilisée à des fins profesionnels osnt réparabels. 
+
+il y a forcement une victime et un resposanble. Qelels sont les acteurs de cette responsaiblité de ces produits du fait defectueux?
+
+Quelel sosnt les victiomes : 
+ la direcitve de 85 limitait à l'usage privé du produt, usag epro exclu par la directive. Mais empehce pas etats membres de protegeres mieux. Loi frnaçaise a décidé de proteger plus et mieux que la directive; LA loi frnaçaise de transpositon n' apas limtié l'usage profesionnel ou privé du proudit pa rla victime. Toute victime qu'elle stoit profesionnelle ou consomatrice peut mettre en jeu cette resonsabiltié spéciale. 
+
+ la vitime petu etre lié au productuer par un contrat ou non. peut importe qu'il existe ou pas aun contrat, donc ce régiem spécial de erepjsabiltéi se détache compeltmenet de la repsonsaibltié contracutelle et delictuelle. il est entre les duex.
+
+ensuite uqels sont les repsonsables ? lorsque la directive de 85 a été transposée, la loi frnaçaise avait initialemnet mis le dommage à charge non sueemtn du fabricant mais aussi à charge du venduer ou dufournissuer du produit.
+
+mais ona. été condamné, la cour de luxembourg a esitmé qu eétat français aviat mal transposé la directive ntoemmetn sur ce pont là. Décision du 25 novembre 2002 qui a retroqué la loi frnaçaise sur un ceritan nombre de points. LA direcitve révoit la repjsabiltéi du seul productuer, avec exception (voir apres). 
+
+la notion de producteur figure ajd à aritlce 1245-5 du code civil "est producteur lorsqui'l agit à titre professionel le fabricant du'n produirt final, le producteur d'une matière premiere, le fabircant d'une partie composante. est assimilé à productuer otute preosnen qui se présente comme producteur toute perosnne qui ompse son nomsur un prduit ou celui uqi importe un produit dans la communauté européenne en vue d'une...". Les perosnnes qui se presente ocmme producteur en imposant leurs nom sur leproduit. Les marques distributeurs, comme carrefour, etc ont pas fabriqué les alimlents etc, juste mis leurs noms sur le produit, meme si c pas eux qui ont fabriqué le produit ils osnt assimilés au producteur.
+
+Selon cet alinéa 2 est égalemetn asismilé au producteur celui qui a importé le produt dans la communauté européenne. 
+
+recemetn CJUE 19 décembre 2024 a égalemt dit que le fornisseurdont le nomcoincidait avec celui du fabricant est assimulé au producetuR. (en l'espec eun constructeur automobile: Ford italia que distrubuteur des fabricants ford en allemagne).
+
+
+
+20 décembre 2024 cliuent de ford italia victime accident a cause de défaut airbag, cour de cassation italiuenne c demandé si ford italia (marque de distributeur) pouvait êtr econsidéré comme productuer.
+
+cour de justice a répondu oui. Lorsque le nom est proche de ce delui du productuer on l'a asimoié au distributeur.
+
+au titre du resposnable : en principe cvendeur pas responsable susr le fondement de la directive. Sauf que prévot que la rsp du vendeur et  l'intermediaire peut etre reposnable mais eulemetn a titre subsidiiare c notamment lorsque le producteur petu pas être identifié, à ce moment là le vendeur les intemediaire speuvent être repsonsables à titre subsidaiire. 
+
+la directiv de 2024 qui n'est pas necore transposée à élargie al liste des repsjsble sposibls eet c ainsiq ue lele prévoitque les plateformes en lignes peuvent être tenues repsosnable spour un  defecteux produit qui a été vendu sur lerus site. c la novueauté aporté par la directive;
+
+elle prevoit egalemetn que lorsque un prdiuit est réparé et qu'il est mis à niveau mais en dehors du controle du fabricant d'origine, l'entreprise qui a mdié et réparé le produit pourra être tenu resposnabe.
+
+lorsque un produit présente des défauts, il s'avere que parfois il y a plusieurs producteurs qui peuvent vori leurs reponsbilité engagée. notemen le cas où un produti est incorporé à un auter art 1245-7 civ préovit que en cas de défaut du'n prpduit incorporé dan sun autre sont solidairement repsonsable. parfois posislbe d edisitnguer les diff composante d'un produitt (ex voiture).
+
+egalement un autre cas de figure de pluralité de producteur qui a été envisagé par la jurisprudence, qui est bcp plus délicat, vise hypothèse où deux producteurs distincts ont commericalisé un meme medicament, qui contenaiit les meme molecumes dangereuses. lorsque des individus ont eu un dommage, années passant plus possible de savoir c'était quel medicament (plus ordoanc,e ou emlabalege). C affaire du distilben,  mediamnet prescrit à certaines femmes qui étaient sujettes à faire des fausses couches, supposé permettre à ses femmes d emener leru grossesse à leurs terme. prescirt années 60-70, interdit e 77, car rendu compte que cette hormone posait de graves csq sur le foetus.
+
+la cour de cassaion a appliqué ici la juurpsirndece qui avait. ommené à emergé sur le terrain de l'obligation de sécurité. 
+
+la defectuosité de la molecule avait bien été avéré, sauf que les victimes du distil ben se sont heurtés à plusiuers niveaux de difficulté. La premiere difficulté c'était de démontrer que lerus pathologie était bien due à la prise du médicament par leurs mère.
+
+par faveur aux victime,s la cour de cassation a toutefois fini pa rpose rune presomption permettant de considerer comme établie le lien entre le distiben et la pathologie.
+
+faut montrer que la pathologei qu'on souffre est liée à la prise du produit. Une fois cette premiere diff franchie, 2eme diff : au moment des faits, y'avait 2 laboratories qui commericalisaient ce médicament en france. comment savoir qq dizaines d'années pmus tard quel medicament de quel laboratoire.
+
+la cour de casastiona. réussi à frnacir l'obstacle en faveur des vicitmes en posant uen préosmption de responsabiltié des deux producteurs.
+
+elle l'a fait notemmetn dans un arrêt de 1civ 24 septembre 2009, un autre du 28 janvier 2010. 
+
+on di tque les deux laboratoires osnt repsonsalbe,s les deux vont indeniser la victime.
+
+mais ensuite la queiton uqi peut se poser c que uen fosi que lav icite indemnisée, est-ce que entre les deux laboratoire il peut y avoir un equilibrage à faire, parce que peut etre pas tt les deux resp à la meme hauteur. peut etre un plus fautif que l'autre dans la copmmericalilisaiton de son produti.
+
+réparatiin envisagele du pasif de l'indemnisation. 
+
+autre solution psosoble (elel adoptée dans afaire disitlben),  tenir definitivement reponsalbe passif le laboratoire qui aviat la plsu grande part du marché que la'ure laboratoire. donc on attribue la dette à chacun des laboratoires à concirrence de lerus partde marché.
+
+art 1240 du projet propose cette forme de répartiion pour la contribution à la dette.
+
+C) la mise en oeuvre de la responsabiltié du fait des produts defecteuux.
+
+ppuir les mettre en oeuvre :
+1. délais
+2. preuve
+3. cause d'exonératios
+4. regles spéciale pour l'étendue de l'indemnisation
+
+C1) les délais
+
+actiond ela vcitiem est enfermée dans un dobuel délais. il y a d'abord un délais de prescription, puisun délais de péremption.
+
+le délais de prescription, càd un délais à l'issu dueuqle la vicitme ne peut plus agir en jsutice, dans ce régiem spécial ce régime de prescription est de 3 années, qui es tplus court que le délais de droit commun, puisque dans le délais de droit commun le délais de prescrpiton est de 5 ans poru dommage mateirl 10 ans pour les dommages corporels.
+
+ce délais de 3 ans commence à courri à partir du moment où la victime à connaissance du défaut de securité. 
+
+ensuite autre délais : délais de péremption, qppelé aneco rele délais de forclusion, c un délais au delà duquel le producteur ne pourr aplus être tenu pour repsosnable.  ce délais est indiqué articel 1245-15. Cet article prévoit que sous faute du procutuer, la resp de celui ci est eteinte 10 ans apres la msie enc irucation du produit. 
+
+on vuet pas freiner iniitaitve economique, ni surchager les assurances. et puis de autre coté si au bout de 10 ans aucun défaut n'a été révélé, aucune action n'a été intentée par la victime, c que le produit ne présnete pa sde défaut.
+
+si la vicitme a enggé une action en justice, là c différent, le délais de péremtpion ne peut plus jouer.
+
+finalelent le régie de reposnabilité du fait de sproduits n'est pas forcement favorable à la victime. Loruqe le défaut nait que tres tardivement, la vicitme pourra pas recherhce rlaresp dju produit. 
+
+la date de miseen circulationdu prpduit est tre simproatnte, on prend ne compte le produit lot, meme si medicmnet vendu plus tard. 
+
+dans affaire du distiben (avante ntrée en vigueur loi 78), si ajd uen perosnne se disiat victime, elle ne ppurrait plus agir su rle terrain de la repsonsaibltié du fait des prpduits defecteuuX.
+
+il se peut que la reps du producteur ne soit éteinte avant que la vicit esubbisse le dommage.
+
+certains auteurs suggerrent de dir eque y'aune piste posisble pour contourner articel 1245-10, qu iserait d'invoquer l'inconventionalité de ce texte, càd sa contrariété aux conventions internationales, il s'agirait de la contrariété à la CEDH, art 6 qui pose c eprincipe en matiere d ejuusice.  ce doiubeol déalis ne eprmet plus parfois à la vicitme d'acceder à la jsutice. 
+
+C2) les preuves
+
+il va falloi rpaporter unc eratin nombre de preuves, articel 1245-8 rappelle que le demandeur doit provuer le dommage, le défaut et le lien de cauaslité entre le défaut et le dommage.
+
+plusieurs choses à provuer : 
+1. l'imputabiltié du odmmage au produit : il faut que l eproduit ait eu un rôle dnas le dommage. si le produit n'a pas participé d'aucune maniere au dommage, on ne pourra pa simputer ce dommag eau prpdut,q uadn bien meme ce produit présenterai und éfaut. 
+2. le défaut du produit (le défaut de sécurité du produit) : ilne présnet epa sla sécuirté à la quelle on peut s'attendre. faut provuer le caractere exceptionellement dangereux.
+
+ En cas d'inceertitide, sur le défaut d'un produit la preuve du défaut peut reposer sur des préosmtpiosng raves précises et concordantes.
+
+décision cour de cassation 25 février 2016 dans l'affaire du médiator, le laboiratoire a dit qu'il ne connaisait pas le défaut du produit au mometn de sa commericalisaiton, a répondu que ça n'a pas d'importance.
+
+3. le liende causalité
+on impute le dommage au produit, encore faut-il qu'il y ait un lien entr ele dommage et ce défaut. Tjrs en matière de resp du fait des médicament,s ça veut dire que al vctime doit provuer que en absence de défaut du prouits, elle n'aruait aps été malade.
+
+ici aussi pruve assez diffiile à apporter, notemment parce que c une preuve négative (prouver absence de défaut). arret 22 mao 2008 la cour de cassation admet que ce lien de causalité peut être démontré par des préosmptiosn graves, précises et concordantes.
+
+nouvelle directive de 2024 propose d'alleger encore la charge de la preuve de la victime, en disant que le tribunal pourra décider que le demandeur peut provuer simplement la probabiltié que le produit est defectueux ou encore elle pourra provuer el défaut du produit est la cause probable du dommage.
+
+c'est ce qui l'inscrit dans la nouvelle directive, et sera inscrite dans la loi.
+
+C3) les causes d'exoneration
+
+
+si le producteur arrive à provuer que le prouti n'a aps été mise en circulation au sens de al loj, il est exonéré.
+
+si le défaut du produit est né postérieurement à sa msie en circulation.
+
+si le produit n'était pas destiné à la vente, ex était encore au stade de l'experimentation.
+
+il y a également 2 autres causes spéciifques qui n'existent pas en droit commun et qui sont indiqués dasn article 1245-10. 
+
+hypoth!se où le défaut du produit est dû à la conformité du produit aux regles impératives. 
+
+risque de développement : un productuer un fabricnat lance un produit sauf que quand on est innovnat eon ne sait pasà ce stade là si pertubations à moyen-long terme. si au moement où il lance son produit l'état des connaissances scientifiqeus/techniqeus ne permettaient pas au producteur de deceler dans un moyen/long terme un défaut du produit, on estime que il est exonéré de s arepspnsabilté. Càd si le risque c dévelooppé plus tard, apres la mise en circulation, à ce mometn là le producteur n'est pas responsable. 
+
+pour que cette causes d'eoxneraiton soit possibles, les conditisn sont assez strictes, encarées par la CJUE, déciison 29 mai 2017,  d'abord il faut tenir compte de l'état des connaisancesà. sonniveau le plus avancé, et il faut retenir une approche objecitve des conaisances sicentifiqes. ce sont pas les cnnaisances perosnnele sdu produceute, mais uen coannsiacne objective auquel tout le mpnde peut avoir accès.
+
+pour préciser cette mis ene oeuvre des causes d'éxonération, il faut que l'état des conaisances dont il s'agit soit évalué au moetn de la mise en circulation du produit, et c'est cette date là qui va compter. 
+
+dans affaire du médiatori il a été démontré que des 1997 des études scientifqiues commencaient déjà a pointer du doigt la dangerosité du médicament. ex en suisse retiré dès l'anné suiavnte.
+
+article 1245-11 exclu certains produits ds exonerations qui sont listés à l'article précédent.
+
+ex pour le sang pas d'exonération possible.
+
+art 1245-12 civ évoque clauses exoneraiton issus du droit commun, qui est el fait de la victime, peut être une cause exonératoire.
+
+par contre le fait d'un tiers n'appariat pas dans la liste, donc pas une cause d'eoxnération (art 1245-13).
+
+C4) l'étendue du dorit à l'indemnisation
+
+dans ce régime spéicla, y'a une limitation du principe de la réparation intégrale.
+
+le décret fixe la franchiseà un montant de 500E. le domamge materiel pour être réparable doit dépasser cette franchise de 500euros.
+
+décision 25 abril 2002 Gonzales-Sanchez, CJUE a dit que legislateur français avait mal transposé la directive.  cela va du coup limiter la réparation en cas de dommag emateirel.
+
+D) articulation du régime spéical evec autres réigmels de responsabilité (meme contractuelle)
+
+artilce 1245-17 apporte un élément de réponse en disant que le chapitre ne porte pas atteinte au droit dont la vicitme petu se prévaloir au titre du droit de la resposnabiltié contractuelel ou extra contractuelel, oua u titre d'un régiem spécial de responsabiloté.
+
+la resp du fait des produtis defectueux certes doit s'paplique ren tant que regle spéciale qui rédorge à la regle generale, et donc va s'papliquer en priorité si le sconditons sont remplies.
+
+veut idre egelamet que on petuquand meme si justement ne se trouve pas exactemetn dans le regstre de cette resp spéicale, n peut quand meme invoquer els autrres regimes de resposanbiltié. l'application de sregles spéicals n'empecje pas à titre ocmplémtentaire d'invoquer le sautres cas de responsabilité contractuelle.
+
+on peut très bien imaginer que la vicitme agisse sur el fondement de la resposnaiblité poru faute ou qu'elle agisse sur la responaiblité du fait des choses.
+
+toutefois il ne faut pas non plus que cette possibilté ouverte permette à la victime de déroger aux regles de la responsabilitédu fait des produits quis otn plutot défavorables à la victime.
+
+
+est-ce que la vcitm epeut agir sur le terrain de la responsabiltié du fait des choses ? tout dépend si la quesiton litigieuse a le même fondemetn dans les 2 cas. 
+
+si l'action a le meme fondemetn, on est obligé d'agir sur le terrain de la repsonsibltié du fait des produits .
+
+cela a été illustré civ 11 juillet 2018 : incendie qui aiva tdétrui un batiletn d'expoitation, le dommage était imputé d'un coté à une surtension accidentelle du reseau electrique, et aussi a explosion d'un transformateur qui étiat situéà proximité du batiment.
+
+la vicitme agit alros aussi bien contre EDF, qui est propriétiare ud transformatuer, et agir su rle train de la resp du fait des choses. EDF dit que l'action est prescrite en se ofndant sur l eregime e la resp du fait de sproduits (car plus de 3 ans apres le dommage). 
+
+les juge sont répondu que non, car défaut de securité aussi bien pour le trasformateur que poiur le reseau electrique. DAns les deux cas, c un défaut de sécurité qui est à l'oriigne du dommage. DOnc on estimque que c le meme ofndement, et dcp la vicitmene pouvait agir que sur le terrain del aresp du fait des produits.
+
+si les 2 fondements aoant eété différents, la vicitme aurait pu se fonder sur le terrain de la resp du fait des choses.
+
+2eme question par rapport au fait du vice caché de la chose. Le régime spécial ne permet pas de rpérarer le dommage causé au bien defecteuu lui mem (ex micro onde explosé sera pas réparé), sur le fodnemetn de la resp du fait de s pdiuots, masi pourra être réparé sur un ature fondemetn, comme resp contractielel (arret 19 avril 2023 pour dire qu'on povuait ariticuler ici les 2 régimes).
+
+
+dernier eillustration recente : pour la responsaibltié poru faite, dans une déciison récente du 15 novembre 2023, la coruj de cassation a admis toujour sdans l'afafire du médiator que la resp du fait despprudits n'empecjait pas d'agir sur le terran de la resp pour faute. Faute de la part du laboratoir epour aovi rmainteni en crculation un prpduit qu'elle savait defecteux, a manqué à son devoir de vigilence.
+
+Section 4 : la resp spéciale en matiere écologoqiue
+
+y'a 3 régimes spécaux : 
+1. régimes spéical en mateire d'accident nucléaire (issu d'une convention internationale)
+2. régime spécial pour les odmmages causés par le transport maritime d'hydrocarbue (nafurage de navire qui provoque des marées noires).
+3. préjudice ecologque pure (introduti apr loi du 8 aout 2016) instaure une resp de plein droit, il suffit d'un préjudce ecologique pour que ce régime spécial soit msi en oeuvre.
+
+
+loi dit que toute personen doit reparer préjudice ecoloiqu' (physqieu mlorale, publqiue ou privée).
+
+spécificté quant à la victime, qui subit le dommage dans le préjudice ecologique c la nature.
+
+qui peut agir : coll territoorale, etat, gorupemetns, associations agrées, etc. 
+
