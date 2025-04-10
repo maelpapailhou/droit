@@ -1,136 +1,141 @@
-le débat polituqe ne v apas être tarversé que cesar ces questios, sac de rome 1516, ce qui va caracteriser occident c uen tres grande instabiltié politque. 
+Voici le texte intégralement corrigé :
 
-C'est pas forcement les siècles obscur que certaines historiographies decriant années 60. Archéologie préventive a permsi de nuancer très sensiblemnt ce propos. Mais y'a des changements importants qui s'accomplissent, et en particulier y'a 2 choses qui empêcherotn la constitution de centre de domination stable pendant de longues perisodes, d'abord ce qu'on a appélé eles invasions.
+Le débat politique ne va pas être traversé que par César et ces questions. Le sac de Rome en 1516 illustre qu’en Occident, ce qui va caractériser l’histoire, c’est une très grande instabilité politique. Ce ne sont pas nécessairement des siècles obscurs, comme certaines historiographies des années 1960 l’ont présenté. L’archéologie préventive a permis de nuancer très sensiblement ce propos. Mais il y a des changements importants qui s’accomplissent, et en particulier deux éléments qui vont empêcher la constitution de centres de domination stables pendant de longues périodes. D’abord, ce qu’on a appelé les invasions.
 
-a partir du 3eme 4eme sielce la pression va as cesser de s'acroitre; Empire romain d'occident va pas y resister, on assiste àun mouvemet de fond, parti d'asie centrale, et de déplacmenet par pression demographique de population vers peninsule européene.
+À partir du IIIe et IVe siècle, la pression ne va cesser de s’accroître. L’Empire romain d’Occident ne va pas y résister : on assiste à un mouvement de fond, parti d’Asie centrale, un déplacement de population sous la pression démographique vers la péninsule européenne.
 
-ça va ammener une série de populationnouvelel à rentrer dans ce qu'était l'empire romain. Tout un ensmelbe de peuple, qualifié de barbare car parle pas latin, masi qui peuvent avoir des institutions, industries très sophistiquées, qui vont s'installer au coeur de l'empire romain, et donner leurs nom à ce qui reste ajd à l'onomastie romain. Bourgons s'instaletn en bourgone, lombards qui s'installe en lombadei, wisigoths en epsane et acuqitiane, etc.
+Cela va amener un ensemble de populations nouvelles à pénétrer dans ce qui était l’Empire romain. Ce sont des peuples qualifiés de barbares parce qu’ils ne parlent pas latin, mais qui peuvent avoir des institutions et des industries très sophistiquées. Ils vont s’installer au cœur de l’Empire romain, et donner leur nom à ce qui subsiste aujourd’hui dans l’onomastique romane : les Burgondes en Bourgogne, les Lombards en Lombardie, les Wisigoths en Espagne et en Aquitaine, etc.
 
-bcpd e pop qui vienent du cntre et europe qui viennt d'asie. destabilise les sociétés locales, source de pillage, source d'instabilité politque et sociale.
+Beaucoup de populations viennent du centre de l’Europe ou d’Asie. Cela déstabilise les sociétés locales, crée des zones de pillage, et entretient une grande instabilité politique et sociale.
 
-ça va pas se stabilsier tut de suite, car uen fosi que ces invasions commenncet à se calmer, Francs s'instllent nord est de la france. Source instabiltié majeure, consequence economique mjeure, piraterie arabe en mediterannée, soit installe pouvoir assez fort ex khalifa de cordou. conquete espagne et parite de l'aquitaine. frederich 2 arabes font objet protetin par le roi de sicile.
+Et cela ne va pas se stabiliser immédiatement : une fois les invasions calmées, les Francs s’installent au nord-est de la France. On assiste également à des phénomènes de piraterie arabe en Méditerranée. Certains pouvoirs arabes sont très puissants, comme le califat de Cordoue, qui contrôle l’Espagne et une partie de l’Aquitaine. Sous Frédéric II, les Arabes font même l’objet d’une protection particulière dans le royaume de Sicile.
 
-puis invasiosn normandes, bande qui se constituent autour d'un chef, espece e compagnies qui se montnet au coup par coup. 
+Puis viennent les invasions normandes, composées de bandes organisées autour d’un chef, sortes de compagnies montées au coup par coup.
 
-y'a cette premier source instabiltié, qui fait que tentative de restaurationa uotirté forte vont echouer.
+Il y a donc cette première source d’instabilité qui empêche les tentatives de restauration d’autorités fortes de réussir.
 
-deuxieme cose : appauvirsmene t relatif sur le plan économqie dec ette régiond u monde. et un des phenomenes qui le manifeste c la reduction de la circulation monétaire, moisn d'or, moins d'argent, et celui qu estxiste tends à partir vers empyre byzantin.
+La deuxième cause, c’est un appauvrissement relatif sur le plan économique de cette région du monde. Un des phénomènes qui manifeste cela, c’est la réduction de la circulation monétaire : moins d’or, moins d’argent, et celui qui existe tend à partir vers l’Empire byzantin.
 
-le manque d'espece fiduciere, prive autorités d'action. Quadn pas impot dur entrerpri armée permantne ou smei permannate, on petu pas sodler les hommes. SOldats pas payés tres indisciplinés, deserteur,e tc.
+Le manque d’espèces fiduciaires prive les autorités d’action. Quand il n’y a pas d’impôt, on ne peut pas entretenir une armée permanente ou semi-permanente, ni solder correctement les hommes. Les soldats non payés sont très indisciplinés, déserteurs, etc.
 
-absence entreitnet infrastructure. Chaussée romaine il y avait des relais, où on povuait cahgner de cheveau, se reposer, plusfacile de planifier son voyage. Ca cirulait au sein empire romain. ouvrages moisn bien entrertenus, relais disparianet, etc. reduit posibltié ecange economqieu.
+Les infrastructures ne sont plus entretenues. Les chaussées romaines disposaient autrefois de relais pour changer de monture, se reposer ; on pouvait planifier ses voyages. Mais ces ouvrages sont moins bien entretenus, les relais disparaissent, et cela réduit les possibilités d’échanges économiques.
 
-féodalité a été aussi une repose à ca, consommer sur place produit fait sur place. L'economie prends une dimension de troc accusé (mem eis qq echanges). 
+La féodalité a aussi été une réponse à cela : on consomme sur place des produits faits sur place. L’économie prend une dimension de troc accentuée (même s’il existe encore quelques échanges).
 
-veut pas dire qeu on esta dasnun monde regressif, on observe que un moulin tous les kilometre autour de la seine au 9eme siecle.
+Cela ne signifie pas pour autant que l’on est dans un monde totalement régressif. On observe, par exemple, qu’il y avait un moulin tous les kilomètres autour de la Seine au IXe siècle.
 
-echange plsu complexe que avant. un des indices de redredement de europe à acoté deu 11e siecle : on voit reparaitre monnaie d'or, on voir ddeperler le commerc,e vilel se multiplient gagnee n population, demographie bcp plus acendante.
+Les échanges deviennent plus complexes qu’auparavant. Un des indices du redressement de l’Europe autour du XIe siècle, c’est la réapparition de la monnaie d’or, la reprise du commerce, les villes qui se multiplient et gagnent en population, une démographie en forte croissance.
 
-sur le plan reloige, c une periode d'emepnsion inedite du shcrisitanisme.  le christianisme ses premieres zpnes de developpement apres la mort du christ et les premier apotres ça a d'abord été uen communauté juive instanné à rome, milan, etc. Ca a été premier foyers enseigneletn chret, premiers ofyers de convertis.
+Sur le plan religieux, c’est une période d’expansion inédite du christianisme. Aux premiers temps, après la mort du Christ et des premiers apôtres, le christianisme se développe d’abord dans des communautés juives installées à Rome, Milan, etc. Ce sont les premiers foyers d’enseignement chrétien, les premiers centres de conversion.
 
-puis le christianom ea conquis progresivement un certain nopbre des elites locales, souvent des gens qui avaiet recu un ensemiglenet ou snesitble à ensiegnement des stoiciens. Valoisnet notion de devoir, de détachenemtn au monde.
+Puis le christianisme va progressivement conquérir une partie des élites locales, souvent des personnes ayant reçu un enseignement et sensibles aux philosophies stoïciennes, qui valorisent le devoir, le détachement du monde.
 
-quand ocnstentin 1er se converti au christnaime 317, la religion chretienne est encotre tres alrgmenet minoritaire., qui a subi très reguliemern des persecutions ponctuelles.
+Quand Constantin Ier se convertit au christianisme en 317, cette religion reste encore très largement minoritaire et subit régulièrement des persécutions ponctuelles.
 
-à la mort de constnatin, 60 à 70% de l'empir eest passé au chrisinisme, c'est fait sous l'impulion des autoritiés ciivles, mais pas de distinciton posisble poru epereur romain entre dimension relgieus ede son role, pontifes pretres, et dimension civile et miliatekr. Constantin premier et à la fois cesar, imeprator, prince legiste et pontife supreme.
+Mais à la mort de Constantin, 60 à 70 % de l’Empire est passé au christianisme, sous l’impulsion des autorités civiles. Il n’existe pas de distinction possible, pour un empereur romain, entre la dimension religieuse de son rôle — pontife, prêtre — et sa dimension civile et militaire. Constantin Ier est à la fois César, imperator, prince législateur et pontife suprême.
 
-au moment de la conquete musulmane va basculer tres vite au coté de l'islam, religion politque sont quasi indissociables.
+Lors de la conquête musulmane, la bascule vers l’islam s’opère très vite. Religion et politique sont ici quasi indissociables.
 
-l'empire latin (europe deouest hors allemagne). (mauritnaie à egypte, france, belgique, sous le rhin). Grece et asie mineure sous empire byzanti,, c chrétienté de l'an grec, qui va suivre sa propre restinée, puisque empire byzanthin persiste jusquen 1453. 
+L’Empire latin (Europe de l’Ouest hors Allemagne — Mauritanie à Égypte, France, Belgique, jusqu’au Rhin) est à distinguer de la chrétienté d’Orient, byzantine, qui va suivre sa propre destinée, puisque l’Empire byzantin subsiste jusqu’en 1453.
 
-en l'an 1000 le christianisme  dispais ariqeu du nord, il est resté solidemetn implanté en espagne, italie, en gaule, et a ggné toute uen partie deeurope centrale, ex la Saxe (alemang)e, polgne, lithuanie, etc, hongrie, autriche, etc).
+En l’an 1000, le christianisme a disparu d’Afrique du Nord, mais il est resté solidement implanté en Espagne, en Italie, en Gaule, et s’est étendu à une grande partie de l’Europe centrale : la Saxe, la Pologne, la Lituanie, la Hongrie, l’Autriche, etc.
 
-ils onté té gagnésà la cause chrétienne. sur le plan politque, ce qui mérite d'être souligné c'est les tentavies répétées d erestaurer l'empire romain. Tentative menée par les gots et visigots, en particuleir childeric 1er, celle menée par charlemagne (empire carolingien), puis celle qui va connaitre une fomre de succes c la restauration Otton, fondateur du saint empire romain et germainique, appelé saint empire, qui disparaitemera à 1GM, dementelmetn autriche hongrie.
+Tous ces territoires ont été gagnés à la cause chrétienne. Sur le plan politique, ce qui mérite d’être souligné, ce sont les tentatives répétées de restaurer l’Empire romain. Il y a la tentative des Goths et des Wisigoths, en particulier Childéric Ier, celle de Charlemagne (Empire carolingien), puis celle qui connaîtra une forme de succès avec la restauration d’Otton, fondateur du Saint-Empire romain germanique — qui perdurera jusqu’à la Première Guerre mondiale, avant d’être démantelé avec l’Empire austro-hongrois.
 
-se pose la question de commetn on pratique va s'organisr les relatiosn entre eglise et état, en tre pouvori temporel et pivour spirituel. 
+Se pose alors la question fondamentale de la manière dont, dans la pratique, vont s’organiser les relations entre Église et État, entre pouvoir temporel et pouvoir spirituel.Deux solutions sont possibles dans le contexte de l'époque, mais aucune n’est réellement praticable : l’idée d’une séparation complète, d’une autonomie laissée à la religion avec un pouvoir laïque est difficilement concevable, car il y a toujours une dimension sacrée dans l’exercice de l’autorité.
 
+Le principe de séparation stricte entre culte et gouvernement n’est donc pas praticable. Deux solutions restent alors : soit le pouvoir politique subordonne le pouvoir religieux — c’est la solution césaro-papiste (César au-dessus du pape), soit, à l’inverse, la solution augustinienne (le pouvoir spirituel l’emporte sur le pouvoir temporel).
 
-2 solutions possilles dans le contexte de l'époque,  pas pratoiquecalbe : iée d'une sepratiaon complete d'une autonpmeilaissé. a la relgion avec un pouvoir laoique. Maos tjrs uen deimension sacrée ands l'exerice de l'aurotiiré.
+En pratique, on sera confronté alternativement à l’un ou à l’autre de ces modèles. Il y a des moments où c’est le principe césaro-papiste qui l’emporte, et d’autres où c’est le principe augustinien qui s’impose. Mais cela reste très instable.
 
-princoep sepraritoculte et gouv pas praticalbe, 2 soltuons qui reste : soit le pouvoir politque subordonne le pouvoir religieux, c la solition césaro-papiste (césar au dessus du pape), soi tinverse solution agustinienne (pouv spiritiuel l'emporte sur le pouvoir spoiritel)
+Ce n’est qu’au fil de luttes permanentes qu’un certain nombre de compromis vont s’élaborer, afin de déterminer plus précisément comment s’organisent les rapports entre ces deux pouvoirs.
 
-en pratique on sera confronté à l'un et l'autre des modeles. Y'a de smomens ou c un principe césaro papiste qui l'emportera, dans autres ca sprincipe augustinien qui s'impose; Mais tres instable.
+La Constitution civile du clergé, défendue par l’Assemblée nationale lors de la Révolution, ou encore le Concordat, s’inscrivent dans cette question de l’articulation des rapports entre l’Église et l’État.
 
-ce n'est qu'au fil de lutte permannate que va s'élaborer un certain nombre de compromis de maniere a déterminer de façon plsu précise commetn s'organisent les rapports entre ces deux pouvoirs.
+Ce qu’il faut avoir à l’esprit, c’est que, dans ce contexte d’articulation, tout se joue sur fond de conflit permanent entre l’autorité temporelle et l’autorité spirituelle, avec parfois des coups de force. Il y a donc un fond de violence.
 
-constituin civile du clergé, défendu par ssembmée natioane, av revolution, le concordat s'inscrit dans cette question articilauton raporots entre eglise et etat.
+L’attentat de Philippe IV le Bel, fils de Saint Louis, lorsqu’il se rend à Rome, en est un exemple (complot contre le pape).
 
-ce quil faut avira l'esprit c que dans le contexte de cette articulation,c sur fond de conflit permannt autre autoirté temporelel et autorité spirituelel, avec parfois des coups de force.  DOnc un fnd de violence. 
+L’Église et le pouvoir politique vont s’attacher à définir, à asseoir leurs prétentions respectives les unes par rapport aux autres, à les argumenter. Ils vont d’abord le faire sur la base des Écritures saintes, puis, à partir du moment où le droit romain redevient un objet d’étude aux alentours du XIe siècle, ils vont s’y référer.
 
-attentat philiphe 4 le bel, fils saitn louis, va a rome, (competer).
+C’est l’Église la première qui mobilisera ce droit à l’appui de ses prétentions. Très rapidement, les chancelleries royales et impériales, qui voient que cela les met en difficulté, vont à leur tour se mettre à l’école du droit romain pour justifier leurs prétentions. Cela va progressivement aboutir à faire de l’État l’objet d’une définition théorique, mais aussi à lui conférer certaines caractéristiques empruntées à l’Église.
 
-eglise et pouvoir poltique vont s'attacher à définri, à assorileur préetntion resepctie les unes par rapprts à l'autre, les argumetner, ils vont dle faire sur al base des ecritures simples, puis ils vont lef aire su rla abse du droit romain à partir udmoimetn où celui ci est objet d'une redecouverte au alentur 11e siecle.
+C’est le début d’une disjonction très forte entre pouvoir temporel et pouvoir spirituel.
 
-c eglise la premier euqi le mobilisra à l'appui de ces pretentions, tres rapideetn chancellerie roi et empereurs qui voiet que les mets en diffiuculté, vont à leur tour ce mettre à eole du droit romain pour justifier leurs rpetention, et ça va abourit prgoresivement à faire de l'état l'objet 'une defintiion theorique, mais aussi qq chose qui tient de l'église.
+C’est un début de la sécularisation, c’est-à-dire qu’on est en train de faire « descendre le ciel sur la terre ».Au tournant de l’an 1000, au fur et à mesure que se reconstituent des appareils politiques, tout le débat va tourner autour de la répartition des rôles et du pouvoir entre les puissances profanes (attention, pas laïques) et l’Église.
 
-début d'une disjonciton tres forte entre pouvori tempelle et spirituel.
+On parle de puissances profanes parce qu’il ne s’agit pas d’autorités laïques au sens moderne du terme : il n’y a pas de laïcité à l’époque. C’est un monde intégralement chrétien, dans lequel l’autorité politique doit seconder l’autorité religieuse pour maintenir la discipline religieuse. Les rois sont bénis et sont l’expression de l’autorité divine. Il y a de la religion partout.
 
-c'est un début ce la sécularitasion, càd on est entrain de faire descendre le ciel sur la terre. 
+Par contre, ce qui existe du fait que la religion du pardon ne peut pas être l’arme de la sanction, c’est une division fonctionnelle des tâches. Le pouvoir politique s’occupe de la discipline externe, sur les corps, sur l’obéissance qu’on peut imposer par la force physique, alors que l’Église, elle, a la charge de l’âme : elle guide l’âme, sauve le péché et l’emmène vers le paradis.
 
-au tournant de l'an 1000, au fur et a mesure que se reconstiute des appareils politques, tout le débat va tourner autoru de la répartitiond es roels et du pouvoir entre les puissances profanes (attention pas laiques), et l'église. 
+En pratique, ce partage fonctionnel ne fonctionnera jamais complètement comme tel. Il ne s’imposera que très progressivement, et partiellement. Il y aura toujours une étroite imbrication entre l’exercice de l’autorité politique et l’exercice du pouvoir religieux. Et cela dès le début, dès le moment où l’empereur se convertit au christianisme, avec la fameuse conversion de Constantin en 317. Les autorités politiques vont s’appuyer sur les autorités religieuses, et réciproquement, pour faire valoir leurs intérêts et leurs objectifs.
 
-puissance profane parce que c pas des autorités laiques au sens ou pas de laicité à l'époque. C un monde integralement chrétien, l'autorité politque doit seoconder autorité religieuse pour maintenir la discipline religieuse. Les rois sont bé,is et sont l'expressoon de l'autorité divine. Y'a de la religion partout. 
+La conversion de Constantin est en partie un récit réécrit par la suite. Il s’est a priori converti, mais il y a aussi eu des moments de retour au paganisme, comme l’atteste l’exemple de Julien l’Apostat, qui a apostasié le christianisme, c’est-à-dire qu’il l’a renié.
 
-Par contre c equi existe du fait que la religion du pardon ne peut pas être l'arme de la sanction, y'a une ?? fonctionnelle des taches. Le pouvoir politque s'occupe de la discipline externe, sur les copr,s sur obeissance qu'on peut imposer par la force physqoeu, alros que l'église elel a la charge d'arme, guide l'ame, sauve le péché et l'emmene vers le paradis.
+Les évêques sont dévoués à leur tâche, à leur cause, cultivés. Donc, dans un contexte où l’Empire est tout le temps en guerre sur ses frontières, avec des moyens qui commencent à être limités sur le plan économique, ils constituent un excellent relais pour les empereurs en matière d’administration de leurs territoires.
 
-en pratique, ce partage focntionnel il ne fonctionnera jamais comme tel. Il ne s'imposera que tres progressivement et partiellement.Il y aura toujours uen étroide indication entre exercice de autorité politque et exercice du pouvori religieux. Et ça des le début, des le mometn où empereur se converti au christianisme, avec la fameuse conversion de constantin en 317, les autorités politques vont s'papuyer sur les autorités relligueses et réciporqemetn pour faire valoir leurs interets et leurs objectifs. 
+Ils vont donc composer avec eux en matière d’administration urbaine, de gestion des territoires.
+Dans le contexte des bouleversements liés aux invasions barbares, l’Église est la seule structure qui va maintenir une certaine unité. C’est compliqué, car les déplacements sont plus difficiles, et pour convertir de nouvelles populations, les élites religieuses locales ont appris à prêcher en breton chez les Bretons, en franc chez les Francs, etc. Il y a un risque constant d’éclatement de l’Église, ne serait-ce qu’au niveau linguistique.
 
+Mais malgré tout, l’Église parvient à préserver une certaine unité sur le plan doctrinal, du fait de la prééminence qui est reconnue à l’évêque de Rome en tant qu’autorité statutaire. Il y a une opposition entre ceux qui sont partisans de la monarchie pontificale, et ceux qui défendent la conciliation réalisée par les corps de l’Église.
 
-la conversion de constantin ec en parti un récit réécrit par la suite. Il c a priori converti, mais uassi des mometns d erotune au paganisme, juline l'aposta, qui a aposthasié le christianisme, qu'il l'a renié.
+En tout cas, une forme de centralisation demeure sur le plan dogmatique. À partir de là, l’Église est confrontée à la fois à des défis nouveaux et à des risques nouveaux.
 
-eveques sont évouésà. leurs tache, à leur cause, cultivé, donc dnas un contexte où l'empire est tout le mteps à faire la guerre sur les frontirèes, moyens commetn à etre limtiésur le plan économique, c un excellent relais pour les emmererus en terme d'administration de leurs territoires.
+Le défi nouveau, c’est la renaissance urbaine, la circulation monétaire qui reprend vie. Les risques nouveaux, c’est que l’Église, en tant qu’institution, est menacée par la montée en puissance d’un nouveau régime de gouvernement des hommes et des choses appelé la féodalité.
 
-donc vont composer avec en matireè d'administration urbiane, de gestion des territories. 
+Ce qui caractérise la féodalité, c’est que c’est l’exercice d’un pouvoir patrimonialisé. Il n’y a pas de distinction faite entre ce qui serait la vie privée et la vie publique. Le pouvoir politique est exercé au titre d’une prérogative privée, passée dans le patrimoine du seigneur féodal, et qu’il transmet à ses héritiers selon les règles de la coutume, familiales.
 
-dans contexte bouleversmente par inveasions babarbes, egise seule sturcture qui va maintenir une certaine unité. compliqué psk déplacmeent plus diffiicle, pour convertir de nouvelles pop les elits religeiuses locales ont appris à precher en breton chez les bretons, en franc en franc, etc. rsique constnat de l'éclatemetn de eglise ne serait-cen qu'ua niveau linguistique, etc.
+La justice seigneuriale, féodale, est exercée par tel ou tel seigneur à titre de compétence privée. De même, quand il fait la guerre pour défendre son fief ou pour conquérir une partie du fief de son voisin, on parle de guerre privée.
 
-mais malgres tout eglise arrive à préserver certaine unité sur le plan doctirnal du fait de la prééminence qui est reconnu à éveque de rome, en tant qu'autorité statutaire. entre ceux uqi vont etre partisant de la monarchie pontificale, et cuex partisan de la concilion faite par les corps de l'église. (complete corrige)
+On a donc autant de puissances que de seigneuries. C’est le principe d’organisation dans le cadre de la pyramide féodale. À son sommet, on trouve le roi ou l’empereur, et à sa base, les plus petits seigneurs locaux.
 
-en tout cas forme de centralisation qui demeure sur le plan dogmatique.  a partir de la, l'église est confrontée à la fois à des défis nouveaux, et à des risques nouveaux. 
+Le roi joue un rôle d’arbitre, mais il n’a pas la puissance d’imposer unilatéralement une loi qui serait celle d’un souverain. Il est plus un seigneur féodal qu’un souverain tel qu’il se définira à partir du XIIIe et XIVe siècle.
 
-définsi nouveau c la renaissance urbain, la circulationmonétaire qui remrpend vie.  les riqsues novueaux c que l'église en tant qu'institution est menacée par la montée en puissance d'un nouveau rgime de gouvernemetn des hommes et des choses appellé la féodalité. 
+Pour l’Église, c’est un défi, parce qu’elle aussi est menacée par une forme de féodalité, non pas seigneuriale, mais ecclésiastique. C’est le fait que les prêtres, les évêques exerceraient leur mission, et en particulier exerceraient le pouvoir sacramentel, non pas au titre d’agents investis par l’Église, mais à titre privé, comme une compétence héréditaire, quelque chose dont ils seraient investis par nature depuis leur naissance.
 
-ce qui caracterise la féodalirté, c que c exercice d'un pouvoir patrimonialisé. Y'a pas de distinction faite entre ce qui seriat la vie privée et vie publqieu. le pouvoir polituq eest exercé au titre d'une prérogative privée passée dans le patrimoiine du seigneur féodal, et qu'il transmet à ses héritiers selon les règles de la coutume, familiales. 
+C’est une menace très sérieuse, aussi bien du point de vue théologique que du point de vue pratique.
 
-la jusitce seigneuriale, féodale, est exercée par tel ou tel seigneur à titre d ecompétence privée. De même quadn il fait la guerre pour défendre son fief ou pour conquérir une partie du fief de son voision on parle de guferre privée.
+Sur le plan pratique, même si l’Église a réussi à préserver une forme d’autorité doctrinale, elle est travaillée par les phénomènes de son époque, dont le féodalisme.
 
-on a donc autant de puissance que de seigneureries. principe d'organisation dans le cadre d ela pyramide féodale. cette pyramide feodane sommet le roi ou l'empereur, jusqu'au plus petit seigneur de base. 
+Des prêtres, notamment dans le nord de l’Italie et le sud de la France, sont mariés et ont des enfants.
 
-le roi joue un role d'arbitre, masi n'a pa slapuisance di'mposer unilatréalmenet une loi qu isera celle d'un souverain. Il estplus un seigneur féodale que le roel d'un souverain tel qu'il se defenira a partiru du 13e et 14e siecle.
+Le risque, c’est que des évêques veulent transmettre leurs charges et les droits associés à leurs enfants, donc que l’on devienne prêtre de père en fils. Souvent, ils préparent leur succession privée, veillent à ce que cela revienne à leur famille.
 
+Ce risque est un risque d’ordre théologique, un risque majeur sur le plan de la doctrine : c’est le simonisme.
 
-pour l'église c un défis,  parce que elle aussi est menacée de féodalité, une féodalité pas seigneuriale mais ecclésiastique. C le fait que les prêtres, les eveques exerceraient leur mission et en particulier exercerait le pouvoir sacramentel, non pas au titre d'agent investis par l'glise mais à titre privée, au titre du'ne competence hereditaire, qq chose dont il seria tinvestis par nature depuis leurs naissance.
+Le simonisme tire son nom d’un mage, Simon, qui apparaît dans les Actes des Apôtres. Dans le Nouveau Testament, on a les quatre évangiles reconnus par l’Église (Matthieu, Luc, Marc, Jean), et aussi les Actes des Apôtres (récits ou courriers des apôtres après la mort du Christ, qui rapportent les premiers efforts d’évangélisation). Le récit est celui d’un mage qui aurait voulu acheter le miracle que les apôtres opéraient, auprès de ceux-ci.
 
-C une menance tres sereuse au point de vue théologique comme poitn de vue pratique.
-au poitnd eviue paraituqe, meme is eglis ea réusis ) presever uen forme d'autorirté doctirnale, elle est travaillée par phénmene d eosn epoque, dont féodalisme.
+Le simonisme renvoie à l’idée que les apôtres ne sont pas les délégués du Seigneur, mais opèrent magiquement ; que les miracles sont en fait des tours de magie. Le miracle s’oppose à la magie : on ne peut pas croire aux deux.
 
-pretre nord italie sud france sont mariés et ont de senfants. 
+Donc, c’est le risque de faire basculer tout l’enseignement catholique du côté de la magie, qui permettrait aux hommes de manipuler à leur gré, avec une formule, la nature telle que Dieu l’a créée dans l’ordre qu’il a voulu. Cela porte atteinte à l’autorité des sacrements.
 
-rsique que eveques veulent transmetttre leurs charges et droits associés à leurs enfnats, donc qu'on devienne pretre de pere en fils. Souvent il prepaprent leurs sucession privée. veilel à ce que ça reivenne à la familel.
+Pour l’Église, dès les XIe et XIIe siècles, il devient urgent de définir un corps de doctrine théologique, politique et juridique capable de contrer cette menace pour préserver son unité et la cohérence de son message religieux.
 
-ce risque revient à un risque d'ordre théoloigqe, qui es tunrisque majeur su rle plan de la odctrine, c'est le simonisme.  le risque du simonisme c du nom d'un mage, Simon, qui apparait dans les actes des apotres, dans le novuea testament on a les évengiles, 4 reconnus par eglise, (matthieu luc marc jean), et aussi actes des apotres (récits ou courriers des apotresà la suite de la mort du christ, qui rapport les premiers effors d'évangelisaitons). Recit celui du'n mage qui aurait voilu acheter le miracle qu'operait les apotres aupres de ceci. Simonisme renvoei à dée que apotre sont pas les délégués du seigneur, mais opèrent magiquement, c que les miracles sont des tours de magie, le miracel s'opoose à la magie, on petu pas croire aux deux.
+Cette opération d’autonomie est d’autant plus difficile que l’Église se retrouve investie, de fait, de l’occupation d’un certain nombre de territoires.
 
-donc c le rosque de faire basucler otut l'ensiegnement cahtilique du coté de lamagie,q ui permettrait aux homems de manipuler à leurs gres avec une formule la nature tel qeu dieu l'a créé dan l'ordre qu'il a voulu. Porte atteinte à l'autorité des sacrements. Pour eglise, des 11e et 12e siecle, devient urgent de définir un corps de doctrine théologique, politque et juriique qui soit capable decontrer cette elace pour préserverson unuté et préserver la cohérenc e de osn message religieux. 
+Certains de ses membres figurent comme des seigneurs féodaux, qui exercent une autorité non seulement religieuse, mais qu’on pourrait qualifier de civile sur les domaines dont ils sont les administrateurs. Ils sont donc intégrés à la pyramide féodale.
 
-Opération d'autoatn plus dffile que église se retrouve investie de fait de occupation d'un certain nombre de territoires. 
+Le cas le plus poussé de cette confusion, c’est le Saint Empire romain germanique. C’est l’Empire carolingien, et c’est l’ambition de celui qui le proclame, Otton Ier : la restauration de l’Empire romain. Il n’a pas beaucoup de moyens, surtout au début (son empire va de l’Allemagne jusqu’à Rome). Pour l’administrer, Otton Ier s’est appuyé sur les évêques. Il a à son service des seigneurs féodaux, mais il a aussi des évêques, alors investis au titre de comtes, de princes. Ils exercent les fonctions d’évêque pour l’Église catholique, et celles de comte pour l’Empire.
 
-certain de ses membres figurent comme des seigneurs féodau, qui exercent uen aotirté non seulement religeuse, mais qu'onppourrait qualifié de civle su rles domaiens dont ils son les adminsitrateurs. ils sont donc integrés à la pyramide féodale.
+C’est une confusion très poussée des structures de gouvernement. Un enjeu va vite se profiler : qui désigne le comte-évêque ? À qui doit-il rendre compte en priorité ? Au pape ou à l’empereur ?
 
-cas le plus poussé de cette confusion c le saint empire romain germanique. C'est l'empire carolingien, c l'ambition de celui qui le procrlame, Otton 1er, c la restuaraiton de l'empire romain. Pas bc de moyens surtout au dbut (va de l'allemagne sjuqu'à rome). Pour l'admoinistré, otton 1er s'est appuyé sru les eveques; Ila a son service seigneurs féodaux, mais il a aussi des eveques, alors investis au titre de conte, de prince. Exerce les fonctions d'eveque pour eglise cahloque, et conte pour empire. Conusion tres poussée des structures de gouvernement. Enjeu qui va vite se rpofiler : qui désigne le compte eveque? à qui il doit rendre compte en priorié? pape ou empereur? 
+Dans le cadre du césaro-papisme, c’est-à-dire la doctrine qui fait prévaloir l’autorité impériale/monarchique, c’est l’empereur ou le roi qui a la main, même s’il doit forcément chercher à s’entendre avec le pape.
 
-dans le cadre du césaro-papisme, càd doctirne qui fait préaoir autorité impélaie/moanchirste, c l'emperuer/ le roi uqi a la main, même si forcement il doit aussi chercher à s'entendre avec le pape.
+Le modèle césaro-papiste, c’est celui qui est expérimenté par Constantin. L’Église se confond avec l’Empire, elle est placée sous la tutelle de l’empereur. Le pape figure comme le chapelain de l’empereur. Le vrai chef de l’Église, c’est l’empereur.
 
-le modèle césaro-papiste, c celui qui est expérimenté par constantin.  eglise se cofond avec empire, autorité impériale et elle est lacé sous la tutelle d eempereur. Pape c figure cmme le chameplin de emperuer. Le vrai chef de l'eglie c'est empereur. implique pas qui'l puisse faire ce qu'il veut, pas de pouvoir sacaramental, il peut pas se substituer aux pretres pour la célébration du culte. Tjrs cette division focntionelle. 
+Cela n’implique pas qu’il puisse faire ce qu’il veut : il n’a pas le pouvoir sacramentel, il ne peut pas se substituer aux prêtres pour la célébration du culte. Il y a toujours cette division fonctionnelle.
 
-empereur se réserve aussi le droi tultime de sancitonner le dogme. L'autoiré dogmatique au sein de l'église c'est klemepreur. L'exerce pas de maiere indifférencei. On retoruvera pariel dans le contexte carolingien, avec charmelagne considéré comme restaurateur et défensuer de l'église, au sien de laquelle il ramen el aidscipline relgeuse comme autorité dogmatique.
+L’empereur se réserve aussi le droit ultime de sanctionner le dogme. L’autorité dogmatique au sein de l’Église, c’est l’empereur. Il ne l’exerce pas de manière indifférente.
 
-Au dessus du pape comme autoirté des emeeurs, il est le seigneur du monde, l'image de dieu sur terre.
+On retrouvera un modèle semblable dans le contexte carolingien, avec Charlemagne considéré comme restaurateur et défenseur de l’Église, au sein de laquelle il ramène la discipline religieuse comme autorité dogmatique.
 
-textes de son propagandistes Alcuin, le celebre comme un demi dieu, sommet de la hierracie humaine, frontiere entre umain et le divin. 
+Il est au-dessus du pape comme autorité. Pour ses propagandistes, comme Alcuin, il est le seigneur du monde, l’image de Dieu sur Terre. Il est célébré comme un demi-dieu, au sommet de la hiérarchie humaine, à la frontière entre l’humain et le divin.
 
-empire otonyde configuration semblable, apres periode d'instabilité, il se fait protecteur du pape, de l'église, qui figure comme son chaplin. Il n'hésite pas à s'papuyer sur les eveques. Le risque c'est que dans la mesure où le césar ou le roi s'appuie sur des seigneurs laiques, qui sont des seigneurs héréditaires, rsqiue c que reprosuise la meme chose quand il s'agit d el'église. 
+Dans l’Empire ottonien, on retrouve une configuration semblable. Après une période d’instabilité, il se fait protecteur du pape, de l’Église, qui figure comme son chapelain. Il n’hésite pas à s’appuyer sur les évêques.
 
-il enterrine un princpe de suctetion hereditaire au sein de l'église, qui pemret aux eveques de s'approprier les biens d el'église comme un patrimojne perosnnel, de se faire du gras sur le compte de l'église. eglise moins un instrument de gouveremtn que d eremuneratiin des evques et abbés qui servent l'empire.
+Le risque, c’est que dans la mesure où le césar ou le roi s’appuie sur des seigneurs laïcs, qui sont des seigneurs héréditaires, le risque est qu’on reproduise la même chose lorsqu’il s’agit de l’Église.
+
+Il entérine un principe de succession héréditaire au sein de l’Église, qui permet aux évêques de s’approprier les biens de l’Église comme un patrimoine personnel, de s’enrichir sur le compte de l’Église. L’Église devient alors moins un instrument de gouvernement que de rémunération des évêques et abbés qui servent l’Empire.
 
 à court terme, le cesaro papisme a pu contribuer à rénover les structures de l'église, à relever uen gelise malen point du fairt des invasitons, instabilités poltiqeus, mais plus long terme c un risqu emajeur d'attiente à la disipline ecclésiaistuqe, car tnetion sur long temre sst utiliser eglise comme une ressource sur la féodalité.
 

@@ -1,347 +1,332 @@
-on va s'intereser à la mnaiere don un certian nombre d'autorités/rpofanes vont travailler au fil du temps à reconsturire un apapreil d'état investis de prorpoété tout à fait equivalente à celles que revendiqeu l'église pour son compte càd la permannace, eternité, le fait d'etr des isnttutosn durables. 
+On va s’intéresser à la manière dont un certain nombre d’autorités profanes vont travailler, au fil du temps, à reconstruire un appareil d’État investi de propriétés tout à fait équivalentes à celles que revendique l’Église pour son propre compte, c’est-à-dire la permanence, l’éternité, le fait d’être des institutions durables.
 
-Ce processus de productin e l'état il va suivre des fois un peu bizarres, mais uqi expliquent aussi la maniere dont on le concoit encore ajd. La premuer voie ça a été la sacralisation du roi, commetn en partiucleir dans la royauté franque puis franciase, le roi par un ceratin nombre de traits touche à la pretrise. Commetn ler oi peut etre investis d'une dimension sacrée malgres volonté eglise bien disitnguer entre temporel et spirituel.
+Ce processus de production de l’État va suivre des voies parfois un peu bizarres, mais qui expliquent aussi la manière dont on le conçoit encore aujourd’hui. La première voie, ça a été la sacralisation du roi : comment, en particulier dans la royauté franque puis française, le roi, par un certain nombre de traits, touche à la prêtrise. Comment le roi peut-il être investi d’une dimension sacrée, malgré la volonté de l’Église de bien distinguer entre temporel et spirituel.
 
-ensutie on si'nteressera à la maniere dont la monarchie va s'inquieter, travailler à s'approprier à son tour le droit romain dont l'église commence à faire un usage très intensif, dans le but de contrer certaines revendications d el'église, et aussi dans le but d'affirmer lesmissiosn propres de l'état. 
+Ensuite, on s’intéressera à la manière dont la monarchie va s’inquiéter, travailler à s’approprier à son tour le droit romain, dont l’Église commence à faire un usage très intensif, dans le but de contrer certaines revendications de l’Église, et aussi dans le but d’affirmer les missions propres de l’État.
 
+Frédéric Staufen, petit-fils d’Henri IV, roi de Sicile : comment cela a abouti à faire de l’État une sorte de nouvelle Église, en charge non plus du sacrement du salut spirituel, mais d’un sacrement de justice.
 
-Fredérique Stoffen, petit fils d'henri 4, roi de sicile : commetn cela a botuit à faire de l'état uen sorte de nouvelle eglise en charge non plsu du sacrement du salut spirituel, mais du'n sacrement de jsutice.
+Enfin, la manière dont les jurisconsultes ont pensé l’État à travers tout un imaginaire qui porte sur le corps du roi, son existence, et le définit progressivement comme un personnage totalement abstrait, jusqu’à aboutir à une formulation : « chef des deux corps », formule employée par le Parlement d’Angleterre pour justifier l’exécution du roi Charles Ier.
 
-enfin la mnaiere dont les jurs consultes ont pensé l'état à travers toute un imaginaire quu porte sur le corps du roi, son existence, et le défini rpogresivement ocmme un personnage totalement abstrait jusuq'a aboutir à ue-ne formulation : "chef des 2 corps", formule employuée par le parlemetn d'angleterre pour justifier execution du roi charles 1er.
+D’abord, le roi miraculeux, le roi guérisseur, thaumaturge. Il y a très souvent, dans les sociétés, une liaison qui est faite entre l’exercice d’une autorité collective et la possession d’un certain nombre de pouvoirs, sur les choses et sur les humains. Ce que les anthropologues, à la suite de l’observation de sociétés polynésiennes, ont appelé le mana. Ce n’est pas propre à ces sociétés. Idée que certains peuvent appeler une chance (baraka), aussi appelée le magnétisme, idée que certaines personnes, et plus exactement certaines familles, sont investies d’un pouvoir particulier, d’une puissance particulière, et que ce pouvoir se transmet soit de père en fils, soit de mère en fille, ou d’oncle à neveu, etc. Pas de même nature suivant le statut social de ceux qui l’exercent. Dans les sociétés polynésiennes, c’est la capacité de rendre les choses taboues, frappées d’un interdit sacré. Cela peut concerner plein de choses : transgresser le tabou, c’est s’exposer au risque ou même à la certitude d’une punition.
 
+Dans la sphère européenne, on a des exemples de cette nature. Marc Bloch, d’après lui, cite celui d’un petit roi du Danemark, dont le règne est heureux (bonnes récoltes, etc.). Quand il meurt, on va diviser son corps en quatre morceaux, et placer un morceau dans chaque province, pour prolonger les heureux bienfaits de son règne. Il n’y a rien de vraiment formalisé. On admet que les gens qui sont en position d’autorité ont ce pouvoir. Cela montre qu’ils sont élus des dieux, et tiennent d’eux un certain nombre de pouvoirs.
 
-d'abord le roi miraculeux, le roi guerrisuer, Thaumaturge. y'a tres souven ans les sociétés un elieaison qui est faite entre xexercce d'uen autorité ocllective et la possesion d'un certain nomre de pouvoirs, sur les choses et sur els humains. Ce que les antrhpologues à al suite d el'objservation de société polynesienne ont appelé le Mana. C pas propre à es sociétés. idée que certain peuvent appelé une chacne (baraka), aussi appelé le magnetisme idée que certains personnes, et plsu exactement certaines familles sont invesites du'n pouvoir particuleir du'ne puissance paritucleire, et qui se transmet soit de pere enf ils, soti de mere ne fille, ou oncle à neveu, etc. Pas de meme nature suivant le statut social de eux qui l'exercent. Dans les sociétés polynesiennes, c la capacité de rendre les chsoes tabous, frappés d'un interdit sacré. Peut être plein de choses : transgresser le tabou s'est s'exposer au risque ou meme à la certitude d'uen punition. 
+Ce pouvoir a été prolongé sous christianisme, sous d’autres formes, mais pas sous une forme institutionnalisée. Il y a des rois qui imposent des seigneurs laïques, etc. Ce qui va caractériser le miracle royal en France, c’est un rituel qui, quand il émerge, va faire l’objet d’une codification importante, d’un récit qui va continuer à être popularisé partout en Europe. Il est lié à un cycle de légendes destiné à illustrer la monarchie française, la dynastie des Capétiens. C’est un vrai instrument de soft power, de propagande monarchique. Il restera très partagé jusqu’au XVIIe siècle.
 
-dans la spere euripéenen on a des exeples de cette nature : Marck Bloch, d'apres lui c celel d'un petit roi du danemark, dont le roigne est heureux (bonen recolte, etc) quadn il meurt, on va diviser son corps, en 4 morceaux, et 1 morveau dans chaque province pour prolonger les heureux bienfaits de son reigne. ya rien de vriamlent formalisé. On admet que les gen squis otn en position d'autorité ont ce pouvoir. mmotnre qu'i sont elus des dieux, et tiennent deux un certain nombre de puvoir.
+La dernière fois qu’un monarque français a accompli ce rituel, c’est Charles X, en 1824, au moment de son sacre, lors de la Restauration. Il se fait couronner à Reims, et à sa sortie, il va à son tour accomplir les gestes et le rituel du miracle royal.
 
-prolongé sous crhistanisme, sosu autres forems, masi pas de forme institutioanlsite. Ya des rois qui mpose des siengeurs laiques, etc. Ce qui va caracterise rle miracle royal en france c un rituel quiq uadn il emerge va fair eobjet codiifcaito improtante, de recit qui va contirnuer a etre popularisé partout eneurope. Lié a un cycle de legende destiné à illustrer la monachir franciase, la dynastie des capétiens. C un vria instrumetn de soft power, de propagande monarchique. Elel restera tres partagée usqu'au 17e siecel. 
+La manière dont la dynastie capétienne accède au trône, succédant aux Mérovingiens et aux Carolingiens : cette dynastie en place a la légitimité du temps pour elle. C’est-à-dire qu’elle est établie depuis plusieurs centaines d’années, elle apparaît comme quelque chose de confirmé, attesté par la tradition.
 
-denriere fois que un monarque francais c charles X en 1824, au mometn de osn sacre, au mometn de la restauration. Il se fait couronner à Reims, à sa sorie il va a son tour accomplir de sgestes et rituel du miracle royal. 
+Dans un contexte où l’on prête aussi au personnage une dimension magique, cela fait qu’on ne les remplace pas comme ça. Ils ont quelque chose qui les légitime. Il y a une espèce de puissance magique qu’on leur reconnaît, dont ils sont essentiellement les porteurs.
 
+Les Mérovingiens, on les traitait de rois fainéants, mais on les gardait au pouvoir, au moins en façade. Les déposer n’a pu aboutir que parce que les Carolingiens avaient le soutien ferme et continu de l’Église catholique.
 
+Ce sont les maires du palais qui deviennent les autorités effectives. C’est au terme d’une manœuvre politique et religieuse compliquée que Hugues Capet, fondateur de la dynastie capétienne, accède au trône. C’est au terme d’une assemblée qui a réuni les grands du royaume : seigneurs laïques, évêques et abbés, que Hugues Capet est désigné. Il y a eu un principe électif. Les seigneurs laïques et ecclésiastiques souhaitaient que ce principe d’élection soit conservé.
 
-manier edont dynasti ecapetienne accede au throne, succede aux merovingiens et aux carolingiens. la dynastie en place a la légitmité du temps pour elle. Càd elle est établie depuis pliusieurs centaines d'années, apaprait comme qq chose de onfirmé, attesté par la traidition. `
+Le principe électif est celui qui sera pratiqué dans le Saint-Empire romain germanique en ce qui concerne les empereurs. Ce n’est donc pas un principe inconnu dans le monde féodal. Il ne fonctionne pas sur la base de ce qu’on connaît aujourd’hui : seuls les grands peuvent participer à l’élection, et on a tendance à désigner le successeur de l’empereur/roi au sein de la même famille, car encore une fois, l’idée du principe héréditaire n’est pas complètement écartée.
 
-dans un contexte où on prêtre aussi au personnage une dimension magique fait qu'on les rempalce pas comme ça. Ils ont aq chose qui les legitime. Y'a uen espece de puissance magiquqe qu'on els reconnati dont ls sont essentiellement prteru. 
+Dans le cas des Capétiens, Hugues Capet va associer dès qu’il le peut son fils à l’exercice du pouvoir royal, pour en faire un successeur naturel.
 
-les mérovingiens on les traita de rois fainéants, mais on les gardait on peut en facade. Les deposer a pu aboutir parce que carolongiens vait souitent ferme et continu de eglise catholique. 
+Robert le Capétien est célébré comme Robert le Pieux. Il protège les Églises, bon chrétien, etc. C’est sous le couvert de sa piété qu’on voit apparaître dans les documents les premiers récits de miracle royal. Les chroniqueurs de l’époque disent que Robert touche des malades, c’est-à-dire qu’il appose ses mains sur les malades et accomplit des guérisons miraculeuses.
 
-ce sotn les maires du palais qui deviennt els autorités effectivent, c au terme de manoeuvre politque et religieuse complqiuée que huges capet, fondateur ed a deysnatie capétienne, accède au trhone. C au terme d'une asemblée qui a reuni les grands du royauem : seigneurs laiques, eveques et abbés, qeu hugues capet est désigné. y'a eu un principe leectif. les siengeurs laiques et cclesiasituqes souhaieteirnt que ce principe d'election soit conservé. 
+Robert touche à peu près tous les malades, et très rapidement sa réputation se répand dans son royaume. Assez rapidement, le miracle va se spécialiser : Robert va bientôt plus particulièrement s’intéresser à une maladie, qui est la maladie des écrouelles, ou scrofule tuberculeuse. Maladie souvent liée à l’hygiène, se traduisant par des plaies au visage ou sur le corps, qui peuvent défigurer.
 
-le principe electif est celui qui sera pratiqué dans saint empire romain germanqieu en ece qui concenre les empereurs. C donc pas un principe inconnu dans le monde féodal. Fonctionne pas us rla base de ce qu'on connait ajd. seuls sles grands peuvent aprticuper à election, et on a tendance à designer successeur de emperer/roi aus ein de la meme famille, car ecore uenf ois idée que principe jheredicaite on ecarte pas compelmetn.
+Mais cette maladie est susceptible de rémission spontanée, ce qui peut aider la guérison. Le miracle peut ainsi fonctionner, la maladie se guérit d’elle-même, et on l’imputera au miracle. Cette maladie, à la suite de Robert le Pieux, les rois prétendront la guérir.
 
-dans le cas des capetiens, hugues capet va associer des qu'ille peut son fils à l'exercice de pouvoir royale, pour en faire un successuer naturel.
+La réaction de l’Église n’est pas très favorable : elle n’apprécie pas qu’un laïc puisse accomplir quelque chose qui est à la frontière, qui relève plutôt de l’exercice de la magie. Elle a plutôt tendance à s’y opposer, mais va finalement essayer de christianiser le miracle royal, et va contribuer à en formaliser l’exercice.
 
-robert le capetien est celebré come robert le pieux. protege les eglises, bon chretien etc. C sous le couvert de sa piété qu'onv oit apapraitre dans les documents le spremeirs recits de micracle royal. chroniqeus de l'époque que robert touche des malade, càd il appose maoisn sur malade et accompli guerisons miracuseules. 
+Très vite, les rois de France ne pourront accomplir de miracle qu’après avoir été sacrés rois de France à la cathédrale de Reims.
 
-robert touche à peu pres tous les malades, et tres rapiement sa repititaon se repend sans son royauem. assez rapidmene,le miracle va se specialiser ,robert va bientot plsuq e d'interesser à uen maladie, qui est la maladie des ecrouelles, ou scrofule tuberculeux.  maladie souvnet liée à hygiene, se traduit par des plaies au bisage ou sur le corps., qui peut defigurer. 
+Ensuite, ce miracle, ils vont encore plus le mettre sous le signe de Dieu, car la formule du miracle qui va être adoptée (pas en vigueur tout de suite) est : « Je te touche, Dieu te guérit », idée que le roi est agent d’un pouvoir qui n’est pas le sien, mais celui de Dieu qui agit à travers lui.
 
-mais maladie est suscepible de remission spontannée, peutaider la guerison. Miracle peut fonctionner, la maladie se guerie d'elle meme, on l'imputera au miracle. cette maladie à la suite de robert le pieu prétendront guerrir. 
+L’intérêt, c’est que le roi se retrouve dans la même situation que le prêtre quand il délivre un sacrement de l’Église : il est un canal dont se sert Dieu.
 
-réaction deéglsie apprécie pas qu'un laique puisse accomplir qq chose qui est à la forntiere, qui releve plutot de exercice de la magie. elle a plutot tendance à s'y opposer, mais va finaemetn essayer de cristianniser le mirale royal, va contribuer à en formaliser l'exercice.
+Il y a une christianisation formelle du miracle. Quand le miracle commence à entrer dans les usages, il devient un extraordinaire instrument de popularité des rois francs, puis des rois de France.
 
-tres vite les rois de france ne pourront accomplri de mirace qu'apres avoiré té sacré roi de france à cahtedrale de reims.
+Les autres traces laïques européennes vont revendiquer l’accomplissement du miracle royal (roi de Castille, d’Angleterre, empereur romain germanique). La dynastie anglo-normande des Plantagenêts, famille qui va se retrouver roi d’Angleterre, seule rivale de la maison capétienne avec les empereurs romains germaniques.
 
-ensuite, ce miracle ils vont encpre plus lemettre osu sle isgne de dieu, car la formeuld u miracle qui va être adopté, pas en vigueur tout de usite, c "je te touche, dieu de guéris", idée que le roi agent d'un pouvori qui n'est pas le sien mais cleui de dieu qui agit à travers lui.
+Les Plantagenêts revendiquent à leur tour le miracle royal, ils l’accomplissent sur leur propre terre d’Angleterre, en tant qu’ils sont souverains sur leur territoire d’Angleterre, jusqu’au déclenchement de la guerre de Cent Ans.
 
+Au moment de la guerre de Cent Ans, les rois anglais revendiquent la couronne de France ; à ce titre, ils considèrent qu’ils sont aussi légitimes et habilités à accomplir le miracle royal sur la terre de France.
 
-interet : le roi se retrouve dans meme sitauton que le pretre quadn ik delivre uns acrement de l'église, il est un canal odnt se sert dieu.
+Le miracle royal ne peut pas être détaché d’un certain nombre de rituels, et de tout un ensemble de légendes qui composent un cycle légendaire autour de la maison des Capétiens. Parmi les éléments de cette légende, le fait qu’il y a le miracle de la sainte ampoule. C’est l’ampoule où est versée l’huile (appelée le chrême), qui servait au sacre du roi. Le jour où Clovis a été à la fois baptisé et sacré roi des Francs par l’évêque de Reims, la foule était tellement dense, c’est une colombe qui aurait transporté miraculeusement l’ampoule pour que l’évêque puisse accomplir le rite. La colombe est aussi le symbole du Saint-Esprit.
 
-y'a une crhsiatinsaiton foremlel edu miracle. quadn miracle commence à entrer dans les usage,s il deivent un extraoridanrie instrumetn de populariré des rois francs, puis des rois de france. 
+Cela a surtout justifié la revendication des évêques de Reims à être seuls habilités à pouvoir sacrer les rois des Francs. Le sacre des rois n’aura lieu qu’à Reims.
 
-les autres traces laiques européennes vnt revendiquer accomplissment du miracle royal (roi de castille, angleterre, empereur romain germanique). dynasite anglo-normande des plantagenets, famile qui va se retrouer roi d'angleterre, seule rivale de la maison capétienne avec le smeperurs romaisn germaniqeus.
+Il y a aussi la légende que la sainte ampoule ne se vidait jamais. Ou qu’elle se remplissait spontanément à chaque sacre. Tous ces épisodes attestent du caractère spécial de la famille des Capétiens et qu’ils sont des élus de Dieu.
 
-les plantagenets revendiqent à leur tour miracle royale, ils l'accomplissnet sur leur terre prorpe d'angleterre, en tna tqu'ils sont souverians ur leure territoire d'anglerre, jsuqu'a u declenchemetn de a guerre de 100 ans.
+Traitement aussi particulier : il les assimile à des prêtres. Le sacre fait figure d’une ordination, et assimile le roi de France à un quasi-évêque. Le sacre revendique le fait que cela fait basculer le roi du côté d’un personnage sacré. C’était un profane, mais là, ça lui confère une aura sacrée, une forme de sainteté.
 
-au moemtn guerre 100 ans, roi anglasi revendiquetn la couronne de france, à ce titre concsidere que sont assu legiitmes et habiltiés d'acomplir le miracle royal sur la terre de france.
+Les rituels mêmes du sacre reprennent largement le concept de consécration des évêques. Le fait qu’en termes de tenue, le roi de France va être revêtu suivant le même rituel et dans le même ordre des vêtements qui caractérisent l’évêque (le pluvial, l’aube, etc.).
 
-le miracle royal on peut pas le détacher d'un ceratin nombre de rituels, et de tout un ensmelbe de legendes qui compse ncycle legnaiire autour de la maison des capétiens. parmi les elemnts de cette legente, le fait que y'a le miracle de la sainte ampoule. C l'ampoule où est versé l'huile (appelé le chrême), qi serviat au sacre du roi. Le jour où clovis a été a la fois baptisé et sacré roi des francs par l'eveque de Reims, la foule était tellement dense, c une comolbe qui aurait transporté miraculeusment ampoule pour que eveque puisse accomplir.  Comlombe aussi le symbole du saint esprit.
+Au même titre que l’évêque et le prêtre, le roi est le seul qui peut communier au pain et au vin, alors que les simples laïcs ne communient que sous la forme du pain.
 
-ça a surtout jutifié la revendicationd es eveques de reims etre suel habilitésà pouvoir sacrer ler oi des francS. le sacle des roi n'aura lieu qu'à Reims.
+Il n’est pas un évêque, aussi un roi de guerre. Il n’accomplit pas les sacrements, mais il a le privilège d’exercer un sacrement particulier, qui est celui du miracle royal.
 
-y'a aussi la légende que la siante ampoule ne se vidait jamais. Ou qu'elle se remplissait spontaneebt à chaque sacre. tus ces episodes attestent du caractere spécal de la famille des capetiens et qu'ils sont des elus de dieu. 
+Assimilation entre roi investi du pouvoir temporel et roi qui exerce un pouvoir qui a un caractère très largement sacré.
 
-traitment aussi particulier : il les assimile a des prêtress. Le sacre fait figure d'une ordination, et assimile le ori de france à un quasi evêque. Le sacr revendique le fait que ça fait basucler le roi du coté d'un eprsonnage sacré C'était un profane, mais là ca lui confere une aura sacée, une forme de sainteté.
+C’est tout un mode de légitimation de l’autorité du roi qui est à l’œuvre et va contribuer à consolider l’autorité des Capétiens, les investir d’une mission particulière. C’est ce qui va aussi justifier par la suite le fait que les femmes soient exclues de la succession royale. Ce qui les rattache aux Capétiens, c’est leur mère et pas leur père.
 
-Les rituels meme du sacre reprenent largement le concept de consecration des evques. Le fait que en terme de tenu, le roi de france va être revétusuivant le meme rituel et dans meme ordre des vetemten squi caracterisnet l'évque (le pluvial, l'aube etc).
+Exemple : canonisation de Louis IX, Saint Louis, qui contribue encore plus à renforcer le prestige de la dynastie capétienne.
 
-au eme titre que eveque et preetre, le roi est le suel qui peut communier le pain et le vin, alors que simples laiques ne communiquent que sous la forme du pain. 
+**2ème vecteur de légitimation : la redécouverte du droit romain**
 
-il n'est pas un evêque, aussi un roi de guerre. il n'acomplitpas els sacrements, mais il a le privilege d'exercer un sacrmeet particuleir qui est celui du miracle royal.
-assimilation entre roi investi pouv temporel et roi qui exerce un povuoriqui a un caractere tres largement sacré.
+C’est d’abord l’Église qui va bénéficier de la redécouverte du droit romain, et les premières grandes universités qui l’enseignent sont placées sous la tutelle de l’Église. Dans un contexte d’affrontement entre Église et pouvoir profane, les souverains profanes comprennent assez rapidement tous les risques qu’il y a à négliger ce nouveau gouvernement des hommes. Eux aussi vont s’attacher à former des jurisconsultes qui seront à leur service et qui leur permettront de mobiliser les concepts du droit pour défendre leurs prétentions et assurer leur autonomie.
 
+La situation en Europe s’y prête : fin des invasions, pouvoirs politiques qui commencent à se stabiliser. La monnaie se fait aussi plus abondante.
 
-c tout un mode de legitmiationd e autorité du roi quie st à 'loevure et v acontriuber à consolider l'autorité des capétiens, les invesit rdu'ne msision particlier. C ce qui va aussi justifier par la suite le fait que femme sosient exclus de la succesison royale. ce qui les rattache aux capetiens c leur mere et pas leur mere.
+Le phénomène curial, c’est-à-dire l’apparition de cours, est lié à cette monétarisation possible des services rendus aux seigneurs. La cour renvoie à l’édifice seigneurial, à la domesticité du prince ; on les désignerait maintenant comme des fonctionnaires. Ces deux dimensions sont largement confondues jusqu’au XVe et XVIe siècle.
 
-ex canonisaiton louis 9, saint louis, qui contribue encor eplus à renforcer le prestige de la dynastie capétienne.
+Ce qui contribue aussi à la montée en puissance des maisons princières, c’est que la pyramide féodale commence à se stabiliser. De grandes maisons commencent à émerger, se structurer, à imposer, s’il le faut, une discipline beaucoup plus continue que ce n’était le cas au siècle précédent (ex. maison d’Aquitaine, comté d’Anjou, duché de Bretagne, etc.)
 
-### 2eme vecteur de legimitaiton :  La redecouverte du droit romain 
+Pour tous ces gens, le droit romain va être un formidable instrument pour revendiquer l’autonomie, mieux contrôler leur territoire, et affirmer un principe nouveau de gouvernement fondé sur l’exercice de la souveraineté.
 
-c d'abord l'église qu iva benefiicer de la redecouverte du droti romain, et les premeires ganes universités qui l'ensiegnent sont placés sous la tutele de l'église. dnas onctexte affrontemetn eglise t ouvoir profane, les souvenrais profanes comprenent asssez rapidemetnn tout les riques que y'a a neglicer ce nouv gouv des hommes. Euxaussi vont sattacher à former des juris consuls qui seront à leru service et qui leur permettront de mobiliser les concepts deu droit pour defendre lerupretention et assurer leur autonomie.
+Ce qu’ils vont trouver dans le droit romain, c’est une conception ministérielle de l’exercice du pouvoir. Cela va contribuer à définir le pouvoir comme l’exercice d’un office. Ça fait des agents du pouvoir non plus les propriétaires, qui l’exerceraient à titre privé, mais des agents qui sont des administrateurs en charge d’accomplir un office.
 
-la situtiaon en eurpe s'y pretre :fin des invasions, pouv polituqes qui scommentcent à se tabiliser. La monnaie se fait aussi plus abondantes. 
+Cela fait que le pouvoir devient indisponible, échappe à la logique de division, de répartition qui était le propre du pouvoir féodal, exercé à titre privé.
 
-le phenomene curiale, càd apparition de cour, est lié a cette moneratiosion psosible des services rendus au seigneurs. La cour renvoei à eddificie seigneurael, à la domesticité du prince; on les deisgnerai mtn comme des focntionnaires. Ces 2 dimensiosn sotn largment confonudes jusqu'au 15e et 16e siecle.
+Les gouvernements vont instrumentaliser le droit romain.
 
-ce qui contribue aussi montée amsion princiepes c que la pyramide feodale commence à se stabiliser. Grandes masiosn commencentà emerger, se strucuter, impose s'il le faut une discipline bcp plus continue   que ce n'était le cas aus iecle precedent. (ex masiona cquitainne, ocnte ajou, duc de bretagne, etc.)
+L’Église détient les deux glaives : temporel et spirituel.
 
-pour tous ces gens, le droit romain va être un informidalb einsturmetn pour revendiquer autonomie. meiux controler leur territoir,e t afirmer un principe nouveau de gouvenremtn fondé sur l'exercice de l aouveraineté. 
+Concernant les gouvernements princiers, ils ont produit d’eux une image de miraculeux. Avec l’accomplissement du miracle royal, quelque chose qui toucherait à la magie, dont ils font un miracle, c’est-à-dire qu’ils l’inscrivent dans l’Église. Ce sont des rois chrétiens, mais cela permet de s’assimiler à une forme de quasi-prêtrise.
 
-ce quils vont toruver dans le droit romain cune conception ministerielle de l'exercice du povor. Ca va contribuer à définir le pouvoir comme l'exercice d'un ffciel. ça fait des agens du povuori non plus les propréitaires, qui l'exerceairnet à titre privé, masi des agents qui sont des adminsitrateurs en chage d'accomplir un office. 
+Le miracle royal va apparaître progressivement comme un huitième sacrement, et qui n’est plus aux mains de l’Église et de ses agents (pape, évêque et prêtres) mais aux mains du roi.
 
-ca fait que le pouvoir deivent indisponible, echappe à la loiguqe de diviison, repartiiton qui était le propre du pouoir féodal, exercé à titre privé.
+Une autre voie qui va être explorée, c’est une voie a priori plus classique, celle de la réappropriation du droit romain à la façon de l’Église, mais au service d’une consolidation de l’autorité temporelle.
 
-les gouv ovnt instrumentaliser le dorit romain .
+De nombreux témoignages, à partir du XIIe siècle, observent que les cours royales s’attachent de plus en plus des hommes qui sont formés au droit romain et qui vont travailler à mettre ces concepts au service d’une revendication de souveraineté.
 
-Eglise detient les2 GLAIVES temprel et spiritiel
+Une de ces entreprises les plus significatives, spectaculaire, c’est celle que va poursuivre l’empereur Frédéric II Staufen dans le royaume de Sicile. C’est le petit-fils de Frédéric Ier Barberousse, empereur romain germanique.
 
-concernant gouv princiers, ils ont proudit f'uex une image de miuraculeux. AVec acocmplissmetn du miracle roal, qq chose qui toucehrai à la magie, dont l font un mioracle cad qu'isl l'isnrivent dans l'église. Ca reste des rois chretiens,masi qui permet de s'assimiler à une forme de quasi prêtrise. 
+Mais à la différence de son grand-père, il est héritier à titre personnel du royaume de Sicile. Comme empereur, il aura toujours à composer avec les puissances des maisons princières d’Allemagne et avec les cités italiennes.
 
-le miracle royal qui va apparaitre progresivmenet comme un huitieme sacrmenet, et qui n'est plus au main de l'église et de ses agens (pape evque et pretres) mais aux mains du roi. 
+L’empereur est désigné, même si le titre tend à se transmettre héréditairement, mais il faut obtenir cette confirmation des grands de l’Empire.
 
-une autre voie qui va être explorée, c uen voe a priori plus claqssqe, cellede la réappropriationdu droit romain à la façon de l'église maisau servie d'une consolidation de l'auroitté temporelle.
+Par contre, en ce qui concerne le royaume de Sicile, il a les mains libres, car ce principe est dynastique. Le royaume de Sicile correspond à l’île de Sicile actuelle et aussi à une partie du sud de l’Italie (dont la Campanie).
 
-nombreux temoignages, à partir du 12e siècles, on obsverse que les cour royales s'attachent de plus ne plus des hommes qui sont formés au droit romain et qii vont travailer à mettre ces concepts du droit romain au service d'une revendication de souveraineté.
+C’est à ce titre, en tant que roi de Sicile et sous le titre d’empereur, que Frédéric II va engager une réforme de son royaume en faisant un usage intensif des concepts du droit romain qu’il va très largement réinventer.
 
-une de ces entreprises les plus significatives, spectaculaire, c'est celle que va poursuivre l'empereur frédérique 2 Staufen dans le royaume de sicille.  C'est le petit fils de fédéric 1er barbe rousse, empereru romain germanique.
+C’est dans le cadre de son royaume qu’il va développer, avec ses jurisconsultes, une conception nouvelle et rivale de l’autorité temporelle de celle qu’avait développée l’Église catholique.
 
-mais à la difference il est heritier à titre personnel du royaume de sicille. comme empereur il aura toujours à composer avec les puissnaces maisosn princiyres d'allemagne et avec les cités italiennes.
+Il va célébrer lui aussi le droit romain, mais il va considérer que ce n’est pas le terme final de ce que le droit a pu faire.
 
-empereru est désigné meme si le titre tend à se tarsmettre herieditairemetn, mais fuat obtenir cette fconformation des grands de l'mpire.
+Le droit romain bénéficie d’un immense prestige au Moyen Âge, surtout pendant la période de sa première redécouverte.
 
-Par contre en ce qui concerne le royaume de sicile, il a les mains libre, car ce principe est dynastique. Rouayme de sicile, correspond à ile de sicile ajd et aussi àune partie du sud de l'italie (dont campagnie).
+Prestige dû en particulier au fait que le Christ est né, du point de vue catholique, dans ce droit (épisode du _conspitalis_).
 
-c'est a ce titre en tan tque roi de sicille et sous le titre d'mpereur que frédéric 2 va enager une réforme de son royaume en faisant un usage intnesif des concepts du droit romain qu'il va très largement ré inventer.
+Idée que le droit romain a été la loi de l’époque du Christ et d’une période qui est caractérisée, au sein de l’Empire, par la paix qui régnait alors dans l’ensemble de celui-ci.
 
-C'est dans le cadre de son royaume qu'ik va développer avec ses juris consultes une conception nouvelle et rivale de l'autorité temporelle de celle qu'avait dévelpppé l'église catholique.
+Il y a une sacralisation du droit romain qui tend à faire que les juristes reproduisent ses concepts, aspirent aussi à le conserver, n’envisagent pas de le dépasser.
 
-il va célébrer lui aussi le droti romain masi il va considerer que ce n'est pas le terme final de ce que le droit a pu faire. 
+L’attitude des princes temporels, et même celle de l’Église, est de se considérer comme des dépositaires et des conservateurs du droit romain.
 
-le droit romain beneficie d'in immense prestige au mlyen age, surtout epdnant la periode de sa premiere redécouverte.
+Quand ils le mettent en œuvre, c’est en tant que restaurateurs d’un ordre juridique que le temps avait effacé, mais qu’il permet aujourd’hui de redécouvrir.
 
-prestige du en particuleir au fait que le christ est né du point de vue catholique dans ce droit (episode du conspitale)
+De ce point de vue, l’attitude de Frédéric II va être de se considérer comme la _lex animata_, la loi vivante. Le droit romain est toujours objet d’étude et de révérence dans l’université de Naples, mais plus l’alpha et l’oméga du droit.
 
-idée que le droit ormain a été l'idée de l'époque du christ et d'une periode qui etst caratérisée au seind el'mepire par la paix qui reigne a l'époqeu dans l'ensemble de l'empire.
+Parce qu’ils ajoutent les lois, décrets et les ordres que rend l’empereur en tant que bouche vivante du droit.
 
-y'a une sacraloisation du droit romain qui tend à c eque les juristes reprouisent ses conceptis, asppirent aussi à le conserver, n'envisage pas de le dépasser.
+De ce point de vue, l'empereur considère que la mise en œuvre du droit, l'expression du droit, est l'équivalent temporel de l'exercice de la grâce par le prêtre dans l'ordre spirituel.
 
-attiture des principes temporels, attiotude meme de église est de se considerer comme des dépisotaires et des conservateurs du droit romain. 
+De même que, dans l'ordre spirituel, la grâce est une grâce continuée, qui se renouvelle sans cesse, dont le prêtre est le médiateur entre Dieu et les hommes, de même la loi, le droit, est une grâce vivante, continuée, dont l'empereur, le roi disciple, est le médiateur entre Dieu et les hommes en ce qui concerne l'ordre temporel.
 
-quadn il mettent en oeuvre c en tant que restaurateur d'un ordre juridique que le temps avait effacé mai squ'il permet aujoird'hi de redécouvrir.
+Si, à travers la loi de grâce, le prêtre assure le salut du pécheur dans l'ordre spirituel, la loi assure le salut des hommes dans l'ordre temporel.
 
-de ce point de vue altitude de frédéric 2 va se consderer comme loi vivante,  (lex animata). Le dori toemain est tjrs objet d'étude et de révérence dans unviersé de naples, mais lus l'alpha et omega du droit.
+Le droit n'est pas seulement un outil de discipline sociale comme affirmé dans l'augustinisme, il devient un instrument de salut, qui équivaut au salut accordé par la grâce.
 
-parce que ils rajouitent les lois, decrets et les ordres que rend empereur en tant que bouche vivante du droit.
+Le droit devient un sacrement. Et l'empereur se définit désormais comme chef de l'Église impériale, qui se définit comme l'accomplissement d’un sacrement particulier : le sacrement de justice.
 
-de ce point de vue, l'empereur considere que la mise en peuvre du droit, l'expresson du droit est l'équivalent temporel de l'exericce de la grace par le pretre dans l'ordre spirituel.
+Cela s'accompagne d'une remise en cause de toute une partie du discours de l'Église, et de toute une partie de ce qui fondait la doctrine augustinienne.
 
-de meme que dans ordre spirituel la grace est une grace continuée, qui se renouvelel sans cesse, dont le pretre est médiateur en tre dieu et les hommes, de meme la loi, le droi test une grace vivante, continuée, dont l'empereur le roi disciile est le médiateur entre dieu et les hommes en ce qui cocnerne l'ordre temporel.
+La réflexion de saint Augustin distingue entre temporel et spirituel, mais cette distinction se redouble de la distinction entre la chair et l'âme.
 
-si à travers la loi de grâce, le prêtre assure le salut du pecheru dans ordre spirituel, la loi aussre le salut des homems dans ordr etemporel.
+Cela commande un partage entre deux fonctions : l'Église s'occupe de l'âme et de son salut, les autorités temporelles (roi, empereur, seigneur féodal quelconque) s’occupent de discipliner les corps, de domestiquer, de refréner l'empire des désirs.
 
-droit pas seulement un outl de discipline social comme affiirmé dans augustinisme, il deiven tun instrumetn de saliut, qui equivaut au salut accordé par la grace. 
+C'est une tâche qui se définit de manière très négative. Le pouvoir temporel n’a rien à voir directement avec le salut, c’est juste un instrument de discipline. Pour ce qui est du salut, cela relève exclusivement de l'Église.
 
-le droit devient un sacrement. et l'empereru se déifnit désormasi comme chef de l'église impériale, qui se déifnit comm el'accomplissmetn d'un sacremetn particulier, qui est le sacrement de justice; 
+Dans le cadre de la monarchie sicilienne, on va établir un tout autre partage. Bascule capitale, car fondatrice de l’État moderne.
 
-ça s'accompagne d'une remise en cause de toute une partie du discours de l'église, et otueu ne partie de ce qui fondait l aodctrine augistinienne.
+Du point de vue de Frédéric II et de ses jurisconsultes, le partage se fait au sein même de l'âme. L'une ne peut exclure l'autre.
 
-la reflexiond e saint gaugsitnd distingue entre temporel et spirituel, masi cette distinciton se redoubled e la ditinciton entre la cjhair et l'ame. 
+Première voie, clairement identifiée par l'Église : celle qui s'exerce par la voie de la grâce. Elle est à la discrétion de Dieu, l'Église en est l'instrument, et elle opère par le miracle (miracle des sacrements, de la résurrection du Christ). C’est le domaine du miracle, c’est-à-dire le domaine de l’irrationnel, qui suppose la foi.
 
-ca commande un partage entre 2 fonctions : eglise s'occupe de l'ame et de son slaut, les auroités tempreols(roi emprerier seigenri feodal quelconque) s'occupe de sicipliner les corps, domestriquer, refreiner l'empire des désirs.
+Et cela suppose, avant la foi, la révélation. On ne peut connaître les intentions de Dieu qu’à travers la révélation qui en a été faite par ses prophètes et par le Christ lui-même.
 
-c unet ache qui se déifnti de maniere tres negative. le pouvoir temporeln'a iren a voir direcmteet avec le salut,c. juste uhn intrusment de dsicipline. pour ce uqi est du salut c sous alc odnuite exclusive de l'eglise.
+Mais aussi, cette partie de l’âme qui n’est pas gouvernée par la voie de la grâce, mais par la voie de la raison : la redécouverte d’Aristote joue un rôle fondamental dans la philosophie du Moyen Âge. Idée que la nature peut faire objet d'une investigation par l'esprit, et que, par cette investigation, on peut mettre en œuvre les lois qui ordonnent la nature, qui seraient l'expression du dessein divin. C’est cette observation de la nature qui vaut aussi pour l'homme en tant que nature humaine, et qui peut déterminer un ordre juste, y compris chez les païens.
 
-dans le cadre de la monarhie siciloenne on vaz etablir un totu autre partage. Bascule capitale car fondatrice de l'état mdoerne.
+Les païens ont pu vivre selon la justice, même s’ils étaient tenus éloignés de la loi de grâce qu’ils ne connaissaient pas.
 
-du point de uv ede frédérique 2 et de ses juris consults, le paratege se fait au sein meme de l'ame. l'une ne peut exclure l'autre.
+Celui qui est appelé à connaître cette loi de nature et à la mettre en œuvre, c’est l'autorité temporelle. Il lui revient de commander cette partie de l’âme accessible à la raison, et donc de gouverner selon la raison et non plus selon la voie du miracle.
 
-premiere voie, clairement identifiée par eglise, celle qui s'exerce par la voie d ela grace. elle est à la discretion de dieu, eglise ne est l'instrument, et elel opere par le miracle. (miracle des sacremnts, de la resurection du christ).  C le domaien du miracle, cad que c le domaien de l'irationel, ça suppose la foie.
+Cela a des implications majeures : on distingue ce qui relève de l’État en tant que compétence propre, irréductible à toute révélation. Cet État est entièrement investi de l’esprit de Dieu en tant qu’il procède de la nature elle-même.
 
-et ça suppose avant la foie la révélation. On ne peut connaitre les intentions de diue à travers la révélationq ui en a été fait par ses prophètes et par le crhist lui meme.
+Chez les jurisconsultes de Frédéric II, l’idée est que l’État n’est pas le prix d’une punition. Il est l’expression d’une nécessité rationnellement établie : que les hommes, pécheurs, s’ils étaient livrés à eux-mêmes, s’entre-déchireraient. L’univers serait privé de sa raison, parce que l’univers a été créé autour de l’homme et pour sa loi. Priver l’univers de l’existence de celui qui est l’image de Dieu, c’est le priver de toute raison.
 
-mais aussi cette partie de l'a^ge qui est pas gouvenreée par la voie de grace mais par la voie de raison : la redecouverte d'aristote joeu un role fondamental dans phisophieud moyen age. idée que la nature petu faire objet d'une investigaiton par l'esprit, et que par cette investigation on peut mettre en oeuvre le sllis qui ordonnent lanautre, qui serait l'expression du dessein divin. C'était cette objservation de la nature qui vaut aussi pour l'homme en tant que nautre humaine, et qui peut déterminer un ordre juste y compris chez les paiens.
+L’État est là pour l’entretenir dans sa gloire potentielle en tant qu’expression de la voie de nature elle-même.
 
-les paiens ont pu vivre selon la justice memesi ils étaiten tenus eloignés de la li de grace qu'il sne connaissaient pas. 
+Prétention de définir l’Empire et le royaume de Sicile comme Église impériale, c’est-à-dire investie de l’esprit de Dieu.
 
-celui qu uiest appeléà connaitre cette loi de nature et à la mettre en oeuvre c autoritré temporele. Il lui revient de commander cette partie de l'ame accessible à la raison.  et donc gouverner selon la raison et non plus selon la voie de miracle. 
+La justice dans le royaume de Sicile devra procéder rationnellement. Désormais, dans le royaume de Sicile, c’est le premier État européen qui ait interdit le recours aux ordalies comme moyen de preuve, parce que moyen irrationnel, qui porte atteinte au partage entre raison et miracle.
 
-ça a des implicaitons majeure : on distingue ce qui releve de l'état en tant que competence propre, irréducilt à totue révélation, il est cet état enteirement ivnestis de l'esprit de deieu en tant qu'il procede de la nature elle meme.
+Le miracle est l’œuvre de Dieu, pleinement libre.
 
-chez jursi consultes de frederique 2 idée que état pas le prix d'une puniton. Ol est expression du'ne necessité ratironenlemetn établie, qie les hommes pecheurs s'ils étaient lbirés à eux même s'entre déchireraient entre eux. l'univers serait privée de sa raison parce que univers a été crée autour d el'ohmme et pour  sa loi. Priver l'univers de l'existence de lui qui est l'image de dieu c'est le priver de toute raison.
+De la même façon, c’est au sein du royaume de Sicile que sera promue pour la première fois, par un souverain temporel, la procédure inquisitoire.
 
-l'état est là pour l'netretenir dans la gliire potentielel en tant qu'expresson de la voie d enature elle meme.
+L’Inquisition a été établie pour la première fois avec les procédures inquisitoires par le pape Innocent III pour combattre l’hérésie cathare. Le catharisme est un mouvement de type dualiste, qui oppose un principe mauvais et un principe bon.
 
-prétetntion de définir l'empire et le royaume de sicile comme eglise impoeriale, cd investi de esprit de dieu. 
+Frédéric II, en tant que souverain temporel, est le premier à adopter la procédure inquisitoire. Cela permet à l'autorité judiciaire, à l'État, d'intervenir en dehors de toute plainte, et d'agir même à l’encontre de la volonté des victimes.
 
-la justice dans le royaume de sicile devra proceder rationellement. désomrais dans le ryaume de sicile, c le prmeier etat euripéen qui ait interdit le recours aux hordalies comme moyebn de preuve, parce que moye irationel, qui porte atteinte au aprtage entre raisn et miracle. 
+Une idée apparaît : celle d’un ordre public supérieur dont la promotion et la défense l’emportent sur les privilèges privés. De la même façon, en ce qui concerne l’application de la question, c’est-à-dire de la torture, elle devra suivre une procédure définie par un certain nombre de lois.
 
-le mirace est l'ouevre de dieu pleinemetn libre.
+Cette entreprise reste marquée par une forte dimension religieuse.
 
-de la meme façon, c'est au sein du royame de sicile que sera promu pour la premiere fois par un souverain temorel la prodécudre inquisitoire.
+De cette démarche résulte aussi l’émergence d’un certain nombre de pratiques qui tendent à reconfigurer le rapport entre cette Église impériale et l’Église en tant qu’agent d’une loi de la grâce. Les contours de l’un n’ont plus besoin de correspondre aux contours de l’autre.
 
-inquisiton a été établei pour la premiere fois avec les procédures inquisitoirespar le pape Innocent 3 pour combattre l'héérsie cathare. cathare c un moment de type dualiste qui oopose un principe mauvais et un principe bon.
+La Sicile a été conquise auparavant par les Normands, eux-mêmes successeurs des Arabes, des Grecs, etc.
 
-ferederic 2 en tant que souverain temoroel est premeir a l'adopter, ça pemret a autorité juiciar,e a état d'intervenir en dehors de totue plainte, et d'agir meme a encontre de al volonté des victimes.
+En ce qui concerne le monothéisme, il y a une tolérance à l’égard des monothéistes. Les trois religions sont protégées par l’empire. Attention, ce n’est pas la liberté religieuse : l’idée n’est pas que chacun puisse choisir librement son culte. On ne peut pas passer d’un culte à un autre, ni être athée.
 
-idée qui appparait d'unordre pbulci supeiruer dont la promitione t la défense emporte les privileges privés. de la meme façon, en ce qui concerne applicaitond ela queston, càd de la torture, elle devra suivre uen procedure défini par un certain nombr ede lois. 
+Cette loi de nature est la même pour tous les hommes.
 
-cette entreprise reste marquée par une forte dimension religieuse. 
+Il y a la célébration de l’anniversaire de l’empereur, qui est promu comme fête nationale. L’empereur lui-même ou ses agents donnent un banquet ouvert à l’ensemble des sujets, quelle que soit leur religion, pour qu’ils partagent la commensalité (prise d’un repas en commun). On a donc des communautés capables de se réunir et de partager un repas commun.
 
-de cette démarche résulte ausis emergenced 'un certain nombre de pratique qui tendent à reconfigurer le rapport entre cette glise imperiale et l'église en tant qu'agent d'une loi de la grace.
+Il n’y a plus de parfaite concordance entre ce qui serait le temporel et le spirituel. C’est une première brèche qui s’opère entre le religieux et le politique, et qui est la conséquence d’une redéfinition complète du rôle respectif de l’Église et de l’État.
 
-les contours de l'un n'ont plus beosin de correspondre aux contours de l'autre.
+Non plus selon la chair et l’âme, mais selon la raison et la révélation.
 
-sicile a été conquise par les normands, aupravant. onqeurent arabes, grecs, etc.
+Quelque chose qui sacralise l’État, et qui va avoir pour conséquence d’entraîner une redéfinition. Ça va être une source d’inspiration essentielle pour la suite.
 
-en ce qui concerne les mono theistme, c une tolerance a l'égard des monotheistes ces 3 religeiosn sotn proeges par empire.
+Ça va entraîner aussi une redéfinition en profondeur du rôle d’autorité et de la manière dont elle est conçue.
 
-attetnion c pas la liberté religieuse, idée que chacun est rattachée à un culte. On peut pas passer du'n culte à un autre, ni d'etre athée.
+Ça va se jouer en particulier autour de la définition, ou redéfinition, de la fonction royale.
 
-cette loi de nature est la mee pour tous les hommes, 
+Les rois capétiens vont s’attacher, avec l’aide de jurisconsultes, à consolider leur emprise sur l’État, mais aussi à renforcer leur revendication d’une autorité universelle sur leurs territoires contre les prétentions à l’autonomie des seigneurs féodaux.
 
-y'a la celevration de anniversaire de empereiruq uie st rpomis comme fete national. Empereur lui meme ou ses agents do nnent un bnauqet oueert à ensemble des suejts quelqeu soit leur religion pou ruqi'ls partagent la commenslité (prise d'un repas en commun)
+Le roi, encore au XIIe siècle, est plus un suzerain qu’un souverain. Deux modalités complètement différentes d’exercice du pouvoir politique.
 
-on a des communautés qui sotn capables de se réunir et de partager un repas commun.
+Définir l’État comme Église de justice contribue déjà à définir l’État comme un État souverain, car cela impose l’idée qu’il exerce le monopole de la justice, que les agents ne rendent pas en leur nom mais en tant que ministres de l’empereur.
 
-plus de parfaite concordance en ce qui serait le temproel et spirtuel. C une premier breche qui s'opere entre le religieu et le politique, et qui est la consequcne d'une redéfinition complete du role respectif de l'église et de l'état. 
+Déjà une première idée de souveraineté : la justice devient un monopole que les seigneurs territoriaux ne peuvent plus administrer comme ils veulent.
 
-Non plus selon al chair et l'mamais selon la raison et la révélation. 
+On n’en est pas encore là, mais cela commence à partir de 1213 (Bouvines), victoire militaire remportée par Philippe de Capet contre une coalition de l’empire germanique et Jean sans Terre, qui défend ses conceptions sur l’Aquitaine.
 
-quelque chose qui sacralise l'état, et va voir pour consequcend d'entrainer une redéfinition. Ca va etre uen soruce d'inspiraiton essentielel pr la suite.
+La victoire aura des conséquences politiques importantes.
 
-ca va entrainer aussi une redefintion en profondeur du role d eautoirté et  dont la maniere elle est concue. 
+Philippe Auguste donne la bataille en tant que roi de France et défenseur de la patrie. Intéressant, car c’est la première fois que la notion de patrie apparaît sous la plume des auteurs officiels. Des gens du tiers état participent aussi à la bataille.
 
-ça va se joeur en particulie rautour de la définition, ou redéfintionde la fonction royale.
+Le roi est soutenu dans cette bataille par l’Église de France et par le pape. L’Église catholique sera toujours un soutien important pour les entreprises des Capétiens, apportant financement et légitimité. Le roi bénit ses soldats avant de monter à la bataille.
 
-les rois capétiens vont s'attacher avecl'aide de juris consultes à consolider leur emprise sur l'état mais aussi à consolider leur revendication d'une autoirté universelle sur leur terirotires contre les prétentiosn à l'autonomie des seigneurs féodaux.
+Le roi a reçu l’onction de Dieu, guéri des écrouelles, porteur d’une sacralité particulière.
 
-le roi enecore au 12e siecle est plus un suzerain qu'il n'est un souverian. 2 modaltiés compeltemtn différentes d'eerice du pouvori politque.
+On va observer une propagande et une mise en image (avec les moyens de l’époque), et en particulier les auteurs, à travers des procédés littéraires, s’attachent à célébrer l’union de toute la nation autour de son roi, et l’amour réciproque que se portent la nation, les sujets du roi, et le roi lui-même.
 
-définir état comme eglise de justice contribue déà a définir etat comme un etat souverain, car impoe idée qu'il exerce le monopole de l ajustice, qui ne le rendent pas en leur nom masi en tant que mnistre de empereur. 
+On célèbre l’unanimité, l’union de la patrie, toute différence effacée.
 
-déjà premier eidée de souverainteté : devenu un monopole que seigneru territoiraux peuvent pas adminsitrer comme ils veuletn. 
+C’est après la bataille de Bouvines que le roi cesse d’être désigné comme roi des Francs pour devenir roi de France.
 
-on en est pas la encore mais vont cmmencer a partir de 1213 (Bouvines) victoire miliate remportée par philippe de capet contre une coalition de empire germanique, et jean sans terre qui defend se socnceptiosn d'aquitaine. 
+Ce sont deux manières de concevoir l’exercice de l’autorité. Le roi des Francs renvoie à une autorité d’un lien personnel entre le roi et ses sujets.
 
-victoire aura des csq poliqtues importantes.
+Dans le cas du roi de France, c’est une souveraineté d’ordre territorial. Le roi gouverne un territoire et les populations qui l’occupent. L’autorité s’exerce directement sur chacun. Prétention d’exercer sur chacun, d’où, dans la suite de la bataille de Bouvines, les premières grandes réformes de la justice royale, que va incarner Louis IX pour consolider une justice royale indépendante.
 
-philippe augstune donne la batailleen tant que roi de france et défenseur de la patrie. Interessant car premier fosi que la notion de parite apparait sous al plume des auteurs offiicesl. gens du tiers état qui participent aussi a la bataille. 
+Une délimitation précise d’un territoire sous souveraineté distincte commence à s’affirmer.
 
-le roi est soutenu dans cette bataile par eglise de france et par le pape. eglise cahtolique sera tjrs un soutien important pour entreprises des capétiens, qui aprotera financemnet et legiitmité. Ler oi béni ses soldats avant de monter à la bataille. 
+C’est à cette période que va commencer à se distinguer un territoire national, placé sous un même régime de souveraineté.
 
-le roi a recu onction de dieu, géruie des éprouielles, portant d'une sacralité particuliere.
+Ce seront donc des guerres à visée principalement territoriale. C’était déjà le cas sous la féodalité, mais souvent dans un contexte de mariage, d’union, etc.
 
-on va observer une propagane et mis ene image (avec moyens de epoque) et en parituclier les auteurs a travers de sprocédés literraires s'attachentà délebrer l'union de toute la nation autour de son roi. Et e l'amour réciprique que se porte la nation, les ujes du roi e tel roi lui meme. 
+Aujourd’hui, l’argument territorial est plus mis en avant.
 
+Ce monarque qui exerce la souveraineté territoriale l’exerce en tant que roi de guerre, désormais avec la puissance de requérir tous les seigneurs du royaume à son service, sans qu’ils puissent refuser. Loyauté au souverain remportée.
 
-on celebre l'unanismile, union de la patrie, toute différence effacée.
+Vis-à-vis des seigneurs féodaux qui gardaient toute leur autonomie, ce n’est désormais plus possible sur le plan des principes. Il y aura encore des maisons qui feront de la résistance. Mais à partir du XIIIe siècle, le service du roi s’impose comme une obligation, qui ne peut faire l’objet d’aucune contestation.
 
-c aprs la bateillede bouvine que roi cesse d'etre déigne commer oi des francsmias comme roi de france.
+Dans le cas du royaume de France, la trajectoire va jusqu’au petit-fils de Philippe IV le Bel, puisque la succession des Capétiens se fait de manière continue, sans aucune interruption.
 
+Après, il y a une coupure. Les petits-enfants de Philippe IV le Bel meurent sans descendance directe. Jusqu’à cette période, on ne s’était jamais préoccupé d’organiser la succession royale en France. On ne s’était jamais soucié de donner de justification autre que la tradition.
 
-c 2 maniere de concevoir exercice de l'autorité. Roi des francs renvoie  aautorité du'n eliaison epsonnele entre le roi et ses sujets. 
+Sur le plan des mentalités : l’idée que le roi est aussi un quasi-prêtre, et donc que ça ne peut être qu’un mâle. Les femmes ne sont pas ordonnées prêtres, et ne peuvent pas assumer une fonction quasi sacrale. Alors qu’en Angleterre, on admettra la succession par les femmes.
 
-das le cas du roi de france, c une souverainté d'ordre territoaiel, le roi gouvenre un territoir eet les ppulation squi l'occupent. L'autorité s'exercice directmeent sur chacun; Prétention d'exercer sur chacun, d'ou dans la suite d ela bataille de bouvine, les premires grandes réformes de la justice royale, que incarnera louis 9 de consolider une ustice royale independante. 
+Il y a plusieurs prétendants qui se présentent : un descendant plus direct, mais dont la revendication est écartée au profit d’un descendant plus éloigné, un Valois, mais descendant par ligne mâle.
 
-délimitéation préise du'n territoire osus souveraineté distincte commence à s'affirmer.
+Puis la guerre de Cent Ans, etc.
 
-c a cette période que va commencer à ce disitnguer un territoire national. Placé sous le meme régime de souveraineté.
+Il faut justifier désormais sur le plan juridique. Donc cette justification va entraîner les jurisconsultes au service de la maison des Valois à distinguer entre deux types de successions. Quelque chose commence à apparaître : c’est le grand partage qui va structurer l’ordre juridique en France, le partage entre le privé et le public.
 
-ça sera donc des gueres à viser pricniapelemtn terroriales. Déjà le cas sous la féodalité maissouvent dnas contexte de mariage, union, etc.
+Deux régimes de successions :
 
-ajd argumetn territoirale est plus mis en avant.
+• Un régime des successions privées qui vaut pour tous, et auquel les femmes sont éligibles au même titre que les hommes.
 
-ce monarque qui exerce la souveraineté terirotiale l'exerc en tant que roi de guerre.  désormais avec la puissance de requerir tous les signeurs du rouyaume à sons erviz sans qui'l pusise refuser. Loyauté souverain remporte.
+• Suivant les différentes coutumes, l’ordre de succession peut être différemment calculé.
 
-vis a vis suverains seignerusmen féodaux gardiaent toute leru autonomie. désormais c plus possible sur le plan des principes. Encore des maisons qui feron de la resistance; Mais a partir 13e siecle serivce du roi s'impose comme une obligation, quii ne peut faire l'objet d'aucune contestation.
+Puis un autre régime de succession qui sont les successions publiques, dont relève la succession à la couronne, régie par un droit spécifique, qui pose plusieurs principes. D’abord, en matière de succession à la couronne, c’est l’exclusivité des mâles, mais aussi l’affirmation d’un ordre juridique propre qui organise la succession royale.
 
-dans le cas du royaume de france, trajectoire qui va jusqu'au petit filsd ephilippe 4 le bel, pusique la succession des capetiens se fait de maniere contineu, sans aucune interruption. 
+Puis vient la folie de Charles VI : l’idée que les successions publiques ne sont pas à la discrétion du monarque. C’est la coutume du royaume qui décide en la matière. Ce qui définit le roi non plus comme propriétaire (on sort du monde féodal où il était considéré comme tel), mais désormais comme un simple administrateur, le gardien de la couronne.
 
-apres y'a une coupure. petits enfant de philippe 4 le bel meurent sans déscendance directe. Jusqua cette periode, on ne c jamais preocupper d'lorganiser la succesison roayle en france. ON c jmais préocupper de donne r justiciation autre que la traiditiin. 
+La couronne est l’âme de la patrie, de la nation. Cela implique tout un ensemble d’idées nouvelles qui vont s’attacher à assurer la continuité de l’exercice de la souveraineté, au-delà même des interruptions que peut impliquer la disparition provisoire des titulaires de la couronne.
 
-sur le plan des metnaltiés : idée que le roi est aussi un quasi pretre, et donc ça petu etre qu'un male. LEs femmes ne sont pas ordonner pretre et pourront pas asusmer une foctn quasi sacrale. Alors que en angleterre on admettra la sucession par les femmes. 
+À partir du XIVe siècle, la chancellerie royale commence à développer des notions nouvelles pour indiquer que la couronne vit au-delà de son titulaire. Cela passe par la fabrique d’une image du roi comme un roi éternel. L’idée est qu’il existe une chaîne de transmission instantanée entre le titulaire de la couronne et son successeur.
 
-y'a é prétendants uqi se présent e: un descendant le plus en ligne directe, masi dont la revendicaitone st écartée au profit d'un descendant plus écarté,e du'n valois, masi descendant par ligne male. 
+Exemple de formule : « le mort saisit le vif », idée selon laquelle le pouvoir se transmet immédiatement à la mort du roi à son successeur légitime. Il n’y a pas d’interruption.
 
-puis guerre de cent ans, ec.
+De la même façon, une autre formule inspirée de la théologie chrétienne : « le fils est la même personne que le père ». Le successeur est la même personne que le prédécesseur. Là encore, l’idée d’une parfaite continuité. En d’autres termes, une parfaite stabilité sous une même personne.
 
-faut justiifer désormasi sur le plan juridique. donc cette justification va entrainer les juris consultes au service de la maison des valois, distinguée en tre 2 types de succeesision. QQ chose qu icommenc ea apparaitre : c le grnad partage qui va structurer ordre juriidque en france, c le partage entre privé et public.
+Cela signifie aussi que le roi est tenu par les lois de son prédécesseur, qu’il doit assurer la continuité du droit, la continuité de l’État.
+Attachée à ces formules, on va veiller à réorganiser progressivement l’idée de la régence.
 
-2 régimes de successions :
-un régime des successions privées qui vaut poru tous et auquel les femmes sont eligibles au meme titre que les hommes. 
+Dans les successions royales, quand le titulaire meurt précocement, il y a une période de minorité royale.
 
-suivant diff coutume, ordre de uscession peut être diffemrent calculée.
+À compter de la guerre de Cent Ans, pour bien affirmer les revendications des Valois, la régence datera ses actes de l’accès au trône du successeur, même s’il est en situation de minorité du point de vue de l’âge.
 
-puis uatre réigme de usccesison qui sot les succesiosn pub lqieus, d'ou releve succesion à la couronne, régiée par un droit spéciqfique, qui pose plusiuer sprincipes. d'abord en matiere de succession à la couronne, c l'exclusivité des males. maois aussi l'affirmation d'un ordre juridque propre qui organise la succession à la couronne.
+Le fils, même s’il n’est pas apte à exercer le métier de roi, est considéré comme pleinement titulaire de la souveraineté.
 
-pusi folie d echarle 6 : idée que succesison pulq ene sont pas à la discretion du monaruqe; C la coutume du royaime qui decide en la matiere. ce qui déifni le roi comme propriétaire, (on sort du monde féodal où il était considéré comme porpriétaire) désormasi il 'est plus quu'n administratuer, il est le gardien del acouronne. 
+L’idée, c’est d’assurer une parfaite continuité de l’État et de son droit.
 
-la courone est ame de la pritre, de la nation. Omplique tout un snebmek d'idées novuelles qui vont s'attacher à assurer la continuité de l'exeric de la souverianté, au dejlà que les interuption suq e implique dispairiton provisoirdes titulaires de la couronne.
+Sous la Ve République, il n’est pas possible de créer des charges publiques sans rééquilibrer. Il y a une question clé : celle de la fiscalité. Dans un régime féodal, le roi est d’abord un suzerain et pas un souverain. Il n’a de domaine sur lequel il exerce pleinement sa domination que sur son apanage, c’est-à-dire son domaine propre, au titre de n’importe quel seigneur féodal. Pour les Capétiens, c’est l’Île-de-France (Paris et les environs proches).
 
-a. partir 14e siecle, chancellerie royale vont commencer à dev nortion nouvelels pour indiquer que la couronne vit au dela de son titulaire. ca va passer par la fabrique du'ne image du roi comme un roi éternel. idée en totu cas que y'a une chaien de transmisison instantaée entre titulaire de la courone et son successeru; 
+Là, ils peuvent exercer une autorité directe.
 
-ex formuel "celle du mort qui saiti le vif" idée qeu pouvori de transmet immediatement à la mort du roi à son sucesseur légitime. Pas de continuité.
+Mais en tant que souverain, ils doivent obtenir l’autorisation des seigneurs, donc ça a un caractère exceptionnel. Quand il sollicite l’Église, les seigneurs féodaux, les villes pour aider à équiper leurs armées, il faut obtenir leur accord.
 
-de la meme façon, autre forume instpirée de la théologie chrétinene "le fils est la meme perosne que le pere". Le sucessuer est la meme personne que le prédecseur. La encore idée de parfaite continuité. En d'autre terme y'a uen parfaite stabilité sous une meme personne. 
+La légitimité de l’impôt va se construire progressivement. On reconnaîtra que le roi est en charge de la protection du royaume, et que cette protection requiert la participation de tous.
 
-veut dire aussi que le roi est tenu par les lois d eosn predecessuer, qui doit assurer la continuité du droit, la continuité de l'état.
+Mais quelque part, ça met le roi en porte-à-faux avec Dieu. Il a abusé de son autorité et il aura des comptes à rendre au Seigneur le jour de son jugement.
 
-attachée à ces formules, on va veiller à progresivement réorganiseer l'idée dont s'organise les régences. 
+Certains monarques, sur leur lit de mort, abolissent les impôts qu’ils ont institués, pour paraître devant Dieu en se lavant de leur péché.
 
-dans succession roales episodes où tituaires meurt précocement, donc periode de minorité royale. 
+Le successeur de Charles VII obtiendra que la suppression d’un impôt unilatéral sans création de ressources équivalentes soit considérée comme une atteinte au principe d’inaliénabilité de la Couronne.
 
-a compter de la guerre de 100 ans, pour iben affirmer els revendications des valois, al régence datera cesa ctes de l'acces au throne du successuer mee si il est en situaiton de minroité du point de vue de l'age.
+C’est un principe de fiscalité permanente qui est adopté, et qui accompagne l’idée d’un État souverain permanent et éternel.
 
-le fils meme is pas apte à exercer le metier de roi est considéré comme pleinement ittulaire de la souveraineté.
+Ce concept, pourtant, n’aboutit pas d’abord en France, mais en Angleterre, à travers une théorie formulée par l’historien allemand Kantorowicz, dans son premier livre _L’Empereur Frédéric II_.
 
-idée d'assurer une parfate conutiier de l'état et de son droit.
+Le concept des deux corps du roi apparaît dans un contexte très particulier : celui de la première révolution anglaise, dans les années 1650 (voir le livre de Guizot). C’est une révolution à la fois politique et religieuse. Une révolte d’abord fiscale, mais qui au-delà de la fiscalité, porte sur la manière dont le roi peut exercer son pouvoir en Angleterre.
 
+La question, c’est de savoir si le roi peut lever des impôts de manière unilatérale sans consulter le Parlement anglais, ou s’il doit nécessairement obtenir son autorisation.
 
-sous 5eme républque : pas possible de creer chages publuques sna srééquilibrer. Y'a uen quesiton clé qui est celle de la fiscalté. DAns un réigme féodal om le roi c d'abord un suzerain et pas un souverain, il n'a de domaine sur lequel il exerce pleinemetn sa dominaiton que sur son appagnange, càd son domaien propre, au titre de nimporte quel seigneur féodale. Enc e qui concerne les capétiens c l'ile de france (paris et environs proches). 
+Le Parlement d’Angleterre n’est pas démocratique. La Chambre des communes est composée de riches propriétaires.
 
-peuvent exercer une aoturité directe.
+C’est aussi une question de régime : est-ce que ça sera une monarchie parlementaire, ou une monarchie absolue comme en France ?
 
-en tant que souverian doivnet obtenir autorisation des siengeur,, et ont un caractere eexceptionel. Donc qui'l solicite eglise, seignerus féodaux, les vllels, poru aider à equipeur leurs aménes faut qu'il obtienne leur accord.
+Deuxième débat : la séparation de l’Angleterre de l’Église anglicane. L’établissement de l’Église anglicane est un compromis, c’est-à-dire qu’elle conserve une structure ecclésiale qui reprend toute l’organisation de l’Église romaine (évêques, prêtres, sacrements, etc.).
 
-legimité de impot va se consturire progessivemejt. ln reconnaitera que roi est en charge protection du royaume, qui requiert participation à tous.
+Le roi d’Angleterre, Charles Ier, est fait prisonnier. Malgré les divisions au sein du camp républicain, le Parlement, après avoir été « nettoyé » de ses opposants, vote la mort du roi. Il est donc décapité en 1651.
 
-qq part ça met le roi en portafau avec dieu. Il a abusé de osn autorité, et aura des comptes à rendre au seigneru le jour de son jugement.
+La révolution anglaise n’est pas une révolution populaire comme en France. Charles Ier dispose d’une légitimité, dans un royaume où il accomplissait le miracle royal, etc.
 
-certains monarques sur son lit de mort abolissent impot qu'ils ont institué pour paraitre devant dieu, en se lavant de son peché.
+Les juristes favorables au parti républicain vont alors élaborer la théorie des deux corps du roi. Ils expliquent que le roi d’Angleterre est doté d’un corps temporel et d’un corps spirituel.
 
-successuerde charles 7 obtiendra que suppreision d'mppot unilatéral sans créaton de ressources équivalentes c porter au proncipe inaliénabilité de la couronne.
+Le corps spirituel, c’est le corps institutionnel : c’est le roi en tant que personne, mais aussi toutes les grandes institutions du royaume, dont le Parlement d’Angleterre. C’est une manière de dire que le Parlement est pleinement partie prenante de la souveraineté, qu’il est indissociable du monarque.
 
-c un principe de fscialité permantne qui est adopté, qui accomapgne idée d'un état souveian permannt et eternel. 
+Tandis que le roi au corps temporel, c’est le roi ordinaire, avec sa dépouille, pécheur parmi les pécheurs.
 
-ça aboutit non pas en france mais en angleterre à un concept (historien allemand Kantorowicz), auteur d'n premier livre "l'empereur frédéric 2"
+Le roi comme personne, spirituellement, continue de vivre. Le roi en tant que principe de souveraineté, en tant qu’ensemble des organes qui gouvernent le royaume d’Angleterre, est toujours aussi vivant.
 
-ce concept des 2 corps du roi apparait dans des circonstances particuliers, c dans le cadre de la premier révoltuion d'angleterre, années 1650. (livre Guizo) : c unerévoluton à la fois politique et religieuse. Révolte du caractere fiscal, qui au dela de la fiscalité porte sur la maniere dont le roi pouvait exercer son pouvoir en angleterre. 
+C’est un acte de reconnaissance du roi.
 
-C de savoir est-ce quele roi peut lever des impots de manier eunilatérla snas consulter le parlement angleere, ou doit necessairemen tobtenir son autorisaiton. 
+Là, on a une divergence fondamentale entre l’Angleterre et la France.
 
-parlement angelterre pas démocraituqe. HCambre de scomunnes sont de riches proprio qui y siegent.
+En Angleterre, on décapite le roi, mais on restaure la monarchie à travers une nouvelle dynastie.
 
-question de la nature du régim e: est-ce que ça sera une monarhceoi parlementair  ou monarchie asolue comme en France. 
-
-deuixeme débat : séparation angelterre de eglise Anglicanne. Etablisement eglise anglicanne c un compromis, càd que l'églis eanglicane ocncsreve une structure eclesialb qui conserve toutes les structures de eglise romaien (eveques, pretres sacrement,s etc).
-
-Le roi d'angleterre Charles 1er et fait prisonnier; Malgres divisond ans le camp des républciasn, le parlement néttoyé de ces opposants vote la mort du roi, et donc sera décapité an 1651.
-
-la revolutona ngalise est pas une reovluton popualire comme en France. charles 1er dispose d'une legitimité, qui dans le royaume angleterre accomplsiait le miracle royal etc. 
-
-les juristes favoae au parti républaij vnt élaborer théori edes 2 coprs du roi. Explique que le roi d'angleterre est doué du'n corps temporel et corps spirituel.
-
-le crops spirituel, c le corps institutionnel, c le roi en tnat que perosnne, et c aussi toutes les grandes institutiosn en tna tuqe royaume et aussi le parlement d'angelterer. La c une maniere de dire que le parlement d'angleterre est peklinemetn parti prennate du souverain, qu'il est indissociable dumonarque. 
-
-tandis que le roi au coprs temporel c le roi ordinnire, avec sa dépouille pecheur parmis les pecheurs. 
-
-le roi comme perrsone, sôritielel contnie de vivre. le roi en tant qu eprincipe de souveraineté, en tant qu'ensmeble d'organe qui gouvenre el royaume d'angleterre est toujour saussi vivant. 
-
-acte der econnaisasnce du roi.
-
-y'a divergence fondamentale entre angeletrre et la france.
-
-en angelterere il décapitent le roi masi restaurent la monarchek à travers uen nouvelle dynastie
-
-en france aucune monarchie pourra prosperr. Car roi en fnrac einvestie du'ndimenison ed sacralité telle que pour fiare vivre la nation on povuit pas le garder. Trop enconbrant pour mmonachie consttuoonelle classique. 
-
+En France, aucune monarchie ne pourra prospérer après la Révolution. Car le roi en France est investi d’une dimension de sacralité telle que, pour faire vivre la nation, on ne peut pas le garder. Il est trop encombrant pour une monarchie constitutionnelle classique.

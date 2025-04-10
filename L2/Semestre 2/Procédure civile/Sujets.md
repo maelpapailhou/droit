@@ -5,10 +5,10 @@ Attention : apprendre les articles
 
 ### 2023-2024 S2
 - Les différents types de jugements
-- Les causes de suspension d’instance
+- **Les causes de suspension d’instance**
 
 ### 2022-2023 S1
-- Les causes de suspension et d’interruption d’instance
+- **Les causes de suspension et d’interruption d’instance**
 - **La procédure en référé**
 
 ### 2022-2023 S2

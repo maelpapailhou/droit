@@ -628,3 +628,340 @@ Depuis le **traité de Lisbonne**, la **Cour de justice de l’Union européenne
 Le **Tribunal de la fonction publique**, créé en **2004**, a été **supprimé en septembre 2016**, et ses **compétences ont été transférées au Tribunal**.
 
 En pratique, la doctrine a pris l’habitude **d’utiliser l’abréviation CJUE** pour désigner l’ancienne **CJCE**, afin **d’éviter toute confusion avec d’autres juridictions**. (Cour de justice)
+
+### Paragraphe 1 : La Cour de justice
+
+Elle est prévue dès l’origine des trois communautés. Elle siège à **Luxembourg**, est la **gardienne de la légalité européenne**, et constitue un **élément fondamental** du système institutionnel de l’Union.
+
+#### A) La composition et l'organisation de la Cour
+##### 1) La composition de la Cour
+
+La Cour comprend **un juge par État membre**, soit **27 juges au total**, ainsi que **11 avocats généraux** (équivalents des rapporteurs publics au Conseil d’État français).
+
+Les **avocats généraux** ont pour mission de présenter **des conclusions motivées** sur les affaires dont la Cour est saisie.
+
+Ces juges et avocats généraux sont nommés **d’un commun accord par les gouvernements des États membres**, pour un **mandat de six ans renouvelable**, après consultation **d’un comité de sept personnalités**, composé d’anciens membres de la Cour et du Tribunal, de membres des juridictions nationales suprêmes, et de **juristes reconnus pour leurs compétences**.
+
+Ils sont choisis **parmi les personnes offrant des garanties d’indépendance**, et qui remplissent dans leur pays les conditions requises pour exercer des **fonctions juridictionnelles**, ou qui possèdent **des compétences juridiques notoires**.
+
+La majorité des membres sont **de hauts magistrats**. Ils doivent **prêter serment** d’exercer leurs fonctions **en toute impartialité** et de préserver le **secret des délibérations**.
+
+##### 2) L'organisation de la Cour
+
+Le **président de la Cour**, actuellement le Belge **Koen Lenaerts**, occupe ce poste depuis 2015, en remplacement de **Vassilios Skouris**. Il est **élu pour trois ans renouvelables**.
+
+Le **greffier** est, pour sa part, **nommé pour six ans renouvelables**.
+
+**Les formations de jugement** de la Cour :
+
+- La Cour siège en principe en **chambre de trois ou cinq juges**, ce qui constitue la **formation ordinaire**.
+    
+- Elle peut également siéger en **grande chambre de quinze juges**, sur demande d’un **État membre** ou d’une **institution de l’Union**, ou pour toute **affaire particulièrement complexe ou importante**.
+    
+- La formation la plus solennelle est **l’assemblée plénière**. Elle est convoquée **exceptionnellement**, pour statuer sur des affaires d'**importance exceptionnelle**, ou ayant une **dimension politique particulière**.
+    
+
+La **langue de délibéré** est le **français**, tandis que la **langue de procédure** est en principe celle du **requérant**.
+
+S’il s’agit d’une **institution de l’Union** qui saisit la Cour, c’est la **langue du défendeur** qui est utilisée.
+
+Concernant les **renvois préjudiciels**, la **langue officielle utilisée** est celle de la **juridiction de renvoi**.
+#### B) Les compétences de la Cour
+
+Elle est chargée (article 19, paragraphe 1 du TUE) d'assurer le respect « du droit dans l’interprétation et l’application des traités ».
+
+Toutefois, la Cour détient uniquement une **compétence d’attribution**. Ce sont les **juges nationaux** qui sont les juges de droit commun du droit de l’Union.
+
+Il existe **trois types de compétences** de la Cour :
+
+- Compétence **consultative**
+- Compétence **contentieuse**
+- Compétence **préjudicielle**
+
+##### 1) La fonction consultative
+
+La Cour est consultée à la demande du **Conseil**, de la **Commission**, du **Parlement européen** (triangle institutionnel), ou encore d’un **État membre**. La Cour émet alors des **avis**.
+
+**Avis sur quel type de questions ?**
+
+- Elle émet un avis sur les **propositions de révision des traités européens**.
+    
+- Elle se prononce sur la **compatibilité de traités internationaux** (avec des pays tiers ou des organisations internationales) avec les traités européens.
+    
+
+La base juridique de cette compétence est **l’article 218, paragraphe 11 du TFUE**.
+
+##### 2) La fonction contentieuse
+
+Ici, la Cour rend des **arrêts** sur des affaires qui lui sont soumises.
+
+Il existe différents **recours contentieux** qu’elle peut connaître :
+
+**1. Le recours en manquement**  
+
+Il vise à constater le **manquement d’un État membre à ses obligations européennes** (articles **258 à 260 TFUE**).  
+La saisine de la Cour est précédée d’une **procédure précontentieuse**, qui permet à l’État membre de répondre aux griefs de la **Commission européenne**.  
+Ce recours est **très effectif** : dans 80 % des cas, le litige est résolu à ce stade.
+
+À défaut, la Cour peut être saisie :
+
+- soit par la **Commission européenne** (le plus fréquent),
+    
+- soit **exceptionnellement par un État membre**.
+    
+
+Si la Cour constate le manquement, l’État membre concerné doit y mettre fin **sans délai**.  
+En cas de **nouvelle saisine** par la Commission, si le manquement persiste, la Cour peut **infliger une sanction pécuniaire** :
+
+- soit une **somme forfaitaire**,
+    
+- soit une **astreinte journalière** (c’est le **recours en manquement sur manquement**).
+    
+
+**Depuis le traité de Lisbonne**, en cas de **non-communication** par un État membre des **mesures de transposition d’une directive**, une **sanction pécuniaire** peut être infligée **dès le premier arrêt en manquement**, à la demande de la Commission.
+
+**2. Le recours en annulation**  
+
+Il vise à faire annuler une **norme européenne** émanant d’une institution, d’un organe ou d’un organisme de l’Union (**articles 263 et 264 TFUE**).
+
+- Les **recours en annulation** formés par une **institution de l’Union** sont portés devant la **Cour de justice**.
+    
+- Il en va de même des **recours formés par un État membre contre le Parlement européen et/ou contre le Conseil**, sauf dans certains secteurs (notamment : aides d’État, dumping, compétences d’exécution), où c’est le **Tribunal** qui est compétent.
+    
+- Les **recours formés par des personnes morales** autres que les États membres (notamment des **particuliers**) relèvent de la compétence du **Tribunal**.
+    
+
+**3. Le recours en carence**  
+
+C’est un recours dirigé **contre une institution, un organe ou un organisme de l’Union**, pour **inaction** (articles **265 et 266 TFUE**).
+
+Ce recours **ne peut pas être introduit** si l’institution concernée **n’a pas été préalablement invitée à agir**.  
+Lorsque la **carence** est constatée, l’institution concernée doit **y mettre fin** en adoptant **les mesures appropriées**.
+
+**4. Le recours en responsabilité extra-contractuelle**  
+
+Il peut être exercé **en cas de dommage causé par les institutions de l’Union ou leurs agents**, dans l’exercice de leurs fonctions (**articles 268 et 340 TFUE**).
+
+Ce recours permet aux particuliers ou aux personnes morales d’obtenir **réparation du préjudice** causé par une **faute de service**.
+##### 3) La fonction préjudicielle
+
+**Seule la Cour de justice** est habilitée à **déclarer invalide une norme européenne**.
+
+Selon l’**article 267 TFUE**, la Cour connaît des **renvois préjudiciels** en **interprétation** ou en **appréciation de validité** du droit de l’Union, qui lui sont adressés par les **juridictions nationales**.
+
+La Cour rend alors un **arrêt préjudiciel**, qui s’impose à la juridiction de renvoi.
+
+### Paragraphe 2 : Le Tribunal de l'Union européenne
+
+En application de l’**Acte unique européen de 1986**, le **Tribunal de première instance (TPI)** a été créé en **1988** pour **désengorger** la Cour de justice.
+
+Il est **entré en fonction en septembre 1989**.
+
+Depuis le **traité de Lisbonne**, il est dénommé **Tribunal de l’Union européenne** (et non plus TPI).
+
+#### A) La composition et l'organisation du Tribunal
+
+Concernant sa **composition** : il comprend **deux juges par État membre**, qui sont désignés dans les **mêmes conditions** que les juges de la Cour de justice.
+
+Il n’existe **toujours pas d’avocats généraux permanents** au sein du Tribunal, c’est-à-dire que **certains juges peuvent être amenés à exercer cette fonction** en cas de besoin, pour une affaire particulière.
+
+**Organisation** : le **président du Tribunal** est élu par le Tribunal pour une durée de **trois ans renouvelable**. Il s’agit actuellement de **Marc Van der Woude**.
+
+Le Tribunal dispose de **son propre greffe**, tout en **utilisant les services administratifs** de la Cour.
+
+**Formations de jugement** : le Tribunal statue **en principe en chambre de trois ou cinq juges** (formation ordinaire), exceptionnellement **en formation plénière** ou **en grande chambre de 15 juges**, dans les affaires particulièrement **importantes ou complexes**.
+
+Dans **80 % des cas**, c’est la **chambre de trois juges** qui statue.
+
+#### B) Les compétences du Tribunal
+
+À l’origine, le **Tribunal de première instance (TPI)** n’intervenait que dans **peu de secteurs** (fonction publique, concurrence).
+
+Depuis une **décision du Conseil de 1993**, il est devenu la **juridiction de première instance** pour **tous les recours directs** des **personnes physiques ou morales** à l’encontre des normes ou des institutions de l’Union.
+
+Les **arrêts du Tribunal** sont susceptibles d’un **pourvoi**, limité aux **questions de droit**, devant la **Cour de justice**, dans un délai de **deux mois**.
+
+**Actuellement, le Tribunal connaît des contentieux suivants** :
+
+- **Recours en annulation**, intentés par des **personnes physiques ou morales**, contre les **normes européennes** adoptées par une institution, un organe ou un organisme de l’Union.
+    
+- **Recours en carence**, également intentés par des **personnes physiques ou morales**, contre l’**inaction** d’une institution, d’un organe ou d’un organisme de l’Union.
+    
+- **Recours en responsabilité extracontractuelle** pour les **dommages causés** par une institution, un organe, un organisme de l’Union ou leurs agents.
+    
+- **Recours en responsabilité contractuelle**, concernant les **contrats**, qu’ils soient de droit public ou privé, passés par l’Union, à la condition que le contrat **prévoie la compétence du Tribunal**.
+    
+- **Recours en matière de propriété intellectuelle**.
+    
+- **Contentieux de la fonction publique européenne**.
+    
+- **Cas exceptionnels** où les **recours sont formés par les États membres**, soit contre la **Commission**, soit contre le **Conseil** (en matière d’**aides d’État**, de **dumping**, ou de **compétence d’exécution**).
+    
+- **Nouveauté** : depuis **octobre 2024**, il est possible pour le Tribunal de connaître des **demandes de décisions préjudicielles** transférées par la Cour de justice dans **six domaines spécifiques** :
+    
+    - Système commun de **TVA**
+        
+    - **Droits d’accise**
+        
+    - **Code des douanes**
+        
+    - **Classement tarifaire des marchandises**
+        
+    - **Indemnisation et assistance des passagers** en cas de **refus d’embarquement**, de **retard** ou **d’annulation** de services de transport
+        
+    - **Système d’échange de quotas d’émission de gaz à effet de serre (GES)**
+
+## Sous-section 2 : Le contrôle budgétaire : la Cour des comptes Européennes
+
+Créée par le **traité de Bruxelles**, la **Cour des comptes** est devenue une **institution** depuis le **traité de Maastricht** (elle n’était auparavant qu’un **organe**).  
+Elle siège à **Luxembourg**, et elle est la **gardienne du bon usage des finances de l’Union européenne**.
+
+### Paragraphe 1 : La composition de la Cour des comptes
+
+Elle comprend **27 membres indépendants**, nommés pour une durée de **six ans renouvelable** par le **Conseil**, à la **majorité qualifiée**, sur proposition des **États membres**, **après avis du Parlement européen**.
+
+Le **président** est désigné pour **trois ans renouvelables** parmi les membres de la Cour.
+
+### Paragraphe 2 : Les attributions de la Cour des comptes
+
+En tant que **gardienne des finances de l’Union européenne**, elle **contrôle sur pièces et sur place** les **comptes de l’Union**, ainsi que la **bonne gestion financière du budget de l’UE**.
+
+Ce **n’est pas une juridiction** : elle **ne dispose donc d’aucun pouvoir de sanction**. Toutefois, ses **rapports attirent l’attention** des institutions sur d’éventuelles **fraudes**, **irrégularités** ou **gaspillages**.
+
+Son **rapport annuel** est **examiné par le Parlement européen**, notamment dans le cadre de la **procédure de décharge budgétaire** à l'égard de la Commission européenne.
+
+## Sous-section 3 - Le contrôle administratif : le médiateur européen
+
+
+Le **Médiateur européen**, créé par le **traité de Maastricht**, siège à **Strasbourg**.
+
+### Paragraphe 1 : Le statut du médiateur
+
+C’est un **organe administratif indépendant**. Depuis le **traité de Lisbonne**, le Médiateur est **élu pour cinq ans renouvelables** par le **Parlement européen**, après **avis de la Commission** et **approbation du Conseil** à la majorité qualifiée.
+
+Son mandat est **exercé en toute indépendance**. Il est **incompatible avec tout mandat électif** ou toute **autre activité professionnelle**, rémunérée ou non.
+
+Actuellement, **Theresa Anjinho**, de nationalité portugaise, **occupe ce poste**. Elle a été **élue en décembre 2024** par le Parlement européen et a **pris ses fonctions en février 2025**.
+
+Elle **remplace Emily O’Reilly**, de nationalité irlandaise.
+
+Paragraphe 2 : Les fonctions du médiateur
+
+Le Médiateur **reçoit des plaintes** de la part des **citoyens européens**, ainsi que de toute **personne physique ou morale** résidant ou ayant son siège dans un **État membre**.
+
+Ces plaintes portent sur un **mauvais fonctionnement de l’administration de l’Union** (institutions, organes ou organismes de l’UE), à **l’exception des activités juridictionnelles** de la **Cour de justice** et du **Tribunal de l’Union européenne**.
+
+Le Médiateur peut **procéder à des enquêtes**, **auditionner les institutions concernées**, **tenter de trouver une solution amiable**, ou, à défaut, **saisir pour avis** l’institution en cause et **transmettre un rapport au Parlement européen**, qui peut **rappeler l’institution à ses obligations**.
+
+Il **rédige également un rapport annuel d’activité**.
+
+# Section 4 - Les autres institutions et organes de l'Union
+
+Parmi les organes à étudier ci-après, seule la BCE a la qualité d'institution depuis l'entrée en vigueur du traité de Lisbonne.
+
+## Sous-section 1 - Les organes consultatifs
+
+Il en existe deux : le Comité économique et social européen (CESE) créé par le traité de Rome de 1957 et le Comité des régions
+
+(CdR) créé par le traité de Maastricht.
+
+Leurs avis sont dépourvus de force obligatoire, mais peuvent influencer la politique économique et sociale de l'UE.
+
+### Paragraphe 1 - Le Comité économique et social européen
+
+Selon l'article 300 TFUE, le CESE est chargé de représenter au sein du système institutionnel de l'Union le monde socioéconomique ou la société civile organisée (producteurs, syndicats, consommateurs, agriculteurs, transporteurs, travailleurs, artisans, négociants, professions libérales etc.). Son siège est à Bruxelles.
+
+A - La composition et l'organisation du CESE
+
+- ﻿﻿Le CESE comprend 329 membres (après le départ des conseillers britanniques suite au Brexit, contre 350 auparavant), dont 24 conseillers français, qui sont nommés pour cinq ans renouvelable par le Conseil à la majorité qualifiée, après consultation de la Commission, sur proposition des États membres.
+- ﻿﻿Ils siègent en trois groupes :
+- ﻿﻿employeurs (industrie, commerce, services et agriculture) ;
+- ﻿﻿travailleurs : des ouvriers aux cadres (représentants des organisations syndicales nationales, des confédérations et des fédérations sectorielles)
+- ﻿﻿et diversité Europe, qui représente des activités diverses : ONG, artisans, professions libérales, associations diverses :
+- consommateurs, environnement, représentant les familles, les femmes, les personnes handicapées etc.
+- ﻿﻿Le président et 2 vice-présidents sont élus pour un mandat de deux ans et demi.
+
+B - Les attributions du CESE
+
+Voix de la société civile, le CESE émet des avis. Il est consulté soit obligatoirement dans les cas prévus par les traités (en matière de politique économique et sociale), soit facultativement par le triangle institutionnel (Conseil, Commission ou Parlement européen : art. 304 TFUE). Il peut aussi émettre des avis de sa propre initiative. Il produit en moyenne 170 documents consultatifs et avis par an (dont 15% de sa propre initiative).
+
+Bien que ses pouvoirs soient limités, il influence la Commission dans l'élaboration de ses propositions et joue un rôle d'intermédiaire entre les institutions de l'Union et les forces économiques et sociales. Autrement dit, par son intermédiaire, les organisations patronales et syndicales participent indirectement à la définition des politiques de l'UE.
+
+### Paragraphe 2 - Le Comité des régions
+
+Sous la pression des länder allemands, il a été créé par le traité de Maastricht, en remplacement du comité consultatif créé en 1988 par la Commission, afin d'associer au processus décisionnel communautaire les collectivités infra-étatiques (régionales et locales d'Europe) puisque les institutions de l'Union peuvent intervenir dans leur secteur de compétences. Il est régi par les articles 305 à même de l'UE. Son siège est à Bruxelles.
+
+307 TFUE. En fonction depuis 1994, le CdR est l'assemblée politique qui fait entendre la voix des collectivités territoriales au cœur
+
+#### A - La composition et l'organisation du CdR
+
+**Composition** : Il comprend 329 représentants des collectivités infra-étatiques (après le départ des 24 représentants britanniques suite au Brexit, contre 350 auparavant, sachant que 3 sièges des Britanniques ont été redistribués entre Chypre, Luxembourg et l'Estonie), dont 24 Français, et autant de suppléants, ayant la qualité d'élu local ou de membre d'un exécutif local (maire, président du Conseil régional, Conseillers municipaux, parlementaire régional etc.).
+
+Ils sont désignés par le Conseil à la majorité qualifiée, sur proposition des Etats membres pour un mandat de cinq ans renouvelable.
+ 
+**Organisation** : Le CdR désigne son président parmi ses membres pour un mandat de deux ans et demi. Il tient 5 sessions plénières par an préparées par 6 commissions spécialisées. Pendant ces sessions, il définit sa politique générale et émet des avis.
+
+#### B - Les attributions du CdR
+
+faisant connaître leur point de vue sur la législation européenne. Comme le CESE, il est consulté soit obligatoirement dans les cas prévus par les traités intéressant de près les pouvoirs locaux et régionaux (transport; emploi; politique sociale; culture ; santé publique; environnement ; réseaux transeuropéens; cohésion économique et sociale; éducation et formation professionnelle ; protection civile; changement climatique; énergie; services d'intérêt général), soit facultativement par le triangle institutionnel (Conseil, Commission ou Parlement européen). 70% de l'ensemble de la législation de l'UE requiert son avis.
+
+- ﻿﻿Face à la multiplication des demandes d'avis, le CdR procède à une sélection, en écartant les questions techniques ne soulevant pas de problèmes importants pour les régions.
+- ﻿﻿Le traité de Lisbonne permet au CdR de saisir la Cour de justice d'un recours en annulation pour défendre ses prérogatives (art. 263 TFUE) ou en cas de violation du principe de subsidiarité par un acte législatif de l'Union pour l'adoption duquel sa consultation est prévue (art. 8 du protocole sur l'application des principes de subsidiarité et de proportionnalité annexé aux traités).
+
+## Sous-section 2 - Les organismes financiers
+
+Afin de mettre en œuvre certaines politiques de l'Union, comme la politique monétaire, des organes spéciaux ont été créés par les traités.
+
+### Paragraphe 1 - La Banque européenne d'investissement
+
+#### A - L'organisation de la BEI
+
+Prévue dès l'origine de la CEE, la BEl qui siège au Luxembourg est un établissement public doté de la personnalité juridique et de l'autonomie juridique et financière. Son capital est souscrit par les États membres. Elle ne recourt pas au budget de l'UE. Elle emprunte sur les marchés financiers et fait appel à ses ressources propres fournies par les États membres (248,8 milliards d'euros).
+
+Elle est administrée par un conseil des gouverneurs composé des ministres des Finances des États membres (définissant la politique générale de prêt de la banque) ; un conseil d'administration (de 28 membres - un par État membre et un pour la Commission - gérant la politique de la banque et octroyant les crédits et garanties), un comité de direction (de 9 membres assurant la gestion courante de la banque) et un comité de vérification (organe indépendant de contrôle vérifiant la régularité des opérations et des livres de la banque).
+
+#### B - Les attributions de la BEI
+
+Elle finance certains projets d'investissement viables à l'intérieur de l'Union (pour 90%) ou dans les États partenaires de l'UE (par ex. les pays ACP : Afrique, Caraïbes et Pacifique) sur la base de critères restrictifs. Les projets doivent favoriser les priorités et les objectifs stratégiques européens, en étant en priorité axées sur huit domaines : action en faveur du climat, transformation numérique et innovation technologique, sécurité et défense, politique de cohésion moderne, agriculture et bioéconomie, infrastructures sociales, investissement à fort impact dans le monde, union des marchés de capitaux.
+
+Depuis 2015, elle s'est engagée à consacrer 25% de ses investissements à la lutte contre le changement climatique, à accroître de 50% d'ici à 2025, puisqu'elle ambitionne de devenir la « banque du climat». En 2019, 31 %, soit 19,3 milliards d'euros, de ses investissements lui ont été consacrés. En 2024, 60% des investissements (44,8 milliards d'euros) sont dédiés à l'action pour le climat et la durabilité environnementale.
+
+Elle aide aussi les PME par l'intermédiaire de sa filiale, le Fonds européen d'investissement.
+
+### Paragraphe 2 - Le Système européen de banques centrales
+
+Bras séculier de l'Union économique et monétaire, le SEBC a été créé en juin 1998. La BCE, qui se trouve au sommet du système, est depuis le traité de Lisbonne la 7 institution de l'Union.
+
+#### A - La présentation du système
+
+Il est chargé définir et de mettre en œuvre la politique monétaire de l'Union (art. 282 § 1 TFUE) et de maintenir la stabilité des prix.
+
+Il comprend l'ensemble des BCN (banques centrales nationales), dont la Banque de France, et la Banque centrale européenne BCE.
+
+Le traité de Maastricht pose le principe d'indépendance de ces banques qui ne peuvent recevoir ni solliciter d'instructions des gouvernements des États membres ou des institutions européennes.
+
+Toutefois, seule la BCE dispose de la personnalité juridique. D'ailleurs, ce sont les organes de la BCE qui dirigent le système.
+
+#### B - L'institution centrale du système : la Banque centrale européenne
+
+• Rôle : En fonction depuis le 1e juin 1998, elle siège à Francfort et remplace l'IME (institut monétaire européen), créé en
+
+1994 et chargé d'assurer la période transitoire de mise en place de l'UEM.
+
+Elle a été créée par le traité Maastricht pour gérer la monnaie unique, conduire les opérations de change, assurer le bon fonctionnement des systèmes de paiement, définir et mettre en œuvre la politique économique et monétaire de l'Union dans le cadre du SEBC (voir art. 127 TFUE). Concrètement, elle autorise l'émission des billets et des pièces en euros (en circulation depuis le 1er janvier 2002) ; fixe les taux directeurs et d'intérêt; constitue et gère les réserves de change. Ses fonctions principales sont les
+
+auprès du Conseil et des Etats membres.
+
+En réponse aux critiques qui lui ont été adressées lors de la crise de 2008, elle a adopté certaines mesures, notamment la baisse des taux d'intérêt, le refinancement des banques et le rachat de la dette de certains Etats membres. Elle assure aussi depuis 2014 un contrôle bancaire des établissements de crédit des Etats membres (contrôle prudentiel dans le cadre d'un mécanisme de surveillance unique : MSU : art. 127 § 6 TFUE).
+
+- ﻿﻿Organes : Elle est dirigée par quatre organes.
+
+- ﻿﻿Le directoire comprend 6 membres (le président de la BCE, actuellement Christine Lagarde (Française succédant, depuis le 1er novembre 2019, à l'Italien Mario Draghi, qui avait le 1er novembre 2011 remplacé le Français Jean-Claude Trichet), un vice-gouvernement, sur recommandation du Conseil et après avis du Parlement européen. Organe d'administration, il met en œuvre la politique monétaire définie par le conseil des gouverneurs et adresse des instructions aux BCN. Il assure la gestion courante de la BCE.
+
+- ﻿﻿Le conseil des gouverneurs comprend les 6 membres du directoire et les gouverneurs des banques centrales nationales de la zone euro. Il est l'organe de décision suprême de la BCE. Il définit les orientations monétaires de la zone euro et prend les décisions nécessaires à l'accomplissement de la mission du SEBC.
+- ﻿﻿Le conseil général est un organe consultatif, qui comprend le président, le vice-président et les gouverneurs des BCN de tous les États membres. Il assure le lien entre les BCN des États membres participant à l'euro et celles ne participant pas à l'euro.
+- ﻿﻿Le conseil de surveillance prudentielle comprend un président (nommé pour 5 ans non renouvelable), un vice-président (issu du directoire), 4 représentants de la BCE et un représentant des autorités de surveillance prudentielle nationales. Il se réunit toutes les trois semaines pour débattre des missions de surveillance prudentielle de la BCE, en assurer la planification et la conduite. Il propose au Conseil des gouverneurs des projets de décision.
+
+La zone euro comprend actuellement 20 États membres : 12 des 15 anciens États membres (sauf Royaume-Uni, Danemark et Suède) + Slovénie depuis 2007 + Chypre et Malte depuis 2008 + Slovaquie depuis 2009 + Estonie depuis 2011 + Lettonie depuis 2014 + Lituanie depuis janvier 2015 + Croatie depuis le 1e janvier 2023. La coopération entre la BCE et les BCN de la zone euro s'appelle l'eurosystème. Voici les 7 États de l'UE non membres de la zone euro : Bulgarie, Danemark, Hongrie, Pologne, République tchèque, Roumanie et Suède.
+
+En outre, 4 micro-Etats sont autorisés à utiliser l'euro: Andorre, Monaco, Saint-Marin et le Vatican.

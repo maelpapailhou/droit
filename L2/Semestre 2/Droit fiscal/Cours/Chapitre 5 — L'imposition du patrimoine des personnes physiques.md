@@ -1,40 +1,48 @@
-le patrimojne lorsqu'u est transmis, ou totu simplemetn détenu implique le versmeent de différents impots. La transmission du patrimoine génére des droits d'neregistrement (section 1), la détention d'un patrimoine immobilier peut impliquer le paiement de l'impot sur la fortune immobiliere et de taxes locales (section 2)
+**Le patrimoine, lorsqu’il est transmis ou tout simplement détenu, implique le versement de différents impôts.** La transmission du patrimoine génère des droits d’enregistrement (section 1), tandis que la détention d’un patrimoine immobilier peut impliquer le paiement de l’impôt sur la fortune immobilière et de taxes locales (section 2).
 
-## Section 1 : la taxation de la tranmission du patrimoine
+## Section 1 : La taxation de la transmission du patrimoine
 
-dans code civil : le patrimoine c l'ensmble des bien meubles et immeibles.
+Dans le Code civil, le patrimoine est défini comme l’ensemble des biens meubles et immeubles.
 
-L'héritier c'est celui qui recoit tout ou partie de la succesison du défunt par la somple intervetnion de la loi. Le légataire est celui qui recoit toute ou partie de la sucession en application d'un testation. La locution de cujus est synonyme de défunt. En droit la muattion renvoei à un changemetn de propréitaire d'un bien.
+L’héritier est celui qui reçoit tout ou partie de la succession du défunt par la simple intervention de la loi. Le légataire est celui qui reçoit tout ou partie de la succession en application d’un testament. La locution _de cujus_ est synonyme de défunt. En droit, la _mutation_ renvoie à un changement de propriétaire d’un bien.
 
-La transmission d'un patrimooine peut être gratuite ou onéreuse pour le novueau propriétaire. cependant, dans ces deux hypothèses, cette mutation ouvre droit à la perceptiond 'une osmme au proffit de l'état ou des collectivités territoriales. 
+La transmission d’un patrimoine peut être **gratuite** ou **onéreuse** pour le nouveau propriétaire. Cependant, dans ces deux hypothèses, cette mutation donne lieu à la perception d’une somme au profit de l’État ou des collectivités territoriales.
 
-en effet un cahenemnt de propriétaire doit faire l'objet d'une nregisterment aupres de 'l'administration fiscale. 
+En effet, un changement de propriétaire doit faire l’objet d’un **enregistrement** auprès de l’administration fiscale.
 
-l'enregistrement c une formlaité administrativ equi consiste à déclarer un acte ou une mutation sur un registre public et à payer un droit d'enregistrement .
+L’enregistrement est une formalité administrative qui consiste à **déclarer un acte ou une mutation** sur un registre public, et à payer un **droit d’enregistrement**.
 
-les droits d'enregistrement constituent une des partie sles lus ancienens du droit fiscal français puisque leur origine remonte à l'ancien régime, il concerne un grand nobmre d'acte de la vie des particuleirs, pricnoapemetn des opératiosn relatives à leur patrimoine (vente immeuble, donation, succession) et certaine sopératiosn de la vie des etnreprises (ex constituion des sociétés, ou cession de fond de commerce). 
+Les droits d’enregistrement constituent **l’une des parties les plus anciennes du droit fiscal français**, puisque leur origine remonte à l’Ancien Régime. Ils concernent un grand nombre d’actes de la vie des particuliers, principalement des opérations relatives à leur patrimoine (vente d’immeuble, donation, succession), mais aussi certaines opérations de la vie des entreprises (constitution de sociétés, cession de fonds de commerce).
 
-cette formalité obligatoire est facutée au titre des droits d'nregistetrement.
+Cette formalité obligatoire est assortie du paiement de droits d’enregistrement.
 
-### paragraphe 1 : les droits de mutation ç titre gratui. 
+### Paragraphe 1 : Les droits de mutation à titre gratuit
 
-**2) La liquidation des droits de successions** 
+#### A) Les droits de succession
+
+
+##### 2) La liquidation des droits de successions 
+
+Une fois le montant de l’actif net successoral figé, il faut déterminer la part qui revient à chaque héritier. La répartition de l’actif net successoral dépend des **droits héréditaires** prévus par le Code civil, ainsi que des droits prévus dans un éventuel testament.
+
+Selon le lien de parenté avec le défunt, les héritiers peuvent être **exonérés** de droits de mutation ou bénéficier d’un **abattement**.  
+Par exemple, pour la perception des droits de mutation à titre gratuit, un **abattement de 100 000 euros** s’applique **sur la part de chacun des ascendants et de chacun des enfants**.
+
+Une fois les abattements effectués, un **barème progressif** peut être appliqué pour déterminer le montant dû.
+
+  
+##### 3) Le paiement des droits de successions
+
+
+Les droits de succession doivent être acquittés **avant l’exécution de la formalité d’enregistrement**. À défaut, aucun enregistrement ne peut avoir lieu.
+
+Ces droits sont généralement payés **par le notaire**, et **déduits du montant de la succession**, en même temps que les **frais de notaire**.
+
+Ils peuvent être acquittés **par tous moyens**, y compris **par dation en paiement**.
 
   
 
-Une fois le montant de l’actif net successoral figé, il faut déterminer l’appart qui est du a chaque héritiers, la répartition de l’actif net successoral, dépend des droits héréditaire prévus par le Cv et des droits prévus par un éventuelle testament. En effet selon le lien de parenté avec le défunt les héritiers peuvent etre exonéré de droit de mutation ou bénéficier d’un abattement. Par exemple pour la perception des droits de mutation a titre gratuit il y a un abattement de 100 000 euros sur la part de chacun des ascendant et chacun des enfants. Une fois effectué les abattements, un barème progressif peut etre alors employé. 
-
-  
-
-**3) Le paiement des droits de successions**
-
-  
-
-LEs droits de successions, doivent etre acquittés avant l’exécution de la formalité, a défaut aucun enregistrement ne peut avoir lieu, les droits sont payé par le notaire et déduit du montant de la succession en même temps que les frais de Notaire. Ces droits peuvent etre acquitté par tous moyens et notamment la dation en paiement. 
-
-  
-
-**B) Les droits de donation** 
+#### B) Les droits de donation 
 
   
 
@@ -42,7 +50,7 @@ Une donnation permet a une personne donc le donateur, de transmettre de son viva
 
   
 
-1. **Les conditions d’exigibilité des droits de donation** 
+##### 1. **Les conditions d’exigibilité des droits de donation** 
 
   
 
@@ -76,91 +84,108 @@ L’acceptation du donataire Art 932« la donation doit etre expressément acce
 
   
 
-**2) L’assiette des droits de donation** 
+##### 2) L’assiette des droits de donation 
 
-  
+La loi réserve à certains membres de la famille, appelés **héritiers réservataires**, une partie du patrimoine dont ils **ne peuvent pas être privés**. En effet, les membres de la famille qui ne peuvent jamais être totalement exclus d’une succession sont les **descendants** (enfants et petits-enfants) et, en leur absence, le **conjoint survivant**. Ces héritiers ont droit à une **part minimale** dans la succession ou dans la donation.
 
-La loi réserve  a certain membre de la famille les héritiers réservataire une partie du patrimoine dont elles ne peuvent pas etre privés. En effet les membres de la famille qui ne peuvent jamais etre totalement exclu d’une succession ce sont les descendant enfant et petit enfant, et en leur absence le conjoint, et donc ils ont droit a une part minimum dans la donation. Lorsque le donateur a des descendant, la part maximal qu’il puisse donner varie en fonction du nombre d’enfant. Donc c’est a dire que la moitié en présence d’un enfant, les deux tiers en présence des deux enfants, 3/4 de son patrimoine s’il a trois enfants ou plus. Le reste du patrimoine constitue la quantité disponible qui peut etre attribué a un bénéficiaire librement choisi. Lorsque le donateur n’a pas d’héritier réservataire, lorsque’il n’a aucun héritier, alors il dispose librement de ces biens, les autres membres de sa famille peuvent etre exclus de toute donation. Certain dont sont exonéré du paiement de droit d’exonération, par exemple il y a les dons familiaux de sommes d’argent consentis au profit d’un enfant, sont exonéré de droit de mutation a titre gratuit dans la limite de 31860 euros tous les 15 ans sans payer les droits de donation. 
+Lorsque le donateur a des descendants, la part maximale qu’il peut librement donner varie en fonction du nombre d’enfants :
 
-  
+- **La moitié** de son patrimoine s’il a **un enfant**
+    
+- **Les deux tiers** s’il a **deux enfants**
+    
+- **Les trois quarts** s’il a **trois enfants ou plus**
+    
 
-**3) La liquidation des droits de donation** 
+Le **reste du patrimoine** constitue la **quotité disponible**, c’est-à-dire la part qui peut être transmise librement à un bénéficiaire choisi par le donateur.
 
-  
+Lorsque le donateur **n’a pas d’héritier réservataire**, c’est-à-dire **aucun enfant ni conjoint survivant**, il dispose **librement de l’ensemble de ses biens**. Les autres membres de la famille peuvent alors **être totalement exclus de toute donation**.
 
-Si les succesions entre époux et paxé, enrevanche les époux ne sont pas exonéré, seul les abattements sont prévus, le montant des abattements pour les membres de la famille est similaire pour les membres de la succession, il y a donc plusieurs réduction d’impôt prévus par le législateur. 
+Certains dons sont **exonérés du paiement de droits de mutation à titre gratuit**.  
+Par exemple, les **dons familiaux de sommes d’argent** consentis au profit d’un **enfant, d’un petit-enfant ou d’un arrière-petit-enfant**, bénéficient d’une exonération **à hauteur de 31 865 euros tous les 15 ans**, **sans paiement de droits de donation**.
 
-  
+##### 3) La liquidation des droits de donation 
 
-**4) Le paiement des droits de donation** 
+Contrairement aux **successions entre époux et partenaires de PACS**, qui sont **exonérées de droits de mutation**, les donations **entre époux ne bénéficient pas d’une exonération totale**. Seuls des **abattements** sont prévus par la loi.
 
-  
+Le montant des abattements applicables en matière de donation entre membres de la famille est **identique à celui prévu pour les successions**.  
+En plus des abattements, **plusieurs réductions d’impôt** sont prévues par le législateur, selon l’âge du donateur, la nature du bien donné, ou encore la situation du donataire (handicap, nombre d’enfants, etc.).
 
-Les droits de donation doivent etre réglés au moment de la déclaration du don. Ils peuvent etre réglés par le donateur ou le donataire ou directement par un notaire, et la dation en paiement est possible. 
+##### 4) Le paiement des droits de donation 
 
-  
+Les droits de donation doivent être **acquittés au moment de la déclaration du don**.
 
-### **§2 Les droits de mutation a titre onéreux** 
+Ils peuvent être réglés **par le donateur, par le donataire, ou directement par le notaire** chargé d’enregistrer l’acte. Le paiement peut s’effectuer par **tous moyens légaux**, y compris par **dation en paiement**, dans les conditions prévues par le **Code général des impôts**.
 
-  
+### Paragraphe 2 : Les droits de mutation a titre onéreux 
 
-Ces droits sont une imposition occasionnel puisqu’ils s’appliquent lors de la mutation d’un bien ou d’un droit. Ils sont acquittés par l’acquéreur, et ils sont largement critiqué puisqu’ils constituent une entrave a la circulation des biens et plus généralement un obstacle a la modernisation économique, la modification, la transmission d’un bien ou d’un droit moyennant une contrepartie fournit par le nouveau pocesseur a l’ancien. Les titres de mutation a titrer onéreux sont des droits perçus par les rentes immobilière, dans des cas spécifique la vente des meubles peut etre taxé.
+Les droits de mutation à titre onéreux sont une **imposition occasionnelle**, puisqu’ils s’appliquent **lors de la mutation d’un bien ou d’un droit**. Ils sont **acquittés par l’acquéreur**. Ces droits sont **largement critiqués**, car ils sont perçus comme une **entrave à la circulation des biens** et, plus généralement, comme **un obstacle à la modernisation économique**. En effet, ils s’appliquent lors de la **modification ou de la transmission d’un bien ou d’un droit**, moyennant **une contrepartie fournie par le nouveau possesseur à l’ancien**.
 
-  
+Les droits de mutation à titre onéreux sont généralement perçus **lors de ventes immobilières**, mais dans certains cas spécifiques, **la vente de meubles** peut également être taxée.
 
-#### **A) La vente d’immeuble** 
+#### A) La vente d’immeuble 
 
-  
+  La vente immobilière est une **convention** par laquelle le vendeur **transfère la propriété de son immeuble** moyennant un **prix**. En vertu de l’**article 683 du Code général des impôts (CGI)** :
 
-La vente immobilière c’est une convention par laquelle le vendeur transfère la propriété de son immeuble moyennant un prix. En vertu de l’art 683 du CGI « les actes civiles et judiciaire translative de propriété ou d’usufruit a titre onéreux sont assujettis a une taxe de publicité foncière ou a un droit d’enregistrement. 
+> _« Les actes civils et judiciaires translatifs de propriété ou d’usufruit à titre onéreux sont assujettis à une taxe de publicité foncière ou à un droit d’enregistrement. »_
 
-  
+S’agissant des **conventions taxables**, les droits de vente d’immeuble sont applicables **à toutes les conventions à titre onéreux**, **quel que soit le nom donné par les parties**.
 
-Concernant les conventions taxables, le droit de vente d’immeuble est applicable a toute les conventions a titre onéreux quelque soit le nom donné par les parties. Deux conditions sont nécessaire pour que la vent soit taxable, d’une part la vente doit etre parfaite ce qui implique qu’il doit y avoir un accord des parties sur la chose et sur le prix, si l’une des contions n’est pas remplie, l’acte est imparfait et n’est pas soumis aux formalités, d’autre part la vente doit etre certain et actuel. Les droits ne peuvent etre perçus tant que subsiste une incertitude sur la réalisation de la mutation c’est par exemple le cas des ventes sous conditions suspensives. Concernant les biens imposables, sont imposables les mutations de tous les biens qui ont la qualification ‘immeuble selon le code civil, il peut s’agir des immeubles parr nature, des immeubles par destination, comme par exemple des biens meubles par leurs nature affecté par les propriétaires de l’immeuble au service de l’exploitation de cet immeuble, par exemple du matériel d’usine, des immeubles par determination de la loi, tel que certaine redevance. Lorsque’une vente porte a la fois sur des meubles et des immeubles le droit d’enregistrement est perçus sur la totalité du prix au taux fixé pour les immeubles a moins qu’un prix particulier ne soit stipulé pour les meubles qui devront etre désigné article par article dans le contrat. Ainsi les cessions d’immeuble donne lieu au paiement des droits d’enregistrement et ou la taxe de publicité foncière, donc sauf exeption les cessions donne lieu au paiement des deux prélèvements et donc les droit de mutations a titre onéreux regroupe la taxe de publicité foncière et les droits d’enregistrement, certaine mutation de propriété d’immeuble a titre onéreux sont exonérés de droit denregistrement, soit de plein droit ou soit sur délibération du conseil départementaux, et donc chaque année les conseils départementaux fixe le tarif sur le taxe de publicité foncière ou des droits d’enregistrement exigible sur des titres onéreux d’immeuble ou de droit immobilier. 
+Deux conditions sont nécessaires pour que la vente soit taxable :
 
-  
+1. La vente doit être **parfaite**, ce qui implique un **accord des parties sur la chose et sur le prix**. Si l’une des conditions fait défaut, l’acte est **imparfait** et **non soumis aux formalités**.
+    
+2. La vente doit être **certaine et actuelle**. Les droits **ne peuvent être perçus tant qu’il subsiste une incertitude** sur la réalisation de la mutation. C’est le cas, par exemple, des **ventes sous condition suspensive**.
+    
 
-#### **B) La vente de meuble** 
+Concernant les **biens imposables**, sont visées **toutes les mutations de biens ayant la qualification d’immeubles** selon le Code civil. Cela comprend :
 
-  
+- Les **immeubles par nature** ;
+    
+- Les **immeubles par destination**, comme les biens meubles affectés par le propriétaire à l’exploitation de l’immeuble (ex. : matériel d’usine) ;
+    
+- Les **immeubles par détermination de la loi**, tels que certaines redevances.
+    
 
-Sont mobilier les droits réels portant sur des meubles, les droits réels portant sur des meubles et les droits personnels s’exerçant sur une personne tel que les droits de créance action et part sociale. En théorie la vent ede bien meuble est imposé au titre de la TVA. Cependant certaine ventes ne le sont pas et donne lieu au paiement de droit d’enregistrement, leur régime fiscal est défini par le législateur. Art 735 du CGI. 
+Lorsque la vente porte **à la fois sur des meubles et des immeubles**, le droit d’enregistrement est **perçu sur la totalité du prix** au taux applicable aux immeubles, **sauf si un prix distinct a été stipulé pour les meubles**, lesquels doivent être **désignés article par article dans le contrat**.
 
-  
+Ainsi, **les cessions d’immeubles** donnent lieu au **paiement de droits d’enregistrement et/ou d’une taxe de publicité foncière**. Sauf exception, les cessions **entraînent donc le paiement des deux prélèvements**, regroupés sous la catégorie des **droits de mutation à titre onéreux**.
 
-##### 1. **Les ventes de fonds de commerce** 
+Certaines mutations de propriété immobilière à titre onéreux peuvent être **exonérées de droits d’enregistrement**, soit **de plein droit**, soit **sur délibération du conseil départemental**. Chaque année, les **conseils départementaux fixent le taux** applicable à la taxe de publicité foncière ou aux droits d’enregistrement exigibles sur les mutations à titre onéreux portant sur des **biens ou droits immobiliers**.
 
-  
+#### B) La vente de meuble 
 
-Un fond de commerce se compose de deux catégorie d’élément, il y a d’abord les elemenst incorporel, comme l’enseigne le nom commerciale et clientèle et d’autre part des elemenst coporel, c’est a dire les meubles outils marchandise etc. En revanche le fond de commerce n’inclut pas les mus commerciaux ou encore les dettes et créances potentiellement rattaché au fond. Au moment de la signature de l’acte l’acheteur doit enregistrer l’acte de vente au près du service des impôts des entreprises, afin de déterminer le montants des enregistrement qui sera du, le taux des droits d’enregistrement est prévus a l’articule 719 du CGI. 
+Sont considérés comme **meubles** les **droits réels portant sur des meubles**, ainsi que les **droits personnels s’exerçant sur une personne**, tels que les **droits de créance**, **actions** ou **parts sociales**. En théorie, la **vente de biens meubles** est **soumise à la TVA**. Cependant, certaines ventes **échappent à cette taxation** et donnent lieu au **paiement de droits d’enregistrement**. Leur **régime fiscal** est défini par le législateur à l’**article 735 du Code général des impôts (CGI)**.
 
-  
+##### 1) Les ventes de fonds de commerce 
 
-##### **2) La cession de droit sociaux** 
+Un **fonds de commerce** se compose de **deux catégories d’éléments** :
 
-  
+- Des **éléments incorporels**, comme **l’enseigne**, le **nom commercial** et la **clientèle** ;
+    
+- Des **éléments corporels**, c’est-à-dire les **meubles**, **outils**, **marchandises**, etc.
+    
 
-Les droits sociaux renvois aux actions et aux parts sociales, c’est l’article 726 du CGI qui varie ces cessions dont les taux varient entre 0,1 et 5 %. 
+En revanche, le **fonds de commerce** **n’inclut pas** les **murs commerciaux**, ni les **dettes** ou **créances** éventuellement rattachées au fonds.
 
-  
+Au moment de la signature de l’acte, **l’acheteur doit enregistrer l’acte de vente** auprès du **service des impôts des entreprises**. Pour déterminer le **montant des droits d’enregistrement** dus, il faut se référer à l’**article 719 du CGI**, qui prévoit le **taux applicable** à ces opérations.
 
-##### **3) Les ventes de meubles** 
+##### 2) La cession de droit sociaux 
 
-  
+Les **droits sociaux** renvoient aux **actions** et **parts sociales**. C’est l’**article 726 du CGI** qui encadre ces cessions, lesquelles sont soumises à des **droits d’enregistrement** dont le **taux varie entre 0,1 % et 5 %**, selon la nature des titres cédés.
 
-Les ventes de meubles ne sont en principe pas soumise au droit et enregistrement, les ventes de biens publics aux enchères sont asujettie sont soumiseent a une proportinalité en vertu de l’Arr 3 du CGI. 
+##### 3) Les ventes de meubles 
 
-  
+Les **ventes de meubles** ne sont **en principe pas soumises aux droits d’enregistrement**. Toutefois, **les ventes de biens publics aux enchères** sont **assujetties à une imposition proportionnelle**, en vertu de l’**article 735 du CGI**.
 
-## **Section 2 La taxation de la détention du patrimoine** 
 
-  
+## Section 2 : La taxation de la détention du patrimoine 
 
 Cette famille d’import est héterogene puisqu’elle impose… Il y a une série d’imposition au 19 em siècle a savoir la fiscalité directe et locale. 
 
   
 
-### **§1 L’impôt sur la fortune immobilière (l’IFI)** 
+### Paragraphe 1 : L’impôt sur la fortune immobilière (l’IFI) 
 
   
 
