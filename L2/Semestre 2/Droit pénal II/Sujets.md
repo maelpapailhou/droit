@@ -17,7 +17,7 @@
 - **Les troubles psychiques ou neuropsychiques, sources d’irresponsabilité pénale ?**
 - **Les conditions de punissabilité de la complicité.**
 ### 2020-2021 S1
-- La légitime défense des personnes, une cause d’irresponsabilité pénale illusoire ?
+- **La légitime défense des personnes, une cause d’irresponsabilité pénale illusoire ?**
 - La répression des « cerveaux » en droit pénal français est-elle satisfaisante ?
 ### 2020-2021 S2
 - Existe-t-il une responsabilité pénale du fait d’autrui ?

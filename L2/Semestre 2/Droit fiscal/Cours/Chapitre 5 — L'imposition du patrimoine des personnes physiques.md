@@ -18,9 +18,102 @@ Cette formalité obligatoire est assortie du paiement de droits d’enregistreme
 
 ### Paragraphe 1 : Les droits de mutation à titre gratuit
 
+Les mutations à titre gratuit sont celles qui ne comportent, en principe, **aucune contrepartie** fournie par leur bénéficiaire. Lorsqu’elles résultent de la volonté des intéressés, elles procèdent d’une **intention de libéralité** : c’est le cas des **donations**. Elles peuvent également **résulter du décès** d’une personne, auquel cas il s’agit d’une **succession**.
+
+Les droits perçus par l’État au titre des mutations à titre gratuit ne représentent **qu’environ 1 % des recettes fiscales** de l’État, mais ils font **toujours l’objet de débats**, que ce soit pour les donations ou les successions.
+
+Les partisans d’une **augmentation des droits de donation et de succession** estiment qu’un **montant élevé** permettrait de **lutter contre la perpétuation des inégalités sociales** à travers les héritages, tout en **préservant la volonté d’entreprendre** chez les héritiers issus de familles fortunées.
+
+À l’inverse, les défenseurs d’un **statu quo** sur le montant de ces droits font valoir que le **patrimoine transmis** permet aux parents d’**aider leurs enfants et petits-enfants** à **atteindre un niveau de vie équivalent** au leur.
 #### A) Les droits de succession
 
+La **succession** est déclenchée par le **décès** d’une personne que l’on appelle le _**de cujus**_, abréviation de l’expression latine signifiant **« celui dont on règle la succession »**. L’utilisation de cette locution par les **praticiens du droit**, notamment les **notaires**, permet d’**éviter les répétitions** du mot **défunt** dans les actes juridiques.
 
+Trois étapes sont nécessaires pour **déterminer la somme due par les héritiers** :
+
+1. La **détermination de l’actif successoral**
+2. La **liquidation des droits de succession**
+3. Le **paiement des droits de succession**
+
+##### 1) La détermination de l’actif successoral
+
+**Actif net successoral = actif brut - passif déductible**
+
+Lorsqu’on **reçoit un héritage**, il est obligatoire d’établir une **déclaration de succession**, laquelle doit recenser **l’intégralité des biens meubles et immeubles** constituant le **patrimoine du défunt** au jour de son décès. Cette déclaration permet de déterminer **l’actif brut successoral**.
+
+Elle doit également mentionner les **dettes du défunt**, qui constituent le **passif successoral**. Ce passif est ensuite **déduit de l’actif brut**, afin d’obtenir **l’actif net successoral**, sur lequel seront calculés les **droits de succession**.
+
+###### a) L’actif brut successoral
+
+Les héritiers sont tenus de **souscrire une déclaration de succession** à envoyer aux services fiscaux. Ce sont ces derniers qui déterminent si des **droits de succession** doivent être acquittés. En principe, cette déclaration doit être déposée dans un **délai de six mois suivant le décès**, si la personne est décédée **en France métropolitaine**. Ce délai est **porté à un an** dans tous les autres cas.
+
+À **La Réunion** et dans **les autres départements d’outre-mer**, les délais sont en principe les mêmes. Toutefois, s’agissant de **La Réunion**, **le délai est porté à deux ans** à compter du décès lorsque la personne est décédée ailleurs que **Madagascar**, **Maurice**, **l’Europe** ou **l’Afrique**.
+
+Cette déclaration doit recenser **l’intégralité des biens meubles et immeubles** constituant **le patrimoine du défunt au jour de son décès**, c’est-à-dire **l’actif successoral**. Le recensement s’effectue à la **valeur vénale réelle des biens**. Ce travail estimatif est effectué avec **l’aide d’un notaire**.
+
+Si l’administration fiscale suspecte une **sous-évaluation des biens**, elle peut recourir à une **procédure de rectification contradictoire**, prévue à **l’article L. 17 du Livre des procédures fiscales**.
+
+- **Les biens imposables**
+
+En principe, **tous les biens sont imposables**, bien que des **exceptions existent**. La nature des biens imposables varie selon le **domicile fiscal du défunt** au moment de son décès :
+
+- **Si le de cujus avait son domicile fiscal en France**, doivent être déclarés :
+    
+    - Les biens meubles (mobilier, fonds de commerce, sommes d’argent, valeurs mobilières),
+    - Les biens immeubles.
+
+- **Si le de cujus n’avait pas son domicile fiscal en France**, les biens à déclarer dépendent du **domicile fiscal du bénéficiaire** :
+    
+    - Si ce dernier est **domicilié fiscalement en France au jour du décès** et l’a été pendant **au moins six ans au cours des dix années précédant le décès**, alors **tous les biens** sont imposables en France.
+    - Si le bénéficiaire est **domicilié hors de France**, alors **seuls les biens situés en France** sont imposables.
+
+- **Les biens exonérés**
+
+Plusieurs **exonérations** sont prévues par le **Code général des impôts** :
+
+- Les biens légués aux **collectivités publiques** exerçant des **missions d’intérêt général**.
+- Les successions des **défunts morts pour la France**, notamment les **militaires** ou **victimes d’attentats terroristes**.
+- Les **terres agricoles**, exonérées à hauteur de **trois quarts de leur valeur**.
+- Les **biens historiques** et **œuvres d’art**, pour des motifs de **protection du patrimoine culturel**.
+
+Enfin, **l’assurance-vie** bénéficie d’un **régime dérogatoire**. Il s’agit d’un placement financier permettant au souscripteur de transmettre un capital à un bénéficiaire désigné en cas de décès. **Le capital ou la rente issus du contrat d’assurance-vie n’entrent pas dans l’actif successoral**, ce qui constitue **un avantage fiscal majeur**, car **ils sont totalement exonérés de droits de succession**.
+
+###### b) Le passif déductif
+
+L’héritier doit recenser tous les biens du défunt ; cependant, cet actif peut être **altéré par un passif**. En effet, les héritiers doivent **recenser les dettes du défunt**, et ce **passif successoral** sera **déduit de l’actif brut successoral** afin d’obtenir **l’actif net successoral**.
+
+**Seules les dettes déductibles** peuvent être prises en compte. Pour qu’une dette soit **déductible de l’actif successoral**, **trois conditions** doivent être réunies :
+
+- La dette doit **exister à la charge personnelle du défunt**.
+    
+- Elle doit **exister au jour du décès**.
+    
+- Elle doit être **justifiée par tout mode de preuve compatible avec la procédure écrite**.
+    
+
+Cette première condition **exclut les dettes liées à la succession**, telles que **les frais de partage** ou **les droits de succession** eux-mêmes.
+
+Par ailleurs, **les frais de funérailles** n’étaient initialement **pas déductibles**. Toutefois, le **Code général des impôts** a assoupli cette règle : **par dérogation**, les **frais de funérailles** peuvent être **déduits à hauteur d’un plafond de 1 500 €**, **sans justification exigée** à l’appui de cette déduction.
+
+La dette doit **exister au jour du décès**, condition logique puisque c’est **à cette date que s’ouvre la succession**. Une dette **litigieuse** ou **soumise à une condition suspensive** est jugée **incertaine** et ne peut donc **être déduite**. À l’inverse, certains frais sont **déductibles sans limitation**, comme **les frais de dernière maladie**. Il en va de même pour **les impôts mis en recouvrement après le décès**, dès lors qu’ils se rapportent à la période antérieure.
+
+Enfin, la dette doit être **justifiée par tout mode de preuve compatible avec la procédure écrite**. Cette **justification** peut résulter :
+
+- D’un **acte notarié**,
+    
+- D’un **acte sous seing privé**,
+    
+- D’un **jugement**,
+    
+- De **factures** ou d’autres documents permettant de **constater clairement l’existence d’une dette**.
+
+Dans certains cas, des **présomptions graves, précises et concordantes** peuvent suffire à établir la réalité de la dette.
+
+**Certaines dettes ne sont pas déductibles**, notamment celles **présumées fictives** ou **déjà remboursées** :
+
+- **Les dettes prescrites**, qui ne peuvent plus être réclamées par le créancier, ne sont **pas déductibles**.
+    
+- De même, **les dettes mentionnées dans un testament** sont **présumées fictives**, sauf si elles sont **prouvées par un acte authentique**.
 ##### 2) La liquidation des droits de successions 
 
 Une fois le montant de l’actif net successoral figé, il faut déterminer la part qui revient à chaque héritier. La répartition de l’actif net successoral dépend des **droits héréditaires** prévus par le Code civil, ainsi que des droits prévus dans un éventuel testament.
@@ -33,56 +126,61 @@ Une fois les abattements effectués, un **barème progressif** peut être appliq
   
 ##### 3) Le paiement des droits de successions
 
-
 Les droits de succession doivent être acquittés **avant l’exécution de la formalité d’enregistrement**. À défaut, aucun enregistrement ne peut avoir lieu.
 
 Ces droits sont généralement payés **par le notaire**, et **déduits du montant de la succession**, en même temps que les **frais de notaire**.
 
 Ils peuvent être acquittés **par tous moyens**, y compris **par dation en paiement**.
 
-  
-
 #### B) Les droits de donation 
-
   
+Une **donation** permet à une personne, appelée **le donateur**, de transmettre **de son vivant**, **de manière irrévocable et gratuite**, un bien lui appartenant à une autre personne, appelée **le donataire**, qui doit **accepter le bien**.
 
-Une donnation permet a une personne donc le donateur, de transmettre de son vivant de manière irrévocable et gratuitement, un bien qu’il lui appartient a une autre personne a un donataire qui accepte le bien. La loi exige la rédaction d’un acte notarié pour la validation, en effet sans acte authentique la donation n’est pas valable, cela permet la protection des parties en particliuier du donateur. 
+La loi exige la rédaction **d’un acte notarié** pour que la donation soit **valide**. En effet, **sans acte authentique**, la donation **n’est pas valable** : cette exigence vise à **protéger les parties**, en particulier **le donateur**.
 
-  
+##### 1) Les conditions d’exigibilité des droits de donation 
 
-##### 1. **Les conditions d’exigibilité des droits de donation** 
+La **définition de la donation** est donnée à l’**article 894 du Code civil**.  
+L’exigibilité des **droits de donation** est soumise à **trois conditions cumulatives** :
 
-  
+- Le **contrat doit être gratuit**.
+    
+- Le **donateur doit être dessaisi** des biens donnés.
+    
+- La **donation doit être expressément acceptée** par le donataire.
+    
 
-La définition de la donation est donné a l’Art 894 du Cv. Cette exigibilité est soumise a trois conditions. Le contrat doit etre gratuit, le donateur doit etre dessaisie des biens donnés, et enfin la donnation doit etre expressément accepté par le donataire. 
+**Première condition : la gratuité du contrat**
 
-  
+Un acte ne peut être qualifié de **donation** que s’il **révèle l’intention du donateur** de **consentir une libéralité** au profit du donataire.
 
-Premiere condition 
+Même si des **charges** sont imposées au donataire, le contrat **conserve son caractère gratuit**, dès lors que ces charges **sont inférieures** à la valeur des biens transmis.
 
-  
+- **Si les charges sont égales à la valeur des biens**, l’acte est alors **une vente déguisée**.
+    
+- **Si les charges sont supérieures**, on considère qu’il y a **donation en sens inverse**, du **prétendu donataire** au **prétendu donateur**.
+    
 
-Un acte peut etre qualifié de donation que si il révèle l’intention de donateur de consentir une libéralité au donataire. Bien qu’il y ait des charges elle n’enlève pas au contrat son caractère gratuit des lors qu’elles sont inférieur a la valeur des biens qui y sont donné. En effet si les charges sont d’une valeur égale a celle des biens donné, le contrat s’analyse en une vente. Si les charges sont supérieur il y a une donation en sens inverse du prétendu donataire au prétendu donateur. Il faut savoir si la donation a des charges, qui constitue ou non des titres gratuits, relevé de l’appréciation souveraine des juges. 
+L’appréciation du caractère **gratuit ou non** de la donation **relève de la souveraineté des juges du fond**.
 
-  
+**Deuxième condition : le dessaisissement du donateur**
 
-  
+Pour qu’une donation soit **taxable**, elle doit entraîner un **dessaisissement actuel et irrévocable du donateur**.
 
-2eme condition 
+- Cela signifie que le donateur **ne peut plus disposer du bien** après la donation.
+    
+- Toute clause de **réversibilité** ou de **réappropriation** par le donateur **fait obstacle à l’exigibilité** des droits.
+    
 
-  
+**Troisième condition : l’acceptation par le donataire**
 
-Le dessaisissent du donateur pour qu’une donation soit taxable, il faut qu’elle entraine le daissaisisement actuel et irrévocable du donateur. 
+Conformément à l’**article 932 du Code civil** :
 
-  
+> « La donation doit être expressément acceptée par le donataire ; à défaut d’acceptation, il n’y a que **simple offre de donation**. »
 
-3eme condition 
+L’**acceptation doit être formalisée** dans un acte authentique pour rendre la donation **parfaitement constituée**.
 
-  
-
-L’acceptation du donataire Art 932« la donation doit etre expressément accepté par le donataire, a défaut d’acceptation il y a seulement offre de donation ». Les droits sont perçus sur la valeur des biens a la même date. 
-
-  
+Les droits de donation sont **calculés sur la valeur des biens transmis**, **au jour de la donation**, telle qu’elle est mentionnée dans l’acte.
 
 ##### 2) L’assiette des droits de donation 
 
@@ -181,108 +279,152 @@ Les **ventes de meubles** ne sont **en principe pas soumises aux droits d’enre
 
 ## Section 2 : La taxation de la détention du patrimoine 
 
-Cette famille d’import est héterogene puisqu’elle impose… Il y a une série d’imposition au 19 em siècle a savoir la fiscalité directe et locale. 
-
-  
+Cette famille d’impôts est hétérogène, puisqu’elle impose la détention du patrimoine selon différentes modalités. Elle résulte d’une série d’impositions apparues au XIXᵉ siècle, notamment dans le cadre de la fiscalité directe et locale.
 
 ### Paragraphe 1 : L’impôt sur la fortune immobilière (l’IFI) 
 
+L’impôt sur les grandes fortunes a été instauré en France en 1982 sous la première cohabitation. Il a ensuite été supprimé en 1986 à l’initiative de Jacques Chirac. François Mitterrand a rétabli cette imposition sous le nom d’**impôt de solidarité sur la fortune (ISF)**, destiné notamment à financer le **revenu minimum d’insertion (RMI)**. Nicolas Sarkozy n’a pas supprimé l’ISF mais a institué en 2012, à la fin de son mandat, une **contribution exceptionnelle sur les hauts revenus**.
+
+Après son élection, **Emmanuel Macron** a remplacé l’ISF par un impôt ciblé sur la seule richesse immobilière : l’**impôt sur la fortune immobilière (IFI)**, en vigueur depuis le **1ᵉʳ janvier 2018**. Il concerne les **personnes physiques** détenant un patrimoine immobilier net supérieur à **1,3 million d’euros**.
+
+La France fait partie des rares pays d’Europe à maintenir une fiscalité sur la fortune, aux côtés de la **Grèce**, de la **Suisse** et de l’**Espagne**, alors que la majorité des États européens ont supprimé ce type d’imposition (comme l’**Autriche** en 1993). Ce sujet fait l’objet de nombreux débats sur son efficacité et sa justice fiscale. Peu de contribuables sont concernés par l’IFI, qui rapporte environ **5 milliards d’euros**, soit **à peine 2 % des recettes fiscales** de l’État.
+
+L’IFI peut être analysé en trois points.
+
+#### A) Le champ d’application de l’IFI
   
+##### 1) Les personnes imposables
 
-L’impôt sur les grandes fortunes il est apparut en France en 1982 sous la première cohabitation le législateur va le supprimer en 1986. Jacque Chirac qui va oeuvrer pour la suppression de cet impôt, Francois Mitterand rétabli cette imposition, mais appelé l’impôt de solidarité sur la fortune, l’ISF cet impôt est financé pour le RMI. Sarkozi ne va toucher a l’ISF et il a créé en fin de mendat la contribution exceptionnel sur les hauts revenu en 2012. Apres son élection Macron il a prévus de transformer la fortune sur l’impôt immobilier. Depuis le 1er janvier 2018 l’ISF a était supprimé au profit de l’IFI, c’est un impôt pour personnes physiques qui détiennent un patrimoine immobilier supérieur a 1,3 M d’euros. La France reste l’un des derniers qui taxe la fortune, avec notamment la Grèce la Suisse et l’Espagne. Presque tous les pays européens ont supprimé l’imposition de la fortune, autrice en 1993 et donc en France il y a des débats sur la pertinence ou la suppression de cet impôts. Peut de contribuable y sont assujetti, il rapporte environ 5 milliard d’euros a la France ce qui représente a peine 2% des recettes fiscales de l’Etat. On va aborder l’IFI en 3 points. 
+Selon l’**article 964 du Code général des impôts (CGI)**, seules les **personnes physiques** sont soumises à l’IFI. Les **personnes morales** en sont exclues.
 
-  
+Deux situations sont à distinguer :
 
-1. **Le champ d’application de l’IFI** 
+- Les personnes ayant leur **domicile fiscal en France** sont imposées sur l’ensemble de leurs **biens immobiliers situés en France et à l’étranger** (obligation fiscale illimitée).
+    
+- Les personnes **domiciliées à l’étranger** sont imposées **uniquement sur les biens immobiliers situés en France** (obligation fiscale limitée).
 
-  
+##### 2) Les biens imposables
 
-2. **Les personnes imposables** 
 
-  
+L’IFI concerne les patrimoines immobiliers nets **supérieurs à 1,3 million d’euros**. Tous les **biens immobiliers** doivent être **évalués à leur valeur vénale** au **1ᵉʳ janvier de l’année d’imposition**, c’est-à-dire le prix auquel le bien aurait pu être vendu sur le marché.
 
-Ces personnes imposables sont identifié par ‘art 1164 du CGI, seul les personnes physique sont soumises a l’IFI des lors qu’elle dispose a un patrimoine de valeur, les personnes morales ne sont pas soumises a cet impôt. Les législateurs distingues deux cas, les personnes physiques et de leurs domicile fiscal en France elles sont taxé en dehors de leurs biens, elles sont donc soumise a une obligation fiscale illimité, les personnes n’ayant pas de domicile fiscal en France elle sont soumises a une obligation fiscale limitée. 
+Sont notamment imposables :
 
-  
+- Les **immeubles bâtis ou non bâtis**,
+    
+- Les **droits immobiliers**,
+    
+- Les **parts de sociétés** détenant de l’immobilier.
+    
 
-#### 2) Les biens imposables
+Certains biens sont **exonérés**, comme les **biens professionnels** nécessaires à l’exercice d’une activité à titre individuel ou dans le cadre d’une société.
 
-  
+#### B) La liquidation de l’IFI
 
-Pour etre imposable a l’IFI, il faut détenir un patrimoine a plus de 1,3 M d’euros, tous les biens immobiliers sont soumis a l’IFI et donc doivent etre évalué a leur valeur vénale, c’est a dire le bien aurait pu etre vendu sur le marché au premier janvier de l’année. Par exemple les immeubles bâtis par le propriétaire sont soumis a l’IFI, certain bien sont quand même exonéré, par exemple les biens professionnels, en effet pour ne pas pénaliser les activés économiques, le législateur  a exonéré les biens professionnels qui peut etre affecté pour une acticité professionnel, exércé a titre individuel 
+Comme pour tout impôt, il convient de déterminer une **assiette** :
 
-  
+- Celle-ci repose sur la **valeur nette du patrimoine immobilier**, c’est-à-dire la **valeur brute diminuée des dettes déductibles**.
+    
 
-**B) La liquidation de l’IFI**
+Les **dettes déductibles** sont, par exemple :
 
-  
+- Les **emprunts bancaires** contractés pour l’acquisition, la conservation ou la réparation d’un bien immobilier.
+    
 
-Comme d’habitude, il faut déterminé l’assiette, l’assiette de l’IFI elle repose sur la valeur net du mobilier global c’est a dire l’actif brut diminué des dettes au gros du patrimoine, les dettes déductibles ce sont notamment les empreints bancaire qui sont souscrit pour l’acquisition ou la conservation de biens immobilier, une fois le patrimoine net imposable identifier, l’impôt peut etre calculé, le calcul de l’IFI en tenant compte de la réduction d’impot et de la décote, il y a un barème progressif qui s’applique. 
+Une fois le **patrimoine net imposable** déterminé, l’impôt est calculé selon un **barème progressif** par tranche. Des **réductions** (notamment pour dons aux œuvres) et une **décote** peuvent également être appliquées.
 
-  
+#### C) Le paiement de l’IFI
 
-**C) Le paiement de l’IFI**
+L’IFI est un **impôt déclaratif**. Les redevables doivent **déclarer leur patrimoine immobilier** au moyen d’un formulaire spécifique, en même temps que leur déclaration de revenus.
 
-  
+La **date limite de paiement** est généralement fixée au **15 septembre**.
 
-L’IFI est un impôt déclaratif, les redevables doivent souscrire une déclaration de leur bien immobilier, elles doivent déclarer les revenus en utilisant un formulaire spécifique, et la date de paument est ainsi fixé au 15 septembre. 
+### Paragraphe 2 : Les taxes foncières locales
 
-  
+Les **collectivités territoriales** bénéficient de ressources fiscales propres, traduisant le **principe de libre administration** dans le cadre d’un **État unitaire mais décentralisé**.
 
-**§2 Les taxes foncières locales**
+Ces **impôts locaux** sont apparus à la fin du **XIXᵉ siècle** comme des **impôts additionnels** à ceux de l’État. Aujourd’hui, ils représentent **environ un tiers** des ressources de la fiscalité locale.
 
-  
+Quatre grands impôts forment la fiscalité locale directe :
 
-Les collectivités territoriales bénéficie de ressource fiscale directe qui traduise le principe de la libre adminstration dans le cadre d’un état unitaire mais décentralisé. 
+- La **taxe foncière sur les propriétés bâties**,
+    
+- La **taxe foncière sur les propriétés non bâties**,
+    
+- La **taxe d’habitation** (maintenue uniquement pour les résidences secondaires),
+    
+- La **contribution économique territoriale (CET)**.
+    
 
-  
+Dans ce cadre, seules les **taxes foncières** seront développées dans les paragraphes suivants.
 
-Ces impôts locaux sont apparue a la fin du 19eme siècle, c’était des impôts additionnels de l’Etat, ca représente un tiers des ressources de la fiscalité. Quatre impôt forme la fiscalité locale directe, les deux taxes foncière, la taxe d’habitation elle maintenu pour les résidence secondaire et la contribution économique territoriale, on va voir uniquement les taxes foncières, on va voir les principes communs gouvernant la fiscalité directe. 
+  #### A) Les principes communs gouvernant la fiscalité locale directe
 
-  
+Trois principes structurent la fiscalité locale directe :
 
-Trois principes structure la fiscalité locale directe, l’assiette de chaque impôt est la même pour chaque collectivité beneificiere
+1. L’assiette de chaque impôt est la même pour chaque collectivité bénéficiaire.
+2. Chaque collectivité fixe librement son taux d’imposition.
+3. Le recouvrement est assuré par les services fiscaux de l’État.
 
-  
 
-1. a charge de fixer son taux 2) et le recouvrement étant assuré par les services fiscaux de l’Etat 3) 
+- **1) Une assiette commune servant de base aux quatre taxes locales** 
 
-  
-
-2. **Une assiette commune** 
-
-  
-
-Ce processus part d’une valeur locative et d’un revenu théorique potentiel du bien. La valeur cadastral c’est la fiscalité, elle est utilisé avec seul ou avec d’autre élément pour le calcul de la base de chacun des calculs direct locaux, la valeur locative cadastral représente le loyer théorique annuel, que l’immeuble est sucepti$ble de produire dans des conditions normals a une date de référence, cette valeur va en donner pour donner l’assiette de l’impôt. Les changements physique de l’meuble vont etre prit en compte pour la détermination de valeur locative. 
-
-  
-
-### **2) La fixation du taux de l’impôt**
-
-  
-
-L’organe délibérant montre le montant directe des impôts locaux qu’il parait nécessaire et adéquate afin d’assurer l’équilibre de son budget, et donc le taux de chaque impôt est déterminé par chaque collectivité, elles peuvent librement fixé le taux a quelque limite près en particulier, le taux ne peut pas excéder un taux plafond qui est égale a deux fois et demi le taux nationale. 
-
-  
-
-### **3) Le recouvrement des taxes locales assurés par les services fiscaux de l’Etat** 
-
-  
-
-Ce recouvrement est assuré par des agents de la direction générale des finances publiques, le recouvrement s’établit a partir du rôle établi par la direction départemental des finances publiques. L’ensemble de ces démarches accomplit par l’Etat est rémunéré par un prélèvement pour frais de gestion réclamé a chaque contribuable au taux de 1% calculé sur les impositions mise en recouvrement. 
-
-  
-
-### **B) La taxe foncière sur les propriétés bâtis** 
-
-  
-
-Cette taxe existe depuis le premier Janvier 1994, depuis 2011, la région ne perçois plis cette taxe alors les biens imposable sont listés aux articles 1380 et 1381 du CGI, il s’agit des propriétés bâti en France certain bien sont exonéré sur certain biens. Concernant les biens permanents, sont exonéré les propriétés publiques, les immeubles diplomatiques et les bâtiments internationales ou encore les bâtiments ruraux, sont exonéré les constructions nouvelles les reconstructions ou addition de construction, sont exonérés de taxe foncière durant les deux années qui suivent leurs achèvement. Le mode de calcule de l’impôt il associe valeur cadastrale et taux voté par les collectivités, c’est un loyer annuel théorique, les taux appliqués sont voté par les collectivités territoriales, et donc l’avis d’impôt de taxe foncière est généralement disponible 3 semaines avant la date limite de paiement fixé au 15 octobre. 
+Ce processus repose sur une **valeur locative**, qui représente le **revenu théorique annuel** que l’immeuble est susceptible de produire dans des conditions normales à une **date de référence**. Cette **valeur locative cadastrale** est utilisée, seule ou en combinaison avec d'autres éléments, pour le calcul de la base des impôts directs locaux. Les **modifications physiques** de l’immeuble (extension, démolition, etc.) sont prises en compte pour la mise à jour de cette valeur.
 
   
 
-### **C) La taxe foncière sur la propriété non bâti** 
+ 2) **La fixation du taux de l’impôt par les collectivités territoriales**
 
-  
+L’organe délibérant de chaque collectivité territoriale **fixe librement le taux** de chaque impôt local afin d’assurer l’équilibre de son budget. Toutefois, cette liberté est encadrée :
 
-L’origine de cet taxe est organisé par l’art 1393 et suivant du code des impôts, la taxe foncier sur les propriété non bâti elle est du par le propriétaire ou usufruitier d’un terrain au premier janvier d’avis d’imposition, elle est encaissé par les communes et certain établissement public sur le territoire duquel le terrain est situé, les propriétés non bâti de toute nature sont imposable. Certain biens sont exonéré, concernas les exonération permanente, sont exonéré de manière permanente les propriété agricole, ou encore les terrains appartenant a certain association, notamment aux associations de mutilé de guerre ou de travail. Les propriétés boisés sont exonéré temporaire par des collectivités territoriales, le mode de liquidation et de paiement est similaire a la taxe sur les propriétés bâtis.
+- Le taux ne peut pas **dépasser un plafond**, fixé à **deux fois et demie le taux moyen national**.  
+    Chaque collectivité détermine donc un taux adapté à ses besoins financiers, dans les limites prévues par la loi.
+
+ 3) **Le recouvrement des taxes locales assuré par les services fiscaux de l’État** 
+
+Le recouvrement des impôts locaux est pris en charge par les agents de la **Direction générale des finances publiques (DGFIP)**. Il repose sur les **rôles d’imposition** établis par la direction départementale des finances publiques.  
+
+L’ensemble des démarches accomplies par l’État donne lieu à un **prélèvement pour frais de gestion**, **réclamé à chaque contribuable** au taux de **1 %**, calculé sur le montant des impositions mises en recouvrement.
+
+#### B) La taxe foncière sur les propriétés bâties 
+
+Cette taxe existe depuis le **1er janvier 1994**. Depuis **2011**, **les régions ne perçoivent plus** cette taxe. Les **biens imposables** sont énumérés aux **articles 1380 et 1381 du Code général des impôts (CGI)**. Il s’agit des **propriétés bâties situées en France**.
+
+Certains biens sont **exonérés**, notamment :
+
+- Les **propriétés publiques**,
+    
+- Les **immeubles diplomatiques**,
+    
+- Les **bâtiments internationaux**,
+    
+- Les **bâtiments ruraux** affectés à un usage agricole.
+    
+
+Les **constructions nouvelles**, **reconstructions** ou **additions de construction** sont **exonérées de taxe foncière** pendant **les deux années suivant leur achèvement**.
+
+Le calcul de la taxe associe :
+
+- La **valeur cadastrale** (loyer annuel théorique du bien),
+    
+- Le **taux voté par les collectivités territoriales**.
+    
+
+L’avis d’imposition est généralement disponible **trois semaines avant la date limite de paiement**, fixée au **15 octobre**.
+
+#### C) La taxe foncière sur les propriétés non bâties
+
+Cette taxe est organisée par l’**article 1393 et suivants du CGI**. Elle est due par le **propriétaire ou l’usufruitier** du terrain au **1er janvier** de l’année d’imposition.
+
+Elle est **encaissée par les communes** ou certains **établissements publics** sur le territoire desquels le terrain est situé.
+
+Toutes les **propriétés non bâties**, quelle que soit leur nature, sont en principe **imposables**.
+
+Certaines exonérations existent :
+
+- **Exonérations permanentes** : terres agricoles, terrains appartenant à certaines associations (ex. : associations de mutilés de guerre ou du travail).
+    
+- **Exonérations temporaires** : notamment pour les **propriétés boisées**, accordées par les collectivités territoriales.
+    
+
+Le **mode de liquidation** et de **paiement** de cette taxe est **similaire** à celui de la taxe sur les propriétés bâties.

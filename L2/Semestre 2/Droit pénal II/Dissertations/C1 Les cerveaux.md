@@ -65,7 +65,3 @@ La création d’une infraction générale d’**instigation criminelle**, sur l
 Le droit pénal français, fidèle au principe de responsabilité personnelle, appréhende classiquement le cerveau d’une infraction comme un complice, dont l’acte ne prend sens que par référence à un auteur principal. Cette logique a le mérite de la cohérence, mais elle se heurte à la complexité des entreprises criminelles contemporaines, souvent coordonnées à distance par des instigateurs invisibles.
 
 Les tentatives législatives d’ériger le cerveau en auteur, bien que marginales, signalent une **prise de conscience de l’insuffisance de la répression classique**, et nourrissent le débat doctrinal sur la nécessité de créer une figure juridique autonome de l’instigateur. Entre logique de complicité, consécration ponctuelle du rôle intellectuel et tentation d’une refondation conceptuelle, la répression des cerveaux illustre une tension fondamentale du droit pénal entre exigence de justice et fidélité à ses principes.
-
----
-
-Souhaites-tu une fiche synthétique de cette dissertation pour révision rapide, ou bien une version avec encadrés de jurisprudence et textes clés pour l’imprimer ?

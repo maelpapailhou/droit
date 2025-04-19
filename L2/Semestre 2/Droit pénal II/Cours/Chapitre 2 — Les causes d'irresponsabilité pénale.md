@@ -928,208 +928,259 @@ Enfin, la réforme a introduit une **définition légale du discernement** dans 
 Cette définition consacre l’importance du discernement dans l’évaluation de la responsabilité pénale des mineurs, tout en laissant aux juges une marge d’appréciation pour adapter la sanction à chaque situation.
 
 
-## Section 2
+## Section 2 : Les causes objectives d'irresponsabilité pénale (les faits justificatifs)
+
+Le Code pénal prévoit **trois faits justificatifs** (parfois quatre si on distingue l’ordre de la loi du commandement de l’autorité légitime) :
+
+- L’ordre de la loi et le commandement de l’autorité légitime → **article 122-4 du Code pénal**  
+- La légitime défense → **articles 122-5 et 122-6 du Code pénal**  
+- L’état de nécessité → **article 122-7 du Code pénal**
+
+Trois remarques :
+1. Ce sont des **causes objectives d’irresponsabilité pénale**. Ces causes neutralisent le texte incriminateur : **il n’y a plus d’infraction**. Elles jouent **« in rem »**, c’est-à-dire qu’elles bénéficient également au co-auteur et au complice.
+
+2. Ce sont des **causes dites « générales » d’irresponsabilité pénale**. Elles peuvent, a priori, être invoquées **quelle que soit l’infraction commise**. Mais en réalité, certaines infractions **ne pourront pas être justifiées** en raison de leur **trop grande gravité ou cruauté**. C’est par exemple le cas des **crimes contre l’humanité** ou encore de la **torture**.
+
+3. En matière de **meurtre**, c’est plus compliqué, car on **peut tuer quelqu’un pour se défendre** (dans le cadre de la légitime défense), mais cette justification est **encadrée très strictement**.
+
+### Paragraphe 1 : L'ordre de la loi et le commandement de l'autorité légitime
+
+**Article 122-4 CP** :  
+« N’est pas pénalement responsable la personne qui accomplit un acte prescrit ou autorisé par des dispositions législatives ou réglementaires.  
+N’est pas pénalement responsable la personne qui accomplit un acte commandé par l’autorité légitime, sauf si cet acte est manifestement illégal. »
+
+À première vue, l’article 122-4 décrit **deux faits justificatifs distincts** :
+
+**Alinéa 1** : vise l’hypothèse de **l’ordre ou de la permission de la loi** (au sens large) adressé directement à l’agent. Celui-ci doit exécuter l’ordre, et si cela le conduit à commettre une infraction, il sera exonéré pénalement.  
+_Exemple_ : les médecins sont tenus au secret professionnel ; s’ils révèlent des informations, ils commettent un délit (article 226-13 CP), mais la loi leur commande (impose ou autorise) parfois la révélation du secret, par exemple en cas de maladie sexuellement transmissible.
+
+**Alinéa 2** : vise l’hypothèse d’un **commandement d’une autorité légitime**.  
+Mais l’autorité légitime ne peut commander l’exécution que d’actes **conformes à la loi**. En effet, le commandement de l’autorité légitime n’est justificatif que s’il est **légal**.
+
+_Exemple_ : le juge d’instruction ne peut délivrer de mandat d’arrêt que s’il se rattache à la répression de l’infraction visée aux poursuites. Si ce mandat est délivré contre l’auteur présumé des faits, il est **légal**, et l’arrestation est **justifiée**.  
+En revanche, si ce mandat est délivré contre l’amant de la femme du juge, l’agent ne sera **pas exonéré**.
+
+Ainsi, **l’article 122-4** ne prévoit en réalité **qu’un seul fait justificatif** : l’**ordre de la loi**, qui peut être exécuté directement ou par l’intermédiaire d’un commandement.
+
+#### A) Le champ d'application de l'article 122-4 du Code pénal
+
+Pour que l’agent puisse bénéficier de l’article 122-4, il doit **exister une norme justificative**. L’alinéa 1 précise quelles sont les normes qui justifient l’infraction.
+
+Il y a un triple point de vue :
+
+- Quel est l’objet de la norme ?
+- Quelles sont les sources de la norme ?
+- Quelle est la nature de la norme ?
+
+##### 1) L'objet de la norme justificative
+
+Cet objet est expressément défini à l’article 122-4 al.1 : il doit s’agir d’une prescription ou d’une autorisation, que ce soit de manière explicite ou implicite.  
+Exemples :
+
+- **Prescription implicite** : article 223-6 al. 2 du Code pénal (délit d’omission de porter secours). Si, pour porter secours à une personne évanouie dans une maison en feu, un pompier est obligé de défoncer une porte, il ne peut pas être condamné pour violation de domicile ou destruction volontaire d’un bien.
+    
+- **Prescription explicite** : article 226-14 CP qui impose ou autorise la révélation de certains secrets professionnels.
+    
+- **Autorisation explicite** : article 73 CPP — en cas de crime ou de délit flagrant puni d’une peine d’emprisonnement, toute personne a qualité pour en appréhender l’auteur et le conduire devant l’OPJ le plus proche.
+    
+- **Autorisation implicite** : un chirurgien commet, dans l’absolu, le délit de coups et blessures volontaires, mais son acte est justifié.
+
+##### 2) Les sources de la norme justificative
+
+Article 122-4 précise empressement les sources du droit qui peuvent être le support d’un ordre ou
+d’une permission justificatif. La loi peut porter des autorisations des ordres mais aussi le règlement
+peut être justificatif.
+En toute rigueur le règlement justificatif ne devrai pouvoir excuser que des contraventions, et à
+l’inverse la loi justificative ne devrait permette de justifier que des crimes et des délits.
+L’art 73 du code de procédure pénale, quand on interpelle notre auteur de crime ou de délit flagrant
+on commet une violence, une blessure et une ITT de 3 jours en tte rigueur on devrait dire violence
+volontaire entrainant une ITT inférieure à 3j = contravention = pas de justification, peut importe la loi
+justificative peut justifier un crime, un délit, une contravention. Pareil pour un règlement justificatif.
+Mais au delà de ces sources, la loi et le règlement visé à l’art 122-4 on sait interrogé sur la force
+justificative de la coutume et aussi sur le consentement de la victime (car pas mis dans cet article)
+Pour la coutume il existe un principe => la coutume n’a pas d’effet justificatif (ex: coutume ancestrale
+africaine autour de l’excision
+
+2 exceptions :
+- La loi se fait avec l’art 521-1 du code pénal qui précise que les sévices graves et les actes de
+cruauté envers les animaux sont incriminés mais sous réserve des traditions locales ininterrompu
+(donc sous réserve de la coutume locale), donc on peut avoir des actes graves envers les animaux
+si tradition locales (ex: corrida, bataille coq)
+- Aussi la JP peut reconnaitre valeur justificative à la coutume.
+1er exemple historique « le droit de correction », corriger un enfant constitue un acte de
+violence volontaire MAIS ce droit a pu être reconnu par la coutume consacré par la JP, au
+bénéfice des parents titulaires de l’autorité parentale et aussi parfois aux enseignants. Même
+quand on admis cela en JP ce droit coutumier n’a jamais pu justifier tte les violences, il y avait
+3 critères : fallait vérifier que le droit de correction était exercer dans l’interêt de l’enfant
+(donc but éducatif), aussi il fallait que le droit s’exerce en respectant une certaine mesure (pas
+porter atteinte à sa santé), ce droit devait s’exercer avec la dignité de l’enfant.
+Jugement du tribunal de police de Bordeaux de 1981, en l’espèce un écolier souvent
+turbulent et refuse d’obéir à l’institutrice et se comporte de manière insolente, l’institutrice lui
+donne une claque, mais elle va être relaxé car on estime qu’il y a un but éducatif. Aussi la
+claque n’a pas été excessive.
+
+42 sur 53
+
+Violence non justifié => un homme gifle violemment l’enfant de sa concubine âgée de 6 ans
+et lui plonge la tête dans la cuvette et tire la chasse d’eau. (Cham crim 21 fev 1990)
+La loi du 10 juillet 2019 relative à l’interdiction des violences éducatives ordinaires à tout
+simplement interdit le droit de correction.
+2e exemple sportive : la boxe, le catch, le rugby on se tape dessus car violence volontaire,
+mais l’impunité n’est la que dans le cadre du jeu !!
+La question du consentement de la victime ? Est ce que ce consentement peut être justificatif ?
+C’est un argument parfois invoqué par les prévenus, MAIS le consentement de la victime ne permet
+pas de justifier un fait justificatif. Donc le fait que la victime ne porte pas plainte, le fait même qu’elle
+est consentie à l’infraction est pas principe indifférent.
+Ex : euthanasie.
+Comment expliquer que dans certains cas le consentement de la victime entraine la relax ou
+l’acquittement ?
+Le consentement de la victime n’est pas un fait justificatif, ne fait pas disparaître l’infraction car il n’y
+a pas infraction s’il y a consentement, (ex: viol, agression sexuelle dans la définition même faut que
+les actes soient imposé à la victime mais donc si la victime consent ≠ viol)
+3°) LA NATURE DE LA NORME JUSTIFICATIVE
+
+A priori seul un ordre ou une autorisation de la loi pénale peut justifier une infraction pénale, cette
+approche est erronée, elle laisse a penser que Le législateur est pluriel MAIS pas le cas, donc une
+norme même non pénale peut venir justifier une infraction pénale.
+Il ne faut pas raisonner en termes de normes pénales ou normes extra pénale; il faut raisonner en
+therme de norme générale et spécial.
+Avant la JP de la cham crim du 11 juin 1992 on considérait que le devoir conjugal prévu à l’art 215
+du code civil justifiait un vol entre époux
+
+B – LES CONDITIONS DE LA JUSTIFICATION PAR L’ART 122-4 DU CODE PÉNAL
+
+Il existe deux types d’ordre et de permission de la loi :
+—> l’ordre ou la permission de la loi directement exécutable
+—> l’ordre ou la permission dont l’exécution va être subordonné par Le législateur
+1- L’ORDRE OU LA PERMISSION DE LA LOI DIRECTEMENT EXÉCUTABLE
+
+Hypothèse de l’al 1 de l’art 122-4, dans ce cas s’agissant des conditions de la justification cet article
+ne dit rien, il faut aller voir la norme justificative elle même.
+Ex : Article 73 du code pénal, hypothèse d’un délit flagrant et on l’emmène devant l’officier le plus
+proche MAIS 4 conditions à la justification de l’infraction commise par l’agent, à savoir ; il faut
+l’existence d’une infraction flagrante (celle entrain de se commettre ou vient de se commettre) / crime
+ou délit passible d’emprisonnement / l’interpellation du délinquant est comme seul but la conduite de
+ce dernier devant un OPJ / conduite sans retard sans délai.
+DONC des que l’on quitte le cadre de ces conditions => poursuite pénale
+
+43 sur 53
+
+Certains auteurs sen demandent donc l’utilité de l’art 122 al 1 mise à part annoncer des textes
+ponctuelles de justification.
+En la matière des difficultés peuvent se présenter en cas de discordance entre l’acte accomplit et
+l’acte autorisé par la norme justificative.
+Si l’acte coïncide la justification joue.
+MAIS si la discordance est totale l’acte accomplie n’a rien a voir
+ET si la discordance est partielle, une partie des actes sera justifié et ce qui va au dela de ce qui était
+prescrit engagera la resp de l’auteur.
+Exigence fondamentale en matière de fait justificatif => comportement de l’agent doit etre
+proportionné
+La question s’est aussi posée pour l’ordre ou la permission de la loi putative (= ordre de la loi qui n’a
+existé que dans l’esprit de l’agent) on admet que l’agent puise se prévaloir d’un ordre de la loi putatif
+sil est de bonne foi et que sa croyance eronnée était légitime.
+Ex : l’erreur de fait, un policier neutralise un individu armé qui tentait de voler une voiture mais un
+autre individu s’approche mais le policier croit qu’il s’agit d’un complice lui aussi armé alors que non
+c’était un PNJ, le policier va le frapper et neutralisé le PNJ, la victime innocente porte plainte pour
+violence volontaire et les juges vont relaxer le prévenu
+2 – L’ORDRE DONT L’EXÉCUTION EST SUBORDONNÉE À UN COMMANDEMENT DE L’AUTORITÉ LÉGITIME
+La justification de l’infraction commisse va dépendre de deux séries de conditions :
+1°les condition générales posées à l122-‘ al 2
+2° les conditions particulières posées par la norme justificative applicable.
+L’art 122-4 al 2 pose deux conditions à la justification de l’infraction MAIS aussi une troisième qui
+n’est pas expressément prévu :
+—> l’origine du commandement, celui ci doit émaner d’une autorité légitime, donc d’une autorité
+publique, compétente et française (ex: hypothèse des ordres émanants du gvrt de Vichy) , donc
+l’autorité légitime = la résistance, de fait ça a empêcher le jeu de l’ordre de l’autorité légitime comme
+fait justificatif pour les membres de gvrt).
+Une autre ordonnance est intervenue ensuite pour précise que les gens qui avaient juste écouter
+vichy sans prendre aucune inquiétude.
+CF, affaire papon et principe posé que certains actes tel les crimes de l’humanité ne peuvent pas être
+justifié.
+—> la légalité du commandent, pour que la justification puisse il faut que ke commandement adressé
+à l’agent doit être conforme ce que prévoit l’ordre de la loi => légal.
+Que se passe t-il quand le commandement est illégal ?
+Article 122-4 al 2, le texte a une réponse nuancée, n’est pas pénalement resp la personne qui
+accomplit un acte commandé par la personne légitime sauf si cette acte est manifestement illégale, Le
+législateur a mis en place un système particulier, enfaite 3 positions étaient envisageables :
+1° le système de l’obéissance passive, ici la discipline l’emporte sur la légalité, donc le subordonné
+n’a pas à s’interroger sur la légalité du commandement qu’on lui donne, il a un devoir d’obéissance
+absolue, donc si en obéissant au commandement (qui est illégal) il commet une infraction celle ci
+sera justifié, MAIS cette première theorie est dangereuse car permet de justifier tte les exaltions
+2° la théorie dite des baillonettes intelligentes, ici le subordonné doit s’interroger sur la légalité des
+commandements qui lui sont adressés. Ici la légalité l’emporte sur la discipline. Le subordonné à la
+droit, le devoir de refuser d’exécuter un ordre illégal. MAIS au niveau de l’armée, la discipline doit
+emporté sur la légalité !
+
+44 sur 53
+
+3° la théorie intermédiaire qui permet d’éviter les excès des deux autres, le subordonné n’est
+pénalement resp donc le fait justificatif ne joue pas que si l’illégalité du commandement est
+manifeste. La théorie de l’illégalité manifeste consacrée à l’al 2 article 122-4.
+Un acte manifestement illégal = un fait laissé à l’appréciation des juges du fond, les juges doivent
+envisager la gravité intrasecte et extrinsecte.
+Quand l’acte qui réalise l’infraction est en lui même un acte inhumain, c’est forcement
+intrasectement rien ne peut justifié ça même si c’est demandé.
+l’acte extrinsecte,,hypothèse ou ont demande à notre subordonné de violer ces devoirs pro supp (ex:
+le maire demande à quelqu’un qui travaille avec lui de faire un reclassement de terrain)
+Quel va être le sort de l’auteur du commandement illégal ?
+Si le commandement donné est manifestement illégal l’infraction n’est pas justifié, donc son auteur
+est donc le subordonné qui a exécuté donc le supérieur hiérarchique peut être complice.
+Et si le commandement donné est illégal mais pas manifestement illégal ? Le supérieur hiérarchique
+ne peut pas entre inquiété au plan pénal, car si le subordonné bénéficie d’un fait justificatif pas de fait
+principal punissable donc pas de complicité punissable
+Enfin comme dernière condition de la justification de l’art 122-4 c’est nécessaire d’avoir une
+concordance entre l’acte commandé et l’acte accompli
+
+
+
+## F
+### Paragraphe 2 : La légitime défense
+**Plus célèbre cause d’irresponsabilité pénale, cause universelle, mais cause qui a mauvaise presse car elle a un relent de justice privée. Cette cause est admise de manière très exceptionnelle, presque illusoire.**
+
+La légitime défense permet l’impunité de l’agent qui commet une infraction pour repousser une agression menaçant lui-même, un tiers ou un bien. La riposte de l’agent constitue donc une infraction qu’on va tenter d’excuser.
+
+Notre droit français classe la légitime défense comme un **fait justificatif**, ce qui neutralise l’élément légal de l’infraction. MAIS l’agent qui est en état de légitime défense agit bien souvent « par réflexe », tout en conservant une part de liberté de choix. **(Il ne faut pas confondre légitime défense et contrainte.)**
+
+Dans la légitime défense, il y a un **choix** (≠ contrainte).  
+Le Code pénal français fait de la légitime défense un fait justificatif distinct des autres (ordre de la loi, état de nécessité). Celle-ci est cependant à relativiser, car la légitime défense n’est qu’un **cas particulier de permission de la loi**.
+
+On peut voir dans la légitime défense une **forme particulière d’état de nécessité** : face à un péril, je suis dans l’obligation de réagir.
+
+Le Code pénal mentionne la légitime défense dans deux articles : **articles 122-5 et 122-6**.
+
+- **Article 122-5 alinéa 1** → légitime défense des personnes
+    
+- **Article 122-5 alinéa 2** → légitime défense des biens
+    
+- **Article 122-6** → question de la preuve
+    
+
+**Article 122-5 al. 1 :**  
+« N’est pas pénalement responsable la personne qui, devant une atteinte injustifiée envers elle-même ou autrui, accomplit dans le même temps un acte commandé par la nécessité de la légitime défense d’elle-même ou d’autrui, sauf s’il y a disproportion entre les moyens de défense employés et la gravité de l’atteinte. »
+
+**Article 122-5 al. 2 :**  
+« N’est pas pénalement responsable la personne qui, pour interrompre l’exécution d’un crime ou d’un délit contre un bien, accomplit un acte de défense autre que l’homicide volontaire, quand cet acte est strictement nécessaire au but poursuivi, dès lors que les moyens employés sont proportionnés à la gravité de l’infraction. »
+
+**Article 122-6 :**  
+« Est présumé avoir agi en état de légitime défense celui qui accomplit l’acte :  
+1° Pour repousser, de nuit, l’entrée par effraction, violence ou ruse dans un lieu habité ;  
+2° Pour se défendre contre les auteurs de vol ou de pillage exécuté avec violence. »
+
+Ce texte permet, dans ces deux situations, de **présumer la légitime défense** de celui qui a riposté.  
+Dans toutes les autres hypothèses, **c’est à celui qui invoque la légitime défense de prouver les conditions**.
+
+L’arrêt de la chambre criminelle du **19 février 1959** pose la condition de la présomption de la légitime défense. La jurisprudence a affirmé le **caractère simple** de cette présomption, et cette décision a été reprise dans le Code pénal de 1994.
+
+Si la légitime défense est reconnue, il faut comprendre que la personne poursuivie passe de la qualité d’agresseur à celle de victime, et la victime de la riposte devient l’auteur initial.
+
+#### A) La légitime défense des personnes
+
+Alinéa 1 de l’article 122-5 du Code pénal :  
+Cet alinéa doit être lu à la lumière de la jurisprudence, qui précise les conditions **relatives à l’agression et à la riposte**.
+
+Le juge doit aussi apprécier ces conditions **au moment de l’action**, et **non après les faits**.
+
+---
+
+Voir le polycopié.
 
-
-### Paragraphe 3 – L’état de nécessité
-
-**Selon l’article 122-7 du Code pénal :**  
-« _N’est pas pénalement responsable la personne qui, face à un danger actuel ou imminent qui menace elle-même, autrui ou un bien, accomplit un acte nécessaire à la sauvegarde de la personne ou du bien, sauf s’il y a disproportion entre les moyens employés et la gravité de la menace._ »
-
-Ce texte est issu de la réforme du Code pénal de 1994. Il consacre une jurisprudence datant des années 1950, qui a fini par hisser l’état de nécessité au rang des faits justificatifs – en dehors de toute prévision légale (**==arrêt de principe : arrêt _Lesage_, 25 juin 1958==**).
-
-**→ L’origine du fait justificatif tiré de l’état de nécessité est donc jurisprudentielle.**
-
-**– L’agent agit en état de nécessité lorsqu’il se trouve, pour échapper à un péril, dans la nécessité de commettre un acte constitutif d’une infraction pénale ; l’infraction commise est justifiée si les conditions d’admission de l’état de nécessité sont réunies.**
-
-_Exemples dans lesquels l’état de nécessité est invoqué (pas forcément retenu) :_
-
-- Une mère de famille abandonnée et à bout de ressources vole un pain pour nourrir son bébé affamé ; elle commet un vol pour sauver la vie de son enfant.
-- L’un des membres d’une association caritative force la porte d’un logement inhabité pour y installer des sans-abri.
-
-**Quel est le fondement de l’état de nécessité ?** Il a varié dans le temps : il faut distinguer deux périodes.
-
-**==Avant l’arrêt _Lesage_ du 25 juin 1958==**, le fondement de l’état de nécessité était **subjectif**.
-
-Faute de texte, les juges mobilisaient d’autres fondements pour justifier l’impunité du prévenu ayant agi en état de nécessité (c’était une époque où le « culte de la loi » était très fort : les juges n’osaient pas faire œuvre créatrice en faisant de l’état de nécessité une cause autonome d’irresponsabilité pénale).
-
-Ainsi, l’état de nécessité a parfois été assimilé à la contrainte morale : les juges relaxaient le prévenu au motif qu’il n’avait eu aucune liberté de choix en raison des circonstances dans lesquelles il s’était trouvé.
-
-**Exemple célèbre : affaire _Ménard_**  
-Une mère de famille abandonnée, sans ressources, vole du pain dans une boulangerie pour sauver la vie de son bébé malade et sous-alimenté. Elle est poursuivie pour vol. Le **tribunal correctionnel de Château-Thierry**, en **mars 1898**, décide de la relaxer sur le fondement de la contrainte morale : la misère et la faim sont susceptibles d’enlever à l’être humain une partie de son libre arbitre. Le tribunal était présidé par le « bon juge Magnaud », resté célèbre pour ses jugements rendus en équité.
-
-Cette jurisprudence procède en réalité d’une véritable confusion :
-
-- En matière de **contrainte**, l’agent n’a **aucune liberté de choix** ; une force irrésistible le pousse à commettre l’infraction : la contrainte supprime la liberté de choix.
-
-- En matière **d’état de nécessité**, l’agent **conserve sa liberté de choix** : il est face à un péril et a le choix entre commettre l’infraction pour échapper au péril, ou ne pas la commettre et laisser le péril se réaliser. C’est à l’agent de faire le bon choix : il est exonéré si l’intérêt qu’il sacrifie en commettant l’infraction est **moins important** que celui que la commission de l’infraction permet de sauvegarder.
-
-
-Il y a donc un **conflit d’intérêts** :  
-– L’intérêt sacrifié par la commission de l’infraction (dans l’affaire _Ménard_, c’est l’intérêt du boulanger, c’est-à-dire la propriété d’autrui)  
-– L’intérêt menacé par le danger (la vie de l’enfant).
-
-C’est à l’agent de **peser les intérêts en présence** et d’en déduire s’il se trouve dans la nécessité ou non de commettre l’infraction. Dans l’affaire _Ménard_, la mère de famille a fait le bon choix.
-
-**Avec l’==arrêt _Lesage_ du 25 juin 1958==**, la Cour de cassation a fait de l’état de nécessité **une cause d’irresponsabilité autonome**, en ce qu’elle l’a visé sans référence à aucun autre texte.
-
-**Les faits de l’affaire _Lesage_ :**  
-Lesage conduit sa voiture lorsque la portière avant droite s’ouvre, ce qui fait basculer sa femme et son enfant. Pour les retenir et éviter de les écraser, il braque à gauche… mais entre en collision avec un autre automobiliste. Il est poursuivi pour coups et blessures par imprudence.
-
-La cour d’appel relaxe Lesage sur le fondement de l’état de nécessité. La Cour de cassation casse l’arrêt pour insuffisance de motifs ; selon elle, la cour d’appel **aurait dû vérifier trois choses avant de conclure à l’état de nécessité** :
-
-1. La manœuvre était-elle **nécessaire** ?
-2. La manœuvre a-t-elle permis d’éviter un **accident plus grave** ?
-3. Lesage n’a-t-il pas commis une **faute** en laissant sa femme et son enfant s’installer dans la voiture alors qu’il savait que la portière s’ouvrait facilement ?
-
-Cet arrêt n’a fait que consacrer une jurisprudence de certains juges du fond : jurisprudence apparue à l’occasion de l’hiver extrêmement rigoureux qui a sévi en France en 1955. Certains juges du fond s’étaient fondés, explicitement et exclusivement, sur l’état de nécessité pour relaxer des personnes ayant enfreint la loi pénale pour échapper aux rigueurs de l’hiver – soit en aménageant leur habitation sans attendre les autorisations administratives nécessaires, soit en occupant illégalement des logements inhabités (les **Compagnons d’Emmaüs** s’étaient fait connaître en menant des actions de relogement).
-
-**La Cour de cassation n’a donc fait que suivre le mouvement initié par les juges du fond.**
-
-À la suite de l’arrêt _Lesage_, les auteurs ont indiqué que le fondement de l’état de nécessité était désormais **objectif**, car l’infraction nécessaire constitue un acte socialement utile : en commettant l’infraction, l’agent a **sauvegardé l’ordre social** ; il a sacrifié une valeur **inférieure** à celle que la commission de l’infraction a permis de préserver.
-
-Le Code pénal de 1994 a confirmé cette analyse en reprenant les conditions posées par l’arrêt _Lesage_ à l’admission de l’état de nécessité. Ces conditions sont relatives au danger (1) et à la réaction (2).
-#### A) Les conditions de la justification relatives au danger :
-
-**Article 122-7 du Code pénal** – Le texte se contente de décrire les caractéristiques que **le danger** doit présenter pour justifier une réaction. Toutefois, il ne se prononce pas sur un certain nombre de questions relatives à la **réalité** du danger et à **son origine**.
-
-1) **LES CARACTÈRES DU DANGER :**
-
-Il doit s’agir, d’une part, d’un danger **physique**, **moral** ou **matériel**, et d’autre part, d’un danger **actuel** ou **imminent**.
-
-- **UN DANGER PHYSIQUE, MORAL OU MATÉRIEL** :  
-
-« _N’est pas pénalement responsable la personne qui, face à un danger [...] qui menace elle-même, autrui ou un bien [...]_ »
-
-→ On retrouve la même idée qu’en matière de légitime défense.
-
-Le législateur de 1994 reprend la jurisprudence antérieure : le danger peut menacer **les biens** (danger matériel – _ex. : nécessité de tuer un chien pour protéger un autre chien_) ou **les personnes** (l’agent lui-même ou autrui). Lorsqu’il menace les personnes, peu importe que le danger soit d’ordre physique ou moral.
-
-Le plus souvent, le danger est **physique** :  
-_Une mère de famille vole pour nourrir son enfant (affaire Ménard) ; un automobiliste braque brusquement pour éviter d’écraser les passagers tombés de son véhicule (affaire Lesage) ; un chauffeur de taxi commet des excès de vitesse pour conduire à l’hôpital une personne nécessitant des soins urgents._
-
-En 1997, une affaire a retenu l’attention des médias : une mère de famille célibataire, aux ressources modestes, vole à trois reprises dans trois supermarchés différents des denrées alimentaires (viande) pour offrir à ses deux enfants une alimentation plus variée que d’habitude (montant du vol : 2 000 F). Elle est poursuivie pour vol. Le tribunal correctionnel la relaxe sur le fondement de l’état de nécessité. La cour d’appel de Poitiers infirme le jugement : les difficultés financières alléguées sont jugées insuffisantes pour caractériser un danger réel menaçant les enfants. Contrairement à l’affaire Ménard, la santé des enfants n’était pas menacée (CA Poitiers, 11 avril 1997, affaire Grippon).
-
-Le danger peut aussi être **moral**.  
-Cette solution remonte à un arrêt de la CA de Colmar du 6 décembre 1957 : un père, en instance de divorce, souhaite récupérer sa fille qui vit avec sa mère. Celle-ci mène une vie de débauche et entraîne leur fille dans ce milieu. Le père force la porte du domicile (violation de domicile) pour soustraire sa fille à cette influence. L’état de nécessité a été retenu par la cour d’appel.
-
-- **UN DANGER ACTUEL OU IMMINENT** :  
-
-Ce caractère est expressément exigé par l’article 122-7 du Code pénal. On retrouve ici encore la même idée qu’en matière de légitime défense. Le danger futur et le danger passé sont en principe exclus du champ de la justification.
-
-Le danger doit être **actuel** ou **imminent** : il doit présenter une certaine soudaineté, ce qui justifie l’urgence de la réaction.  
-- Le danger **actuel**, c’est celui qui est présent, en train de se réaliser.  
-- Le danger **imminent** est celui dont la réalisation est certaine dans un avenir très proche.  
-- Le danger **futur** n’est donc pris en compte que s’il est imminent, et non hypothétique.
-
-_Ex. : à la suite d’un grave accident, un homme devient paraplégique. Il souffre de douleurs intenses, mais ne peut pas prendre les médicaments adaptés en raison d’un problème rénal. Le seul produit susceptible de prévenir et soulager ses souffrances est une tisane à base de cannabis (utilisée dans les services de soins palliatifs). Il décide donc de cultiver du cannabis. Il est poursuivi pour détention et consommation de stupéfiants, mais est relaxé sur le fondement de l’état de nécessité (CA Papeete, 27 juin 2002)._
-
-Dans cet exemple, le danger est **physique** (souffrance corporelle) : il est à la fois **actuel** (soulager une douleur présente) et **imminent** (prévenir un pic de douleur annoncé)._
-
-**2°)** **L****A RÉALITÉ DU DANGER** **:**
-
-Le danger doit être réel – exigence JP. Cela signifie 2 choses :
-
-- Il ne faut pas confondre péril et absence de commodité :
-
-_des squatters qui occupent des locaux ne bénéficient jamais de l’EN car les juges_
-
-_estiment que leur infraction ne fait que remédier à un défaut de commodité ;_
-
-_dans l’affaire Grippon, en volant les denrées alimentaires, la mère avait pour but_
-
-_d’offrir à ses enfants une alimentation plus variée que celle qu’elle leur donnait_
-
-_d’habitude ; il ne s’agissait donc que de remédier à un défaut de commodité ;_
-
-- Le danger putatif (celui qui n’existe que dans l’esprit de l’agent) ne semble pas être
-
-pris en compte par la JP.
-
-=> on a déjà vu qu’en matière de LD, l’agression putative est prise en compte mais à
-
-condition d’être au moins vraisemblable. **En matière d’EN, cette JP n’est pas**
-
-**transposable – c’est du moins l’opinion de la doctrine majoritaire.**
-
-
-3) **L’origine du danger :**
-
-En matière d’état de nécessité, **l’origine du danger n’est absolument pas indifférente.**
-
-- **Le danger résultant d’une faute antérieure :**
-
-_L’agent peut-il se prévaloir efficacement de l’état de nécessité lorsqu’il a lui-même contribué à créer, par sa faute personnelle, le danger dont il est menacé ?_
-
-Dans l’**==arrêt _Lesage_, la chambre criminelle==** a reproché aux juges du fond de ne pas avoir vérifié si Lesage n’avait pas commis une faute en laissant sa femme et son enfant s’installer dans la voiture sans avoir vérifié la fermeture de la portière. De cette solution, la doctrine a déduit qu’en cas de faute antérieure de la part de l’agent, l’état de nécessité n’est pas admis.
-
-Cependant, cette condition jurisprudentielle n’a pas été reprise par le législateur lorsqu’il a institué l’article 122-7 du Code pénal (le texte reprend toutes les conditions posées dans l’arrêt _Lesage_, sauf celle-ci).
-
-Au lendemain de la réforme, on s’est donc demandé si la jurisprudence allait ou non continuer à imposer cette condition d’absence de faute antérieure.
-
-L’absence d’une faute antérieure est une condition d’admission **de tous les faits justificatifs**. Il n’y a donc aucune raison pour qu’il en soit autrement en matière d’état de nécessité.
-
-_Que décident les juges ?_  
-La Cour de cassation semble passer outre la lettre de l’article 122-7 : on peut citer un **==arrêt du 22 septembre 1999==**, dans lequel la Cour rejette l’admission de l’état de nécessité après avoir relevé des fautes antérieures à la charge de l’agent.
-
-- **Le danger résultant d’une situation conforme à la loi :**
-
-**L’état de nécessité n’est jamais admis lorsque le danger résulte d’une situation conforme à la loi.**
-
-_Ex 1 :_ il y a quelques années, sévissaient les commandos anti-IVG ; des procès ont eu lieu mettant en cause des personnes ayant mené des actions destinées à empêcher le déroulement d’IVG. Ces personnes ont invoqué devant le juge l’état de nécessité (notamment) : leur action était, selon elles, nécessaire pour éviter la mort de fœtus. L’argument n’a jamais été retenu par les juges : l’intervention d’un médecin pratiquant une IVG est une intervention **conforme à la loi**.
-
-_Ex 2 :_ un groupe d’individus, aux convictions très fortes, pénètre par effraction dans une serre appartenant à un centre de recherche agronomique, dans laquelle était expérimentée — dans le respect de la loi — la culture de plusieurs milliers de plants de riz génétiquement modifiés. Les individus détruisent les plants. Ils sont poursuivis pour destruction du bien d’autrui en réunion et par effraction. Ils allèguent l’état de nécessité (l’infraction commise était, selon eux, nécessaire à la sauvegarde d’un environnement sain). L’argument n’a pas été retenu par les juges : l’activité en question est une **activité licite** (Crim., 19 nov. 2002).
-
-Dans ces deux exemples, les prévenus se sont mis en infraction avec la loi pénale pour contester ou résister à l’application d’une loi qu’ils estiment injuste. **Ils *confondent en réalité l’état de nécessité avec les valeurs morales*, religieuses ou politiques qui sont les leurs.**
-
-- **Le danger résultant d’une agression :**
-
-Lorsque le danger résulte d’une agression par un tiers, **l’agent agressé ne peut pas se prévaloir de l’état de nécessité** : il devra se placer sur le terrain de la **légitime défense** (_attention : conditions parfois différentes_).
-
-_Pourquoi cette solution ?_  
-Elle est commandée par la règle **« le spécial déroge au général »**. La notion générale, c’est l’état de nécessité (l’agent commet une infraction pour échapper à un péril, quel qu’il soit). La notion spéciale, c’est la légitime défense (l’agent commet une infraction pour échapper à un péril particulier : celui résultant d’une agression). Ainsi, en présence d’un péril résultant d’une agression, **ce sont les textes relatifs à la légitime défense (textes spéciaux) qui sont applicables.**
-
-Plus généralement, **on peut dire que la légitime défense n’est finalement qu’une forme particulière d’état de nécessité.** Dès lors, **on pourrait envisager la suppression de cette institution**, puisque l’état de nécessité est une notion générale qui englobe déjà l’hypothèse couverte par les textes relatifs à la légitime défense.
-#### B) Les conditions de la justification relatives à la réaction :
-
-**Article 122-7 du Code pénal :**  
-_« N’est pas pénalement responsable la personne qui, face à un danger actuel ou imminent qui menace elle-même, autrui ou un bien, accomplit un acte nécessaire à la sauvegarde de la personne ou du bien, sauf s’il y a disproportion entre les moyens employés et la gravité de la menace. »_
-
-Le texte confirme la jurisprudence **Lesage** en énonçant deux conditions, dont l’une est la conséquence de l’autre : la réaction, qui est constitutive d’une infraction pénale, doit être **nécessaire** et **mesurée** ; les moyens employés doivent être **proportionnés à la gravité de la menace**.
-
-1) **Condition 1 : La nécessité de la réaction**
-
-L’infraction commise doit avoir été le seul moyen pour échapper au péril.
-
-_Ex : L’affaire concerne un directeur des ASSEDIC confronté à un changement de législation entraînant un surcroît de travail, afin d'assurer le paiement dans les délais des indemnités chômage. Il décide de faire travailler ses employés le dimanche sans suivre la procédure habituelle (autorisation de l’inspecteur du travail). Poursuivi pour infraction à la règle sur le repos dominical, il se prévaut de l’état de nécessité. La cour d’appel le relaxe sur ce fondement. La Cour de cassation casse l’arrêt : la cour d’appel aurait dû vérifier si le directeur n’avait pas eu le temps d’obtenir les autorisations nécessaires. Autrement dit, elle aurait dû s’assurer que la réaction était bien nécessaire (==Crim., 12 janvier 1983==)._
-
-2) **Condition 2 : La proportionnalité entre les moyens employés et la gravité de la menace :**  
-
-Comme en matière de légitime défense, il s’agit ici de faire **un bilan coût/avantage**, en comparant la gravité du dommage produit par l’infraction à celle du dommage qui se serait réalisé si l’agent n’avait pas réagi.  
-
-- Les moyens employés sont jugés **proportionnés à la gravité de la menace** si le dommage causé est **moins grave** que celui évité.
-
-_Comment savoir lequel des deux dommages est le plus grave ?_  
-Il suffit de comparer les **intérêts en conflit** : quel intérêt est menacé ? Quel intérêt est sacrifié ?  
-
-Si l’intérêt sauvegardé a une valeur **supérieure** à l’intérêt sacrifié, alors il y a proportionnalité : l’acte commis est alors **socialement utile**.
-
-_Ex : dans l’affaire Ménard, étaient en conflit l’intérêt des enfants (leur survie) et celui du boulanger (sa propriété). Le premier est supérieur au second, car la vie a une valeur supérieure à la propriété._
-
-Les intérêts en conflit peuvent opposer **deux intérêts individuels** (ex. affaire _Ménard_) ou bien **un intérêt individuel et l’intérêt général**.
-
-- Dans le premier cas, il faut déterminer lequel des deux intérêts est supérieur, en recherchant les **valeurs protégées**.  
-- Dans le second cas, l’intérêt général est toujours **supérieur** aux intérêts individuels : une infraction qui sacrifierait l’intérêt général ne peut en principe être justifiée.
-
-_Ex : dans l’affaire Lesage, étaient en conflit un intérêt individuel (ne pas écraser son fils et sa femme) et l’intérêt général (la sécurité publique ; en l’espèce, Lesage a provoqué un accident ayant causé quatre blessés) : il y a disproportion._
-
-_Que décider lorsque les deux intérêts en conflit sont équivalents ?_  
-La question est controversée.
-
-- Pour certains, l’état de nécessité peut s’appliquer, car l’impunité de l’agent, sans être socialement **utile**, serait tout au moins **socialement indifférente**.  
-
-Cette solution est cependant choquante : elle revient à dire que provoquer la mort d’autrui est un acte indifférent parce que la vie de quelqu’un d’autre a pu être sauvegardée.
-
-- Selon d’autres auteurs, on ne peut pas détourner sur une autre personne un danger dont on est soi-même menacé (ou dont autrui est menacé).
-
-_Ex : une mère qui veut sauver la vie de son enfant n’est pas en droit de tuer le boulanger qui refuse de lui donner un pain gratuitement._

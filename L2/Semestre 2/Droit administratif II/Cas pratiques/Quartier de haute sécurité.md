@@ -2,28 +2,59 @@
 Le vote au Congrès est émaillé d’incidents graves : voitures brûlées, commerces saccagés. Pierre, un des activistes de l’association « nout’ voix, nout’ vote », est ainsi condamné à de la prison pour 6 mois. Suite à une altercation avec un autre détenu, le directeur de la prison décide de l’enfermer en quartier de plus haute sécurité. Pierre vous demande ce qu’il peut faire contre cette mesure. (3 points)
 ```
 
-Pierre, activiste de l’association « nout’ voix, nout’ vote », a été condamné à six mois de prison. Suite à une altercation avec un autre détenu, le directeur de la prison décide de l’enfermer en quartier de plus haute sécurité. Il s’interroge sur les recours possibles contre cette décision.
+### Faits
 
-#### **A. La qualification de la mesure prise par l’administration**
+Pierre, condamné à six mois d’emprisonnement pour des violences commises lors des troubles ayant entouré le vote du Congrès, est **incarcéré**. À la suite d’une altercation avec un codétenu, le **directeur de l’établissement pénitentiaire** le **place dans un quartier de plus haute sécurité** (isolement renforcé/maillage de sécurité).
 
-La décision du directeur de la prison d’affecter Pierre en quartier de plus haute sécurité constitue un acte administratif. Toutefois, toutes les décisions administratives ne sont pas susceptibles de recours. En droit administratif, on distingue notamment les **mesures d’ordre intérieur** (MOI), qui ne sont pas attaquables, et les **actes faisant grief**, qui affectent suffisamment la situation d’un individu pour être contestés devant le juge administratif.
+### Problématique
 
-Historiquement, le placement en quartier disciplinaire ou en quartier de plus haute sécurité était considéré comme une mesure d’ordre intérieur insusceptible de recours, comme l’a affirmé l’arrêt d’Assemblée _Caillol_ (1984). Cependant, la jurisprudence a évolué avec les arrêts _Hardouin_ et _Marie_ (1995), qui ont reconnu que certaines sanctions infligées aux détenus pouvaient être contestées lorsqu’elles portaient une atteinte substantielle à leurs droits et libertés fondamentales.
+La décision de placement dans ce quartier spécial est‑elle **susceptible d’un recours** ? Devant **quelle juridiction** et **par quelle voie** ?
 
-Le Conseil d'État a confirmé cette évolution avec l’arrêt _Boussouar_ (2007), qui distingue les mesures insusceptibles de recours des décisions affectant de manière significative la situation d’un détenu. Il a ainsi jugé que le **transfert d’un détenu en quartier d’isolement ou de plus haute sécurité peut être contesté s’il modifie substantiellement ses conditions de détention**.
+### Règles de droit applicables (Majeure)
 
-Dans le cas de Pierre, son affectation en quartier de plus haute sécurité peut restreindre ses conditions de vie en détention, notamment en matière de contacts avec d’autres détenus, d’accès aux activités ou de correspondance avec l’extérieur. Dès lors, cette décision ne peut pas être qualifiée de simple mesure d’ordre intérieur, mais doit être considérée comme un **acte administratif faisant grief**, susceptible de recours.
+1. **Mesures d’ordre intérieur (MOI) et contentieux pénitentiaire**
+    
+    - Les MOI n’étaient traditionnellement pas attaquables, mais le **Conseil d’État** a restreint cette immunité :
+        
+        - **CE, Ass., 17 févr. 1995, _Hardouin_ & _Marie_** : actes disciplinaires graves susceptibles de REP.
+            
+        - **CE, Ass., 14 déc. 2007, _Boussouar_, _Planchenault_, _Payet_** :  
+            Un acte modifiant **sensiblement** le régime de détention (isolement, quartier disciplinaire, mesures de sécurité à effets durables) **fait grief** ; il est donc **décisoire** et **susceptible d’un recours pour excès de pouvoir**.
+            
+2. **Juridiction compétente**
+    
+    - Les décisions relatives à la **gestion administrative des détenus** relèvent du **juge administratif** (TC, 27 nov. 1952, _Préfet de la Guyane_ ; CE, 2007 préc.).
+        
+3. **Voies de recours**
+    
+    - **Recours gracieux** possible (devant le directeur) mais non obligatoire.
+        
+    - **Recours pour excès de pouvoir (REP)** devant le **tribunal administratif** dans le **délai de 2 mois** (art. R. 421‑1 CJA).
+        
+    - **Référé‑suspension** (art. L. 521‑1 CJA) : urgence + moyen sérieux.
+        
+    - **Référé‑liberté** (art. L. 521‑2 CJA) : en cas d’atteinte grave et manifestement illégale à une liberté fondamentale (dignité, intégrité, droit au respect de la vie privée).
+        
 
-#### **B. Les voies de recours ouvertes à Pierre**
+### Application (Mineure)
 
-Pierre peut exercer un **recours gracieux** auprès du directeur de la prison, lui demandant de revenir sur sa décision. Il peut également former un **recours hiérarchique** auprès du ministre de la Justice. Toutefois, ces recours administratifs ne garantissent pas une annulation de la décision et n’empêchent pas l’introduction d’un contentieux.
+- La décision de placement en « quartier de plus haute sécurité » **modifie substantiellement** les conditions normales de détention : restriction des contacts, régime de visites, privation d’activités collectives.
+    
+- Conformément à l’arrêt **_Boussouar_**, il s’agit d’un **acte faisant grief**, non d’une simple MOI ; **elle est donc attaquable**.
+    
+- Le litige concernant le fonctionnement administratif de la prison relève du **juge administratif**.
+    
+- Pierre peut :
+    
+    1. **Former un recours gracieux** auprès du directeur ou un **recours hiérarchique** (direction interrégionale des services pénitentiaires).
+        
+    2. Introduire simultanément un **REP** devant le **tribunal administratif** territorialement compétent.
+        
+    3. Demander en urgence un **référé‑suspension** (urgence : isolement actuel ; moyen sérieux : absence de motivation suffisante, disproportion).
+        
+    4. Le cas échéant, saisir le **référé‑liberté** si les conditions de détention portent une atteinte grave et manifeste à une liberté fondamentale.
+        
 
-Il peut ensuite former un **recours pour excès de pouvoir (REP)** devant le tribunal administratif, en invoquant plusieurs arguments :
+### Conclusion
 
-1. **L’absence de motivation suffisante** : La décision doit être fondée sur des motifs précis et proportionnés à la situation du détenu, conformément aux principes généraux du droit administratif.
-2. **L’atteinte disproportionnée aux droits fondamentaux** : Si la mesure prise est excessive au regard des faits (altercation isolée), elle pourrait être annulée pour violation du principe de proportionnalité.
-3. **L’erreur manifeste d’appréciation** : Si la décision repose sur une appréciation erronée des faits ou si elle est manifestement disproportionnée, elle peut être annulée.
-
-Enfin, si cette affectation entraîne une atteinte grave et immédiate à ses droits, Pierre pourrait également saisir le juge des référés en demandant une **suspension de la mesure** sur le fondement de l’article L. 521-1 du Code de justice administrative, en justifiant de l’urgence et d’un doute sérieux sur la légalité de la décision.
-
-En conclusion, la décision du directeur de la prison étant un acte administratif faisant grief, Pierre peut exercer plusieurs recours, d’abord en interne, puis devant le tribunal administratif, afin de contester cette mesure qui affecte substantiellement ses conditions de détention.
+La mesure de placement de Pierre en quartier de haute sécurité constitue, au sens de la jurisprudence **_Boussouar/Planchenault/Payet_**, un **acte administratif individuel faisant grief** ; elle est **susceptible d’un recours pour excès de pouvoir** devant le **tribunal administratif**. Pierre dispose en outre des procédures d’urgence (référé‑suspension ou référé‑liberté) pour en obtenir la suspension ou l’annulation rapide.
