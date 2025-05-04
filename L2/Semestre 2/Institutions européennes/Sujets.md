@@ -1,16 +1,16 @@
 ### 2023-2024 S1
-- **1/ Les principes de coopération et d'intégration : quelles distinctions ?**
-- **2/ Les conditions d'adhésion à l'Union européenne et les pays candidats à l'adhésion**
-- **3/ La reconnaissance jurisprudentielle des droits fondamentaux de l'Union européenne**
+- 1/ Les principes de coopération et d'intégration : quelles distinctions ?
+- 2/ Les conditions d'adhésion à l'Union européenne et les pays candidats à l'adhésion
+- 3/ La reconnaissance jurisprudentielle des droits fondamentaux de l'Union européenne
 - 4/ Le Parlement européen : élection et pouvoirs législatifs
 ### 2023-2024 S2
-- *1/ Les premières organisations européennes de coopération pour la paix en Europe*
-- **2/ Le dispositif de retrait de l'article 50 TUE : procédure et effets**
-- **3/ La Charte des droits fondamentaux de l'Union européenne**
+- 1/ Les premières organisations européennes de coopération pour la paix en Europe
+- 2/ Le dispositif de retrait de l'article 50 TUE : procédure et effets
+- 3/ La Charte des droits fondamentaux de l'Union européenne
 - 4/ Le partage de la fonction législative par le triangle institutionnel de l'Union
 ### 2022-2023 S1
-- **1/ La garantie des droits fondamentaux par l'Union européenne**
-- **2/ L'adhésion à l'Union européenne : conditions et procédure**
+- 1/ La garantie des droits fondamentaux par l'Union européenne
+- 2/ L'adhésion à l'Union européenne : conditions et procédure
 - 3/ Conseil européen, Conseil de l'Union européenne et Conseil de l'Europe : quelles distinctions ?
 - 4/ Le Parlement européen : composition et pouvoirs de contrôle
 ### 2022-2023 S2
@@ -31,13 +31,13 @@
 - Quelles sont les compétences du Parlement européen ? (5 points)
 - Expliquez l’organisation du Conseil européen (5 points)
 ### 2020-2021 S1
-- **1/ Principe de coopération, principe d'intégration : quelles distinctions ?**
+- 1/ Principe de coopération, principe d'intégration : quelles distinctions ?
 - 2/ Conseil européen, Conseil de l'Union européenne, Conseil de l'Europe : quelles distinctions ?
 - 3/ La fonction d'initiative de la Commission européenne : contenu et limites
-- **4/ Le dispositif de retrait de l'article 50 TUE : procédure et effets**
+- 4/ Le dispositif de retrait de l'article 50 TUE : procédure et effets
 - 5/ La composition du Parlement européen et ses pouvoirs de contrôle
 ### 2020-2021 S2
-- **1/ Les conditions d'adhésion à l'Union européenne**
-- 2/ ***Le statut du citoyen européen***
+- 1/ Les conditions d'adhésion à l'Union européenne
+- 2/ Le statut du citoyen européen
 - 3/ La présidence et les attributions du Conseil de l'Union européenne
 - 4/ La fonction de contrôle de la Commission européenne
