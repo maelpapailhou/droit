@@ -1,0 +1,3 @@
+- Emmanuel DREYER, _Droit de la communication_, 2ᵉ édition, Lexis, 2022
+- Avan RASCHEL, _Droit de la presse_, Dalloz, 2025
+- Emmanuel DESIREUX, _Droit des médias_, LGDJ, 2023

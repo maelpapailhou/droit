@@ -1,0 +1,17 @@
+Le droit naturel est un ensemble de droits et de normes qui sont considérés comme inhérents à la nature humaine, indépendamment des lois écrites ou des règles établies par une société. Il s'agit des droits que chaque individu possède simplement parce qu'il est humain, et non en vertu d'une loi spécifique d'un État ou d'une société. Ces droits sont dits universels, inaltérables et fondamentaux, comme le droit à la vie, à la liberté, à la santé, ou à la propriété.
+
+Philosophiquement, le droit naturel désigne des normes supposées refléter la nature même de l'Homme et sa finalité dans le monde. Il s'oppose au droit positif, qui est le droit effectivement en vigueur, créé par des lois, décrets, réglements. Le droit naturel est considéré comme une règle de justice supérieure qui sert de base critique ou fondation au droit positif.
+
+Ainsi, le droit naturel dépasse les frontières, les cultures, les époques, et sert de référence idéale à ce que devrait être le droit, même s'il n'est pas toujours appliqué ni sanctionné concrètement.
+
+- **John Locke** : « Les êtres humains doivent respecter les droits des autres, y compris le droit à la vie, à la liberté et à la propriété. Les individus quittent l’état de nature et forment une société civile par un contrat social pour protéger leurs droits. »
+
+Cette citation résume la théorie du droit naturel et du contrat social de Locke. Selon lui, tous les êtres humains ont des droits inaliénables, comme le droit à la vie, à la liberté, et à la propriété, qui existent naturellement avant toute organisation sociale. Pour protéger ces droits, les individus quittent l’état de nature, où règne une certaine anarchie ou insécurité, et s’accordent volontairement pour former une société civile régie par des lois communes (contrat social). Ainsi, l’État a pour mission principale de garantir et protéger ces droits naturels fondamentaux.
+
+- **Aristote** : « La justice consiste à attribuer à chacun ce qui lui revient naturellement. »
+
+Cette phrase exprime la conception aristotélicienne de la justice comme respect de la nature propre des choses et des personnes. La justice, pour lui, consiste à donner à chacun ce qui lui revient en fonction de sa nature et de sa place dans la société—c’est donc une justice distributive fondée sur l’équité naturelle. Cela signifie qu’il faut respecter l’ordre naturel des choses, attribuer les biens, les rôles, ou les responsabilités conformément à ce qui est juste par nature.
+
+- **Spinoza** : « Les poissons sont déterminés, de par leur nature, à nager et les plus gros à manger les petits; en conséquence, les poissons sont maîtres de l’eau et les plus gros mangent les petits, en vertu d’un droit naturel souverain. »
+
+Cette citation illustre la vision réaliste et matérialiste de Spinoza sur la nature et le droit naturel. Il décrit que, dans la nature, les êtres agissent selon leurs propres forces et instincts : les poissons nagent car ils en sont naturellement capables, et les plus forts mangent les plus faibles. Ce « droit naturel souverain » est une sorte de loi du plus fort et un ordre naturel qui n’est pas soumis à une justice humaine ou morale, mais à la puissance et la cause naturelle. Ainsi, le droit naturel selon Spinoza est une expression brute de la puissance et de la survie dans la nature, sans notion de justice morale imposée.
