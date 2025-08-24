@@ -26,3 +26,13 @@
 - Possibilité d’évoquer le **droit naturel** (doctrine, auteurs).
 - Illustrer avec des **exemples de régimes historiques** correspondant aux conceptions évoquées.
 - L’important : **ressortir les données vues en cours**.
+
+
+examen : il faut mettre en perspective un systeme de protection des libertés ? estce que c satisfaiant? pk on est pas rester à la liberté des grèces antiquies ? 
+
+hans kelsen : "la démocratie, sa nature, sa valeur" va dégager le rpincipe de la relativité des valeurs et des connaisasnces (réf pour l'oral). (je sais que je ne sais rien de socrate)
+
+idee sujet s:
+- limitaiton du pouvoir
+- legiimtiaon du vpouoir
+- les 2
