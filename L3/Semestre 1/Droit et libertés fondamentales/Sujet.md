@@ -36,3 +36,13 @@ idee sujet s:
 - limitaiton du pouvoir
 - legiimtiaon du vpouoir
 - les 2
+
+examen : prendre article et dire voila les elements historqiues, en droit français, en droit comparer
+
+article 61-1 a examen, faut parler de ces differents rappots aux juges.
+
+
+attention : à l'oral toijors donner la date de la DDHC, car y'en a eu plusieurs. 1789.
+
+DC 1971 : liberté d'associaiton déclaration d'indepdence du conseil consittuitone (mettre attendu).
+

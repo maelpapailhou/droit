@@ -302,3 +302,4 @@ Derrière la théorie du contrat social, il y a **l’élaboration d’une théo
 Si l’on postule un **État de nature où l’on est tous libres**, pourquoi se donner un État ? C’est pour **éviter la guerre de tous contre tous** (_« L’homme est un loup pour l’homme »_, Hobbes).
 
 Le contrat social permet ainsi de **jouer un maximum de nos anciennes libertés** : on cherche un **pouvoir consenti**, qui **respecte certaines libertés**, et qui est **institué pour protéger ces libertés** que nous avons volontairement confiées.
+

@@ -139,6 +139,7 @@ C’est donc un **problème de qualification**. Si **théorie générale des con
 
 **Article 1193, sous-section 2 « effet translatif »** : mais que pour les contrats ayant un transfert de propriété, il y a un transfert de propriété qui est régi par ces articles-là.
 #### Paragraphe 2 : Les sources du droit des contrats spéciaux
+
 En droit interne, on a le Code civil, et à côté d’autres codes : le **Code de la consommation**, qui va s’appliquer mais pas à tous les contrats spéciaux. Aussi le **Code de commerce** : **L.442-1** sur la rupture des **relations commerciales établies**. Cet article a été introduit dans le Code de commerce pour sanctionner, dans les relations commerciales, la rupture brutale d’un courant d’échanges entre professionnels.  
 Exemple auquel le législateur avait songé : les **contrats de référencement des centrales d’achat**. Elles négocient, puis concluent chaque année une série de contrats d’approvisionnement. Le jour où la centrale d’achat veut imposer des conditions trop drastiques au producteur, on a créé ce texte pour sanctionner la rupture brutale des relations commerciales établies.
 
@@ -332,3 +333,118 @@ Ce qui **inquiète** c’est ce dernier point : si le foyer avait voulu récupé
 C’est une appréciation beaucoup plus mesurée.
 
 Mais depuis 2015 pas de suite en la matière.
+
+- **2ème source européenne : le droit de l’Union européenne**
+
+Bruxelles souhaite introduire en Europe un droit européen des contrats, et plus largement des obligations. **Sauf qu’elle n’en a pas la compétence.**
+
+Deux choses se sont passées :
+
+1. **La protection du consommateur**
+    
+    - L’Union européenne est compétente en matière de protection du consommateur et elle ne s’interdit pas d’exercer cette compétence.
+        
+    - Au début des années 2000, pas moins de **huit directives européennes** protégeaient le consommateur dans différents contrats.
+        
+    - Exemple : la directive de 1993 sur les **clauses abusives**, applicable aux relations entre professionnels et consommateurs.
+        
+    - Ces huit directives reposaient sur une **harmonisation minimale** : les États ne pouvaient pas descendre en dessous d’un certain niveau de protection, mais restaient libres d’aller plus loin.
+        
+    - Dans les années 2000, l’UE a voulu rassembler ces directives en **un seul corpus d’harmonisation maximale**.
+        
+        - L’idée : supprimer les disparités entre les États membres.
+            
+        - Conséquence : gommer les « surplus » de protection nationaux.
+            
+        - Dans les écrits européens, ce texte de protection du consommateur à l’occasion des contrats devait servir de **base à un futur code civil européen**.
+            
+    - Plusieurs États membres, dont la France, ont refusé d’abaisser le niveau de protection du consommateur.
+
+2. **Un projet de droit européen des contrats**
+    
+    - En 2010, la Commission européenne a lancé un **Livre vert** présentant sept options possibles pour la création d’un droit européen des contrats pour les consommateurs et les entreprises.
+        
+        - Les options allaient du moins contraignant (« on attend et on observe un éventuel rapprochement spontané des législations ») au plus contraignant (« création d’un code européen des contrats »).
+            
+    - Ce Livre vert a été soumis à consultation publique.
+        
+    - **Problème** : parallèlement, avant même la consultation, la Commission avait déjà nommé un groupe de travail chargé de réfléchir à l’option de « l’instrument optionnel » pour un droit européen des contrats.
+        
+        - Autrement dit, elle a fait semblant de laisser le choix entre 7 options, mais avait en réalité déjà tranché.
+
+**Le projet d’« instrument optionnel » (2011)**
+
+- Le choix de cet instrument optionnel a donné lieu à une **proposition de règlement de 2011** sur un droit commun des contrats.
+ 
+- Texte de plus de **180 articles** :
+    - 90 sur le droit commun des contrats,
+    - le reste sur la vente.
+
+- La technique juridique retenue était redoutable : introduire dans chaque État membre un **deuxième droit national des contrats**, d’origine européenne, auquel les contractants pouvaient se soumettre par une clause du contrat.
+    - En France, cela aurait signifié la coexistence entre **un droit national des contrats** et **un droit « européen » des contrats**, applicable par simple clause contractuelle.
+
+Le principe d’un **droit optionnel** n’est pas inintéressant : si l’on veut aller vers un droit européen des contrats, on peut envisager un corps de règles auquel les parties choisiraient de se soumettre volontairement.
+
+- Si ce système avait eu du succès, on aurait pu voir une généralisation progressive de ce droit européen.
+- La logique concurrentielle poussait dans ce sens, surtout avec l’essor du commerce en ligne.
+
+**Exemple concret : le commerce en ligne**
+- Les contrats conclus par Internet étaient au cœur du projet.
+- Exemple : un site vendeur situé en Europe aurait pu proposer à l’acheteur de soumettre le contrat au droit européen en cliquant sur un **« bouton bleu »**.
+- Normalement, les vendeurs doivent adapter leurs contrats aux droits nationaux des 27 États membres.
+- Avec cet instrument, il suffisait d’un **contrat unique européen**.
+- En pratique, les vendeurs auraient donc éliminé les droits nationaux pour ne garder qu’un seul modèle de contrat européen, ce qui était beaucoup plus simple.
+- La Commission aurait présenté cela comme un succès, en vantant la simplicité et l’efficacité.
+
+**Les critiques**
+
+- **Style** : un droit européen illisible, avec des articles extrêmement longs.
+- **Fond** :
+    - En **B2C (Business to Consumer)**, le texte abaissait le niveau de protection des consommateurs par rapport au droit existant.
+    - En **B2B (Business to Business)**, retour au Code civil de 1804 : liberté contractuelle totale, sans contrôle de l’imprévision ni des clauses abusives.
+    - Résultat : un **recul de la protection des contractants**.
+
+Finalement, le projet a été **abandonné en 2015**.
+
+**La nouvelle approche de la Commission (2015 – 2022)**
+
+- La Commission a abandonné l’idée du règlement optionnel et a proposé d’agir via **des directives classiques**, notamment sur le commerce numérique.
+- Objectif : protéger les consommateurs tout en harmonisant les règles.
+
+1. Déjà existait la **directive de 1999**, transposée en France en 2005, introduisant dans le Code de la consommation une **garantie de conformité** (spécifique aux ventes professionnelles avec consommateur).
+    - Cette garantie s’ajoutait à la **garantie des vices cachés** du Code civil, qui s’applique à toutes les ventes.
+
+2. En 2015–2016, deux projets de directives supplémentaires :
+    - une sur les ventes à distance,
+    - une sur les produits numériques (ex : logiciels).
+
+3. En 2019, l’UE a décidé d’abroger la directive de 1999 et de la remplacer par **deux nouvelles directives** :
+    - une directive générale sur la vente (présentiel + distanciel),
+    - une directive spécifique aux produits numériques.
+
+
+Ces deux directives de 2019 ont été transposées en 2021 et sont **entrées en vigueur le 1er janvier 2022**.  
+
+Elles figurent désormais dans le **Code de la consommation**.
+
+### Section 2 : Des contrats spéciaux
+
+Le droit des contrats spéciaux **n’a pas été réformé depuis 1804**. Le législateur français a engagé une réflexion sur une réforme du droit des contrats spéciaux, qui logiquement s’inscrit dans le prolongement de la réforme du droit des contrats.
+
+Un groupe de travail chargé de proposer une refonte du Code civil en matière de contrats spéciaux était composé de **huit universitaires, un avocat et un conseiller à la Cour de cassation**.
+
+Cette commission a travaillé **deux ans et demi**, au terme desquels elle a remis au garde des sceaux un avant-projet de réforme du droit des contrats spéciaux.
+
+# X
+
+Deux questions principales
+1. **La qualification du contrat (la plus importante)** :  
+    En droit français, on applique le régime correspondant à la qualification des faits. Lorsqu’un contrat pose un litige, il faut d’abord **qualifier le contrat**, c’est-à-dire le faire entrer dans une catégorie abstraite. C’est l’étape la plus complexe. Une fois la qualification posée, on déroule le régime applicable.
+
+2. **La classification des contrats (question moins importante)** :  
+    Il s’agit du jeu des familles, d’une recherche de cohérence entre les contrats spéciaux. Peut-on regrouper certains contrats dans une même famille ? Par exemple, **vente, location, mandat**.  
+    Si les contrats appartiennent à la même famille, on peut parfois transposer au contrat voisin un élément de régime. Dans le cas contraire, l’opération est plus délicate à effectuer.
+
+#### Paragraphe 1 : La qualification du contrat
+
+#### Paragraphe 2 : 
